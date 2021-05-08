@@ -10,7 +10,9 @@ const handler = async (req, res) => {
   if (!medList.includes(fileName)) {
     return
   }
-  const filePath = path.join(process.cwd(), 'public/xml/', `${fileName}.nxml`);
+  //const filePath = path.join(process.cwd(), 'public/xml/', `${fileName}.nxml`);
+
+  const filePath = path.join('public/xml/', `${fileName}.nxml`);
 
   fs.readFile(filePath, (err, data) => {
     if (err)
