@@ -6,7 +6,7 @@ const useMedSearch = (input) => {
 }
 
 const fetchMedData = async (input) => {
-    const res = await fetch(`/api/medSearch/?input=${input}`)
+    const res = await fetch(`api/medSearch/?input=${input}`)
     const data = await res.json()
     return data
 }

@@ -10,9 +10,12 @@ const handler = async (req, res) => {
   if (!medList.includes(fileName)) {
     return
   }
-  const filePath = path.join('https://liver-tox.com/xml/', `${fileName}.nxml`);
+  //const filePath = path.join('https://', 'liver-tox.com/xml/', `${fileName}.nxml`);
+  const filePath = `https://liver-tox.com/xml/${fileName}.nxml`;
 
-  //const filePath = path.join('/xml/', `${fileName}.nxml`);
+  //const filePath = `api/xml/${fileName}.nxml`
+
+  //const filePath = path.join('public/xml/', `${fileName}.nxml`)
 
   fs.readFile(filePath, (err, data) => {
     if (err)
