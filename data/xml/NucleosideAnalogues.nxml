@@ -1,0 +1,982 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="NucleosideAnalogues" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">NucleosideAnalogues</book-part-id>
+      <title-group>
+        <title>Nucleoside Analogues</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>1</day>
+          <month>5</month>
+          <year>2020</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Nortriptyline" document-type="chapter">Nortriptyline</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Nystatin" document-type="chapter">Nystatin</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="NucleosideAnalogues.OVERVIEW">
+        <title>OVERVIEW</title>
+        <p content-type="pubmed-excerpt">The nucleoside analogues are an important class of antiviral agents now commonly used in the therapy of human immunodeficiency virus (HIV) infection, hepatitis B virus (HBV), hepatitis C virus (HCV), cytomegalovirus (CMV), herpes simplex virus (HSV) and varicella-zoster (VZV) infection. The nucleoside analogues resemble naturally occurring nucleosides and act by causing termination of the nascent DNA chain. These agents are generally safe and well tolerated as they are used by the viral, but not human polymerases in DNA replication. Actually, nucleoside analogues are a large class of agents that include drugs for cancer (cytarabine, gemcitabine, mercaptopurine, azacytidine, cladribine, decitabine, fluorouracil, floxuridine, fludarabine, nelarabine), and rheumatologic diseases (azathioprine, allopurinol) and even bacterial infections (trimethoprim). This chapter will focus on the antiviral nucleoside and nucleotide analogues.</p>
+        <p content-type="pubmed-excerpt">The nucleoside analogues used to treat HIV infection are often referred to as reverse transcriptase inhibitors (NRTIs). However, they have activity against both DNA dependent and RNA dependent DNA polymerases. They are believed to inhibit viral replication by several mechanisms, either by competitive inhibition of the viral polymerase or by DNA chain termination. Many of the antiviral nucleoside analogues are blocked at the 3&#x02019; hydroxyl group of the deoxyribonucleic acid, which results in failure of elongation of the nascent DNA molecule. Other antiviral nucleoside analogues are negative enantiomers (L-forms: lamivudine, emtricitabine, telbivudine) of the natural (D-form) nucleosides and interfere with replication, partially because of steric hindrance when they are taken up by the viral polymerase or added to the DNA molecule. Nucleoside analogues that are phosphorylated at the 5&#x02019; site are often referred to as nucleotide analogues, but this distinction is artificial as these agents (tenofovir, adefovir) are also nucleoside analogues. These features of the structure of nucleoside analogues are important because of the danger that they might be used by human polymerases and incorporated into RNA or DNA, which is the basis of the serious toxicities of the nucleoside analogues.</p>
+        <p content-type="pubmed-excerpt">Nucleoside analogues can cause liver injury by several mechanisms. Most characteristic is a mitochondrial type of hepatic injury that is probably caused by the nucleoside analogue becoming incorporated into or blocking mitochondrial DNA synthesis by the mitochondrial gamma polymerase, leading to a depletion of mitochondria or decrease in their function. Mitochondrial injury can affect multiple tissues thereby causing myopathy, neuropathy, pancreatitis, bone marrow suppression and/or hepatic injury. The hepatic injury is characterized by accumulation of lactic acidosis, microvesicular steatosis and hepatic synthetic failure (LASH). Serum aminotransferase levels may be minimally elevated and jaundice arises late. The most dramatic example of hepatic mitochondrial injury occurred with the drug fialuridine (FIAU), a nucleoside analogue that was withdrawn after several fatalities due to hepatic failure, lactic acidosis and pancreatitis arising 2 to 3 months after initiation of therapy during phase 2 trials in humans. A similar, but rare and less dramatic and partially reversible hepatic mitochondrial injury has been linked to use of didanosine (dideoxyinosine: ddI), zalcitabine (dideoxycytine: ddC), stavudine (d4T) and less commonly to zidovudine (AZT).</p>
+        <p>Nucleoside analogues can also cause hepatic injury by other mechanisms, such as acute hypersensitivity and perhaps production of toxic intermediates (abacavir, allopurinol), but these forms of liver injury are idiosyncratic and uncommon. Finally, many nucleoside analogues have potent activity against HBV and can cause acute exacerbations of hepatitis B, either early during therapy or more commonly when therapy is suddenly terminated and viral levels rebound.</p>
+        <p>Thus, nucleoside analogues can cause a direct hepatotoxicity (mitochondrial dysfunction due to their interaction with host polymerase activity), idiosyncratic hepatotoxicity (usually hypersensitivity reaction as with abacavir) or indirect hepatotoxicity as with exacerbation of underlying liver disease (reactivation of hepatitis B after withdrawal of therapy).</p>
+        <p>The following drug records of antiviral nucleoside analogues are discussed individually. The major virus infections for which they are used are given in parentheses:</p>
+        <list list-type="bullet">
+          <list-item>
+            <p><related-object link-type="booklink" source-id="livertox" document-id="Abacavir" document-type="chapter">Abacavir</related-object> (HIV)</p>
+          </list-item>
+          <list-item>
+            <p><related-object link-type="booklink" source-id="livertox" document-id="Acyclovir" document-type="chapter">Acyclovir</related-object> (HSV, VZV)</p>
+          </list-item>
+          <list-item>
+            <p><related-object link-type="booklink" source-id="livertox" document-id="Adefovir" document-type="chapter">Adefovir</related-object> (HBV)</p>
+          </list-item>
+          <list-item>
+            <p><related-object link-type="booklink" source-id="livertox" document-id="Cidofovir" document-type="chapter">Cidofovir</related-object> (CMV)</p>
+          </list-item>
+          <list-item>
+            <p><related-object link-type="booklink" source-id="livertox" document-id="Didanosine" document-type="chapter">Didanosine</related-object> (HIV)</p>
+          </list-item>
+          <list-item>
+            <p><related-object link-type="booklink" source-id="livertox" document-id="Emtricitabine" document-type="chapter">Emtricitabine</related-object> (HIV, HBV)</p>
+          </list-item>
+          <list-item>
+            <p><related-object link-type="booklink" source-id="livertox" document-id="Entecavir" document-type="chapter">Entecavir</related-object> (HBV)</p>
+          </list-item>
+          <list-item>
+            <p><related-object link-type="booklink" source-id="livertox" document-id="Famciclovir" document-type="chapter">Famciclovir</related-object> (HSV, VZV)</p>
+          </list-item>
+          <list-item>
+            <p><related-object link-type="booklink" source-id="livertox" document-id="GanciclovirValganc" document-type="chapter">Ganciclovir/Valganciclovir</related-object> (CMV)</p>
+          </list-item>
+          <list-item>
+            <p><related-object link-type="booklink" source-id="livertox" document-id="Lamivudine" document-type="chapter">Lamivudine</related-object> (HBV)</p>
+          </list-item>
+          <list-item>
+            <p><related-object link-type="booklink" source-id="livertox" document-id="Remdesivir" document-type="chapter">Remdesivir</related-object> (COVID)</p>
+          </list-item>
+          <list-item>
+            <p><related-object link-type="booklink" source-id="livertox" document-id="Sofosbuvir" document-type="chapter">Sofosbuvir</related-object> (HCV)</p>
+          </list-item>
+          <list-item>
+            <p><related-object link-type="booklink" source-id="livertox" document-id="Stavudine" document-type="chapter">Stavudine</related-object> (HIV)</p>
+          </list-item>
+          <list-item>
+            <p><related-object link-type="booklink" source-id="livertox" document-id="Telbivudine" document-type="chapter">Telbivudine</related-object> (HBV)</p>
+          </list-item>
+          <list-item>
+            <p><related-object link-type="booklink" source-id="livertox" document-id="Tenofovir" document-type="chapter">Tenofovir</related-object> (HIV, HBV)</p>
+          </list-item>
+          <list-item>
+            <p><related-object link-type="booklink" source-id="livertox" document-id="Valacyclovir" document-type="chapter">Valacyclovir</related-object> (HSV,VZV)</p>
+          </list-item>
+          <list-item>
+            <p><related-object link-type="booklink" source-id="livertox" document-id="Zidovudine" document-type="chapter">Zidovudine</related-object> (HIV)</p>
+          </list-item>
+        </list>
+      </sec>
+      <sec id="NucleosideAnalogues.ANNOTATED_BIBLIOGRAP">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 01 May 2020</p>
+        <ref-list id="NucleosideAnalogues.ANNOTATED_BIBLIOGRAP.reflist0">
+          <ref id="NucleosideAnalogues.REF.brinkman.1998.1735">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Brinkman</surname>
+                  <given-names>K</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>ter Hofstede</surname>
+                  <given-names>HJ</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Burger</surname>
+                  <given-names>DM</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Smeitink</surname>
+                  <given-names>JAM</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Koopmans</surname>
+                  <given-names>PP</given-names>
+                </name>
+              </person-group>
+              <article-title>Adverse effects of reverse transcriptase inhibitors: mitochondrial toxicity as a common pathway.</article-title>
+              <source>AIDS</source>
+              <year>1998</year>
+              <volume>12</volume>
+              <fpage>1735</fpage>
+              <lpage>44</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Review of mitochondrial function and role of mitochondrial toxicity or depletion in the adverse side effects of antiretroviral nucleoside analogues).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">9792373</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="NucleosideAnalogues.REF.ogedegbe.2003.329">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Ogedegbe</surname>
+                  <given-names>AE</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Thomas</surname>
+                  <given-names>DL</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Diehl</surname>
+                  <given-names>AM</given-names>
+                </name>
+              </person-group>
+              <article-title>Hyperlactataemia syndromes associated with HIV therapy.</article-title>
+              <source>Lancet Infect Dis</source>
+              <year>2003</year>
+              <volume>3</volume>
+              <fpage>329</fpage>
+              <lpage>37</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Review of mechanisms of hyperlactatemia with antiretroviral therapy which occurs most commonly with use of the di-deoxynucleoside analogues, stavudine, didanosine and zidovudine, and is attributable to mitochondrial depletion, but other mechanisms may be involved).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">12781504</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="NucleosideAnalogues.REF.ofotokun.2003.55">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Ofotokun</surname>
+                  <given-names>I</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Pomeroy</surname>
+                  <given-names>C</given-names>
+                </name>
+              </person-group>
+              <article-title>Sex differences in adverse reactions to antiretroviral drugs.</article-title>
+              <source>Top HIV Med</source>
+              <year>2003</year>
+              <volume>11</volume>
+              <fpage>55</fpage>
+              <lpage>9</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Review of sex differences in adverse events from antiretroviral agents; mentions that there is higher frequency of mitochondrial toxicity and hypersensitivity reactions in women than men).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">12717043</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="NucleosideAnalogues.REF.ogedegbe.2003.475">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Ogedegbe</surname>
+                  <given-names>AO</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Sulkowski</surname>
+                  <given-names>MS</given-names>
+                </name>
+              </person-group>
+              <article-title>Antiretroviral-associated liver injury.</article-title>
+              <source>Clin Liver Dis</source>
+              <year>2003</year>
+              <volume>7</volume>
+              <fpage>475</fpage>
+              <lpage>99</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Review of hepatotoxicity of antiretrovirals; ALT elevations above 5 times ULN are reported in 7% of patients on zidovudine, 16% didanosine, 9-13% stavudine, &#x0003c;1% lamivudine, tenofovir and abacavir, 3-10% protease inhibitors, 10% nevirapine and 8% efavirenz; recommends monitoring at 4 weeks and then every 12 weeks, stopping if ALT levels are &#x0003e;10 times ULN or if symptoms of liver injury are present, monitoring more closely if ALT levels are elevated).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">12879995</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="NucleosideAnalogues.REF.te.2004.213">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Te</surname>
+                  <given-names>HS</given-names>
+                </name>
+              </person-group>
+              <article-title>Cholestasis in HIV-infected patients.</article-title>
+              <source>Clin Liver Dis</source>
+              <year>2004</year>
+              <volume>8</volume>
+              <fpage>213</fpage>
+              <lpage>28</lpage>
+              <comment>viii-ix.</comment>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Review of causes of cholestasis in HIV infected patients including antiretrovirals).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">15062202</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="NucleosideAnalogues.REF.hofman.2006.3121">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Hofman</surname>
+                  <given-names>P</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Nelson</surname>
+                  <given-names>AM</given-names>
+                </name>
+              </person-group>
+              <article-title>The pathology induced by highly active antiretroviral therapy against human immunodeficiency virus: an update.</article-title>
+              <source>Curr Med Chem</source>
+              <year>2006</year>
+              <volume>13</volume>
+              <fpage>3121</fpage>
+              <lpage>32</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Review of pathology of adverse effects of antiretroviral agents with examples of mitochondrial liver injury and cholestasis).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">17168701</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="NucleosideAnalogues.REF.n__ez.2006.s132">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>N&#x000fa;&#x000f1;ez</surname>
+                  <given-names>M.</given-names>
+                </name>
+              </person-group>
+              <article-title>Hepatotoxicity of antiretrovirals: incidence, mechanisms and management.</article-title>
+              <source>J Hepatol</source>
+              <year>2006</year>
+              <volume>44</volume>
+              <issue>1</issue>
+              <supplement>Suppl</supplement>
+              <fpage>S132</fpage>
+              <lpage>9</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Review of hepatotoxicity of antiretrovirals; elevations in ALT or AST above 5 times ULN occur in 2-18% of HIV positive patients starting therapy, more frequently with HCV or HBV coinfection; combination of protease inhibitors with low dose ritonavir does not seem to increase risk; agents with highest risk are nevirapine and the nonnucleoside reverse transcriptase inhibitors).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">16364487</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="NucleosideAnalogues.REF.bj_rnsson.2006.33">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Bj&#x000f6;rnsson</surname>
+                  <given-names>E</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Olsson</surname>
+                  <given-names>R</given-names>
+                </name>
+              </person-group>
+              <article-title>Suspected drug-induced liver fatalities reported to the WHO database.</article-title>
+              <source>Dig Liver Dis</source>
+              <year>2006</year>
+              <volume>38</volume>
+              <fpage>33</fpage>
+              <lpage>8</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(In WHO database of fatal adverse drug reactions from 1968-2003, 4690 reports of drug induced liver fatality; stavudine was 4th most commonly implicated agent [~120 cases]).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">16054882</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="NucleosideAnalogues.REF.labarga.2007.670">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Labarga</surname>
+                  <given-names>P</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Soriano</surname>
+                  <given-names>V</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Vispo</surname>
+                  <given-names>ME</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Pinilla</surname>
+                  <given-names>J</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Martin-Carbonero</surname>
+                  <given-names>L</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Castellares</surname>
+                  <given-names>C</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Casado</surname>
+                  <given-names>R</given-names>
+                </name>
+                <etal/>
+              </person-group>
+              <article-title>Hepatotoxicity of antiretroviral drugs is reduced after successful treatment of chronic hepatitis C in HIV-infected patients.</article-title>
+              <source>J Infect Dis</source>
+              <year>2007</year>
+              <volume>196</volume>
+              <fpage>670</fpage>
+              <lpage>6</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Among 133 patients with HIV-HCV coinfection who were treated with interferon or peginterferon, 33% had a sustained response and subsequent yearly rate of hepatic events was higher among nonresponders [12.9%] than responders [3.1%]; also more common with receipt of di-deoxynucleosides).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">17674307</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="NucleosideAnalogues.REF.esser.2007.745">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Esser</surname>
+                  <given-names>S</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Helbig</surname>
+                  <given-names>D</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Hillen</surname>
+                  <given-names>U</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Dissemond</surname>
+                  <given-names>J</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Grabbe</surname>
+                  <given-names>S.</given-names>
+                </name>
+              </person-group>
+              <article-title>Side effects of HIV therapy.</article-title>
+              <source>J Dtsch Dermatol Ges</source>
+              <year>2007</year>
+              <volume>5</volume>
+              <fpage>745</fpage>
+              <lpage>54</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Review of side effects of antiretroviral agents focusing on immune reconstitution syndrome, lipodystrophy, cutaneous skin reactions, hypersensitivity reactions [abacavir, nevirapine], hyperbilirubinemia [indinavir, atazanavir], local reactions [enfuvirtide] and hyperpigmentation [zidovudine, emtricitabine]).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">17760894</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="NucleosideAnalogues.REF.gil.2007.205">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Gil</surname>
+                  <given-names>ACM</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Lorenzetti</surname>
+                  <given-names>R</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Mendes</surname>
+                  <given-names>GB</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Marcillo</surname>
+                  <given-names>AM</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Toro</surname>
+                  <given-names>AADC</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>da Silva</surname>
+                  <given-names>MTN</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>dos Santos Vilela</surname>
+                  <given-names>MM</given-names>
+                </name>
+              </person-group>
+              <article-title>Hepatotoxicity in HIV-infected children and adolescents on antiretroviral therapy.</article-title>
+              <source>Sao Paulo Med J</source>
+              <year>2007</year>
+              <volume>125</volume>
+              <fpage>205</fpage>
+              <lpage>9</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Retrospective analysis in 152 children [ages 1 to 18 years] with HIV infection on antiretroviral therapy; only 14 [10%] had ALT elevations and all were less than 5 times ULN and 4 were also on antituberculosis therapy; rarely used nonnucleoside reverse transcriptase inhibitors).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">17992389</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="NucleosideAnalogues.REF.jain.2007.615">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Jain</surname>
+                  <given-names>MK</given-names>
+                </name>
+              </person-group>
+              <article-title>Drug-induced liver injury associated with HIV medications.</article-title>
+              <source>Clin Liver Dis</source>
+              <year>2007</year>
+              <volume>11</volume>
+              <fpage>615</fpage>
+              <lpage>39</lpage>
+              <comment>vii-viii.</comment>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Review of hepatotoxicity of antiretrovirals; ALT elevations occur in 2-18% of patients, but often resolve spontaneously even without dose modification; classes of injury include hypersensitivity [nevirapine, efavirenz, abacavir], mitochondrial injury [stavudine, didanosine, zidovudine], flares of hepatitis B [lamivudine, emtricitabine, tenofovir], flares of hepatitis C [any potent regimen], idiosyncratic injury [ritonavir, nevirapine, efavirenz], and cholestatic hepatitis [many agents]).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">17723923</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="NucleosideAnalogues.REF.hammer.2008.555">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Hammer</surname>
+                  <given-names>SM</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Eron</surname>
+                  <given-names>JJ</given-names>
+                  <suffix>Jr</suffix>
+                </name>
+                <name name-style="western">
+                  <surname>Reiss</surname>
+                  <given-names>P</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Schooley</surname>
+                  <given-names>RT</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Thompson</surname>
+                  <given-names>MA</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Walmsley</surname>
+                  <given-names>S</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Cahn</surname>
+                  <given-names>P</given-names>
+                </name>
+                <etal/>
+                <collab>International AIDS Society-USA</collab>
+              </person-group>
+              <article-title>Antiretroviral treatment of adult HIV infection: 2008 recommendations of the International AIDS Society-USA panel.</article-title>
+              <source>JAMA</source>
+              <year>2008</year>
+              <volume>300</volume>
+              <fpage>555</fpage>
+              <lpage>70</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Recommendations on use of antiviral therapy in adults with HIV infection, including use of recently approved agents raltegravir, maraviroc and etravirine).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">18677028</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="NucleosideAnalogues.REF.inductivoyu.2008.4">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Inductivo-Yu</surname>
+                  <given-names>I</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Bonacini</surname>
+                  <given-names>M</given-names>
+                </name>
+              </person-group>
+              <article-title>Highly active antiretroviral therapy-induced liver injury.</article-title>
+              <source>Current Drug Safety</source>
+              <year>2008</year>
+              <volume>3</volume>
+              <fpage>4</fpage>
+              <lpage>13</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Review of drug induced liver injury due to antiretroviral agents).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">18690975</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="NucleosideAnalogues.REF.soriano.2008.1">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Soriano</surname>
+                  <given-names>V</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Puoti</surname>
+                  <given-names>M</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Garcia-Gasc&#x000f3; Rockstroh</surname>
+                  <given-names>JK</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Benhamou</surname>
+                  <given-names>Y</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Barreiro</surname>
+                  <given-names>P</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>McGovern</surname>
+                  <given-names>B</given-names>
+                </name>
+              </person-group>
+              <article-title>Antiretroviral drugs and liver injury.</article-title>
+              <source>AIDS</source>
+              <year>2008</year>
+              <volume>22</volume>
+              <fpage>1</fpage>
+              <lpage>13</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Review of hepatotoxicity of antiretroviral drugs with recommendations on management, stopping therapy if symptoms arise, with overt jaundice [direct bilirubin], evidence of mitochondrial toxicity, ALT &#x0003e;10 times ULN, ALT at lower levels if newly marketed agent; important to rule out other causes; problematic agents include didanosine, stavudine and zidovudine, nevirapine and efavirenz, full dose ritonavir and tipranavir).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">18090386</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="NucleosideAnalogues.REF.ortu.2010.81">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Ortu</surname>
+                  <given-names>F</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Weimer</surname>
+                  <given-names>LE</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Floridia</surname>
+                  <given-names>M</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Manconi</surname>
+                  <given-names>PE</given-names>
+                </name>
+              </person-group>
+              <article-title>Raltegravir, tenofovir, and emtricitabine in an HIV-infected patient with HCV chronic hepatitis, NNRTI intolerance and protease inhibitors-induced severe liver toxicity.</article-title>
+              <source>Eur J Med Res</source>
+              <year>2010</year>
+              <volume>15</volume>
+              <fpage>81</fpage>
+              <lpage>3</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(The authors describe an HCV-HIV coinfected woman with hepatotoxicity thought due to indinavir, saquinavir, fosamprenavir, and darunavir. An integrase-inhibitor regimen based on raltegravir, tenofovir, and emtricitabine was given without toxic effects).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">20452889</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="NucleosideAnalogues.REF.jena.2009.318">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Jena</surname>
+                  <given-names>A</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Sachdeva</surname>
+                  <given-names>RK</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Sharma</surname>
+                  <given-names>A</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Wanchu</surname>
+                  <given-names>A</given-names>
+                </name>
+              </person-group>
+              <article-title>Adverse drug reactions to nonnucleoside reverse transcriptase inhibitor-based antiretroviral regimen: a 24-week prospective study.</article-title>
+              <source>J Int Assoc Physicians AIDS Care (Chic)</source>
+              <year>2009</year>
+              <volume>8</volume>
+              <fpage>318</fpage>
+              <lpage>22</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Six month prospective observational study of 100 patients treated with nevirapine or efavirenz with lamivudine and zidovudine/stavudine; 2.8% treated with nevirapine developed severe hepatotoxicity).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">19721097</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="NucleosideAnalogues.REF.chalasani.2008.1924">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Chalasani</surname>
+                  <given-names>N</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Fontana</surname>
+                  <given-names>RJ</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Bonkovsky</surname>
+                  <given-names>HL</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Watkins</surname>
+                  <given-names>PB</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Davern</surname>
+                  <given-names>T</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Serrano</surname>
+                  <given-names>J</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Yang</surname>
+                  <given-names>H</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Rochon</surname>
+                  <given-names>J</given-names>
+                </name>
+                <collab>Drug Induced Liver Injury Network (DILIN)</collab>
+              </person-group>
+              <article-title>Causes, clinical features, and outcomes from a prospective study of drug-induced liver injury in the United States.</article-title>
+              <source>Gastroenterology</source>
+              <year>2008</year>
+              <volume>135</volume>
+              <fpage>1924</fpage>
+              <lpage>34</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Among 300 cases of drug induced liver disease in the US collected from 2004 to 2008, 2 cases were attributed to nevirapine, 2 to nelfinavir, 2 to lopinavir, and 1 to efavirenz, but many patients had HCV or HBV coinfection or were taking other potentially hepatotoxic agents).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">18955056</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="NucleosideAnalogues.REF.ferrajolo.2010.721">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Ferrajolo</surname>
+                  <given-names>C</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Capuano</surname>
+                  <given-names>A</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Verhamme</surname>
+                  <given-names>KM</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Schuemie</surname>
+                  <given-names>M</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Rossi</surname>
+                  <given-names>F</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Stricker</surname>
+                  <given-names>BH</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Sturkenboom</surname>
+                  <given-names>MC</given-names>
+                </name>
+              </person-group>
+              <article-title>Drug-induced hepatic injury in children: a case/non-case study of suspected adverse drug reactions in VigiBase.</article-title>
+              <source>Br J Clin Pharmacol</source>
+              <year>2010</year>
+              <volume>70</volume>
+              <fpage>721</fpage>
+              <lpage>8</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Worldwide pharmacovigilance database contains 9036 hepatic adverse drug reactions in children, zidovudine accounting for 106 cases [ranking 8th], lamivudine 45 cases [26th], and nevirapine 37 cases [36th]).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">21039766</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="NucleosideAnalogues.REF.reuben.2010.2065">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Reuben</surname>
+                  <given-names>A</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Koch</surname>
+                  <given-names>DG</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Lee</surname>
+                  <given-names>WM</given-names>
+                </name>
+                <collab>Acute Liver Failure Study Group</collab>
+              </person-group>
+              <article-title>Drug-induced acute liver failure: results of a U.S. multicenter, prospective study.</article-title>
+              <source>Hepatology</source>
+              <year>2010</year>
+              <volume>52</volume>
+              <fpage>2065</fpage>
+              <lpage>76</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Among 1198 patients with acute liver failure enrolled in a US prospective study between 1998 and 2007, 133 were attributed to drug induced liver injury, 4 of which were linked to antiretrovirals: 3 to stavudine [with didanosine or nelfinavir] and 1 to abacavir).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">20949552</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="NucleosideAnalogues.REF21">
+            <element-citation publication-type="journal">
+              <article-title>A combination of ledipasvir and&#x000a0;sofosbuvir&#x000a0;(Harvoni) for hepatitis C.</article-title>
+              <source>Med Lett Drugs Ther</source>
+              <year>2014</year>
+              <volume>56</volume>
+              <fpage>111</fpage>
+              <lpage>2</lpage>
+              <annotation>
+                <p><italic toggle="yes">(Concise summary of the pharmacology, clinical efficacy, safety and costs of the fixed combination of ledipasvir and</italic>&#x000a0;<italic toggle="yes">sofosbuvir</italic>&#x000a0;<italic toggle="yes">in chronic hepatitis C, genotype 1; adverse events include headache, fatigue, nausea, diarrhea and insomnia, but there was no comparison to placebo therapy and the relationship of these nonspecific symptoms to the drugs is unclear).</italic></p>
+              </annotation>
+              <pub-id pub-id-type="pmid">25372848</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="NucleosideAnalogues.REF.hern_ndez.2014.231">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Hern&#x000e1;ndez</surname>
+                  <given-names>N</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Bessone</surname>
+                  <given-names>F</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>S&#x000e1;nchez</surname>
+                  <given-names>A</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>di Pace</surname>
+                  <given-names>M</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Brahm</surname>
+                  <given-names>J</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Zapata</surname>
+                  <given-names>R, A</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Chirino</surname>
+                  <given-names>R</given-names>
+                </name>
+                <etal/>
+              </person-group>
+              <article-title>Profile of idiosyncratic drug induced liver injury in Latin America: an analysis of published reports.</article-title>
+              <source>Ann Hepatol</source>
+              <year>2014</year>
+              <volume>13</volume>
+              <fpage>231</fpage>
+              <lpage>9</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Among 176 reports of drug induced liver injury from Latin America published between 1996 and 2012, none were attributed to antiviral agents).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">24552865</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="NucleosideAnalogues.REF.chalasani.2015.1340">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Chalasani</surname>
+                  <given-names>N</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Bonkovsky</surname>
+                  <given-names>HL</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Fontana</surname>
+                  <given-names>R</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Lee</surname>
+                  <given-names>W</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Stolz</surname>
+                  <given-names>A</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Talwalkar</surname>
+                  <given-names>J</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Reddy</surname>
+                  <given-names>KR</given-names>
+                </name>
+                <etal/>
+                <collab>United States Drug Induced Liver Injury Network</collab>
+              </person-group>
+              <article-title>Features and outcomes of 899 patients with drug-induced liver injury: The DILIN Prospective Study.</article-title>
+              <source>Gastroenterology</source>
+              <year>2015</year>
+              <volume>148</volume>
+              <fpage>1340</fpage>
+              <lpage>52.e7</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Among 899 cases of drug induced liver injury enrolled in a US prospective study between 2004 and 2013, 12 (1.3%] of which were attributed to antiviral agents, but only 2 were nucleoside analogues [didanosine and zidovudine]).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">25754159</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="NucleosideAnalogues.REF.feld.2015.2599">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Feld</surname>
+                  <given-names>JJ</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Jacobson</surname>
+                  <given-names>IM</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Hezode</surname>
+                  <given-names>C</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Asselah</surname>
+                  <given-names>T</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Ruane</surname>
+                  <given-names>PJ</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Gruener</surname>
+                  <given-names>N</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Abergel</surname>
+                  <given-names>A</given-names>
+                </name>
+                <etal/>
+              </person-group>
+              <article-title>Sofosbuvir&#x000a0;and velpatasvir for HCV genotype 1, 2, 4, 5, and 6 infection.</article-title>
+              <source>N Engl J Med</source>
+              <year>2015</year>
+              <volume>373</volume>
+              <fpage>2599</fpage>
+              <lpage>607</lpage>
+              <annotation>
+                <p><italic toggle="yes">(Among 741 patients with chronic hepatitis C, genotype 1, 2, 4, 5, or 6, who were treated with a placebo [n=91] vs a single tablet, fixed combination of</italic>&#x000a0;<italic toggle="yes">sofosbuvir</italic>&#x000a0;<italic toggle="yes">and velpatasvir [n=624] once daily for 12 weeks, sustained virological response rates were 0% vs 99% and serious adverse events occurred in none vs 2% on antiviral therapy, but no patient had a liver related serious adverse event or death).</italic></p>
+              </annotation>
+              <pub-id pub-id-type="pmid">26571066</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="NucleosideAnalogues.REF25">
+            <mixed-citation publication-type="web">
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.aasld.org/sites/default/files/2019-06/HBVGuidance_Terrault_et_al-2018-Hepatology.pdf">https://www.aasld.org/sites/default/files/2019-06/HBVGuidance_Terrault_et_al-2018-Hepatology.pdf</ext-link>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Guidelines on the therapy of chronic hepatitis B from the American Association for the Study of Liver Disease).</italic>
+                </p>
+              </annotation>
+            </mixed-citation>
+          </ref>
+          <ref id="NucleosideAnalogues.REF26">
+            <mixed-citation publication-type="web">
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://aasldpubs.onlinelibrary.wiley.com/doi/pdf/10.1002/hep.31060">https://aasldpubs.onlinelibrary.wiley.com/doi/pdf/10.1002/hep.31060#</ext-link>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Guidelines on the therapy of chronic hepatitis C from the American Association for the Study of Liver Disease).</italic>
+                </p>
+              </annotation>
+            </mixed-citation>
+          </ref>
+          <ref id="NucleosideAnalogues.REF27">
+            <mixed-citation publication-type="web">
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://aidsinfo.nih.gov/guidelines/">http://aidsinfo.nih.gov/guidelines/</ext-link>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Regularly updated guidelines for the use of antiretroviral agents in HIV-1 infected adults, adolescents and children from the National Institutes of Health).</italic>
+                </p>
+              </annotation>
+            </mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

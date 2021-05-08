@@ -1,0 +1,491 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="abbreviation" content-type="appendix" from-where="back" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-app book-part-type="appendix">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">abbreviation</book-part-id>
+      <title-group>
+        <title>Abbreviations Used In LiverTox</title>
+      </title-group>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="alert" document-type="appendix">Meetings and News</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="glossary" document-type="glossary">Glossary</related-object>
+    </book-part-meta>
+    <body>
+      <p>The LiverTox website is written to provide comprehensive and clear information on the hepatotoxicity of medications, herbals and nutritional supplements. Abbreviations are used in the text but kept at a minimum and limited largely to those that are common in clinical practice. The following abbreviations may be encountered in LiverTox, although abbreviations will generally be introduced before use in the text. Abbreviations that are not introduced before use include: (1) routes of medication administration [e.g., intravenous, or iv] and units of measure [e.g., gram, or g], which are indicated with an asterisk below; and, (2) selected abbreviations within reference annotations.</p>
+      <def-list>
+        <def-item id="abbreviation.aids">
+          <term>
+            <bold>AIDS</bold>
+          </term>
+          <def>
+            <p>acquired immunodeficiency syndrome</p>
+          </def>
+        </def-item>
+        <def-item id="abbreviation.alk-p">
+          <term>
+            <bold>Alk P</bold>
+          </term>
+          <def>
+            <p>alkaline phosphatase</p>
+          </def>
+        </def-item>
+        <def-item id="abbreviation.alt">
+          <term>
+            <bold>ALT</bold>
+          </term>
+          <def>
+            <p>alanine aminotransferase</p>
+          </def>
+        </def-item>
+        <def-item id="abbreviation.antihav">
+          <term>
+            <bold>Anti-HAV</bold>
+          </term>
+          <def>
+            <p>antibody to hepatitis A virus</p>
+          </def>
+        </def-item>
+        <def-item id="abbreviation.antihbc">
+          <term>
+            <bold>Anti-HBc</bold>
+          </term>
+          <def>
+            <p>antibody to hepatitis B core antigen</p>
+          </def>
+        </def-item>
+        <def-item id="abbreviation.antihbe">
+          <term>
+            <bold>Anti-HBe</bold>
+          </term>
+          <def>
+            <p>antibody to hepatitis B e antigen</p>
+          </def>
+        </def-item>
+        <def-item id="abbreviation.antihbs">
+          <term>
+            <bold>Anti-HBs</bold>
+          </term>
+          <def>
+            <p>antibody to hepatitis B surface antigen</p>
+          </def>
+        </def-item>
+        <def-item id="abbreviation.antihcv">
+          <term>
+            <bold>Anti-HCV</bold>
+          </term>
+          <def>
+            <p>antibody to hepatitis C virus</p>
+          </def>
+        </def-item>
+        <def-item id="abbreviation.ast">
+          <term>
+            <bold>AST</bold>
+          </term>
+          <def>
+            <p>aspartate aminotransferase</p>
+          </def>
+        </def-item>
+        <def-item id="abbreviation.bu">
+          <term>
+            <bold>BU</bold>
+          </term>
+          <def>
+            <p>Bodansky Unit</p>
+          </def>
+        </def-item>
+        <def-item id="abbreviation.cdc">
+          <term>
+            <bold>CDC</bold>
+          </term>
+          <def>
+            <p>Centers for Disease Control and Prevention</p>
+          </def>
+        </def-item>
+        <def-item id="abbreviation.ck">
+          <term>
+            <bold>CK</bold>
+          </term>
+          <def>
+            <p>creatine kinase</p>
+          </def>
+        </def-item>
+        <def-item id="abbreviation.cmv">
+          <term>
+            <bold>CMV</bold>
+          </term>
+          <def>
+            <p>cytomegalovirus</p>
+          </def>
+        </def-item>
+        <def-item id="abbreviation.ct">
+          <term>
+            <bold>CT</bold>
+          </term>
+          <def>
+            <p>computed tomography</p>
+          </def>
+        </def-item>
+        <def-item id="abbreviation.dilin">
+          <term>
+            <bold>DILIN</bold>
+          </term>
+          <def>
+            <p>Drug Induced Liver Injury Network</p>
+          </def>
+        </def-item>
+        <def-item id="abbreviation.ebv">
+          <term>
+            <bold>EBV</bold>
+          </term>
+          <def>
+            <p>Epstein-Barr virus</p>
+          </def>
+        </def-item>
+        <def-item id="abbreviation.ercp">
+          <term>
+            <bold>ERCP</bold>
+          </term>
+          <def>
+            <p>endoscopic retrograde cholangiopancreatography</p>
+          </def>
+        </def-item>
+        <def-item id="abbreviation.esr">
+          <term>
+            <bold>ESR</bold>
+          </term>
+          <def>
+            <p>erythrocyte sedimentation rate</p>
+          </def>
+        </def-item>
+        <def-item id="abbreviation.fda">
+          <term>
+            <bold>FDA</bold>
+          </term>
+          <def>
+            <p>Food and Drug Administration</p>
+          </def>
+        </def-item>
+        <def-item id="abbreviation.ggt">
+          <term>
+            <bold>GGT</bold>
+          </term>
+          <def>
+            <p>gamma glutamyl transpeptidase</p>
+          </def>
+        </def-item>
+        <def-item id="abbreviation.hav">
+          <term>
+            <bold>HAV</bold>
+          </term>
+          <def>
+            <p>hepatitis A virus</p>
+          </def>
+        </def-item>
+        <def-item id="abbreviation.hbv">
+          <term>
+            <bold>HBV</bold>
+          </term>
+          <def>
+            <p>hepatitis B virus</p>
+          </def>
+        </def-item>
+        <def-item id="abbreviation.hbeag">
+          <term>
+            <bold>HBeAg</bold>
+          </term>
+          <def>
+            <p>hepatitis B e antigen</p>
+          </def>
+        </def-item>
+        <def-item id="abbreviation.hbsag">
+          <term>
+            <bold>HBsAg</bold>
+          </term>
+          <def>
+            <p>hepatitis B surface antigen</p>
+          </def>
+        </def-item>
+        <def-item id="abbreviation.hcv">
+          <term>
+            <bold>HCV</bold>
+          </term>
+          <def>
+            <p>hepatitis C virus</p>
+          </def>
+        </def-item>
+        <def-item id="abbreviation.hdv">
+          <term>
+            <bold>HDV</bold>
+          </term>
+          <def>
+            <p>hepatitis D (delta) virus</p>
+          </def>
+        </def-item>
+        <def-item id="abbreviation.hev">
+          <term>
+            <bold>HEV</bold>
+          </term>
+          <def>
+            <p>hepatitis E virus</p>
+          </def>
+        </def-item>
+        <def-item id="abbreviation.hiv">
+          <term>
+            <bold>HIV</bold>
+          </term>
+          <def>
+            <p>human immunodeficiency virus</p>
+          </def>
+        </def-item>
+        <def-item id="abbreviation.hsv">
+          <term>
+            <bold>HSV</bold>
+          </term>
+          <def>
+            <p>herpes simplex virus</p>
+          </def>
+        </def-item>
+        <def-item id="abbreviation.inr">
+          <term>
+            <bold>INR</bold>
+          </term>
+          <def>
+            <p>international normalized ratio (of prothrombin time)</p>
+          </def>
+        </def-item>
+        <def-item id="abbreviation.kau">
+          <term>
+            <bold>KAU</bold>
+          </term>
+          <def>
+            <p>King Armstrong Unit</p>
+          </def>
+        </def-item>
+        <def-item id="abbreviation.ldh">
+          <term>
+            <bold>LDH</bold>
+          </term>
+          <def>
+            <p>lactic dehydrogenase</p>
+          </def>
+        </def-item>
+        <def-item id="abbreviation.mri">
+          <term>
+            <bold>MRI</bold>
+          </term>
+          <def>
+            <p>magnetic resonance imaging</p>
+          </def>
+        </def-item>
+        <def-item id="abbreviation.nih">
+          <term>
+            <bold>NIH</bold>
+          </term>
+          <def>
+            <p>National Institutes of Health</p>
+          </def>
+        </def-item>
+        <def-item id="abbreviation.nlm">
+          <term>
+            <bold>NLM</bold>
+          </term>
+          <def>
+            <p>National Library of Medicine</p>
+          </def>
+        </def-item>
+        <def-item id="abbreviation.protime">
+          <term>
+            <bold>Protime</bold>
+          </term>
+          <def>
+            <p>Prothrombin time</p>
+          </def>
+        </def-item>
+        <def-item id="abbreviation.rucam">
+          <term>
+            <bold>RUCAM</bold>
+          </term>
+          <def>
+            <p>Roussel Uclaf Causality Assessment Method</p>
+          </def>
+        </def-item>
+        <def-item id="abbreviation.uk">
+          <term>
+            <bold>UK</bold>
+          </term>
+          <def>
+            <p>United Kingdom</p>
+          </def>
+        </def-item>
+        <def-item id="abbreviation.uln">
+          <term>
+            <bold>ULN</bold>
+          </term>
+          <def>
+            <p>upper limit of the normal range</p>
+          </def>
+        </def-item>
+        <def-item id="abbreviation.us">
+          <term>
+            <bold>US</bold>
+          </term>
+          <def>
+            <p>United States</p>
+          </def>
+        </def-item>
+        <def-item id="abbreviation.who">
+          <term>
+            <bold>WHO</bold>
+          </term>
+          <def>
+            <p>World Health Organization</p>
+          </def>
+        </def-item>
+      </def-list>
+      <p>*Abbreviations that are not introduced before use.</p>
+      <def-list>
+        <def-item id="abbreviation.-g">
+          <term>
+            <bold>*g</bold>
+          </term>
+          <def>
+            <p>gram</p>
+          </def>
+        </def-item>
+        <def-item id="abbreviation.-kg">
+          <term>
+            <bold>*kg</bold>
+          </term>
+          <def>
+            <p>kilogram</p>
+          </def>
+        </def-item>
+        <def-item id="abbreviation.-mg">
+          <term>
+            <bold>*mg</bold>
+          </term>
+          <def>
+            <p>milligram</p>
+          </def>
+        </def-item>
+        <def-item id="abbreviation.--g">
+          <term>
+            <bold>*&#x000b5;g</bold>
+          </term>
+          <def>
+            <p>microgram</p>
+          </def>
+        </def-item>
+        <def-item id="abbreviation.-ng">
+          <term>
+            <bold>*ng</bold>
+          </term>
+          <def>
+            <p>nanogram</p>
+          </def>
+        </def-item>
+        <def-item id="abbreviation.-l">
+          <term>
+            <bold>*L</bold>
+          </term>
+          <def>
+            <p>liter</p>
+          </def>
+        </def-item>
+        <def-item id="abbreviation.-dl">
+          <term>
+            <bold>*dL</bold>
+          </term>
+          <def>
+            <p>deciliter (100 mL)</p>
+          </def>
+        </def-item>
+        <def-item id="abbreviation.-ml">
+          <term>
+            <bold>*mL</bold>
+          </term>
+          <def>
+            <p>milliliter</p>
+          </def>
+        </def-item>
+        <def-item id="abbreviation.--l">
+          <term>
+            <bold>*&#x000b5;L</bold>
+          </term>
+          <def>
+            <p>microliter</p>
+          </def>
+        </def-item>
+        <def-item id="abbreviation.--mol">
+          <term>
+            <bold>*&#x000b5;mol</bold>
+          </term>
+          <def>
+            <p>micromole</p>
+          </def>
+        </def-item>
+        <def-item id="abbreviation.-im">
+          <term>
+            <bold>*im</bold>
+          </term>
+          <def>
+            <p>intramuscularly</p>
+          </def>
+        </def-item>
+        <def-item id="abbreviation.-iv">
+          <term>
+            <bold>*iv</bold>
+          </term>
+          <def>
+            <p>intravenously</p>
+          </def>
+        </def-item>
+        <def-item id="abbreviation.-sc">
+          <term>
+            <bold>*sc</bold>
+          </term>
+          <def>
+            <p>subcutaneously</p>
+          </def>
+        </def-item>
+        <def-item id="abbreviation.-u">
+          <term>
+            <bold>*U</bold>
+          </term>
+          <def>
+            <p>Units</p>
+          </def>
+        </def-item>
+        <def-item id="abbreviation.-vs">
+          <term>
+            <bold>*vs</bold>
+          </term>
+          <def>
+            <p>versus</p>
+          </def>
+        </def-item>
+      </def-list>
+    </body>
+  </book-app>
+</book-part-wrapper>

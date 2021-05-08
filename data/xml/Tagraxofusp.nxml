@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Tagraxofusp" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Tagraxofusp</book-part-id>
+      <title-group>
+        <title>Tagraxofusp</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>12</day>
+          <month>4</month>
+          <year>2019</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Tafenoquine" document-type="chapter">Tafenoquine</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Talazoparib" document-type="chapter">Talazoparib</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Tagraxofusp.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Tagraxofusp.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Tagraxofusp is a recombinant fusion protein consisting of the binding site of interleukin 3 [IL3] fused with diphtheria toxin and that is given by intravenous infusion and used as an antineoplastic agent for patients with blastic plasmacytoid dendritic cell neoplasm. Treatment with tagraxofusp is associated with a high rate of serum enzyme elevations during therapy, but has not been linked to instances of clinically apparent acute liver injury with jaundice.</p>
+        </sec>
+        <sec id="Tagraxofusp.Background">
+          <title>Background</title>
+          <p>Tagraxofusp (tag rax' oh fusp) is a recombinant fusion protein that combines the binding site domain of IL3 with the catalytic domain of diphtheria toxin. The IL3 domain targets cells with the IL3 receptor (CD122), which is highly expressed on some malignant myeloid cells and particularly cells of blastic plasmacytoid dendritic cell neoplasm (BPDCN), a rare, aggressive myeloid malignancy that is universally fatal without treatment, overall survival for which is 7 to 12 months. Clinical trials of tagraxofusp in small numbers of patients with BPDCN showed response rates of approximately 50%, higher than is achieved with conventional cancer chemotherapy. Tagraxofusp received accelerated approval for BPDCN in both adults and children (2 years or older) in the United States in 2018 and is available in solution in single dose vials of 1,000 mcg/mL under the brand name Elzonris. The recommended dose is 12 mcg/kg intravenously on days 1 to 5 of 21-day cycles. Side effects are common and therapy should be administered only in inpatient facilities or in specialty outpatient settings. Common side effects include capillary leak syndrome (&#x0003e;50%), fatigue, nausea, fever, peripheral edema, anemia, thrombocytopenia, hypocalcemia, hyponatremia and hypoglycemia. Severe adverse reactions include severe capillary leak syndrome, hypersensitivity reactions and severe, even life-threatening capillary leak syndrome. Tagraxofusp should be administered only by health care groups with experience in cancer chemotherapy and management of its severe complications.</p>
+        </sec>
+        <sec id="Tagraxofusp.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>In prelicensure clinical trials of tagraxofusp, serum enzyme elevations arose in 88% of patients and ALT or AST values were above 5 times ULN in 40%. Serum alkaline phosphatase elevations were also common [26%] as were bilirubin elevations [14%], but were usually mild and self-limited, resolving rapidly despite continuation of therapy. The liver test abnormalities typically arose between days 7 and 14 of chemotherapy cycles and highest levels occurred with the first several doses. At least temporary discontinuation of tagraxofusp was reported in 19% of treated patients. The overall clinical experience with tagraxofusp has been limited, but it has not been linked to instances of clinically apparent acute liver injury with symptoms or jaundice. Because of this limited clinical experience, tagraxofusp&#x02019;s potential for causing liver injury is not well defined.</p>
+          <p>Likelihood score: E* (unproven but suspected cause of liver injury).</p>
+        </sec>
+        <sec id="Tagraxofusp.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The possible cause of the liver injury due to tagraxofusp is not known. Tagraxofusp is a recombinant protein and is metabolized by many cells, but mostly those that have receptors for CD122 and take up the protein. The delivered diphtheria toxin is a direct cytoplastic toxin and would injure any cells that possess CD122 receptors. Thus, low levels of the CD122 receptor on hepatocytes or endothelial cells might account for its hepatotoxicity. In addition, antibodies to diphtheria toxin (as a result of DPT vaccination) are common in the general population and the administration of tagraxofusp might lead to immune complex formation which might be taken up by hepatocytes or macrophages.</p>
+        </sec>
+        <sec id="Tagraxofusp.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>Routine monitoring of liver tests is recommended in patients receiving tagraxofusp therapy at the time of each infusion. Patients with ALT or AST elevations of more than 5 times ULN should discontinue tagraxofusp at least temporarily and restarted only once the abnormalities have resolved.</p>
+          <p>Drug Class: <related-object source-id="livertox" document-id="AntineoplasticAgents">Antineoplastic Agents</related-object>, Cytokines</p>
+        </sec>
+      </sec>
+      <sec id="Tagraxofusp.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <boxed-text position="anchor" id="Tagraxofusp.BPI" orientation="portrait">
+          <p>
+            <bold>REPRESENTATIVE TRADE NAMES</bold>
+          </p>
+          <p>Tagraxofusp &#x02013; Elzonris&#x000ae;</p>
+          <p>
+            <bold>DRUG CLASS</bold>
+          </p>
+          <p>Antineoplastic Agents</p>
+          <p>
+            <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Tagraxofusp">COMPLETE LABELING</ext-link>
+          </p>
+          <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+        </boxed-text>
+      </sec>
+      <sec id="Tagraxofusp.CHEMICAL_FORMULA_AND_STRUCTU">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Tagraxofusp.T1" position="anchor" orientation="portrait">
+          <table>
+            <thead>
+              <tr>
+                <th id="hd_h_Tagraxofusp.T1_1_1_1_1" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Tagraxofusp.T1_1_1_1_2" rowspan="1" colspan="1">CAS REGISTRY NO</th>
+                <th id="hd_h_Tagraxofusp.T1_1_1_1_3" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Tagraxofusp.T1_1_1_1_4" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Tagraxofusp.T1_1_1_1_1" rowspan="1" colspan="1">Tagraxofusp</td>
+                <td headers="hd_h_Tagraxofusp.T1_1_1_1_2" rowspan="1" colspan="1">
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://381128240">2055491-00-2</ext-link>
+                </td>
+                <td headers="hd_h_Tagraxofusp.T1_1_1_1_3" rowspan="1" colspan="1">Fusion Protein</td>
+                <td headers="hd_h_Tagraxofusp.T1_1_1_1_4" rowspan="1" colspan="1">Not Available</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Tagraxofusp.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 12 April 2019</p>
+        <p>Abbreviation: BPDCN, blastic plasmacytoid dendritic cell neoplasm.</p>
+        <ref-list id="Tagraxofusp.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Tagraxofusp.R1">
+            <mixed-citation publication-type="other">Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999.<annotation><p><italic toggle="yes">(Review of hepatotoxicity published in 1999 before the availability of fusion proteins and tagraxofusp).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Tagraxofusp.R2">
+            <mixed-citation publication-type="other">DeLeve LD. Cancer chemotherapy. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013, pp. 541-68.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of cancer chemotherapeutic agents published in 2013 before the availability of tagraxofusp and other therapeutic fusion proteins).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Tagraxofusp.R3">
+            <mixed-citation publication-type="other">Wellstein A, Giaccone G, Atkins MB, Sausville EAl. Pathway-targeted therapies: monoclonal antibodies, protein kinase inhibitors, and various small molecules. In, Brunton LL, Hilal-Dandan R, Knollman BC, eds. Goodman &#x00026; Gilman's the pharmacological basis of therapeutics. 13th ed. New York: McGraw-Hill, 2018, pp. 1203-36.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Tagraxofusp.R4">
+            <mixed-citation publication-type="other">
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.accessdata.fda.gov/scripts/cder/daf/">https://www.accessdata.fda.gov/scripts/cder/daf/</ext-link>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(FDA Drug Approvals website that has product labels [package inserts], letters of approval and full FDA scientific review of the new drug application for safety and efficacy; mentions that capillary leak syndrome was the only fatal toxicity seen and that serum enzyme elevations were frequent but generally transient and not associated with symptoms or jaundice).</italic>
+                </p>
+              </annotation>
+            </mixed-citation>
+          </ref>
+          <ref id="Tagraxofusp.R5">
+            <mixed-citation publication-type="journal">Syed YY. Tagraxofusp: first global approval. Drugs 2019; 79: 579-83. <annotation><p><italic toggle="yes">(Review of the mechanism of action, history of development, pharmacology, clinical efficacy and safety of tagraxofusp shortly after its approval in the US; mentions that it has &#x0201c;manageable safety and tolerability&#x0201d; and that liver enzyme elevations occur in 88% of patients which are above 5 times ULN in 36% and above 20 times ULN in 4%; the abnormalities being the most frequent reason for early discontinuation).</italic></p></annotation><pub-id pub-id-type="pmid">30859413</pub-id></mixed-citation>
+          </ref>
+          <ref id="Tagraxofusp.R6">
+            <mixed-citation publication-type="journal">Alkharabsheh O, Frankel AE. Clinical activity and tolerability of SL-401 (Tagraxofusp): Recombinant diphtheria toxin and interleukin-3 in hematologic malignancies. Biomedicines 2019; 7. pii: E6. <annotation><p><italic toggle="yes">(Review of the structure, mechanism of action, preclinical and clinical studies and safety of tagraxofusp; mentions that &#x0201c;transaminitis has been reported across trials, but it was reversible&#x0201d; and elevations were generally less than 20 times ULN).</italic></p></annotation><pub-id pub-id-type="pmid">30621282</pub-id></mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec id="Tagraxofusp.OTHER_REFERENCE_LINKS" sec-type="link-group">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=Tagraxofusp/AE+AND+Human%5BMH%5D+AND+(jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI+OR+hepatitis,+toxic%5BMH%5D)">Recent References on Tagraxofusp: from PubMed.gov</ext-link>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Tagraxofusp">Trials on Tagraxofusp: from ClinicalTrials.gov</ext-link>
+            </p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

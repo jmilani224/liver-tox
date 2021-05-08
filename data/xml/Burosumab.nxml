@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Burosumab" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Burosumab</book-part-id>
+      <title-group>
+        <title>Burosumab</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>8</day>
+          <month>8</month>
+          <year>2018</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Bupropion" document-type="chapter">Bupropion</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Buspirone" document-type="chapter">Buspirone</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Burosumab.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Burosumab.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Burosumab is a human monoclonal antibody to fibroblast growth factor 23 (FGF23) which is used in the treatment of X-linked hypophosphatemia. Burosumab therapy has not been associated with serum enzyme elevations during therapy nor has it been implicated in cases of clinically apparent drug induced liver injury with jaundice.</p>
+        </sec>
+        <sec id="Burosumab.Background">
+          <title>Background</title>
+          <p>Burosumab (bur oh' sue mab) is a recombinant, human IgG1 monoclonal antibody to fibroblast growth factor 23 (FGF23) which is used in the treatment of X-linked hypophosphatemia which is associated with excessive FGF23 production. X-linked hypophosphatemia is the most common cause of congenital rickets and is caused by mutations in genes that regulate FGF23 production which result in excessive circulating levels that cause phosphate wasting and poor bone mineralization. Patients have limb deformities, frequent fractures, short stature and musculoskeletal pain and stiffness. Binding of the monoclonal antibody to circulating FGF23 blocks its activity and results in increases in serum phosphate, decreases in alkaline phosphatase and improvements in clinical symptoms and rickets severity. Burosumab was approved for use in the United States in 2018, and current indications are for adults and children above 1 year of age with X-linked hypophosphatemia. Burosumab is available in single use vials of 10, 20 or 30 mg/mL under the brand name Crysvita. It is given subcutaneously and the dose and frequency of administration (every 2 or 4 weeks) varies by age and body weight. Side effects of are uncommon but can include injection site reactions, headache and back and leg pains. Rare, potentially severe side effects include severe hypersensitivity reactions and hyperphosphatemia.</p>
+        </sec>
+        <sec id="Burosumab.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>In prelicensure clinical trials, burosumab was not associated with changes in serum aminotransferase levels during therapy and rates of most adverse reactions were similar in patients who received burosumab as placebo. There have been no published reports of clinically apparent acute liver injury attributed to burosumab therapy.</p>
+          <p>Likelihood score: E (unlikely cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Burosumab.Mechanism_of_Liver_Injury">
+          <title>Mechanism of Liver Injury</title>
+          <p>Burosumab is a human monoclonal antibody and is unlikely to be inherently hepatotoxic. While most recombinant proteins are metabolized by the liver, the metabolism leads largely to small peptides and amino acids which may be reused to synthesize proteins and are unlikely to be toxic or immunogenic. Inhibition of FGF23 does not appear to have an adverse effect on liver function.</p>
+          <p>Drug Class: Genetic Disorder Agents, <related-object source-id="livertox" document-id="MonoclonalAntibodies">Monoclonal Antibodies</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Burosumab.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <boxed-text position="anchor" id="Burosumab.BPI" orientation="portrait">
+          <p>
+            <bold>REPRESENTATIVE TRADE NAMES</bold>
+          </p>
+          <p>Burosumab &#x02013; Crysvita&#x000ae;</p>
+          <p>
+            <bold>DRUG CLASS</bold>
+          </p>
+          <p>Genetic Disorder Agents</p>
+          <p>
+            <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Burosumab">COMPLETE LABELING</ext-link>
+          </p>
+          <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+        </boxed-text>
+      </sec>
+      <sec id="Burosumab.CHEMICAL_FORMULA_AND_STRUCTURE">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Burosumab.T1" position="anchor" orientation="portrait">
+          <table>
+            <thead>
+              <tr>
+                <th id="hd_h_Burosumab.T1_1_1_1_1" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Burosumab.T1_1_1_1_2" rowspan="1" colspan="1">CAS REGISTRY NUMBER</th>
+                <th id="hd_h_Burosumab.T1_1_1_1_3" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Burosumab.T1_1_1_1_4" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Burosumab.T1_1_1_1_1" rowspan="1" colspan="1">Burosumab</td>
+                <td headers="hd_h_Burosumab.T1_1_1_1_2" rowspan="1" colspan="1">
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://381127714">1610833-03-8</ext-link>
+                </td>
+                <td headers="hd_h_Burosumab.T1_1_1_1_3" rowspan="1" colspan="1">Monoclonal Antibody</td>
+                <td headers="hd_h_Burosumab.T1_1_1_1_4" rowspan="1" colspan="1">Not Available</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Burosumab.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 08 August 2018</p>
+        <ref-list id="Burosumab.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Burosumab.R1">
+            <mixed-citation publication-type="other">Zimmerman HJ. Drugs used to treat rheumatic and musculospastic disease. In, Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999, pp. 517-54.<annotation><p><italic toggle="yes">(Expert review of hepatotoxicity published in 1999, well before the availability of most monoclonal antibody therapies).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Burosumab.R2">
+            <mixed-citation publication-type="other">Reuben A. Hepatotoxicity of immunosuppressive drugs. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2011, pp. 569-91.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of immunosuppressive agents; "the biological immuno-suppressants are largely free from hepatotoxicity, with the exception of the TNF alpha antagonists"; burosumab is not specifically mentioned).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Burosumab.R3">
+            <mixed-citation publication-type="other">Friedman PA. Agents affecting mineral ion homeostasis and bone turnover. In, Brunton LL, Chabner BA, Knollman BC, eds. Goodman &#x00026; Gilman&#x02019;s the pharmacological basis of therapeutics. 12th ed. New York: McGraw-Hill, 2011, pp. 1275-306.<annotation><p><italic toggle="yes">(Textbook of pharmacology).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Burosumab.R4">
+            <mixed-citation publication-type="other">
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.accessdata.fda.gov/scripts/cder/daf/">https://www.accessdata.fda.gov/scripts/cder/daf/</ext-link>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(FDA Drug Approvals website that has product labels [package inserts], letters of approval and full FDA scientific review of the new drug application for safety and efficacy).</italic>
+                </p>
+              </annotation>
+            </mixed-citation>
+          </ref>
+          <ref id="Burosumab.R5">
+            <mixed-citation publication-type="journal">Insogna KL, Briot K, Imel EA, Kamenick&#x000fd; P, Ruppe MD, Portale AA, Weber T, et al.; AXLES 1 Investigators. A randomized, double-blind, placebo-controlled, phase 3 trial evaluating the efficacy of burosumab, an anti-FGF23 antibody, in adults with X-linked hypophosphatemia: week 24 primary analysis. J Bone Miner Res 2018; 33: 1383-93. <annotation><p><italic toggle="yes">(Among 134 adults with X-linked hypophosphatemia treated with burosumab or placebo every 4 weeks for 24 weeks, serum phosphate levels rose into the normal range [in 94% vs 8%] and stiffness and pain scores improved with burosumab, while adverse event rates were similar in the 2 groups; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">29947083</pub-id></mixed-citation>
+          </ref>
+          <ref id="Burosumab.R6">
+            <mixed-citation publication-type="journal">Kinoshita Y, Fukumoto S. X-Linked hypophosphatemia and FGF23-related hypophosphatemic diseases: prospect for new treatment. Endocr Rev 2018; 39: 274-91. <annotation><p><italic toggle="yes">(Review of the molecular basis, pathogenesis, clinical features and therapy of FGF23 related hypophosphatemic syndromes).</italic></p></annotation><pub-id pub-id-type="pmid">29381780</pub-id></mixed-citation>
+          </ref>
+          <ref id="Burosumab.R7">
+            <mixed-citation publication-type="journal">Lamb YN. Burosumab: first global approval. Drugs 2018; 78: 707-14. <annotation><p><italic toggle="yes">(Review of the mechanism of action, development, pharmacology, clinical efficacy and safety of burosumab shortly after its approval for use in X-linked hypophosphatemia).</italic></p></annotation><pub-id pub-id-type="pmid">29679282</pub-id></mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec id="Burosumab.OTHER_REFERENCE_LINKS" sec-type="link-group">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=(Burosumab/AE)+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D%3A%222999/12/31%22%5BEDat%5D)">Recent References on Burosumab: from PubMed.gov</ext-link>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Burosumab">Trials on Burosumab: from ClinicalTrials.gov</ext-link>
+            </p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

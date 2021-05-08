@@ -1,0 +1,522 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Ritonavir" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Ritonavir</book-part-id>
+      <title-group>
+        <title>Ritonavir</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>1</day>
+          <month>9</month>
+          <year>2017</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Risperidone" document-type="chapter">Risperidone</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Rituximab" document-type="chapter">Rituximab</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Ritonavir.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Ritonavir.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Ritonavir is an antiretroviral protease inhibitor that is widely used in combination with other protease inhibitors in the therapy and prevention of human immunodeficiency virus (HIV) infection and the acquired immunodeficiency syndrome (AIDS). Ritonavir can cause transient and usually asymptomatic elevations in serum aminotransferase levels and, rarely, can lead to clinically apparent acute liver injury. In HBV or HCV coinfected patients, highly active antiretroviral therapy with ritonavir may result of an exacerbation of the underlying chronic hepatitis B or C.</p>
+        </sec>
+        <sec id="Ritonavir.Background">
+          <title>Background</title>
+          <p>Ritonavir (ri toe' na vir) is peptidomimetic HIV protease inhibitor that acts by binding to the catalytic site of the viral protease, thereby preventing the cleavage of viral polyprotein precursors into mature, functional proteins that are necessary for viral replication. Ritonavir was approved for use in the United States in 1996 and is still widely used in combination with other antiretroviral agents for the prevention and treatment of HIV infection. Ritonavir is available under the brand name Norvir in capsules of 100 mg and as an oral solution (for pediatric use). Ritonavir (50 mg) is also available in a fixed combination with lopinavir (200 mg) under the brand name Kaletra. While originally evaluated and approved to be used in full doses (600 mg twice daily) in combination with nucleoside or nonnucleoside reverse transcriptase inhibitors, ritonavir is now used mostly in a low or &#x0201c;booster&#x0201d; dose (50 to 100 mg twice daily) in combination with other protease inhibitors such as atazanavir, fosamprenavir, indinavir, lopinavir, nelfinavir, and saquinavir. Ritonavir is a potent inhibitor of CYP 3A4 activity in the liver, and in low doses causes a prolongation of the half-life of other protease inhibitors that are metabolized by this pathway. The most common side effects of ritonavir are nausea, diarrhea, gastrointestinal upset, change in taste, fatigue, rash and, with long term use, hyperlipidemia and lipodystrophy.</p>
+        </sec>
+        <sec id="Ritonavir.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>Some degree of serum aminotransferase elevations occurs in a high proportion of patients taking ritonavir containing antiretroviral regimens. Moderate-to severe elevations in serum aminotransferase levels (&#x0003e;5 times the upper limit of normal) are found in up to 15% of patients treated with full doses of ritonavir and are more common in patients with HIV-HCV coinfection. With low &#x0201c;booster&#x0201d; doses, ritonavir does not appear to increase the frequency or severity of serum enzyme elevations, and those that occur are usually asymptomatic and self-limited, resolving even with continuation of ritonavir. Clinically apparent liver injury from full doses of ritonavir has been reported, but hepatotoxicity from low dose ritonavir has not been clearly linked to acute liver injury. In many situations, the liver injury is difficult to attribute to ritonavir because it is used in combination with higher doses of other protease inhibitors. HIV protease inhibitors have been associated with acute liver injury arising 1 to 8 weeks after onset, with variable patterns of liver enzyme elevation, from hepatocellular to cholestatic. Immunoallergic features (rash, fever, eosinophilia) are uncommon as is autoantibody formation. Ritonavir in combination with saquinavir has also been associated with a rapid onset (1 to 4 days) acute hepatic injury in patients who are taking rifampin and perhaps other agents that affect CYP 450 activity, such as phenobarbital. Finally, initiation of ritonavir based highly active antiretroviral therapy can lead to exacerbation of an underlying chronic hepatitis B or C in coinfected individuals, typically arising 2 to 12 months after starting therapy and associated with a hepatocellular pattern of serum enzyme elevations and increases followed by falls in serum levels of hepatitis B virus (HBV) DNA or hepatitis C virus (HCV) RNA. Ritonavir therapy has not been clearly linked to lactic acidosis and acute fatty liver that is reported in association with several nucleoside analogue reverse transcriptase inhibitors.</p>
+          <p>Likelihood score: C (probable rare cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Ritonavir.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The cause of liver enzyme elevations during ritonavir therapy is not entirely known. Ritonavir is extensively metabolized by the liver via the cytochrome P450 system (CYP 3A4), which it also inhibits. Thus, production of a toxic intermediate of ritonavir or other agents that are metabolized by CPY 3A4 may underlie liver injury. In patients with HIV and HCV or HBV coinfection, initiation of highly active antiretroviral therapy may be associated with flares of the underlying chronic hepatitis, which may be the result of reconstitution of the immune system, viral interactions or direct effects of the agents on the hepatitis virus.</p>
+        </sec>
+        <sec id="Ritonavir.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>The rare cases of clinically apparent liver injury attributed to ritonavir have been self-limited, and chronic hepatitis and vanishing bile duct syndrome have yet to be linked to its use. Rechallenge leads to recurrence of liver injury and should be avoided. There is little evidence of cross reactivity among the various protease inhibitors and other agents can usually be safely substituted. The exacerbation of hepatitis B or C that can occur with ritonavir based antiretroviral therapies can be severe and lead to acute liver failure or progressive, end stage liver disease. Patients with HCV or HBV coinfection should be monitored prospectively for viral and serum aminotransferase levels and appropriate therapy instituted if possible.</p>
+          <p>References to ritonavir are included with references to all the HIV protease inhibitors in the overview section of Protease Inhibitors (updated September 2017). Most of the HIV protease inhibitors in clinical use are proteinomimetic drugs and are structurally unrelated.</p>
+          <p>Drug Class: <related-object source-id="livertox" document-id="AntiviralAgents">Antiviral Agents</related-object>, Antiretroviral Agents</p>
+          <p>Other Drugs in the Subclass, <related-object source-id="livertox" document-id="HIVProteaseInhibitor">Protease Inhibitors</related-object>: <related-object source-id="livertox" document-id="AmprenavirFosampren">Amprenavir</related-object>, <related-object source-id="livertox" document-id="Atazanavir">Atazanavir</related-object>, <related-object source-id="livertox" document-id="Darunavir">Darunavir</related-object>, <related-object source-id="livertox" document-id="AmprenavirFosampren">Fosamprenavir</related-object>, <related-object source-id="livertox" document-id="Indinavir">Indinavir</related-object>, <related-object source-id="livertox" document-id="Lopinavir">Lopinavir</related-object>, <related-object source-id="livertox" document-id="Nelfinavir">Nelfinavir</related-object>, <related-object source-id="livertox" document-id="Saquinavir">Saquinavir</related-object>, <related-object source-id="livertox" document-id="Tipranavir">Tipranavir</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Ritonavir.CASE_REPORTS">
+        <title>CASE REPORTS</title>
+        <sec id="Ritonavir.Case_1._Precipitation_of_hepat">
+          <title>Case 1. Precipitation of hepatic steatosis and lactic acidosis by addition of ritonavir to long-term stavudine therapy.</title>
+          <p>[Modified from: Picard O, Rosmorduc O, Cabane J. Hepatotoxicity associated with ritonavir (letter). Ann Intern Med 1998; 129: 670-1. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/pubmed/9786823">PubMed Citation</ext-link>]</p>
+          <p>A 28 year old woman with HIV infection and AIDS developed serum aminotransferase elevations (133 U/L) five weeks after starting an antiretroviral regimen of ritonavir (1200 mg/day), stavudine and lamivudine. She had been on multiple nucleoside reverse transcriptase inhibitors in the past, including zidovudine, didanosine, zalcitabine and lamivudine and had normal serum aminotransferase levels on several occasions. She did not drink alcohol and tests for hepatitis A, B and C were negative. Despite the ALT elevations, she was asymptomatic and the abnormalities rapidly resolved with stopping antiretroviral therapy. Five weeks after restarting this regimen, however, she developed abdominal pain, nausea and jaundice. She was found to have weight loss, an enlarged and tender liver, and ascites. Serum ALT was 327 U/L, bilirubin 18.0 mg/dL and prothrombin index was 22%. Tests for viral hepatitis were negative. She developed lactic acidosis and encephalopathy. A liver biopsy showed microvesicular steatosis, cholestasis and fibrosis with minimal inflammation. The antiretroviral agents were stopped, and she improved slowly, liver tests being normal 8 weeks later. Lamivudine and stavudine without ritonavir were reintroduced and she remained without evidence of recurrence of liver injury over the next 9 months.</p>
+          <sec id="Ritonavir.Key_Points1">
+            <title>Key Points</title>
+            <table-wrap id="Ritonavir.T1" position="anchor" orientation="portrait">
+              <table>
+                <tbody>
+                  <tr>
+                    <td rowspan="1" colspan="1">Medication:</td>
+                    <td rowspan="1" colspan="1">Ritonavir and stavudine</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Pattern:</td>
+                    <td rowspan="1" colspan="1">Unclear (no alkaline phosphatase levels)</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Severity:</td>
+                    <td rowspan="1" colspan="1">4+ (encephalopathy and ascites)</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Latency:</td>
+                    <td rowspan="1" colspan="1">5 weeks on initial and re-exposure</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Recovery:</td>
+                    <td rowspan="1" colspan="1">Yes</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Other medications:</td>
+                    <td rowspan="1" colspan="1">Lamivudine</td>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Ritonavir.Comment1">
+            <title>Comment</title>
+            <p>The clinical course and presentation with hepatic failure, lactic acidosis and hepatic microvesicular steatosis are typical of the mitochondrial liver injury that occurs with the stavudine therapy, and more rarely with didanosine and zidovudine. In this case, the therapy with ritonavir appeared to trigger or aggravate the injury that is usually attributed to stavudine. As in many instances of hepatotoxicity occurring during antiretroviral therapy, it was difficult to attribute the injury to a specific agent and, in this case, the ritonavir appeared to increase the risk of the stavudine related injury, such that without it (on rechallenge), lactic acidosis did not recur. Similar instances of microvesicular fatty liver and lactic acidosis have occurred in patients who have had tenofovir or ribavirin added to long term stavudine therapy. Improvement can occur with stopping either the mitochondrial toxin (stavudine, didanosine, zidovudine) or the ancillary agent (ritonavir, tenofovir, ribavirin). The pathogenesis may relate to drug-drug interactions among the antiretroviral agents.</p>
+          </sec>
+        </sec>
+        <sec id="Ritonavir.Case_2._Exacerbation_of_chroni">
+          <title>Case 2. Exacerbation of chronic hepatitis C during antiretroviral therapy in a patient with HIV-HCV coinfection.</title>
+          <p>[Modified from: John M, Flexman J, French MA. Hepatitis C virus-associated hepatitis following treatment of HIV-infected patients with HIV protease inhibitors: an immune restoration disease? AIDS 1998; 12: 2289-93. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/pubmed/9863871">PubMed Citation</ext-link>]</p>
+          <p>A 36 year old man with HIV infection developed rise in ALT levels followed by symptoms and jaundice 8 weeks after starting antiretroviral therapy with lamivudine (300 mg/day), stavudine (80 mg/day) and ritonavir (1200 mg/day) (Table). His levels of HIV RNA had fallen (5.5 to &#x0003c;2.6 log10 copies/mL) and CD4 counts had risen (32 to 138 per &#x003bc;L) on antiretroviral therapy. He had no recent risk factors for viral hepatitis and ultrasound showed no evidence of biliary obstruction. A liver biopsy showed chronic hepatitis. He tested negative for hepatitis A and B, but for the first time, was reactive for anti-HCV. Testing of stored serum specimens demonstrated that HCV RNA was present at moderately high levels (5.8 log10 copies/mL) for at least two years before initiation of antiretroviral therapy. Treatment was stopped and serum aminotransferase levels improved slowly and incompletely. Restarting therapy using stavudine, didanosine and indinavir was followed by a further worsening of serum aminotransferase levels, which also did not improve with alpha interferon or with prednisolone therapy, but which eventually fell to baseline after stopping HIV therapy whereupon HIV RNA levels rose to baseline.</p>
+          <sec id="Ritonavir.Key_Points2">
+            <title>Key Points</title>
+            <table-wrap id="Ritonavir.T2" position="anchor" orientation="portrait">
+              <table>
+                <tbody>
+                  <tr>
+                    <td rowspan="1" colspan="1">Medication:</td>
+                    <td rowspan="1" colspan="1">Ritonavir, lamivudine, stavudine</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Pattern:</td>
+                    <td rowspan="1" colspan="1">Probably hepatocellular (alkaline phosphatase levels not provided)</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Severity:</td>
+                    <td rowspan="1" colspan="1">3+ (jaundice, hospitalization)</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Latency:</td>
+                    <td rowspan="1" colspan="1">8 weeks</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Recovery:</td>
+                    <td rowspan="1" colspan="1">Incomplete</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Other medications:</td>
+                    <td rowspan="1" colspan="1">None mentioned</td>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Ritonavir.Laboratory_Values1">
+            <title>Laboratory Values</title>
+            <table-wrap id="Ritonavir.T3" position="anchor" orientation="portrait">
+              <table>
+                <thead>
+                  <tr>
+                    <th id="hd_h_Ritonavir.T3_1_1_1_1" rowspan="1" colspan="1">Time After Starting</th>
+                    <th id="hd_h_Ritonavir.T3_1_1_1_2" rowspan="1" colspan="1">Time After Stopping</th>
+                    <th id="hd_h_Ritonavir.T3_1_1_1_3" rowspan="1" colspan="1">ALT (U/L)</th>
+                    <th id="hd_h_Ritonavir.T3_1_1_1_4" rowspan="1" colspan="1">HCV RNA (log10 copies/mL)</th>
+                    <th id="hd_h_Ritonavir.T3_1_1_1_5" rowspan="1" colspan="1">HIV RNA (log10 copies/mL)</th>
+                    <th id="hd_h_Ritonavir.T3_1_1_1_6" rowspan="1" colspan="1">Other</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td headers="hd_h_Ritonavir.T3_1_1_1_1" rowspan="1" colspan="1">Pre</td>
+                    <td headers="hd_h_Ritonavir.T3_1_1_1_2" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Ritonavir.T3_1_1_1_3" rowspan="1" colspan="1">52</td>
+                    <td headers="hd_h_Ritonavir.T3_1_1_1_4" rowspan="1" colspan="1">5.8</td>
+                    <td headers="hd_h_Ritonavir.T3_1_1_1_5" rowspan="1" colspan="1">5.5</td>
+                    <td headers="hd_h_Ritonavir.T3_1_1_1_6" rowspan="1" colspan="1">CD4=32/&#x003bc;L</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Ritonavir.T3_1_1_1_1 hd_h_Ritonavir.T3_1_1_1_2 hd_h_Ritonavir.T3_1_1_1_3 hd_h_Ritonavir.T3_1_1_1_4 hd_h_Ritonavir.T3_1_1_1_5 hd_h_Ritonavir.T3_1_1_1_6" colspan="6" rowspan="1">Antiretroviral therapy started (stavudine, lamivudine and ritonavir)</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Ritonavir.T3_1_1_1_1" rowspan="1" colspan="1">2 months</td>
+                    <td headers="hd_h_Ritonavir.T3_1_1_1_2" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Ritonavir.T3_1_1_1_3" rowspan="1" colspan="1">105</td>
+                    <td headers="hd_h_Ritonavir.T3_1_1_1_4" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Ritonavir.T3_1_1_1_5" rowspan="1" colspan="1">&#x0003c;2.6</td>
+                    <td headers="hd_h_Ritonavir.T3_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Ritonavir.T3_1_1_1_1" rowspan="1" colspan="1">6 months</td>
+                    <td headers="hd_h_Ritonavir.T3_1_1_1_2" rowspan="1" colspan="1">0</td>
+                    <td headers="hd_h_Ritonavir.T3_1_1_1_3" rowspan="1" colspan="1">310</td>
+                    <td headers="hd_h_Ritonavir.T3_1_1_1_4" rowspan="1" colspan="1">6.0</td>
+                    <td headers="hd_h_Ritonavir.T3_1_1_1_5" rowspan="1" colspan="1">&#x0003c;2.6</td>
+                    <td headers="hd_h_Ritonavir.T3_1_1_1_6" rowspan="1" colspan="1">CD4=138/&#x003bc;L</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Ritonavir.T3_1_1_1_1 hd_h_Ritonavir.T3_1_1_1_2 hd_h_Ritonavir.T3_1_1_1_3 hd_h_Ritonavir.T3_1_1_1_4 hd_h_Ritonavir.T3_1_1_1_5 hd_h_Ritonavir.T3_1_1_1_6" colspan="6" rowspan="1">Antiretroviral therapy stopped</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Ritonavir.T3_1_1_1_1" rowspan="1" colspan="1">7 months</td>
+                    <td headers="hd_h_Ritonavir.T3_1_1_1_2" rowspan="1" colspan="1">4 weeks</td>
+                    <td headers="hd_h_Ritonavir.T3_1_1_1_3" rowspan="1" colspan="1">260</td>
+                    <td headers="hd_h_Ritonavir.T3_1_1_1_4" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Ritonavir.T3_1_1_1_5" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Ritonavir.T3_1_1_1_6" rowspan="1" colspan="1">Anti-HCV +</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Ritonavir.T3_1_1_1_1" rowspan="1" colspan="1">8 months</td>
+                    <td headers="hd_h_Ritonavir.T3_1_1_1_2" rowspan="1" colspan="1">8 weeks</td>
+                    <td headers="hd_h_Ritonavir.T3_1_1_1_3" rowspan="1" colspan="1">270</td>
+                    <td headers="hd_h_Ritonavir.T3_1_1_1_4" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Ritonavir.T3_1_1_1_5" rowspan="1" colspan="1">5.6</td>
+                    <td headers="hd_h_Ritonavir.T3_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Ritonavir.T3_1_1_1_1 hd_h_Ritonavir.T3_1_1_1_2 hd_h_Ritonavir.T3_1_1_1_3 hd_h_Ritonavir.T3_1_1_1_4 hd_h_Ritonavir.T3_1_1_1_5 hd_h_Ritonavir.T3_1_1_1_6" colspan="6" rowspan="1">Antiretroviral therapy restarted (stavudine, didanosine and indinavir)</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Ritonavir.T3_1_1_1_1" rowspan="1" colspan="1">3 weeks</td>
+                    <td headers="hd_h_Ritonavir.T3_1_1_1_2" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Ritonavir.T3_1_1_1_3" rowspan="1" colspan="1">530</td>
+                    <td headers="hd_h_Ritonavir.T3_1_1_1_4" rowspan="1" colspan="1">6.2</td>
+                    <td headers="hd_h_Ritonavir.T3_1_1_1_5" rowspan="1" colspan="1">3.5</td>
+                    <td headers="hd_h_Ritonavir.T3_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Ritonavir.T3_1_1_1_1" rowspan="1" colspan="1">7 weeks</td>
+                    <td headers="hd_h_Ritonavir.T3_1_1_1_2" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Ritonavir.T3_1_1_1_3" rowspan="1" colspan="1">560</td>
+                    <td headers="hd_h_Ritonavir.T3_1_1_1_4" rowspan="1" colspan="1">6.3</td>
+                    <td headers="hd_h_Ritonavir.T3_1_1_1_5" rowspan="1" colspan="1">&#x0003c;2.6</td>
+                    <td headers="hd_h_Ritonavir.T3_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Ritonavir.T3_1_1_1_1" rowspan="1" colspan="1">11 weeks</td>
+                    <td headers="hd_h_Ritonavir.T3_1_1_1_2" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Ritonavir.T3_1_1_1_3" rowspan="1" colspan="1">270</td>
+                    <td headers="hd_h_Ritonavir.T3_1_1_1_4" rowspan="1" colspan="1">6.4</td>
+                    <td headers="hd_h_Ritonavir.T3_1_1_1_5" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Ritonavir.T3_1_1_1_6" rowspan="1" colspan="1">Interferon</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Ritonavir.T3_1_1_1_1" rowspan="1" colspan="1">15 weeks</td>
+                    <td headers="hd_h_Ritonavir.T3_1_1_1_2" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Ritonavir.T3_1_1_1_3" rowspan="1" colspan="1">405</td>
+                    <td headers="hd_h_Ritonavir.T3_1_1_1_4" rowspan="1" colspan="1">6.0</td>
+                    <td headers="hd_h_Ritonavir.T3_1_1_1_5" rowspan="1" colspan="1">&#x0003c;2.6</td>
+                    <td headers="hd_h_Ritonavir.T3_1_1_1_6" rowspan="1" colspan="1">Interferon</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Ritonavir.T3_1_1_1_1" rowspan="1" colspan="1">19 weeks</td>
+                    <td headers="hd_h_Ritonavir.T3_1_1_1_2" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Ritonavir.T3_1_1_1_3" rowspan="1" colspan="1">510</td>
+                    <td headers="hd_h_Ritonavir.T3_1_1_1_4" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Ritonavir.T3_1_1_1_5" rowspan="1" colspan="1">&#x0003c;2.6</td>
+                    <td headers="hd_h_Ritonavir.T3_1_1_1_6" rowspan="1" colspan="1">Prednisolone</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Ritonavir.T3_1_1_1_1 hd_h_Ritonavir.T3_1_1_1_2 hd_h_Ritonavir.T3_1_1_1_3 hd_h_Ritonavir.T3_1_1_1_4 hd_h_Ritonavir.T3_1_1_1_5 hd_h_Ritonavir.T3_1_1_1_6" colspan="6" rowspan="1">Antiretroviral, interferon and corticosteroid therapy stopped</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Ritonavir.T3_1_1_1_1" rowspan="1" colspan="1">6 months</td>
+                    <td headers="hd_h_Ritonavir.T3_1_1_1_2" rowspan="1" colspan="1">4 weeks</td>
+                    <td headers="hd_h_Ritonavir.T3_1_1_1_3" rowspan="1" colspan="1">245</td>
+                    <td headers="hd_h_Ritonavir.T3_1_1_1_4" rowspan="1" colspan="1">5.8</td>
+                    <td headers="hd_h_Ritonavir.T3_1_1_1_5" rowspan="1" colspan="1">5.5</td>
+                    <td headers="hd_h_Ritonavir.T3_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Ritonavir.T3_1_1_1_1" rowspan="1" colspan="1">7 months</td>
+                    <td headers="hd_h_Ritonavir.T3_1_1_1_2" rowspan="1" colspan="1">8 weeks</td>
+                    <td headers="hd_h_Ritonavir.T3_1_1_1_3" rowspan="1" colspan="1">170</td>
+                    <td headers="hd_h_Ritonavir.T3_1_1_1_4" rowspan="1" colspan="1">5.8</td>
+                    <td headers="hd_h_Ritonavir.T3_1_1_1_5" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Ritonavir.T3_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Ritonavir.T3_1_1_1_1 hd_h_Ritonavir.T3_1_1_1_2" colspan="2" rowspan="1">
+                      <bold>Normal Values</bold>
+                    </td>
+                    <td headers="hd_h_Ritonavir.T3_1_1_1_3" rowspan="1" colspan="1">
+                      <bold>&#x0003c;40</bold>
+                    </td>
+                    <td headers="hd_h_Ritonavir.T3_1_1_1_4" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Ritonavir.T3_1_1_1_5" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Ritonavir.T3_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+            <p>* All values estimated from Figure 1.</p>
+          </sec>
+          <sec id="Ritonavir.Comment2">
+            <title>Comment</title>
+            <p>The clinical course suggested that the liver injury represented a worsening of chronic hepatitis C during highly active antiretroviral therapy (two nucleoside analogues and one protease inhibitor) caused by immune reconstitution. Supportive of this hypothesis was the correlation between increases in ALT levels and the rises in CD4 counts (and falls in HIV viral levels). Most convincing was the appearance of anti-HCV at the time of the exacerbation of hepatitis C and worsening with rechallenge using another antiretroviral regimen. These findings suggest that some of the hepatotoxicity of highly active antiretroviral therapy in HIV-HCV coinfected individuals may not be the direct effect of the antiretroviral agents on the liver, but rather their indirect effect in improving immune reactivity. Without more reliable serological or virological markers for disease severity in hepatitis C, it is difficult to attribute the worsening to hepatitis C alone. Thus, levels of HCV RNA did not correlate consistently with fluctuations in serum ALT and IgM anti-HCV levels have not been found to correlate with disease severity in hepatitis C (in contrast to IgM anti-HBc levels in hepatitis B). Furthermore, in larger prospective studies of HIV-HCV infected patients, little correlation has been found between changes in HIV RNA levels or CD4 counts and ALT elevations. While HIV-HCV coinfected patients are more likely than HIV monoinfected patients to develope ALT elevations on antiretroviral therapy, the role of immune reconstitution in these elevations has yet to be defined. These problems point to the need for better therapies of hepatitis C for HIV infected patients.</p>
+          </sec>
+        </sec>
+        <sec id="Ritonavir.Case_3._Exacerbation_of_chroni">
+          <title>Case 3. Exacerbation of chronic hepatitis B during antiretroviral therapy in a patient with HIV-HBV coinfection.</title>
+          <p>[Modified from: Carr A, Cooper DA. Restoration of immunity to chronic hepatitis B infection in HIV-infected patient on protease inhibitor. Lancet 1997; 349: 995-6. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/pubmed/9100629">PubMed Citation</ext-link>]</p>
+          <p>A 34 year old man with HIV-HBV coinfection developed an abrupt rise in ALT levels (Table) 5 weeks after initiation of antiretroviral therapy with ritonavir (500 mg twice daily). Ritonavir was stopped, but ALT levels remained high. He was known to have serum HBsAg and HBeAg for several years, but serum aminotransferases had always been normal or &#x0201c;near normal.&#x0201d; Serological tests for hepatitis A, C and D (delta) were negative and ultrasound of the abdomen showed no evidence of biliary obstruction. A liver biopsy showed chronic hepatitis with an acute lobular component. He slowly improved and 6 months later was found to have become HBeAg-negative and anti-HBe-positive, with a marked decrease in HBV DNA levels and fall of ALT to near normal levels.</p>
+          <sec id="Ritonavir.Key_Points3">
+            <title>Key Points</title>
+            <table-wrap id="Ritonavir.T4" position="anchor" orientation="portrait">
+              <table>
+                <tbody>
+                  <tr>
+                    <td rowspan="1" colspan="1">Medication:</td>
+                    <td rowspan="1" colspan="1">Ritonavir (500 mg twice daily)</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Pattern:</td>
+                    <td rowspan="1" colspan="1">Hepatocellular (alkaline phosphatase not given)</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Severity:</td>
+                    <td rowspan="1" colspan="1">1+ and symptomatic (bilirubin levels not given)</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Latency:</td>
+                    <td rowspan="1" colspan="1">5 weeks</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Recovery:</td>
+                    <td rowspan="1" colspan="1">24 weeks</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Other medications:</td>
+                    <td rowspan="1" colspan="1">None mentioned</td>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Ritonavir.Laboratory_Values2">
+            <title>Laboratory Values</title>
+            <table-wrap id="Ritonavir.T5" position="anchor" orientation="portrait">
+              <table>
+                <thead>
+                  <tr>
+                    <th id="hd_h_Ritonavir.T5_1_1_1_1" rowspan="1" colspan="1">Time After Starting</th>
+                    <th id="hd_h_Ritonavir.T5_1_1_1_2" rowspan="1" colspan="1">Time After Stopping</th>
+                    <th id="hd_h_Ritonavir.T5_1_1_1_3" rowspan="1" colspan="1">ALT (U/L)</th>
+                    <th id="hd_h_Ritonavir.T5_1_1_1_4" rowspan="1" colspan="1">HBV RNA<break/> (log10 copies/mL)</th>
+                    <th id="hd_h_Ritonavir.T5_1_1_1_5" rowspan="1" colspan="1">CD4 Count<break/> (cells/microL)</th>
+                    <th id="hd_h_Ritonavir.T5_1_1_1_6" rowspan="1" colspan="1">Other</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td headers="hd_h_Ritonavir.T5_1_1_1_1" rowspan="1" colspan="1">Pre</td>
+                    <td headers="hd_h_Ritonavir.T5_1_1_1_2" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Ritonavir.T5_1_1_1_3" rowspan="1" colspan="1">80</td>
+                    <td headers="hd_h_Ritonavir.T5_1_1_1_4" rowspan="1" colspan="1">8.8</td>
+                    <td headers="hd_h_Ritonavir.T5_1_1_1_5" rowspan="1" colspan="1">138</td>
+                    <td headers="hd_h_Ritonavir.T5_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Ritonavir.T5_1_1_1_1" rowspan="1" colspan="1">1 week</td>
+                    <td headers="hd_h_Ritonavir.T5_1_1_1_2" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Ritonavir.T5_1_1_1_3" rowspan="1" colspan="1">75</td>
+                    <td headers="hd_h_Ritonavir.T5_1_1_1_4" rowspan="1" colspan="1">9.1</td>
+                    <td headers="hd_h_Ritonavir.T5_1_1_1_5" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Ritonavir.T5_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Ritonavir.T5_1_1_1_1" rowspan="1" colspan="1">2 weeks</td>
+                    <td headers="hd_h_Ritonavir.T5_1_1_1_2" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Ritonavir.T5_1_1_1_3" rowspan="1" colspan="1">65</td>
+                    <td headers="hd_h_Ritonavir.T5_1_1_1_4" rowspan="1" colspan="1">9.1</td>
+                    <td headers="hd_h_Ritonavir.T5_1_1_1_5" rowspan="1" colspan="1">300</td>
+                    <td headers="hd_h_Ritonavir.T5_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Ritonavir.T5_1_1_1_1" rowspan="1" colspan="1">3 weeks</td>
+                    <td headers="hd_h_Ritonavir.T5_1_1_1_2" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Ritonavir.T5_1_1_1_3" rowspan="1" colspan="1">70</td>
+                    <td headers="hd_h_Ritonavir.T5_1_1_1_4" rowspan="1" colspan="1">9.2</td>
+                    <td headers="hd_h_Ritonavir.T5_1_1_1_5" rowspan="1" colspan="1">250</td>
+                    <td headers="hd_h_Ritonavir.T5_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Ritonavir.T5_1_1_1_1" rowspan="1" colspan="1">4 weeks</td>
+                    <td headers="hd_h_Ritonavir.T5_1_1_1_2" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Ritonavir.T5_1_1_1_3" rowspan="1" colspan="1">120</td>
+                    <td headers="hd_h_Ritonavir.T5_1_1_1_4" rowspan="1" colspan="1">9.2</td>
+                    <td headers="hd_h_Ritonavir.T5_1_1_1_5" rowspan="1" colspan="1">250</td>
+                    <td headers="hd_h_Ritonavir.T5_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Ritonavir.T5_1_1_1_1" rowspan="1" colspan="1">5 weeks</td>
+                    <td headers="hd_h_Ritonavir.T5_1_1_1_2" rowspan="1" colspan="1">0</td>
+                    <td headers="hd_h_Ritonavir.T5_1_1_1_3" rowspan="1" colspan="1">305</td>
+                    <td headers="hd_h_Ritonavir.T5_1_1_1_4" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Ritonavir.T5_1_1_1_5" rowspan="1" colspan="1">270</td>
+                    <td headers="hd_h_Ritonavir.T5_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Ritonavir.T5_1_1_1_1 hd_h_Ritonavir.T5_1_1_1_2 hd_h_Ritonavir.T5_1_1_1_3 hd_h_Ritonavir.T5_1_1_1_4 hd_h_Ritonavir.T5_1_1_1_5 hd_h_Ritonavir.T5_1_1_1_6" colspan="6" rowspan="1">Ritonavir stopped at week 5</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Ritonavir.T5_1_1_1_1" rowspan="1" colspan="1">6 weeks</td>
+                    <td headers="hd_h_Ritonavir.T5_1_1_1_2" rowspan="1" colspan="1">1 week</td>
+                    <td headers="hd_h_Ritonavir.T5_1_1_1_3" rowspan="1" colspan="1">580</td>
+                    <td headers="hd_h_Ritonavir.T5_1_1_1_4" rowspan="1" colspan="1">8.9</td>
+                    <td headers="hd_h_Ritonavir.T5_1_1_1_5" rowspan="1" colspan="1">100</td>
+                    <td headers="hd_h_Ritonavir.T5_1_1_1_6" rowspan="1" colspan="1">Symptoms</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Ritonavir.T5_1_1_1_1" rowspan="1" colspan="1">8 weeks</td>
+                    <td headers="hd_h_Ritonavir.T5_1_1_1_2" rowspan="1" colspan="1">3 weeks</td>
+                    <td headers="hd_h_Ritonavir.T5_1_1_1_3" rowspan="1" colspan="1">475</td>
+                    <td headers="hd_h_Ritonavir.T5_1_1_1_4" rowspan="1" colspan="1">8.8</td>
+                    <td headers="hd_h_Ritonavir.T5_1_1_1_5" rowspan="1" colspan="1">160</td>
+                    <td headers="hd_h_Ritonavir.T5_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Ritonavir.T5_1_1_1_1" rowspan="1" colspan="1">10 weeks</td>
+                    <td headers="hd_h_Ritonavir.T5_1_1_1_2" rowspan="1" colspan="1">5 weeks</td>
+                    <td headers="hd_h_Ritonavir.T5_1_1_1_3" rowspan="1" colspan="1">640</td>
+                    <td headers="hd_h_Ritonavir.T5_1_1_1_4" rowspan="1" colspan="1">8.1</td>
+                    <td headers="hd_h_Ritonavir.T5_1_1_1_5" rowspan="1" colspan="1">140</td>
+                    <td headers="hd_h_Ritonavir.T5_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Ritonavir.T5_1_1_1_1" rowspan="1" colspan="1">12 weeks</td>
+                    <td headers="hd_h_Ritonavir.T5_1_1_1_2" rowspan="1" colspan="1">7 weeks</td>
+                    <td headers="hd_h_Ritonavir.T5_1_1_1_3" rowspan="1" colspan="1">400</td>
+                    <td headers="hd_h_Ritonavir.T5_1_1_1_4" rowspan="1" colspan="1">6.5</td>
+                    <td headers="hd_h_Ritonavir.T5_1_1_1_5" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Ritonavir.T5_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Ritonavir.T5_1_1_1_1" rowspan="1" colspan="1">6 months</td>
+                    <td headers="hd_h_Ritonavir.T5_1_1_1_2" rowspan="1" colspan="1">5 months</td>
+                    <td headers="hd_h_Ritonavir.T5_1_1_1_3" rowspan="1" colspan="1">65</td>
+                    <td headers="hd_h_Ritonavir.T5_1_1_1_4" rowspan="1" colspan="1">5.0</td>
+                    <td headers="hd_h_Ritonavir.T5_1_1_1_5" rowspan="1" colspan="1">70</td>
+                    <td headers="hd_h_Ritonavir.T5_1_1_1_6" rowspan="1" colspan="1">HBeAg neg</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Ritonavir.T5_1_1_1_1 hd_h_Ritonavir.T5_1_1_1_2" colspan="2" rowspan="1">
+                      <bold>Normal Values</bold>
+                    </td>
+                    <td headers="hd_h_Ritonavir.T5_1_1_1_3" rowspan="1" colspan="1">
+                      <bold>&#x0003c;40</bold>
+                    </td>
+                    <td headers="hd_h_Ritonavir.T5_1_1_1_4" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Ritonavir.T5_1_1_1_5" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Ritonavir.T5_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+            <p>* All values estimated from Figure 1.</p>
+          </sec>
+          <sec id="Ritonavir.Comment3">
+            <title>Comment</title>
+            <p>The clinical course was typical of HBeAg seroconversion, with a flare of hepatitis B preceding marked fall in HBV DNA levels and loss of HBeAg and development of anti-HBe. Typically, serum aminotransferase levels improve with the loss of HBeAg. The relationship of this sudden change in chronic hepatitis B to the initiation of therapy with ritonavir suggests that the improvement in immune reactivity caused the clearance of HBeAg. Spontaneous loss of HBeAg is uncommon in immunosuppressed patients and sudden restoration of immune responses may well trigger this serologic event. In recent years, this phenomenon may be more common with use of antivirals that are active against HBV as well as HIV (such as lamivudine, tenofovir and emtricitabine). Initiation of therapy with these agents can also trigger a flare in hepatitis B that often precedes loss of HBeAg or improvement in serum ALT and HBV DNA levels. Patients with HIV-HBV coinfection should be treated for both viral infections concurrently.</p>
+          </sec>
+        </sec>
+      </sec>
+      <sec id="Ritonavir.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <boxed-text position="anchor" id="Ritonavir.BPI" orientation="portrait">
+          <p>
+            <bold>REPRESENTATIVE TRADE NAMES</bold>
+          </p>
+          <p>Ritonavir &#x02013; Norvir&#x000ae;</p>
+          <p>
+            <bold>DRUG CLASS</bold>
+          </p>
+          <p>Antiviral Agents</p>
+          <p>
+            <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Ritonavir">COMPLETE LABELING</ext-link>
+          </p>
+          <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+        </boxed-text>
+      </sec>
+      <sec id="Ritonavir.CHEMICAL_FORMULA_AND_STRUCTURE">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Ritonavir.T6" position="anchor" orientation="portrait">
+          <table>
+            <thead>
+              <tr>
+                <th id="hd_h_Ritonavir.T6_1_1_1_1" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Ritonavir.T6_1_1_1_2" rowspan="1" colspan="1">CAS REGISTRY NUMBER</th>
+                <th id="hd_h_Ritonavir.T6_1_1_1_3" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Ritonavir.T6_1_1_1_4" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Ritonavir.T6_1_1_1_1" rowspan="1" colspan="1">Ritonavir</td>
+                <td headers="hd_h_Ritonavir.T6_1_1_1_2" rowspan="1" colspan="1">
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135017420">155213-67-5</ext-link>
+                </td>
+                <td headers="hd_h_Ritonavir.T6_1_1_1_3" rowspan="1" colspan="1">C37-H48-N6-O5-S2</td>
+                <td headers="hd_h_Ritonavir.T6_1_1_1_4" rowspan="1" colspan="1">
+                  <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Ritonavir_Structure.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait">
+                    <alt-text>Ritonavir Chemical Structure</alt-text>
+                  </graphic>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Ritonavir.OTHER_REFERENCE_LINKS" sec-type="link-group">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=(Ritonavir/AE)+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D%3A%222999/12/31%22%5BEDat%5D)">Recent References on Ritonavir: from PubMed.gov</ext-link>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Ritonavir">Trials on Ritonavir: from ClinicalTrials.gov</ext-link>
+            </p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

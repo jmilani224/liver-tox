@@ -1,0 +1,704 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Cimetidine" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Cimetidine</book-part-id>
+      <title-group>
+        <title>Cimetidine</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>25</day>
+          <month>1</month>
+          <year>2018</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Cilostazol" document-type="chapter">Cilostazol</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Ciprofloxacin" document-type="chapter">Ciprofloxacin</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Cimetidine.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Cimetidine.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Cimetidine is a histamine type 2 receptor antagonist (H2 blocker) which is widely used for treatment of acid-peptic disease and heartburn. Cimetidine has been linked to rare instances of clinically apparent acute liver injury.</p>
+        </sec>
+        <sec id="Cimetidine.Background">
+          <title>Background</title>
+          <p>Cimetidine (sye met' i deen) was the first H2 blocker introduced into clinical practice in the United States and remains a commonly used agent for treatment of duodenal and gastric ulcer and gastroesophageal reflux disease. The H2 blockers are specific antagonists of the histamine type 2 receptor, which is found on the basolateral (antiluminal) membrane of gastric parietal cells. The binding of cimetidine to the H2 receptor results in inhibition of acid production and secretion, and improvement in symptoms and signs of acid-peptic disease. The H2 blockers inhibit an early, &#x0201c;upstream&#x0201d; step in gastric acid production and are less potent that the proton pump inhibitors, which inhibit the final common step in acid secretion. Nevertheless, the H2 blockers inhibit 24 hour gastric acid production by about 70% and are most effective in blocking basal and nocturnal acid production. Cimetidine was first approved for use in the United States in 1977 and is still used widely both by prescription and in over-the-counter forms. The listed indications for cimetidine include duodenal and gastric ulcer disease, gastroesophageal reflux and prevention of stress ulcers. Cimetidine is available by prescription in tablets of 200, 300, 400 and 800 mg in several generic forms and in both oral and parenteral forms under the brand name Tagamet. Over-the-counter preparations are usually tablets of 200 mg. The typical recommended dose of cimetidine for peptic ulcer disease in adults is 300 to 400 mg twice daily or 800 mg at night for up to 8 weeks, and maintenance doses of 400 mg once daily. Lower chronic or intermittent doses are commonly used to treat heartburn and indigestion. Side effects are uncommon, usually minor, and include diarrhea, constipation, fatigue, drowsiness, headache and muscle aches. Cimetidine is metabolized by and can inhibit several isoforms of the hepatic cytochrome P450 system (CYP 1A2, 2C9 and 2D6), which can result in significant drug-drug interactions if administered with agents that rely upon their metabolism by these microsomal enzymes (such as digoxin, warfarin, oral contraceptives, isoniazid and phenytoin).</p>
+        </sec>
+        <sec id="Cimetidine.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>Chronic therapy with cimetidine has been associated with minor elevations in serum aminotransferase levels in 1% to 4% of patients, but similar rates were reported in placebo recipients. The ALT elevations were usually asymptomatic and transient and usually resolved even without dose modification. Several instances of clinically apparent liver injury have been reported in patients receiving cimetidine, but the time to onset and pattern of injury has varied greatly. Onset can be as short as a few days to as long as 7 months, and the serum enzyme pattern varies from hepatocellular to cholestatic, most cases having a &#x0201c;mixed&#x0201d; hepatocellular-cholestatic pattern of injury (Cases 1 and 2). The injury is rarely severe and resolves within 4 to 12 weeks of stopping cimetidine. Liver biopsy histology often shows prominent centrolobular necrosis. Immunoallergic features (rash, fever, eosinophilia) are uncommon, as is autoantibody formation.</p>
+          <p>Likelihood score: B (highly likely cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Cimetidine.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>Cimetidine is metabolized by and inhibits the function of the microsomal P450 drug metabolizing enzymes, and injury may be the result of its activation to a toxic intermediate. Rapid recurrence with rechallenge is typical, but features of hypersensitivity are uncommon.</p>
+        </sec>
+        <sec id="Cimetidine.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>The hepatic injury caused by cimetidine is usually rapidly reversible with stopping the medication (Case 1). Cimetidine has not been definitively linked to cases of acute liver failure, but there has been at least one case of prolonged cholestasis with probable vanishing bile duct syndrome after an episode of cholestatic hepatitis attributed to cimetidine. Rechallenge usually causes recurrence which can be more severe than the initial episode. There appears to be little cross susceptibility to hepatic injury between ranitidine and cimetidine, but instances have been reported of recurrence after famotidine (Case 2). If acid suppression is required, use of an unrelated proton pump inhibitor is probably prudent for patients with clinically apparent cimetidine induced liver injury.</p>
+          <p>The H2 receptor blockers include cimetidine, famotidine, nizatidine, and ranitidine. General references on all four agents are given together after the overview section on H2 Blockers, while specific references are given with the description of each drug. See also the Proton Pump Inhibitors.</p>
+          <p>Drug Class: <related-object source-id="livertox" document-id="AntiulcerAgents">Antiulcer Agents</related-object></p>
+          <p>Other Drugs in the Subclass, <related-object source-id="livertox" document-id="H2ReceptorBlockers">Histamine Type 2 Receptor Antagonists/H2 Blockers</related-object>: <related-object source-id="livertox" document-id="Famotidine">Famotidine</related-object>, <related-object source-id="livertox" document-id="Nizatidine">Nizatidine</related-object>, <related-object source-id="livertox" document-id="Ranitidine">Ranitidine</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Cimetidine.CASE_REPORTS">
+        <title>CASE REPORTS</title>
+        <sec id="Cimetidine.Case_1._Mild_acute_liver_inju">
+          <title>Case 1. Mild acute liver injury due to cimetidine.</title>
+          <p>[Modified from: Ruiz Del Arbol L, Moreira V, Moreno A, Hern&#x000e1;ndez Ranz F, Cano A, Garc&#x000ed;a Plaza A. Bridging hepatic necrosis associated with cimetidine. Am J Gastroenterol 1980; 74: 267-9. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/pubmed/7468564">PubMed Citation</ext-link>]</p>
+          <p>A 67 year old man with gastroesophageal reflux disease (GERD) was found to have abnormal liver tests 7 months after starting cimetidine (400 mg daily). He felt well and denied fatigue, abdominal pain or jaundice. Laboratory tests showed elevations in serum aminotransferase and alkaline phosphatase levels and a total serum bilirubin of 2.0 mg/dL (Table). Tests for hepatitis B were negative. Cimetidine was stopped and he was switched to oral antacids. Serum enzyme levels fell into the normal range within two weeks, but because of worsening reflux symptoms, cimetidine was restarted. He rapidly redeveloped serum laboratory abnormalities, and cimetidine was again stopped. Because of his severe reflux symptoms, he underwent surgery two weeks later, at which time a liver biopsy was done which showed centrolobular (zone 3) necrosis with areas of collapse and bridging fibrosis, with only mild residual inflammation. In follow up, he was asymptomatic and serum enzymes were normal.</p>
+          <sec id="Cimetidine.Key_Points1">
+            <title>Key Points</title>
+            <table-wrap id="Cimetidine.T1" position="anchor" orientation="portrait">
+              <table>
+                <thead>
+                  <tr>
+                    <th id="hd_h_Cimetidine.T1_1_1_1_1" rowspan="1" colspan="1">Medication:</th>
+                    <td rowspan="1" colspan="1">Cimetidine (200 mg daily)</td>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <th headers="hd_h_Cimetidine.T1_1_1_1_1" id="hd_b_Cimetidine.T1_1_1_1_1" rowspan="1" colspan="1">Pattern:</th>
+                    <td headers="hd_b_Cimetidine.T1_1_1_1_1" rowspan="1" colspan="1">Mixed (R=2.4)</td>
+                  </tr>
+                  <tr>
+                    <th headers="hd_h_Cimetidine.T1_1_1_1_1" id="hd_b_Cimetidine.T1_1_1_2_1" rowspan="1" colspan="1">Severity:</th>
+                    <td headers="hd_b_Cimetidine.T1_1_1_2_1" rowspan="1" colspan="1">1+ (enzyme elevation without jaundice or symptoms)</td>
+                  </tr>
+                  <tr>
+                    <th headers="hd_h_Cimetidine.T1_1_1_1_1" id="hd_b_Cimetidine.T1_1_1_3_1" rowspan="1" colspan="1">Latency:</th>
+                    <td headers="hd_b_Cimetidine.T1_1_1_3_1" rowspan="1" colspan="1">7 months initially, 2 weeks upon rechallenge</td>
+                  </tr>
+                  <tr>
+                    <th headers="hd_h_Cimetidine.T1_1_1_1_1" id="hd_b_Cimetidine.T1_1_1_4_1" rowspan="1" colspan="1">Recovery:</th>
+                    <td headers="hd_b_Cimetidine.T1_1_1_4_1" rowspan="1" colspan="1">~10 weeks initially, 2 weeks upon rechallenge</td>
+                  </tr>
+                  <tr>
+                    <th headers="hd_h_Cimetidine.T1_1_1_1_1" id="hd_b_Cimetidine.T1_1_1_5_1" rowspan="1" colspan="1">Other medications:</th>
+                    <td headers="hd_b_Cimetidine.T1_1_1_5_1" rowspan="1" colspan="1">Antacids</td>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Cimetidine.Laboratory_Values1">
+            <title>Laboratory Values</title>
+            <table-wrap id="Cimetidine.T2" position="anchor" orientation="portrait">
+              <table>
+                <thead>
+                  <tr>
+                    <th id="hd_h_Cimetidine.T2_1_1_1_1" rowspan="1" colspan="1">Time After Starting</th>
+                    <th id="hd_h_Cimetidine.T2_1_1_1_2" rowspan="1" colspan="1">Time After Stopping</th>
+                    <th id="hd_h_Cimetidine.T2_1_1_1_3" rowspan="1" colspan="1">ALT (U/L)</th>
+                    <th id="hd_h_Cimetidine.T2_1_1_1_4" rowspan="1" colspan="1">Alk P (U/L)</th>
+                    <th id="hd_h_Cimetidine.T2_1_1_1_5" rowspan="1" colspan="1">Bilirubin (mg/dL)</th>
+                    <th id="hd_h_Cimetidine.T2_1_1_1_6" rowspan="1" colspan="1">Other</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td headers="hd_h_Cimetidine.T2_1_1_1_1" rowspan="1" colspan="1">0</td>
+                    <td headers="hd_h_Cimetidine.T2_1_1_1_2" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Cimetidine.T2_1_1_1_3 hd_h_Cimetidine.T2_1_1_1_4 hd_h_Cimetidine.T2_1_1_1_5 hd_h_Cimetidine.T2_1_1_1_6" colspan="4" rowspan="1">Cimetidine therapy for GERD</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Cimetidine.T2_1_1_1_1" rowspan="1" colspan="1">7 months</td>
+                    <td headers="hd_h_Cimetidine.T2_1_1_1_2" rowspan="1" colspan="1">0</td>
+                    <td headers="hd_h_Cimetidine.T2_1_1_1_3" rowspan="1" colspan="1">246</td>
+                    <td headers="hd_h_Cimetidine.T2_1_1_1_4" rowspan="1" colspan="1">216</td>
+                    <td headers="hd_h_Cimetidine.T2_1_1_1_5" rowspan="1" colspan="1">2.0</td>
+                    <td headers="hd_h_Cimetidine.T2_1_1_1_6" rowspan="1" colspan="1">Cimetidine stopped</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Cimetidine.T2_1_1_1_1" rowspan="1" colspan="1">9 months</td>
+                    <td headers="hd_h_Cimetidine.T2_1_1_1_2" rowspan="1" colspan="1">2 months</td>
+                    <td headers="hd_h_Cimetidine.T2_1_1_1_3" rowspan="1" colspan="1">71</td>
+                    <td headers="hd_h_Cimetidine.T2_1_1_1_4" rowspan="1" colspan="1">104</td>
+                    <td headers="hd_h_Cimetidine.T2_1_1_1_5" rowspan="1" colspan="1">1.4</td>
+                    <td headers="hd_h_Cimetidine.T2_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Cimetidine.T2_1_1_1_1" rowspan="1" colspan="1">10 months</td>
+                    <td headers="hd_h_Cimetidine.T2_1_1_1_2" rowspan="1" colspan="1">3 months</td>
+                    <td headers="hd_h_Cimetidine.T2_1_1_1_3" rowspan="1" colspan="1">32</td>
+                    <td headers="hd_h_Cimetidine.T2_1_1_1_4" rowspan="1" colspan="1">86</td>
+                    <td headers="hd_h_Cimetidine.T2_1_1_1_5" rowspan="1" colspan="1">0.8</td>
+                    <td headers="hd_h_Cimetidine.T2_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Cimetidine.T2_1_1_1_1" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Cimetidine.T2_1_1_1_2" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Cimetidine.T2_1_1_1_3 hd_h_Cimetidine.T2_1_1_1_4 hd_h_Cimetidine.T2_1_1_1_5 hd_h_Cimetidine.T2_1_1_1_6" colspan="4" rowspan="1">Cimetidine restarted</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Cimetidine.T2_1_1_1_1" rowspan="1" colspan="1">2 weeks</td>
+                    <td headers="hd_h_Cimetidine.T2_1_1_1_2" rowspan="1" colspan="1">0</td>
+                    <td headers="hd_h_Cimetidine.T2_1_1_1_3" rowspan="1" colspan="1">175</td>
+                    <td headers="hd_h_Cimetidine.T2_1_1_1_4" rowspan="1" colspan="1">210</td>
+                    <td headers="hd_h_Cimetidine.T2_1_1_1_5" rowspan="1" colspan="1">2.3</td>
+                    <td headers="hd_h_Cimetidine.T2_1_1_1_6" rowspan="1" colspan="1">Cimetidine stopped</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Cimetidine.T2_1_1_1_1" rowspan="1" colspan="1">4 weeks</td>
+                    <td headers="hd_h_Cimetidine.T2_1_1_1_2" rowspan="1" colspan="1">2 weeks</td>
+                    <td headers="hd_h_Cimetidine.T2_1_1_1_3" rowspan="1" colspan="1">28</td>
+                    <td headers="hd_h_Cimetidine.T2_1_1_1_4" rowspan="1" colspan="1">79</td>
+                    <td headers="hd_h_Cimetidine.T2_1_1_1_5" rowspan="1" colspan="1">1.0</td>
+                    <td headers="hd_h_Cimetidine.T2_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Cimetidine.T2_1_1_1_1" rowspan="1" colspan="1">9 months</td>
+                    <td headers="hd_h_Cimetidine.T2_1_1_1_2" rowspan="1" colspan="1">8 months</td>
+                    <td headers="hd_h_Cimetidine.T2_1_1_1_3" rowspan="1" colspan="1">14</td>
+                    <td headers="hd_h_Cimetidine.T2_1_1_1_4" rowspan="1" colspan="1">80</td>
+                    <td headers="hd_h_Cimetidine.T2_1_1_1_5" rowspan="1" colspan="1">0.9</td>
+                    <td headers="hd_h_Cimetidine.T2_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Cimetidine.T2_1_1_1_1 hd_h_Cimetidine.T2_1_1_1_2" colspan="2" rowspan="1">
+                      <bold>Normal Values</bold>
+                    </td>
+                    <td headers="hd_h_Cimetidine.T2_1_1_1_3" rowspan="1" colspan="1">
+                      <bold>&#x0003c;45</bold>
+                    </td>
+                    <td headers="hd_h_Cimetidine.T2_1_1_1_4" rowspan="1" colspan="1">
+                      <bold>&#x0003c;90</bold>
+                    </td>
+                    <td headers="hd_h_Cimetidine.T2_1_1_1_5" rowspan="1" colspan="1">
+                      <bold>&#x0003c;1.2</bold>
+                    </td>
+                    <td headers="hd_h_Cimetidine.T2_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Cimetidine.Comment1">
+            <title>Comment</title>
+            <p>This patient developed a mild, anicteric hepatitis with a "mixed" pattern of serum enzyme elevations, which was first discovered 7 months after he had started cimetidine therapy for gastroesophageal reflux. He recovered upon withdrawal of cimetidine, but his reflux symptoms led to cimetidine being restarted, whereupon the hepatitis recurred. Interestingly, the pattern of serum enzyme elevations and mild increase in bilirubin levels were identical upon reexposure, but the latency to onset and the time to recovery were more rapid. A liver biopsy showed centrolobular necrosis which is typical of cimetidine induced hepatic injury.</p>
+          </sec>
+        </sec>
+        <sec id="Cimetidine.Case_2._Acute_hepatitis_attri">
+          <title>Case 2. Acute hepatitis attributed to cimetidine.</title>
+          <p>[Modified from: Zaidenstein R, Cohen N, Golik A. [Cimetidine hepatitis]. Harefuah 1992; 123: 516-8, 572. Hebrew. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/pubmed/1289197">PubMed Citation</ext-link>]</p>
+          <p>A 41 year old man with rheumatoid arthritis and active duodenal ulcer disease developed jaundice within 3 days of starting intravenous cimetidine (400 mg twice daily). He had been admitted from the emergency room with stable vital signs, but pallor and hemoglobin of 5.1 g/dL, and stabilized with fluids and 4 units of packed red blood cells. Serum enzymes were normal on the first admission day shortly after cimetidine was started. By day three of intravenous therapy, however, serum bilirubin was 19.4 mg/dL, ALT 1000 U/L, and alkaline phosphatase 200 U/L. In addition, LDH levels were markedly elevated on day three (2760 U/L), having been only minimally elevated one day before (415 U/L). Tests for hepatitis A and B were negative, and abdominal ultrasound showed no evidence of gallstones or biliary obstruction. A liver biopsy was not done. Liver tests improved almost as rapidly as they became abnormal and were back to baseline within 2 weeks.</p>
+          <sec id="Cimetidine.Key_Points2">
+            <title>Key Points</title>
+            <table-wrap id="Cimetidine.T3" position="anchor" orientation="portrait">
+              <table>
+                <thead>
+                  <tr>
+                    <th id="hd_h_Cimetidine.T3_1_1_1_1" rowspan="1" colspan="1">Medication:</th>
+                    <td rowspan="1" colspan="1">Cimetidine (400 mg intravenously twice daily)</td>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <th headers="hd_h_Cimetidine.T3_1_1_1_1" id="hd_b_Cimetidine.T3_1_1_1_1" rowspan="1" colspan="1">Pattern:</th>
+                    <td headers="hd_b_Cimetidine.T3_1_1_1_1" rowspan="1" colspan="1">Hepatocellular (R=~12)</td>
+                  </tr>
+                  <tr>
+                    <th headers="hd_h_Cimetidine.T3_1_1_1_1" id="hd_b_Cimetidine.T3_1_1_2_1" rowspan="1" colspan="1">Severity:</th>
+                    <td headers="hd_b_Cimetidine.T3_1_1_2_1" rowspan="1" colspan="1">3+ (jaundice and hospitalization prolonged)</td>
+                  </tr>
+                  <tr>
+                    <th headers="hd_h_Cimetidine.T3_1_1_1_1" id="hd_b_Cimetidine.T3_1_1_3_1" rowspan="1" colspan="1">Latency:</th>
+                    <td headers="hd_b_Cimetidine.T3_1_1_3_1" rowspan="1" colspan="1">3 days</td>
+                  </tr>
+                  <tr>
+                    <th headers="hd_h_Cimetidine.T3_1_1_1_1" id="hd_b_Cimetidine.T3_1_1_4_1" rowspan="1" colspan="1">Recovery:</th>
+                    <td headers="hd_b_Cimetidine.T3_1_1_4_1" rowspan="1" colspan="1">2 weeks</td>
+                  </tr>
+                  <tr>
+                    <th headers="hd_h_Cimetidine.T3_1_1_1_1" id="hd_b_Cimetidine.T3_1_1_5_1" rowspan="1" colspan="1">Other medications:</th>
+                    <td headers="hd_b_Cimetidine.T3_1_1_5_1" rowspan="1" colspan="1">Occasional aspirin and indomethacin</td>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Cimetidine.Laboratory_Values2">
+            <title>Laboratory Values</title>
+            <table-wrap id="Cimetidine.T4" position="anchor" orientation="portrait">
+              <table>
+                <thead>
+                  <tr>
+                    <th rowspan="1" colspan="1">Time After Starting</th>
+                    <th rowspan="1" colspan="1">Time After Stopping</th>
+                    <th rowspan="1" colspan="1">ALT (U/L)</th>
+                    <th rowspan="1" colspan="1">Alk P (U/L)</th>
+                    <th rowspan="1" colspan="1">Bilirubin (mg/dL)</th>
+                    <th rowspan="1" colspan="1">Other</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td rowspan="1" colspan="1">0</td>
+                    <td rowspan="1" colspan="1"/>
+                    <td colspan="4" rowspan="1">Admitted for UGI bleeding and started on cimetidine</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">1 day</td>
+                    <td rowspan="1" colspan="1"/>
+                    <td rowspan="1" colspan="1">7</td>
+                    <td rowspan="1" colspan="1">93</td>
+                    <td rowspan="1" colspan="1"/>
+                    <td rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">3 days</td>
+                    <td rowspan="1" colspan="1">0</td>
+                    <td rowspan="1" colspan="1">1000</td>
+                    <td rowspan="1" colspan="1">200</td>
+                    <td rowspan="1" colspan="1">19.4</td>
+                    <td rowspan="1" colspan="1">Cimetidine stopped</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">4 days</td>
+                    <td rowspan="1" colspan="1">1 day</td>
+                    <td rowspan="1" colspan="1">960</td>
+                    <td rowspan="1" colspan="1">202</td>
+                    <td rowspan="1" colspan="1">7.4</td>
+                    <td rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">5 days</td>
+                    <td rowspan="1" colspan="1">4 days</td>
+                    <td rowspan="1" colspan="1">740</td>
+                    <td rowspan="1" colspan="1">283</td>
+                    <td rowspan="1" colspan="1">8.0</td>
+                    <td rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">8 days</td>
+                    <td rowspan="1" colspan="1">7 d ays</td>
+                    <td rowspan="1" colspan="1">184</td>
+                    <td rowspan="1" colspan="1">462</td>
+                    <td rowspan="1" colspan="1">3.1</td>
+                    <td rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">2 weeks</td>
+                    <td rowspan="1" colspan="1">13 days</td>
+                    <td rowspan="1" colspan="1">44</td>
+                    <td rowspan="1" colspan="1">202</td>
+                    <td rowspan="1" colspan="1">1.1</td>
+                    <td rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td colspan="2" rowspan="1">
+                      <bold>Normal Values*</bold>
+                    </td>
+                    <td rowspan="1" colspan="1">
+                      <bold>&#x0003c;45</bold>
+                    </td>
+                    <td rowspan="1" colspan="1">
+                      <bold>&#x0003c;115</bold>
+                    </td>
+                    <td rowspan="1" colspan="1">
+                      <bold>&#x0003c;1.2</bold>
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+            <p>* Normal range not provided.</p>
+          </sec>
+          <sec id="Cimetidine.Comment2">
+            <title>Comment</title>
+            <p>This patient developed jaundice within days of starting intravenous cimetidine. The clinical pattern was acute hepatic necrosis, with rapid and precipitous onset, high peak serum aminotransferase and LDH levels, and rapid recovery upon withdrawal of the agent. The precipitous nature of this example may have been due to the intravenous administration of cimetidine. Another possibility is that the injury was due to ischemic hepatitis caused by an unobserved episode of hypotension (the patient was admitted with suspected upper gastrointestinal bleed with a hemoglobin level of only 5.1 g/dL) and that the blood transfusions contributed to the rapid onset of jaundice.</p>
+          </sec>
+        </sec>
+        <sec id="Cimetidine.Case_3._Acute_liver_injury_du">
+          <title>Case 3. Acute liver injury due to famotidine and recurrence due to cimetidine.</title>
+          <p>[Modified from: Hashimoto F, Davis RL, Egli D. Hepatitis following treatments with famotidine and then cimetidine. Ann Pharmacother 1994; 28: 37-9. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/pubmed/8123956">PubMed Citation</ext-link>]</p>
+          <p>A 51 year old woman with symptomatic duodenal ulcer disease was treated with famotidine (40 mg daily), with subsequent improvement in epigastric pain and nausea, but with reappearance of abdominal discomfort followed by dark urine, itching and jaundice starting 3 weeks later. She denied fever or rash or history of drug allergy. She was overweight (BMI=34.1), but had lost 2.3 kilograms in the previous week. She had no history of liver disease, alcohol abuse or risk factors for viral hepatitis. On examination, she was jaundiced and had mild hepatic tenderness but no peripheral signs of chronic liver disease. Laboratory testing showed total bilirubin of 5.0 (direct 4.1) mg/dL, ALT 661 U/L, alkaline phosphatase 193 U/L, with normal serum albumin and prothrombin time (Table). Tests for hepatitis A, B and C were negative as were autoantibodies. Abdominal ultrasound showed an echogenic liver suggestive of steatosis, but no signs of biliary obstruction. Famotidine was stopped and omeprazole (20 mg daily) substituted. She improved rapidly and liver tests were normal or near normal 5 weeks later, at which point cimetidine (800 mg daily) was substituted for omeprazole. One week later she redeveloped abdominal pain and nausea. The dose of cimetidine was increased, but over the next week she developed worsening symptoms and dark urine. Laboratory testing showed rises in serum bilirubin, ALT and alkaline phosphatase similar to those after famotidine therapy and cimetidine was stopped. Repeat evaluation revealed no evidence of viral hepatitis, autoimmune liver disease or biliary obstruction. She improved and was maintained on omeprazole therapy for her acid-peptic disease. In follow up 6 weeks later, liver tests had returned to normal or near normal levels.</p>
+          <sec id="Cimetidine.Key_Points3">
+            <title>Key Points</title>
+            <table-wrap id="Cimetidine.T5" position="anchor" orientation="portrait">
+              <table>
+                <thead>
+                  <tr>
+                    <th id="hd_h_Cimetidine.T5_1_1_1_1" rowspan="1" colspan="1">Medication:</th>
+                    <td rowspan="1" colspan="1">Famotidine (40 mg daily), Cimetidine (800 and 1200 mg daily)</td>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <th headers="hd_h_Cimetidine.T5_1_1_1_1" id="hd_b_Cimetidine.T5_1_1_1_1" rowspan="1" colspan="1">Pattern:</th>
+                    <td headers="hd_b_Cimetidine.T5_1_1_1_1" rowspan="1" colspan="1">Hepatocellular (R=14)</td>
+                  </tr>
+                  <tr>
+                    <th headers="hd_h_Cimetidine.T5_1_1_1_1" id="hd_b_Cimetidine.T5_1_1_2_1" rowspan="1" colspan="1">Severity:</th>
+                    <td headers="hd_b_Cimetidine.T5_1_1_2_1" rowspan="1" colspan="1">3 (jaundice, hospitalization)</td>
+                  </tr>
+                  <tr>
+                    <th headers="hd_h_Cimetidine.T5_1_1_1_1" id="hd_b_Cimetidine.T5_1_1_3_1" rowspan="1" colspan="1">Latency:</th>
+                    <td headers="hd_b_Cimetidine.T5_1_1_3_1" rowspan="1" colspan="1">3-4 weeks for famotidine, 1-2 weeks for cimetidine</td>
+                  </tr>
+                  <tr>
+                    <th headers="hd_h_Cimetidine.T5_1_1_1_1" id="hd_b_Cimetidine.T5_1_1_4_1" rowspan="1" colspan="1">Recovery:</th>
+                    <td headers="hd_b_Cimetidine.T5_1_1_4_1" rowspan="1" colspan="1">6 weeks</td>
+                  </tr>
+                  <tr>
+                    <th headers="hd_h_Cimetidine.T5_1_1_1_1" id="hd_b_Cimetidine.T5_1_1_5_1" rowspan="1" colspan="1">Other medications:</th>
+                    <td headers="hd_b_Cimetidine.T5_1_1_5_1" rowspan="1" colspan="1">Antacids, occasional acetaminophen, oral contraceptives (many years)</td>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Cimetidine.Laboratory_Values3">
+            <title>Laboratory Values</title>
+            <table-wrap id="Cimetidine.T6" position="anchor" orientation="portrait">
+              <table>
+                <thead>
+                  <tr>
+                    <th id="hd_h_Cimetidine.T6_1_1_1_1" rowspan="1" colspan="1">Time After Starting</th>
+                    <th id="hd_h_Cimetidine.T6_1_1_1_2" rowspan="1" colspan="1">Time After Stopping</th>
+                    <th id="hd_h_Cimetidine.T6_1_1_1_3" rowspan="1" colspan="1">ALT (U/L)</th>
+                    <th id="hd_h_Cimetidine.T6_1_1_1_4" rowspan="1" colspan="1">Alk P (U/L)</th>
+                    <th id="hd_h_Cimetidine.T6_1_1_1_5" rowspan="1" colspan="1">Bilirubin (mg/dL)</th>
+                    <th id="hd_h_Cimetidine.T6_1_1_1_6" rowspan="1" colspan="1">Other</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td headers="hd_h_Cimetidine.T6_1_1_1_1" rowspan="1" colspan="1">0</td>
+                    <td headers="hd_h_Cimetidine.T6_1_1_1_2" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Cimetidine.T6_1_1_1_3 hd_h_Cimetidine.T6_1_1_1_4 hd_h_Cimetidine.T6_1_1_1_5 hd_h_Cimetidine.T6_1_1_1_6" colspan="4" rowspan="1">Famotidine (40 mg/day) started</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Cimetidine.T6_1_1_1_1" rowspan="1" colspan="1">4 weeks</td>
+                    <td headers="hd_h_Cimetidine.T6_1_1_1_2" rowspan="1" colspan="1">0</td>
+                    <td headers="hd_h_Cimetidine.T6_1_1_1_3" rowspan="1" colspan="1">661</td>
+                    <td headers="hd_h_Cimetidine.T6_1_1_1_4" rowspan="1" colspan="1">193</td>
+                    <td headers="hd_h_Cimetidine.T6_1_1_1_5" rowspan="1" colspan="1">5.0</td>
+                    <td headers="hd_h_Cimetidine.T6_1_1_1_6" rowspan="1" colspan="1">Famotidine stopped</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Cimetidine.T6_1_1_1_1" rowspan="1" colspan="1">5 weeks</td>
+                    <td headers="hd_h_Cimetidine.T6_1_1_1_2" rowspan="1" colspan="1">1 week</td>
+                    <td headers="hd_h_Cimetidine.T6_1_1_1_3" rowspan="1" colspan="1">250</td>
+                    <td headers="hd_h_Cimetidine.T6_1_1_1_4" rowspan="1" colspan="1">250</td>
+                    <td headers="hd_h_Cimetidine.T6_1_1_1_5" rowspan="1" colspan="1">1.5</td>
+                    <td headers="hd_h_Cimetidine.T6_1_1_1_6" rowspan="1" colspan="1">Symptoms resolved</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Cimetidine.T6_1_1_1_1" rowspan="1" colspan="1">6 weeks</td>
+                    <td headers="hd_h_Cimetidine.T6_1_1_1_2" rowspan="1" colspan="1">2 weeks</td>
+                    <td headers="hd_h_Cimetidine.T6_1_1_1_3" rowspan="1" colspan="1">120</td>
+                    <td headers="hd_h_Cimetidine.T6_1_1_1_4" rowspan="1" colspan="1">150</td>
+                    <td headers="hd_h_Cimetidine.T6_1_1_1_5" rowspan="1" colspan="1">1.0</td>
+                    <td headers="hd_h_Cimetidine.T6_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Cimetidine.T6_1_1_1_1" rowspan="1" colspan="1">9 weeks</td>
+                    <td headers="hd_h_Cimetidine.T6_1_1_1_2" rowspan="1" colspan="1">5 weeks</td>
+                    <td headers="hd_h_Cimetidine.T6_1_1_1_3" rowspan="1" colspan="1">55</td>
+                    <td headers="hd_h_Cimetidine.T6_1_1_1_4" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Cimetidine.T6_1_1_1_5" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Cimetidine.T6_1_1_1_6" rowspan="1" colspan="1">Cimetidine started</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Cimetidine.T6_1_1_1_1" rowspan="1" colspan="1">11 [2] weeks</td>
+                    <td headers="hd_h_Cimetidine.T6_1_1_1_2" rowspan="1" colspan="1">7 [0] weeks</td>
+                    <td headers="hd_h_Cimetidine.T6_1_1_1_3" rowspan="1" colspan="1">590</td>
+                    <td headers="hd_h_Cimetidine.T6_1_1_1_4" rowspan="1" colspan="1">180</td>
+                    <td headers="hd_h_Cimetidine.T6_1_1_1_5" rowspan="1" colspan="1">4.4</td>
+                    <td headers="hd_h_Cimetidine.T6_1_1_1_6" rowspan="1" colspan="1">Cimetidine stopped</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Cimetidine.T6_1_1_1_1" rowspan="1" colspan="1">12 [3] weeks</td>
+                    <td headers="hd_h_Cimetidine.T6_1_1_1_2" rowspan="1" colspan="1">[1] week</td>
+                    <td headers="hd_h_Cimetidine.T6_1_1_1_3" rowspan="1" colspan="1">430</td>
+                    <td headers="hd_h_Cimetidine.T6_1_1_1_4" rowspan="1" colspan="1">320</td>
+                    <td headers="hd_h_Cimetidine.T6_1_1_1_5" rowspan="1" colspan="1">8.2</td>
+                    <td headers="hd_h_Cimetidine.T6_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Cimetidine.T6_1_1_1_1" rowspan="1" colspan="1">13 [4] weeks</td>
+                    <td headers="hd_h_Cimetidine.T6_1_1_1_2" rowspan="1" colspan="1">[2] weeks</td>
+                    <td headers="hd_h_Cimetidine.T6_1_1_1_3" rowspan="1" colspan="1">190</td>
+                    <td headers="hd_h_Cimetidine.T6_1_1_1_4" rowspan="1" colspan="1">210</td>
+                    <td headers="hd_h_Cimetidine.T6_1_1_1_5" rowspan="1" colspan="1">1.2</td>
+                    <td headers="hd_h_Cimetidine.T6_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Cimetidine.T6_1_1_1_1" rowspan="1" colspan="1">14 [5] weeks</td>
+                    <td headers="hd_h_Cimetidine.T6_1_1_1_2" rowspan="1" colspan="1">[3] weeks</td>
+                    <td headers="hd_h_Cimetidine.T6_1_1_1_3" rowspan="1" colspan="1">90</td>
+                    <td headers="hd_h_Cimetidine.T6_1_1_1_4" rowspan="1" colspan="1">180</td>
+                    <td headers="hd_h_Cimetidine.T6_1_1_1_5" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Cimetidine.T6_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Cimetidine.T6_1_1_1_1" rowspan="1" colspan="1">16 [7] weeks</td>
+                    <td headers="hd_h_Cimetidine.T6_1_1_1_2" rowspan="1" colspan="1">[5] weeks</td>
+                    <td headers="hd_h_Cimetidine.T6_1_1_1_3" rowspan="1" colspan="1">48</td>
+                    <td headers="hd_h_Cimetidine.T6_1_1_1_4" rowspan="1" colspan="1">120</td>
+                    <td headers="hd_h_Cimetidine.T6_1_1_1_5" rowspan="1" colspan="1">1.0</td>
+                    <td headers="hd_h_Cimetidine.T6_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Cimetidine.T6_1_1_1_1" rowspan="1" colspan="1">18 [9] weeks</td>
+                    <td headers="hd_h_Cimetidine.T6_1_1_1_2" rowspan="1" colspan="1">[7] weeks</td>
+                    <td headers="hd_h_Cimetidine.T6_1_1_1_3" rowspan="1" colspan="1">44</td>
+                    <td headers="hd_h_Cimetidine.T6_1_1_1_4" rowspan="1" colspan="1">60</td>
+                    <td headers="hd_h_Cimetidine.T6_1_1_1_5" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Cimetidine.T6_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Cimetidine.T6_1_1_1_1 hd_h_Cimetidine.T6_1_1_1_2" colspan="2" rowspan="1">
+                      <bold>Normal Values</bold>
+                    </td>
+                    <td headers="hd_h_Cimetidine.T6_1_1_1_3" rowspan="1" colspan="1">
+                      <bold>&#x0003c;35</bold>
+                    </td>
+                    <td headers="hd_h_Cimetidine.T6_1_1_1_4" rowspan="1" colspan="1">
+                      <bold>&#x0003c;150</bold>
+                    </td>
+                    <td headers="hd_h_Cimetidine.T6_1_1_1_5" rowspan="1" colspan="1">
+                      <bold>&#x0003c;1.2</bold>
+                    </td>
+                    <td headers="hd_h_Cimetidine.T6_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+            <p>* Some values estimated from Figure 1, and bilirubin levels converted from &#x000b5;mol to mg/dL. Weeks [in brackets] represent time after starting or stopping cimetidine.</p>
+          </sec>
+          <sec id="Cimetidine.Comment3">
+            <title>Comment</title>
+            <p>This patient appeared to develop a transient and self-limiting acute hepatitis-like injury after both famotidine and cimetidine therapy. The cross reactivity of these two agents was not suspected, based upon the lack of such cross reactivity to hepatic injury between cimetidine and ranitidine. However, in the case shown above, the recurrence was more rapid and perhaps slightly more severe with the &#x0201c;re-exposure&#x0201d; using cimetidine. Typical of H2 receptor blocker induced liver injury was the rapid recovery upon withdrawal. While liver biopsy was not done, in most such instances centrolobular necrosis with inflammation and mild cholestasis is found. This patient may have had mild underlying nonalcoholic fatty liver disease, but this is a common medical condition and probably did not play a role in the clinically apparent liver injury.</p>
+          </sec>
+        </sec>
+      </sec>
+      <sec id="Cimetidine.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <boxed-text position="anchor" id="Cimetidine.BPI" orientation="portrait">
+          <p>
+            <bold> REPRESENTATIVE TRADE NAMES</bold>
+          </p>
+          <p>Cimetidine &#x02013; Generic, Tagamet&#x000ae;</p>
+          <p>
+            <bold>DRUG CLASS</bold>
+          </p>
+          <p>Antiulcer Agents</p>
+          <p>
+            <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Cimetidine">COMPLETE LABELING</ext-link>
+          </p>
+          <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+        </boxed-text>
+      </sec>
+      <sec id="Cimetidine.CHEMICAL_FORMULA_AND_STRUCTUR">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Cimetidine.T7" position="anchor" orientation="portrait">
+          <table>
+            <thead>
+              <tr>
+                <th id="hd_h_Cimetidine.T7_1_1_1_1" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Cimetidine.T7_1_1_1_2" rowspan="1" colspan="1">CAS REGISTRY NUMBER</th>
+                <th id="hd_h_Cimetidine.T7_1_1_1_3" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Cimetidine.T7_1_1_1_4" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Cimetidine.T7_1_1_1_1" rowspan="1" colspan="1">Cimetidine</td>
+                <td headers="hd_h_Cimetidine.T7_1_1_1_2" rowspan="1" colspan="1">
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135002058">51481-61-9</ext-link>
+                </td>
+                <td headers="hd_h_Cimetidine.T7_1_1_1_3" rowspan="1" colspan="1">C10-H16-N6-S</td>
+                <td headers="hd_h_Cimetidine.T7_1_1_1_4" rowspan="1" colspan="1">
+                  <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Cimetidine_Structure.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait">
+                    <alt-text>Cimetidine Chemical Structure</alt-text>
+                  </graphic>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Cimetidine.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 25 January 2018</p>
+        <ref-list id="Cimetidine.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Cimetidine.R1">
+            <mixed-citation publication-type="other">Zimmerman HJ. H2 Receptors antagonists. In, Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999, pp. 719-20.<annotation><p><italic toggle="yes">(Expert review of hepatotoxicity published in 1999 states that cimetidine and ranitidine, despite extensive use, have been implicated in only a small number of cases of hepatic injury, 39 for cimetidine, 35 for ranitidine and 1 for famotidine, all cases recovering and signs of hypersensitivity being rare).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Cimetidine.R2">
+            <mixed-citation publication-type="other">Wallace JL, Sharkey KA. Pharmacotherapy of gastric acidity, peptic ulcers, and gastroesophageal reflux disease. In, Brunton LL, Chabner BA, Knollman BC, eds. Goodman &#x00026; Gilman.s the pharmacological basis of therapeutics. 121th ed. New York: McGraw-Hill, 2011, pp. 1309-1322.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Cimetidine.R3">
+            <mixed-citation publication-type="journal">Z&#x000fc;chner H. [Cholestatic hepatitis under Cimetidine]. Dtsch Med Wochenschr 1977; 102: 1788-9. German. <annotation><p><italic toggle="yes">(57 year old developed anorexia 2 days after starting cimetidine followed by jaundice [bilirubin 9.8 mg/dL, ALT 487 U/L, Alk P 1600 U/L], rapid resolution on stopping, and recurrence on rechallenge with bilirubin rising to 5.9 mg/dL, ALT 330 U/L, Alk P 528 U/L, biopsy showing intrahepatic cholestasis).</italic></p></annotation><pub-id pub-id-type="pmid">923468</pub-id></mixed-citation>
+          </ref>
+          <ref id="Cimetidine.R4">
+            <mixed-citation publication-type="journal">Bodemar G, Walan A. Maintenance treatment of recurrent peptic ulcer by cimetidine. Lancet 1978; 311: 403-7. <annotation><p><italic toggle="yes">(Controlled trial of 1 year course of cimetidine vs placebo in 68 patients with recurrent ulcer disease; ALT &#x0003e;3 times ULN occurred in 12% of cimetidine- vs 3% of placebo-recipients, 2 liver biopsies showed centrilobular necrosis; all resolved upon stopping; no bilirubin or other values given).</italic></p></annotation><pub-id pub-id-type="pmid">75439</pub-id></mixed-citation>
+          </ref>
+          <ref id="Cimetidine.R5">
+            <mixed-citation publication-type="journal">Lilly JR, Hitch DC, Javitt NB. Cimetidine cholestatic jaundice in children. J Surg Res 1978; 24: 384-7. <annotation><p><italic toggle="yes">(5 children with ulcer disease were monitored closely during 13-76 days of iv and oral cimetidine therapy [20-30 mg/k/day, all had increases in serum bile acids and 3 had bilirubin elevations [peak 1.8-2.9 mg/dL], but without changes in ALT or Alk P; all resolved on or after stopping therapy and most had underlying conditions such as biliary atresia, short bowel syndrome, gastric outlet obstruction).</italic></p></annotation><pub-id pub-id-type="pmid">651333</pub-id></mixed-citation>
+          </ref>
+          <ref id="Cimetidine.R6">
+            <mixed-citation publication-type="journal">Kruss DM, Littman A. Safety of cimetidine. Gastroenterology 1978; 74 (2 Pt 2): 478-83. <annotation><p><italic toggle="yes">(Review of the safety of cimetidine from registration trials; in European trials liver test elevations were similar with cimetidine [n=1280] as placebo [n=481] and in 4 with marked elevations, levels resolved without dose modification, biopsy in 2 showing centrolobular necrosis; in US trials, mean AST values were the same in cimetidine- as placebo-recipients, minor single elevations occurred in ~50% of patients; all 29 cases with AST &#x0003e;100 U/L resolved rapidly or were due to other conditions; a single case of fulminant hepatitis occurred in a placebo recipient).</italic></p></annotation><pub-id pub-id-type="pmid">620916</pub-id></mixed-citation>
+          </ref>
+          <ref id="Cimetidine.R7">
+            <mixed-citation publication-type="journal">Villeneuve JP, Warner HA. Cimetidine hepatitis. Gastroenterology 1979; 77: 143-4. <annotation><p><italic toggle="yes">(83 year old developed jaundice 4 months after a blood transfusion and starting cimetidine [bilirubin 15 mg/dL, AST 935 U/L, Alk P 160 U/L], with resolution within 4 weeks and recurrence within 1 month of restarting [bilirubin 6.5 mg/dL, AST 189 U/L, Alk P 171 U/L], and again within 2 days of deliberate rechallenge [bilirubin 1.4 mg/dL, AST 1150 U/L, Alk P 123 U/L).</italic></p></annotation><pub-id pub-id-type="pmid">447012</pub-id></mixed-citation>
+          </ref>
+          <ref id="Cimetidine.R8">
+            <mixed-citation publication-type="journal">Berthelot P. Cimetidine hepatitis. Gastroenterology 1979; 77: 1365-6. <annotation><p><italic toggle="yes">(Letter in response to Villeneuve [1979] mentioning the earlier report by Zuchner of cholestatic hepatitis after use of cimetidine).</italic></p></annotation><pub-id pub-id-type="pmid">499722</pub-id></mixed-citation>
+          </ref>
+          <ref id="Cimetidine.R9">
+            <mixed-citation publication-type="journal">Glade G, Saccar CL, Pereira GR. Cimetidine in pregnancy: apparent transient liver impairment in the newborn. Am J Dis Child 1980; 134: 87-8. <annotation><p><italic toggle="yes">(Small birth weight infant born to mother on cimetidine had prolonged jaundice with peak bilirubin 10 mg/dL, ALT 115 U/L, Alk P 48 at 4 days of age, resolving by 6 weeks; hypothesized that cimetidine which passes the placenta may have caused the injury).</italic></p></annotation><pub-id pub-id-type="pmid">7188656</pub-id></mixed-citation>
+          </ref>
+          <ref id="Cimetidine.R10">
+            <mixed-citation publication-type="journal">Ruiz Del Arbol L, Moreira V, Moreno A, Hern&#x000e1;ndez Ranz F, Cano A, Garc&#x000ed;a Plaza A. Bridging hepatic necrosis associated with cimetidine. Am J Gastroenterol 1980; 74: 267-9. <annotation><p><italic toggle="yes">(67 year old developed elevations in liver tests 7 months after starting cimetidine [bilirubin 2 mg/dL, ALT 246 U/L, Alk P 216 U/L], which returned to normal 3 months later with positive rechallenge during which liver biopsy showed centrozonal necrosis with occasional bridging: Case 1).</italic></p></annotation><pub-id pub-id-type="pmid">7468564</pub-id></mixed-citation>
+          </ref>
+          <ref id="Cimetidine.R11">
+            <mixed-citation publication-type="journal">Lorenzini I, Jezequel AM, Orlandi F. Cimetidine-induced hepatitis. Electron microscopic observations and clinical pattern of liver injury. Dig Dis Sci 1981; 26: 275-80. <annotation><p><italic toggle="yes">(36 year old developed jaundice 2.5 months after starting cimetidine [bilirubin 3.2 mg/dL, ALT 407 U/L, Alk P 192 U/L, eosinophils normal]; biopsy showing focal necrosis and inflammation, rapid recovery [1 week], positive rechallenge in 4 days [ALT 4 times ULN]).</italic></p></annotation><pub-id pub-id-type="pmid">7238251</pub-id></mixed-citation>
+          </ref>
+          <ref id="Cimetidine.R12">
+            <mixed-citation publication-type="journal">Sawyer D, Conner CS, Scalley R. Cimetidine: adverse reactions and acute toxicity. Am J Hosp Pharm 1981; 38: 188-97. <annotation><p><italic toggle="yes">(Review of adverse reactions to cimetidine; in registration studies, ALT elevations occurred in 3.6% of cimetidine- and 4.4% of placebo-recipients and specific review of those with AST &#x0003e;100 U/L found none to be severe; 3 case reports of clinically apparent liver injury, 2 with positive rechallenge; likely due to hypersensitivity).</italic></p></annotation><pub-id pub-id-type="pmid">7011006</pub-id></mixed-citation>
+          </ref>
+          <ref id="Cimetidine.R13">
+            <mixed-citation publication-type="journal">Delpre G, Kadish U, Livni E. Hepatitis following cimetidine administration. Am J Med Sci 1982; 283: 153-6. <annotation><p><italic toggle="yes">(67 year old had elevations in AST [150 U/L], Alk P [126 U/L], and bilirubin [1.2 mg/dL] 7 months after starting cimetidine, but was also on mesterolone; macrophage inhibitor factor assays were reactive to cimetidine but not mesterolone; cimetidine was stopped but follow up was incomplete).</italic></p></annotation><pub-id pub-id-type="pmid">7081289</pub-id></mixed-citation>
+          </ref>
+          <ref id="Cimetidine.R14">
+            <mixed-citation publication-type="journal">Freston JW. Cimetidine: II. Adverse reactions and patterns of use. Ann Intern Med 1982; 97: 728-34. <annotation><p><italic toggle="yes">(Review of side effects of cimetidine; diarrhea, nausea, rash and headache [&#x0003c;1% each]; hepatitis rare but described, all being reversible).</italic></p></annotation><pub-id pub-id-type="pmid">6753681</pub-id></mixed-citation>
+          </ref>
+          <ref id="Cimetidine.R15">
+            <mixed-citation publication-type="journal">Porter JB, Jick H, Perera DR, Ylvisaker JT, Hunter JR. Long-term follow-up study of cimetidine. Pharmacotherapy 1984; 4: 381-4. <annotation><p><italic toggle="yes">(Analysis of side effects from 5 year follow up of 8553 patients who received at least one prescription for cimetidine in a Seattle HMO found 26 patients who were hospitalized for a possible complication of therapy but only one was possibly linked to cimetidine use).</italic></p></annotation><pub-id pub-id-type="pmid">6514588</pub-id></mixed-citation>
+          </ref>
+          <ref id="Cimetidine.R16">
+            <mixed-citation publication-type="journal">Jean-Pastor MJ, Jouglard J. [Evaluation of drug-induced hepatic complications collected by the French drug surveillance organization] Therapie 1984; 39: 493-500. French. <annotation><p><italic toggle="yes">(Among 980 cases of drug induced liver injury analyzed by the French drug surveillance system, 6 were attributed to cimetidine and considered "plausible").</italic></p></annotation><pub-id pub-id-type="pmid">6506005</pub-id></mixed-citation>
+          </ref>
+          <ref id="Cimetidine.R17">
+            <mixed-citation publication-type="journal">Van Steenbergen W, Vanstapel MJ, Desmet V, Van Kerckvoorde L, De Keyzer R, Brijs R, Fevery J, et al. Cimetidine-induced liver injury. Report of three cases. J Hepatol 1985; 1: 359-68. <annotation><p><italic toggle="yes">(3 cases of cimetidine induced liver injury: ages 58-74 years, onset in 7-20 days, ALT 70-392 U/L, Alk P 163-381 U/L, bilirubin normal to 23.2 mg/dL, one with liver failure, two with rapid recovery upon stopping).</italic></p></annotation><pub-id pub-id-type="pmid">4056348</pub-id></mixed-citation>
+          </ref>
+          <ref id="Cimetidine.R18">
+            <mixed-citation publication-type="journal">Souza Lima MA. Ranitidine and hepatic injury. Ann Intern Med 1986; 105: 140. <annotation><p><italic toggle="yes">(Reviewed reports to FDA on liver injury due to ranitidine, finding 18 convincing cases compared to only 3 for cimetidine; latency of days to 2 months; all recovered).</italic></p></annotation><pub-id pub-id-type="pmid">3717793</pub-id></mixed-citation>
+          </ref>
+          <ref id="Cimetidine.R19">
+            <mixed-citation publication-type="journal">Dobbs JH, Muir JG, Smith RN. H2-antagonists and hepatitis. Ann Intern Med 1986; 105: 803. <annotation><p><italic toggle="yes">(Letter in response to Souza Lima [1986]; in comparative registration trials, hepatitis developed in 1 of 1786 patients on ranitidine vs 1 of 1743 on cimetidine. In controlled trials of ranitidine in 2332 patients, 2 developed hepatitis [~0.08%]. All recovered upon withdrawal).</italic></p></annotation><pub-id pub-id-type="pmid">3767169</pub-id></mixed-citation>
+          </ref>
+          <ref id="Cimetidine.R20">
+            <mixed-citation publication-type="journal">Schwartz JT, Gyorkey F, Graham DY. Cimetidine hepatitis. J Clin Gastroenterol 1986; 8: 681-6. <annotation><p><italic toggle="yes">(62 year old developed rising ALT [83 to 520 to 700 U/L] between 9 and 12 weeks after starting cimetidine [biopsy showing centrolobular necrosis], with prompt improvement on stopping and positive rechallenges at both high [100 mg] and low [300 mg] doses; serum bilirubin and Alk P not provided).</italic></p></annotation><pub-id pub-id-type="pmid">3805669</pub-id></mixed-citation>
+          </ref>
+          <ref id="Cimetidine.R21">
+            <mixed-citation publication-type="journal">Black M. Hepatotoxic and hepatoprotective potential of histamine (H2)-receptor antagonists. Am J Med 1987; 83: 68-75. <annotation><p><italic toggle="yes">(Review of hepatotoxicity of cimetidine and ranitidine and their potential role in ameliorating acetaminophen hepatotoxicity, perhaps via their inhibition of P450 activity).</italic></p></annotation><pub-id pub-id-type="pmid">2892410</pub-id></mixed-citation>
+          </ref>
+          <ref id="Cimetidine.R22">
+            <mixed-citation publication-type="journal">Clarke B, Yoong A. Prolonged cholestasis and cimetidine. Dig Dis Sci 1987; 32: 333. <annotation><p><italic toggle="yes">(45 year old developed prolonged jaundice and cholestasis after 5 days of cimetidine therapy which was promptly stopped, bilirubin rising to 24.8 mg/dL ALT 44 U/L, Alk P 980 U/L, GGT 64 U/L, and biopsy showing intrahepatic cholestasis; mild jaundice was still present 9 months later; no mention of bile duct injury or paucity on biopsy).</italic></p></annotation><pub-id pub-id-type="pmid">3816488</pub-id></mixed-citation>
+          </ref>
+          <ref id="Cimetidine.R23">
+            <mixed-citation publication-type="journal">Lewis JH. Hepatic effects of drugs used in the treatment of peptic ulcer disease. Am J Gastroenterol 1987; 82: 987-1003. <annotation><p><italic toggle="yes">(Thorough review of hepatotoxicity of antiulcer medications; 10 published cases of hepatotoxicity due to cimetidine and 12 for ranitidine, none fatal and not all convincingly due to the medication; little information available on famotidine or nizatidine).</italic></p></annotation><pub-id pub-id-type="pmid">2889354</pub-id></mixed-citation>
+          </ref>
+          <ref id="Cimetidine.R24">
+            <mixed-citation publication-type="journal">V&#x000e1;zquez Arnedo M, Pastor Fanco A, Bestue Fuster JM. [Cimetidine and toxic hepatitis]. Rev Esp Enferm Apar Dig 1987; 71: 66-8. Spanish. <annotation><p><italic toggle="yes">(38 year old with duodenal ulcer disease developed fatigue 45 days and jaundice 82 days after starting cimetidine [bilirubin 14.4 mg/dL, ALT 978 U/L, Alk P 169 U/L], with rapid improvement on stopping and no recurrence upon starting ranitidine).</italic></p></annotation><pub-id pub-id-type="pmid">3563038</pub-id></mixed-citation>
+          </ref>
+          <ref id="Cimetidine.R25">
+            <mixed-citation publication-type="journal">Kadri AZ, Fisher R, Winterton MC. Cimetidine and paracetamol hepatotoxicity. Hum Toxicol 1988; 7: 205. <annotation><p><italic toggle="yes">(56 year old woman on long term cimetidine therapy [400 mg/day] took acetaminophen overdose [~16 g] and presented with high plasma levels and severe metabolic acidosis, but no elevations in ALT, Alk P or bilirubin, possibly because of cimetidine effect on acetaminophen metabolism through P450 system).</italic></p></annotation><pub-id pub-id-type="pmid">3378811</pub-id></mixed-citation>
+          </ref>
+          <ref id="Cimetidine.R26">
+            <mixed-citation publication-type="other">Kimura H, Akamatsu K, Sakaue H, Nogawa M, Ohta Y. Fulminant hepatitis induced by cimetidine. J Gastroenterol Hepatol 1988; 3: 223-6. Not in PubMed<annotation><p><italic toggle="yes">(44 year old presented with acute liver failure one year after starting long-term cimetidine [bilirubin 19 mg/dL, ALT 234 U/L, Alk P 286 U/L, prothrombin index 40%], with hepatic encephalopathy but ultimate recovery; 1 year later, she developed nausea, ALT 297 U/L, Alk P 378 U/L one month after restarting cimetidine with rapid recovery on stopping]).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Cimetidine.R27">
+            <mixed-citation publication-type="journal">Boyd PT, Lepre F, Dickey JD. Chronic active hepatitis associated with cimetidine. BMJ 1989; 298: 324-5. <annotation><p><italic toggle="yes">(32 year old woman developed jaundice 6 months after starting cimetidine [bilirubin 5.8 mg/dL, Alk P 167 U/L, AST 1542 U/L, protime 32 sec], resolving 10 weeks later and positive severe rechallenge within 1 week of restarting; liver biopsy was interpreted as showing chronic active hepatitis and prednisone given).</italic></p></annotation><pub-id pub-id-type="pmid">2493922</pub-id></mixed-citation>
+          </ref>
+          <ref id="Cimetidine.R28">
+            <mixed-citation publication-type="journal">Zaidenstein R, Cohen N, Golik A. [Cimetidine hepatitis]. Harefuah 1992; 123: 516-8, 572. Hebrew. <annotation><p><italic toggle="yes">(41 year old man developed jaundice 3 days after starting intravenous cimetidine [bilirubin 19.4 mg/dL, ALT 1000 U/L, Alk P 200 U/L, LDH 2760 U/L], recovering rapidly upon stopping: Case 2).</italic></p></annotation><pub-id pub-id-type="pmid">1289197</pub-id></mixed-citation>
+          </ref>
+          <ref id="Cimetidine.R29">
+            <mixed-citation publication-type="journal">Polunina TE, Fomichev VI, Vasil'ev AP. [Acute drug-induced hepatitis in a patient with peptic ulcer]. Klin Med (Mosk) 1992; 70: 102-3. Russian. <annotation><p><italic toggle="yes"> (41 year old man developed jaundice 3 days after starting intravenous cimetidine [bilirubin 19.4 mg/dL, ALT 1000 U/L, Alk P 200 U/L, LDH 2760 U/L], biopsy not done, recovery within 2 weeks of stopping).</italic></p></annotation><pub-id pub-id-type="pmid">1507799</pub-id></mixed-citation>
+          </ref>
+          <ref id="Cimetidine.R30">
+            <mixed-citation publication-type="journal">Hashimoto F, Davis RL, Egli D. Hepatitis following treatments with famotidine and then cimetidine. Ann Pharmacother 1994; 28: 37-9. <annotation><p><italic toggle="yes">(51 year old woman developed pain and jaundice 3-4 weeks after starting famotidine [bilirubin 5 mg/dL, ALT 661 U/L, Alk P 193 U/L], recovering rapidly on omeprazole but with recurrence 1 week after starting cimetidine [bilirubin 8 mg/dL, ALT ~590 U/L, Alk P ~320 U/L], with rapid improvement on switching again to omeprazole: Case 3).</italic></p></annotation><pub-id pub-id-type="pmid">8123956</pub-id></mixed-citation>
+          </ref>
+          <ref id="Cimetidine.R31">
+            <mixed-citation publication-type="journal">Garc&#x000ed;a Rodr&#x000ed;guez LA, Ruig&#x000f3;mez A, Jick H. A review of epidemiologic research on drug-induced acute liver injury using the general practice research data base in the United Kingdom. Pharmacotherapy 1997; 17: 721-8. <annotation><p><italic toggle="yes">(Combined analysis of 8 epidemiologic studies using the UK General Practice Research Database estimated incidence rates of acute liver injury to be highest for isoniazid and chlorpromazine [4 and 1.3 per 1000 users], intermediate for amoxicillin-clavulanate, cimetidine and ranitidine [2.3, 2.3 and 0.9 per 10,000], and lowest for TMP/SMZ, omeprazole, amoxicillin and nonsteroidals [5.2, 4.3, 3.9 and 3.7 per 100,000]).</italic></p></annotation><pub-id pub-id-type="pmid">9250549</pub-id></mixed-citation>
+          </ref>
+          <ref id="Cimetidine.R32">
+            <mixed-citation publication-type="journal">Garc&#x000ed;a Rodr&#x000ed;guez LA, Wallander MA, Stricker BH. The risk of acute liver injury associated with cimetidine and other acid-suppressing anti-ulcer drugs. Br J Clin Pharmacol 1997; 43: 183-8. <annotation><p><italic toggle="yes">(Case control study in cohort of 100,000 users of antiulcer drugs in a UK general practice database; 33 cases of acute liver injury found, 12 on cimetidine for a relative risk [RR] of 5.5, 1 on omeprazole and 5 on ranitidine did not raise RR above baseline. Latency was &#x0003c;2 month in 80% of cases; most antiulcer drug cases had hepatocellular or mixed enzyme patterns [15 of 18]).</italic></p></annotation><pub-id pub-id-type="pmid">9131951</pub-id></mixed-citation>
+          </ref>
+          <ref id="Cimetidine.R33">
+            <mixed-citation publication-type="journal">Fisher AA, Le Couteur DG. Nephrotoxicity and hepatotoxicity of histamine H2 receptor antagonists. Drug Saf 2001; 24: 39-57. <annotation><p><italic toggle="yes">(Review of renal and hepatic complications of H2 blocker therapy).</italic></p></annotation><pub-id pub-id-type="pmid">11219486</pub-id></mixed-citation>
+          </ref>
+          <ref id="Cimetidine.R34">
+            <mixed-citation publication-type="journal">Russo MW, Galanko JA, Shrestha R, Fried MW, Watkins P. Liver transplantation for acute liver failure from drug-induced liver injury in the United States. Liver Transpl 2004; 10: 1018-23. <annotation><p><italic toggle="yes">(Among ~50,000 liver transplants reported to UNOS between 1990 and 2002, 270 [0.5%] were done for drug induced acute liver failure, but none were attributed to an H2 blocker or proton pump inhibitor).</italic></p></annotation><pub-id pub-id-type="pmid">15390328</pub-id></mixed-citation>
+          </ref>
+          <ref id="Cimetidine.R35">
+            <mixed-citation publication-type="journal">de Abajo FJ, Montero D, Madurga M, Garc&#x000ed;a Rodr&#x000ed;guez LA. Acute and clinically relevant drug-induced liver injury: a population based case-control study. Br J Clin Pharmacol 2004; 58: 71-80. <annotation><p><italic toggle="yes">(Analysis of General Practice Research Database from UK on 1.6 million persons from 1994-2000 found 128 cases of drug induced liver injury [2.4/100,000 person years]; 3 cases were attributed to cimetidine for an odds ratio of 2.0 compared to controls [n=5000], which was not statistically significant).</italic></p></annotation><pub-id pub-id-type="pmid">15206996</pub-id></mixed-citation>
+          </ref>
+          <ref id="Cimetidine.R36">
+            <mixed-citation publication-type="journal">Bj&#x000f6;rnsson E, Jerlstad P, Bergqvist A, Olsson R. Fulminant drug-induced hepatic failure leading to death or liver transplantation in Sweden. Scand J Gastroenterol 2005; 40: 1095-101. <annotation><p><italic toggle="yes">(Survey of all cases of DILI with fatal outcome from Swedish Adverse Drug Reporting system from 1966-2002; 103 cases identified as highly probable, probable or possible, one case attributed to ranitidine and one to omeprazole).</italic></p></annotation><pub-id pub-id-type="pmid">16165719</pub-id></mixed-citation>
+          </ref>
+          <ref id="Cimetidine.R37">
+            <mixed-citation publication-type="journal">Sabat&#x000e9; M, Ib&#x000e1;&#x000f1;ez L, P&#x000e9;rez E, Vidal X, Buti M, Xiol X, Mas A, et al. Risk of acute liver injury associated with the use of drugs: a multicentre population survey. Aliment Pharmacol Ther 2007; 25: 1401-9. <annotation><p><italic toggle="yes">(Population based survey of 126 cases of acute liver injury due to drugs between 1993-1999 in Spain; 8 were attributed to ranitidine alone [incidence 5.1/100,000 person-years] and 5 to omeprazole alone [2.1/100,000]).</italic></p></annotation><pub-id pub-id-type="pmid">17539979</pub-id></mixed-citation>
+          </ref>
+          <ref id="Cimetidine.R38">
+            <mixed-citation publication-type="journal">Chalasani N, Fontana RJ, Bonkovsky HL, Watkins PB, Davern T, Serrano J, Yang H, Rochon J; Drug Induced Liver Injury Network (DILIN). Causes, clinical features, and outcomes from a prospective study of drug-induced liver injury in the United States. Gastroenterology 2008; 135: 1924-34. <annotation><p><italic toggle="yes">(Among 300 cases of drug induced liver disease in the US collected between 2004 and 2008, 2 were attributed to ranitidine, none to cimetidine or omeprazole).</italic></p></annotation><pub-id pub-id-type="pmid">18955056</pub-id></mixed-citation>
+          </ref>
+          <ref id="Cimetidine.R39">
+            <mixed-citation publication-type="journal">Ferrajolo C, Capuano A, Verhamme KM, Schuemie M, Rossi F, Stricker BH, Sturkenboom MC. Drug-induced hepatic injury in children: a case/non-case study of suspected adverse drug reactions in VigiBase. Br J Clin Pharmacol 2010; 70: 721-8. <annotation><p><italic toggle="yes"> (Worldwide pharmacovigilance database contained 9036 hepatic adverse drug reactions in children; no antiulcer medication was in the top 40 causes).</italic></p></annotation><pub-id pub-id-type="pmid">21039766</pub-id></mixed-citation>
+          </ref>
+          <ref id="Cimetidine.R40">
+            <mixed-citation publication-type="journal">Devarbhavi H, Dierkhising R, Kremers WK, Sandeep MS, Karanth D, Adarsh CK. Single-center experience with drug-induced liver injury from India: causes, outcome, prognosis, and predictors of mortality. Am J Gastroenterol 2010; 105: 2396-404. <annotation><p><italic toggle="yes">(313 cases of drug induced liver injury were seen over a 12 year period at a large hospital in Bangalore, India, but none of the cases were attributed to cimetidine or other antiulcer agents).</italic></p></annotation><pub-id pub-id-type="pmid">20648003</pub-id></mixed-citation>
+          </ref>
+          <ref id="Cimetidine.R41">
+            <mixed-citation publication-type="journal">Reuben A, Koch DG, Lee WM; Acute Liver Failure Study Group. Drug-induced acute liver failure: results of a U.S. multicenter, prospective study. Hepatology 2010; 52: 2065-76. <annotation><p><italic toggle="yes"> (Among 1198 patients with acute liver failure enrolled in a US prospective study between 1998 and 2007, 133 were attributed to drug induced liver injury, but none were linked to antiulcer medications).</italic></p></annotation><pub-id pub-id-type="pmid">20949552</pub-id></mixed-citation>
+          </ref>
+          <ref id="Cimetidine.R42">
+            <mixed-citation publication-type="journal">Bj&#x000f6;rnsson ES, Bergmann OM, Bj&#x000f6;rnsson HK, Kvaran RB, Olafsson S. Incidence, presentation and outcomes in patients with drug-induced liver injury in the general population of Iceland. Gastroenterology 2013; 144: 1419-25. <annotation><p><italic toggle="yes">(In a population based study of drug induced liver injury from Iceland, 96 cases were identified over a 2 year period, but none were attributed to cimetidine or other antiulcer medications).</italic></p></annotation><pub-id pub-id-type="pmid">23419359</pub-id></mixed-citation>
+          </ref>
+          <ref id="Cimetidine.R43">
+            <mixed-citation publication-type="journal">Hern&#x000e1;ndez N, Bessone F, S&#x000e1;nchez A, di Pace M, Brahm J, Zapata R, A Chirino R, et al. Profile of idiosyncratic drug induced liver injury in Latin America. An analysis of published reports. Ann Hepatol 2014; 13: 231-9. <annotation><p><italic toggle="yes"> (Systematic review of literature of drug induced liver injury in Latin American countries published from 1996 to 2012 identified 176 cases, the most common implicated agents being nimesulide [n=53: 30%], cyproterone [n=18], nitrofurantoin [n=17] and antituberculosis drugs [n=13]; no case was linked to an antiulcer agent or H2 blocker).</italic></p></annotation><pub-id pub-id-type="pmid">24552865</pub-id></mixed-citation>
+          </ref>
+          <ref id="Cimetidine.R44">
+            <mixed-citation publication-type="journal">Chalasani N, Bonkovsky HL, Fontana R, Lee W, Stolz A, Talwalkar J, Reddy KR, et al.; United States Drug Induced Liver Injury Network. Features and outcomes of 899 patients with drug-induced liver injury: The DILIN Prospective Study. Gastroenterology 2015; 148: 1340-52.e7. <annotation><p><italic toggle="yes">(Among 899 cases of drug induced liver injury enrolled in a US prospective study between 2004 and 2013, 6 cases were attributed to anti-ulcer medications, 3 to ranitidine and 3 to PPIs, but none to cimetidine).</italic></p></annotation><pub-id pub-id-type="pmid">25754159</pub-id></mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec id="Cimetidine.OTHER_REFERENCE_LINKS" sec-type="link-group">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=(Cimetidine/AE)+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D%3A%222999/12/31%22%5BEDat%5D)">Recent References on Cimetidine: from PubMed.gov</ext-link>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Cimetidine">Trials on Cimetidine: from ClinicalTrials.gov</ext-link>
+            </p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

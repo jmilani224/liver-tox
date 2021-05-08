@@ -1,0 +1,1480 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Ethionamide" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Ethionamide</book-part-id>
+      <title-group>
+        <title>Ethionamide</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>26</day>
+          <month>12</month>
+          <year>2020</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Ethambutol" document-type="chapter">Ethambutol</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Ethosuximide" document-type="chapter">Ethosuximide</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Ethionamide.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Ethionamide.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Ethionamide is a second line drug in the therapy of tuberculosis used only in combination with other agents and for drug-resistant tuberculosis. Ethionamide has been linked to transient, asymptomatic elevations in serum aminotransferase levels and in uncommon instances of acute liver injury, which can be severe.</p>
+        </sec>
+        <sec id="Ethionamide.Background">
+          <title>Background</title>
+          <p>Ethionamide (eth" eye on' a mide) is a thio-isonicotinamide somewhat similar in structure to isoniazid. Ethionamide is a prodrug and, like isoniazid, requires activation whereupon it inhibits mycobacterial fatty acid synthesis (enoyl-ACP reductase) that is necessary for cell wall synthesis and repair. Interestingly, there is little cross resistance between isoniazid and ethionamide, probably because they are activated by different mycobacterial enzymes, and therefore can be used together. Ethionamide is currently used only as a secondary agent in the treatment of active tuberculosis, always in combination with other antituberculosis agents such as isoniazid, ethambutol, pyrazinamide and/or rifampin and usually for multidrug resistant mycobacterial infections or in situations where first line agents are contraindicated. Ethionamide also has activity against lepromatous leprosy. Ethionamide is available as 250 mg tablets in generic forms and under the brand name Trecator. The typical dose in adults is 250 mg twice daily, but can then be increased gradually to a total dose of 15 to 20 mg/kg per day to a maximum of 1 gram given either once or in two divided doses daily. Pyridoxine (vitamin B6: 50 mg daily) is usually administered with ethionamide. Common side effects include gastrointestinal upset, nausea, anorexia, diarrhea, metallic taste, stomatitis, depression, drowsiness and fatigue. Severe adverse events include mycobacterial resistance, hypersensitivity reactions and severe cutaneous reactions including Stevens Johnson syndrome, toxic epidermal necrolysis and DRESS syndrome.</p>
+          <p>The management of multidrug resistant tuberculosis is challenging and should be under the direction of physicians with expertise in tuberculosis therapy and management of its side effects. Optimal regimens of therapy for tuberculosis are complex and change frequently. Regularly updated recommendations on use of drugs for tuberculosis, including indications, contraindications, warnings, dosages and monitoring recommendations are available at the Centers for Disease Control and Prevention website:&#x000a0;<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.cdc.gov/tb/publications/guidelines/Treatment.htm">http://www.cdc.gov/tb/publications/guidelines/Treatment.htm</ext-link>.</p>
+        </sec>
+        <sec id="Ethionamide.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>Ethionamide therapy has been linked to elevations in serum aminotransferase levels in a proportion of patients, but these elevations are typically self-limited and asymptomatic. More importantly, ethionamide has been linked to many instances of clinical apparent acute liver injury that arise in up to 5% of patients and can be severe and even fatal. The time to onset and clinical features of hepatic injury due to ethionamide resemble those of isoniazid, the latency ranging from 2 weeks to more than 6 months after starting (most arise within 1 to 3 months), and the pattern of enzyme elevations typically being hepatocellular and resembling acute viral hepatitis. Features of hypersensitivity (rash, fever and eosinophilia) are uncommon. Like isoniazid, ethionamide therapy may be associated with development of autoantibodies (typically ANA), but titers are generally low and rarely accompanied by autoimmune conditions. Cases of severe hypersensitivity reaction including Stevens Johnson Syndrome and DRESS which can be accompanied by liver injury have been described with ethionamide.</p>
+          <p>Likelihood score: B (highly likely although rare cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Ethionamide.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>Ethionamide is extensively metabolized by the liver and liver injury likely is due to a toxic or immunologically active intermediate. Rapid recurrence of injury upon rechallenge suggests a hypersensitivity reaction.</p>
+        </sec>
+        <sec id="Ethionamide.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>Serum aminotransferase elevations during ethionamide therapy are generally transient and asymptomatic, but elevations accompanied by symptoms of hepatitis and those above five times ULN should lead to prompt discontinuation. Monitoring of serum aminotransferase levels is indicated in patients with underlying liver disease receiving ethionamide and in those with a high risk of developing hepatotoxicity. Some cases of ethionamide hepatotoxicity have been severe and fatal instances have been reported. Cross reactivity to hepatic injury between isoniazid and ethionamide has not been shown, and several patients with clinically apparent liver injury due to ethionamide have later tolerated isoniazid without difficulty.</p>
+          <p>[First line medications used in the therapy of tuberculosis in the US include ethambutol, isoniazid, pyrazinamide, rifabutin, rifampin, and rifapentine. Second line medications include streptomycin, capreomycin, cycloserine, ethionamide, pretomanid, fluoroquinolones such as levofloxacin and moxifloxacin, aminoglycosides such as amikacin, and para-aminosalicylic acid (PAS).]</p>
+          <p>Drug Class: <related-object link-type="booklink" source-id="livertox" document-id="AntituberculosisAgen" document-type="chapter">Antituberculosis Agents</related-object></p>
+          <p>Other Drugs in the Class: <related-object link-type="booklink" source-id="livertox" document-id="Bedaquiline" document-type="chapter">Bedaquiline</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Capreomycin" document-type="chapter">Capreomycin</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Cycloserine" document-type="chapter">Cycloserine</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Ethambutol" document-type="chapter">Ethambutol</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Isoniazid" document-type="chapter">Isoniazid</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Pretomanid" document-type="chapter">Pretomanid</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Pyrazinamide" document-type="chapter">Pyrazinamide</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Rifabutin" document-type="chapter">Rifabutin</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Rifampin" document-type="chapter">Rifampin</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Rifapentine" document-type="chapter">Rifapentine</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Streptomycin" document-type="chapter">Streptomycin</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Ethionamide.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <p>
+          <bold>REPRESENTATIVE TRADE NAMES</bold>
+        </p>
+        <p>Ethionamide &#x02013; Trecator&#x000ae;</p>
+        <p>
+          <bold>DRUG CLASS</bold>
+        </p>
+        <p>Antituberculosis Agents</p>
+        <p>
+          <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=ethionamide">COMPLETE LABELING</ext-link>
+        </p>
+        <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+      </sec>
+      <sec id="Ethionamide.CHEMICAL_FORMULA_AND_STRUCTU">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Ethionamide.Tc" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th id="hd_h_Ethionamide.Tc_1_1_1_1" valign="top" align="left" scope="col" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Ethionamide.Tc_1_1_1_2" valign="top" align="left" scope="col" rowspan="1" colspan="1">CAS REGISTRY NUMBER</th>
+                <th id="hd_h_Ethionamide.Tc_1_1_1_3" valign="top" align="left" scope="col" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Ethionamide.Tc_1_1_1_4" valign="top" align="left" scope="col" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Ethionamide.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Ethionamide</td>
+                <td headers="hd_h_Ethionamide.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://134977613">536-33-4</ext-link>
+                </td>
+                <td headers="hd_h_Ethionamide.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">C8-H10-N2-S</td>
+                <td headers="hd_h_Ethionamide.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">
+                  <related-object link-type="ext-image-back-link" source-id="pubchem" document-id="134977613" document-id-type="sid" document-type="summary" object-id="134977613" object-id-type="sid" object-type="image"/>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Ethionamide.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 16 December 2020</p>
+        <p>Abbreviations: DRESS, drug rash with eosinophilia and systemic symptoms; HIV, human immunodeficiency virus; MAC, Mycobacterium avium complex; PAS, para-aminosalicylic acid; SJS, Stevens Johnson syndrome; TEN, toxic epidermal necrolysis.</p>
+        <ref-list id="Ethionamide.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Ethionamide.REF.zimmerman.1999">
+            <mixed-citation publication-type="book">Zimmerman HJ. Antituberculosis agents. In, Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999, pp. 611-21.<annotation><p><italic toggle="yes">(Extensive review of hepatotoxicity of antituberculosis medications including ethambutol published in 1999; mentions that ethionamide has been reported to cause liver injury in 3-5% of patients).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Ethionamide.REF.verma.2011">
+            <mixed-citation publication-type="book">Verma S, Kaplowitz N. Hepatotoxicity of antituberculosis drugs. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2011, pp. 483-504.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of antituberculosis drugs).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Ethionamide.REF.gumbo.2018">
+            <mixed-citation publication-type="book">Gumbo T. Chemotherapy of tuberculosis, mycobacterium avium complex disease and leprosy. In, Brunton LL, Hilal-Dandan R, Knollman BC, eds. Goodman &#x00026; Gilman&#x02019;s the pharmacological basis of therapeutics. 13th ed. New York: McGraw-Hill, 2018, pp. 1067-86.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Ethionamide.REF.clarke.1961.636">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Clarke</surname>
+                  <given-names>GBM</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>O'Hea</surname>
+                  <given-names>AJ</given-names>
+                </name>
+              </person-group>
+              <article-title>Chronic pulmonary tuberculosis treatment with ethionamide combined with cycloserine or oxytetracycline.</article-title>
+              <source>Br Med J</source>
+              <year>1961</year>
+              <volume>1</volume>
+              <fpage>636</fpage>
+              <lpage>8</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Among 12 patients with drug resistant tuberculosis treated with ethionamide and either cycloserine or oxytetracycline, 1 developed jaundice after 14 weeks [peak bilirubin 12 mg/dL, Alk P 3 times ULN], which was attributed to ethionamide and resolved 3 months after stopping).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">13693888</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ethionamide.REF.slavin.1962.745">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Slavin</surname>
+                  <given-names>P.</given-names>
+                </name>
+              </person-group>
+              <article-title>Ethionamide in re-treatment of eleven patients with pulmonary tuberculosis.</article-title>
+              <source>Am Rev Respir Dis</source>
+              <year>1962</year>
+              <volume>85</volume>
+              <fpage>745</fpage>
+              <lpage>9</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Experience in treating 11 patients with drug resistant tuberculosis using ethionamide in combination with multiple agents; 2 patients developed liver injury, but both improved with stopping pyrazinamide while continuing ethionamide).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">13913830</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ethionamide.REF.phillips.1962.268">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Phillips</surname>
+                  <given-names>S</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Trevathan</surname>
+                  <given-names>RD</given-names>
+                </name>
+              </person-group>
+              <article-title>Serum glutamic oxaloacetic transaminase elevation and possible hepatotoxicity accompanying the administration of ethionamide.</article-title>
+              <source>Am Rev Respir Dis</source>
+              <year>1962</year>
+              <volume>86</volume>
+              <fpage>268</fpage>
+              <lpage>9</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(49 patients with tuberculosis had AST testing during ethionamide therapy; 2 developed elevations at 2 and 6 months, peak levels 83 and 215 U/L, mild symptoms but no jaundice).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">14486256</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ethionamide.REF.moulding.1962.252">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Moulding</surname>
+                  <given-names>TS</given-names>
+                  <suffix>Jr</suffix>
+                </name>
+                <name name-style="western">
+                  <surname>Goldstein</surname>
+                  <given-names>S</given-names>
+                </name>
+              </person-group>
+              <article-title>Hepatotoxicity due to ethionamide.</article-title>
+              <source>Am Rev Respir Dis</source>
+              <year>1962</year>
+              <volume>86</volume>
+              <fpage>252</fpage>
+              <lpage>5</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(33 year old man developed jaundice 8 months after starting ethionamide and 6 months after blood transfusions [bilirubin 5.8 mg/dL, AST 520 U/L, Alk P 3 times ULN], improving on stopping and worsening again on restarting ethionamide; later tolerated isoniazid without recurrence; discusses 12 further cases in the literature).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">14476629</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ethionamide.REF.petty.1962.503">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Petty</surname>
+                  <given-names>TL</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Mitchell</surname>
+                  <given-names>RS</given-names>
+                </name>
+              </person-group>
+              <article-title>Successful treatment of advanced isoniazid- and streptomycin-resistant pulmonary tuberculosis with ethionamide, pyrazinamide, and isoniazid.</article-title>
+              <source>Am Rev Respir Dis</source>
+              <year>1962</year>
+              <volume>86</volume>
+              <fpage>503</fpage>
+              <lpage>12</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Among 70 patients with isoniazid or streptomycin resistance treated with ethionamide, 12 developed AST elevations, but abnormalities were attributed to pyrazinamide; one patient died of liver failure but was also taking isoniazid and pyrazinamide and drinking heavily).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">13942996</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ethionamide.REF.phillips.1963.896">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Phillips</surname>
+                  <given-names>S</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Tashman</surname>
+                  <given-names>H.</given-names>
+                </name>
+              </person-group>
+              <article-title>Ethionamide jaundice.</article-title>
+              <source>Am Rev Respir Dis</source>
+              <year>1963</year>
+              <volume>87</volume>
+              <fpage>896</fpage>
+              <lpage>8</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(59 year old man developed abnormal liver tests 5 weeks after starting ethionamide and streptomycin for active tuberculosis which worsened by 8 weeks [bilirubin 3.2 mg/dL, AST 1170 U/L, Alk P normal], resolving rapidly on stopping and not recurring subsequently with streptomycin and isoniazid therapy).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">13943168</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ethionamide.REF.lees.1963.158">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Lees</surname>
+                  <given-names>AW</given-names>
+                </name>
+              </person-group>
+              <article-title>Jaundice due to ethionamide.</article-title>
+              <source>Br J Dis Chest</source>
+              <year>1963</year>
+              <volume>57</volume>
+              <fpage>158</fpage>
+              <lpage>61</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(3 of 62 patients with tuberculosis treated with ethionamide developed jaundice; all 3 were women, ages 54 to 72 years with onset 1-4 months after starting ethionamide in combination with either isoniazid or streptomycin [peak bilirubin 3.0-5.8 mg/dL, Alk P 2-3 times ULN], resolving after 1-4 months; one had positive rechallenge with ethionamide; all later tolerated isoniazid without recurrence).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">14043687</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ethionamide.REF.elkhoury.1964.15">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>El-Khoury</surname>
+                  <given-names>SA</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Dunmore</surname>
+                  <given-names>LA</given-names>
+                  <suffix>Jr</suffix>
+                </name>
+              </person-group>
+              <article-title>Ethionamide and hepatotoxicity: a clinical study.</article-title>
+              <source>Med Ann Dist Columbia</source>
+              <year>1964</year>
+              <volume>33</volume>
+              <fpage>15</fpage>
+              <lpage>7</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Analysis of hepatotoxicity in 40 patients with tuberculosis treated with ethionamide for 4-14 months [750 mg daily] in various combinations; 3 patients had BSP elevations, but ALT and AST were normal or minimally elevated and none developed jaundice or Alk P elevations).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">14116699</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ethionamide.REF.conn.1964.542">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Conn</surname>
+                  <given-names>HO</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Binder</surname>
+                  <given-names>HJ</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Orr</surname>
+                  <given-names>HD</given-names>
+                </name>
+              </person-group>
+              <article-title>Ethionamide-induced hepatitis. A review with a report of an additional case.</article-title>
+              <source>Am Rev Respir Dis</source>
+              <year>1964</year>
+              <volume>90</volume>
+              <fpage>542</fpage>
+              <lpage>52</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(35 year old man with tuberculosis and multiple relapses, developed fatigue 6 weeks after starting ethionamide and cycloserine, improving on stopping and redeveloping symptoms 1 week after restarting [bilirubin 0.7 mg/dL, AST 500, Alk P 6 times ULN], resolving rapidly on stopping ethionamide only; biopsy showed centrolobular necrosis).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">14221666</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ethionamide.REF.nagasawa.1964.139">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Nagasawa</surname>
+                  <given-names>J</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Mikami</surname>
+                  <given-names>R</given-names>
+                </name>
+              </person-group>
+              <article-title>The side effects of ethionamide with emphasis on its hepatotoxicity.</article-title>
+              <source>Bull Int Union Tuberc</source>
+              <year>1964</year>
+              <volume>35</volume>
+              <fpage>139</fpage>
+              <lpage>41</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Two Japanese women with tuberculosis, ages 34 and 57 years, developed acute liver failure after 1.5 and 7 months of ethionamide therapy, whose autopsies showed massive necrosis; among 50 patients studied prospectively, 36% were said to develop abnormal liver tests, based on serial BSP, icterus index and cephalin-flocculation).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">14269361</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ethionamide.REF.aquinas.1964.181">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Aquinas</surname>
+                  <given-names>SM</given-names>
+                </name>
+              </person-group>
+              <article-title>Reactions to antituberculosis drugs among Chinese in Hong Kong.</article-title>
+              <source>Tubercle</source>
+              <year>1964</year>
+              <volume>45</volume>
+              <fpage>181</fpage>
+              <lpage>7</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Among 389 patients treated with pyrazinamide and ethionamide for tuberculosis, side effects requiring discontinuation of therapy occurred in 4 [1%], including 3 with jaundice [all attributed to pyrazinamide], one of whom died).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">14227802</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ethionamide.REF.de_voogd.1964.357">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>De Voogd</surname>
+                  <given-names>A.</given-names>
+                </name>
+              </person-group>
+              <comment>[Development of a benign catarrhal jaundice in a child subjected to ethionamide treatment]</comment>
+              <source>Rev Tuberc Pneumol (Paris)</source>
+              <year>1964</year>
+              <volume>28</volume>
+              <fpage>357</fpage>
+              <lpage>60</lpage>
+              <comment>French.</comment>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(5 year old girl with tuberculosis developed jaundice 3 months after starting isoniazid, ethionamide and PAS [ALT 750 U/L; interpreted as viral hepatitis], all three agents being restarted after recovery and patient tolerated final 3 months of therapy).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">14182144</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ethionamide.REF.schwartz.1966.685">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Schwartz</surname>
+                  <given-names>WS</given-names>
+                </name>
+              </person-group>
+              <article-title>Comparison of ethionamide with isoniazid in original treatment cases of pulmonary tuberculosis. XIV. A report of the Veterans Administration&#x02014;Armed Forces cooperative study.</article-title>
+              <source>Am Rev Respir Dis</source>
+              <year>1966</year>
+              <volume>93</volume>
+              <fpage>685</fpage>
+              <lpage>92</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Controlled trial of ethionamide vs isoniazid with streptomycin in 236 patients with active tuberculosis; similar efficacy but higher rate of toxicity with ethionamide [39% vs 11% requiring discontinuation], jaundice appearing in 1 [1%] and abnormal AST levels in 10 patients [~10%] on ethionamide).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">5936929</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ethionamide.REF.byrd.1974.560">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Byrd</surname>
+                  <given-names>RB</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Kaplan</surname>
+                  <given-names>PD</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Gracey</surname>
+                  <given-names>DR</given-names>
+                </name>
+              </person-group>
+              <article-title>Treatment of pulmonary tuberculosis.</article-title>
+              <source>Chest</source>
+              <year>1974</year>
+              <volume>66</volume>
+              <fpage>560</fpage>
+              <lpage>7</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Review of therapy of tuberculosis; ethionamide is discussed as potentially causing hepatitis).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">4139002</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ethionamide.REF.rossouw.1975.1">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Rossouw</surname>
+                  <given-names>JE</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Saunders</surname>
+                  <given-names>SJ</given-names>
+                </name>
+              </person-group>
+              <article-title>Hepatic complications of antituberculous therapy.</article-title>
+              <source>Q J Med</source>
+              <year>1975</year>
+              <volume>44</volume>
+              <fpage>1</fpage>
+              <lpage>16</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Summary of hepatic complications among 7492 cases of tuberculosis treated between 1960 and 1973 using various antituberculosis regimens; among 38 cases of hepatitis [0.3%] with 5 deaths from hepatic failure, 3 were associated with ethionamide therapy, specific details on these three were not given).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">50605</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ethionamide.REF.pattyn.1984.1">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Pattyn</surname>
+                  <given-names>SR</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Janssens</surname>
+                  <given-names>L</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Bourland</surname>
+                  <given-names>J</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Saylan</surname>
+                  <given-names>T</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Davies</surname>
+                  <given-names>EM</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Grillone</surname>
+                  <given-names>S</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Feracci</surname>
+                  <given-names>C</given-names>
+                </name>
+              </person-group>
+              <article-title>Hepatotoxicity of the combination of rifampin-ethionamide in the treatment of multibacillary leprosy.</article-title>
+              <source>Int J Lepr Other Mycobact Dis</source>
+              <year>1984</year>
+              <volume>52</volume>
+              <fpage>1</fpage>
+              <lpage>6</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Among 596 patients with leprosy treated with rifampin and ethionamide [and either dapsone or clofazimine], 23 [4.5%] developed hepatitis arising after 5-186 days [mean 93 days], with mortality of 26% attributed to drug combination).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">6368424</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ethionamide.REF.see.1986.129">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>See</surname>
+                  <given-names>A</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Hervio</surname>
+                  <given-names>P</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Bouvry</surname>
+                  <given-names>M.</given-names>
+                </name>
+              </person-group>
+              <comment>[The hepatotoxicity of ethionamide remains a topical subject. Apropos of a case of acute hepatitis]</comment>
+              <source>Ann Gastroenterol Hepatol (Paris)</source>
+              <year>1986</year>
+              <volume>22</volume>
+              <fpage>129</fpage>
+              <lpage>30</lpage>
+              <comment>French.</comment>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(22 year old man with leprosy and HBsAg carrier state developed jaundice and pruritus 2 years after starting thalidomide, rifampin, ethionamide and clofazimine [bilirubin 6.4 mg/dL, ALT 15 times ULN, Alk P 287 U/L, prothrombin index 60%], recovering within 4-5 months of stopping ethionamide and rifampin).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">3729286</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ethionamide.REF.donald.1987.741">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Donald</surname>
+                  <given-names>PR</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Schoeman</surname>
+                  <given-names>JF</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>O'Kennedy</surname>
+                  <given-names>A</given-names>
+                </name>
+              </person-group>
+              <article-title>Hepatic toxicity during chemotherapy for severe tuberculosis meningitis.</article-title>
+              <source>Am J Dis Child</source>
+              <year>1987</year>
+              <volume>141</volume>
+              <fpage>741</fpage>
+              <lpage>3</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Among 56 children with tuberculosis meningitis treated with isoniazid, rifampin, pyrazinamide and ethionamide, ALT elevations occurred in 72%, but only one child developed jaundice which was attributed to hepatitis A).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">2884866</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ethionamide.REF.donald.1998.704">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Donald</surname>
+                  <given-names>PR</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Schoeman</surname>
+                  <given-names>JF</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Van Zyl</surname>
+                  <given-names>LE</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>De Villiers</surname>
+                  <given-names>JN</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Pretorius</surname>
+                  <given-names>M</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Springer</surname>
+                  <given-names>P</given-names>
+                </name>
+              </person-group>
+              <article-title>Intensive short course chemotherapy in the management of tuberculous meningitis.</article-title>
+              <source>Int J Tuberc Lung Dis</source>
+              <year>1998</year>
+              <volume>2</volume>
+              <fpage>704</fpage>
+              <lpage>11</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Among 95 children with tuberculous meningitis treated with a 6 month course of isoniazid, rifampin, pyrazinamide and ethionamide, 10 developed elevated bilirubin levels during 2-4 weeks of therapy, but these resolved with or without stopping therapy; one child had hepatitis A, and 14% had transient AST or ALT elevations).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">9755923</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ethionamide.REF.american_thoracic_society.2003.1">
+            <element-citation publication-type="journal">
+              <person-group>
+                <collab>American Thoracic Society</collab>
+                <collab>Centers for Disease Control and Prevention (CDC)</collab>
+              </person-group>
+              <article-title>Infectious Diseases Society of America. Treatment of tuberculosis.</article-title>
+              <source>MMWR Recomm Rep</source>
+              <year>2003</year>
+              <volume>52</volume>
+              <issue>RR-11</issue>
+              <fpage>1</fpage>
+              <lpage>77</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Recommendations for therapy of tuberculosis including details of drug regimens, side effects, monitoring and optimal approaches to follow up; ethionamide is a second line agent).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">12836625</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ethionamide.REF.di_perri.2004.593">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Di Perri</surname>
+                  <given-names>G</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Bonora</surname>
+                  <given-names>S</given-names>
+                </name>
+              </person-group>
+              <article-title>Which agents should we use for the treatment of multidrug-resistant Mycobacterium tuberculosis?</article-title>
+              <source>J Antimicrob Chemother</source>
+              <year>2004</year>
+              <volume>54</volume>
+              <fpage>593</fpage>
+              <lpage>602</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Multidrug resistance is defined as an organism resistant to at least isoniazid and rifampin; authors rank second line agents as: 1. levofloxacin, aminoglycosides, and capreomycin, 2. ethionamide, ofloxacin and ciprofloxacin, 3. PAS, 4. cycloserine, 5. amoxicillin/clavulanate or ampicillin/sulbactam, 6. clarithromycin, linezolid and clofazimine).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">15282233</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ethionamide.REF.fajardo.2006.457">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Fajardo</surname>
+                  <given-names>TT</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Guinto</surname>
+                  <given-names>RS</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Cellona</surname>
+                  <given-names>RV</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Abalos</surname>
+                  <given-names>RM</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Dela Cruz</surname>
+                  <given-names>EC</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Gelber</surname>
+                  <given-names>RH</given-names>
+                </name>
+              </person-group>
+              <article-title>A clinical trial of ethionamide and prothionamide for treatment of lepromatous leprosy.</article-title>
+              <source>Am J Trop Med Hyg</source>
+              <year>2006</year>
+              <volume>74</volume>
+              <fpage>457</fpage>
+              <lpage>61</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Among 46 patients with leprosy treated with either ethionamide or prothionamide for 6 months, elevations in AST [35-88 U/L] occurred in 18 [39%], often resolving despite continuing medication, and only one patient developed jaundice [on prothionamide]).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">16525107</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ethionamide.REF.chalasani.2008.1924">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Chalasani</surname>
+                  <given-names>N</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Fontana</surname>
+                  <given-names>RJ</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Bonkovsky</surname>
+                  <given-names>HL</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Watkins</surname>
+                  <given-names>PB</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Davern</surname>
+                  <given-names>T</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Serrano</surname>
+                  <given-names>J</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Yang</surname>
+                  <given-names>H</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Rochon</surname>
+                  <given-names>J</given-names>
+                </name>
+                <collab>Drug Induced Liver Injury Network (DILIN)</collab>
+              </person-group>
+              <article-title>Causes, clinical features, and outcomes from a prospective study of drug-induced liver injury in the United States.</article-title>
+              <source>Gastroenterology</source>
+              <year>2008</year>
+              <volume>135</volume>
+              <fpage>1924</fpage>
+              <lpage>34</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Among 300 cases of drug induced liver disease in the US collected from 2004 to 2008, no case was attributed to ethionamide).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">18955056</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ethionamide.REF27">
+            <element-citation publication-type="journal">
+              <article-title>Ethionamide.</article-title>
+              <source>Tuberculosis (Edinb)</source>
+              <year>2008</year>
+              <volume>88</volume>
+              <fpage>106</fpage>
+              <lpage>8</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Brief review of the structure, mechanism of action, resistance, efficacy and safety of ethionamide).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">18486043</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ethionamide.REF.abubakar.2009.512">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Abubakar</surname>
+                  <given-names>I</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Moore</surname>
+                  <given-names>J</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Drobniewski</surname>
+                  <given-names>F</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Kruijshaar</surname>
+                  <given-names>M</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Brown</surname>
+                  <given-names>T</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Yates</surname>
+                  <given-names>M</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Anderson</surname>
+                  <given-names>C</given-names>
+                </name>
+                <etal/>
+              </person-group>
+              <article-title>Extensively drug-resistant tuberculosis in the UK: 1995 to 2007.</article-title>
+              <source>Thorax</source>
+              <year>2009</year>
+              <volume>64</volume>
+              <fpage>512</fpage>
+              <lpage>5</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Among 678 extensively drug resistant isolates of tuberculosis reported in the UK between 2005 and 2008, 14% were also resistant to ethionamide).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">19318348</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ethionamide.REF.reuben.2010.2065">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Reuben</surname>
+                  <given-names>A</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Koch</surname>
+                  <given-names>DG</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Lee</surname>
+                  <given-names>WM</given-names>
+                </name>
+                <collab>Acute Liver Failure Study Group</collab>
+              </person-group>
+              <article-title>Drug-induced acute liver failure: results of a U.S. multicenter, prospective study.</article-title>
+              <source>Hepatology</source>
+              <year>2010</year>
+              <volume>52</volume>
+              <fpage>2065</fpage>
+              <lpage>76</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Among 1198 patients with acute liver failure enrolled in a US prospective study between 1998 and 2007, 133 were attributed to drug induced liver injury and 25 to antituberculosis agents, including 15 to isoniazid alone [ranking first], 6 to isoniazid combined with other agents, 3 to rifampin and pyrazinamide and 1 to dapsone, but none to ethionamide).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">20949552</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ethionamide.REF.devarbhavi.2010.2396">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Devarbhavi</surname>
+                  <given-names>H</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Dierkhising</surname>
+                  <given-names>R</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Kremers</surname>
+                  <given-names>WK</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Sandeep</surname>
+                  <given-names>MS</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Karanth</surname>
+                  <given-names>D</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Adarsh</surname>
+                  <given-names>CK</given-names>
+                </name>
+              </person-group>
+              <article-title>Single-center experience with drug-induced liver injury from India: causes, outcome, prognosis, and predictors of mortality.</article-title>
+              <source>Am J Gastroenterol</source>
+              <year>2010</year>
+              <volume>105</volume>
+              <fpage>2396</fpage>
+              <lpage>404</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Among 313 cases of drug induced liver injury seen between 1997 and 2008 at a large hospital in Bangalore, India, 181 [58%] were attributed to antituberculosis agents which accounted for 39 of 54 [72%] fatal cases; ethionamide is not specifically mentioned).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">20648003</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ethionamide.REF.arbex.2010.641">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Arbex</surname>
+                  <given-names>MA</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Varella Mde</surname>
+                  <given-names>C</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Siqueira</surname>
+                  <given-names>HR</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Mello</surname>
+                  <given-names>FA</given-names>
+                </name>
+              </person-group>
+              <article-title>Antituberculosis drugs: drug interactions, adverse effects, and use in special situations. Part 2: second line drugs.</article-title>
+              <source>J Bras Pneumol</source>
+              <year>2010</year>
+              <volume>36</volume>
+              <fpage>641</fpage>
+              <lpage>56</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Analysis of adverse effects of second line drugs for tuberculosis; states that hepatotoxicity occurs in 4.3% of patients treated with ethionamide, especially in those with liver disease or alcoholism).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">21085831</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ethionamide.REF.caminero.2010.621">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Caminero</surname>
+                  <given-names>JA</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Sotgiu</surname>
+                  <given-names>G</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Zumla</surname>
+                  <given-names>A</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Migliori</surname>
+                  <given-names>GB</given-names>
+                </name>
+              </person-group>
+              <article-title>Best drug treatment for multidrug-resistant and extensively drug-resistant tuberculosis.</article-title>
+              <source>Lancet Infect Dis</source>
+              <year>2010</year>
+              <volume>10</volume>
+              <fpage>621</fpage>
+              <lpage>9</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Mentions that ethionamide is a thioamide and belongs to the second line of antituberculosis medications; no discussion of hepatotoxicity).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">20797644</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ethionamide.REF.bj_rnsson.2013.1419">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Bj&#x000f6;rnsson</surname>
+                  <given-names>ES</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Bergmann</surname>
+                  <given-names>OM</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Bj&#x000f6;rnsson</surname>
+                  <given-names>HK</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Kvaran</surname>
+                  <given-names>RB</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Olafsson</surname>
+                  <given-names>S</given-names>
+                </name>
+              </person-group>
+              <article-title>Incidence, presentation and outcomes in patients with drug-induced liver injury in the general population of Iceland.</article-title>
+              <source>Gastroenterology</source>
+              <year>2013</year>
+              <volume>144</volume>
+              <fpage>1419</fpage>
+              <lpage>25</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(In a population based study of drug induced liver injury from Iceland, 96 cases were identified over a 2 year period, 2 [2%] of which were attributed to antituberculosis agents, 1 isoniazid and 1 rifampin but none to ethionamide).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">23419359</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ethionamide.REF.hern_ndez.2014.231">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Hern&#x000e1;ndez</surname>
+                  <given-names>N</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Bessone</surname>
+                  <given-names>F</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>S&#x000e1;nchez</surname>
+                  <given-names>A</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>di Pace</surname>
+                  <given-names>M</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Brahm</surname>
+                  <given-names>J</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Zapata</surname>
+                  <given-names>R, A</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Chirino</surname>
+                  <given-names>R</given-names>
+                </name>
+                <etal/>
+              </person-group>
+              <article-title>Profile of idiosyncratic drug induced liver injury in Latin America. An analysis of published reports.</article-title>
+              <source>Ann Hepatol</source>
+              <year>2014</year>
+              <volume>13</volume>
+              <fpage>231</fpage>
+              <lpage>9</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Systematic review of literature of drug induced liver injury in Latin American countries published from 1996 to 2012 identified 176 cases, 13 [7%] due to antituberculosis agents including 6 to isoniazid, 1 to pyrazinamide, 1 to rifampin and 5 to combinations).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">24552865</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ethionamide.REF.bhushan.2014.318">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Bhushan</surname>
+                  <given-names>B</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Chander</surname>
+                  <given-names>R</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Kajal</surname>
+                  <given-names>NC</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Ranga</surname>
+                  <given-names>V</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Gupta</surname>
+                  <given-names>A</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Bharti</surname>
+                  <given-names>H</given-names>
+                </name>
+              </person-group>
+              <article-title>Profile of adverse drug reactions in drug resistant tuberculosis from Punjab.</article-title>
+              <source>Indian J Tuberc</source>
+              <year>2014</year>
+              <volume>61</volume>
+              <fpage>318</fpage>
+              <lpage>24</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Among 207 patients from Punjab, India with tuberculosis treated with second line agents over a 2 year period, 81% developed adverse events which were severe in 35 [18%], 5 of which were hepatitis which was usually attributed to pyrazinamide; ethionamide was associated with 6 cases of hypothyroidism and 6 of acute psychosis that led to at least temporary discontinuation).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">25675695</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ethionamide.REF.lehloenya.2015.2648">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Lehloenya</surname>
+                  <given-names>RJ</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Muloiwa</surname>
+                  <given-names>R</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Dlamini</surname>
+                  <given-names>S</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Gantsho</surname>
+                  <given-names>N</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Todd</surname>
+                  <given-names>G</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Dheda</surname>
+                  <given-names>K</given-names>
+                </name>
+              </person-group>
+              <article-title>Lack of cross-toxicity between isoniazid and ethionamide in severe cutaneous adverse drug reactions: a series of 25 consecutive confirmed cases.</article-title>
+              <source>J Antimicrob Chemother</source>
+              <year>2015</year>
+              <volume>70</volume>
+              <fpage>2648</fpage>
+              <lpage>51</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Among 69 patients [62 with HIV co-infection] who developed a severe cutaneous reaction while on combination antituberculosis therapy, 20 had recurrence when reexposed to isoniazid and 5 when reexposed to ethionamide; most had been initially exposed to both agents, but none had cross reactivity to the other, those with positive rechallenge to isoniazid being able to tolerate ethionamide and vice versa).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">26142408</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ethionamide.REF.chalasani.2015.1340">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Chalasani</surname>
+                  <given-names>N</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Bonkovsky</surname>
+                  <given-names>HL</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Fontana</surname>
+                  <given-names>R</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Lee</surname>
+                  <given-names>W</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Stolz</surname>
+                  <given-names>A</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Talwalkar</surname>
+                  <given-names>J</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Reddy</surname>
+                  <given-names>KR</given-names>
+                </name>
+                <etal/>
+                <collab>United States Drug Induced Liver Injury Network</collab>
+              </person-group>
+              <article-title>Features and outcomes of 899 patients with drug-induced liver injury: The DILIN Prospective Study.</article-title>
+              <source>Gastroenterology</source>
+              <year>2015</year>
+              <volume>148</volume>
+              <fpage>1340</fpage>
+              <lpage>52.e7</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Among 899 cases of drug induced liver injury enrolled in a US prospective study between 2004 and 2013, 54 [6%] were attributed to antituberculosis agents including 48 to isoniazid, 2 to rifampin, 2 [0.2%] to pyrazinamide, 1 to ethambutol and 1 to isoniazid and rifampin, but none to ethionamide).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">25754159</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ethionamide.REF.brightthomas.2016.1621">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Bright-Thomas</surname>
+                  <given-names>RJ</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Gondker</surname>
+                  <given-names>AR</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Morris</surname>
+                  <given-names>J</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Ormerod</surname>
+                  <given-names>LP</given-names>
+                </name>
+              </person-group>
+              <article-title>Drug-related hepatitis in patients treated with standard anti-tuberculosis chemotherapy over a 30-year period.</article-title>
+              <source>Int J Tuberc Lung Dis</source>
+              <year>2016</year>
+              <volume>20</volume>
+              <fpage>1621</fpage>
+              <lpage>4</lpage>
+              <annotation>
+                <p><italic toggle="yes">(Among 2070 patients with tuberculosis treated over a 30 year period at a single UK referral center, 63 [3%] developed hepatitis requiring discontinuation of therapy of whom two died; the hepatitis rate was higher in whites than Asians and in females than males, and occurred more commonly with older age; 57% of cases were attributed to pyrazinamide, 32% to rifampin and 11% to</italic>&#x000a0;<italic toggle="yes">isoniazid; ethionamide not mentioned</italic><italic toggle="yes">).</italic></p>
+              </annotation>
+              <pub-id pub-id-type="pmid">27931337</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ethionamide.REF.ramachandran.2015.253">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Ramachandran</surname>
+                  <given-names>G</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Swaminathan</surname>
+                  <given-names>S</given-names>
+                </name>
+              </person-group>
+              <article-title>Safety and tolerability profile of second-line anti-tuberculosis medications.</article-title>
+              <source>Drug Saf</source>
+              <year>2015</year>
+              <volume>38</volume>
+              <fpage>253</fpage>
+              <lpage>69</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Review of the safety of second line drugs for tuberculosis mentions that the major adverse events with ethionamide therapy are gastrointestinal intolerance and hypothyroidism, but mentions rare events include hepatitis, rash, hypoglycemia, central nervous system effects and gynecomastia).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">25676682</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ethionamide.REF.thee.2016.126">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Thee</surname>
+                  <given-names>S</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Garcia-Prats</surname>
+                  <given-names>AJ</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Donald</surname>
+                  <given-names>PR</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Hesseling</surname>
+                  <given-names>AC</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Schaaf</surname>
+                  <given-names>HS</given-names>
+                </name>
+              </person-group>
+              <article-title>A review of the use of ethionamide and prothionamide in childhood tuberculosis.</article-title>
+              <source>Tuberculosis (Edinb)</source>
+              <year>2016</year>
+              <volume>97</volume>
+              <fpage>126</fpage>
+              <lpage>36</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Review of the mechanism of action, clinical efficacy and safety of ethionamide in children with active tuberculosis mentions that adverse effects of hypothyroidism and gastrointestinal upset are common).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">26586647</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ethionamide.REF.xu.2017.265">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Xu</surname>
+                  <given-names>M</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Bhatt</surname>
+                  <given-names>DK</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Yeung</surname>
+                  <given-names>CK</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Claw</surname>
+                  <given-names>KG</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Chaudhry</surname>
+                  <given-names>AS</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Gaedigk</surname>
+                  <given-names>A</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Pearce</surname>
+                  <given-names>RE</given-names>
+                </name>
+                <etal/>
+              </person-group>
+              <article-title>Genetic and nongenetic factors associated with protein abundance of flavin-containing monooxygenase 3 in human liver.</article-title>
+              <source>J Pharmacol Exp Ther</source>
+              <year>2017</year>
+              <volume>363</volume>
+              <fpage>265</fpage>
+              <lpage>74</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Flavin-containing monooxygenase 3 is a human liver microsomal enzyme responsible for the activation of ethionamide and exists in variable concentrations in human livers, levels determined to some extent by genetic variation).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">28819071</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ethionamide.REF.dheda.2019.820">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Dheda</surname>
+                  <given-names>K</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Gumbo</surname>
+                  <given-names>T</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Maartens</surname>
+                  <given-names>G</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Dooley</surname>
+                  <given-names>KE</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Murray</surname>
+                  <given-names>M</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Furin</surname>
+                  <given-names>J</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Nardell</surname>
+                  <given-names>EA</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Warren</surname>
+                  <given-names>RM</given-names>
+                </name>
+              </person-group>
+              <article-title>Lancet Respiratory Medicine drug-resistant tuberculosis Commission group. The Lancet Respiratory Medicine Commission: 2019 update: epidemiology, pathogenesis, transmission, diagnosis, and management of multidrug-resistant and incurable tuberculosis.</article-title>
+              <source>Lancet Respir Med</source>
+              <year>2019</year>
+              <volume>7</volume>
+              <fpage>820</fpage>
+              <lpage>6</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Review of the epidemiology, pathogenesis, diagnosis and management of multidrug resistant tuberculosis; does not discuss hepatotoxicity of therapeutic drug regimens).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">31486393</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ethionamide.REF.borisov.2019.1901522">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Borisov</surname>
+                  <given-names>S</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Danila</surname>
+                  <given-names>E</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Maryandyshev</surname>
+                  <given-names>A</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Dalcolmo</surname>
+                  <given-names>M</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Miliauskas</surname>
+                  <given-names>S</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Kuksa</surname>
+                  <given-names>L</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Manga</surname>
+                  <given-names>S</given-names>
+                </name>
+                <etal/>
+              </person-group>
+              <article-title>Surveillance of adverse events in the treatment of drug-resistant tuberculosis: first global report.</article-title>
+              <source>Eur Respir J</source>
+              <year>2019</year>
+              <volume>54</volume>
+              <elocation-id>1901522</elocation-id>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Among 658 patients enrolled in a prospective registry of adverse events attributed to second line antituberculosis therapies, 3 serious liver related adverse events were reported including one due to ethionamide and 2 to bedaquiline).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">31601711</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ethionamide.REF.cdc">
+            <mixed-citation publication-type="web"><person-group><collab>CDC</collab></person-group>. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.cdc.gov/tb/">https://www.cdc.gov/tb/</ext-link><annotation><p><italic toggle="yes">(CDC website with up-to-date recommendations on therapy of tuberculosis).</italic></p></annotation></mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec sec-type="link-group" id="Ethionamide.OTHER_REFERENCE_LINKS">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <label>1</label>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=(Ethionamide/AE)+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D:%222999/12/31%22%5BEDat%5D)">Recent References on Ethionamide: from PubMed.gov</ext-link>
+            </p>
+          </list-item>
+          <list-item>
+            <label>2</label>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Ethionamide">Trials on Ethionamide: from ClinicalTrials.gov</ext-link>
+            </p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

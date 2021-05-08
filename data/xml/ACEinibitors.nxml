@@ -1,0 +1,517 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="ACEinibitors" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">ACEinibitors</book-part-id>
+      <title-group>
+        <title>Angiotensin-Converting Enzyme Inhibitors</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>11</day>
+          <month>2</month>
+          <year>2018</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="ARBs" document-type="chapter">Angiotensin II Receptor Antagonists</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="AntihelminthicAgents" document-type="chapter">Anthelmintic Agents</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="ACEinibitors.OVERVIEW">
+        <title>OVERVIEW</title>
+        <p content-type="pubmed-excerpt">The angiotensin-converting enzyme (ACE) inhibitors are a widely used class of antihypertensive medications that act by blocking the conversion of angiotensin I to angiotensin II, thus inhibiting an intermediate step in the renin-angiotensin pathway. The ACE inhibitors are rare causes of clinically apparent liver injury.</p>
+        <p content-type="pubmed-excerpt">The ACE inhibitors act by blocking the conversion of angiotensin I to angiotensin II, the active peptide that causes the vasoconstriction and sodium retention induced by activation of the renin-angiotensin pathway. The ACE inhibitors are considered first line drugs for the therapy of hypertension and are considered particularly helpful in preventing the renal complications of diabetes and high blood pressure. ACE inhibitors are sometimes used even in patients with relatively normal blood pressure for treatment of heart failure and prevention of diabetic neuropathy. Currently, there are 10 ACE inhibitors approved for use in the United States: captopril (Capoten: 1981), enalapril (Vasotec: 1985), lisinopril (Prinivil, Zestril: 1987), benazepril (Lotensin: 1991), fosinopril (Monopril: 1991), quinapril (Accupril: 1991), ramipril (Altase: 1991), perindopril (Aceon: 1993), moexipril (Univasc: 1995), and trandolapril (Mavik: 1996).</p>
+        <p content-type="pubmed-excerpt">All of the currently used ACE inhibitors are associated with a low rate of serum enzyme elevations during chronic therapy (0.2% to 2%) which is minimally different from the rate of elevations during placebo therapy. The aminotransferase elevations are usually mild-to-moderate in severity, self limited, and rarely require dose modification or drug discontinuation.</p>
+        <p>As a class, the ACE inhibitors have also been associated with instances of acute liver injury that is usually cholestatic and self limited in course. Clinically apparent liver injury from ACE inhibitors is, however, rare. The onset is typically within 1 to 8 weeks of starting the medication. Immunoallergic features (fever, rash, eosinophilia) can occur, but are rarely prominent. Autoantibody formation is uncommon. The largest numbers of cases of clinically apparent liver injury have been reported with captopril and enalapril. At present, however, lisinopril seems to be the most common cause of clinically apparent liver injury due to ACE inhibitors. Published cases of lisinopril liver injury have been somewhat distinctive, typically presenting with a hepatocellular pattern of serum enzyme elevations and a potentially severe course, which can be fatal. This pattern is less common with the other ACE inhibitors. Strikingly, several of the ACE inhibitors have been associated with instances of acute liver injury arising after 1 to 4 years of therapy, a distinctly unusual pattern. In some situations, the acute liver injury follows a escalation in drug dose, but in other situations there seems to be little explanation for the sudden onset of hepatic injury after years of safe use.</p>
+        <p>Persons who develop clinically apparent liver injury from an ACE inhibitor usually (but not always) have a recurrence when switched to another ACE inhibitor. Thus, if this class of antihypertensive agents is felt to be necessary, careful monitoring after starting the new agent is warranted.</p>
+        <p>The different ACE inhibitors are discussed separately, although the clinically apparent liver injury associated with their use is somewhat similar. Some of the less commonly used ACE inhibitors have not been linked to cases of hepatotoxicity, but all should be at least suspected of causing clinically apparent liver injury. References on their safety and hepatotoxicity are given together after this introduction.</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>
+              <related-object source-id="livertox" document-id="Benazepril">Benazepril</related-object>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <related-object source-id="livertox" document-id="Captopril">Captopril</related-object>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <related-object source-id="livertox" document-id="Enalapril">Enalapril</related-object>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <related-object source-id="livertox" document-id="Fosinopril">Fosinopril</related-object>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <related-object source-id="livertox" document-id="Lisinopril">Lisinopril</related-object>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <related-object source-id="livertox" document-id="Moexipril">Moexipril</related-object>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <related-object source-id="livertox" document-id="Perindopril">Perindopril</related-object>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <related-object source-id="livertox" document-id="Quinapril">Quinapril</related-object>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <related-object source-id="livertox" document-id="Ramipril">Ramipril</related-object>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <related-object source-id="livertox" document-id="Trandolapril">Trandolapril</related-object>
+            </p>
+          </list-item>
+        </list>
+      </sec>
+      <sec id="ACEinibitors.CHEMICAL_FORMULAS_AND_STRUC">
+        <title>CHEMICAL FORMULAS AND STRUCTURES</title>
+        <table-wrap id="ACEinibitors.T1" position="anchor" orientation="portrait">
+          <table>
+            <tbody>
+              <tr>
+                <th id="hd_b_ACEinibitors.T1_1_1_1_1" align="center" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_b_ACEinibitors.T1_1_1_1_2" align="center" rowspan="1" colspan="1">CAS REGISTRY NUMBER</th>
+                <th id="hd_b_ACEinibitors.T1_1_1_1_3" align="center" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_b_ACEinibitors.T1_1_1_1_4" align="center" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+              <tr>
+                <td headers="hd_b_ACEinibitors.T1_1_1_1_1" valign="middle" align="center" rowspan="1" colspan="1">Benazepril</td>
+                <td headers="hd_b_ACEinibitors.T1_1_1_1_2" valign="middle" align="center" rowspan="1" colspan="1">
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135019782">86541-75-5</ext-link>
+                </td>
+                <td headers="hd_b_ACEinibitors.T1_1_1_1_3" valign="middle" align="center" rowspan="1" colspan="1">C24-H28-N2-O5</td>
+                <td headers="hd_b_ACEinibitors.T1_1_1_1_4" valign="middle" align="center" rowspan="1" colspan="1">
+                  <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Benazepril_Structure_000.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait">
+                    <alt-text>Benazepril Chemical Structure</alt-text>
+                  </graphic>
+                </td>
+              </tr>
+              <tr>
+                <td headers="hd_b_ACEinibitors.T1_1_1_1_1" valign="middle" align="center" rowspan="1" colspan="1">Captopril</td>
+                <td headers="hd_b_ACEinibitors.T1_1_1_1_2" valign="middle" align="center" rowspan="1" colspan="1">
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135006608">62571-86-2</ext-link>
+                </td>
+                <td headers="hd_b_ACEinibitors.T1_1_1_1_3" valign="middle" align="center" rowspan="1" colspan="1">C9-H15-N-O3-S</td>
+                <td headers="hd_b_ACEinibitors.T1_1_1_1_4" valign="middle" align="center" rowspan="1" colspan="1">
+                  <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Captopril_Structure_000.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait">
+                    <alt-text>Captopril Chemical Structure</alt-text>
+                  </graphic>
+                </td>
+              </tr>
+              <tr>
+                <td headers="hd_b_ACEinibitors.T1_1_1_1_1" valign="middle" align="center" rowspan="1" colspan="1">Enalapril</td>
+                <td headers="hd_b_ACEinibitors.T1_1_1_1_2" valign="middle" align="center" rowspan="1" colspan="1">
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135012773">75847-73-3</ext-link>
+                </td>
+                <td headers="hd_b_ACEinibitors.T1_1_1_1_3" valign="middle" align="center" rowspan="1" colspan="1">C20-H28-N2-O5</td>
+                <td headers="hd_b_ACEinibitors.T1_1_1_1_4" valign="middle" align="center" rowspan="1" colspan="1">
+                  <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Enalapril_Structure_000.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait">
+                    <alt-text>Enalapril Chemical Structure</alt-text>
+                  </graphic>
+                </td>
+              </tr>
+              <tr>
+                <td headers="hd_b_ACEinibitors.T1_1_1_1_1" valign="middle" align="center" rowspan="1" colspan="1">Fosinopril</td>
+                <td headers="hd_b_ACEinibitors.T1_1_1_1_2" valign="middle" align="center" rowspan="1" colspan="1">
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135015960">98048-97-6</ext-link>
+                </td>
+                <td headers="hd_b_ACEinibitors.T1_1_1_1_3" valign="middle" align="center" rowspan="1" colspan="1">C30-H46-N-O7-P</td>
+                <td headers="hd_b_ACEinibitors.T1_1_1_1_4" valign="middle" align="center" rowspan="1" colspan="1">
+                  <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Fosinopril_Structure_000.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait">
+                    <alt-text>Fosinopril Chemical Structure</alt-text>
+                  </graphic>
+                </td>
+              </tr>
+              <tr>
+                <td headers="hd_b_ACEinibitors.T1_1_1_1_1" valign="middle" align="center" rowspan="1" colspan="1">Lisinopril</td>
+                <td headers="hd_b_ACEinibitors.T1_1_1_1_2" valign="middle" align="center" rowspan="1" colspan="1">
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135013705">83915-83-7</ext-link>
+                </td>
+                <td headers="hd_b_ACEinibitors.T1_1_1_1_3" valign="middle" align="center" rowspan="1" colspan="1">C21-H31-N3-O5.2H2-O</td>
+                <td headers="hd_b_ACEinibitors.T1_1_1_1_4" valign="middle" align="center" rowspan="1" colspan="1">
+                  <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Lisinopril_Structure_000.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait">
+                    <alt-text>Lisinopril Chemical Structure</alt-text>
+                  </graphic>
+                </td>
+              </tr>
+              <tr>
+                <td headers="hd_b_ACEinibitors.T1_1_1_1_1" valign="middle" align="center" rowspan="1" colspan="1">Moexipril</td>
+                <td headers="hd_b_ACEinibitors.T1_1_1_1_2" valign="middle" align="center" rowspan="1" colspan="1">
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135049415">103775-10-6</ext-link>
+                </td>
+                <td headers="hd_b_ACEinibitors.T1_1_1_1_3" valign="middle" align="center" rowspan="1" colspan="1">C27-H34-N2-O7</td>
+                <td headers="hd_b_ACEinibitors.T1_1_1_1_4" valign="middle" align="center" rowspan="1" colspan="1">
+                  <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Moexipril_Structure_000.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait">
+                    <alt-text>Moexipril Chemical Structure</alt-text>
+                  </graphic>
+                </td>
+              </tr>
+              <tr>
+                <td headers="hd_b_ACEinibitors.T1_1_1_1_1" valign="middle" align="center" rowspan="1" colspan="1">Perindopril</td>
+                <td headers="hd_b_ACEinibitors.T1_1_1_1_2" valign="middle" align="center" rowspan="1" colspan="1">
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135047729">82834-16-0</ext-link>
+                </td>
+                <td headers="hd_b_ACEinibitors.T1_1_1_1_3" valign="middle" align="center" rowspan="1" colspan="1">C19-H32-N2-O5</td>
+                <td headers="hd_b_ACEinibitors.T1_1_1_1_4" valign="middle" align="center" rowspan="1" colspan="1">
+                  <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Perindopril_Structure_000.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait">
+                    <alt-text>Perindopril Chemical Structure</alt-text>
+                  </graphic>
+                </td>
+              </tr>
+              <tr>
+                <td headers="hd_b_ACEinibitors.T1_1_1_1_1" valign="middle" align="center" rowspan="1" colspan="1">Quinapril</td>
+                <td headers="hd_b_ACEinibitors.T1_1_1_1_2" valign="middle" align="center" rowspan="1" colspan="1">
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135013816">82586-55-8</ext-link>
+                </td>
+                <td headers="hd_b_ACEinibitors.T1_1_1_1_3" valign="middle" align="center" rowspan="1" colspan="1">C25-H30-N2-O5.Cl-H</td>
+                <td headers="hd_b_ACEinibitors.T1_1_1_1_4" valign="middle" align="center" rowspan="1" colspan="1">
+                  <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Quinapril_Structure_000.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait">
+                    <alt-text>Quinapril Chemical Structure</alt-text>
+                  </graphic>
+                </td>
+              </tr>
+              <tr>
+                <td headers="hd_b_ACEinibitors.T1_1_1_1_1" valign="middle" align="center" rowspan="1" colspan="1">Ramipril</td>
+                <td headers="hd_b_ACEinibitors.T1_1_1_1_2" valign="middle" align="center" rowspan="1" colspan="1">
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135013234">87333-19-5</ext-link>
+                </td>
+                <td headers="hd_b_ACEinibitors.T1_1_1_1_3" valign="middle" align="center" rowspan="1" colspan="1">C23-H32-N2-O5</td>
+                <td headers="hd_b_ACEinibitors.T1_1_1_1_4" valign="middle" align="center" rowspan="1" colspan="1">
+                  <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Ramipril_Structure_000.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait">
+                    <alt-text>Ramipril Chemical Structure</alt-text>
+                  </graphic>
+                </td>
+              </tr>
+              <tr>
+                <td headers="hd_b_ACEinibitors.T1_1_1_1_1" valign="middle" align="center" rowspan="1" colspan="1">Trandolapril</td>
+                <td headers="hd_b_ACEinibitors.T1_1_1_1_2" valign="middle" align="center" rowspan="1" colspan="1">
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135060465">87679-37-6</ext-link>
+                </td>
+                <td headers="hd_b_ACEinibitors.T1_1_1_1_3" valign="middle" align="center" rowspan="1" colspan="1">C24-H34-N2-O5</td>
+                <td headers="hd_b_ACEinibitors.T1_1_1_1_4" valign="middle" align="center" rowspan="1" colspan="1">
+                  <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Trandolapril_Structure_000.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait">
+                    <alt-text>Trandolapril Chemical Structure</alt-text>
+                  </graphic>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="ACEinibitors.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 11 February 2018</p>
+        <ref-list id="ACEinibitors.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="ACEinibitors.R1">
+            <mixed-citation publication-type="other">Zimmerman HJ. Antihypertensive agents. In, Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999, pp. 654-5.<annotation><p><italic toggle="yes">(Expert review of hepatotoxicity published in 1999; discusses captopril which was implicated in at least 20 instances of liver injury with variable manifestations; enalapril in at least 7 cases; and lisinopril in several cases, some of which were fatal).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="ACEinibitors.R2">
+            <mixed-citation publication-type="other">De Marzio DH, Navarro VJ. Angiotensin-converting enzyme inhibitors. Hepatotoxicity of cardiovascular and antidiabetic drugs. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013, pp. 523.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of cardiovascular agents mentions that transient ALT elevations occur at a low rate during therapy with ACE inhibitors and that hepatotoxicity has been reported with benazepril, captopril, enalapril, fosinopril and lisinopril but not moexipril, perindopril, quinapril and trandolapril, perhaps because they are infrequently used).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="ACEinibitors.R3">
+            <mixed-citation publication-type="other">Hilal-Dandan R. Renin and angiotensin. In, Brunton LL, Chabner BA, Knollman BC, eds. Goodman &#x00026; Gilman&#x02019;s the pharmacological basis of therapeutics. 12th ed. New York: McGraw-Hill, 2011, pp. 721-44.<italic toggle="yes">
+</italic><annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics mentions that hepatotoxicity is an extremely rare but reversible side effect).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="ACEinibitors.R4">
+            <mixed-citation publication-type="other">Michel T, Hoffman BB. Angiotensin converting enzyme inhibitors. Treatment of myocardial ischemia and hypertension. In, Brunton LL, Chabner BA, Knollman BC, eds. Goodman &#x00026; Gilman's the pharmacological basis of therapeutics. 12th ed. New York: McGraw-Hill, 2011, pp. 745-88.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="ACEinibitors.R5">
+            <mixed-citation publication-type="journal">Atkinson AB, Robertson JI. Captopril in the treatment of clinical hypertension and cardiac failure. Lancet 1979; 2: 836-9. <annotation><p><italic toggle="yes">(Review of captopril as therapy of hypertension and heart failure; most common "unwanted effects" include rash and fever, loss of taste, proteinuria, renal dysfunction and postural hypotension; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">90928</pub-id></mixed-citation>
+          </ref>
+          <ref id="ACEinibitors.R6">
+            <mixed-citation publication-type="journal">Vandenburg M, Parfrey P, Wright P, Lazda E. Hepatitis associated with captopril treatment. Br J Clin Pharmacol 1981; 11: 105-6. <annotation><p><italic toggle="yes">(Initial report of captopril hepatotoxicity: 64 year old man developed jaundice 6 months after starting captopril [bilirubin 8.4 mg/dL, AST 780 U/L, Alk P 338 U/L], resolving upon stopping).</italic></p></annotation><pub-id pub-id-type="pmid">7011347</pub-id></mixed-citation>
+          </ref>
+          <ref id="ACEinibitors.R7">
+            <mixed-citation publication-type="journal">Vidt DG, Bravo EL, Fouad FM. Medical intelligence drug therapy: captopril. N Engl J Med 1982; 306: 214-9. <annotation><p><italic toggle="yes">(Review of captopril, the first orally available ACE inhibitor; adverse events discussed include hematologic, renal and cutaneous, but not hepatic reactions).</italic></p></annotation><pub-id pub-id-type="pmid">7033784</pub-id></mixed-citation>
+          </ref>
+          <ref id="ACEinibitors.R8">
+            <mixed-citation publication-type="journal">Ram CV. Captopril. Arch Intern Med 1982; 142: 914-6. <annotation><p><italic toggle="yes">(Review of the history of development of ACE inhibitors as well as clinical effects and side effects of captopril; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">6282230</pub-id></mixed-citation>
+          </ref>
+          <ref id="ACEinibitors.R9">
+            <mixed-citation publication-type="journal">Hurault de Ligny B, Mariot A, Kessler M, Caraman PL, Netter P. [Hepatitis during captopril combination therapy] Therapie 1982; 37: 698-700. French. <annotation><p><italic toggle="yes">(71 year old developed urticaria 10 days after starting captopril [bilirubin normal, ALT 183 U/L, Alk P 1972 U/L], rapidly resolving on stopping).</italic></p></annotation><pub-id pub-id-type="pmid">6762682</pub-id></mixed-citation>
+          </ref>
+          <ref id="ACEinibitors.R10">
+            <mixed-citation publication-type="journal">Ryckelynck JP, Batho JM, Peny J, Beuve-Mery P. [Hepatitis due to captopril] Nouv Presse Med 1982; 11: 1950-1. French. <annotation><p><italic toggle="yes">(36 year old woman developed liver test abnormalities [bilirubin 0.4 mg/dL, ALT 550 U/L, GGT 14 U/L] 20 months after starting captopril which improved on stopping and recurred on restarting).</italic></p></annotation><pub-id pub-id-type="pmid">7050898</pub-id></mixed-citation>
+          </ref>
+          <ref id="ACEinibitors.R11">
+            <mixed-citation publication-type="journal">Zimran A, Abraham AS, Hershko C. Reversible cholestatic jaundice and hyperamylasaemia associated with captopril treatment. Br Med J (Clin Res Ed) 1983; 287: 1676. <annotation><p><italic toggle="yes">(74 year old woman developed jaundice and itching 7 weeks after starting captopril [bilirubin 7.5 mg/dL, ALT 208 U/L, Alk P 1260 U/L], resolving within 2 weeks of stopping).</italic></p></annotation><pub-id pub-id-type="pmid">6196077</pub-id></mixed-citation>
+          </ref>
+          <ref id="ACEinibitors.R12">
+            <mixed-citation publication-type="journal">Navis GJ, de Jong PE, Kallenberg CG, de Monchy J, de Zeeuw D. Absence of cross-reactivity between captopril and enalapril. Lancet 1984; 1: 1017. <annotation><p><italic toggle="yes">(50 year old man developed rash and eosinophilia 3 months after starting captopril with positive skin tests; later tolerated enalapril without problems).</italic></p></annotation><pub-id pub-id-type="pmid">6143933</pub-id></mixed-citation>
+          </ref>
+          <ref id="ACEinibitors.R13">
+            <mixed-citation publication-type="journal">Parker WA. Captopril-induced cholestatic jaundice. Drug Intell Clin Pharm 1984; 18: 234-5. <annotation><p><italic toggle="yes">(54 year old woman developed jaundice and itching 4 weeks after starting captopril [bilirubin 22.2 mg/dL, ALT 43 U/L, Alk P 515 U/L], slowly resolving on stopping, normal 3 months later).</italic></p></annotation><pub-id pub-id-type="pmid">6365496</pub-id></mixed-citation>
+          </ref>
+          <ref id="ACEinibitors.R14">
+            <mixed-citation publication-type="journal">Rahmat J, Gelfand RL, Gelfand MC, Winchester JF, Schreiner GE, Zimmerman HJ. Captopril-associated cholestatic jaundice. Ann Intern Med 1985; 102: 56-8. <annotation><p><italic toggle="yes">(Case report and clinical review: 40 year old woman developed fever followed by jaundice and pruritus 2 weeks after starting captopril [peak bilirubin 26.6 mg/dL, AST 181 U/L, Alk P 11 times ULN, 18% eosinophils], resolving slowly upon stopping; among 14 cases spontaneously reported to the FDA, 9 were cholestatic, the typical latency was 1-8 weeks, eosinophilia and fever occurred in many).</italic></p></annotation><pub-id pub-id-type="pmid">3881069</pub-id></mixed-citation>
+          </ref>
+          <ref id="ACEinibitors.R15">
+            <mixed-citation publication-type="journal">Taillan B, Pedinielli FJ, Blanc AP, Jauffret P, Ferrer JC. [Toxic hepatitis caused by captopril] Therapie 1985; 40: 263. French. <annotation><p><italic toggle="yes">(53 year old man developed elevations in Alk P [350 U/L] with minimal ALT [29 U/L] increases [bilirubin not mentioned], 2 weeks after starting captopril; levels falling to near normal within two weeks of stopping).</italic></p></annotation><pub-id pub-id-type="pmid">3895557</pub-id></mixed-citation>
+          </ref>
+          <ref id="ACEinibitors.R16">
+            <mixed-citation publication-type="journal">DiBianco R. Adverse reactions with angiotensin converting enzyme (ACE) inhibitors. Med Toxicol 1986; 1: 122-41. <annotation><p><italic toggle="yes">(Extensive review of side effects of captopril and enalapril; rare cases of hepatotoxicity have been reported, largely cholestatic).</italic></p></annotation><pub-id pub-id-type="pmid">3023783</pub-id></mixed-citation>
+          </ref>
+          <ref id="ACEinibitors.R17">
+            <mixed-citation publication-type="journal">Lunel F, Grippon P, Cadranel JF, Victor N, Opolon P. [Acute hepatitis after taking enalapril maleate (Renitec)] Gastroenterol Clin Biol 1987; 11: 174-5. French. <annotation><p><italic toggle="yes">(74 year old man developed abdominal discomfort 2 months after starting captopril and was later found to have abnormal liver tests [bilirubin 0.6 mg/dL, ALT 193 U/L, Alk P 180 U/L], resolving rapidly upon stopping and recurring on restarting).</italic></p></annotation><pub-id pub-id-type="pmid">3032724</pub-id></mixed-citation>
+          </ref>
+          <ref id="ACEinibitors.R18">
+            <mixed-citation publication-type="journal">Mikloweit P, Bienm&#x000fc;ller H. [Drug-induced intrahepatic cholestasis caused by flecainide acetate and enalapril] Internist (Berl) 1987; 28: 193-5. German. <annotation><p><italic toggle="yes">(64 year old man was found to have abnormal liver tests [bilirubin normal, ALT 115 U/L, Alk P 454 U/L] 4 months after starting enalapril, improving upon stopping).</italic></p></annotation><pub-id pub-id-type="pmid">3034817</pub-id></mixed-citation>
+          </ref>
+          <ref id="ACEinibitors.R19">
+            <mixed-citation publication-type="journal">Tabibian N, Alpert L, Alpert E. Captopril-induced liver dysfunction. South Med J 1987; 80: 1173-5. <annotation><p><italic toggle="yes">(54 year old man developed nausea and abdominal pain 4 weeks after starting captopril and found to have jaundice 2 months later [bilirubin 25.0 mg/dL, ALT 73 U/L, Alk P 1054], with rapid improvement on stopping).</italic></p></annotation><pub-id pub-id-type="pmid">3306948</pub-id></mixed-citation>
+          </ref>
+          <ref id="ACEinibitors.R20">
+            <mixed-citation publication-type="other">Shionoiri H, Nomura S, Oda H, Kimura K, Takasaki I, Takagi N, Gotoh E. Hepatitis associated with captopril and enalapril but not with delapril in a patient with congestive heart failure receiving chronic hemodialysis. Curr Ther Res 1987; 42: 1171-6. Not in PubMed.<annotation><p><italic toggle="yes">(43 year old man with chronic renal failure on hemodialysis developed abnormal liver tests 5 days after starting captopril [bilirubin 0.6 mg/dL, ALT rising from 44 to 141 U/L, Alk P 208 to 389 U/L], improving on stopping but rising again 10 days after starting enalapril [bilirubin 0.8 mg/dL, ALT 148 U/L, Alk P 915 U/L], but not after switching to delapril).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="ACEinibitors.R21">
+            <mixed-citation publication-type="journal">Todd PA, Heel RC. Enalapril. A review of its pharmacodynamic and pharmacokinetic properties, and therapeutic use in hypertension and congestive heart failure. Drugs 1986; 31: 198-248. <annotation><p><italic toggle="yes">(Extensive review of enalapril, a prodrug that is hydrolyzed after absorption to the active form, enalaprilat which is poorly absorbed but is not further metabolized by the liver and is excreted in the urine; adverse events assessed in ~5000 patients, serious events were rare and no deaths were attributed to therapy; common side effects were cough, headache, dizziness and nausea; rare side effects granulocytopenia, rash and nephrotic syndrome; no mention of hepatotoxicity or ALT levels).</italic></p></annotation><pub-id pub-id-type="pmid">3011386</pub-id></mixed-citation>
+          </ref>
+          <ref id="ACEinibitors.R22">
+            <mixed-citation publication-type="journal">Gomez HJ, Cirillo VJ, Moncloa F. The clinical pharmacology of lisinopril. J Cardiovasc Pharmacol 1987; 9 Suppl 3: S27-34. <annotation><p><italic toggle="yes">(Lisinopril undergoes minimal hepatic metabolism and has few significant drug interactions).</italic></p></annotation><pub-id pub-id-type="pmid">442549</pub-id></mixed-citation>
+          </ref>
+          <ref id="ACEinibitors.R23">
+            <mixed-citation publication-type="journal">Rush JE, Merrill DD. The safety and tolerability of lisinopril in clinical trials. J Cardiovasc Pharmacol 1987; 9 Suppl 3: S99-107. <annotation><p><italic toggle="yes">(Among 1476 patients receiving lisinopril in clinical trials, side effects were mild; headache [6%], dizziness [6%], cough [4%] and diarrhea [3%] being more common than with placebo, no deaths, serious adverse events, or drug discontinuations for liver related adverse events; ALT elevations not mentioned).</italic></p></annotation><pub-id pub-id-type="pmid">2442561</pub-id></mixed-citation>
+          </ref>
+          <ref id="ACEinibitors.R24">
+            <mixed-citation publication-type="journal">Edwards IR, Coulter DM, Beasley DM, MacIntosh D. Captopril: 4 years of post marketing surveillance of all patients in New Zealand. Br J Clin Pharmacol 1987; 23: 529-36. <annotation><p><italic toggle="yes">(Postmarketing surveillance of captopril from Australia; among 4124 patients treated, 220 adverse event reports, but no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">3297125</pub-id></mixed-citation>
+          </ref>
+          <ref id="ACEinibitors.R25">
+            <mixed-citation publication-type="journal">Warner NJ, Rush JE. Safety profiles of the angiotensin-converting enzyme inhibitors. Drugs 1988; 35 Suppl 5: 89-97. <annotation><p><italic toggle="yes">(Side effects from ACE inhibitors appear to be a class effect, with headache, dizziness, fatigue, nausea, change in taste, rash and cough most common: liver injury and ALT elevations not discussed).</italic></p></annotation><pub-id pub-id-type="pmid">3063490</pub-id></mixed-citation>
+          </ref>
+          <ref id="ACEinibitors.R26">
+            <mixed-citation publication-type="journal">Zannad F, Marie PY, Aliot E, Trechot P, Gilgenkrantz JM. Cytolytic hepatitis with captopril but not with enalapril. Cardiovasc Drugs Ther 1988; 1: 669-70. <annotation><p><italic toggle="yes">(54 year old woman developed fever and fatigue 22 days after starting captopril [bilirubin normal, ALT 348 U/L, Alk P 450 U/L, eosinophils 660/&#x003bc;L], resolved 2 weeks after stopping; later tolerated enalapril without incident).</italic></p></annotation><pub-id pub-id-type="pmid">2856462</pub-id></mixed-citation>
+          </ref>
+          <ref id="ACEinibitors.R27">
+            <mixed-citation publication-type="journal">Bellary SV, Isaacs PE, Scott AW. Captopril and the liver. Lancet 1989; 2: 514. <annotation><p><italic toggle="yes">(Two women and one man with liver injury during captopril therapy, ages 69-88 years, onset after 2, 6 and 12 weeks, 2 were jaundiced and 1 died [bilirubin 0.6-6.1 mg/dL, AST 76-169 U/L, Alk P 394-505 U/L]).</italic></p></annotation><pub-id pub-id-type="pmid">2570229</pub-id></mixed-citation>
+          </ref>
+          <ref id="ACEinibitors.R28">
+            <mixed-citation publication-type="journal">Martin T, Taupignon A, Graf E, Perrin D. [Pancreatitis and hepatitis in a patient treated with enalapril maleate. A case report] Therapie 1989; 44: 449-50. French. <annotation><p><italic toggle="yes">(33 year old woman developed jaundice 3-4 weeks after starting enalapril [peak bilirubin 9.3 mg/dL, ALT 10 times ULN, Alk P 2 times ULN], resolving upon stopping).</italic></p></annotation><pub-id pub-id-type="pmid">2560267</pub-id></mixed-citation>
+          </ref>
+          <ref id="ACEinibitors.R29">
+            <mixed-citation publication-type="journal">Rosellini SR, Costa PL, Gaudio M, Saragoni A, Miglio F. Hepatic injury related to enalapril. Gastroenterology 1989; 97: 810. <annotation><p><italic toggle="yes">(54 year old woman found to have abnormal ALT [1145 U/L] and Alk P [144 U/L], but normal bilirubin 7 weeks after starting enalapril with rapid improvement on stopping).</italic></p></annotation><pub-id pub-id-type="pmid">2546851</pub-id></mixed-citation>
+          </ref>
+          <ref id="ACEinibitors.R30">
+            <mixed-citation publication-type="journal">Lorenzo A, Colom&#x000e9;s L, Igual J. [Transaminase elevation and captopril] Aten Primaria 1989; 6: 364. Spanish. <annotation><p><italic toggle="yes">(68 year old woman found to have ALT elevations [68-79 U/L] with symptoms 3 months after starting captopril, resolving within 2 weeks of stopping).</italic></p></annotation><pub-id pub-id-type="pmid">2491596</pub-id></mixed-citation>
+          </ref>
+          <ref id="ACEinibitors.R31">
+            <mixed-citation publication-type="journal">Lobos JM, del Valle J. [Captopril and transaminase increase. A causal or incidental relation?] Aten Primaria 1990; 7: 400, 402. Spanish. <annotation><p><italic toggle="yes">(Letter in response to Lorenzo [1989] arguing that ALT elevations on captopril were incidental).</italic></p></annotation><pub-id pub-id-type="pmid">2129707</pub-id></mixed-citation>
+          </ref>
+          <ref id="ACEinibitors.R32">
+            <mixed-citation publication-type="journal">Knapp LE, Frank GJ, McLain R, Rieger MM, Posvar E, Singer R. The safety and tolerability of quinapril. J Cardiovasc Pharmacol 1990; 15 Suppl 2: S47-55. <annotation><p><italic toggle="yes">(Overview of safety of quinapril based upon results in 2697 patients in 56 clinical trials found low rates of side effects that were similar to those of other ACE inhibitors: "quinapril, enalapril, and captopril had only minor effects on parameters used to assess hepatic function and the changes were comparable with those in patients treated with placebo").</italic></p></annotation><pub-id pub-id-type="pmid">1691407</pub-id></mixed-citation>
+          </ref>
+          <ref id="ACEinibitors.R33">
+            <mixed-citation publication-type="journal">Larrey D, Babany G, Bernuau J, Andrieux J, DeGott C, Pessayre D, Benhamou J-P. Fulminant hepatitis after lisinopril administration. Gastroenterology 1990; 99: 1832-3. <annotation><p><italic toggle="yes">(55 year old man developed jaundice 2 weeks after starting lisinopril that continued to worsen for 5 weeks after stopping [bilirubin 18.4 rising to 70 mg/dL, ALT 2510 U/L, protime 90% falling to 42%], patient dying after emergency surgery for perforated duodenal ulcer).</italic></p></annotation><pub-id pub-id-type="pmid">2172073</pub-id></mixed-citation>
+          </ref>
+          <ref id="ACEinibitors.R34">
+            <mixed-citation publication-type="journal">Todd P, Levison D, Farthing MJ. Enalapril-related cholestatic jaundice. J R Soc Med 1990; 83: 271-2. <annotation><p><italic toggle="yes">(67 year old woman developed jaundice and pruritus 6 weeks after starting enalapril [bilirubin 8.9 mg/dL, AST 236 U/L, Alk P 437 U/L], resolving within 4 months of stopping).</italic></p></annotation><pub-id pub-id-type="pmid">2342045</pub-id></mixed-citation>
+          </ref>
+          <ref id="ACEinibitors.R35">
+            <mixed-citation publication-type="journal">Crantock L, Prentice R, Powell L. Cholestatic jaundice associated with captopril therapy. J Gastroenterol Hepatol 1991; 6: 528-30. <annotation><p><italic toggle="yes">(81 year old woman developed jaundice and pruritus 2 weeks after starting captopril [bilirubin 20.3 mg/dL, ALT 57 U/L, Alk P 368 U/L]; patient died of cardiac arrest during recovery).</italic></p></annotation><pub-id pub-id-type="pmid">1932674</pub-id></mixed-citation>
+          </ref>
+          <ref id="ACEinibitors.R36">
+            <mixed-citation publication-type="journal">Hagley MT. Captopril-induced cholestatic jaundice. South Med J 1991; 84: 100. <annotation><p><italic toggle="yes">(66 year old woman developed jaundice and pruritus 3 weeks after starting captopril [bilirubin 15.1 mg/dL, ALT 202 U/L, Alk P 587 U/L], resolving within 4 weeks of stopping).</italic></p></annotation><pub-id pub-id-type="pmid">1986415</pub-id></mixed-citation>
+          </ref>
+          <ref id="ACEinibitors.R37">
+            <mixed-citation publication-type="journal">Kitai E, Sandiuk A, Zalewski S. Enalapril-induced immunologic impairment of hepatic function. J Fam Pract 1991; 33: 301-2. <annotation><p><italic toggle="yes">(59 year old woman found to have high Alk P [305 U/L], but normal AST and bilirubin, 8 weeks after starting enalapril, resolving within 2 months of stopping).</italic></p></annotation><pub-id pub-id-type="pmid">1880490</pub-id></mixed-citation>
+          </ref>
+          <ref id="ACEinibitors.R38">
+            <mixed-citation publication-type="journal">Putterman C, Livshitz T. [Captopril-induced liver dysfunction] Harefuah 1991; 121: 92-3. Hebrew. <annotation><p><italic toggle="yes">(71 year old man with heart failure after a myocardial infarction, developed enzyme elevations 2 days after captopril was started [peak bilirubin 1.3 mg/dL, ALT 135 U/L, Alk P 450 U/L, GGT 780 U/L], resolving within 4 weeks of stopping).</italic></p></annotation><pub-id pub-id-type="pmid">1752582</pub-id></mixed-citation>
+          </ref>
+          <ref id="ACEinibitors.R39">
+            <mixed-citation publication-type="journal">Alonso-Villaverde C, Ubir&#x000ed;a J, Masana L, Prats E.[Cholestasis caused by captopril] Med Clin(Barc) 1992; 99: 595. Spanish. <annotation><p><italic toggle="yes">(52 year old woman developed jaundice and itching 2 weeks after starting captopril [bilirubin 10.3 rising to 20.0 mg/dL, ALT 102 U/L, Alk P 240 U/L], resolving slowly, symptoms within 2 months but enzyme elevations lasting 10 months).</italic></p></annotation><pub-id pub-id-type="pmid">1460917</pub-id></mixed-citation>
+          </ref>
+          <ref id="ACEinibitors.R40">
+            <mixed-citation publication-type="journal">Hagley MT, Benak RL, Hulisz DT. Suspected cross-reactivity of enalapril- and captopril-induced hepatotoxicity. Ann Pharmacother 1992; 26: 780-1. <annotation><p><italic toggle="yes">(51 year old man developed jaundice within 1 month of starting enalapril [peak bilirubin 0.6 mg/dL, ALT 89 U/L, Alk P 798 U/L], resolving with stopping, but recurring after taking captopril for a year [peak bilirubin 21.9 mg/dL, ALT 203 U/L, Alk P 687 U/L], resolving slowly and incompletely on stopping).</italic></p></annotation><pub-id pub-id-type="pmid">1611160</pub-id></mixed-citation>
+          </ref>
+          <ref id="ACEinibitors.R41">
+            <mixed-citation publication-type="journal">Materson BJ. Adverse effects of angiotensin-converting enzyme inhibitors in antihypertensive therapy with focus on quinapril. Am J Cardiol 1992; 69: 46C-53C. <annotation><p><italic toggle="yes">(Among 1771 patients treated with quinapril in clinical trials, side effects were comparable to other ACE inhibitors, including cough, dizziness and somnolence: no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">1546639</pub-id></mixed-citation>
+          </ref>
+          <ref id="ACEinibitors.R42">
+            <mixed-citation publication-type="journal">Parish RC, Miller LJ. Adverse effects of angiotensin converting enzyme(ACE) inhibitors. An update. Drug Saf 1992; 7: 14-31. <annotation><p><italic toggle="yes">(General review of side effects of ACE inhibitors, mentions a single case of hepatotoxicity [Tabibain 1987]).</italic></p></annotation><pub-id pub-id-type="pmid">1536695</pub-id></mixed-citation>
+          </ref>
+          <ref id="ACEinibitors.R43">
+            <mixed-citation publication-type="journal">Pedersen JH, Clementsen PS, H&#x000f8;yer S, Hansen BA. [Captopril-induced toxic hepatitis] Ugeskr Laeger 1992; 154: 2911-2. Danish. <annotation><p><italic toggle="yes">(74 year old woman developed fever and abdominal pain 4 weeks after starting captopril [bilirubin 28 mg/dL, ALT 477 U/L, Alk P 1444 U/L] with progressive hepatic failure and death 5 weeks later).</italic></p></annotation><pub-id pub-id-type="pmid">1413240</pub-id></mixed-citation>
+          </ref>
+          <ref id="ACEinibitors.R44">
+            <mixed-citation publication-type="journal">de Vega T, R&#x000fa;a-Figueroa I, Soto J, Sacrist&#x000e1;n JA. [Cholestatic jaundice induced by captopril] Med Clin(Barc) 1992; 98: 518. Spanish. <annotation><p><italic toggle="yes">(86 year old woman developed abdominal pain and jaundice 3 months after starting captopril [bilirubin 3.0 mg/dL, ALT 66 U/L, Alk P 798 U/L], rapid recovery on stopping).</italic></p></annotation><pub-id pub-id-type="pmid">1583956</pub-id></mixed-citation>
+          </ref>
+          <ref id="ACEinibitors.R45">
+            <mixed-citation publication-type="journal">Hagley MT, Hulisz DT, Burns CM. Hepatotoxicity associated with angiotensin-converting enzyme inhibitors. Ann Pharmacother 1993; 27: 228-31. <annotation><p><italic toggle="yes">(Review of 19 cases of ACE inhibitor associated liver injury: usually cholestatic [68%], none hepatocellular; 2 cases of cross reactivity with other ACE inhibitors; latency variable, median being 4 weeks).</italic></p></annotation><pub-id pub-id-type="pmid">8292107</pub-id></mixed-citation>
+          </ref>
+          <ref id="ACEinibitors.R46">
+            <mixed-citation publication-type="journal">Hilburn RB, Bookstaver D, Whitlock WL. Comment: angiotensin-converting enzyme inhibitor hepatotoxicity: further insights. Ann Pharmacother 1993; 27: 1142-3. <annotation><p><italic toggle="yes">(In response to article by Hagley [1993], mentions a case of hepatotoxicity due to lisinopril, but no details are provided).</italic></p></annotation><pub-id pub-id-type="pmid">8219456</pub-id></mixed-citation>
+          </ref>
+          <ref id="ACEinibitors.R47">
+            <mixed-citation publication-type="journal">Lindgren A, Olsson R. [Liver damage following antihypertensive therapy. A case report of hepatitis induced by lisinopril and a review] Lakartidningen 1993; 90: 1557-8. Swedish. <annotation><p><italic toggle="yes">(72 year old man developed jaundice 12 months after starting lisinopril [peak bilirubin 14.9 mg/dL, ALT 2040 U/L, Alk P 360 U/L], resolving within 2 months of stopping).</italic></p></annotation><pub-id pub-id-type="pmid">8387127</pub-id></mixed-citation>
+          </ref>
+          <ref id="ACEinibitors.R48">
+            <mixed-citation publication-type="journal">Valle R, Carrascosa M, Cillero L, Perez-Castrillon JL. Enalapril-induced hepatotoxicity. Ann Pharmacother 1993; 27: 1405. <annotation><p><italic toggle="yes">(73 year old woman developed fatigue within 10 days of switching from lisinopril to enalapril [bilirubin 0.9 mg/dL, ALT 614 U/L, Alk P 470 U/L], resolving within 10 days of stopping).</italic></p></annotation><pub-id pub-id-type="pmid">8286822</pub-id></mixed-citation>
+          </ref>
+          <ref id="ACEinibitors.R49">
+            <mixed-citation publication-type="journal">H&#x000fc;rlimann R, Binek J, Oehlschlegel C, Hammer B. [Enalapril (Reniten)-associated toxic hepatitis] Schweiz Med Wochenschr 1994; 124: 1276-80. German. <annotation><p><italic toggle="yes">(52 year old woman developed fatigue after 12 and jaundice after 20 weeks of enalapril therapy [bilirubin 29.5 mg/dL, ALT 1585 U/L, Alk P 309 U/L, protime 46%], resolving 5 months after stopping).</italic></p></annotation><pub-id pub-id-type="pmid">8066414</pub-id></mixed-citation>
+          </ref>
+          <ref id="ACEinibitors.R50">
+            <mixed-citation publication-type="journal">Droste HT, de Vries RA. Chronic hepatitis caused by lisinopril. Neth J Med 1995; 46: 95-8. <annotation><p><italic toggle="yes">(56 year old man developed jaundice, 4 months after starting lisinopril [bilirubin 5.3 mg/dL, ALT 1768 U/L, Alk P 178 U/L], but drug continued for another month [bilirubin 33.5 mg/dL, ALT 2420 U/L, Alk P 113 U/L], slow recovery upon stopping and liver biopsy 9 months later showed incomplete cirrhosis).</italic></p></annotation><pub-id pub-id-type="pmid">7885528</pub-id></mixed-citation>
+          </ref>
+          <ref id="ACEinibitors.R51">
+            <mixed-citation publication-type="journal">Harrison BD, Laidlaw ST, Reilly JT. Fatal aplastic anaemia associated with lisinopril. Lancet 1995; 3469: 247-8. <annotation><p><italic toggle="yes">(64 year old woman developed aplastic anemia 17 days after starting enalapril [bilirubin 4.4 mg/dL, ALT 548 U/L, Alk P normal, white count 350/&#x003bc;L, platelets 12,000/&#x003bc;L], dying shortly after of sepsis).</italic></p></annotation><pub-id pub-id-type="pmid">7616816</pub-id></mixed-citation>
+          </ref>
+          <ref id="ACEinibitors.R52">
+            <mixed-citation publication-type="journal">Nissan A, Spira RM, Seror D, Ackerman Z. Captopril-associated "pseudocholangitis'. A case report and review of the literature. Arch Surg 1996; 131: 670-1. <annotation><p><italic toggle="yes">(65 year old woman developed abdominal pain, fever and jaundice 2 months after starting captopril and delayed stopping [bilirubin rising from 3.3 to 21 mg/dL, ALT 515 U/L, Alk P 157 U/L], taking 5 months to recover).</italic></p></annotation><pub-id pub-id-type="pmid">8645078</pub-id></mixed-citation>
+          </ref>
+          <ref id="ACEinibitors.R53">
+            <mixed-citation publication-type="journal">Deira JL, Corbacho L, Bond&#x000ed;a A, Lerma JL, Gasc&#x000f3;n A, Mart&#x000ed;n B, Garc&#x000ed;a P, Tabernero JM. Captopril hepatotoxicity in a case of renal crisis due to systemic sclerosis. Nephrol Dial Transplant. 1997; 12: 1717-8. <annotation><p><italic toggle="yes">(70 year old woman with renal failure due to scleroderma developed jaundice 21 days after starting captopril [bilirubin 14.3 mg/dL, ALT 330 U/L, Alk P 345 U/L] and rapid improvement on stopping).</italic></p></annotation><pub-id pub-id-type="pmid">9269658</pub-id></mixed-citation>
+          </ref>
+          <ref id="ACEinibitors.R54">
+            <mixed-citation publication-type="journal">Edwards C, Blowers DA, Pover GM. Fosinopril national survey: a post-marketing surveillance study of fosinopril (Staril) in general practice in the UK. Int J Clin Pract 1997; 51: 394-8. <annotation><p><italic toggle="yes">(Postmarketing study of 10,791 hypertensive patients from the UK treated with fosinopril for an average of 5.2 months, side effects were reported in 24% including cough [6%], dizziness [2.5%], headache [2%], fatigue [1%], nausea [1%]; 10% stopped because of side effects, but no mention of liver injury or ALT elevations).</italic></p></annotation><pub-id pub-id-type="pmid">9489071</pub-id></mixed-citation>
+          </ref>
+          <ref id="ACEinibitors.R55">
+            <mixed-citation publication-type="journal">Berdah J, Guest M, Salvador M. [Study of the efficacy and safety of fosinopril in general practice in 19,435 hypertensive patients (FLIGHT Study)]. Ann Cardiol Angeiol (Paris) 1998; 47: 169-75. French. <annotation><p><italic toggle="yes">(Postmarketing study of 19,435 hypertensive patients from France treated with fosinopril for at least 12 weeks; side effects reported in 12% including cough in 2.7%; no mention of ALT elevations or liver related adverse events).</italic></p></annotation><pub-id pub-id-type="pmid">9772944</pub-id></mixed-citation>
+          </ref>
+          <ref id="ACEinibitors.R56">
+            <mixed-citation publication-type="journal">Peters DC, Noble S, Plosker GL. Trandolapril. An update of its pharmacology and therapeutic use in cardiovascular disorders. Drugs 1998; 56: 871-93. <annotation><p><italic toggle="yes">(Review of trandolapril, an ACE inhibitor with once daily dosing, minimally metabolized by liver; among &#x0003e;24,000 patients in clinical trials, common side effects were cough [3.6%], fatigue [1%], dizziness [0.9%], headache [0.7%] and nausea [0.6%]; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">9829159</pub-id></mixed-citation>
+          </ref>
+          <ref id="ACEinibitors.R57">
+            <mixed-citation publication-type="journal">Mart&#x000ed;nez Guti&#x000e9;rrez A, Sierra Manzano JM, Tapia YR, Larumbe Sola Y. [Hepatotoxicity caused by captopril] Aten Primaria 1998; 21: 586-7. Spanish. <annotation><p><italic toggle="yes">(60 year old man developed jaundice and pruritus 4 weeks after starting captopril [bilirubin 13.1 mg/dL, ALT 1180 U/L, Alk P 1468 U/L], resolving 8-10 weeks after stopping).</italic></p></annotation><pub-id pub-id-type="pmid">9670588</pub-id></mixed-citation>
+          </ref>
+          <ref id="ACEinibitors.R58">
+            <mixed-citation publication-type="journal">P&#x000e9;rez Rold&#x000e1;n F, Gonz&#x000e1;lez Carro PS, Legaz Huidobro ML, Saez Bravo JM, Ruiz Carrillo F. [Cholestatic hepatitis caused by captopril] Rev Esp Enferm Dig 1998; 90: 378-9. Spanish. <annotation><p><italic toggle="yes">(71 year old man developed abdominal pain, fever and jaundice 3 months after starting captopril [bilirubin 11.4 mg/dL, ALT 210 U/L, Alk P 451 U/L], resolving 6 months after stopping).</italic></p></annotation><pub-id pub-id-type="pmid">9656763</pub-id></mixed-citation>
+          </ref>
+          <ref id="ACEinibitors.R59">
+            <mixed-citation publication-type="journal">Qu&#x000ed;lez C, Palaz&#x000f3;n JM, Chuli&#x000e1; T, C&#x000f3;rdoba YC. [Hepatoxicity by enalapril] Gastroenterol Hepatol 1999; 22: 113-4. Spanish. <annotation><p><italic toggle="yes">(45 year old man developed abdominal pain and jaundice 2 years after starting enalapril [bilirubin 18 mg/dL, ALT 5300 U/L, Alk P 381 U/L], recovering in 2 months).</italic></p></annotation><pub-id pub-id-type="pmid">10193097</pub-id></mixed-citation>
+          </ref>
+          <ref id="ACEinibitors.R60">
+            <mixed-citation publication-type="journal">Hourmand-Ollivier I, Dargere S, Cohen D, Galais MP, Mosquet B, Rousselot P, Dao T. [Fatal subfulminant hepatitis probably due to the combination benazepril-hydrochlorothiazide(Briazide)]. Gastroenterol Clin Biol 2000; 24: 464. French. <annotation><p><italic toggle="yes">(69 year old woman developed fatigue 14 months after starting benazepril with HCTZ [bilirubin 16.2 mg/dL, ALT 30 times ULN, Alk P 2 times ULN, protime 63%], with progressive course and death; delayed discontinuation).</italic></p></annotation><pub-id pub-id-type="pmid">10844292</pub-id></mixed-citation>
+          </ref>
+          <ref id="ACEinibitors.R61">
+            <mixed-citation publication-type="journal">Jeserich M, Ihling C, Allgaier HP, Berg PA, Heilmann C. Acute liver failure due to enalapril. Herz 2000; 25: 689-93. <annotation><p><italic toggle="yes">(46 year old man developed fatigue and jaundice 3 years after starting enalapril [bilirubin 13.8 rising to 46.7 U/L, ALT 936 U/L, Alk P 394 U/L], progressing for 6 weeks despite stopping and requiring liver transplantation; died of complications).</italic></p></annotation><pub-id pub-id-type="pmid">11141678</pub-id></mixed-citation>
+          </ref>
+          <ref id="ACEinibitors.R62">
+            <mixed-citation publication-type="journal">Kocab MA, Coppola D, Hiotis S, Karl RC, Barthel JS. Captopril-associated cholestasis complicating the management of pancreatic cancer. Surg Endosc 2000; 14: 681. <annotation><p><italic toggle="yes">(Abstract only; no details of case). </italic></p></annotation><pub-id pub-id-type="pmid">11265073</pub-id></mixed-citation>
+          </ref>
+          <ref id="ACEinibitors.R63">
+            <mixed-citation publication-type="journal">Clark LT. Safety profile of perindopril. Am J Cardiol 2001; 88: 36i-40i. <italic toggle="yes"> (</italic><annotation><p><italic toggle="yes">Review of safety data from more than 2,500 patients treated with perindopril for up to 4 years and from postmarketing reports stated that the most common [&#x0003e;1%] side effects were cough, gastrointestinal upset, fatigue, headache and dizziness; no mention of clinically apparent liver injury or ALT elevaitons).</italic></p></annotation><pub-id pub-id-type="pmid">11591359</pub-id></mixed-citation>
+          </ref>
+          <ref id="ACEinibitors.R64">
+            <mixed-citation publication-type="journal">Gonz&#x000e1;lez de la Puente MA, Calder&#x000f3;n E, Espinosa R, Rinc&#x000f3;n M, Varela JM. Fatal hepatotoxicity associated with enalapril. Ann Pharmacother 2001; 35: 1492. <annotation><p><italic toggle="yes">(80 year old woman developed jaundice 3 weeks after starting enalapril [bilirubin 17 rising to 46 mg/dL, ALT 244 U/L, Alk P 1999 U/L], progressing to hepatic failure and death by day 30).</italic></p></annotation><pub-id pub-id-type="pmid">11724106</pub-id></mixed-citation>
+          </ref>
+          <ref id="ACEinibitors.R65">
+            <mixed-citation publication-type="journal">Nunes AC, Amaro P, Ma&#x000e7; as F, Cipriano A, Martins I, Rosa A, Pimenta I, et al. Fosinopril-induced prolonged cholestatic jaundice and pruritus: first case report. Eur J Gastroenterol Hepatol 2001; 13: 279-82. <annotation><p><italic toggle="yes">(61 year old man developed jaundice 2-4 weeks after starting fosinopril [bilirubin 19.1 rising to 40 mg/dL, ALT 70 U/L, Alk P 421 U/L] with prolonged pruritus [4 months] and Alk P elevations [18 months]).</italic></p></annotation><pub-id pub-id-type="pmid">11293449</pub-id></mixed-citation>
+          </ref>
+          <ref id="ACEinibitors.R66">
+            <mixed-citation publication-type="journal">Romero-G&#x000f3;mez M, Miralles EJ, Garc&#x000ed;a D&#x000ed;az E, Robles A, Su&#x000e1;rez E, Castro M. Hepatotoxicity induced by fosinopril. J Hepatol 2001; 35: 309-10. <annotation><p><italic toggle="yes">(43 year old man developed jaundice and pruritus 3 months after starting fosinopril [bilirubin 7.9 mg/dL, ALT 331 U/L, Alk P 1430 U/L], resolving within 4 weeks of stopping).</italic></p></annotation><pub-id pub-id-type="pmid">11580159</pub-id></mixed-citation>
+          </ref>
+          <ref id="ACEinibitors.R67">
+            <mixed-citation publication-type="journal">Schattner A, Kozak N, Friedman J. Captopril-induced jaundice: report of 2 cases and a review of 13 additional reports in the literature. Am J Med Sci 2001; 322: 236-40. <annotation><p><italic toggle="yes">(1 woman and 1 man developed cholestatic hepatitis due to captopril: 67 and 73 year olds treated for 2 and 26 months [bilirubin 9.9 and 14.0 rising to 30 and 24.4 mg/dL, ALT 268 and 305 U/L, Alk P 363 and 917 U/L], both resolving within ~4 months of stopping).</italic></p></annotation><pub-id pub-id-type="pmid">11678523</pub-id></mixed-citation>
+          </ref>
+          <ref id="ACEinibitors.R68">
+            <mixed-citation publication-type="journal">Hartleb M, Biernat L, Kochel A. Drug-induced liver damage -- a three-year study of patients from one gastroenterological department. Med Sci Monit 2002; 8: CR292-6. <annotation><p><italic toggle="yes">(Among 14 cases of drug induced liver injury seen over a 3 year period, none were fatal; 3 cases due to amoxicillin/clavulanate, 3 statins, 2 antituberculosis medications, and 1 each for roxithromycin, asacol, methimazole, estrogens, satolol and enalapril [66 year old woman with onset after 4 weeks and bilirubin 17 mg/dL, ALT 1.2 times and Alk P 2.2 times ULN]).</italic></p></annotation><pub-id pub-id-type="pmid">11951073</pub-id></mixed-citation>
+          </ref>
+          <ref id="ACEinibitors.R69">
+            <mixed-citation publication-type="journal">Muela Molinero A, Linares Torres P, Dom&#x000ed;nguez Carbajo AB, Olcoz Go&#x000f1;i JL. [Enalapril induced cholestasic hepatitis] An Med Interna 2002; 19: 492-3. Spanish. <annotation><p><italic toggle="yes">(73 year old man developed jaundice within 3 months after starting enalapril [bilirubin 10.8 mg/dL, ALT 87 U/L, Alk P 853 U/L], resolving upon stopping).</italic></p></annotation><pub-id pub-id-type="pmid">1242064</pub-id></mixed-citation>
+          </ref>
+          <ref id="ACEinibitors.R70">
+            <mixed-citation publication-type="journal">Schoondyke JW, Mohan R, Kelly JL, Ponder MA, Iskandar S, Douglas JE. Fosinopril-induced hepatotoxicity in a complex medical patient. Tenn Med 2002; 95: 155-6. <annotation><p><italic toggle="yes">(74 year old woman developed jaundice within 3 days of starting fosinopril while on artificial ventilation, improving upon stopping drug; no details or laboratory test results given).</italic></p></annotation><pub-id pub-id-type="pmid">11941910</pub-id></mixed-citation>
+          </ref>
+          <ref id="ACEinibitors.R71">
+            <mixed-citation publication-type="journal">Bas V, Erkan T, Caliskan S, Sever L, Kasap&#x000e7;opur O, Ozbay G, ArIsoy N. Toxic hepatitis due to enalapril in childhood. Pediatr Int 2003; 45: 755-7. <annotation><p><italic toggle="yes">(7 year old girl developed liver injury after 4 years of enalapril therapy for nephritic syndrome [bilirubin 1.9 mg/dL, ALT 1318 U/L, Alk P 727 U/L], resolving completely in one month with prednisone therapy).</italic></p></annotation><pub-id pub-id-type="pmid">14651558</pub-id></mixed-citation>
+          </ref>
+          <ref id="ACEinibitors.R72">
+            <mixed-citation publication-type="journal">Mac&#x000ed;as FM, Campos FR, Salguero TP, Soria PT, Carrasco FG, Mart&#x000ed;n JM. Ductopenic hepatitis related to Enalapril. J Hepatol 2003; 39: 1091-2. <annotation><p><italic toggle="yes">(58 year old man on enalapril for 2 years developed jaundice and abdominal pain [bilirubin 10 mg/dL, ALT 133 U/L, Alk P 382 U/L], 2 biopsies showed ductopenia and cholestasis; slow but eventual complete recovery).</italic></p></annotation><pub-id pub-id-type="pmid">14642633</pub-id></mixed-citation>
+          </ref>
+          <ref id="ACEinibitors.R73">
+            <mixed-citation publication-type="journal">Yeung E, Wong FS, Wanless IR, Shiota K, Guindi M, Joshi S, Gardiner G. Ramipril-associated hepatotoxicity. Arch Pathol Lab Med 2003; 127: 1493-7. <annotation><p><italic toggle="yes">(Three men with suspected ramipril hepatotoxicity; ages 51, 59 and 51 years with onset after 4, 2 and 8 weeks [peak bilirubin 15.5, 5.0, and 1.4 mg/dL, ALT 103, 28, and 134 U/L, Alk P 957, 352 and not available U/L], slow resolution in cholestatic cases, rapid in case with enzyme elevation only; one possibly had vanishing bile duct syndrome and cirrhosis and had persistence of jaundice for more than a year).</italic></p></annotation><pub-id pub-id-type="pmid">14567716</pub-id></mixed-citation>
+          </ref>
+          <ref id="ACEinibitors.R74">
+            <mixed-citation publication-type="journal">Russo MW, Galanko JA, Shrestha R, Fried MW, Watkins P. Liver transplantation for acute liver failure from drug-induced liver injury in the United States. Liver Transpl 2004; 10: 1018-23. <annotation><p><italic toggle="yes">(Among ~50,000 liver transplants reported to UNOS between 1990 and 2002, 270 [0.5%] were done for drug induced acute liver failure, causes include one case attributed to lisinopril, but none to other ACE inhibitors).</italic></p></annotation><pub-id pub-id-type="pmid">15390328</pub-id></mixed-citation>
+          </ref>
+          <ref id="ACEinibitors.R75">
+            <mixed-citation publication-type="journal">Chrysant SG, Chrysant GS. Pharmacological and clinical profile of moexipril: a concise review. J Clin Pharmacol 2004; 44: 827-36. <annotation><p><italic toggle="yes">(Moexipril is a prodrug of the carboxylic metabolite moexiprilat; its pharmacokinetics allow once daily dosing, and it has similar activity and side effects to other ACE inhibitors: commonly cough, vertigo, diarrhea and fatigue: no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">15286086</pub-id></mixed-citation>
+          </ref>
+          <ref id="ACEinibitors.R76">
+            <mixed-citation publication-type="journal">Bj&#x000f6;rnsson E, Jerlstad P, Bergqvist A, Olsson R. Fulminant drug-induced hepatic failure leading to death or liver transplantation in Sweden. Scand J Gastroenterol 2005; 40: 1095-101. <annotation><p><italic toggle="yes">(Survey of all cases of DILI with fatal outcome from Swedish Adverse Drug Reporting system from 1966-2002; 103 cases identified as highly probable, probable or possible including one attributed to enalapril and one to captopril).</italic></p></annotation><pub-id pub-id-type="pmid">16165719</pub-id></mixed-citation>
+          </ref>
+          <ref id="ACEinibitors.R77">
+            <mixed-citation publication-type="journal">Andrade RJ, Lucena MI, Kaplowitz N, Garc&#x000ed;a-Munoz B, Borraz Y, Pachkoria K, Garc&#x000ed;a-Cort&#x000e9;s M, et al. Outcome of acute idiosyncratic drug-induced liver injury: Long-term follow-up in a hepatotoxicity registry. Hepatology 2006; 44: 1581-8. <annotation><p><italic toggle="yes">(Among cases of drug induced liver injury in the Spanish registry, ACE inhibitors accounted for 5 of 406 cases of acute [~1%] and 2 of 28 cases [7%] of chronic injury, largely with cholestatic injury). </italic></p></annotation><pub-id pub-id-type="pmid">17133470</pub-id></mixed-citation>
+          </ref>
+          <ref id="ACEinibitors.R78">
+            <mixed-citation publication-type="journal">Maimon N, Ferguson ND, Marras TK. Angiotensin converting enzyme inhibitor toxicity causing interstitial pneumonitis and cholestatic hepatitis. Eur J Intern Med 2006; 17: 73. <annotation><p><italic toggle="yes">(62 year old woman developed fever, cough and liver test abnormalities while taking atorvastatin and enalapril for an unstated period [no liver test values provided], resolving after stopping; few details given).</italic></p></annotation><pub-id pub-id-type="pmid">16378897</pub-id></mixed-citation>
+          </ref>
+          <ref id="ACEinibitors.R79">
+            <mixed-citation publication-type="journal">Sabat&#x000e9; M, Ib&#x000e1;&#x000f1;ez L, P&#x000e9;rez E, Vidal X, Buti M, Xiol X, Mas A, et al. Risk of acute liver injury associated with the use of drugs: a multicentre population survey. Aliment Pharmacol Ther 2007; 25: 1401-9. <annotation><p><italic toggle="yes">(Population based survey of 126 cases of acute liver injury [24 with acute liver failure] due to drugs between 1993-1999 in Spain; calculated relative risk [RR] of injury compared to the general population: for 8 cases due to antituberculosis triple therapy [RR=1300], but for 9 cases of captopril RR=3 [nonsignificant] and 6 cases of enalapril RR=1.5 [nonsignificant]).</italic></p></annotation><pub-id pub-id-type="pmid">17539979</pub-id></mixed-citation>
+          </ref>
+          <ref id="ACEinibitors.R80">
+            <mixed-citation publication-type="journal">Chalasani N, Fontana RJ, Bonkovsky HL, Watkins PB, Davern T, Serrano J, Yang H, Rochon J; Drug Induced Liver Injury Network (DILIN). Causes, clinical features, and outcomes from a prospective study of drug-induced liver injury in the United States. Gastroenterology 2008; 135: 1924-34. <annotation><p><italic toggle="yes">(Among 300 cases of drug induced liver disease in the US collected between 2004 and 2008, 2 cases were attributed to ACE inhibitors, one to lisinopril [judged as probable] and one quinapril [judged as only possible]). </italic></p></annotation><pub-id pub-id-type="pmid">18955056</pub-id></mixed-citation>
+          </ref>
+          <ref id="ACEinibitors.R81">
+            <mixed-citation publication-type="journal">Chou JW, Yu CJ, Chuang PH, Lai HC, Hsu CH, Cheng KS, Peng CY, et al. Successful treatment of fosinopril-induced severe cholestatic jaundice with plasma exchange. Ann Pharmacother 2008; 42: 1887-92. <annotation><p><italic toggle="yes">(78 year old man developed jaundice 1 month after starting fosinopril [bilirubin 21.4 mg/dL, ALT 41 U/L, Alk P 242 U/L], resolving within 2 months of stopping).</italic></p></annotation><pub-id pub-id-type="pmid">19017832</pub-id></mixed-citation>
+          </ref>
+          <ref id="ACEinibitors.R82">
+            <mixed-citation publication-type="journal">Palta R, Thobani S, Donovan JA, Kanel GC, Gutierrez G, Fong TL. Prolonged cholestasis associated with benazepril therapy. Am J Gastroenterol 2009; 104: 245-6. <annotation><p><italic toggle="yes">(Case report of a 32 year old woman who developed painless jaundice and pruritus 14 weeks after starting benazepril; causality was graded as probable on the Naranjo scale; liver tests peaked 14 days after stopping benazepril [total bilirubin 22.0 mg/dL, ALT 143 U/L, Alk P 3904 U/L], liver tests normalized 10 months after onset).</italic></p></annotation><pub-id pub-id-type="pmid">19098880</pub-id></mixed-citation>
+          </ref>
+          <ref id="ACEinibitors.R83">
+            <mixed-citation publication-type="journal">Zalawadiya SK, Sethi S, Loe S, Kumar S, Tchokonte R, Shi D, Adam AK, May EJ. Unique case of presumed lisinopril-induced hepatotoxicity. Am J Health Syst Pharm 2010; 67: 1354-6. <annotation><p><italic toggle="yes">(30 year old woman developed jaundice 8 months after starting lisinopril [bilirubin 12.2 mg/dL, ALT 1638 U/L, Alk P 175 U/L], with resolution within 2 months of stopping).</italic></p></annotation><pub-id pub-id-type="pmid">20689125</pub-id></mixed-citation>
+          </ref>
+          <ref id="ACEinibitors.R84">
+            <mixed-citation publication-type="journal">da Silva GH, Alves AV, Duques P, Sev&#x000e1;-Pereira T, Soares EC, Escanhoela CA. Acute hepatotoxicity caused by enalapril: a case report. J Gastrointestin Liver Dis 2010; 19: 187-90. <annotation><p><italic toggle="yes">(44 year old man developed jaundice 2.5 years after starting enalapril and 3 months after a dose increase [bilirubin 16.4 mg/dL, ALT 370 U/L, Alk P 668 U/L], with improvement on stopping, relapse on restarting, and eventual slow recovery).</italic></p></annotation><pub-id pub-id-type="pmid">20593053</pub-id></mixed-citation>
+          </ref>
+          <ref id="ACEinibitors.R85">
+            <mixed-citation publication-type="journal">Bruggisser M, Terraciano L, R&#x000e4;tz Bravo A, Haschke M. [Liver damage in a patient treated with a vitamin K antagonist, a statin and an ACE inhibitor]. Praxis (Bern 1994) 2010; 99: 1259-65. German. <annotation><p><italic toggle="yes">(71 year old man developed jaundice while receiving phenprocoumon, atorvastatin and perindopril [bilirubin 6.3 mg/dL, ALT 1526 U/L, Alk P 187 U/L], with rapid improvement on stopping; phenprocoumon thought to be the cause).</italic></p></annotation><pub-id pub-id-type="pmid">20960395</pub-id></mixed-citation>
+          </ref>
+          <ref id="ACEinibitors.R86">
+            <mixed-citation publication-type="journal">Reuben A, Koch DG, Lee WM; Acute Liver Failure Study Group. Drug-induced acute liver failure: results of a U.S. multicenter, prospective study. Hepatology 2010; 52: 2065-76. <annotation><p><italic toggle="yes">(Among 1198 patients with acute liver failure enrolled in a US prospective study between 1998 and 2007, 133 were attributed to drug induced liver injury, none of which were attributed to ACE inhibitors). </italic></p></annotation><pub-id pub-id-type="pmid">20949552</pub-id></mixed-citation>
+          </ref>
+          <ref id="ACEinibitors.R87">
+            <mixed-citation publication-type="journal">Douros A, Kauffmann W, Bronder E, Klimpel A, Garbe E, Kreutz R. Ramipril-induced liver injury: case report and review of the literature. Am J Hypertens 2013; 26: 1070-5. <annotation><p><italic toggle="yes">(40 year old man with recurrent alcoholic pancreatitis developed jaundice 10 months after starting ramipril [bilirubin 1.9 mg/dL, ALT 888 U/L, Alk P 599 U/L], with rapid improvement on stopping and recurrence upon restarting ramipril [bilirubin 1.4 mg/dL, ALT 1555 U/L, Alk P 523 U/L]; review of literature on hepatotoxicity of ACE inhibitors).</italic></p></annotation><pub-id pub-id-type="pmid">23747952</pub-id></mixed-citation>
+          </ref>
+          <ref id="ACEinibitors.R88">
+            <mixed-citation publication-type="journal">Bj&#x000f6;rnsson ES, Bergmann OM, Bj&#x000f6;rnsson HK, Kvaran RB, Olafsson S. Incidence, presentation and outcomes in patients with drug-induced liver injury in the general population of Iceland. Gastroenterology 2013; 144: 1419-25. (In a<annotation><p><italic toggle="yes">population based study from Iceland, 96 cases of drug induced liver injury were identified over a 2 year period [2010 and 2011], but none were attributed to an ACE inhibitor despite their frequent use).</italic></p></annotation><pub-id pub-id-type="pmid">23419359</pub-id></mixed-citation>
+          </ref>
+          <ref id="ACEinibitors.R89">
+            <mixed-citation publication-type="journal">Chalasani N, Bonkovsky HL, Fontana R, Lee W, Stolz A, Talwalkar J, Reddy KR, et al.; United States Drug Induced Liver Injury Network. Features and outcomes of 899 patients with drug-induced liver injury: The DILIN Prospective Study. Gastroenterology 2015; 148: 1340-52. <annotation><p><italic toggle="yes">(Among 899 cases of drug induced liver injury enrolled in a US prospective study between 2004 and 2013, antihypertensive agents accounted for 39 cases [4%] of which 8 [1%] were ACE inhibitors with 6 cases attributed to lisinopril, 1 to enalapril and 1 to benazepril). </italic></p></annotation><pub-id pub-id-type="pmid">25754159</pub-id></mixed-citation>
+          </ref>
+          <ref id="ACEinibitors.R90">
+            <mixed-citation publication-type="journal">Saloojee A, Skinner DL, Loots E, Hardcastle TC, Muckart DJ. Hepatic dysfunction: A common occurrence in severely injured patients. Injury 2017; 48: 127-32. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/pubmed/27599394">PubMed Citation</ext-link><annotation><p><italic toggle="yes">(Among 225 patients with severe traumatic injuries admitted to a South African trauma unit over a one year period, liver test abnormalities arose in 48 [21%] with initial and peak values of ALT of 93 and 156 U/L, Alk P of 63 and 238 U/L and bilirubin of 0.7 and 3.5 mg/dL, the presence of liver injury being associated with more severe injury, shock and renal failure, but also with use of piperacillin/tazobactam and enalapril, probably because of their use in patients with more severe injury).</italic></p></annotation></mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

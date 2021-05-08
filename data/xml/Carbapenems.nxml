@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Carbapenems" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Carbapenems</book-part-id>
+      <title-group>
+        <title>Carbapenems</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>15</day>
+          <month>1</month>
+          <year>2017</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Carbamazepine" document-type="chapter">Carbamazepine</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Carbinoxamine" document-type="chapter">Carbinoxamine</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Carbapenems.OVERVIEW">
+        <title>OVERVIEW</title>
+        <p content-type="pubmed-excerpt">The carbapenems are beta lactam antibiotics which have a broad spectrum of activity against many gram-positive and gram-negative, aerobic and anaerobic organisms. The carbapenems, like other beta lactam antibiotics, bind to critical penicillin-binding proteins, disrupting the growth and structural integrity of bacterial cell walls. Carbapenems have a fused beta lactam ring that is resistant to most beta lactamases. The carbapenems have excellent activity against streptococci, enterococci, staphylococcci, listeria, enterobacteriaceae, and many pseudomonas, bacteroides and acinetobacter species. However, most methicillin-resistant staphylococci are also resistant to carbapenems. Carbapenems have a safety profile similar to that of other beta lactam antibiotics such as the cephalosporins and the penicillins. The most common adverse effects are injection site reactions, diarrhea, nausea, vomiting, skin rash and pruritus.</p>
+        <p content-type="pubmed-excerpt">The carbapenems (kar" ba pen' ems) that are currently available in the United States (with pronunciation, year of approval and initial brand name) include imipenem (im" i pen' em: 1985, Primaxin), meropenem (mer" oh pen' em: 1996, Merrem), ertapenem (er" ta pen' em: 2001, Invanz) and doripenem (dor" i pen' em: 2008, Doribax). All four agents are poorly absorbed orally and require parenteral administration. Imipenem is given with cilastatin (sye" la stat' in), which inhibits the renal metabolism of imipenem and prolongs its half-life. Imipenem is noted for its dose dependent gastrointestinal side effects as compared to the other carbapenems.</p>
+        <p content-type="pubmed-excerpt">Most carbapenems have been reported to cause transient, mild-to-moderate, and asymptomatic increases in serum aminotransferase levels that rapidly resolve once therapy is stopped. In addition, there have been rare reports of cholestatic liver injury arising during or shortly after carbapenem therapy, often in patients with multiple other medical problems and other causes for liver disease (parenteral nutrition, sepsis). The carbapenems are excreted largely unchanged in the urine with minimal hepatic metabolism, which may be the reason why clinically significant hepatotoxicity with jaundice from the carbapenems is rare.</p>
+        <p>Each of the carbapenems is discussed separately although references to hepatotoxicity are given together below in this Overview section. The following are links to each specific drug record.</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>
+              <related-object source-id="livertox" document-id="Doripenem">Doripenem</related-object>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <related-object source-id="livertox" document-id="Ertapenem">Ertapenem</related-object>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <related-object source-id="livertox" document-id="Imipenemcilastatin">Imipenem</related-object>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <related-object source-id="livertox" document-id="Meropenem">Meropenem</related-object>
+            </p>
+          </list-item>
+        </list>
+      </sec>
+      <sec id="Carbapenems.CHEMICAL_FORMULAS_AND_STRUCT">
+        <title>CHEMICAL FORMULAS AND STRUCTURES</title>
+        <table-wrap id="Carbapenems.T1" position="anchor" orientation="portrait">
+          <table>
+            <tbody>
+              <tr>
+                <th id="hd_b_Carbapenems.T1_1_1_1_1" align="center" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_b_Carbapenems.T1_1_1_1_2" align="center" rowspan="1" colspan="1">CAS REGISTRY NO</th>
+                <th id="hd_b_Carbapenems.T1_1_1_1_3" align="center" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_b_Carbapenems.T1_1_1_1_4" align="center" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+              <tr>
+                <td headers="hd_b_Carbapenems.T1_1_1_1_1" valign="middle" align="center" rowspan="1" colspan="1">Doripenem</td>
+                <td headers="hd_b_Carbapenems.T1_1_1_1_2" valign="middle" align="center" rowspan="1" colspan="1">148016-81-3</td>
+                <td headers="hd_b_Carbapenems.T1_1_1_1_3" valign="middle" align="center" rowspan="1" colspan="1">C15-H24-N4-O6-S2</td>
+                <td headers="hd_b_Carbapenems.T1_1_1_1_4" valign="middle" align="center" rowspan="1" colspan="1">
+                  <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="clip_image002_005.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait"/>
+                </td>
+              </tr>
+              <tr>
+                <td headers="hd_b_Carbapenems.T1_1_1_1_1" valign="middle" align="center" rowspan="1" colspan="1">Ertapenem</td>
+                <td headers="hd_b_Carbapenems.T1_1_1_1_2" valign="middle" align="center" rowspan="1" colspan="1">
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135106916">153832-46-3</ext-link>
+                </td>
+                <td headers="hd_b_Carbapenems.T1_1_1_1_3" valign="middle" align="center" rowspan="1" colspan="1">C22-H25-N3-O7-S</td>
+                <td headers="hd_b_Carbapenems.T1_1_1_1_4" valign="middle" align="center" rowspan="1" colspan="1">
+                  <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Ertapenem_Structure_000.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait">
+                    <alt-text>Ertapenem chemical structure</alt-text>
+                  </graphic>
+                </td>
+              </tr>
+              <tr>
+                <td headers="hd_b_Carbapenems.T1_1_1_1_1" valign="middle" align="center" rowspan="1" colspan="1">Imipenem</td>
+                <td headers="hd_b_Carbapenems.T1_1_1_1_2" valign="middle" align="center" rowspan="1" colspan="1">
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135012513">74431-23-5</ext-link>
+                </td>
+                <td headers="hd_b_Carbapenems.T1_1_1_1_3" valign="middle" align="center" rowspan="1" colspan="1">C12-H17-N3-O4-S.H2O</td>
+                <td headers="hd_b_Carbapenems.T1_1_1_1_4" valign="middle" align="center" rowspan="1" colspan="1">
+                  <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Imipenem_Structure_000.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait">
+                    <alt-text>Imipenem chemical structure</alt-text>
+                  </graphic>
+                </td>
+              </tr>
+              <tr>
+                <td headers="hd_b_Carbapenems.T1_1_1_1_1" valign="middle" align="center" rowspan="1" colspan="1">Meropenem</td>
+                <td headers="hd_b_Carbapenems.T1_1_1_1_2" valign="middle" align="center" rowspan="1" colspan="1">
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135017839">119478-56-7</ext-link>
+                </td>
+                <td headers="hd_b_Carbapenems.T1_1_1_1_3" valign="middle" align="center" rowspan="1" colspan="1">C17-H25-N3-O5-S.H2-O</td>
+                <td headers="hd_b_Carbapenems.T1_1_1_1_4" valign="middle" align="center" rowspan="1" colspan="1">
+                  <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Meropenem_Structure_000.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait">
+                    <alt-text>Meropenem chemical structure</alt-text>
+                  </graphic>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Carbapenems.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 15 January 2017</p>
+        <ref-list id="Carbapenems.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Carbapenems.R1">
+            <mixed-citation publication-type="other">Zimmerman HJ. Hepatic injury from the treatment of infectious and parasitic diseases. In, Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999, pp. 589-637.<annotation><p><italic toggle="yes">(Expert review of liver injury due to antimicrobial agents published in 1999, imipenem-cilastin is listed in a table as a cause of serum enzyme elevations only, the other carbapenems are not mentioned).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Carbapenems.R2">
+            <mixed-citation publication-type="other">Moseley RH. Other beta-lactam antibiotics. Hepatotoxicity of antimicrobials and antifungal agents. In, Kaplowitz N, DeLeve LD, eds. Drug-induced Liver Disease. 3rd edition. Amsterdam: Elsevier, 2013, pp. 466.<annotation><p><italic toggle="yes">(Expert review of antibiotic induced liver injury mentions 2 case reports of liver injury from carbapenems).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Carbapenems.R3">
+            <mixed-citation publication-type="other">Petri WA Jr. Penicillins, cephalosporins, and other betalactam antibiotics. In, Brunton LL, Chabner BA, Knollman BC, eds. Goodman &#x00026; Gilman&#x02019;s the pharmacological basis of therapeutics. 12th ed. New York: McGraw-Hill, 2011, pp. 1477-1504.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Carbapenems.R4">
+            <mixed-citation publication-type="journal">Calandra GB, Ricci FM, Wang C, Brown KR. Safety and tolerance comparison of imipenem-cilastatin to cephalothin and cefazolin. J Antimicrob Chemother 1983; 12 (Suppl D): 125-31. <annotation><p><italic toggle="yes">(Summary of two randomized control trials found AST elevations were more common with imipenem/cilastatin [8 of 208 patients] than with cephalosporins [none of 196]; liver tests were only transiently abnormal and none were associated with symptoms or required drug discontinuation).</italic></p></annotation><pub-id pub-id-type="pmid">6583195</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carbapenems.R5">
+            <mixed-citation publication-type="journal">Chiodini PL, Geddes AM, Smith EG, Conlon CP, Farrell ID. Imipenem/cilastatin in the treatment of serious bacterial infections. Rev Infect Dis 1985; 7 (Suppl 3): S490-5. <annotation><p><italic toggle="yes">(45 patients given imipenem/cilastatin 2 or 4 g/day four times a day for 1-24 days; phlebitis was common, two adverse events were attributed to therapy&#x02013;both with mild abnormalities of liver tests, but not explained further).</italic></p></annotation><pub-id pub-id-type="pmid">3901212</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carbapenems.R6">
+            <mixed-citation publication-type="journal">Drusano GL, Standiford HC, Bustamante CI, Rivera G, Forrest A, Leslie J, Tatem B, et al. Safety and tolerability of multiple doses of imipenem/cilastatin. Clin Pharmacol Ther 1985; 37: 539-43. <annotation><p><italic toggle="yes">(Placebo controlled trial in 12 normal volunteers given imipenem/cilastatin iv for 10 days with laboratory tests pre-, 4 times during and once after; elevated ALT levels occurred in 2 of 6 patients in both groups, but were transient and asymptomatic).</italic></p></annotation><pub-id pub-id-type="pmid">3886256</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carbapenems.R7">
+            <mixed-citation publication-type="journal">Calandra GB, Wang C, Aziz M, Brown KR. The safety profile of imipenem/cilastatin: worldwide clinical experience based on 3470 patients. J Antimicrob Chemother 1986; 18 (Suppl E): 193-202. <annotation><p><italic toggle="yes">(Combined results of studies in 3470 patients receiving imipenem/cilastatin for up to 14 days; ALT elevations occurred in 5.3%, but most were transient and asymptomatic; 3 patients [0.1%] developed &#x0201c;marked changes in liver function tests and developed icterus during trials of imipenem/cilastatin necessitating its discontinuation. These changes resolved with no long-term sequelae&#x0201d;).</italic></p></annotation><pub-id pub-id-type="pmid">3469194</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carbapenems.R8">
+            <mixed-citation publication-type="journal">Garau J, Calandra GB. Intramuscular imipenem/cilastatin in multiple-dose treatment regimens: review of the worldwide clinical experience. Chemotherapy 1991; 37 (Suppl 2): 44-52. <annotation><p><italic toggle="yes">(Review of 32 studies in 686 patients of intramuscular imipenem/cilastatin; rates of adverse events were similar to those reported with iv administration, ALT elevations in 1.3%, no mention of clinically apparent liver injury).</italic></p></annotation><pub-id pub-id-type="pmid">1879187</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carbapenems.R9">
+            <mixed-citation publication-type="journal">Lami JL, Wilson SE, Hopkins JA. Adjunctive antimicrobials in surgery of soft tissue infections: evaluation of cephalosporins and carbapenems. Am Surg 1991; 57: 769-74. <annotation><p><italic toggle="yes">(Trial of meropenem [n=26] vs imipenem [n=26]; one patient on meropenem developed abnormal liver tests without further comment).</italic></p></annotation><pub-id pub-id-type="pmid">1746792</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carbapenems.R10">
+            <mixed-citation publication-type="journal">Schreiber C, May B. [Cholestasis in imipenem/cilastatin treatment] Z Gastroenterol 1993; 31 (Suppl 2): 76-7. German. <annotation><p><italic toggle="yes">(Abstract only: Cholestatic hepatitis arising after imipenem/cilastatin therapy; resolution in 4 weeks).</italic></p></annotation><pub-id pub-id-type="pmid">7483723</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carbapenems.R11">
+            <mixed-citation publication-type="journal">Drusano G. Meropenem: laboratory and clinical data. Clin Microbiol Infect 1997; 3 (Suppl 4): S51-S59. <annotation><p><italic toggle="yes">(Review of structure, pharmacology and clinical efficacy of meropenem; similar success rates as with imipenem, cephalosporin-aminoglycoside combinations; no discussion of adverse events).</italic></p></annotation><pub-id pub-id-type="pmid">11869241</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carbapenems.R12">
+            <mixed-citation publication-type="journal">Alverez Lerma F, Gil CL. [Clinical experience with meropenem in the treatment of severe infections in critically ill patients.] Rev Esp Quimioter 1998; 11: 229-37. Spanish. <annotation><p><italic toggle="yes">(A study of 178 patients who received meropenem for various infections; 2 patients [1%] developed transiently abnormal ALT levels).</italic></p></annotation><pub-id pub-id-type="pmid">9795309</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carbapenems.R13">
+            <mixed-citation publication-type="journal">Quattropani C, Schneider M, Helbling A, Zimmermann A, Kr&#x000e4;henb&#x000fc;hl S. Cholangiopathy after short-term administration of piperacillin and imipenem/cilastatin. Liver 2001; 21: 213-6. <italic toggle="yes">(</italic><annotation><p><italic toggle="yes">20 year old man with severe trauma developed jaundice 2 weeks after a single dose of piperacillin and 3 days of imipenem/cilastatin [bilirubin 0.9 rising to 4.7 mg/dL, ALT 345-669 U/L, Alk P 201 to 599 U/L], resolving over the next 2 months, unclear whether related to piperacillin, cilastatin or imipenem or to sepsis).</italic></p></annotation><pub-id pub-id-type="pmid">11422785</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carbapenems.R14">
+            <mixed-citation publication-type="journal">Graham DR, Lucasti C, Malafaia O, Nichols RL, Holtom P, Perez NQ, McAdams A, et al. Ertapenem once daily versus piperacillin-tazobactam 4 times per day for treatment of complicated skin and skin-structure infections in adults: results of a prospective, randomized, double-blind multicenter study. Clin Infect Dis 2002; 34: 1460-8. <annotation><p><italic toggle="yes">(Randomized controlled trial of ertapenem vs piperacillin-tazobactam in 540 patients; ALT elevations in 4.3% [40-271 U/L] of ertapenem vs 3.7% [40-271 U/L] in piper/tazo-recipients, all resolving after stopping ertapenem).</italic></p></annotation><pub-id pub-id-type="pmid">12015692</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carbapenems.R15">
+            <mixed-citation publication-type="journal">Teppler H, Gesser RM, Friedland IR, Woods GL, Meibohm A, Herman G, Mistry G, et al. Safety and tolerability of ertapenem. J Antimicrob Chemother 2004; 53 (Suppl 2): ii75-81. <annotation><p><italic toggle="yes">(Summary of safety studies in 240 healthy volunteers and 2046 patients in Phase II and III trials of ertapenem; side effects were similar to those of comparative agents including ceftriazone and piperacillin/tazobactam; mild-to-moderate ALT elevations occurred in 8.3-8.8% of ertapenem, compared to 6.9-7.3% of comparator-recipients treated for 1 to 28 days; all abnormalities returned to normal in post-therapy follow-up).</italic></p></annotation><pub-id pub-id-type="pmid">15150186</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carbapenems.R16">
+            <mixed-citation publication-type="journal">Blumer JL, Saiman L, Konstan MW, Melnick D. The efficacy and safety of meropenem and tobramycin vs ceftazidime and tobramycin in the treatment of acute pulmonary exacerbations in patients with cystic fibrosis. Chest 2005; 128: 2336-46. <annotation><p><italic toggle="yes">(Randomized trial of meropenem vs ceftazidime [both with tobramycin] in 121 patients with cystic fibrosis; ALT elevations occurred in 10-12% of patients in both groups; one patient was withdrawn from meropenem because of abnormal ALT, AST and Alk P levels attributed to therapy).</italic></p></annotation><pub-id pub-id-type="pmid">16236892</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carbapenems.R17">
+            <mixed-citation publication-type="journal">Zhanel GG, Johanson C, Embil JM, Noreddin A, Gin A, Vercaigne L, Hoban DJ. Ertapenem: review of a new carbapenem. Expert Rev Anti Infect Ther 2005; 3: 23-39. <annotation><p><italic toggle="yes">(Extensive review of ertapenem pharmacology, efficacy and safety; largely quotes safety results from Teppler et al. [2004]).</italic></p></annotation><pub-id pub-id-type="pmid">15757455</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carbapenems.R18">
+            <mixed-citation publication-type="journal">Linden P. Safety profile of meropenem: an updated review of over 6,000 patients treated with meropenem. Drug Saf 2007; 30: 657-68. <annotation><p><italic toggle="yes">(Extensive review of studies of safety of meropenem in phase III studies reported ALT elevations in 5.2% of meropenem recipients [n=6308] compared to 4.2% with cephalosporins, 3.2% with imipenem/cilastatin and 8.2% with clindamycin-aminoglycosides; no mention of hepatitis or jaundice).</italic></p></annotation><pub-id pub-id-type="pmid">17696578</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carbapenems.R19">
+            <mixed-citation publication-type="journal">Zhanel GG, Wiebe R, Dilay L, et al. Comparative review of the carbapenems. Drugs 2007; 67: 1027-52. <annotation><p><italic toggle="yes">(Review of pharmacology, efficacy and safety of 3 carbapenems &#x0201c;Like other &#x000df;-lactams, imipenem/cilastatin, meropenem and ertapenem can affect various laboratory tests including mild-to-moderate, transient increases in hepatic enzymes.&#x0201d;). </italic></p></annotation><pub-id pub-id-type="pmid">17488146</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carbapenems.R20">
+            <mixed-citation publication-type="journal">Doripenem (Doribax)--a new parenteral carbapenem. Med Lett Drugs Ther 2008; 50 (1278): 5-7. <annotation><p><italic toggle="yes">(Concise review of the antibacterial activity, clinical efficacy, safety and costs of doripenem shortly after its approval in the US; mentions side effects of headaches, nausea, diarrhea, rash, injection site phlebitis and hypersensitivity reactions; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">18219262</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carbapenems.R21">
+            <mixed-citation publication-type="journal">Lucasti C, Jasovich A, Umeh O, Jiang J, Kaniga K, Friedland I. Efficacy and tolerability of IV doripenem versus meropenem in adults with complicated intra-abdominal infection: a phase III, prospective, multicenter, randomized, double-blind, noninferiority study. Clin Ther 2008; 30: 868-83. <annotation><p><italic toggle="yes">(Among 476 patients with complicated intraabdominal infections treated with iv doripenem or meropenem, cure rates [86% vs 85%] and adverse event rates [83% vs 78%] were similar, hepatic enzyme elevations occurred in 2 [0.9%] vs 6 [2.5%] patients, and no serious adverse event was considered drug related).</italic></p></annotation><pub-id pub-id-type="pmid">18555934</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carbapenems.R22">
+            <mixed-citation publication-type="journal">R&#x000e9;a-Neto A, Niederman M, Lobo SM, Schroeder E, Lee M, Kaniga K, Ketter N, et al. Efficacy and safety of doripenem versus piperacillin/tazobactam in nosocomial pneumonia: a randomized, open-label, multicenter study. Curr Med Res Opin 2008; 24: 2113-26. <annotation><p><italic toggle="yes">(Among 448 patients with nosocomial pneumonia treated with iv doripenem or piperacillin/tazobactam for 7 to 14 days, both cure rates and adverse event rates were similar, ALT elevations arising in 1.8% vs 0.9% of patients).</italic></p></annotation><pub-id pub-id-type="pmid">18549664</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carbapenems.R23">
+            <mixed-citation publication-type="journal">Chastre J, Wunderink R, Prokocimer P, Lee M, Kaniga K, Friedland I. Efficacy and safety of intravenous infusion of doripenem versus imipenem in ventilator-associated pneumonia: a multicenter, randomized study. Crit Care Med 2008; 36: 1089-96. <annotation><p><italic toggle="yes">(Among 531 patients with ventilator associated pneumonia treated wtih doripenem or imipenem for 7-14 days, both response and adverse event rates were similar and "hepatic enzyme increased" was reported in 4.6% on doripenem and 2.3% on imipenem; no mention of clinically apparent liver injury or liver related deaths).</italic></p></annotation><pub-id pub-id-type="pmid">18379232</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carbapenems.R24">
+            <mixed-citation publication-type="journal">Chalasani N, Fontana RJ, Bonkovsky HL, Watkins PB, Davern T, Serrano J, Yang H, Rochon J; Drug Induced Liver Injury Network (DILIN). Causes, clinical features, and outcomes from a prospective study of drug-induced liver injury in the United States. Gastroenterology 2008; 135: 1924-34. <annotation><p><italic toggle="yes"> (Among 300 cases of drug induced liver disease in the US collected from 2004 to 2008, one was linked to imipenem-cilastatin, but was judged as only possibly related, the patient developing elevated Alk P [peak 638 U/L] and bilirubin [2.3 mg/dL] during a bout of alcoholic pancreatitis and while receiving imipenem).</italic></p></annotation><pub-id pub-id-type="pmid">18955056</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carbapenems.R25">
+            <mixed-citation publication-type="journal">Redman R, File TM Jr. Safety of intravenous infusion of doripenem. Clin Infect Dis 2009; 49 Suppl 1: S28-35. <annotation><p><italic toggle="yes">(Review of safety data from 1817 patients in 7 clinical trials of iv doripenem and 1325 patients receiving comparator drugs, reported similar rates of side effects with doripenem as with other arms; diarrhea in 9%, headache 10%, nausea 8%, phlebitis 6%, rash in 4%, hypersensitivity reacitons 0.7%, ALT elevations 1.1%, jaundice and ALT elevations in 0.8%, but no episodes of acute liver failure).</italic></p></annotation><pub-id pub-id-type="pmid">19619019</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carbapenems.R26">
+            <mixed-citation publication-type="journal">Schumaker AL, Okulicz JF. Meropenem-induced vanishing bile duct syndrome. Pharmacotherapy 2010; 30: 335e-338e. <annotation><p><italic toggle="yes">(60 year old woman developed jaundice 3 weeks after starting meropenem [bilirubin 11.2 mg/dL, ALT 83 U/L, Alk P 1467 U/L], with biopsy showing bile duct loss and subsequent prolonged jaundice and pruritus).</italic></p></annotation><pub-id pub-id-type="pmid">20812433</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carbapenems.R27">
+            <mixed-citation publication-type="journal">Goto M, Shimizu F, Takeo N, Okamoto O, Katagiri K, Ikewaki J, Ogata M, et al. Drug-induced hypersensitivity syndrome due to carbapenem antibiotics. J Dermatol 2010; 37: 374-7. <annotation><p><italic toggle="yes">(64 year old man with lymphoma on chemotherapy developed rash, fever, lymphadenopathy and liver injury while on multiple drugs including loxoprofen, SMZ/TMP, ciprofloxacin, zolpidem and meropenem and imipenem-cilastin [bilirubin not given, ALT 148 U/L, Alk P 427 U/L], also associated with CMV and HHV-6 viremia, lymphocyte stimulation tests were positive to carbapenem antibiotics and not to other agents, resolving with prednisone therapy).</italic></p></annotation><pub-id pub-id-type="pmid">20507410</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carbapenems.R28">
+            <mixed-citation publication-type="journal">Reuben A, Koch DG, Lee WM; Acute Liver Failure Study Group. Drug-induced acute liver failure: results of a U.S. multicenter, prospective study. Hepatology 2010; 52: 2065-76. <annotation><p><italic toggle="yes">(Among 1198 patients with acute liver failure enrolled in a US prospective study between 1998 and 2007, 133 were attributed to drug induced liver injury but none were due to carbenepenems). </italic></p></annotation><pub-id pub-id-type="pmid">20949552</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carbapenems.R29">
+            <mixed-citation publication-type="journal">Chahine EB, Ferrill MJ, Poulakos MN. Doripenem: a new carbapenem antibiotic. Am J Health Syst Pharm 2010; 67: 2015-24. <annotation><p><italic toggle="yes">(Review of the chemistry, antibacterial activity, pharmacology, clinical efficacy and safety of doripenem mentions the most common side effects as being heachache, insomnia, gastrointestinal upset, and phlebitis; and, that hepatic enzyme elevations occur in 0.8-4.6% of treated subjects).</italic></p></annotation><pub-id pub-id-type="pmid">21098373</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carbapenems.R30">
+            <mixed-citation publication-type="journal">Redman R, Damiao R, Kotey P, Kaniga K, Davies T, Naber KG. Safety and efficacy of intravenous doripenem for the treatment of complicated urinary tract infections and pyelonephritis. J Chemother 2010; 22: 384-91. <annotation><p><italic toggle="yes">(Among 799 patients with complicated urinary tract infections treated with iv doripenem and 372 with levofloxacin, both response and adverse event rates were similar; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">21303745</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carbapenems.R31">
+            <mixed-citation publication-type="journal">Tazuma S, Igarashi Y, Inui K, Ohara H, Tsuyuguchi T, Ryozawa S; BTI Therapy Research Group. Clinical efficacy of i.v. doripenem, a new class of carbapenem, in patients with biliary tract infection: A multicenter trial. Hepatol Res 2011; 41: 340-9. <annotation><p><italic toggle="yes">(Among 119 patients with acute biliary tract infections treated with iv doripenem for 2-17 days, the response rate was 92% and only 6 patients had adverse events, none were serious, 3 were liver related and 2 led to early withdrawal with subsequent resolution).</italic></p></annotation><pub-id pub-id-type="pmid">21426451</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carbapenems.R32">
+            <mixed-citation publication-type="journal">Kwon H, Lee SH, Kim SE, Lee JH, Jee YK, Kang HR, Park BJ, Park JW, Hong CS. Spontaneously reported hepatic adverse drug events in Korea: multicenter study. J Korean Med Sci 2012; 27: 268-73. <annotation><p><italic toggle="yes">(Summary of 2 years of adverse event reporting in Korea; of 9360 reports, 567 were liver related, including 9 [1.6%] attributed to carbapenems).</italic></p></annotation><pub-id pub-id-type="pmid">22379337</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carbapenems.R33">
+            <mixed-citation publication-type="journal">Bj&#x000f6;rnsson ES, Bergmann OM, Bj&#x000f6;rnsson HK, Kvaran RB, Olafsson S. Incidence, presentation and outcomes in patients with drug-induced liver injury in the general population of Iceland. Gastroenterology 2013; 144: 1419-25. <annotation><p><italic toggle="yes">(In a population based study of drug induced liver injury from Iceland, 96 cases were identified over a 2 year period, but none were attributed to carbenepenems).</italic></p></annotation><pub-id pub-id-type="pmid">23419359</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carbapenems.R34">
+            <mixed-citation publication-type="journal">Hornik CP, Herring AH, Benjamin DK Jr, Capparelli EV, Kearns GL, van den Anker J, Cohen-Wolkowiez M, et al.; Best Pharmaceuticals for Children Act-Pediatric Trials Network. Adverse events associated with meropenem versus imipenem/cilastatin therapy in a large retrospective cohort of hospitalized infants. Pediatr Infect Dis J 2013; 32: 748-53. (Analysis of adverse event reports from 322 neonatal intensive care units between 1997 to 2010 included reports of ALT elevations above 100 U/L in 2% of imipenem vs 7% of meropenem treated neonates, but there were no liver related severe adverse events).<pub-id pub-id-type="pmid">23838776</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carbapenems.R35">
+            <mixed-citation publication-type="journal">Hern&#x000e1;ndez N, Bessone F, S&#x000e1;nchez A, di Pace M, Brahm J, Zapata R, A Chirino R, et al. Profile of idiosyncratic drug induced liver injury in Latin America. An analysis of published reports. Ann Hepatol 2014; 13: 231-9. <annotation><p><italic toggle="yes"> (Systematic review of literature of drug induced liver injury in Latin American countries published from 1996 to 2012 identified 176 cases, the most common implicated agents being nimesulide [n=53: 30%], cyproterone [n=18] and nitrofurantoin [n=17]; no carbapenems were listed).</italic></p></annotation><pub-id pub-id-type="pmid">24552865</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carbapenems.R36">
+            <mixed-citation publication-type="journal">Cannavino CR, Castaneda-Ruiz B, Redman R, Go O, Cirillo I, Barauskas V, Senatorova G, et al. Safety and tolerability of doripenem in hospitalized children With complicated intra-abdominal infection, complicated urinary tract infections and pneumonia. Pediatr Infect Dis J 2015; 34: 1264-7. <annotation><p><italic toggle="yes">(Among 88 children with severe bacterial infections treated with iv doripenem or a comparator antibiotic, serious adverse event rates were similar and ALT elevations occurred in 3 of 66 [4.5%] vs none of 22 [0%], but none developed clinically apparent liver injury).</italic></p></annotation><pub-id pub-id-type="pmid">26226440</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carbapenems.R37">
+            <mixed-citation publication-type="journal">Tazuma S, Igarashi Y, Inui K, Ohara H, Tsuyuguchi T, Ryozawa S; BTI Therapy Research Group. Clinical efficacy of intravenous doripenem in patients with acute biliary tract infection: a multicenter, randomized, controlled trial with imipenem/cilastatin as comparator. J Gastroenterol 2015; 50: 221-9. <annotation><p><italic toggle="yes"> (Among 127 patients with acute biliary tract infections treated with doripenem [D] or imimpenem/cilastatin [I/C] for 3-21 days, response rates were similar and the only adverse drug reactions were watery diarrhea [D], hypersensivity rash [D] and pseudomembraneous colitis [I/C] in one patient each, no mention of ALT elevations).</italic></p></annotation><pub-id pub-id-type="pmid">24795092</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carbapenems.R38">
+            <mixed-citation publication-type="journal">Chalasani N, Bonkovsky HL, Fontana R, Lee W, Stolz A, Talwalkar J, Reddy KR, et al.; United States Drug Induced Liver Injury Network. Features and outcomes of 899 patients with drug-induced liver injury: The DILIN Prospective Study. Gastroenterology 2015; 148: 1340-52. <annotation><p><italic toggle="yes">(Among 899 cases of drug induced liver injury enrolled in a US prospective study between 2004 and 2013, 323 [36%] were attributed to antibiotics, but only one to a carbapenem [meropenem]).</italic></p></annotation><pub-id pub-id-type="pmid">25754159</pub-id></mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec id="Carbapenems.OTHER_REFERENCE_LINKS" sec-type="link-group">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=Carbapenems+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D%3A%222999/12/31%22%5BEDat%5D)">Recent References on Carbapenems: from PubMed.gov</ext-link>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=carbapenems">Trials on Carbapenems: from ClinicalTrials.gov</ext-link>
+            </p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

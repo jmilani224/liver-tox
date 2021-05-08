@@ -1,0 +1,1445 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Phenelzine" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Phenelzine</book-part-id>
+      <title-group>
+        <title>Phenelzine</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>8</day>
+          <month>4</month>
+          <year>2020</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Phencyclidine" document-type="chapter">Phencyclidine</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Phenobarbital" document-type="chapter">Phenobarbital</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Phenelzine.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Phenelzine.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Phenelzine is a monoamine oxidase inhibitor (MAO inhibitor) used in therapy of moderate-to-severe depression. Phenelzine therapy is associated with rare instances of clinically apparent acute liver injury.</p>
+        </sec>
+        <sec id="Phenelzine.Background">
+          <title>Background</title>
+          <p>Phenelzine (fen' el zeen) is a hydrazine derivative and antidepressant that acts through inhibition of monoamine oxidase, an enzyme that inactivates several neurotransmitter amines such as norepinephrine and serotonin. By inhibition of catabolism of serotonin and norepinephrine, phenelzine increases brain levels of these neurotransmitters which probably underlie its antidepressant effects. Phenelzine was approved for use as therapy of depression in the United States in 1961, but it is now rarely used because of the availability of more potent and better tolerated antidepressants such as the tricyclic antidepressants and the selective serotonin reuptake inhibitors. Phenelzine is available in generic forms and under the brand name of Nardil as tablets of 15 mg. The usual adult dose of phenelzine is 15 to 30 mg three times daily. Common side effects include drowsiness, dizziness, headache, insomnia, tremor, dry mouth, nausea, increased appetite, weight gain and sexual dysfunction. Phenelzine interacts with many medications as well as many foods and beverages, and patients require careful monitoring and education. Uncommon but potentially serious adverse events include hypertensive crises from dietary tyramine, serotonin syndrome, withdrawal mania and hypersensitivity reactions.</p>
+        </sec>
+        <sec id="Phenelzine.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>Phenelzine, like most monoamine oxidase inhibitors, can cause transient serum aminotransferase elevations in a proportion of patients. These elevations are usually mild, asymptomatic and self-limited and do not require dose modification. Phenelzine has also been associated with cases of acute, clinically apparent liver injury. The liver injury associated with MAO inhibitors typically arises 1 to 3 months after starting therapy and presents with a hepatocellular pattern of serum enzyme elevations. The acute hepatitis-like syndrome can be severe and even fatal. Cholestatic liver injury due to phenelzine has also been described (Case 1). Immunoallergic features (rash, fever, eosinophilia) are uncommon as is autoantibody formation. While few cases of phenelzine liver injury have been published, instances of severe jaundice and fatalities due to liver injury have been reported to the FDA and the sponsor.</p>
+          <p>Likelihood score: C (probable rare cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Phenelzine.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The mechanism by which phenelzine causes serum aminotransferase elevation is not known. It undergoes extensive hepatic metabolism, and a possible cause of liver injury is production of an intermediate of metabolism that is directly toxic to hepatocytes or that induces a hypersensitivity response.</p>
+        </sec>
+        <sec id="Phenelzine.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>The serum aminotransferase elevations that occur on phenelzine therapy are usually self-limited and mild and do not require dose modification or discontinuation of therapy. The clinically apparent, acute liver injury caused by phenelzine is typically self-limited, but progressive and fatal instances of acute hepatitis have been reported. Rechallenge usually causes a prompt recurrence of the liver injury and should be avoided. Patients with phenelzine induced liver injury may have cross sensitivity to other monoamine oxidase inhibitors, but should be able to tolerate tricyclic antidepressants or selective serotonin reuptake inhibitors.</p>
+          <p>Drug Class: <related-object link-type="booklink" source-id="livertox" document-id="Antidepressants" document-type="chapter">Antidepressant Agents</related-object></p>
+          <p>Other Drugs in the Subclass, MAO Inhibitors: <related-object link-type="booklink" source-id="livertox" document-id="Isocarboxazid" document-type="chapter">Isocarboxazid</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Tranylcypromine" document-type="chapter">Tranylcypromine</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Phenelzine.CASE_REPORT">
+        <title>CASE REPORT</title>
+        <sec id="Phenelzine.Case_1_Severe_and_prolonged_l">
+          <title>Case 1. Severe and prolonged liver injury due to phenelzine.(<xref ref-type="bibr" rid="Phenelzine.REF.1">1</xref>)</title>
+          <p>A 59 year old man developed fatigue and itching followed by jaundice 2 months after starting phenelzine and shortly after a dose escalation from 45 to 60 mg daily. He had no history of liver disease or exposure to viral hepatitis and drank alcohol only moderately. Other medications included colchicine, probenecid, chlordiazepoxide and flurazepam. Physical examination showed jaundice without rash or fever or signs of chronic liver disease. Serum bilirubin was 9.8 mg/dL and serum enzymes were raised (Table). There was no eosinophilia and tests for hepatitis B and autoantibodies were negative. Phenelzine was stopped, but liver tests did not improve rapidly. A liver biopsy showed areas of lobular collapse, inflammation and intrahepatic cholestasis and unusual, amorphous and unidentified extracellular deposits. He was treated with prednisone (15 mg daily) and azathioprine (50 mg daily) with a clinical and biochemical response, but serum enzymes remained mildly abnormal for somewhat more than a year before becoming persistently normal. Follow up liver biopsy showed resolution of the acute injury, but presence of fibrosis and partial cirrhosis.</p>
+          <sec id="Phenelzine.Key_Points">
+            <title>Key Points</title>
+            <table-wrap id="Phenelzine.Tc" orientation="portrait" position="anchor">
+              <table frame="hsides" rules="groups">
+                <tbody>
+                  <tr>
+                    <th id="hd_b_Phenelzine.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Medication:</th>
+                    <td headers="hd_b_Phenelzine.Tc_1_1_1_1" valign="top" align="left" rowspan="1" colspan="1">Phenelzine (60 mg daily)</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Phenelzine.Tc_1_1_2_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Pattern:</th>
+                    <td headers="hd_b_Phenelzine.Tc_1_1_2_1" valign="top" align="left" rowspan="1" colspan="1">Cholestatic (R=0.6)</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Phenelzine.Tc_1_1_3_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Severity:</th>
+                    <td headers="hd_b_Phenelzine.Tc_1_1_3_1" valign="top" align="left" rowspan="1" colspan="1">3+ (jaundice and hospitalization)</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Phenelzine.Tc_1_1_4_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Latency:</th>
+                    <td headers="hd_b_Phenelzine.Tc_1_1_4_1" valign="top" align="left" rowspan="1" colspan="1">2 months</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Phenelzine.Tc_1_1_5_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Recovery:</th>
+                    <td headers="hd_b_Phenelzine.Tc_1_1_5_1" valign="top" align="left" rowspan="1" colspan="1">18 months</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Phenelzine.Tc_1_1_6_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Other medications:</th>
+                    <td headers="hd_b_Phenelzine.Tc_1_1_6_1" valign="top" align="left" rowspan="1" colspan="1">Colchicine, probenecid, chlordiazepoxide, flurazepam</td>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Phenelzine.Laboratory_Values">
+            <title>Laboratory Values</title>
+            <table-wrap id="Phenelzine.Td" orientation="portrait" position="anchor">
+              <table frame="hsides" rules="groups">
+                <thead>
+                  <tr>
+                    <th id="hd_h_Phenelzine.Td_1_1_1_1" valign="top" align="center" scope="col" rowspan="1" colspan="1">Time After<break/>Starting</th>
+                    <th id="hd_h_Phenelzine.Td_1_1_1_2" valign="top" align="center" scope="col" rowspan="1" colspan="1">Months After<break/>Stopping</th>
+                    <th id="hd_h_Phenelzine.Td_1_1_1_3" valign="top" align="center" scope="col" rowspan="1" colspan="1">AST<break/>(U/L)</th>
+                    <th id="hd_h_Phenelzine.Td_1_1_1_4" valign="top" align="center" scope="col" rowspan="1" colspan="1">Alk P<break/>(U/L)</th>
+                    <th id="hd_h_Phenelzine.Td_1_1_1_5" valign="top" align="center" scope="col" rowspan="1" colspan="1">Bilirubin<break/>(mg/dL)</th>
+                    <th id="hd_h_Phenelzine.Td_1_1_1_6" valign="top" align="center" scope="col" rowspan="1" colspan="1">Other</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td headers="hd_h_Phenelzine.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Pre</td>
+                    <td headers="hd_h_Phenelzine.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">Pre</td>
+                    <td headers="hd_h_Phenelzine.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">20</td>
+                    <td headers="hd_h_Phenelzine.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">80</td>
+                    <td headers="hd_h_Phenelzine.Td_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">1.0</td>
+                    <td headers="hd_h_Phenelzine.Td_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Phenelzine.Td_1_1_1_1 hd_h_Phenelzine.Td_1_1_1_2 hd_h_Phenelzine.Td_1_1_1_3 hd_h_Phenelzine.Td_1_1_1_4 hd_h_Phenelzine.Td_1_1_1_5 hd_h_Phenelzine.Td_1_1_1_6" colspan="6" valign="top" align="center" scope="col" rowspan="1">Phenelzine given for two months</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Phenelzine.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">2 months</td>
+                    <td headers="hd_h_Phenelzine.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">0</td>
+                    <td headers="hd_h_Phenelzine.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">148</td>
+                    <td headers="hd_h_Phenelzine.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">520</td>
+                    <td headers="hd_h_Phenelzine.Td_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">9.8</td>
+                    <td headers="hd_h_Phenelzine.Td_1_1_1_6" valign="top" align="center" rowspan="1" colspan="1">Liver biopsy</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Phenelzine.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">3 months</td>
+                    <td headers="hd_h_Phenelzine.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">1 month</td>
+                    <td headers="hd_h_Phenelzine.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">55</td>
+                    <td headers="hd_h_Phenelzine.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">300</td>
+                    <td headers="hd_h_Phenelzine.Td_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">1.9</td>
+                    <td headers="hd_h_Phenelzine.Td_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Phenelzine.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">4 months</td>
+                    <td headers="hd_h_Phenelzine.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">2 months</td>
+                    <td headers="hd_h_Phenelzine.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">100</td>
+                    <td headers="hd_h_Phenelzine.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">680</td>
+                    <td headers="hd_h_Phenelzine.Td_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">1.2</td>
+                    <td headers="hd_h_Phenelzine.Td_1_1_1_6" valign="top" align="center" rowspan="1" colspan="1">Liver biopsy</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Phenelzine.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">5 months</td>
+                    <td headers="hd_h_Phenelzine.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">3 months</td>
+                    <td headers="hd_h_Phenelzine.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">95</td>
+                    <td headers="hd_h_Phenelzine.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">425</td>
+                    <td headers="hd_h_Phenelzine.Td_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">1.0</td>
+                    <td headers="hd_h_Phenelzine.Td_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Phenelzine.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">6 months</td>
+                    <td headers="hd_h_Phenelzine.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">4 months</td>
+                    <td headers="hd_h_Phenelzine.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">65</td>
+                    <td headers="hd_h_Phenelzine.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">300</td>
+                    <td headers="hd_h_Phenelzine.Td_1_1_1_5" valign="top" align="left" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Phenelzine.Td_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Phenelzine.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">7 months</td>
+                    <td headers="hd_h_Phenelzine.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">5 months</td>
+                    <td headers="hd_h_Phenelzine.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">55</td>
+                    <td headers="hd_h_Phenelzine.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">220</td>
+                    <td headers="hd_h_Phenelzine.Td_1_1_1_5" valign="top" align="left" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Phenelzine.Td_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Phenelzine.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">10 months</td>
+                    <td headers="hd_h_Phenelzine.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">8 months</td>
+                    <td headers="hd_h_Phenelzine.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">45</td>
+                    <td headers="hd_h_Phenelzine.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">130</td>
+                    <td headers="hd_h_Phenelzine.Td_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">0.8</td>
+                    <td headers="hd_h_Phenelzine.Td_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Phenelzine.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">1 year</td>
+                    <td headers="hd_h_Phenelzine.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">1 year</td>
+                    <td headers="hd_h_Phenelzine.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">30</td>
+                    <td headers="hd_h_Phenelzine.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">170</td>
+                    <td headers="hd_h_Phenelzine.Td_1_1_1_5" valign="top" align="left" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Phenelzine.Td_1_1_1_6" valign="top" align="center" rowspan="1" colspan="1">Liver biopsy</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Phenelzine.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">1.8 years</td>
+                    <td headers="hd_h_Phenelzine.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">1.5 years</td>
+                    <td headers="hd_h_Phenelzine.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">45</td>
+                    <td headers="hd_h_Phenelzine.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">85</td>
+                    <td headers="hd_h_Phenelzine.Td_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">0.5</td>
+                    <td headers="hd_h_Phenelzine.Td_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Phenelzine.Td_1_1_1_1 hd_h_Phenelzine.Td_1_1_1_2" colspan="2" valign="top" align="center" scope="row" rowspan="1">
+                      <bold>Normal Values</bold>
+                    </td>
+                    <td headers="hd_h_Phenelzine.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">
+                      <bold>&#x0003c;40</bold>
+                    </td>
+                    <td headers="hd_h_Phenelzine.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">
+                      <bold>&#x0003c;85</bold>
+                    </td>
+                    <td headers="hd_h_Phenelzine.Td_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">
+                      <bold>&#x0003c;1.2</bold>
+                    </td>
+                    <td headers="hd_h_Phenelzine.Td_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                </tbody>
+              </table>
+              <table-wrap-foot>
+                <fn>
+                  <p>Dates and values estimated from Figure 1.</p>
+                </fn>
+              </table-wrap-foot>
+            </table-wrap>
+          </sec>
+          <sec id="Phenelzine.Comment">
+            <title>Comment</title>
+            <p>The monoamine oxidase (MAO) inhibitors are no longer commonly used and most reported cases of hepatotoxicity were published before 1990. The described case is unusual because of the prolonged injury and development of cirrhosis, despite prompt discontinuation of the medication. Actually, clinical and histologic long term follow up is rarely available in cases of acute drug induced liver disease, and some degree of residual fibrosis and even cirrhosis may occur particularly if the acute episode is severe and prolonged.</p>
+          </sec>
+        </sec>
+      </sec>
+      <sec id="Phenelzine.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <p>
+          <bold>REPRESENTATIVE TRADE NAMES</bold>
+        </p>
+        <p>Phenelzine <italic toggle="yes">&#x02013;</italic> Generic, Nardil&#x000ae;</p>
+        <p>
+          <bold>DRUG CLASS</bold>
+        </p>
+        <p>Antidepressant Agents</p>
+        <p>
+          <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=phenelzine">COMPLETE LABELING</ext-link>
+        </p>
+        <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+      </sec>
+      <sec id="Phenelzine.CHEMICAL_FORMULA_AND_STRUCTUR">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Phenelzine.Te" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <tbody>
+              <tr>
+                <th id="hd_b_Phenelzine.Te_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_b_Phenelzine.Te_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">CAS REGISTRY NUMBER</th>
+                <th id="hd_b_Phenelzine.Te_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_b_Phenelzine.Te_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+              <tr>
+                <td headers="hd_b_Phenelzine.Te_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Phenelzine</td>
+                <td headers="hd_b_Phenelzine.Te_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://134972595">51-71-8</ext-link>
+                </td>
+                <td headers="hd_b_Phenelzine.Te_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">C8-H12-N2</td>
+                <td headers="hd_b_Phenelzine.Te_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">
+                  <related-object link-type="ext-image-back-link" source-id="pubchem" document-id="134972595" document-id-type="sid" document-type="summary" object-id="134972595" object-id-type="sid" object-type="image"/>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Phenelzine.CITED_REFERENCE">
+        <title>CITED REFERENCE</title>
+        <ref-list id="Phenelzine.CITED_REFERENCE.reflist0">
+          <ref id="Phenelzine.REF.1">
+            <label>1</label>
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Bonkovsky</surname>
+                  <given-names>HL</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Blanchette</surname>
+                  <given-names>PL</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Schned</surname>
+                  <given-names>AR</given-names>
+                </name>
+              </person-group>
+              <article-title>Severe liver injury due to phenelzine with unique hepatic deposition of extracellular material.</article-title>
+              <source>Am J Med</source>
+              <year>1986</year>
+              <volume>80</volume>
+              <fpage>689</fpage>
+              <lpage>92</lpage>
+              <pub-id pub-id-type="pmid">3963046</pub-id>
+            </element-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec id="Phenelzine.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 08 April 2020</p>
+        <p>Abbreviations: MAO, monoamine oxidase; SSRI, selective serotonin reuptake inhibitor; SNRI, serotonin and norepinephrine reuptake inhibitor.</p>
+        <ref-list id="Phenelzine.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Phenelzine.REF.zimmerman.1999">
+            <mixed-citation publication-type="book">Zimmerman HJ. Antidepressants. In, Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999, pp. 493-8.<annotation><p><italic toggle="yes">(Expert review of hepatotoxicity published in 1999; hepatic injury caused by MAO inhibitors is similar to that of isoniazid with which they share structural similarity as hydrazines; the pattern of injury is typically hepatocellular and arises within 1-6 months of starting therapy; cases of fatal acute liver failure have been described, most commonly with iproniazid and less commonly with phenelzine and isocarboxazid, and least commonly with the nonhydrazide MAO inhibitor, tranylcypromine).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Phenelzine.REF.larrey.2013">
+            <mixed-citation publication-type="book">Larrey D, Ripault MP. Hepatotoxicity of psychotropic drugs and drugs of abuse. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013, pp. 443-62.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of antidepressants mentions that among MAO inhibitors iproniazid most commonly caused liver injury and phenelzine rarely).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Phenelzine.REF.odonnell.2018">
+            <mixed-citation publication-type="book">O'Donnell JM, Bies RR, Shelton RC. Drug therapy of depression and anxiety disorders. In, Brunton LL, Hilal-Dandan R, Knollman BC, eds. Goodman &#x00026; Gilman&#x02019;s the pharmacological basis of therapeutics. 13th ed. New York: McGraw-Hill, 2018, pp. 267-77.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Phenelzine.REF.rosenblum.1960.583">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Rosenblum</surname>
+                  <given-names>LE</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Korn</surname>
+                  <given-names>RJ</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Zimmerman</surname>
+                  <given-names>HJ</given-names>
+                </name>
+              </person-group>
+              <article-title>Hepatocellular jaundice as a complication of iproniazid therapy.</article-title>
+              <source>Arch Intern Med</source>
+              <year>1960</year>
+              <volume>105</volume>
+              <fpage>583</fpage>
+              <lpage>93</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Classic paper on iproniazid hepatotoxicity; review of 90 patients; more common in women, ages 25-75 years, onset in 1-4 months [~95%], usually hepatocellular pattern similar to viral hepatitis, 22% mortality and demonstration that this is higher than in acute viral hepatitis).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">14438978</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Phenelzine.REF.holdsworth.1961.621">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Holdsworth</surname>
+                  <given-names>CD</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Atkinson</surname>
+                  <given-names>M</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Goldie</surname>
+                  <given-names>W</given-names>
+                </name>
+              </person-group>
+              <article-title>Hepatitis caused by the newer amine-oxidase-inhibiting drugs.</article-title>
+              <source>Lancet</source>
+              <year>1961</year>
+              <volume>2</volume>
+              <fpage>621</fpage>
+              <lpage>3</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Four cases of severe liver injury with cross sensitivity to several MAO inhibitors including iproniazid, pheniprazine and nialamide; case 4 was a 56 year old woman who developed jaundice and itching 5 months after starting phenelzine [bilirubin 2.8 mg/dL, ALT 150 U/L, Alk P 3 times ULN], resolving rapidly upon stopping).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">13715243</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Phenelzine.REF.crisp.1961.17">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Crisp</surname>
+                  <given-names>AH</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Hays</surname>
+                  <given-names>P</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Carter</surname>
+                  <given-names>A</given-names>
+                </name>
+              </person-group>
+              <article-title>Three amine-oxidase inhibitor drugs in the treatment of depression. Relative value and toxic effects.</article-title>
+              <source>Lancet</source>
+              <year>1961</year>
+              <volume>1</volume>
+              <fpage>17</fpage>
+              <lpage>8</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Prospective study of liver test abnormalities during courses of iproniazid [n=17], nialamide [18] and peniprazine [20] with minor increases noted; no data on frequency of levels above normal).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">13696480</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Phenelzine.REF.cook.1965.175">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Cook</surname>
+                  <given-names>GC</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Sherlock</surname>
+                  <given-names>S</given-names>
+                </name>
+              </person-group>
+              <article-title>Jaundice and its relation to therapeutic agents.</article-title>
+              <source>Lancet</source>
+              <year>1965</year>
+              <volume>1</volume>
+              <fpage>175</fpage>
+              <lpage>9</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Summary of cases of drug induced liver disease seen at Royal Free Hospital from 1959-65; 11 cases of acute liver failure due to drugs including iproniazid [n=3], phenelzine [2], phenoxypropazine [2], prochlorperazine [1] and halogenated anesthetics [3]; 20 cases of cholestatic hepatitis due to drugs, 18 due to chlorpromazine, 1 perphenazine and 1 nitrofurantoin).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">14238042</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Phenelzine.REF.daneshmend.1979.1679">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Daneshmend</surname>
+                  <given-names>TK</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Scott</surname>
+                  <given-names>GL</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Bradfield</surname>
+                  <given-names>JW</given-names>
+                </name>
+              </person-group>
+              <article-title>Angiosarcoma of liver associated with phenelzine.</article-title>
+              <source>Br Med J</source>
+              <year>1979</year>
+              <volume>1</volume>
+              <fpage>1679</fpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(64 year old woman who had been on phenelzine for 6 years developed angiosarcoma; phenelzine reported to cause angiosarcomas in mice).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">572729</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Phenelzine.REF.bonkovsky.1986.689">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Bonkovsky</surname>
+                  <given-names>HL</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Blanchette</surname>
+                  <given-names>PL</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Schned</surname>
+                  <given-names>AR</given-names>
+                </name>
+              </person-group>
+              <article-title>Severe liver injury due to phenelzine with unique hepatic deposition of extracellular material.</article-title>
+              <source>Am J Med</source>
+              <year>1986</year>
+              <volume>80</volume>
+              <fpage>689</fpage>
+              <lpage>92</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(59 year old man developed jaundice 2.5 months after starting phenelzine [bilirubin 9.8 mg/dL, AST 148 U/L, Alk P 520 U/L], prolonged course requiring corticosteroids, ultimate resolution but cirrhosis present on biopsy: Case 1).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">3963046</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Phenelzine.REF.zimmerman.1987.211">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Zimmerman</surname>
+                  <given-names>HJ</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Ishak</surname>
+                  <given-names>KG</given-names>
+                </name>
+              </person-group>
+              <article-title>The hepatic injury of monoamine oxidase inhibitors.</article-title>
+              <source>J Clin Psychopharmacol</source>
+              <year>1987</year>
+              <volume>7</volume>
+              <fpage>211</fpage>
+              <lpage>3</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Editorial on the hepatotoxicity of MAO inhibitors which occurs in ~1% of patients taking iproniazid, but in a lesser proportion with other hydrazine derivatives such as phenelzine and isocarboxazid; the injury is idiosyncratic, usually hepatocellular and has a high [&#x0003e;10%] fatality rate).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">3624504</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Phenelzine.REF.steingart.1995.1407">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Steingart</surname>
+                  <given-names>AB</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Cotterchio</surname>
+                  <given-names>M</given-names>
+                </name>
+              </person-group>
+              <article-title>Do antidepressants cause, promote, or inhibit cancers?</article-title>
+              <source>J Clin Epidemiol</source>
+              <year>1995</year>
+              <volume>48</volume>
+              <fpage>1407</fpage>
+              <lpage>12</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Conflicting data from animal studies and epidemiological surveys have provided little evidence of a link between antidepressant use and breast, liver or other cancer after control for confounding variables).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">7490604</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Phenelzine.REF.g_mezgil.1996.692">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>G&#x000f3;mez-Gil</surname>
+                  <given-names>E</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Salmer&#x000f3;n</surname>
+                  <given-names>JM</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Mas</surname>
+                  <given-names>A</given-names>
+                </name>
+              </person-group>
+              <article-title>Phenelzine-induced fulminant hepatic failure.</article-title>
+              <source>Ann Intern Med</source>
+              <year>1996</year>
+              <volume>124</volume>
+              <fpage>692</fpage>
+              <lpage>3</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Reports two cases of acute liver failure due to phenelzine, but no specific results given).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">8607601</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Phenelzine.REF.lucena.2003.249">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Lucena</surname>
+                  <given-names>MI</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Carvajal</surname>
+                  <given-names>A</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Andrade</surname>
+                  <given-names>RJ</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Velasco</surname>
+                  <given-names>A</given-names>
+                </name>
+              </person-group>
+              <article-title>Antidepressant-induced hepatotoxicity.</article-title>
+              <source>Expert Opin Drug Saf</source>
+              <year>2003</year>
+              <volume>2</volume>
+              <fpage>249</fpage>
+              <lpage>62</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Review of hepatotoxicity of antidepressants; antidepressant use has increased markedly between 1992 and 2002, accounting for 5% of cases of hepatotoxicity; MAO inhibitors were first antidepressants developed; iproniazid caused a severe hepatitis and was withdrawn; phenelzine is still in use but has been associated with severe cases of hepatitis and development of cirrhosis).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">12904104</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Phenelzine.REF.chalasani.2008.1924">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Chalasani</surname>
+                  <given-names>N</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Fontana</surname>
+                  <given-names>RJ</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Bonkovsky</surname>
+                  <given-names>HL</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Watkins</surname>
+                  <given-names>PB</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Davern</surname>
+                  <given-names>T</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Serrano</surname>
+                  <given-names>J</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Yang</surname>
+                  <given-names>H</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Rochon</surname>
+                  <given-names>J</given-names>
+                </name>
+                <collab>Drug Induced Liver Injury Network (DILIN)</collab>
+              </person-group>
+              <article-title>Causes, clinical features, and outcomes from a prospective study of drug-induced liver injury in the United States.</article-title>
+              <source>Gastroenterology</source>
+              <year>2008</year>
+              <volume>135</volume>
+              <fpage>1924</fpage>
+              <lpage>34</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Among 300 cases of drug induced liver disease in the US collected from 2004 to 2008, none were attributed to MAO inhibitors).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">18955056</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Phenelzine.REF.reuben.2010.2065">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Reuben</surname>
+                  <given-names>A</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Koch</surname>
+                  <given-names>DG</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Lee</surname>
+                  <given-names>WM</given-names>
+                </name>
+                <collab>Acute Liver Failure Study Group</collab>
+              </person-group>
+              <article-title>Drug-induced acute liver failure: results of a U.S. multicenter, prospective study.</article-title>
+              <source>Hepatology</source>
+              <year>2010</year>
+              <volume>52</volume>
+              <fpage>2065</fpage>
+              <lpage>76</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Among 1198 patients with acute liver failure enrolled in a US prospective study between 1998 and 2007, 133 were attributed to drug induced liver injury, 3 of which were linked to antidepressants: one each for nefazodone, fluoxetine and venlafaxine, but none to phenelzine or MAO inhibitors).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">20949552</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Phenelzine.REF.sedky.2012.53">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Sedky</surname>
+                  <given-names>K</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Nazir</surname>
+                  <given-names>R</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Joshi</surname>
+                  <given-names>A</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Kaur</surname>
+                  <given-names>G</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Lippmann</surname>
+                  <given-names>S</given-names>
+                </name>
+              </person-group>
+              <article-title>Which psychotropic medications induce hepatotoxicity?</article-title>
+              <source>Gen Hosp Psychiatry</source>
+              <year>2012</year>
+              <volume>34</volume>
+              <fpage>53</fpage>
+              <lpage>61</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Review of the hepatotoxicity of psychotropic drugs in common use, mentions that phenelzine can cause severe acute or chronic liver injury).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">22133982</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Phenelzine.REF.park.2013.207">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Park</surname>
+                  <given-names>SH</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Ishino</surname>
+                  <given-names>R</given-names>
+                </name>
+              </person-group>
+              <article-title>Liver injury associated with antidepressants.</article-title>
+              <source>Curr Drug Saf</source>
+              <year>2013</year>
+              <volume>8</volume>
+              <fpage>207</fpage>
+              <lpage>23</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Review of drug induced liver injury due to antidepressants including MAO inhibitors).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">23914755</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Phenelzine.REF19">
+            <element-citation publication-type="journal">
+              <article-title>Drugs for psychiatric disorders.</article-title>
+              <source>Treat Guidel Med Lett</source>
+              <year>2013</year>
+              <volume>11</volume>
+              <issue>130</issue>
+              <fpage>53</fpage>
+              <lpage>64</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Review of drugs used for depression mentions that MAO inhibitors "remain valuable alternatives for patients with moderate to severe treatment resistant depression;&#x0201d; discussion of side effects does not mention hepatotoxicity).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">23715100</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Phenelzine.REF.shulman.2013.789">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Shulman</surname>
+                  <given-names>KI</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Herrmann</surname>
+                  <given-names>N</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Walker</surname>
+                  <given-names>SE</given-names>
+                </name>
+              </person-group>
+              <article-title>Current place of monoamine oxidase inhibitors in the treatment of depression.</article-title>
+              <source>CNS Drugs</source>
+              <year>2013</year>
+              <volume>27</volume>
+              <fpage>789</fpage>
+              <lpage>97</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(History of the discovery that hydrazine-based drugs had potent antidepressant activity and subsequent development of nonspecific and specific, irreversible and reversible MAO A and B inhibitors which have similar antidepressant effects but different relative risks for complications such as hypertension from dietary intake of tyramine [as in aged cheese] and serotonin syndrome from use of a second serotonin-enhancing agent, such as a tricyclic, SSRI or SNRI as well as some opiates).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">23934742</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Phenelzine.REF.hern_ndez.2014.231">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Hern&#x000e1;ndez</surname>
+                  <given-names>N</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Bessone</surname>
+                  <given-names>F</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>S&#x000e1;nchez</surname>
+                  <given-names>A</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>di Pace</surname>
+                  <given-names>M</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Brahm</surname>
+                  <given-names>J</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Zapata</surname>
+                  <given-names>R, A</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Chirino</surname>
+                  <given-names>R</given-names>
+                </name>
+                <etal/>
+              </person-group>
+              <article-title>Profile of idiosyncratic drug induced liver injury in Latin America. An analysis of published reports.</article-title>
+              <source>Ann Hepatol</source>
+              <year>2014</year>
+              <volume>13</volume>
+              <fpage>231</fpage>
+              <lpage>9</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Systematic review of literature of drug induced liver injury in Latin American countries published from 1996 to 2012 identified 176 cases, only one of which was attributed to an antidepressant [amitriptyline] and none to a MAO inhibitor, SSRI or SNRI).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">24552865</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Phenelzine.REF.chalasani.2015.1340">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Chalasani</surname>
+                  <given-names>N</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Bonkovsky</surname>
+                  <given-names>HL</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Fontana</surname>
+                  <given-names>R</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Lee</surname>
+                  <given-names>W</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Stolz</surname>
+                  <given-names>A</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Talwalkar</surname>
+                  <given-names>J</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Reddy</surname>
+                  <given-names>KR</given-names>
+                </name>
+                <etal/>
+              </person-group>
+              <article-title>United States Drug Induced Liver Injury Network. Features and outcomes of 899 patients with drug-induced liver injury: The DILIN Prospective Study.</article-title>
+              <source>Gastroenterology.</source>
+              <year>2015</year>
+              <volume>148</volume>
+              <fpage>1340</fpage>
+              <lpage>52.e7</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Among 899 cases of drug induced liver injury enrolled in a US prospective study between 2004 and 2013, 20 cases [2%] were attributed to&#x000a0;antidepressants&#x000a0;including 9 due to SNRIs [7 to duloxetine, 1 each to nefazodone and trazodone], 5 to bupropion, 5 to SSRIs [3 to escitalopram, and 1 each to fluoxetine and sertraline], 1 to tricyclics [imipramine] and none to MAO inhibitors).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">25754159</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Phenelzine.REF.malik.2015.931963">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Malik</surname>
+                  <given-names>A</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Junglee</surname>
+                  <given-names>N.</given-names>
+                </name>
+              </person-group>
+              <article-title>A case of the serotonin syndrome secondary to phenelzine monotherapy at therapeutic dosing.</article-title>
+              <source>Case Rep Med</source>
+              <year>2015</year>
+              <volume>2015</volume>
+              <elocation-id>931963</elocation-id>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(27 year old woman developed weakness 2 weeks after starting phenelzine [15 mg three times daily] with episodic fever, tachycardia, and clonus, resolving within days of stopping and no other serotonin enhancing agent being taken).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">25861278</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Phenelzine.REF.mateocarrasco.2015.e102">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Mateo-Carrasco</surname>
+                  <given-names>H</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Mu&#x000f1;oz-Aguilera</surname>
+                  <given-names>EM</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Garc&#x000ed;a-Torrecillas</surname>
+                  <given-names>JM</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Abu Al-Robb</surname>
+                  <given-names>H</given-names>
+                </name>
+              </person-group>
+              <article-title>Serotonin syndrome probably triggered by a morphine-phenelzine interaction.</article-title>
+              <source>Pharmacotherapy</source>
+              <year>2015</year>
+              <volume>35</volume>
+              <fpage>e102</fpage>
+              <lpage>5</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(57 year old woman on long term phenelzine developed hallucinations and clonus within a few days of starting morphine sulfate [10 mg every 4 to 6 hours], resolving within 48 hours of stopping both and later able to restart phenelzine without recurrence).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">25903219</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Phenelzine.REF.voican.2016.e0155234">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Voican</surname>
+                  <given-names>CS</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Martin</surname>
+                  <given-names>S</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Verstuyft</surname>
+                  <given-names>C</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Corruble</surname>
+                  <given-names>E</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Perlemuter</surname>
+                  <given-names>G</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Colle</surname>
+                  <given-names>R</given-names>
+                </name>
+              </person-group>
+              <article-title>Liver function test abnormalities in depressed patients treated with antidepressants: a real-world systematic observational study in psychiatric settings.</article-title>
+              <source>PLoS One</source>
+              <year>2016</year>
+              <volume>11</volume>
+              <elocation-id>e0155234</elocation-id>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Among 321 psychiatric inpatients, only 116 [36%] had liver tests performed and only 18 during therapy with an antidepressant, 3 of which were suspected to have drug induced liver injury, 1 each with escitalopram, venlafaxine and amitriptyline, all without jaundice and 2 without symptoms, all 3 resolving).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">27171561</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Phenelzine.REF.friedrich.2016.pyv126">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Friedrich</surname>
+                  <given-names>ME</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Akimova</surname>
+                  <given-names>E</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Huf</surname>
+                  <given-names>W</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Konstantinidis</surname>
+                  <given-names>A</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Papageorgiou</surname>
+                  <given-names>K</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Winkler</surname>
+                  <given-names>D</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Toto</surname>
+                  <given-names>S</given-names>
+                </name>
+                <etal/>
+              </person-group>
+              <article-title>Drug-induced liver injury during antidepressant treatment: results of AMSP, a drug surveillance program.</article-title>
+              <source>Int J Neuropsychopharmacol</source>
+              <year>2016</year>
+              <volume>19</volume>
+              <issue>4</issue>
+              <comment>pii</comment>
+              <elocation-id>pyv126</elocation-id>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Among 184,234 psychiatric inpatients from 80 hospitals, 149 cases [0.08%] of drug induced liver injury were reported including 22 of 70,060 [0.03%] receiving SSRIs, 71 of 50,201 [0.14%] patients treated with tricyclics and 3 of 3869 receiving MAO inhibitors [0.08%]).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">26721950</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Phenelzine.REF.gahr.2016.769">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Gahr</surname>
+                  <given-names>M</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Zeiss</surname>
+                  <given-names>R</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Lang</surname>
+                  <given-names>D</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Connemann</surname>
+                  <given-names>BJ</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Hiemke</surname>
+                  <given-names>C</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Sch&#x000f6;nfeldt-Lecuona</surname>
+                  <given-names>C</given-names>
+                </name>
+              </person-group>
+              <article-title>Drug-Induced liver injury associated with antidepressive psychopharmacotherapy: an explorative assessment based on quantitative signal detection using different MedDRA terms.</article-title>
+              <source>J Clin Pharmacol.</source>
+              <year>2016</year>
+              <volume>56</volume>
+              <fpage>769</fpage>
+              <lpage>78</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Using data on adverse drug reaction reports from the Uppsala Monitoring Center of WHO, there were higher relative hepatotoxicity reports for nefazodone, agomelatine, many tricyclics and mirtazapine).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">26470856</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Phenelzine.REF.shao.2017.480">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Shao</surname>
+                  <given-names>W</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Brown</surname>
+                  <given-names>T</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Ayub</surname>
+                  <given-names>S</given-names>
+                </name>
+              </person-group>
+              <article-title>Phenelzine withdrawal-associated psychosis and mania.</article-title>
+              <source>J Clin Psychopharmacol</source>
+              <year>2017</year>
+              <volume>37</volume>
+              <fpage>480</fpage>
+              <lpage>2</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(49 year old physician developed acute psychosis shortly after discontinuing the self-prescribed combination of N,N-dimethyltryptamine [DMT] and phenelzine [used to decrease metabolism of DMT thus increasing its effect] which resolved within 2 weeks, but follow up evaluation was not available).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">28609305</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Phenelzine.REF.chen.2017.30464">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Chen</surname>
+                  <given-names>VC</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Lin</surname>
+                  <given-names>CF</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Hsieh</surname>
+                  <given-names>YH</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Liang</surname>
+                  <given-names>HY</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Huang</surname>
+                  <given-names>KY</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Chiu</surname>
+                  <given-names>WC</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Lee</surname>
+                  <given-names>Y</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>McIntyre</surname>
+                  <given-names>RS</given-names>
+                </name>
+                <etal/>
+              </person-group>
+              <article-title>Hepatocellular carcinoma and&#x000a0;antidepressants: a nationwide population-based study.</article-title>
+              <source>Oncotarget</source>
+              <year>2017</year>
+              <volume>8</volume>
+              <fpage>30464</fpage>
+              <lpage>70</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Among almost 50,000 cases of hepatocellular carcinoma registered in the Taiwan National Health Insurance Research Database, the rate of antidepressant use was lower than in approximately 250,000 matched controls from the database).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">27783998</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Phenelzine.REF.ferrajolo.2018.95">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Ferrajolo</surname>
+                  <given-names>C</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Scavone</surname>
+                  <given-names>C</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Donati</surname>
+                  <given-names>M</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Bortolami</surname>
+                  <given-names>O</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Stoppa</surname>
+                  <given-names>G</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Motola</surname>
+                  <given-names>D</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Vannacci</surname>
+                  <given-names>A</given-names>
+                </name>
+                <etal/>
+                <collab>DILI-IT Study Group</collab>
+              </person-group>
+              <article-title>Antidepressant-Induced Acute liver injury: a case-control study in an Italian inpatient population.</article-title>
+              <source>Drug Saf</source>
+              <year>2018</year>
+              <volume>41</volume>
+              <fpage>95</fpage>
+              <lpage>102</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Among 179 cases of hospitalizations for unexplained acute liver injury enrolled in an Italian prospective study between 2010 and 2014, 17 had been exposed to&#x000a0;antidepressants&#x000a0;the major implicated agents being citalopram [n=4], sertraline [n=3], paroxetine [n=3], tricyclics [n=2], trazodone [n=1], fluoxetine [n=1], and duloxetine [n=1]; no MAO inhibitors listed).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">28770534</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Phenelzine.REF.billioti_de_gage.2018.673">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Billioti de Gage</surname>
+                  <given-names>S</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Collin</surname>
+                  <given-names>C</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Le-Tri</surname>
+                  <given-names>T</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Pariente</surname>
+                  <given-names>A</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>B&#x000e9;gaud</surname>
+                  <given-names>B</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Verdoux</surname>
+                  <given-names>H</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Dray-Spira</surname>
+                  <given-names>R</given-names>
+                </name>
+                <etal/>
+              </person-group>
+              <article-title>Antidepressants and hepatotoxicity: a cohort study among 5 million individuals registered in the French National Health Insurance Database.</article-title>
+              <source>CNS Drugs</source>
+              <year>2018</year>
+              <volume>32</volume>
+              <fpage>673</fpage>
+              <lpage>84</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Among 5 million persons identified in a national French health insurance database who started an antidepressant between 2010 and 2015, 382 developed serious liver injury resulting in hospitalization, rates per 100,0000 persons-years being 19 for SSRIs, 22 venlafaxine, 13 duloxetine, and 33 mirtazapine; no MAO inhibitors discussed).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">29959758</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Phenelzine.REF.pladevallvila.2019.383">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Pladevall-Vila</surname>
+                  <given-names>M</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Potteg&#x000e5;rd</surname>
+                  <given-names>A</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Schink</surname>
+                  <given-names>T</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Reutfors</surname>
+                  <given-names>J</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Morros</surname>
+                  <given-names>R</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Poblador-Plou</surname>
+                  <given-names>B</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Timmer</surname>
+                  <given-names>A</given-names>
+                </name>
+                <etal/>
+              </person-group>
+              <article-title>Risk of acute liver injury in agomelatine and other antidepressant users in four European countries: a cohort and nested case-control study using automated health data sources.</article-title>
+              <source>CNS Drugs</source>
+              <year>2019</year>
+              <volume>33</volume>
+              <fpage>383</fpage>
+              <lpage>95</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Analysis of data sources from 4 European countries identified 3.2 million persons initiating antidepressant therapy, among whom there was no increased risk for acute liver injury for agomelatine compared to citalopram, an SSRI with a low rate of hepatotoxicity; MAO inhibitors not discussed).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">30830574</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Phenelzine.REF33">
+            <element-citation publication-type="journal">
+              <article-title>Drugs for depression.</article-title>
+              <source>Med Lett Drugs Ther</source>
+              <year>2020</year>
+              <volume>62</volume>
+              <issue>1592</issue>
+              <fpage>25</fpage>
+              <lpage>32</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Concise review of the mechanism of action, clinical efficacy, safety and costs of drugs for depression, mentions that tricyclics and MAO inhibitors remain valuable alternatives for treatment of moderate-to-severe depression, despite concerns about their safety; hepatotoxicity is mentioned only for nefazodone [now rarely used because of severe hepatotoxicity] and duloxetine [in heavy drinkers]).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32320387</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Phenelzine.REF.ueberberg.2020.60">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Ueberberg</surname>
+                  <given-names>B</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Frommberger</surname>
+                  <given-names>U</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Messer</surname>
+                  <given-names>T</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Zwanzger</surname>
+                  <given-names>P</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Kuhn</surname>
+                  <given-names>J</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Anghelescu</surname>
+                  <given-names>I</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Ackermann</surname>
+                  <given-names>K</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Assion</surname>
+                  <given-names>HJ</given-names>
+                </name>
+              </person-group>
+              <article-title>Drug-induced liver injury (DILI) in patients with depression treated with antidepressants: a retrospective multicenter study.</article-title>
+              <source>Pharmacopsychiatry</source>
+              <year>2020</year>
+              <volume>53</volume>
+              <fpage>60</fpage>
+              <lpage>4</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Among 329 psychiatric inpatients with depression seen at 6 psychiatric centers in Germany, 17 [5%] had serum aminotransferase elevations but none had clinically apparent liver injury, most commonly implicated drugs included mirtazapine, agomelatine, citalopram and venlafaxine; MAO inhibitors not mentioned).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">31958850</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Phenelzine.REF.gross.2020">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Gross</surname>
+                  <given-names>ME</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Agus</surname>
+                  <given-names>DB</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Dorff</surname>
+                  <given-names>TB</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Pinski</surname>
+                  <given-names>JK</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Quinn</surname>
+                  <given-names>DI</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Castellanos</surname>
+                  <given-names>O</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Gilmore</surname>
+                  <given-names>P</given-names>
+                </name>
+                <etal/>
+              </person-group>
+              <article-title>Phase 2 trial of monoamine oxidase inhibitor phenelzine in biochemical recurrent prostate cancer.</article-title>
+              <source>Prostate Cancer Prostatic Dis</source>
+              <year>2020</year>
+              <month>Mar</month>
+              <day>3</day>
+              <comment>[Epub ahead of print]</comment>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Among 20 patients with recurrent prostate cancer and PSA elevations after prostatectomy treated with phenelzine [30 mg twice daily] for six months, PSA levels decreased in 6 subjects and increased in 6, while another 6 patients discontinued therapy because of toxicity; hypertension in 1 and syncope in 2; no mention of ALT elevations or hepatotoxicity).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32123315</pub-id>
+            </element-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec sec-type="link-group" id="Phenelzine.OTHER_REFERENCE_LINKS">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <label>1</label>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=(phenelzine)+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D:%222999/12/31%22%5BEDat%5D)">Recent References on Phenelzine: from PubMed.gov</ext-link>
+            </p>
+          </list-item>
+          <list-item>
+            <label>2</label>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=phenelzine">Trials on Phenelzine: from ClinicalTrials.gov</ext-link>
+            </p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

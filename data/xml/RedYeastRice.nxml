@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="RedYeastRice" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">RedYeastRice</book-part-id>
+      <title-group>
+        <title>Red Yeast Rice</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>4</day>
+          <month>6</month>
+          <year>2018</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Ravulizumab" document-type="chapter">Ravulizumab</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Regorafenib" document-type="chapter">Regorafenib</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="RedYeastRice.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="RedYeastRice.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Red yeast rice is bright reddish-purple fermented rice which is used as a dietary supplement, predominantly as a cholesterol lowering agent. The reddish-purple color derives from the mold Monascus purpureus. Red yeast rice use has been associated with very rare instances of acute, clinically apparent liver injury.</p>
+        </sec>
+        <sec id="RedYeastRice.Background">
+          <title>Background</title>
+          <p>Red yeast rice is a traditional Chinese medicine used as an aid to digestion and revitalizing agent. More recently, red yeast rice was shown to have a cholesterol lowering effect and was marketed as a natural means of treating hyperlipidemia. However, chemical characterization of the components of red yeast rice (monascus purpureus) demonstrated the presence of several monacolins, one of which (monacolin K) is chemically identical to lovastatin, a commercially available HMG-coenzyme A inhibitor widely used in the management of hyperlipidemia. While concentrations of lovastatin in commercial preparations of red yeast rice extract are variable, some have pharmacologically active concentrations of lovastatin. Controlled trials have shown that red yeast rice extract can lower total serum and LDL cholesterol. However, these same preparations have also been linked to rare cases of myopathy and liver injury similar to what occurs with lovastatin. Red yeast rice extracts are available over-the-counter in multiple formulations and with variable concentrations of monacolins. The FDA has ruled that red yeast rice extracts that have more than trace amounts of monacolin K (lovastatin) cannot be sold as a dietary supplement, but some products with detectable levels of lovastatin are commercially available. The other components of red yeast rice may have independent effects of lipid levels.</p>
+        </sec>
+        <sec id="RedYeastRice.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>In prospective controlled trials, red yeast rice extract formulations have not been associated with serum enzyme elevations or clinically apparent liver injury. However, there have been isolated case reports of liver injury in patients on red yeast rice extracts. A proportion of patients with liver injury attributed to red yeast rice extract were reported to have similar episodes of serum enzyme elevations during conventional lovastatin therapy.</p>
+          <p>Likelihood score: C (probable rare cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="RedYeastRice.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>Both the liver injury and myopathies attributed to red yeast rice extracts are probably due to the presence of lovastatin in concentrations of 1 to 10 mg per tablet. Lovastatin is metabolized in the liver via CYP 3A4 and its liver injury is likely due to a toxic or immunogenic metabolite.</p>
+        </sec>
+        <sec id="RedYeastRice.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>The reported cases of liver injury attributed to red yeast rice have been mild-to-moderate in severity and self-limited in course. There have been no cases of acute liver failure or vanishing bile duct syndrome attributed to red yeast rice. Persons with liver injury attributed to red yeast rice extracts should avoid exposure to lovastatin, but switching to other statins may be safe, although it should be done with caution.</p>
+          <p>Drug Class: <related-object source-id="livertox" document-id="HerbalDietarySuppl">Herbal and Dietary Supplements</related-object></p>
+          <p>See also: <related-object source-id="livertox" document-id="Lovastatin">Lovastatin</related-object></p>
+        </sec>
+      </sec>
+      <sec id="RedYeastRice.CASE_REPORT">
+        <title>CASE REPORT</title>
+        <sec id="RedYeastRice.Case_1._Acute_hepatitis_due">
+          <title>Case 1. Acute hepatitis due to red yeast rice.</title>
+          <p>[Case from: Navarro VJ, Barnhart H, Bonkovsky HL, Davern T, Fontana RJ, Grant L, Reddy KR, et al. Liver injury from herbals and dietary supplements in the U.S. Drug-Induced Liver Injury Network. Hepatology 2014; 60:1399-408. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/pubmed/25043597">PubMed Citation</ext-link>]</p>
+          <p>A 67 year old woman with hypercholesterolemia developed abnormal liver tests 7 weeks after starting red yeast rice. She had a history of abnormal liver tests in the past, but routine testing before starting red yeast rice revealed minimal elevations of ALT levels (47 U/L), but normal values for AST, alkaline phosphatase and bilirubin. She did not drink alcohol, had no risk factors for viral hepatitis and no history of drug allergies. Her past medical history included hypertension, aortic valve replacement, hysterectomy, hypothyroidism, osteoporosis and previous urinary tract infections. Her other medications included valsartan, hydrochlorothiazide, low dose aspirin, thyroid extract, multivitamins, calcium, magnesium, zinc and Metamucil, all of which she had taken for more than a year. Laboratory testing initially showed an ALT of 479 U/L, AST 330 U/L, alkaline phosphatase 228 U/L and total bilirubin 0.7. She felt well and had no new symptoms. The red yeast rice was continued and she was followed as an outpatient. Over the next two weeks, however, her liver tests worsened and the red yeast rice was stopped. She subsequently developed fatigue, nausea, dark urine and jaundice (Table). Tests for acute hepatitis A, B, C and E were negative as were routine autoantibodies. Serum albumin ws 4.0 g/dL and globulins 2.3 g/dL. An abdominal ultrasound and CT scan were normal with normal liver size and texture and no evidence of biliary obstruction or masses. She underwent a liver biopsy that showed acute hepatocellular injury without fibrosis, consistent with either a drug induced liver injury or autoimmune hepatitis. She was monitored on no therapy and gradually improved. When seen one year after stopping the botanical product, she was asymptomatic and all liver tests were normal.</p>
+          <sec id="RedYeastRice.Key_Points">
+            <title>Key Points</title>
+            <table-wrap id="RedYeastRice.T1" position="anchor" orientation="portrait">
+              <table>
+                <tbody>
+                  <tr>
+                    <td valign="top" style="font-weight:bold" rowspan="1" colspan="1">Medication:</td>
+                    <td valign="top" rowspan="1" colspan="1">Red yeast rice</td>
+                  </tr>
+                  <tr>
+                    <td valign="top" style="font-weight:bold" rowspan="1" colspan="1">Pattern:</td>
+                    <td valign="top" rowspan="1" colspan="1">Hepatocellular (R ratio=6.8)</td>
+                  </tr>
+                  <tr>
+                    <td valign="top" style="font-weight:bold" rowspan="1" colspan="1">Severity:</td>
+                    <td valign="top" rowspan="1" colspan="1">2+ (jaundice, not hospitalized)</td>
+                  </tr>
+                  <tr>
+                    <td valign="top" style="font-weight:bold" rowspan="1" colspan="1">Latency:</td>
+                    <td valign="top" rowspan="1" colspan="1">7 weeks</td>
+                  </tr>
+                  <tr>
+                    <td valign="top" style="font-weight:bold" rowspan="1" colspan="1">Recovery:</td>
+                    <td valign="top" rowspan="1" colspan="1">Approximately 4 months</td>
+                  </tr>
+                  <tr>
+                    <td valign="top" style="font-weight:bold" rowspan="1" colspan="1">Other medications:</td>
+                    <td valign="top" rowspan="1" colspan="1">Valsartan, hydrochlorothiazide, aspirin, thyroid extract</td>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="RedYeastRice.Laboratory_Values">
+            <title>Laboratory Values</title>
+            <table-wrap id="RedYeastRice.T2" position="anchor" orientation="portrait">
+              <table>
+                <tbody>
+                  <tr>
+                    <th id="hd_b_RedYeastRice.T2_1_1_1_1" align="center" rowspan="1" colspan="1">Time After<break/>Starting</th>
+                    <th id="hd_b_RedYeastRice.T2_1_1_1_2" align="center" rowspan="1" colspan="1">Time After<break/>Stopping</th>
+                    <th id="hd_b_RedYeastRice.T2_1_1_1_3" align="center" rowspan="1" colspan="1">ALT<break/>(U/L)</th>
+                    <th id="hd_b_RedYeastRice.T2_1_1_1_4" align="center" rowspan="1" colspan="1">Alk P<break/>(U/L)</th>
+                    <th id="hd_b_RedYeastRice.T2_1_1_1_5" align="center" rowspan="1" colspan="1">Bilirubin<break/>(mg/dL)</th>
+                    <th id="hd_b_RedYeastRice.T2_1_1_1_6" align="center" rowspan="1" colspan="1">Other</th>
+                  </tr>
+                  <tr>
+                    <td headers="hd_b_RedYeastRice.T2_1_1_1_1" valign="middle" align="center" rowspan="1" colspan="1">Pre</td>
+                    <td headers="hd_b_RedYeastRice.T2_1_1_1_2" valign="middle" align="center" rowspan="1" colspan="1"/>
+                    <td headers="hd_b_RedYeastRice.T2_1_1_1_3" valign="middle" align="center" rowspan="1" colspan="1">47</td>
+                    <td headers="hd_b_RedYeastRice.T2_1_1_1_4" valign="middle" align="center" rowspan="1" colspan="1">106</td>
+                    <td headers="hd_b_RedYeastRice.T2_1_1_1_5" valign="middle" align="center" rowspan="1" colspan="1">0.5</td>
+                    <td headers="hd_b_RedYeastRice.T2_1_1_1_6" valign="middle" align="center" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_b_RedYeastRice.T2_1_1_1_1" valign="middle" align="center" rowspan="1" colspan="1">7 weeks</td>
+                    <td headers="hd_b_RedYeastRice.T2_1_1_1_2" valign="middle" align="center" rowspan="1" colspan="1">-7</td>
+                    <td headers="hd_b_RedYeastRice.T2_1_1_1_3" valign="middle" align="center" rowspan="1" colspan="1">479</td>
+                    <td headers="hd_b_RedYeastRice.T2_1_1_1_4" valign="middle" align="center" rowspan="1" colspan="1">228</td>
+                    <td headers="hd_b_RedYeastRice.T2_1_1_1_5" valign="middle" align="center" rowspan="1" colspan="1">0.7</td>
+                    <td headers="hd_b_RedYeastRice.T2_1_1_1_6" valign="middle" align="center" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_b_RedYeastRice.T2_1_1_1_1" valign="middle" align="center" rowspan="1" colspan="1">8 weeks</td>
+                    <td headers="hd_b_RedYeastRice.T2_1_1_1_2" valign="middle" align="center" rowspan="1" colspan="1">2 days</td>
+                    <td headers="hd_b_RedYeastRice.T2_1_1_1_3" valign="middle" align="center" rowspan="1" colspan="1">864</td>
+                    <td headers="hd_b_RedYeastRice.T2_1_1_1_4" valign="middle" align="center" rowspan="1" colspan="1">356</td>
+                    <td headers="hd_b_RedYeastRice.T2_1_1_1_5" valign="middle" align="center" rowspan="1" colspan="1">1.0</td>
+                    <td headers="hd_b_RedYeastRice.T2_1_1_1_6" valign="middle" align="center" rowspan="1" colspan="1">INR 1.0</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_b_RedYeastRice.T2_1_1_1_1" valign="middle" align="center" rowspan="1" colspan="1"/>
+                    <td headers="hd_b_RedYeastRice.T2_1_1_1_2" valign="middle" align="center" rowspan="1" colspan="1">9 days</td>
+                    <td headers="hd_b_RedYeastRice.T2_1_1_1_3" valign="middle" align="center" rowspan="1" colspan="1">1101</td>
+                    <td headers="hd_b_RedYeastRice.T2_1_1_1_4" valign="middle" align="center" rowspan="1" colspan="1">413</td>
+                    <td headers="hd_b_RedYeastRice.T2_1_1_1_5" valign="middle" align="center" rowspan="1" colspan="1">0.6</td>
+                    <td headers="hd_b_RedYeastRice.T2_1_1_1_6" valign="middle" align="center" rowspan="1" colspan="1">Liver biopsy</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_b_RedYeastRice.T2_1_1_1_1" valign="middle" align="center" rowspan="1" colspan="1">12 weeks</td>
+                    <td headers="hd_b_RedYeastRice.T2_1_1_1_2" valign="middle" align="center" rowspan="1" colspan="1">37 days</td>
+                    <td headers="hd_b_RedYeastRice.T2_1_1_1_3" valign="middle" align="center" rowspan="1" colspan="1">1185</td>
+                    <td headers="hd_b_RedYeastRice.T2_1_1_1_4" valign="middle" align="center" rowspan="1" colspan="1">290</td>
+                    <td headers="hd_b_RedYeastRice.T2_1_1_1_5" valign="middle" align="center" rowspan="1" colspan="1">6.3</td>
+                    <td headers="hd_b_RedYeastRice.T2_1_1_1_6" valign="middle" align="center" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_b_RedYeastRice.T2_1_1_1_1" valign="middle" align="center" rowspan="1" colspan="1">14 weeks</td>
+                    <td headers="hd_b_RedYeastRice.T2_1_1_1_2" valign="middle" align="center" rowspan="1" colspan="1">48 days</td>
+                    <td headers="hd_b_RedYeastRice.T2_1_1_1_3" valign="middle" align="center" rowspan="1" colspan="1">970</td>
+                    <td headers="hd_b_RedYeastRice.T2_1_1_1_4" valign="middle" align="center" rowspan="1" colspan="1">294</td>
+                    <td headers="hd_b_RedYeastRice.T2_1_1_1_5" valign="middle" align="center" rowspan="1" colspan="1">4.2</td>
+                    <td headers="hd_b_RedYeastRice.T2_1_1_1_6" valign="middle" align="center" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_b_RedYeastRice.T2_1_1_1_1" valign="middle" align="center" rowspan="1" colspan="1">15 weeks</td>
+                    <td headers="hd_b_RedYeastRice.T2_1_1_1_2" valign="middle" align="center" rowspan="1" colspan="1">55 days</td>
+                    <td headers="hd_b_RedYeastRice.T2_1_1_1_3" valign="middle" align="center" rowspan="1" colspan="1">861</td>
+                    <td headers="hd_b_RedYeastRice.T2_1_1_1_4" valign="middle" align="center" rowspan="1" colspan="1">169</td>
+                    <td headers="hd_b_RedYeastRice.T2_1_1_1_5" valign="middle" align="center" rowspan="1" colspan="1">3.5</td>
+                    <td headers="hd_b_RedYeastRice.T2_1_1_1_6" valign="middle" align="center" rowspan="1" colspan="1">INR 1.0</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_b_RedYeastRice.T2_1_1_1_1" valign="middle" align="center" rowspan="1" colspan="1">16 weeks</td>
+                    <td headers="hd_b_RedYeastRice.T2_1_1_1_2" valign="middle" align="center" rowspan="1" colspan="1">62 days</td>
+                    <td headers="hd_b_RedYeastRice.T2_1_1_1_3" valign="middle" align="center" rowspan="1" colspan="1">620</td>
+                    <td headers="hd_b_RedYeastRice.T2_1_1_1_4" valign="middle" align="center" rowspan="1" colspan="1">150</td>
+                    <td headers="hd_b_RedYeastRice.T2_1_1_1_5" valign="middle" align="center" rowspan="1" colspan="1">2.7</td>
+                    <td headers="hd_b_RedYeastRice.T2_1_1_1_6" valign="middle" align="center" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_b_RedYeastRice.T2_1_1_1_1" valign="middle" align="center" rowspan="1" colspan="1">17 weeks</td>
+                    <td headers="hd_b_RedYeastRice.T2_1_1_1_2" valign="middle" align="center" rowspan="1" colspan="1">69 days</td>
+                    <td headers="hd_b_RedYeastRice.T2_1_1_1_3" valign="middle" align="center" rowspan="1" colspan="1">643</td>
+                    <td headers="hd_b_RedYeastRice.T2_1_1_1_4" valign="middle" align="center" rowspan="1" colspan="1">161</td>
+                    <td headers="hd_b_RedYeastRice.T2_1_1_1_5" valign="middle" align="center" rowspan="1" colspan="1">3.1</td>
+                    <td headers="hd_b_RedYeastRice.T2_1_1_1_6" valign="middle" align="center" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_b_RedYeastRice.T2_1_1_1_1" valign="middle" align="center" rowspan="1" colspan="1">18 weeks</td>
+                    <td headers="hd_b_RedYeastRice.T2_1_1_1_2" valign="middle" align="center" rowspan="1" colspan="1">76 days</td>
+                    <td headers="hd_b_RedYeastRice.T2_1_1_1_3" valign="middle" align="center" rowspan="1" colspan="1">582</td>
+                    <td headers="hd_b_RedYeastRice.T2_1_1_1_4" valign="middle" align="center" rowspan="1" colspan="1">146</td>
+                    <td headers="hd_b_RedYeastRice.T2_1_1_1_5" valign="middle" align="center" rowspan="1" colspan="1">3.2</td>
+                    <td headers="hd_b_RedYeastRice.T2_1_1_1_6" valign="middle" align="center" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_b_RedYeastRice.T2_1_1_1_1" valign="middle" align="center" rowspan="1" colspan="1">19 weeks</td>
+                    <td headers="hd_b_RedYeastRice.T2_1_1_1_2" valign="middle" align="center" rowspan="1" colspan="1">83 days</td>
+                    <td headers="hd_b_RedYeastRice.T2_1_1_1_3" valign="middle" align="center" rowspan="1" colspan="1">482</td>
+                    <td headers="hd_b_RedYeastRice.T2_1_1_1_4" valign="middle" align="center" rowspan="1" colspan="1">143</td>
+                    <td headers="hd_b_RedYeastRice.T2_1_1_1_5" valign="middle" align="center" rowspan="1" colspan="1">4.1</td>
+                    <td headers="hd_b_RedYeastRice.T2_1_1_1_6" valign="middle" align="center" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_b_RedYeastRice.T2_1_1_1_1" valign="middle" align="center" rowspan="1" colspan="1">4 months</td>
+                    <td headers="hd_b_RedYeastRice.T2_1_1_1_2" valign="middle" align="center" rowspan="1" colspan="1">90 days</td>
+                    <td headers="hd_b_RedYeastRice.T2_1_1_1_3" valign="middle" align="center" rowspan="1" colspan="1">451</td>
+                    <td headers="hd_b_RedYeastRice.T2_1_1_1_4" valign="middle" align="center" rowspan="1" colspan="1">154</td>
+                    <td headers="hd_b_RedYeastRice.T2_1_1_1_5" valign="middle" align="center" rowspan="1" colspan="1">3.7</td>
+                    <td headers="hd_b_RedYeastRice.T2_1_1_1_6" valign="middle" align="center" rowspan="1" colspan="1">INR 1.0</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_b_RedYeastRice.T2_1_1_1_1" valign="middle" align="center" rowspan="1" colspan="1">1 year</td>
+                    <td headers="hd_b_RedYeastRice.T2_1_1_1_2" valign="middle" align="center" rowspan="1" colspan="1">1 year</td>
+                    <td headers="hd_b_RedYeastRice.T2_1_1_1_3" valign="middle" align="center" rowspan="1" colspan="1">20</td>
+                    <td headers="hd_b_RedYeastRice.T2_1_1_1_4" valign="middle" align="center" rowspan="1" colspan="1">106</td>
+                    <td headers="hd_b_RedYeastRice.T2_1_1_1_5" valign="middle" align="center" rowspan="1" colspan="1">0.8</td>
+                    <td headers="hd_b_RedYeastRice.T2_1_1_1_6" valign="middle" align="center" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_b_RedYeastRice.T2_1_1_1_1" valign="middle" align="center" rowspan="1" colspan="1">
+                      <bold>Normal Values</bold>
+                    </td>
+                    <td headers="hd_b_RedYeastRice.T2_1_1_1_2" valign="middle" align="center" rowspan="1" colspan="1"/>
+                    <td headers="hd_b_RedYeastRice.T2_1_1_1_3" valign="middle" align="center" rowspan="1" colspan="1">
+                      <bold>&#x0003c;45</bold>
+                    </td>
+                    <td headers="hd_b_RedYeastRice.T2_1_1_1_4" valign="middle" align="center" rowspan="1" colspan="1">
+                      <bold>&#x0003c;125</bold>
+                    </td>
+                    <td headers="hd_b_RedYeastRice.T2_1_1_1_5" valign="middle" align="center" rowspan="1" colspan="1">
+                      <bold>&#x0003c;1.2</bold>
+                    </td>
+                    <td headers="hd_b_RedYeastRice.T2_1_1_1_6" valign="middle" align="center" rowspan="1" colspan="1"/>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="RedYeastRice.Comment">
+            <title>Comment</title>
+            <p>This patient developed an acute hepatitis arising about 2 months after starting red yeast rice for hypercholesterolemia. The hepatitis was mild-to-moderate in severity, but was prolonged which raised the question of autoimmune hepatitis. Against this diagnsosis was the absence of autoantibodies and normal serum globulin levels. She did not receive corticosteroids and ultimately the liver injury resolved. This case was reviewed by an expert causality committee and was judged to be "highly likely" drug induced liver injury from red yeast rice.</p>
+          </sec>
+        </sec>
+      </sec>
+      <sec id="RedYeastRice.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <boxed-text position="anchor" id="RedYeastRice.BPI" orientation="portrait">
+          <p>
+            <bold>REPRESENTATIVE TRADE NAMES</bold>
+          </p>
+          <p>Red Yeast Rice &#x02013; Generic</p>
+          <p>
+            <bold>DRUG CLASS</bold>
+          </p>
+          <p>Herbal and Dietary Supplements</p>
+          <p>SUMMARY INFORMATION</p>
+          <p>
+            <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://nccih.nih.gov/health/redyeastrice">Fact Sheet at National Center for Complementary and Integrative Health, NIH</ext-link>
+          </p>
+        </boxed-text>
+      </sec>
+      <sec id="RedYeastRice.CHEMICAL_FORMULA_AND_STRUCT">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="RedYeastRice.T3" position="anchor" orientation="portrait">
+          <table>
+            <thead>
+              <tr>
+                <th id="hd_h_RedYeastRice.T3_1_1_1_1" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_RedYeastRice.T3_1_1_1_2" rowspan="1" colspan="1">CAS REGISTRY NUMBER</th>
+                <th id="hd_h_RedYeastRice.T3_1_1_1_3" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_RedYeastRice.T3_1_1_1_4" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_RedYeastRice.T3_1_1_1_1" rowspan="1" colspan="1">Red Yeast Rice<break/> Monacolin K<break/> (Lovastatin)</td>
+                <td headers="hd_h_RedYeastRice.T3_1_1_1_2" rowspan="1" colspan="1">R400000000</td>
+                <td headers="hd_h_RedYeastRice.T3_1_1_1_3" rowspan="1" colspan="1">Unspecified</td>
+                <td headers="hd_h_RedYeastRice.T3_1_1_1_4" rowspan="1" colspan="1">Not Applicable</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="RedYeastRice.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 04 June 2018</p>
+        <ref-list id="RedYeastRice.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="RedYeastRice.R1">
+            <mixed-citation publication-type="other">Zimmerman HJ. Unconventional drugs. Miscellaneous drugs and diagnostic chemicals. In, Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999, pp. 731-4.<annotation><p><italic toggle="yes">(Expert review of hepatotoxicity published in 1999; several herbal medications are discussed, but not red yeast rice).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="RedYeastRice.R2">
+            <mixed-citation publication-type="other">Seeff L, Stickel F, Navarro VJ. Hepatotoxicity of herbals and dietary supplements. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013, p. 631-58.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of herbal and dietary supplements [HDS]; red yeast rice is not discussed).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="RedYeastRice.R3">
+            <mixed-citation publication-type="journal">Stedman C. Herbal hepatotoxicity. Semin Liver Dis 2002; 22: 195-206. <annotation><p><italic toggle="yes">(Review and description of patterns of liver injury, including discussion of potential risk factors, and herb-drug interactions).</italic></p></annotation><pub-id pub-id-type="pmid">12016550</pub-id></mixed-citation>
+          </ref>
+          <ref id="RedYeastRice.R4">
+            <mixed-citation publication-type="journal">Keithley JK, Swanson B, Sha BE, Zeller JM, Kessler HA, Smith KY. A pilot study of the safety and efficacy of cholestin in treating HIV-related dyslipidemia. Nutrition 2002; 18: 201-4. <annotation><p><italic toggle="yes">(In a controlled trial of cholestin [~5 mg of lovastatin] vs placebo for 8 weeks in 12 patients with hyperlipidemia, there were no changes in "hepatic function").</italic></p></annotation><pub-id pub-id-type="pmid">11844656</pub-id></mixed-citation>
+          </ref>
+          <ref id="RedYeastRice.R5">
+            <mixed-citation publication-type="journal">Roselle H, Ekatan A, Tzeng J, Sapienza M, Kocher J. Symptomatic hepatitis associated with the use of herbal red yeast rice. Ann Intern Med 2008; 149: 516-7. <annotation><p><italic toggle="yes">(62 year old woman developed fever, nausea and fatigue 4 months after starting red yeast rice extract [ALT 211 U/L, bilirubin and Alk P not given], resolving within several months of stopping).</italic></p></annotation><pub-id pub-id-type="pmid">18838736</pub-id></mixed-citation>
+          </ref>
+          <ref id="RedYeastRice.R6">
+            <mixed-citation publication-type="journal">Grieco A, Miele L, Pompili M, Biolato M, Vecchio FM, Grattagliano I, Gasbarrini G. Acute hepatitis caused by a natural lipid-lowering product: when "alternative" medicine is no "alternative" at all. J Hepatol 2009; 50: 1273-7. <annotation><p><italic toggle="yes">(63 year old woman with ALT elevations after 6 months of lovastatin use, developed fatigue 6 months after starting a cholesterol lowering herbal preparation containing red yeast rice extract [bilirubin 1.9 mg/dL, ALT 1760 U/L, Alk P 722 U/L], resolving over the next 6 months, but with persistence of ALT elevations).</italic></p></annotation><pub-id pub-id-type="pmid">19398239</pub-id></mixed-citation>
+          </ref>
+          <ref id="RedYeastRice.R7">
+            <mixed-citation publication-type="journal">Chalasani N, Fontana RJ, Bonkovsky HL, Watkins PB, Davern T, Serrano J, Yang H, Rochon J; Drug Induced Liver Injury Network (DILIN). Causes, clinical features, and outcomes from a prospective study of drug-induced liver injury in the United States. Gastroenterology 2008; 135: 1924-34. <annotation><p><italic toggle="yes">(Among 300 cases of drug induced liver disease in the US collected between 2004 and 2008, 9% of cases were attributed to herbal medications, but no case was attributed to red yeast rice).</italic></p></annotation><pub-id pub-id-type="pmid">18955056</pub-id></mixed-citation>
+          </ref>
+          <ref id="RedYeastRice.R8">
+            <mixed-citation publication-type="journal">Navarro VJ. Herbal and dietary supplement hepatotoxicity. Semin Liver Dis 2009; 29: 373-382. <annotation><p><italic toggle="yes">(Overview of the regulatory environment, clinical patterns, and future directions in research with HDS; red yeast rice is not listed as a potential hepatotoxin).</italic></p></annotation><pub-id pub-id-type="pmid">19826971</pub-id></mixed-citation>
+          </ref>
+          <ref id="RedYeastRice.R9">
+            <mixed-citation publication-type="journal">Jacobsson I, J&#x000f6;nsson AK, Gerd&#x000e9;n B, H&#x000e4;gg S. Spontaneously reported adverse reactions in association with complementary and alternative medicine substances in Sweden. Pharmacoepidemiol Drug Saf 2009; 18: 1039-47. <annotation><p><italic toggle="yes">(Review of 778 spontaneous reports of adverse reactions to herbals to Swedish Registry; no instance was linked to red yeast rice extracts).</italic></p></annotation><pub-id pub-id-type="pmid">19650152</pub-id></mixed-citation>
+          </ref>
+          <ref id="RedYeastRice.R10">
+            <mixed-citation publication-type="journal">Becker DJ, Gordon RY, Halbert SC, French B, Morris PB, Rader DJ. Red yeast rice for dyslipidemia in statin-intolerant patients: a randomized trial. Ann Intern Med 2009; 150: 830-9. <annotation><p><italic toggle="yes">(Controlled trial of red yeast rice extract vs placebo in 62 patients who had stopped statin therapy because of myalgias, found similar rates of myalgias [7% vs 3%] and no change in ALT or AST levels in both groups).</italic></p></annotation><pub-id pub-id-type="pmid">19528562</pub-id></mixed-citation>
+          </ref>
+          <ref id="RedYeastRice.R11">
+            <mixed-citation publication-type="journal">Halbert SC, French B, Gordon RY, Farrar JT, Schmitz K, Morris PB, Thompson PD, et al. Tolerability of red yeast rice (2,400 mg twice daily) versus pravastatin (20 mg twice daily) in patients with previous statin intolerance. Am J Cardiol 2010; 105: 198-204. <annotation><p><italic toggle="yes">(43 patients with myalgias due to statin use were treated with pravastatin or red rice extract for 24 weeks; discontinuation due to myalgias occurred in 5% on red yeast rice extract and 9% on pravastatin, and mean ALT levels were similar between the 2 groups).</italic></p></annotation><pub-id pub-id-type="pmid">20102918</pub-id></mixed-citation>
+          </ref>
+          <ref id="RedYeastRice.R12">
+            <mixed-citation publication-type="journal">Venero CV, Venero JV, Wortham DC, Thompson PD. Lipid-lowering efficacy of red yeast rice in a population intolerant to statins. Am J Cardiol 2010; 105: 664-6. <annotation><p><italic toggle="yes">(Retrospective analysis of 25 patients who were treated with red yeast rice extract for hyperlipidemia; 2 patients had ALT elevations before treatment, which persisted during follow up, but were never &#x0003e;2 times ULN).</italic></p></annotation><pub-id pub-id-type="pmid">20185013</pub-id></mixed-citation>
+          </ref>
+          <ref id="RedYeastRice.R13">
+            <mixed-citation publication-type="journal">Reuben A, Koch DG, Lee WM; Acute Liver Failure Study Group. Drug-induced acute liver failure: results of a U.S. multicenter, prospective study. Hepatology 2010; 52: 2065-76. <annotation><p><italic toggle="yes">(Among 1198 patients with acute liver failure enrolled in a US prospective study between 1998 and 2007, 133 [11%] were attributed to drug induced liver injury, of which 12 [9%] were due to herbals, including several herbal mixtures, usnic acid, Ma Huang, black cohosh, and Hydroxycut, but not red yeast rice).</italic></p></annotation><pub-id pub-id-type="pmid">20949552</pub-id></mixed-citation>
+          </ref>
+          <ref id="RedYeastRice.R14">
+            <mixed-citation publication-type="journal">Gordon RY, Cooperman T, Obermeyer W, Becker DJ. Marked variability of monacolin levels in commercial red yeast rice products: buyer beware! Arch Intern Med 2010; 170: 1722-7. <annotation><p><italic toggle="yes">(Among 12 red yeast rice extracts commercially available in the US, total monacolin concentrations varied from 0.3-11.1 mg/capsule, monacolin K by 0.1-10.1 mg/capsule, and citrinin [which is nephrotoxic] was present in 4).</italic></p></annotation><pub-id pub-id-type="pmid">20975018</pub-id></mixed-citation>
+          </ref>
+          <ref id="RedYeastRice.R15">
+            <mixed-citation publication-type="journal">Yang CW, Mousa SA. The effect of red yeast rice(Monascus purpureus) in dyslipidemia and other disorders. Complement Ther Med 2012; 20: 466-74. <annotation><p><italic toggle="yes">(Review of literature on efficacy of red yeast rice products found 22 clinical trials; no discussion of safety, ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">23131380</pub-id></mixed-citation>
+          </ref>
+          <ref id="RedYeastRice.R16">
+            <mixed-citation publication-type="journal">Teschke R, Wolff A, Frenzel C, Schulze J, Eickhoff A. Herbal hepatotoxicity: a tabular compilation of reported cases. Liver Int 2012; 32: 1543-56. <annotation><p><italic toggle="yes">(A systematic compilation of all publications on the hepatotoxicity of specific herbals identified 185 publications on 60 different herbs, herbal drugs and supplements; one implicated red yeast rice [Roselle 2008]). </italic></p></annotation><pub-id pub-id-type="pmid">22928722</pub-id></mixed-citation>
+          </ref>
+          <ref id="RedYeastRice.R17">
+            <mixed-citation publication-type="journal">Sartore G, Burlina S, Ragazzi E, Ferraresso S, Valentini R, Lapolla A. Mediterranean diet and red yeast rice supplementation for the management of hyperlipidemia in statin-intolerant patients with or without type 2 diabetes. Evid Based Complement Alternat Med 2013; 2013: 743473. Epub 2013 Dec 23. <annotation><p><italic toggle="yes">(Among 171 patients with dyslipidemia who were intolerant of statins and were treated with a mediterranean diet with or without red yeast rice for 24 weeks, there was no increase in ALT or AST in any subject).</italic></p></annotation><pub-id pub-id-type="pmid">24454511</pub-id></mixed-citation>
+          </ref>
+          <ref id="RedYeastRice.R18">
+            <mixed-citation publication-type="journal">Li Y, Jiang L, Jia Z, Xin W, Yang S, Yang Q, Wang L. A meta-analysis of red yeast rice: an effective and relatively safe alternative approach for dyslipidemia. PLoS One 2014; 9: e98611. <annotation><p><italic toggle="yes">(Metaanalysis of 13 randomized controlled trials of red yeast rice found that it lowered LDL cholesterol levels, but had no effect on HDL cholesterol, and serum ALT and AST levels were significantly higher with red yeast rice treatment groups).</italic></p></annotation><pub-id pub-id-type="pmid">24897342</pub-id></mixed-citation>
+          </ref>
+          <ref id="RedYeastRice.R19">
+            <mixed-citation publication-type="journal">Navarro VJ, Barnhart H, Bonkovsky HL, Davern T, Fontana RJ, Grant L, Reddy KR, et al. Liver injury from herbals and dietary supplements in the U.S. Drug-Induced Liver Injury Network. Hepatology 2014; 60:1399-408. <annotation><p><italic toggle="yes">(Among 85 cases of HDS associated liver injury [not due to anabolic steroids] enrolled in a US prospective study between 2004 and 2013, the single most commonly implicated herbal agent was green tea extract and only one case was exposed to red yeast rice).</italic></p></annotation><pub-id pub-id-type="pmid">25043597</pub-id></mixed-citation>
+          </ref>
+          <ref id="RedYeastRice.R20">
+            <mixed-citation publication-type="journal">Chalasani N, Bonkovsky HL, Fontana R, Lee W, Stolz A, Talwalkar J, Reddy KR, et al.; United States Drug Induced Liver Injury Network. Features and outcomes of 899 patients with drug-induced liver injury: The DILIN Prospective Study. Gastroenterology 2015; 148: 1340-52. <annotation><p><italic toggle="yes">(Among 899 cases of drug induced liver injury enrolled in a prospective database between 2004 and 2012, HDS were implicated in 145 [16%], the single major herbal cause being green tea extract and one case attributed to red yeast rice).</italic></p></annotation><pub-id pub-id-type="pmid">25754159</pub-id></mixed-citation>
+          </ref>
+          <ref id="RedYeastRice.R21">
+            <mixed-citation publication-type="journal">Red yeast rice: muscle and liver disorders. Prescrire Int 2015; 24: 156. <annotation><p><italic toggle="yes">(Between 2009 and 2013, 30 adverse events due to red yeast rice were reported to a French Nutrivigilance Registry, including 9 cases of muscle damage [1 rhabdomyolysis], 8 of liver injury, and 1 of Stevens Johnson syndrome which were attributed to monacolin K found in amounts of 0.1 to 10 mg per tablet).</italic></p></annotation><pub-id pub-id-type="pmid">26436170</pub-id></mixed-citation>
+          </ref>
+          <ref id="RedYeastRice.R22">
+            <mixed-citation publication-type="journal">Garc&#x000ed;a-Cort&#x000e9;s M, Robles-D&#x000ed;az M, Ortega-Alonso A, Medina-Caliz I, Andrade RJ. Hepatotoxicity by dietary supplements: A tabular listing and clinical characteristics. Int J Mol Sci 2016; 17. pii: E537. <italic toggle="yes">(Listing of published cases of liver injury from HDS products, does not list red yeast rice).</italic><pub-id pub-id-type="pmid">27070596</pub-id></mixed-citation>
+          </ref>
+          <ref id="RedYeastRice.R23">
+            <mixed-citation publication-type="journal">Mazzanti G, Moro PA, Raschi E, Da Cas R, Menniti-Ippolito F. Adverse reactions to dietary supplements containing red yeast rice: assessment of cases from the Italian surveillance system. Br J Clin Pharmacol 2017; 83: 894-908. <italic toggle="yes"> (Between 2002 and 2015, 9 cases of drug induced liver injury attributed to red yeast rice were reported to an Italian surveillance system, cases usually arising within 90 days and resolving with stopping; 6 hospitalizations but no deaths</italic><annotation><p><italic toggle="yes">).</italic></p></annotation><pub-id pub-id-type="pmid">28093797</pub-id></mixed-citation>
+          </ref>
+          <ref id="RedYeastRice.R24">
+            <mixed-citation publication-type="journal">Cicero AFG, Fogacci F, Rosticci M, Parini A, Giovannini M, Veronesi M, D'Addato S, et al. Effect of a short-term dietary supplementation with phytosterols, red yeast rice or both on lipid pattern in moderately hypercholesterolemic subjects: a three-arm, double-blind, randomized clinical trial. Nutr Metab (Lond) 2017; 14: 61. <annotation><p><italic toggle="yes"> (Among 90 patients with hyperlipidemia treated for 8 weeks, LDL cholesterol levels decreased with red yeast rice but not phytosterols; no mention of adverse events or ALT changes).</italic></p></annotation><pub-id pub-id-type="pmid">29021813</pub-id></mixed-citation>
+          </ref>
+          <ref id="RedYeastRice.R25">
+            <mixed-citation publication-type="journal">Vega M, Verma M, Beswick D, Bey S, Hossack J, Merriman N, Shah A, et al.; Drug Induced Liver Injury Network (DILIN). The incidence of drug- and herbal and dietary supplement-induced liver injury: preliminary findings from gastroenterologist-based surveillance in the population of the State of Delaware. Drug Saf 2017; 40: 783-7. <annotation><p><italic toggle="yes">(A prospective, population based registry of cases of drug induced liver injury occurring in Delaware during 2014, identified 20 cases [2.7 per 100,000] overall, including 6 due to HDS products, all of which were proprietary multiingredient products and none mentioned red yeast rice as a component).</italic></p></annotation><pub-id pub-id-type="pmid">28555362</pub-id></mixed-citation>
+          </ref>
+          <ref id="RedYeastRice.R26">
+            <mixed-citation publication-type="journal">Brown AC. Liver toxicity related to herbs and dietary supplements: Online table of case reports. Part 2 of 5 series. Food Chem Toxicol 2017; 107 (Pt A): 472-501. <annotation><p><italic toggle="yes"> (Description of an online compendium of cases of liver toxicity attributed to HDS products, lists one published case linked to red yeast rice [Roselle 2008]).</italic></p></annotation><pub-id pub-id-type="pmid">27402097</pub-id></mixed-citation>
+          </ref>
+          <ref id="RedYeastRice.R27">
+            <mixed-citation publication-type="journal">Raschi E, Girardi A, Poluzzi E, Forcesi E, Menniti-Ippolito F, Mazzanti G, De Ponti F. Adverse events to food supplements containing red yeast rice: comparative analysis of FAERS and CAERS reporting systems. Drug Saf 2018 Mar 26. [Epub ahead of print] <annotation><p><italic toggle="yes">(Analysis of two large US surveillance systems for adverse events reported between 2004 and 2017 found 1459 reports mentioning red yeast rice, only 1% of which were designated a hepatobiliary related; no details provided).</italic></p></annotation><pub-id pub-id-type="pmid">29582393</pub-id></mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec id="RedYeastRice.OTHER_REFERENCE_LINKS" sec-type="link-group">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=(Red+Yeastr+Rice)+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D%3A%222999/12/31%22%5BEDat%5D)">Recent References on Red Yeast Rice: from PubMed.gov</ext-link>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Red+Yeastr+Rice">Trials on Red Yeast Rice: from ClinicalTrials.gov</ext-link>
+            </p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

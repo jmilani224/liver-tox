@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Guselkumab" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Guselkumab</book-part-id>
+      <title-group>
+        <title>Guselkumab</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>26</day>
+          <month>6</month>
+          <year>2018</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Guanfacine" document-type="chapter">Guanfacine</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="HalogenatedAnestheti" document-type="chapter">Halogenated Anesthetics</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Guselkumab.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Guselkumab.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Guselkumab is human monoclonal antibody to interleukin-23 and is used to treat severe psoriasis. Guselkumab is associated with a low rate of transient and asymptomatic serum enzyme elevations during therapy, but has not been linked to cases of idiosyncratic, clinically apparent liver injury.</p>
+        </sec>
+        <sec id="Guselkumab.Background">
+          <title>Background</title>
+          <p>Guselkumab (gue" sel koo' mab) is a human monoclonal immunoglobulin G1 antibody to interleukin (IL)-23, a cytokine that is an important mediator of autoimmune reactions. IL-23 is found in the skin lesions of psoriasis and in the affected gastrointestinal mucosa of patients with inflammatory bowel disease. Although similar, guselkumab is directed to the p19 subunit of IL-23 whereas ustekinumab is directed at the p40 subunit which is a component shared by both IL-23 and IL-12. As a consequence, guselkumab has a more restricted activity in the Th17 immune pathways which are considered to play a major role in autoimmune reactions. Guselkumab was approved for use in United States in 2017, and current indications are limited to moderate-to-severe plaque psoriasis, although it is under active investigation as therapy of several other autoimmune diseases. Guselkumab is available in liquid solution in single use prefilled syringes of 100 mg/mL under the brand name Tremfya. The typical regimen is 100 mg subcutaneously initially, 4 weeks later and then every 8 weeks. Side effects are uncommon and are usually mild, but may include injection site reactions, headache, arthralgias, diarrhea, gastroenteritis, and minor infections such as upper respiratory infections and those due to tinea and herpes simplex. Less common, but potentially severe side effects include serious infections and reactivation of tuberculosis.</p>
+        </sec>
+        <sec id="Guselkumab.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>Mild-to-moderate serum aminotransferase elevations were reported to occur in 2.6% of patients during guselkumab therapy compared to 1.9% of placebo controls. The elevations, however, were self-limited and resolved even with continuing cyclic therapy and did not require discontinuation. Neither during premarketing evaluation nor subsequently have there been case reports of clinically apparent, acute liver injury with symptoms or jaundice linked to guselkumab therapy, but experience with its use has been limited. Guselkumab has immunosuppressive activity but has not been linked to instances of reactivation of hepatitis B or worsening of hepatitis C. However, patients at risk for these complications are often excluded from preregistration clinical trials and ustekinumab, a similar biologic agent, has been shown to cause reactivation of hepatitis B in postmarketing studies. HBV reactivation typically occurs in patients with preexisting HBsAg and relatively inactive disease. Reactivation causes acute hepatocellular injury that can be severe and lead to acute liver failure and death or need for emergency liver transplantation. Screening for hepatitis B before starting guselkumab is not recommended in the product label, but screening has been considered &#x0201c;advisable&#x0201d; by academic societies in published guidelines on use of biologics for psoriasis therapy.</p>
+          <p>Likelihood score: E* (suspected but unproven cause of clinically apparent liver injury, but experience with its use has been limited).</p>
+        </sec>
+        <sec id="Guselkumab.Mechanism_of_Liver_Injury">
+          <title>Mechanism of Liver Injury</title>
+          <p>The mechanism of possible liver injury due to guselkumab is not known. Reactivation of hepatitis B appears to be due to a brisk immunological response to newly expressed viral antigens caused by suppression of the immune response to hepatitis B antigens. Injury generally arises between courses of immunosuppressive therapy.</p>
+        </sec>
+        <sec id="Guselkumab.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>Guselkumab has been linked to minor elevations in serum enzymes during therapy but not to clinically apparent liver injury or with reactivation of hepatitis B. The product label for guselkumab does not recommend routine screening for hepatitis B before initiation of therapy. However, guidelines for management of patients who are to receive guselkumab prepared by some academic societies have recommended routine screening before starting treatment. Screening should include tests for HBsAg and anti-HBc (and perhaps also anti-HBs as this may help in management). Prophylaxis with a potent oral, antiviral agent effective against hepatitis B is recommended for persons who have HBsAg in serum. An alternative approach is careful monitoring for HBV DNA during therapy and early institution of antiviral therapy if levels rise.</p>
+          <p>Drug Class: Dermatologic Agents, <related-object source-id="livertox" document-id="PsoriasisDrugs">Psoriasis Agents</related-object>; <related-object source-id="livertox" document-id="MonoclonalAntibodies">Monoclonal Antibodies</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Guselkumab.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <boxed-text position="anchor" id="Guselkumab.BPI" orientation="portrait">
+          <p>
+            <bold>REPRESENTATIVE TRADE NAMES</bold>
+          </p>
+          <p>Guselkumab &#x02013; Tremfya&#x000ae;</p>
+          <p>
+            <bold>DRUG CLASS</bold>
+          </p>
+          <p>Dermatologic Agents, Psoriasis Agents</p>
+          <p>
+            <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Guselkumab">COMPLETE LABELING</ext-link>
+          </p>
+          <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+        </boxed-text>
+      </sec>
+      <sec id="Guselkumab.CHEMICAL_FORMULA_AND_STRUCTUR">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Guselkumab.T1" position="anchor" orientation="portrait">
+          <table>
+            <thead>
+              <tr>
+                <th id="hd_h_Guselkumab.T1_1_1_1_1" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Guselkumab.T1_1_1_1_2" rowspan="1" colspan="1">CAS REGISTRY NUMBER</th>
+                <th id="hd_h_Guselkumab.T1_1_1_1_3" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Guselkumab.T1_1_1_1_4" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Guselkumab.T1_1_1_1_1" rowspan="1" colspan="1">Guselkumab</td>
+                <td headers="hd_h_Guselkumab.T1_1_1_1_2" rowspan="1" colspan="1">
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://381127047">1350289-85-8</ext-link>
+                </td>
+                <td headers="hd_h_Guselkumab.T1_1_1_1_3" rowspan="1" colspan="1">Monoclonal Antibody</td>
+                <td headers="hd_h_Guselkumab.T1_1_1_1_4" rowspan="1" colspan="1">Not Available</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Guselkumab.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 26 June 2018</p>
+        <ref-list id="Guselkumab.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Guselkumab.R1">
+            <mixed-citation publication-type="other">Reuben A. Hepatotoxicity of immunosuppressive drugs. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2011, pp. 569-91.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of immunosuppressive agents; does not mention guselkumab specifically but discusses the problems of reactivation of hepatitis B and states that "the biological immunosuppressants are largely free from hepatotoxicity, with the exception of the TNF alpha antagonists").</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Guselkumab.R2">
+            <mixed-citation publication-type="other">Chabner BA, Barnes J, Neal J, Olson E, Mujagiv H, Sequist L, Wilson W, et al. Targeted therapies: tyrosine kinase inhibitors, monoclonal antibodies, and cytokines. In, Brunton LL, Chabner BA, Knollman BC, eds. Goodman &#x00026; Gilman's the pharmacological basis of therapeutics. 12th ed. New York: McGraw-Hill, 2011, pp. 1731-53.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Guselkumab.R3">
+            <mixed-citation publication-type="journal">Leonardi CL, Kimball AB, Papp KA, Yeilding N, Guzzo C, Wang Y, Li S, et al.; PHOENIX 1 study investigators. Efficacy and safety of ustekinumab, a human interleukin-12/23 monoclonal antibody, in patients with psoriasis: 76-week results from a randomised, double-blind, placebo-controlled trial (PHOENIX 1). Lancet 2008; 371 (9625): 1665-74. <annotation><p><italic toggle="yes">(Among 766 patients with psoriasis treated with 1 of 2 doses of ustekinumab or placebo for 12 weeks, response rates were 67% and 66% with ustekinumab vs 3% with placebo, and side effects were similar and "results of laboratory results were much the same" in the 3 groups).</italic></p></annotation><pub-id pub-id-type="pmid">18486739</pub-id></mixed-citation>
+          </ref>
+          <ref id="Guselkumab.R4">
+            <mixed-citation publication-type="journal">Papp KA, Langley RG, Lebwohl M, Krueger GG, Szapary P, Yeilding N, Guzzo C, et al.; PHOENIX 2 study investigators. Efficacy and safety of ustekinumab, a human interleukin-12/23 monoclonal antibody, in patients with psoriasis: 52-week results from a randomised, double-blind, placebo-controlled trial (PHOENIX 2). Lancet 2008; 371 (9625): 1675-84. <annotation><p><italic toggle="yes">(Among 1230 patients with psoriasis treated for 12 weeks with 1 of 2 doses of ustekinumab or placebo, clinical response rates were 67% and 76% with ustekinumab vs 4% with placebo, and "rates of laboratory abnormalities were similar between groups, and no differences were noted in liver aminotransferase concentrations").</italic></p></annotation><pub-id pub-id-type="pmid">18486740</pub-id></mixed-citation>
+          </ref>
+          <ref id="Guselkumab.R5">
+            <mixed-citation publication-type="journal">Gottlieb A, Menter A, Mendelsohn A, Shen YK, Li S, Guzzo C, Fretzin S, et al. Ustekinumab, a human interleukin 12/23 monoclonal antibody, for psoriatic arthritis: randomised, double-blind, placebo-controlled, crossover trial. Lancet 2009; 373 (9664): 633-40. <annotation><p><italic toggle="yes">(Among 146 patients with psoriatic arthritis treated with either ustekinumab or placebo, responses at week 12 were more frequent with ustekinumab [42% vs 10%] and, while overall rates of adverse events were similar [61% vs 63%], ALT elevations occurred in 4% of ustekinumab vs 1% of placebo recipients).</italic></p></annotation><pub-id pub-id-type="pmid">19217154</pub-id></mixed-citation>
+          </ref>
+          <ref id="Guselkumab.R6">
+            <mixed-citation publication-type="journal">Griffiths CE, Strober BE, van de Kerkhof P, Ho V, Fidelus-Gort R, Yeilding N, Guzzo C, et al.; ACCEPT Study Group. Comparison of ustekinumab and etanercept for moderate-to-severe psoriasis. N Engl J Med 2010; 362: 118-28. <annotation><p><italic toggle="yes">(Among 903 patients with psoriasis treated with 1 of 2 doses of ustekinumab vs etanercept for 12 weeks, clinical response rates were higher with ustekinumab [68-74% vs 57%], while rates of ALT elevations were similar [0.5-0.9% vs 1.2%]).</italic></p></annotation><pub-id pub-id-type="pmid">20071701</pub-id></mixed-citation>
+          </ref>
+          <ref id="Guselkumab.R7">
+            <mixed-citation publication-type="journal">Opel D, Economidi A, Chan D, Wasfi Y, Mistry S, Vergou T, Antoniou C, Sofen H. Two cases of hepatitis B in patients with moderate to severe psoriasis with ustekinumab. J Drugs Dermatol 2012; 11: 1498-501. <annotation><p><italic toggle="yes">(Two men, 33 and 40 years old, with severe psoriasis developed acute hepatitis B during ustekinumab therapy and recovered with clearance of HBsAg).</italic></p></annotation><pub-id pub-id-type="pmid">23377523</pub-id></mixed-citation>
+          </ref>
+          <ref id="Guselkumab.R8">
+            <mixed-citation publication-type="journal">Chiu HY, Chen CH, Wu MS, Cheng YP, Tsai TF. The safety profile of ustekinumab in the treatment of patients with psoriasis and concurrent hepatitis B or C. Br J Dermatol 2013; 169: 1295-303. <annotation><p><italic toggle="yes">(Among 18 patients with psoriasis and concurrent hepatitis B or C, reactivation of HBV occurred in 2 of 11 with HBsAg, but with a rise in HBV DNA levels only, without symptoms or ALT elevations, while reactivation of HCV occurred in 1 of 4 patients marked by a rise in HCV RNA without change in ALT).</italic></p></annotation><pub-id pub-id-type="pmid">23746170</pub-id></mixed-citation>
+          </ref>
+          <ref id="Guselkumab.R9">
+            <mixed-citation publication-type="journal">Motaparthi K, Stanisic V, Van Voorhees AS, Lebwohl MG, Hsu S; Medical Board of the National Psoriasis Foundation. From the Medical Board of the National Psoriasis Foundation: Recommendations for screening for hepatitis B infection prior to initiating anti-tumor necrosis factor-alfa inhibitors or other immunosuppressive agents in patients with psoriasis. J Am Acad Dermatol 2014; 70: 178-86. <annotation><p><italic toggle="yes">(Mentions that little is known about the effects of ustekinumab on HBV infection, but that screening for hepatitis B markers is "advisable" before its use).</italic></p></annotation><pub-id pub-id-type="pmid">24220724</pub-id></mixed-citation>
+          </ref>
+          <ref id="Guselkumab.R10">
+            <mixed-citation publication-type="journal">Sofen H, Smith S, Matheson RT, Leonardi CL, Calderon C, Brodmerkel C, Li K, et al. Guselkumab (an IL-23-specific mAb) demonstrates clinical and molecular response in patients with moderate-to-severe psoriasis. J Allergy Clin Immunol 2014; 133: 1032-40. <annotation><p><italic toggle="yes">(Among 24 patients with moderate-to-severe psoriasis treated with a single dose of guselkumab [10, 30, 100 or 300 mg] or placebo, clinical responses occurred in 60% to 100% of those given the higher doses but in no placebo recipient; the adverse events were similar in the 5 groups and there were no serious adverse events).</italic></p></annotation><pub-id pub-id-type="pmid">24679469</pub-id></mixed-citation>
+          </ref>
+          <ref id="Guselkumab.R11">
+            <mixed-citation publication-type="journal">Gordon KB, Duffin KC, Bissonnette R, Prinz JC, Wasfi Y, Li S, Shen YK, et al. A phase 2 trial of guselkumab versus adalimumab for plaque psoriasis. N Engl J Med 2015; 373: 136-44. <annotation><p><italic toggle="yes">(Among 293 patients with moderate-to-severe plaque psoriasis treated with one of 5 regimens of guselkumab vs placebo or adalimumab for 16 weeks, clinical improvements were greater with higher doses of guselkumab while rates of adverse events were similar).</italic></p></annotation><pub-id pub-id-type="pmid">26154787</pub-id></mixed-citation>
+          </ref>
+          <ref id="Guselkumab.R12">
+            <mixed-citation publication-type="journal">Blauvelt A, Papp KA, Griffiths CE, Randazzo B, Wasfi Y, Shen YK, Li S, et al. Efficacy and safety of guselkumab, an anti-interleukin-23 monoclonal antibody, compared with adalimumab for the continuous treatment of patients with moderate to severe psoriasis: Results from the phase III, double-blinded, placebo- and active comparator-controlled VOYAGE 1 trial. J Am Acad Dermatol 2017; 76: 405-17. <annotation><p><italic toggle="yes">(Among 837 patients with psoriasis treated with guselkumab [329], placebo [174] or adalimumab [334], clinical responses were more frequent with guselkumab [85%] than placebo [7%] or adalimumab [66%], while adverse event rates were similar; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">28057360</pub-id></mixed-citation>
+          </ref>
+          <ref id="Guselkumab.R13">
+            <mixed-citation publication-type="journal">Reich K, Armstrong AW, Foley P, Song M, Wasfi Y, Randazzo B, Li S, et al. Efficacy and safety of guselkumab, an anti-interleukin-23 monoclonal antibody, compared with adalimumab for the treatment of patients with moderate to severe psoriasis with randomized withdrawal and retreatment: Results from the phase III, double-blind, placebo- and active comparator-controlled VOYAGE 2 trial. J Am Acad Dermatol 2017; 76 (3): 418-31. <annotation><p><italic toggle="yes">(Among 992 patients with psoriasis treated with guselkumab [496], placebo [280] or adalimumab [248], clinical responses were more frequent with guselkumab [84%] than placebo [9%] or adalimumab, while adverse event rates were similar and 1% of both treated groups developed a serious infection; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">28057361</pub-id></mixed-citation>
+          </ref>
+          <ref id="Guselkumab.R14">
+            <mixed-citation publication-type="journal">Langley RG, Tsai TF, Flavin S, Song M, Randazzo B, Wasfi Y, Jiang J, et al. Efficacy and safety of guselkumab in patients with psoriasis who have an inadequate response to ustekinumab: Results of the randomized, double-blind, Phase 3 NAVIGATE trial. Br J Dermatol 2018; 178: 114-23. <annotation><p><italic toggle="yes">(Among 268 patients with psoriasis who had an inadequate response to a 16-week course of ustekinumab, response rates after 52 weeks were greater in those who switched to guselkumab [36%] than in those who remained on ustekinumab [17%], while adverse events were more frequent with guselkumab [64% vs 56%] including infections requiring antibiotics [16% vs 10%]; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">28635018</pub-id></mixed-citation>
+          </ref>
+          <ref id="Guselkumab.R15">
+            <mixed-citation publication-type="journal">Nakamura M, Lee K, Jeon C, Sekhon S, Afifi L, Yan D, Lee K, et al. Guselkumab for the treatment of psoriasis: a review of phase III trials. Dermatol Ther (Heidelb) 2017; 7: 281-92. <annotation><p><italic toggle="yes">(Summary of results of 2 phase III randomized controlled trials of guselkumab in psoriasis [Blauvent 2017, Reich 2017]; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">28639011</pub-id></mixed-citation>
+          </ref>
+          <ref id="Guselkumab.R16">
+            <mixed-citation publication-type="journal">Smolen JS, Agarwal SK, Ilivanova E, Xu XL, Miao Y, Zhuang Y, Nnane I, et al. A randomised phase II study valuating the efficacy and safety of subcutaneously administered ustekinumab and guselkumab in patients with active rheumatoid arthritis despite treatment with methotrexate. Ann Rheum Dis 2017; 76: 831-9. <annotation><p><italic toggle="yes">(Among 274 patients with rheumatoid arthritis and an inadequate response to methotrexate, response rates were similar at week 28 after adding guselkumab [41%], ustekinumab [54%] or placebo [40%], while adverse event rates were similar in the 3 groups and serious infections were rare [~1%] in both groups treated with biologics).</italic></p></annotation><pub-id pub-id-type="pmid">28087506</pub-id></mixed-citation>
+          </ref>
+          <ref id="Guselkumab.R17">
+            <mixed-citation publication-type="journal">Guselkumab (Tremfya) for psoriasis. Med Lett Drugs Ther 2017; 59 (1533): 179-80. <annotation><p><italic toggle="yes">(Concise review of the mechanism of action, clinical efficacy, safety and costs of guselkumab shortly after its approval as therapy of psoriasis in the US; mentions that hepatic enzyme elevations occurred in 2.6% of patients compared to 1.9% of controls and that reactivation of tuberculosis has been reported with its use).</italic></p></annotation><pub-id pub-id-type="pmid">29125591</pub-id></mixed-citation>
+          </ref>
+          <ref id="Guselkumab.R18">
+            <mixed-citation publication-type="journal">Deodhar A, Gottlieb AB, Boehncke WH, Dong B, Wang Y, Zhuang Y, Barchuk W, CNTO1959PSA2001 Study Group. Efficacy and safety of guselkumab in patients with active psoriatic arthritis: a randomised, double-blind, placebo-controlled, phase 2 study. Lancet 2018; 391 (10136): 2213-24. <annotation><p><italic toggle="yes">(Among 149 patients with psoriatic arthritis treated with guselkumab or placebo for 24 weeks, clinical responses were more frequent with guselkumab and side effects were mild, ALT elevations occurring in 9% vs 1%, although none were associated with symptoms or jaundice and none required early discontinuation of treatment).</italic></p></annotation><pub-id pub-id-type="pmid">29893222</pub-id></mixed-citation>
+          </ref>
+          <ref id="Guselkumab.R19">
+            <mixed-citation publication-type="journal">Terui T, Kobayashi S, Okubo Y, Murakami M, Hirose K, Kubo H. Efficacy and safety of guselkumab, an anti-interleukin 23 monoclonal antibody, for palmoplantar pustulosis: a randomized clinical trial. JAMA Dermatol 2018; 154: 309-16. <annotation><p><italic toggle="yes">(Among 49 patients with palmoplantar pustulosis treated with guselkumab or placebo in a 24 week trial, severity index scores improved more with guselkumab than placebo, while adverse event rates were similar and changes in &#x0201c;laboratory values were not clinically relevant).</italic></p></annotation><pub-id pub-id-type="pmid">29417135</pub-id></mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec id="Guselkumab.OTHER_REFERENCE_LINKS" sec-type="link-group">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=(theophylline/AE)+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D%3A%222999/12/31%22%5BEDat%5D)">Recent References on Guselkumab: from PubMed.gov</ext-link>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=theophylline">Trials on Guselkumab: from ClinicalTrials.gov</ext-link>
+            </p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

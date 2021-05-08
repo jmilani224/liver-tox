@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Edoxaban" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Edoxaban</book-part-id>
+      <title-group>
+        <title>Edoxaban</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>9</day>
+          <month>2</month>
+          <year>2018</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Edaravone" document-type="chapter">Edaravone</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Efalizumab" document-type="chapter">Efalizumab</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Edoxaban.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Edoxaban.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Edoxaban is an oral, small molecule inhibitor of factor Xa which is used as an anticoagulant to decrease the risk of venous thromboses, systemic embolization and stroke in patients with atrial fibrillation, and as treatment of deep vein thrombosis and pulmonary embolism to prevent thrombotic complications. Edoxaban has been linked to a low rate of serum aminotransferase elevations during therapy, but has not been implicated in cases of clinically apparent acute liver injury.</p>
+        </sec>
+        <sec id="Edoxaban.Background">
+          <title>Background</title>
+          <p>Edoxaban (e dox' a ban) is a selective inhibitor of the coagulation factor Xa, the last and rate controlling step in the generation of thrombin, the final intermediate in blood coagulation. Inhibiting thrombin prevents the conversion of fibrinogen to fibrin and subsequent cross linking of fibrin monomers, platelet activation and amplification of coagulation activation. Edoxaban has been shown to be as effective as warfarin in preventing stroke and systemic embolization in patients with atrial fibrillation. Clinical trials have also shown that edoxaban can decrease the risk of complications of deep vein thrombosis and pulmonary embolism. Edoxaban was approved for use in the United States in 2015, the fourth direct factor Xa inhibitor to be approved. Current indications are for prevention of stroke and systemic embolism in patients with nonvalvular atrial fibrillation and for treatment of patients with deep vein thrombosis and pulmonary embolism. Edoxaban is available in 15, 30 and 60 mg tablets under the commercial name Savaysa. The usual dose is 60 mg daily. Unlike warfarin, edoxaban and the other oral direct thrombin and factor Xa inhibitors do not require monitoring of bleeding time or INR and rarely require dose adjustments. Side effects are not common, but can include bleeding, headache, gastrointestinal upset and rash. Rare, but potential severe adverse reactions include major bleeding including hemorrhagic stroke.</p>
+        </sec>
+        <sec id="Edoxaban.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>Edoxaban is associated with serum aminotransferase elevations &#x02265;3 times the upper limit of normal in 2% to 5% of treated patients. This rate is similar or lower than rates with warfarin or comparator arms. The elevations are generally transient and not associated with symptoms or jaundice. In premarketing studies, no instances of clinically apparent liver injury were reported, but experience in large numbers of patients treated for extend periods of time is limited.</p>
+          <p>Likelihood score: E* (suspected but unproven cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Edoxaban.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>Edoxaban is eliminated largely unchanged in the urine and has minimal hepatic metabolism. It is a substrate of P-glycoprotein and its serum concentrations can be affected by inducers (rifampin) and inhibitors of this transport protein. The cause of the serum enzyme elevations during therapy is unknown, but the rate of such elevations was usually lower or no different than with comparator anticoagulants.</p>
+        </sec>
+        <sec id="Edoxaban.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>The serum enzyme elevations during edoxaban therapy have been mild-to-moderate in severity, but asymptomatic and rapidly reversible often even without stopping therapy. Clinically apparent liver injury due to edoxaban appears to be rare, if it occurs at all. There is no reason to suspect that there is cross sensitivity to hepatic injury among the various anticoagulants including other factor Xa inhibitors.</p>
+          <p>Drug Class: <related-object source-id="livertox" document-id="Anticoagulants">Antithrombotic Agents</related-object>, <related-object source-id="livertox" document-id="Anticoagulants">Anticoagulants</related-object></p>
+          <p>Other Drugs in the Subclass, Anticoagulants, Factor Xa Antagonists: <related-object source-id="livertox" document-id="Apixaban">Apixaban</related-object>, <related-object source-id="livertox" document-id="Betrixaban">Betrixaban</related-object>, <related-object source-id="livertox" document-id="Fondaparinux">Fondaparinux</related-object>, <related-object source-id="livertox" document-id="Rivaroxaban">Rivaroxaban</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Edoxaban.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <boxed-text position="anchor" id="Edoxaban.BPI" orientation="portrait">
+          <p>
+            <bold>REPRESENTATIVE TRADE NAMES</bold>
+          </p>
+          <p>Edoxaban &#x02013; Savaysa&#x000ae;</p>
+          <p>
+            <bold>DRUG CLASS</bold>
+          </p>
+          <p>Anticoagulants</p>
+          <p>
+            <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Edoxaban">COMPLETE LABELING</ext-link>
+          </p>
+          <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+        </boxed-text>
+      </sec>
+      <sec id="Edoxaban.CHEMICAL_FORMULAS_AND_STRUCTURE">
+        <title>CHEMICAL FORMULAS AND STRUCTURES</title>
+        <table-wrap id="Edoxaban.T1" position="anchor" orientation="portrait">
+          <table>
+            <thead>
+              <tr>
+                <th id="hd_h_Edoxaban.T1_1_1_1_1" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Edoxaban.T1_1_1_1_2" rowspan="1" colspan="1">CAS REGISTRY NO.</th>
+                <th id="hd_h_Edoxaban.T1_1_1_1_3" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Edoxaban.T1_1_1_1_4" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Edoxaban.T1_1_1_1_1" rowspan="1" colspan="1">Edoxaban</td>
+                <td headers="hd_h_Edoxaban.T1_1_1_1_2" rowspan="1" colspan="1">
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135263753">480449-70-5</ext-link>
+                </td>
+                <td headers="hd_h_Edoxaban.T1_1_1_1_3" rowspan="1" colspan="1">C24-H30-Cl-N7-O4-S</td>
+                <td headers="hd_h_Edoxaban.T1_1_1_1_4" rowspan="1" colspan="1">
+                  <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Edoxaban_structure.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait">
+                    <alt-text>Image of Edoxaban Chemical Structure</alt-text>
+                  </graphic>
+                </td>
+              </tr>
+              <tr>
+                <td headers="hd_h_Edoxaban.T1_1_1_1_1" rowspan="1" colspan="1">Apixaban</td>
+                <td headers="hd_h_Edoxaban.T1_1_1_1_2" rowspan="1" colspan="1">
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135252374">503612-47-3</ext-link>
+                </td>
+                <td headers="hd_h_Edoxaban.T1_1_1_1_3" rowspan="1" colspan="1">C25-H25-N5-O4</td>
+                <td headers="hd_h_Edoxaban.T1_1_1_1_4" rowspan="1" colspan="1">
+                  <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Apixaban_Structure.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait">
+                    <alt-text>Image of Apixaban Chemical Structure</alt-text>
+                  </graphic>
+                </td>
+              </tr>
+              <tr>
+                <td headers="hd_h_Edoxaban.T1_1_1_1_1" rowspan="1" colspan="1">Rivaroxaban</td>
+                <td headers="hd_h_Edoxaban.T1_1_1_1_2" rowspan="1" colspan="1">
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135213418">366789-02-8</ext-link>
+                </td>
+                <td headers="hd_h_Edoxaban.T1_1_1_1_3" rowspan="1" colspan="1">C19-H18-Cl-N3-O5-S</td>
+                <td headers="hd_h_Edoxaban.T1_1_1_1_4" rowspan="1" colspan="1">
+                  <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Rivaroxaban_Structure.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait">
+                    <alt-text>Image of Rivaroxaban Chemical Structure</alt-text>
+                  </graphic>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Edoxaban.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 09 February 2018</p>
+        <ref-list id="Edoxaban.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Edoxaban.R1">
+            <mixed-citation publication-type="other">Zimmerman HJ. Antithrombotic agents. Drugs used in cardiovascular disease. In, Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999, pp. 639-42.<annotation><p><italic toggle="yes">(Textbook of hepatotoxicity published in 1999, well before the availability of edoxaban and the direct factor Xa inhibitors).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Edoxaban.R2">
+            <mixed-citation publication-type="other">De Marzio DH, Navarro VJ. Hepatotoxicity of cardiovascular and antidiabetic drugs: antihypertensives. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013, p. 519-53.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of cardiovascular drugs does not discuss the anticoagulants).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Edoxaban.R3">
+            <mixed-citation publication-type="other">Weitz JI. Blood coagulation and anticoagulant, fibrinolytic, and antiplatelet drugs. In, Brunton LL, Chabner BA, Knollman BC, eds. Goodman &#x00026; Gilman's the pharmacological basis of therapeutics. 12th ed. New York: McGraw-Hill, 2011, pp. 849-76.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Edoxaban.R4">
+            <mixed-citation publication-type="journal">Reuben A, Koch DG, Lee WM; Acute Liver Failure Study Group. Drug-induced acute liver failure: results of a U.S. multicenter, prospective study. Hepatology 2010; 52: 2065-76. <annotation><p><italic toggle="yes">(Among 1198 patients with acute liver failure enrolled in a US prospective study between 1998 and 2007, 133 were attributed to drug induced liver injury, but none were due to anticoagulants).</italic></p></annotation><pub-id pub-id-type="pmid">20949552</pub-id></mixed-citation>
+          </ref>
+          <ref id="Edoxaban.R5">
+            <mixed-citation publication-type="journal">Weitz JI, Connolly SJ, Patel I, Salazar D, Rohatagi S, Mendell J, Kastrissios H, et al. Randomised, parallel-group, multicentre, multinational phase 2 study comparing edoxaban, an oral factor Xa inhibitor, with warfarin for stroke prevention in patients with atrial fibrillation. Thromb Haemost 2010; 104: 633-41. <annotation><p><italic toggle="yes">(Among 1,146 patients with atrial fibrillation and risk of stroke who were treated with edoxaban [varying regimens] or warfarin for 3 months, rates of stroke were similar in all groups and ALT elevations occurred in 15 of 866 [1.7%] on edoxaban and 4 of 245 [1.6%] on warfarin; concurrent ALT, Alk P and bilirubin elevations in 2 edoxaban treated subjects were attributed to other conditions [gallstones and heart failure]).</italic></p></annotation><pub-id pub-id-type="pmid">20694273</pub-id></mixed-citation>
+          </ref>
+          <ref id="Edoxaban.R6">
+            <mixed-citation publication-type="journal">Raskob G, Cohen AT, Eriksson BI, Puskas D, Shi M, Bocanegra T, Weitz JI. Oral direct factor Xa inhibition with edoxaban for thromboprophylaxis after elective total hip replacement. A randomised double-blind dose-response study. Thromb Haemost 2010; 104: 642-9. <annotation><p><italic toggle="yes">(Among 903 patients undergoing hip replacement who received either edoxaban [15, 30, 60 or 90 mg daily] or dalteparin for 7 to 10 days, rates of venous thromboembolism was less with edoxaban [11-20%] than dalteparin [44%], while rates of ALT elevations above 3 times ULN were similar [2.4-4.3% vs 2.9%]).</italic></p></annotation><pub-id pub-id-type="pmid">20589317</pub-id></mixed-citation>
+          </ref>
+          <ref id="Edoxaban.R7">
+            <mixed-citation publication-type="journal">Treatment of atrial fibrillation. Treat Guidel Med Lett 2010; 8 (97): 65-70; <annotation><p><italic toggle="yes">(Concise review of treatment of atrial fibrillation including use of apixaban and rivaroxaban; does not mention hepatotoxicity or ALT elevations).</italic></p></annotation><pub-id pub-id-type="pmid">20733547</pub-id></mixed-citation>
+          </ref>
+          <ref id="Edoxaban.R8">
+            <mixed-citation publication-type="journal">Hokusai-VTE Investigators, B&#x000fc;ller HR, D&#x000e9;cousus H, Grosso MA, Mercuri M, Middeldorp S, Prins MH, Raskob GE, et al. Edoxaban versus warfarin for the treatment of symptomatic venous thromboembolism. N Engl J Med 2013; 369: 1406-15. <annotation><p><italic toggle="yes">(Among 4921 patients with deep venous thrombosis and 3319 with pulmonary embolism treated with edoxaban [30 or 60 mg daily] of warfarin for 3 to 12 months, recurrent thromboembolism was similar with either agent [3.2% vs 3.5%], as were adverse events with ALT elevations above 3 times ULN in 2.1% vs 2.3%, concurrent ALT and bilirubin elevations in 0.2% vs 0.1%, and no instance of a serious hepatic adverse event).</italic></p></annotation><pub-id pub-id-type="pmid">23991658</pub-id></mixed-citation>
+          </ref>
+          <ref id="Edoxaban.R9">
+            <mixed-citation publication-type="journal">Fuji T, Wang CJ, Fujita S, Kawai Y, Nakamura M, Kimura T, Ibusuki K, et al. Safety and efficacy of edoxaban, an oral factor Xa inhibitor, versus enoxaparin for thromboprophylaxis after total knee arthroplasty: the STARS E-3 trial. Thromb Res 2014; 134: 1198-204. <annotation><p><italic toggle="yes">(Among 594 patients undergoing hip replacement treated with either edoxaban or enoxaparin for 11-14 days, thromboembolism occurred in 7% vs 14%, while ALT elevations above 3 times ULN occurred in 0.6% vs 6%).</italic></p></annotation><pub-id pub-id-type="pmid">25294589</pub-id></mixed-citation>
+          </ref>
+          <ref id="Edoxaban.R10">
+            <mixed-citation publication-type="journal">New oral anticoagulants for acute venous thromboembolism. Med Lett Drugs Ther 2014; 56 (1433): 3-4. <annotation><p><italic toggle="yes">(Brief comparison of warfarin, rivaroxaban, apixaban and dabigatran as anticoagulants for therapy of venous thromboembolism, all of which have similar efficacy, warfarin requiring regular monitoring of INR whereas the others do not).</italic></p></annotation><pub-id pub-id-type="pmid">24419296</pub-id></mixed-citation>
+          </ref>
+          <ref id="Edoxaban.R11">
+            <mixed-citation publication-type="journal">Caldeira D, Barra M, Santos AT, de Abreu D, Pinto FJ, Ferreira JJ, Costa J. Risk of drug-induced liver injury with the new oral anticoagulants: systematic review and meta-analysis. Heart 2014; 100: 550-6. <annotation><p><italic toggle="yes">(Systematic review of 29 controlled trials of oral anticoagulants in 152,116 patients focusing on risk of drug induced liver injury [including 1 trial with 3878 patients on edoxaban] found no increase in rate of serum ALT or AST elevations above 3 times ULN [2.1% vs 2.3%] or combined enzyme and bilirubin elevations above 2 times ULN [0.2% vs 0.08%] with edoxaban therapy compared to control patients on warfarin, and concludes that the direct Factor Xa inhibitors "do not increase the risk of DILI").</italic></p></annotation><pub-id pub-id-type="pmid">24476812</pub-id></mixed-citation>
+          </ref>
+          <ref id="Edoxaban.R12">
+            <mixed-citation publication-type="journal">Fuji T, Fujita S, Kawai Y, Nakamura M, Kimura T, Fukuzawa M, Abe K, Tachibana S. Efficacy and safety of edoxaban versus enoxaparin for the prevention of venous thromboembolism following total hip arthroplasty: STARS J-V. Thromb J. 2015 Aug 12; 13:27. <annotation><p><italic toggle="yes">(Among 610 patients undergoing hip replacement who were treated with edoxaban [30 mg daily] or enoxaparin [subcutaneously twice daily] for 11-14 days, venous thromboembolism events occurred in 2.4% vs 6.9% with no increase in bleeding episodes, and ALT elevations in 12% vs 42%, being above 3 times ULN in 3.3% vs 13.7%).</italic></p></annotation><pub-id pub-id-type="pmid">26269694</pub-id></mixed-citation>
+          </ref>
+          <ref id="Edoxaban.R13">
+            <mixed-citation publication-type="journal">Liakoni E, R&#x000e4;tz Bravo AE, Kr&#x000e4;henb&#x000fc;hl S. Hepatotoxicity of new oral anticoagulants (NOACs). Drug Saf 2015; 38: 711-20. <annotation><p><italic toggle="yes">(Review of published literature and data from pharmacovigilance registries on liver injury due to new oral anticoagulants including edoxaban, apixaban and rivaroxaban concludes that hepatotoxicity is possible with these agents, but is rare and does not warrant routine monitoring).</italic></p></annotation><pub-id pub-id-type="pmid">26138527</pub-id></mixed-citation>
+          </ref>
+          <ref id="Edoxaban.R14">
+            <mixed-citation publication-type="journal">Chalasani N, Bonkovsky HL, Fontana R, Lee W, Stolz A, Talwalkar J, Reddy KR, et al.; United States Drug Induced Liver Injury Network. Features and outcomes of 899 patients with drug-induced liver injury: The DILIN Prospective Study. Gastroenterology 2015; 148: 1340-52.e7. <annotation><p><italic toggle="yes">(Among 899 cases of drug induced liver injury enrolled in a US prospective study between 2004 and 2013, two were attributed to antithrombotic agents [prasugrel and dalteparin], but none to edoxaban or other direct factor Xa inhibitors).</italic></p></annotation><pub-id pub-id-type="pmid">25754159</pub-id></mixed-citation>
+          </ref>
+          <ref id="Edoxaban.R15">
+            <mixed-citation publication-type="journal">Edoxaban (Savaysa)--the fourth new oral anticoagulant. Med Lett Drugs Ther 2015; 57 (1465): 43-5. <annotation><p><italic toggle="yes">(Concise review of efficacy and safety of edoxaban for prevention of stroke or systemic embolization in patients with nonvalvular atrial fibrillation, which is equivalent or better in efficacy than warfarin with a lower rate of bleeding; no mention of hepatotoxicity or ALT elevations).</italic></p></annotation><pub-id pub-id-type="pmid">25853577</pub-id></mixed-citation>
+          </ref>
+          <ref id="Edoxaban.R16">
+            <mixed-citation publication-type="journal">Kawai Y, Fuji T, Fujita S, Kimura T, Ibusuki K, Abe K, Tachibana S. Edoxaban versus enoxaparin for the prevention of venous thromboembolism after total knee or hip arthroplasty: pooled analysis of coagulation biomarkers and primary efficacy and safety endpoints from two phase 3 trials. Thromb J 2016; 14: 48. <annotation><p><italic toggle="yes"> (Among 716 patients undergoing total knee replacement in two trials in Asia comparing edoxaban to enoxaparin given for 11-14 days, thromboembolic events were less common with edoxaban [5% vs 11] while bleeding and other adverse event rates were similar; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">27980462</pub-id></mixed-citation>
+          </ref>
+          <ref id="Edoxaban.R17">
+            <mixed-citation publication-type="journal">Goette A, Merino JL, Ezekowitz MD, Zamoryakhin D, Melino M, Jin J, Mercuri MF, et al.; ENSURE-AF investigators. Edoxaban versus enoxaparin-warfarin in patients undergoing cardioversion of atrial fibrillation (ENSURE-AF): a randomised, open-label, phase 3b trial. Lancet 2016; 388 (10055): 1995-2003. <annotation><p><italic toggle="yes"> (Among 2199 patients with atrial fibrillation undergoing cardioversion treated with edoxaban or enoxaparin-warfarin, major thrombotic events were rare [&#x0003c;1% vs 1%] as were major bleeding episodes [&#x0003c;1% vs &#x0003c;1%] and overall adverse event rates [30% vs 33%]; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">27590218</pub-id></mixed-citation>
+          </ref>
+          <ref id="Edoxaban.R18">
+            <mixed-citation publication-type="journal">Conway SE, Hwang AY, Ponte CD, Gums JG. Laboratory and clinical monitoring of direct acting oral anticoagulants: What clinicians need to know. Pharmacotherapy 2017; 37: 236-48. <annotation><p><italic toggle="yes">(Review and recommendations largely on use of coagulation tests to monitor oral anticoagulant therapy, but also concludes: "Hepatic function in otherwise healthy individuals can be assessed yearly or more frequently in those with hepatic impairment").</italic></p></annotation><pub-id pub-id-type="pmid">27983747</pub-id></mixed-citation>
+          </ref>
+          <ref id="Edoxaban.R19">
+            <mixed-citation publication-type="journal">Alonso A, MacLehose RF, Chen LY, Bengtson LG, Chamberlain AM, Norby FL, Lutsey PL. Prospective study of oral anticoagulants and risk of liver injury in patients with atrial fibrillation. Heart 2017; 103: 834-9. <annotation><p><italic toggle="yes"> (Analysis of a database on more than 1 million patients with nonvalvular atrial fibrillation on oral anticoagulants identified 960 hospitalizations with liver injury between 2011 and 2014, rates being highest for warfarin, intermediate for rivaroxaban, and lowest for apixaban and dabigatran; edoxaban was not included in the analyses having been approved for use in 2015).</italic></p></annotation><pub-id pub-id-type="pmid">28057799</pub-id></mixed-citation>
+          </ref>
+          <ref id="Edoxaban.R20">
+            <mixed-citation publication-type="journal">Nagaoki Y, Aikata H, Daijyo K, Teraoka Y, Shinohara F, Nakamura Y, Hatooka M, et al. Efficacy and safety of edoxaban for treatment of portal vein thrombosis following danaparoid sodium in patients with liver cirrhosis. Hepatol Res 2018; 48: 51-8. <annotation><p><italic toggle="yes">(Among 50 patients with cirrhosis and portal vein thrombosis treated with low moleular weight heparin followed by either warfarin or edoxaban for up to 6 months, portal vein thrombus reduction was greater with edoxaban and adverse event rates including gastrointestinal bleeding were similar; no mention of ALT elevations and there were no liver related severe adverse events).</italic></p></annotation><pub-id pub-id-type="pmid">28342265</pub-id></mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec id="Edoxaban.OTHER_REFERENCE_LINKS" sec-type="link-group">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=Edoxaban+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D%3A%222999/12/31%22%5BEDat%5D)">Recent References on Edoxaban: from PubMed.gov</ext-link>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Edoxaban">Trials on Edoxaban: from ClinicalTrials.gov</ext-link>
+            </p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

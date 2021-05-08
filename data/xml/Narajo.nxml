@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Narajo" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Narajo</book-part-id>
+      <title-group>
+        <title>Adverse Drug Reaction Probability Scale (Naranjo) in Drug Induced Liver Injury</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>4</day>
+          <month>5</month>
+          <year>2019</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="MVcausality" document-type="chapter">Maria and Victorino (M &#x00026; V) System of Causality Assessment in Drug Induced Liver Injury</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="rucam" document-type="chapter">Roussel Uclaf Causality Assessment Method (RUCAM) in Drug Induced Liver Injury</related-object>
+    </book-part-meta>
+    <body>
+      <p>The Adverse Drug Reaction (ADR) Probability Scale was developed in 1991 by Naranjo and coworkers from the University of Toronto and is often referred to as the Naranjo Scale. This scale was developed to help standardize assessment of causality for all adverse drug reactions and was not designed specifically for drug induced liver injury. The scale was also designed for use in controlled trials and registration studies of new medications, rather than in routine clinical practice. Nevertheless, it is simple to apply and widely used. Many publications on drug induced liver injury mention results of applying the ADR Probability Scale.</p>
+      <p>The ADR Probability Scale consists of 10 questions that are answered as either Yes, No, or &#x0201c;Do not know&#x0201d;. Different point values (-1, 0, +1 or +2) are assigned to each answer. A simplified version of the 10 questions is provided below:</p>
+      <list list-type="bullet">
+        <list-item>
+          <p>Are there previous conclusive reports of this reaction?</p>
+        </list-item>
+        <list-item>
+          <p>Did the adverse event appear after the drug was given?</p>
+        </list-item>
+        <list-item>
+          <p>Did the adverse reaction improve when the drug was discontinued or a specific antagonist was given?</p>
+        </list-item>
+        <list-item>
+          <p>Did the adverse reaction reappear upon readministering the drug?</p>
+        </list-item>
+        <list-item>
+          <p>Were there other possible causes for the reaction?</p>
+        </list-item>
+        <list-item>
+          <p>Did the adverse reaction reappear upon administration of placebo?</p>
+        </list-item>
+        <list-item>
+          <p>Was the drug detected in the blood or other fluids in toxic concentrations?</p>
+        </list-item>
+        <list-item>
+          <p>Was the reaction worsened upon increasing the dose? Or, was the reaction lessened upon decreasing the dose?</p>
+        </list-item>
+        <list-item>
+          <p>Did the patient have a similar reaction to the drug or a related agent in the past?</p>
+        </list-item>
+        <list-item>
+          <p>Was the adverse event confirmed by any other objective evidence?</p>
+        </list-item>
+      </list>
+      <p>The actual ADR Probability Scale form and instructions on how it is completed are provided below. Total scores range from -4 to +13; the reaction is considered definite if the score is 9 or higher, probable if 5 to 8, possible if 1 to 4, and doubtful if 0 or less.</p>
+      <p>While this scale includes all of the usual features that are important in assessing causality, the scale is not weighted for the most critical elements in judging the likelihood of drug induced liver injury, such as specific time to onset, criteria for time of recovery, and list of critical diagnoses to exclude, making the scale of limited use in assessing hepatotoxicity. The Naranjo scale also relies upon testing for drug levels, which is rarely helpful in idiosyncratic drug induced liver disease. Finally, the scale was designed for use in clinical trials, and points are subtracted if the reaction reappears with administration of placebo, which does not apply to the usual case of drug induced liver disease. Direct comparisons to the RUCAM system have shown that the ADR Probability Scale is easier to apply, but has less sensitivity and specificity in assigning causality to cases of drug induced liver injury.</p>
+      <sec id="Narajo.Naranjo_Algorithm__ADR_Probabilit">
+        <title>Naranjo Algorithm - ADR Probability Scale</title>
+        <p><inline-supplementary-material xmlns:xlink="http://www.w3.org/1999/xlink" xlink:title="media" xlink:href="Naranjoassessment.pdf" content-type="local-data">Naranjo Adverse Drug Reaction Probability Scale Worksheet</inline-supplementary-material> (PDF &#x02013; 100 KB)</p>
+        <p>The Naranjo Algorithm, or Adverse Drug Reaction Probability Scale, is a method by which to assess whether there is a causal relationship between an identified untoward clinical event and a drug using a simple questionnaire to assign probability scores.</p>
+        <sec id="Narajo.Adverse_Drug_Reaction_Probability">
+          <title>Adverse Drug Reaction Probability Scale</title>
+          <table-wrap id="Narajo.Tc" orientation="portrait" position="anchor">
+            <table frame="hsides" rules="groups">
+              <thead>
+                <tr>
+                  <th id="hd_h_Narajo.Tc_1_1_1_1" valign="top" align="left" scope="col" rowspan="1" colspan="1">Question</th>
+                  <th id="hd_h_Narajo.Tc_1_1_1_2" valign="top" align="left" scope="col" rowspan="1" colspan="1">Yes</th>
+                  <th id="hd_h_Narajo.Tc_1_1_1_3" valign="top" align="left" scope="col" rowspan="1" colspan="1">No</th>
+                  <th id="hd_h_Narajo.Tc_1_1_1_4" valign="top" align="left" scope="col" rowspan="1" colspan="1">Do Not Know</th>
+                  <th id="hd_h_Narajo.Tc_1_1_1_5" valign="top" align="left" scope="col" rowspan="1" colspan="1">Score</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td headers="hd_h_Narajo.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">
+                    <list list-type="order">
+                      <list-item>
+                        <label>1</label>
+                        <p>Are there previous conclusive reports on this reaction?</p>
+                      </list-item>
+                    </list>
+                  </td>
+                  <td headers="hd_h_Narajo.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">+1</td>
+                  <td headers="hd_h_Narajo.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">0</td>
+                  <td headers="hd_h_Narajo.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">0</td>
+                  <td headers="hd_h_Narajo.Tc_1_1_1_5" valign="top" align="left" rowspan="1" colspan="1"/>
+                </tr>
+                <tr>
+                  <td headers="hd_h_Narajo.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">2. Did the adverse event appear after the suspected drug was administered?</td>
+                  <td headers="hd_h_Narajo.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">+2</td>
+                  <td headers="hd_h_Narajo.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">-1</td>
+                  <td headers="hd_h_Narajo.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">0</td>
+                  <td headers="hd_h_Narajo.Tc_1_1_1_5" valign="top" align="left" rowspan="1" colspan="1"/>
+                </tr>
+                <tr>
+                  <td headers="hd_h_Narajo.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">3. Did the adverse event improve when the drug was discontinued or a specific antagonist was administered?</td>
+                  <td headers="hd_h_Narajo.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">+1</td>
+                  <td headers="hd_h_Narajo.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">0</td>
+                  <td headers="hd_h_Narajo.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">0</td>
+                  <td headers="hd_h_Narajo.Tc_1_1_1_5" valign="top" align="left" rowspan="1" colspan="1"/>
+                </tr>
+                <tr>
+                  <td headers="hd_h_Narajo.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">4. Did the adverse event reappear when the drug was readministered?</td>
+                  <td headers="hd_h_Narajo.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">+2</td>
+                  <td headers="hd_h_Narajo.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">-1</td>
+                  <td headers="hd_h_Narajo.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">0</td>
+                  <td headers="hd_h_Narajo.Tc_1_1_1_5" valign="top" align="left" rowspan="1" colspan="1"/>
+                </tr>
+                <tr>
+                  <td headers="hd_h_Narajo.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">5. Are there alternative causes that could on their own have caused the reaction?</td>
+                  <td headers="hd_h_Narajo.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">-1</td>
+                  <td headers="hd_h_Narajo.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">+2</td>
+                  <td headers="hd_h_Narajo.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">0</td>
+                  <td headers="hd_h_Narajo.Tc_1_1_1_5" valign="top" align="left" rowspan="1" colspan="1"/>
+                </tr>
+                <tr>
+                  <td headers="hd_h_Narajo.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">6. Did the reaction reappear when a placebo was given?</td>
+                  <td headers="hd_h_Narajo.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">-1</td>
+                  <td headers="hd_h_Narajo.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">+1</td>
+                  <td headers="hd_h_Narajo.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">0</td>
+                  <td headers="hd_h_Narajo.Tc_1_1_1_5" valign="top" align="left" rowspan="1" colspan="1"/>
+                </tr>
+                <tr>
+                  <td headers="hd_h_Narajo.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">7. Was the drug detected in blood or other fluids in concentrations known to be toxic?</td>
+                  <td headers="hd_h_Narajo.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">+1</td>
+                  <td headers="hd_h_Narajo.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">0</td>
+                  <td headers="hd_h_Narajo.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">0</td>
+                  <td headers="hd_h_Narajo.Tc_1_1_1_5" valign="top" align="left" rowspan="1" colspan="1"/>
+                </tr>
+                <tr>
+                  <td headers="hd_h_Narajo.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">8. Was the reaction more severe when the dose was increased or less severe when the dose was decreased?</td>
+                  <td headers="hd_h_Narajo.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">+1</td>
+                  <td headers="hd_h_Narajo.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">0</td>
+                  <td headers="hd_h_Narajo.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">0</td>
+                  <td headers="hd_h_Narajo.Tc_1_1_1_5" valign="top" align="left" rowspan="1" colspan="1"/>
+                </tr>
+                <tr>
+                  <td headers="hd_h_Narajo.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">9. Did the patient have a similar reaction to the same or similar drugs in any previous exposure?</td>
+                  <td headers="hd_h_Narajo.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">+1</td>
+                  <td headers="hd_h_Narajo.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">0</td>
+                  <td headers="hd_h_Narajo.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">0</td>
+                  <td headers="hd_h_Narajo.Tc_1_1_1_5" valign="top" align="left" rowspan="1" colspan="1"/>
+                </tr>
+                <tr>
+                  <td headers="hd_h_Narajo.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">10. Was the adverse event confirmed by any objective evidence?</td>
+                  <td headers="hd_h_Narajo.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">+1</td>
+                  <td headers="hd_h_Narajo.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">0</td>
+                  <td headers="hd_h_Narajo.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">0</td>
+                  <td headers="hd_h_Narajo.Tc_1_1_1_5" valign="top" align="left" rowspan="1" colspan="1"/>
+                </tr>
+                <tr>
+                  <td headers="hd_h_Narajo.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1"/>
+                  <td headers="hd_h_Narajo.Tc_1_1_1_2 hd_h_Narajo.Tc_1_1_1_3 hd_h_Narajo.Tc_1_1_1_4 hd_h_Narajo.Tc_1_1_1_5" colspan="4" valign="top" align="left" rowspan="1">
+                    <bold>Total Score:</bold>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+          </table-wrap>
+        </sec>
+      </sec>
+      <sec id="Narajo.Naranjo_Algorithm__ADR_Probabilit_1">
+        <title>Naranjo Algorithm - ADR Probability Scale</title>
+        <table-wrap id="Narajo.Td" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th id="hd_h_Narajo.Td_1_1_1_1" valign="top" align="center" scope="col" rowspan="1" colspan="1">Score</th>
+                <th id="hd_h_Narajo.Td_1_1_1_2" valign="top" align="left" scope="col" rowspan="1" colspan="1">Interpretation of Scores</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Narajo.Td_1_1_1_1" valign="top" align="center" scope="row" rowspan="1" colspan="1">
+                  <bold>Total Score</bold>
+                  <break/>
+                  <bold>&#x02265;9</bold>
+                </td>
+                <td headers="hd_h_Narajo.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1"><bold>Definite</bold>. The reaction (1) followed a reasonable temporal sequence after a drug or in which a toxic drug level had been established in body fluids or tissues, (2) followed a recognized response to the suspected drug, and (3) was confirmed by improvement on withdrawing the drug and reappeared on reexposure.</td>
+              </tr>
+              <tr>
+                <td headers="hd_h_Narajo.Td_1_1_1_1" valign="top" align="center" scope="row" rowspan="1" colspan="1">
+                  <bold>Total Score</bold>
+                  <break/>
+                  <bold>5 to 8</bold>
+                </td>
+                <td headers="hd_h_Narajo.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1"><bold>Probable</bold>. The reaction (1) followed a reasonable temporal sequence after a drug, (2) followed a recognized response to the suspected drug, (3) was confirmed by withdrawal but not by exposure to the drug, and (4) could not be reasonably explained by the known characteristics of the patient&#x02019;s clinical state.</td>
+              </tr>
+              <tr>
+                <td headers="hd_h_Narajo.Td_1_1_1_1" valign="top" align="center" scope="row" rowspan="1" colspan="1">
+                  <bold>Total Score</bold>
+                  <break/>
+                  <bold>1 to 4</bold>
+                </td>
+                <td headers="hd_h_Narajo.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1"><bold>Possible</bold>. The reaction (1) followed a temporal sequence after a drug, (2) possibly followed a recognized pattern to the suspected drug, and (3) could be explained by characteristics of the patient&#x02019;s disease.</td>
+              </tr>
+              <tr>
+                <td headers="hd_h_Narajo.Td_1_1_1_1" valign="top" align="center" scope="row" rowspan="1" colspan="1">
+                  <bold>Total Score</bold>
+                  <break/>
+                  <bold>&#x02264;0</bold>
+                </td>
+                <td headers="hd_h_Narajo.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1"><bold>Doubtful</bold>. The reaction was likely related to factors other than a drug.</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Narajo.Instructions_for_Using_the_ADR_Pr">
+        <title>Instructions for Using the ADR Probability Scale</title>
+        <p>The response &#x0201c;Do not know&#x0201d; should be used sparingly and only when the quality of the data does not permit a &#x0201c;Yes&#x0201d; or &#x0201c;No&#x0201d; answer. &#x0201c;Do not know&#x0201d; can be applicable if the information is not available and also if the question is inapplicable to the case. When more than one drug is involved or suspected, the ADR Probability Scale is usually applied separately to each of the possible etiologic agents, and the drug with the highest score should be considered the causative agent. In addition, the potential of interaction should be evaluated.</p>
+        <p><bold>Question 1</bold>. Are there previous conclusive reports on this reaction? The answer &#x0201c;Yes&#x0201d; (+1) applies if there have been two or more published reports in which the adverse reaction has been described in detail or if the adverse reaction is listed in a reliable source, such as a medical textbook, review article on the medication or on adverse drug reactions, or the product package insert. The response &#x0201c;No&#x0201d; applies when the adverse event has not been described previously or if only one report has been published, or if published reports were considered inconclusive or unconvincing. The answer &#x0201c;Do not know&#x0201d; is applicable only when there is no information, because the agent has not been available for an adequate period of time or has not been previously evaluated for this adverse reaction. The scores given for &#x0201c;No&#x0201d; and &#x0201c;Do not know&#x0201d; are the same (0), so it is not critical to decide between these two answers.</p>
+        <p><bold>Question 2</bold>. Did the adverse event appear after the suspected drug was administered? This question evaluates the temporal relationship between the reaction and administration of the medication. The answer &#x0201c;Yes&#x0201d; (+2) applies if there is definitive evidence that the adverse event occurred after the medication was started. &#x0201c;No&#x0201d; (-1) applies when the adverse event developed before the first dose of the drug. &#x0201c;Do not know&#x0201d; (0) applies if the information is not available or is unclear.</p>
+        <p><bold>Question 3.</bold> Did the adverse event improve when the drug was discontinued or a specific antagonist was administered? This question evaluates the response to dechallenge or stopping the medication. The answer &#x0201c;Yes&#x0201d; (+1) applies if the adverse event diminishes or disappears at any time after stopping the medication, or if the reaction disappears upon administration of a specific pharmacologic antagonist (for example, an anticholinergic given for a cholinergic reaction to physostigmine). The answer &#x0201c;No&#x0201d; (0) applies if the adverse event does not improve or improves in response to a nonspecific therapy or an antidote to another medication or treatment of the underlying disease. The answer &#x0201c;Do not know&#x0201d; (0) applies if the medication was not stopped or the subsequent course was unknown, inconclusive or unclear.</p>
+        <p><bold>Question 4</bold>. Did the adverse event reappear when the drug was readministered? This question evaluates the response to rechallenge or reexposure. An answer of &#x0201c;Yes&#x0201d; (+2) indicates that the medication was stopped, the adverse event resolved or improved, and there was an unequivocal reappearance or worsening of the reaction when the medicine was restarted in a similar dose and by the same route. The Naranjo scale also allows for a &#x0201c;Yes&#x0201d; if the causal association is well known and rechallenge cannot be done for clinical or ethical reasons. An answer of &#x0201c;No&#x0201d; (-1) only applies if rechallenge was done, but the adverse event did not reappear or worsen. The answer &#x0201c;Do not know&#x0201d; (0) applies if rechallenge was not done or information on rechallenge is not available or the reaction was ambiguous.</p>
+        <p><bold>Question 5</bold>. Are there alternative causes that could on their own have caused the reaction? This question assesses alternative explanations for the adverse event. Because adverse events are often nonspecific and can be manifestations of the disease being treated or an unrelated, concurrent disease or condition, other diagnoses need to be considered and excluded. The answer &#x0201c;No&#x0201d; (+2) applies if alternative causes have been excluded, based upon a systematic and complete evaluation, thus implicating the drug more strongly. A risk or susceptibility factor is not an alternative cause. The answer &#x0201c;Yes&#x0201d; (-1) applies when there is an alternative cause or explanation. &#x0201c;Do not know&#x0201d; (0) applies if the investigation of other causes is incomplete, inconclusive or was not done.</p>
+        <p><bold>Question 6</bold>. Did the reaction reappear when a placebo was given? This question applies to clinical research studies in which a placebo was administered. The answer &#x0201c;Yes&#x0201d; (-1) applies if the medication was stopped and the adverse reaction resolved or improved conclusively, and there was an unequivocal reappearance of the adverse event after administration of placebo (single or double blind). The answer &#x0201c;No&#x0201d; (+1) applies if the reaction did not reappear or worsen after administration of placebo. &#x0201c;Do not know&#x0201d; (0) applies if placebo challenge was not done or the results were inconclusive.</p>
+        <p><bold>Question 7</bold>. Was the drug detected in blood or other fluids in concentrations known to be toxic? This question applies specifically to dose dependent adverse reactions when blood, urine, tissue or other specimen concentrations of the medicine are available. The answer &#x0201c;Yes&#x0201d; (+1) applies if the concentration is in the accepted toxic or supratherapeutic range. &#x0201c;No&#x0201d; (0) applies if the concentration is below the toxic range. The answer &#x0201c;Do not know&#x0201d; (0) applies if drug levels are not available or are inconclusive.</p>
+        <p><bold>Question 8</bold>. Was the reaction more severe when the dose was increased or less severe when the dose was decreased? This question evaluates the dose response relationship of medication and the adverse reaction. &#x0201c;Yes&#x0201d; (+1) applies if the adverse event was more severe or worsened when the dose of the medication was increased, or was less severe and improved when the dose was decreased. &#x0201c;No&#x0201d; (0) applies if there was no appreciable change in the severity of the adverse event with dose modification. &#x0201c;Do not know&#x0201d; (0) applies if the dose or regimen was not altered or the information was not available or inconclusive.</p>
+        <p><bold>Question 9.</bold> Did the patient have a similar reaction to the same or similar drugs in any previous exposure? This question is directed at past medical history of adverse reactions to the same or a structurally related drug. &#x0201c;Yes&#x0201d; (+1) applies when there is documentation of a previous similar reaction to the specific drug or a related medication. &#x0201c;No&#x0201d; (0) applies when the patient does not have a previous exposure to the same medicine or when the patient did not develop the adverse reaction in a previous exposure to the same or related drugs. &#x0201c;Do not know&#x0201d; (0) applies when there is no information on previous reactions or the information is inconclusive.</p>
+        <p><bold>Question 10</bold>. Was the adverse event confirmed by any objective evidence? The final question assesses the quality of the data on which the adverse event is assessed. &#x0201c;Yes&#x0201d; (+1) indicates that there is laboratory test documentation of the adverse event or that the event was directly observed by a qualified person (for example, a skin rash described in nursing or physician notes). The answer &#x0201c;No&#x0201d; (0) applies when neither laboratory tests nor direct clinical documentation can verify the reaction. &#x0201c;Do not know&#x0201d; (0) applies if there is no specific information available (no laboratory testing and no clinical description) or the information is inconclusive. The scores given for &#x0201c;No&#x0201d; and &#x0201c;Do not know&#x0201d; are the same (0), so it is not critical to decide between these two answers.</p>
+      </sec>
+      <sec id="Narajo.Selected_References">
+        <title>Selected References</title>
+        <ref-list id="Narajo.Selected_References.reflist0">
+          <ref id="Narajo.REF.naranjo.1981.239">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Naranjo</surname>
+                  <given-names>CA</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Busto</surname>
+                  <given-names>U</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Sellers</surname>
+                  <given-names>EM</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Sandor</surname>
+                  <given-names>P</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Ruiz</surname>
+                  <given-names>I</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Roberts</surname>
+                  <given-names>EA</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Janecek</surname>
+                  <given-names>E</given-names>
+                </name>
+                <etal/>
+              </person-group>
+              <article-title>A method for estimating the probability of adverse drug reactions.</article-title>
+              <source>Clin Pharacol Ther</source>
+              <year>1981</year>
+              <volume>30</volume>
+              <fpage>239</fpage>
+              <lpage>45</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Initial description of Naranjo system for assessing adverse drug reactions, giving -1 to +2 points for 10 items: prevous conclusive reports, time of onset, improvement on stopping, reappearance with reexposure, alternative causes, reappearance with placebo, drug levels, dose response, previous exposure and history, and confirmation by objective evidence with total scores that range from -4 to +13; kappa=0.64 to 0.71 in assessing 63 cases by 3 authors).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">7249508</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Narajo.REF.busto.1982.223">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Busto</surname>
+                  <given-names>U</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Naranjo</surname>
+                  <given-names>CA</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Sellers</surname>
+                  <given-names>EM</given-names>
+                </name>
+              </person-group>
+              <article-title>Comparison of two recently published algorithms for assessing the probability of adverse drug reactions.</article-title>
+              <source>Br J Clin Pharmacol</source>
+              <year>1982</year>
+              <volume>13</volume>
+              <fpage>223</fpage>
+              <lpage>7</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Comparison of two scales for adverse drug reactions found both to have interreviewer reliability of &#x0003e;95%, but the Naranjo scale was easier and faster to fill out).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">7059419</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Narajo.REF.naranjo.1982.651">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Naranjo</surname>
+                  <given-names>CA</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Busto</surname>
+                  <given-names>U</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Sellers</surname>
+                  <given-names>EM</given-names>
+                </name>
+              </person-group>
+              <article-title>Difficulties in assessing adverse drug reactions in clinical trials.</article-title>
+              <source>Prog Neuropsychopharmacol Biol Psychiatry</source>
+              <year>1982</year>
+              <volume>6</volume>
+              <fpage>651</fpage>
+              <lpage>7</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Overview on the difficulties of assessing adverse drug reactions and assigning severity and causality scores).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">6761768</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Narajo.REF.garciacortes.2008.780">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Garcia-Cortes</surname>
+                  <given-names>M</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Lucena</surname>
+                  <given-names>MI</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Pachkoria</surname>
+                  <given-names>K</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Borraz</surname>
+                  <given-names>Y</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Hidalgo</surname>
+                  <given-names>R</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Andrade</surname>
+                  <given-names>RJ</given-names>
+                </name>
+                <collab>Spanish Group for the Study of Drug-Induced Liver Disease</collab>
+              </person-group>
+              <article-title>Evaluation of Naranjo adverse drug reactions probability scale in causality assessment of drug-induced liver injury.</article-title>
+              <source>Aliment Pharmacol Ther</source>
+              <year>2008</year>
+              <volume>27</volume>
+              <fpage>780</fpage>
+              <lpage>9</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Two reviewers evaluated 225 cases of suspected hepatotoxicity from the Spanish database using two causality scales; there was interreviewer agreement in only 45%, and kappa=0.17 for Naranjo compared to 72% and kappa=0.71 for RUCAM; the Naranjo scale had a low sensitivity [54%] and poor negative predictive value [29%]).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">18284654</pub-id>
+            </element-citation>
+          </ref>
+        </ref-list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

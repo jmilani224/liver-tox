@@ -1,0 +1,769 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="H2ReceptorBlockers" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">H2ReceptorBlockers</book-part-id>
+      <title-group>
+        <title>Histamine Type-2 Receptor Antagonists (H2 Blockers)</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>25</day>
+          <month>1</month>
+          <year>2018</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="HerionOpium" document-type="chapter">Heroin</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Histrelin" document-type="chapter">Histrelin</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="H2ReceptorBlockers.OVERVIEW">
+        <title>OVERVIEW</title>
+        <p content-type="pubmed-excerpt">The selective histamine type 2 receptor antagonists/blockers (H2 blockers) are widely used in the treatment of acid-peptic disease, including duodenal and gastric ulcers, gastroesophageal reflux disease and common heartburn. The four H2 blockers in current use are available by prescription as well as over-the-counter, and are some of the most widely used drugs in medicine. The H2 blockers are very well tolerated, but have been linked to rare instances of clinically apparent liver injury.</p>
+        <p content-type="pubmed-excerpt">The H2 receptor blockers act by binding to histamine type 2 receptors on the basolateral (antiluminal) surface of gastric parietal cells, interfering with pathways of gastric acid production and secretion. The selectivity of H2 blockers is of key importance, as they have little or no effect on the histamine type 1 receptors, which are blocked by typical antihistamines that are used to treat allergic reactions and have little effect on gastric acid production. The selective H2 blockers are less potent in inhibiting acid production than the proton pump inhibitors (which block the common, final step in acid secretion) but, nevertheless, suppress 24 hour gastric acid secretion by about 70%. The effect of H2 blockers is largely on basal and nocturnal acid secretion, which is important in peptic ulcer healing. The selective H2 blockers were first developed in the early 1990s by Sir James Black, who subsequently received the Nobel Prize for his work developing selective receptor antagonists for clinical use (including the beta blockers as well as the H2 blockers). The initial H2 blocker approved for use in the United States was cimetidine (1977), which was followed by ranitidine (1983), famotidine (1986), and nizatidine (1988). All four of these agents are available by prescription and as over-the-counter oral formulations. Intravenous and intramuscular forms are available for cimetidine, ranitidine and famotidine.</p>
+        <p content-type="pubmed-excerpt">The four H2 receptor blockers available in the United States have similar spectra of activity, side effects and clinical indications. These medications are extremely well tolerated and are used by a high proportion of the general population to treat peptic ulcer disease, heartburn, esophagitis, and miscellaneous minor upper gastrointestinal symptoms. Their listed indications are for treatment of gastric and duodenal ulcer and esophageal reflux disease, and to prevent stress ulcers. Side effects are uncommon, usually minor and include diarrhea, constipation, fatigue, drowsiness, headache and muscle aches. The H2 receptor blockers are metabolized in the liver by the cytochrome P450 system. Among the four agents, cimetidine is distinctive in its potent inhibition of the P450 system (CYP 1A2, 2C9 and 2D6), which can result in significant drug interactions. All four H2 receptor blockers have been implicated in rare cases of clinically apparent, acute liver injury. The most cases have been linked to ranitidine and cimetidine, but these two agents are also the most commonly used. The four H2 receptor blockers in clinical use are discussed separately, with references given after each.</p>
+        <p>Drug Class: <related-object link-type="booklink" source-id="livertox" document-id="AntiulcerAgents" document-type="chapter">Antiulcer Agents</related-object></p>
+        <list list-type="bullet">
+          <list-item>
+            <p>
+              <related-object link-type="booklink" source-id="livertox" document-id="Cimetidine" document-type="chapter">Cimetidine</related-object>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <related-object link-type="booklink" source-id="livertox" document-id="Famotidine" document-type="chapter">Famotidine</related-object>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <related-object link-type="booklink" source-id="livertox" document-id="Nizatidine" document-type="chapter">Nizatidine</related-object>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <related-object link-type="booklink" source-id="livertox" document-id="Ranitidine" document-type="chapter">Ranitidine</related-object>
+            </p>
+          </list-item>
+        </list>
+      </sec>
+      <sec id="H2ReceptorBlockers.CHEMICAL_FORMULAS_AND">
+        <title>CHEMICAL FORMULAS AND STRUCTURES</title>
+        <table-wrap id="H2ReceptorBlockers.Tc" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <tbody>
+              <tr>
+                <th id="hd_b_H2ReceptorBlockers.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_b_H2ReceptorBlockers.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">CAS REGISTRY NUMBER</th>
+                <th id="hd_b_H2ReceptorBlockers.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_b_H2ReceptorBlockers.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+              <tr>
+                <td headers="hd_b_H2ReceptorBlockers.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Cimetidine</td>
+                <td headers="hd_b_H2ReceptorBlockers.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135002058">51481-61-9</ext-link>
+                </td>
+                <td headers="hd_b_H2ReceptorBlockers.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">C10-H16-N6-S</td>
+                <td headers="hd_b_H2ReceptorBlockers.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">
+                  <related-object link-type="ext-image-back-link" source-id="pubchem" document-id="135002058" document-id-type="sid" document-type="summary" object-id="135002058" object-id-type="sid" object-type="image"/>
+                </td>
+              </tr>
+              <tr>
+                <td headers="hd_b_H2ReceptorBlockers.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Famotidine</td>
+                <td headers="hd_b_H2ReceptorBlockers.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135011273">76824-35-6</ext-link>
+                </td>
+                <td headers="hd_b_H2ReceptorBlockers.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">C8-H15-N7-O2-S3</td>
+                <td headers="hd_b_H2ReceptorBlockers.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">
+                  <related-object link-type="ext-image-back-link" source-id="pubchem" document-id="135011273" document-id-type="sid" document-type="summary" object-id="135011273" object-id-type="sid" object-type="image"/>
+                </td>
+              </tr>
+              <tr>
+                <td headers="hd_b_H2ReceptorBlockers.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Nizatidine</td>
+                <td headers="hd_b_H2ReceptorBlockers.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135011516">76963-41-2</ext-link>
+                </td>
+                <td headers="hd_b_H2ReceptorBlockers.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">C12-H21-N5-O2-S2</td>
+                <td headers="hd_b_H2ReceptorBlockers.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">
+                  <related-object link-type="ext-image-back-link" source-id="pubchem" document-id="135011516" document-id-type="sid" document-type="summary" object-id="135011516" object-id-type="sid" object-type="image"/>
+                </td>
+              </tr>
+              <tr>
+                <td headers="hd_b_H2ReceptorBlockers.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Ranitidine</td>
+                <td headers="hd_b_H2ReceptorBlockers.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135007307">66357-35-5</ext-link>
+                </td>
+                <td headers="hd_b_H2ReceptorBlockers.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">C13-H22-N4-O3-S</td>
+                <td headers="hd_b_H2ReceptorBlockers.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">
+                  <related-object link-type="ext-image-back-link" source-id="pubchem" document-id="135007307" document-id-type="sid" document-type="summary" object-id="135007307" object-id-type="sid" object-type="image"/>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="H2ReceptorBlockers.ANNOTATED_BIBLIOGRAPH">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 25 January 2018</p>
+        <ref-list id="H2ReceptorBlockers.ANNOTATED_BIBLIOGRAPH.reflist0">
+          <ref id="H2ReceptorBlockers.REF.zimmerman.1999">
+            <mixed-citation publication-type="book">Zimmerman HJ. H2 Receptors antagonists. In, Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999, pp. 719-20.<annotation><p><italic toggle="yes">(Expert review of hepatotoxicity published in 1999 states that cimetidine and ranitidine, despite enormous use, have been implicated in a small number of cases of hepatic injury, 39 for cimetidine, 35 for ranitidine, and 1 for famotidine, all cases recovering and signs of hypersensitivity being rare).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="H2ReceptorBlockers.REF.wallace.2011">
+            <mixed-citation publication-type="book">Wallace JL, Sharkey KA. Pharmacotherapy of gastric acidity, peptic ulcers, and gastroesophageal reflux disease. In, Brunton LL, Chabner BA, Knollman BC, eds. Goodman &#x00026; Gilman's the pharmacological basis of therapeutics. 12th ed. New York: McGraw-Hill, 2011, pp. 11093-22.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="H2ReceptorBlockers.REF.freston.1982.728">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Freston</surname>
+                  <given-names>JW</given-names>
+                </name>
+              </person-group>
+              <article-title>Cimetidine: II. Adverse reactions and patterns of use.</article-title>
+              <source>Ann Intern Med</source>
+              <year>1982</year>
+              <volume>97</volume>
+              <fpage>728</fpage>
+              <lpage>34</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Review of side effects of cimetidine, which include diarrhea, nausea, rash and headache [&#x0003c;1% each]; hepatitis is rare but described, all cases being reversible).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">6753681</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="H2ReceptorBlockers.REF.brogden.1982.267">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Brogden</surname>
+                  <given-names>RN</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Carmine</surname>
+                  <given-names>AA</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Heel</surname>
+                  <given-names>RC</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Speight</surname>
+                  <given-names>TM</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Avery</surname>
+                  <given-names>GS</given-names>
+                </name>
+              </person-group>
+              <article-title>Ranitidine: a review of its pharmacology and therapeutic use in peptic ulcer disease and other allied diseases.</article-title>
+              <source>Drugs</source>
+              <year>1982</year>
+              <volume>24</volume>
+              <fpage>267</fpage>
+              <lpage>303</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Extensive review of pharmacology, clinical efficacy and side effects of ranitidine; side effects occur in 3-5% of patients, are largely mild and include rash, headache and dizziness, 1 case of anicteric hepatitis reported; no mention of ALT elevations).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">6128216</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="H2ReceptorBlockers.REF.jeanpastor.1984">
+            <mixed-citation publication-type="other">Jean-Pastor MJ, Jouglard J. [Evaluation of drug-induced hepatic complications collected by the French drug surveillance organization] Therapie 1984; 39: 493-500. French. PMID 6506005<annotation><p><italic toggle="yes">(Among 980 cases of drug induced liver injury analyzed by the French drug surveillance system, 6 were attributed to cimetidine and considered "plausible").</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="H2ReceptorBlockers.REF.black.1987.68">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Black</surname>
+                  <given-names>M.</given-names>
+                </name>
+              </person-group>
+              <article-title>Hepatotoxic and hepatoprotective potential of histamine (H2)-receptor antagonists.</article-title>
+              <source>Am J Med</source>
+              <year>1987</year>
+              <volume>83</volume>
+              <fpage>68</fpage>
+              <lpage>75</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Review of hepatotoxicity of cimetidine and ranitidine and their potential role in ameliorating acetaminophen hepatotoxicity, perhaps via their inhibition of P450 activity).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">2892410</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="H2ReceptorBlockers.REF.cloud.1987.29">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Cloud</surname>
+                  <given-names>ML</given-names>
+                </name>
+              </person-group>
+              <article-title>Safety of nizatidine in clinical trials conducted in the USA and Europe.</article-title>
+              <source>Scand J Gastroenterol Suppl</source>
+              <year>1987</year>
+              <volume>136</volume>
+              <fpage>29</fpage>
+              <lpage>36</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Analysis of clinical trials of nizatidine in 3800 patients; no drug related deaths, most common side effects were headache, rhinitis, abdominal discomfort, diarrhea, and nausea, but none were more frequent than with placebo; ALT elevations &#x0003e;3 times ULN occurred in 1% of nizatidine- and 0.9% of placebo recipients; among 7 patients with marked liver test abnormalities, none were symptomatic and none were clearly related to nizatidine therapy).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">2892253</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="H2ReceptorBlockers.REF.lewis.1987.987">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Lewis</surname>
+                  <given-names>JH</given-names>
+                </name>
+              </person-group>
+              <article-title>Hepatic effects of drugs used in the treatment of peptic ulcer disease.</article-title>
+              <source>Am J Gastroenterol</source>
+              <year>1987</year>
+              <volume>82</volume>
+              <fpage>987</fpage>
+              <lpage>1003</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Thorough review of hepatotoxicity of antiulcer medications; 10 published cases of hepatotoxicity due to cimetidine and 12 for ranitidine, none fatal and not all convincingly due to the medication; little information available on famotidine or nizatidine).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">2889354</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="H2ReceptorBlockers.REF.price.1988.521">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Price</surname>
+                  <given-names>AH</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Brogden</surname>
+                  <given-names>RN</given-names>
+                </name>
+              </person-group>
+              <article-title>Nizatidine. A preliminary review of its pharmacodynamic and pharmacokinetic properties, and its therapeutic use in peptic ulcer disease.</article-title>
+              <source>Drugs</source>
+              <year>1988</year>
+              <volume>36</volume>
+              <fpage>521</fpage>
+              <lpage>39</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Review of pharmacology, clinical efficacy and side effects of nizatidine based upon 3800 patients in therapeutic trials; discontinuation for side effects was more common with placebo [6.5%] than nizatidine [2.5%], and common adverse events occurred equally with placebo, except for urticaria [0.5%], somnolence [2.4%] and sweating [1%]; low rates of ALT elevations occurred and rates were similar in placebo and ranitidine treated patients; no mention of hepatitis).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">2905640</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="H2ReceptorBlockers.REF.garc_a_rodr_guez.1997.183">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Garc&#x000ed;a Rodr&#x000ed;guez</surname>
+                  <given-names>LA</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Wallander</surname>
+                  <given-names>MA</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Stricker</surname>
+                  <given-names>BH</given-names>
+                </name>
+              </person-group>
+              <article-title>The risk of acute liver injury associated with cimetidine and other acid-suppressing anti-ulcer drugs.</article-title>
+              <source>Br J Clin Pharmacol</source>
+              <year>1997</year>
+              <volume>43</volume>
+              <fpage>183</fpage>
+              <lpage>8</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Case control study in cohort of 100,000 users of antiulcer drugs in a UK general practice database; 33 cases of acute liver injury found, 12 on cimetidine for a relative risk [RR] of 5.5, 1 on omeprazole and 5 on ranitidine did not raise RR above baseline. Latency was &#x0003c;2 month in 80% of cases; most antiulcer drug cases had hepatocellular or mixed enzyme patterns [15 of 18]).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">9131951</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="H2ReceptorBlockers.REF.russo.2004.1018">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Russo</surname>
+                  <given-names>MW</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Galanko</surname>
+                  <given-names>JA</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Shrestha</surname>
+                  <given-names>R</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Fried</surname>
+                  <given-names>MW</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Watkins</surname>
+                  <given-names>P</given-names>
+                </name>
+              </person-group>
+              <article-title>Liver transplantation for acute liver failure from drug-induced liver injury in the United States.</article-title>
+              <source>Liver Transpl</source>
+              <year>2004</year>
+              <volume>10</volume>
+              <fpage>1018</fpage>
+              <lpage>23</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Among ~50,000 liver transplants reported to UNOS between 1990 and 2002, 270 [0.5%] were done for drug induced acute liver failure, but none were attributed to an H2 blocker or proton pump inhibitor).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">15390328</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="H2ReceptorBlockers.REF.de_abajo.2004.71">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>de Abajo</surname>
+                  <given-names>FJ</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Montero</surname>
+                  <given-names>D</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Madurga</surname>
+                  <given-names>M</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Garc&#x000ed;a Rodr&#x000ed;guez</surname>
+                  <given-names>LA</given-names>
+                </name>
+              </person-group>
+              <article-title>Acute and clinically relevant drug-induced liver injury: a population based case-control study.</article-title>
+              <source>Br J Clin Pharmacol</source>
+              <year>2004</year>
+              <volume>58</volume>
+              <fpage>71</fpage>
+              <lpage>80</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Analysis of General Practice Research Database from UK on 1.6 million persons from 1994-2000 found 128 cases of drug induced liver injury [2.4/100,000 person years]; 3 cases were attributed to cimetidine for an odds ratio of 2.0 compared to controls [n=5000], which was not statistically significant).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">15206996</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="H2ReceptorBlockers.REF.bj_rnsson.2005.1095">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Bj&#x000f6;rnsson</surname>
+                  <given-names>E</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Jerlstad</surname>
+                  <given-names>P</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Bergqvist</surname>
+                  <given-names>A</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Olsson</surname>
+                  <given-names>R</given-names>
+                </name>
+              </person-group>
+              <article-title>Fulminant drug-induced hepatic failure leading to death or liver transplantation in Sweden.</article-title>
+              <source>Scand J Gastroenterol</source>
+              <year>2005</year>
+              <volume>40</volume>
+              <fpage>1095</fpage>
+              <lpage>101</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Survey of all cases of DILI with fatal outcome from Swedish Adverse Drug Reporting System from 1966-2002; 103 cases identified as highly probable, probable or possible, one case attributed to ranitidine and one to omeprazole).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">16165719</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="H2ReceptorBlockers.REF.sabat_.2007.1401">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Sabat&#x000e9;</surname>
+                  <given-names>M</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Ib&#x000e1;&#x000f1;ez</surname>
+                  <given-names>L</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>P&#x000e9;rez</surname>
+                  <given-names>E</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Vidal</surname>
+                  <given-names>X</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Buti</surname>
+                  <given-names>M</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Xiol</surname>
+                  <given-names>X</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Mas</surname>
+                  <given-names>A</given-names>
+                </name>
+                <etal/>
+              </person-group>
+              <article-title>Risk of acute liver injury associated with the use of drugs: a multicentre population survey.</article-title>
+              <source>Aliment Pharmacol Ther</source>
+              <year>2007</year>
+              <volume>25</volume>
+              <fpage>1401</fpage>
+              <lpage>9</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Population based survey of 126 cases of acute liver injury due to drugs between 1993-1999 in Spain; 8 were attributed to ranitidine alone [incidence 5.1/100,000 person-years] and 5 to omeprazole alone [2.1/100,000]).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">17539979</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="H2ReceptorBlockers.REF.chalasani.2008.1924">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Chalasani</surname>
+                  <given-names>N</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Fontana</surname>
+                  <given-names>RJ</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Bonkovsky</surname>
+                  <given-names>HL</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Watkins</surname>
+                  <given-names>PB</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Davern</surname>
+                  <given-names>T</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Serrano</surname>
+                  <given-names>J</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Yang</surname>
+                  <given-names>H</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Rochon</surname>
+                  <given-names>J</given-names>
+                </name>
+                <collab>Drug Induced Liver Injury Network (DILIN)</collab>
+              </person-group>
+              <article-title>Causes, clinical features, and outcomes from a prospective study of drug-induced liver injury in the United States.</article-title>
+              <source>Gastroenterology</source>
+              <year>2008</year>
+              <volume>135</volume>
+              <fpage>1924</fpage>
+              <lpage>34</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Among 300 cases of drug induced liver disease in the US collected between 2004 and 2008, 2 were attributed to ranitidine, none to cimetidine or omeprazole).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">18955056</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="H2ReceptorBlockers.REF.ferrajolo.2010.721">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Ferrajolo</surname>
+                  <given-names>C</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Capuano</surname>
+                  <given-names>A</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Verhamme</surname>
+                  <given-names>KM</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Schuemie</surname>
+                  <given-names>M</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Rossi</surname>
+                  <given-names>F</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Stricker</surname>
+                  <given-names>BH</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Sturkenboom</surname>
+                  <given-names>MC</given-names>
+                </name>
+              </person-group>
+              <article-title>Drug-induced hepatic injury in children: a case/non-case study of suspected adverse drug reactions in VigiBase.</article-title>
+              <source>Br J Clin Pharmacol</source>
+              <year>2010</year>
+              <volume>70</volume>
+              <fpage>721</fpage>
+              <lpage>8</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(World wide pharmacovigilance database contained 9036 hepatic adverse drug reactions in children, no antiulcer medication was among the top 41 causes).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">21039766</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="H2ReceptorBlockers.REF.reuben.2010.2065">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Reuben</surname>
+                  <given-names>A</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Koch</surname>
+                  <given-names>DG</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Lee</surname>
+                  <given-names>WM</given-names>
+                </name>
+                <collab>Acute Liver Failure Study Group</collab>
+              </person-group>
+              <article-title>Drug-induced acute liver failure: results of a U.S. multicenter, prospective study.</article-title>
+              <source>Hepatology</source>
+              <year>2010</year>
+              <volume>52</volume>
+              <fpage>2065</fpage>
+              <lpage>76</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Among 1198 patients with acute liver failure enrolled in a US prospective study between 1998 and 2007, 133 were attributed to drug induced liver injury, but none were linked to an antiulcer medication).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">20949552</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="H2ReceptorBlockers.REF.lee.2010.337">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Lee</surname>
+                  <given-names>TH</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Vega</surname>
+                  <given-names>KJ</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>El Khoury</surname>
+                  <given-names>JG</given-names>
+                </name>
+              </person-group>
+              <article-title>Ranitidine induced hepatitis.</article-title>
+              <source>J Gastrointestin Liver Dis</source>
+              <year>2010</year>
+              <volume>19</volume>
+              <fpage>337</fpage>
+              <lpage>8</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(27 year old man developed jaundice while taking over-the-counter ranitidine for an undefined period [bilirubin 10.7 mg/dL, ALT 2544 U/L, Alk P 199 U/L], resolving within 2 months of stopping).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">20922203</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="H2ReceptorBlockers.REF.bj_rnsson.2013.1419">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Bj&#x000f6;rnsson</surname>
+                  <given-names>ES</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Bergmann</surname>
+                  <given-names>OM</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Bj&#x000f6;rnsson</surname>
+                  <given-names>HK</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Kvaran</surname>
+                  <given-names>RB</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Olafsson</surname>
+                  <given-names>S</given-names>
+                </name>
+              </person-group>
+              <article-title>Incidence, presentation and outcomes in patients with drug-induced liver injury in the general population of Iceland.</article-title>
+              <source>Gastroenterology</source>
+              <year>2013</year>
+              <volume>144</volume>
+              <fpage>1419</fpage>
+              <lpage>25</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(In a population based study of drug induced liver injury from Iceland, 96 cases were identified over a 2 year period, but none were attributed to H2 blockers or other antiulcer medications).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">23419359</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="H2ReceptorBlockers.REF.hern_ndez.2014.231">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Hern&#x000e1;ndez</surname>
+                  <given-names>N</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Bessone</surname>
+                  <given-names>F</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>S&#x000e1;nchez</surname>
+                  <given-names>A</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>di Pace</surname>
+                  <given-names>M</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Brahm</surname>
+                  <given-names>J</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Zapata</surname>
+                  <given-names>R, A</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Chirino</surname>
+                  <given-names>R</given-names>
+                </name>
+                <etal/>
+              </person-group>
+              <article-title>Profile of idiosyncratic drug induced liver injury in Latin America. An analysis of published reports.</article-title>
+              <source>Ann Hepatol</source>
+              <year>2014</year>
+              <volume>13</volume>
+              <fpage>231</fpage>
+              <lpage>9</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Systematic review of literature of drug induced liver injury in Latin American countries published from 1996 to 2012 identified 176 cases, the most commonly implicated agents being nimesulide [n=53], cyproterone [n=18], nitrofurantoin [n=17] and antituberculosis drugs [n=13]; no case was linked to an antiulcer agent or H2 blocker).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">24552865</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="H2ReceptorBlockers.REF.chalasani.2015.1340">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Chalasani</surname>
+                  <given-names>N</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Bonkovsky</surname>
+                  <given-names>HL</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Fontana</surname>
+                  <given-names>R</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Lee</surname>
+                  <given-names>W</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Stolz</surname>
+                  <given-names>A</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Talwalkar</surname>
+                  <given-names>J</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Reddy</surname>
+                  <given-names>KR</given-names>
+                </name>
+                <etal/>
+                <collab>United States Drug Induced Liver Injury Network</collab>
+              </person-group>
+              <article-title>Features and outcomes of 899 patients with drug-induced liver injury: The DILIN Prospective Study.</article-title>
+              <source>Gastroenterology</source>
+              <year>2015</year>
+              <volume>148</volume>
+              <fpage>1340</fpage>
+              <lpage>52</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Among 899 cases of drug induced liver injury enrolled in a US prospective study between 2004 and 2013, 6 cases were attributed to antiulcer medications, 3 to H2 blockers [all 3 to ranitidine] and 3 to proton pump inhibitors [PPIs], but none to cimetidine).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">25754159</pub-id>
+            </element-citation>
+          </ref>
+        </ref-list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

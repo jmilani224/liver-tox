@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Liraglutide" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Liraglutide</book-part-id>
+      <title-group>
+        <title>Liraglutide</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>10</day>
+          <month>4</month>
+          <year>2019</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Linezolid" document-type="chapter">Linezolid</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Lisinopril" document-type="chapter">Lisinopril</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Liraglutide.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Liraglutide.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Liraglutide is a recombinant DNA produced polypeptide analogue of human glucagon-like peptide-1 (GLP-1) which is used in combination with diet and exercise in the therapy of type 2 diabetes, either alone or in combination with other antidiabetic agents. There have been no published reports of hepatotoxicity attributed to liraglutide therapy.</p>
+        </sec>
+        <sec id="Liraglutide.Background">
+          <title>Background</title>
+          <p>Liraglutide (lir" a gloo' tide) is a glucagon-like peptide-1 (GLP-1) analogue that acts like the native gastrointestinal hormone (incretin) to increase insulin secretion. Liraglutide reproduces the activity of GLP-1, binding to specific receptors on pancreatic beta cells and increasing insulin secretion, which can lead to improvement of glycemic control in patients with type 2 diabetes. Liraglutide is a recombinant DNA produced polypeptide that shares 97% homology to endogenous human GLP-1(7-37), which represents 20% of circulating GLP-1 activity in serum. Unlike GPL-1(7-37), however, liraglutide is resistant to DPP-4 degradation and thus has a prolonged duration of activity. Liraglutide, like other GLP-1 analogues, must be given parenterally. Liraglutide was approved for use in the United States in 2010 and current indications are for management of glycemic control in adults with type 2 diabetes in combination with diet and exercise, with or without other oral hypoglycemic agents. Liraglutide is available under the brand name Victoza in solution for subcutaneous injection in prefilled multidose pens (6 mg/mL). The typical initial dose is 0.6 mg once daily, which can be increased to a maximum of 1.8 mg daily. Liraglutide is generally well tolerated, but side effects can be dose limiting and include nausea, vomiting, diarrhea, dizziness, headache, fatigue and rash.</p>
+        </sec>
+        <sec id="Liraglutide.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>In large clinical trials, serum enzyme elevations were no more common with liraglutide therapy than with placebo or comparator agents, and no instances of clinically apparent liver injury were reported. Since licensure, there has been a single case report of autoimmune hepatitis arising in a patient taking liraglutide. She did not improve with stopping liraglutide and ultimately required long term corticosteroid therapy, suggesting that the autoimmune hepatitis was independent of the drug therapy or that liraglutide triggered an underlying condition. Other cases of hepatotoxicity due to liraglutide have not been published and the product label does not list liver injury as an adverse event. Thus, liver injury due to liraglutide must be quite rare.</p>
+        </sec>
+        <sec id="Liraglutide.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>Liraglutide is a polypeptide and is metabolized to amino acids by serum and tissue proteases, and is unlikely to have any direct hepatotoxic potential. Liraglutide acts through the incretin pathway to affect glucose metabolism and, thus, is often grouped with other incretin-based antidiabetic mediations such as the DPP-4 inhibitors, sitagliptin, saxagliptin and linagliptin, and other GLP-1 analogues such as exenatide, which are also discussed in LiverTox.</p>
+          <p>References regarding the hepatotoxicity and safety of liraglutide are given with the Overview section of the GLP-1 Analogues.</p>
+          <p>Drug Class: <related-object source-id="livertox" document-id="Antidiabetic">Antidiabetic Agents</related-object></p>
+          <p>Other Drugs in the Subclass, <related-object source-id="livertox" document-id="IncretinBasedDrugs">Incretin-Based Drugs</related-object>, <related-object source-id="livertox" document-id="GLP-1Analogues">Glucagon-Like Peptide-1 (GLP-1) Analogues</related-object>: <related-object source-id="livertox" document-id="Albiglutide">Albiglutide</related-object>, <related-object source-id="livertox" document-id="Dulaglutide">Dulaglutide</related-object>, <related-object source-id="livertox" document-id="Exenatide">Exenatide</related-object>, <related-object source-id="livertox" document-id="Lixisenatide">Lixisenatide</related-object>, <related-object source-id="livertox" document-id="Semaglutide">Semaglutide</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Liraglutide.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <boxed-text position="anchor" id="Liraglutide.BPI" orientation="portrait">
+          <p>
+            <bold>REPRESENTATIVE TRADE NAMES</bold>
+          </p>
+          <p>Liraglutide &#x02013; Victoza&#x000ae;</p>
+          <p>
+            <bold>DRUG CLASS</bold>
+          </p>
+          <p>Antidiabetic Agents</p>
+          <p>
+            <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Liraglutide">COMPLETE LABELING</ext-link>
+          </p>
+          <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+        </boxed-text>
+      </sec>
+      <sec id="Liraglutide.CHEMICAL_FORMULA_AND_STRUCTU">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Liraglutide.T1" position="anchor" orientation="portrait">
+          <table>
+            <thead>
+              <tr>
+                <th id="hd_h_Liraglutide.T1_1_1_1_1" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Liraglutide.T1_1_1_1_2" rowspan="1" colspan="1">CAS REGISTRY NUMBER</th>
+                <th id="hd_h_Liraglutide.T1_1_1_1_3" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Liraglutide.T1_1_1_1_4" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Liraglutide.T1_1_1_1_1" rowspan="1" colspan="1">Liraglutide</td>
+                <td headers="hd_h_Liraglutide.T1_1_1_1_2" rowspan="1" colspan="1">
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135207227">204656-20-2</ext-link>
+                </td>
+                <td headers="hd_h_Liraglutide.T1_1_1_1_3" rowspan="1" colspan="1">Protein</td>
+                <td headers="hd_h_Liraglutide.T1_1_1_1_4" rowspan="1" colspan="1">Complex Polypeptide</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Liraglutide.OTHER_REFERENCE_LINKS" sec-type="link-group">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=(Liraglutide/AE)+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D%3A%222999/12/31%22%5BEDat%5D)">Recent References on Liraglutide: from PubMed.gov</ext-link>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Liraglutide">Trials on Liraglutide: from ClinicalTrials.gov</ext-link>
+            </p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

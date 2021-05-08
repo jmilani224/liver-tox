@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="CytotoxicAntibiotics" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">CytotoxicAntibiotics</book-part-id>
+      <title-group>
+        <title>Cytotoxic Antibiotics</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>16</day>
+          <month>12</month>
+          <year>2013</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Cytarabine" document-type="chapter">Cytarabine</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Dabigatran" document-type="chapter">Dabigatran</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="CytotoxicAntibiotics.OVERVIEW">
+        <title>OVERVIEW</title>
+        <p content-type="pubmed-excerpt">Several naturally occurring compounds with antibiotic activity also have potent antitumor activity and were developed as anticancer agents. These cytotoxic antibiotics are often grouped together, even though they have diverse mechanisms of action, widely different indications, a range of efficacies and distinctive toxicities. The cytotoxic antibiotics in current use in the United States include (with trade name and year of approval): bleomycin (Blenoxane, 1973), dactinomycin (Cosmegen, 1964), daunorubicin (Cerubidine, 1979), doxorubicin (Adriamycin, 1974), epirubicin (Ellence, 1999), idarubicin (Idamycin, 1990), plicamycin (previously known as mithramycin, still experimental), mitomycin (Mutamycin, 2002) and mitoxantrone (Novantrone, 1987). A discussion of the mechanism of action, current use and hepatotoxicity, along with structural information and references of these drugs, are provided for each agent individually. The anthracycline antibiotics include daunorubicin, doxorubicin, epirubicin and idarubicin (which are discussed together) and mitoxantrone, which is an anthracycline analog and discussed separately. The cytotoxic antibiotics discussed in LiverTox include:</p>
+        <p content-type="pubmed-excerpt">Drug Class: <related-object source-id="livertox" document-id="AntineoplasticAgents">Antineoplastic Agents</related-object>, <related-object source-id="livertox" document-id="CytotoxicAntibiotics">Antibiotics, Cytotoxic</related-object></p>
+        <list list-type="bullet">
+          <list-item>
+            <p>
+              <related-object source-id="livertox" document-id="Bleomycin">Bleomycin</related-object>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <related-object source-id="livertox" document-id="Dactinomycin">Dactinomycin</related-object>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <related-object source-id="livertox" document-id="Daunorubicin">Daunorubicin</related-object>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <related-object source-id="livertox" document-id="DoxorubicinEpirubici">Doxorubicin</related-object>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <related-object source-id="livertox" document-id="DoxorubicinEpirubici">Epirubicin</related-object>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <related-object source-id="livertox" document-id="DoxorubicinEpirubici">Idarubicin</related-object>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <related-object source-id="livertox" document-id="Mitomycin">Mitomycin</related-object>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <related-object source-id="livertox" document-id="Mitoxantrone">Mitoxantrone</related-object>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <related-object source-id="livertox" document-id="Plicamycin">Plicamycin</related-object>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <related-object source-id="livertox" document-id="DoxorubicinEpirubici">Valrubicin</related-object>
+            </p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

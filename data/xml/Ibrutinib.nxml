@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Ibrutinib" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Ibrutinib</book-part-id>
+      <title-group>
+        <title>Ibrutinib</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>13</day>
+          <month>4</month>
+          <year>2018</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Ibalizumab" document-type="chapter">Ibalizumab</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Ibuprofen" document-type="chapter">Ibuprofen</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Ibrutinib.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Ibrutinib.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Ibrutinib is an oral inhibitor of Bruton&#x02019;s tyrosine kinase that is used in the therapy of refractory chronic lymphocytic leukemia (CLL) and mantle cell lymphoma. Ibrutinib has not been associated with serum enzyme elevations during therapy, but has been linked to rare cases of clinically apparent acute liver injury and to reactivation of hepatitis B.</p>
+        </sec>
+        <sec id="Ibrutinib.Background">
+          <title>Background</title>
+          <p>Ibrutinib (eye broo&#x02019; ti nib) is an orally available, small molecule inhibitor of Bruton&#x02019;s tyrosine kinase (BTK), which is an essential component in the B cell receptor signaling pathway. Inhibition of this pathway prevents B cell activation, differentiation and proliferation. Deficiency of BTK is the cause of X linked (Bruton&#x02019;s) agammaglobulinemia, and B cell receptor signaling through BTK has been shown to be critical for proliferation and survival of malignant B lymphocytes in mantle cell lymphoma and CLL. Ibrutinib was approved for use in the United States as therapy for refractory mantle cell lymphoma in 2013 and for refractory CLL in 2014. Subsequently, it has been approved for use in Waldenstrom's macroglobulinemia, marginal zone lymphoma and chronic graft versus host disease after failure of standard therapy. Ibrutinib is available in capsules of 70 and 140 mg and as tablets of 140, 280, 420 and 560 mg under the brand name Imbruvica. The recommended dose is 420 (CLL) or 540 (lymphoma) mg orally, once daily. Side effects are common, but usually mild-to-moderate in severity; they include myelosuppression, fatigue, diarrhea, nausea, vomiting, anorexia, constipation, peripheral edema, dyspnea, arthralgia, myalgia, rash and fever. Uncommon, but potentially serious side effects include severe bone marrow suppression, infections, bleeding, cardiac arrhythmias, hypertension, tumor lysis syndrome and embryo-fetal toxicity.</p>
+        </sec>
+        <sec id="Ibrutinib.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>In the prelicensure clinical trials of ibrutinib in patients with CLL and mantle cell lymphoma, the rates of serum enzyme elevations during therapy were 20% to 30% but were similar to comparator arms, and elevations were generally mild (less than 5 times ULN) and self limited. In multiple controlled trials there were no reports of clinically apparent liver injury or need for early discontinuation because of hepatotoxicity. The major toxicities of ibrutinib resembled those of the tyrosine kinase receptor inhibitors and included hemorrhage and myelosuppression. While ibrutinib depressed peripheral lymphocyte counts and caused both lymphopenia and neutropenia, it has little effect on serum immunoglobulin levels and was not associated with reactivation of tuberculosis or opportunistic infections in prelicensure studies. Nevertheless, with approval and more widespread use of ibrutinib, rare cases of acute liver injury including acute liver failure and severe instances of reactivation of hepatitis B have been reported. The latency to onset of liver injury varied from several weeks to 9 months. The pattern of injury was hepatocellular, but the course was atypical of an acute hepatitis-like injury and more similar to acute hepatic necrosis with early onset of hepatic failure.</p>
+          <p>Likelihood score: D (possible rare cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Ibrutinib.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The clinical features of reported cases of liver injury from ibrutinib suggested a direct hepatotoxicity, but the relationship of the injury to the kinase inhibitor was not entirely clear. Reactivation of hepatitis B is likely due to the profound inhibition of B cell activity as occurs with rituximab (anti-CD20) which appears to lead to increased viral replication due to immune suppression, followed by immune recovery and acute liver injury. Ibrutinib is metabolized in the liver via the cytochrome P450 system, largely CYP 3A4 and is susceptible to drug-drug interactions with agents that inhibit or induce this enzyme reactivity.</p>
+        </sec>
+        <sec id="Ibrutinib.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>Serum aminotransferase elevations above 5 times the upper limit of normal (if confirmed) should lead to dose reduction or temporary cessation. In patients with clinically apparent liver injury and jaundice, restarting therapy should be done with caution. Cross sensitivity to liver injury is uncommon among the tyrosine kinase inhibitors and, in many situations, switching to another tyrosine kinase inhibitor may be appropriate. Ibrutinib has also been linked to cases of reactivation of hepatitis B which can be severe. Importantly, patients who are to receive long term therapy with ibrutinib should be screened for hepatitis B (HBsAg and anti-HBc) and, if positive, given antiviral prophylaxis against reactivation (with an oral antiviral agent with potent activity against HBV such as entecavir or tenofovir) or monitored carefully for appearance or rises in HBV DNA levels with early initative of antiviral therapy.</p>
+          <p>Drug Class: <related-object source-id="livertox" document-id="AntineoplasticAgents">Antineoplastic Agents</related-object>, <related-object source-id="livertox" document-id="ProteinKinaseInhibit">Protein Kinase Inhibitors</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Ibrutinib.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <boxed-text position="anchor" id="Ibrutinib.BPI" orientation="portrait">
+          <p>
+            <bold>REPRESENTATIVE TRADE NAMES</bold>
+          </p>
+          <p>Ibrutinib &#x02013; Imbruvica&#x000ae;</p>
+          <p>
+            <bold>DRUG CLASS</bold>
+          </p>
+          <p>Antineoplastic Agents</p>
+          <p>
+            <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?label=all&#x00026;query=Ibrutinib">COMPLETE LABELING</ext-link>
+          </p>
+          <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+        </boxed-text>
+      </sec>
+      <sec id="Ibrutinib.CHEMICAL_FORMULA_AND_STRUCTURE">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Ibrutinib.T1" position="anchor" orientation="portrait">
+          <table>
+            <thead>
+              <tr>
+                <th id="hd_h_Ibrutinib.T1_1_1_1_1" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Ibrutinib.T1_1_1_1_2" rowspan="1" colspan="1">CAS REGISTRY NO.</th>
+                <th id="hd_h_Ibrutinib.T1_1_1_1_3" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Ibrutinib.T1_1_1_1_4" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Ibrutinib.T1_1_1_1_1" rowspan="1" colspan="1">Ibrutinib</td>
+                <td headers="hd_h_Ibrutinib.T1_1_1_1_2" rowspan="1" colspan="1">
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135268986">936563-96-1</ext-link>
+                </td>
+                <td headers="hd_h_Ibrutinib.T1_1_1_1_3" rowspan="1" colspan="1">C25-H24-N6-O2</td>
+                <td headers="hd_h_Ibrutinib.T1_1_1_1_4" rowspan="1" colspan="1">
+                  <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Ibrutinib_structure.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait">
+                    <alt-text>Ibrutinib chemical structure</alt-text>
+                  </graphic>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Ibrutinib.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 13 April 2018</p>
+        <ref-list id="Ibrutinib.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Ibrutinib.R1">
+            <mixed-citation publication-type="other">Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999.<annotation><p><italic toggle="yes">(Review of hepatotoxicity published in 1999 before the availability of tyrosine kinase receptor inhibitors).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Ibrutinib.R2">
+            <mixed-citation publication-type="other">DeLeve LD. Kinase inhibitors. Gefitinib. Cancer chemotherapy. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013, p. 556.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of cancer chemotherapeutic agents, does not discuss ibrutinib).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Ibrutinib.R3">
+            <mixed-citation publication-type="other">Chabner BA, Barnes J, Neal J, Olson E, Mujagic H, Sequist L, Wilson W, et al. Targeted therapies: tyrosine kinase inhibitors, monoclonal antibodies, and cytokines. In, Brunton LL, Chabner BA, Knollman BC, eds. Goodman &#x00026; Gilman's the pharmacological basis of therapeutics. 12th ed. New York: McGraw-Hill, 2011, pp. 1731-54.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Ibrutinib.R4">
+            <mixed-citation publication-type="journal">Ponader S, Chen SS, Buggy JJ, Balakrishnan K, Gandhi V, Wierda WG, Keating MJ, et al. The Bruton tyrosine kinase inhibitor PCI-32765 thwarts chronic lymphocytic leukemia cell survival and tissue homing in vitro and in vivo. Blood 2012; 119: 1182-9. <annotation><p><italic toggle="yes">(Preclinical study of the activity of ibrutinib in inhibiting BTK and its effects on malignant B cells in vitro and in mouse models of CLL).</italic></p></annotation><pub-id pub-id-type="pmid">22180443</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ibrutinib.R5">
+            <mixed-citation publication-type="journal">Advani RH, Buggy JJ, Sharman JP, Smith SM, Boyd TE, Grant B, Kolibaba KS, et al. Bruton tyrosine kinase inhibitor ibrutinib (PCI-32765) has significant activity in patients with relapsed/refractory B-cell malignancies. J Clin Oncol 2013; 31: 88-94. <annotation><p><italic toggle="yes">(Among 56 patients with various B cell malignancies treated with escalating doses of ibrutinib, the overall objective response rate was 54%, with highest rates in CLL and mantle cell lymphoma; side effects included diarrhea, nausea, anorexia and fatigue, and no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">23045577</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ibrutinib.R6">
+            <mixed-citation publication-type="journal">Wang ML, Rule S, Martin P, Goy A, Auer R, Kahl BS, Jurczak W, et al. Targeting BTK with ibrutinib in relapsed or refractory mantle-cell lymphoma. N Engl J Med 2013; 369: 507-16. <annotation><p><italic toggle="yes">(Among 111 patients with refractory mantle cell lymphoma treated with ibrutinib for 1-24 months, the objective response rate was 68% [complete in 21%]; listing of side effects does not include ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">23782157</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ibrutinib.R7">
+            <mixed-citation publication-type="journal">Byrd JC, Furman RR, Coutre SE, Flinn IW, Burger JA, Blum KA, Grant B, et al. Targeting BTK with ibrutinib in relapsed chronic lymphocytic leukemia. N Engl J Med 2013; 369: 32-42. <annotation><p><italic toggle="yes">(Among 85 patients with refractory CLL treated with ibrutinib as a single agent, the overall response rate was 71%; side effects included diarrhea [49%], fatigue [32%], cough [31%], arthralgias [27%], rash [27%], fever [27%], peripheral edema [21%] and hypertension [18%]; ALT elevations and hepatotoxicity were not listed or mentioned).</italic></p></annotation><pub-id pub-id-type="pmid">23782158</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ibrutinib.R8">
+            <mixed-citation publication-type="journal">O'Brien S, Furman RR, Coutre SE, Sharman JP, Burger JA, Blum KA, Grant B, et al. Ibrutinib as initial therapy for elderly patients with chronic lymphocytic leukaemia or small lymphocytic lymphoma: an open-label, multicentre, phase 1b/2 trial. Lancet Oncol 2014; 15: 48-58. <annotation><p><italic toggle="yes">(Among 31 patients 65 years or older with CLL who were treated with ibrutinib, side effects were similar in frequency and severity to those reported in younger patients; no mention of hepatotoxicity or ALT elevations).</italic></p></annotation><pub-id pub-id-type="pmid">24332241</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ibrutinib.R9">
+            <mixed-citation publication-type="journal">Ponader S, Burger JA. Bruton's tyrosine kinase: from X-linked agammaglobulinemia toward targeted therapy for B-cell malignancies. J Clin Oncol 2014; 32: 1830-9. <annotation><p><italic toggle="yes">(History of discovery of X-linked agammaglobulinemia, identification of BTK as its cause, elucidation of role of BTK in the pathway of B cell activation, and development of BTK inhibitors including ibrutinib).</italic></p></annotation><pub-id pub-id-type="pmid">24778403</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ibrutinib.R10">
+            <mixed-citation publication-type="journal">Bhatt V, Alejandro L, Michael A, Ganetsky A. The promising impact of ibrutinib, a Bruton's tyrosine kinase inhibitor, for the management of lymphoid malignancies. Pharmacotherapy 2014; 34: 303-14. <annotation><p><italic toggle="yes">(Review of pharmacology, efficacy and safety of ibrutinib; in discussion of its many side effects, there is no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">24338680</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ibrutinib.R11">
+            <mixed-citation publication-type="journal">Ibrutinib (Imbruvica) for chronic lymphocytic leukemia. Med Lett Drugs Ther 2014; 56 (1440): 29-30. <annotation><p><italic toggle="yes">(Concise review of mechanism of action, efficacy, safety and cost of ibrutinib shortly after its approval for use in the US, mentions that serious adverse events include cytopenias, bleeding and infections; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">24736247</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ibrutinib.R12">
+            <mixed-citation publication-type="journal">de J&#x000e9;sus Ngoma P, Kabamba B, Dahlqvist G, Sempoux C, Lanthier N, Shindano T, Van Den Neste E, Horsmans Y. Occult HBV reactivation induced by ibrutinib treatment: a case report. Acta Gastroenterol Belg 2015; 78: 424-6. <annotation><p><italic toggle="yes">(80 year old man with refractory CLL had anti-HBc in serum without HBsAg but with low levels of HBV DNA [85 IU/mL], and developed reactivation of hepatitis B 5 months after starting ibrutinib [HBV DNA 23 million IU/mL, HBsAg positive, ALT 103 U/L], responding to entecavir with decline in HBV DNA and ALT levels but remaining HBsAg positive).</italic></p></annotation><pub-id pub-id-type="pmid">26712054</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ibrutinib.R13">
+            <mixed-citation publication-type="journal">Chanan-Khan A, Cramer P, Demirkan F, Fraser G, Silva RS, Grosicki S, Pristupa A, et al; HELIOS investigators. Ibrutinib combined with bendamustine and rituximab compared with placebo, bendamustine, and rituximab for previously treated chronic lymphocytic leukaemia or small lymphocytic lymphoma (HELIOS): a randomised, double-blind, phase 3 study. Lancet Oncol 2016; 17: 200-11. <annotation><p><italic toggle="yes">(Among 578 patients with refractory CLL or small lymphocytic lymphoma treated with rituximab, bendamustine with or without ibrutinib, progression free survival was improved with ibrutinib although adverse events were more common including bleeding and atrial fibrillation; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">26655421</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ibrutinib.R14">
+            <mixed-citation publication-type="journal">Winqvist M, Asklid A, Andersson PO, Karlsson K, Karlsson C, Lauri B, Lundin J, et al. Real-world results of ibrutinib in patients with relapsed or refractory chronic lymphocytic leukemia: data from 95 consecutive patients treated in a compassionate use program. A study from the Swedish Chronic Lymphocytic Leukemia Group. Haematologica 2016; 101: 1573-80. <annotation><p><italic toggle="yes">(Among 95 patients with CLL or small lymphocytic lymphoma treated with ibrutinib in a Swedish compassionate use protocol, common adverse events included bleeding [46%], diarrhea [25%], anemia [52%], thrombocytopenia [70%], neutropenia [61%], atrial fibrillation [8%]; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">27198718</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ibrutinib.R15">
+            <mixed-citation publication-type="journal">Dreyling M, Jurczak W, Jerkeman M, Silva RS, Rusconi C, Trneny M, Offner F, et al. Ibrutinib versus temsirolimus in patients with relapsed or refractory mantle-cell lymphoma: an international, randomised, open-label, phase 3 study. Lancet 2016; 387 (10020): 770-8. <annotation><p><italic toggle="yes">(Among 280 patients with refractory mantle cell lymphoma treated with ibrutinib or temsirolimus, progression-free survival was greater with ibrutinib [14.6 vs 6.2 months] and it was better tolerated; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">26673811</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ibrutinib.R16">
+            <mixed-citation publication-type="journal">Nandikolla AG, Derman O, Nautsch D, Liu Q, Massoumi H, Venugopal S, Braunschweig I, Janakiram M. Ibrutinib-induced severe liver injury. Clin Case Rep 2017; 5: 735-8. <annotation><p><italic toggle="yes">(62 year old man with refractory CLL and hematopoietic cell transplant was started on ibrutinib and developed progressive liver injury [bilirubin 7.0 rising to 35.2 mg/dL, ALT 743 U/L, Alk P 486 U/L], which persisted despite stopping ibrutinib until he died of progressive disease 4 months later).</italic></p></annotation><pub-id pub-id-type="pmid">28588800</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ibrutinib.R17">
+            <mixed-citation publication-type="journal">Kahn A, Horsley-Silva JL, Lam-Himlin DM, Reeder CB, Douglas DD, Carey EJ. Ibrutinib-induced acute liver failure. Leuk Lymphoma 2018; 59: 512-4. <annotation><p><italic toggle="yes"> (59 year old woman with Waldenstrom's macroglobulinemia developed fatigue 9 months after starting ibrutinib [bilirubin 2.5 rising to 13.6 mg/dL, ALT 441 U/L, AST 2707 U/L, Alk P 159 U/L, INR 7.7, lactate 9.4 mmol/L], with slow resolution after stopping).</italic></p></annotation><pub-id pub-id-type="pmid">28693376</pub-id></mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec id="Ibrutinib.OTHER_REFERENCE_LINKS" sec-type="link-group">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=Ibrutinib+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D%3A%222999/12/31%22%5BEDat%5D)">Recent References on Ibrutinib: from PubMed.gov</ext-link>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Ibrutinib">Trials on Ibrutinib: from ClinicalTrials.gov</ext-link>
+            </p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

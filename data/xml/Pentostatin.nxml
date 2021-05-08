@@ -1,0 +1,831 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Pentostatin" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Pentostatin</book-part-id>
+      <title-group>
+        <title>Pentostatin</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>12</day>
+          <month>9</month>
+          <year>2020</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Pentazocine" document-type="chapter">Pentazocine</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Pentoxifylline" document-type="chapter">Pentoxifylline</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Pentostatin.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Pentostatin.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Pentostatin is a purine analogue and antineoplastic agent used in the therapy of hairy cell leukemia and T cell lymphomas. Pentostatin is associated with a low rate of serum enzyme elevations during therapy and has been linked to rare instances of severe acute liver injury with jaundice.</p>
+        </sec>
+        <sec id="Pentostatin.Background">
+          <title>Background</title>
+          <p>Pentostatin (pen" toe stat' in) is a purine analogue (2'-deoxycoformycin) that is used in the treatment of hairy cell leukemia and T cell lymphomas. Pentostatin is a transition state analogue of a major intermediate in the pathway of the adenosine deaminase reaction. As a consequence, pentostatin inhibits adenosine deaminase and causes accumulation of intracellular adenosine and deoxyadenosine which cause a block DNA synthesis. This imbalance of nucleotide pools is particularly toxic to lymphocytes. Pentostatin was found to have marked activity against hairy leukemia and T cell lymphomas and was approved for this use in the United States in 1991. Pentostatin is available as a solution for injection generically and under the trade name Nipent. The typical dose regimen is 4 mg/m<sup>2</sup> given intravenously every other week for 6 months. Repeat courses are recommended only for patients who have a response and later relapse. Common side effects include bone marrow suppression, fever, infections, nausea, vomiting, anorexia, diarrhea, headache, fatigue and skin rash. Because pentostatin tends to deplete normal T cells, opportunistic infections can occur and immunosuppression can persist for months or years after discontinuation. At high doses, pentostatin can cause severe renal and neurologic toxicity and in combination with fludarabine can cause pulmonary toxicity. Pentostatin also has embryo-fetal toxicity.</p>
+        </sec>
+        <sec id="Pentostatin.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>In clinical trials, serum enzymes elevations occurred in up to 25% of patients receiving pentostatin, but the abnormalities were generally mild and transient and rarely required dose modification. Clinically apparent liver injury from pentostatin is rare, but striking instances of severe liver injury leading rapidly to multiorgan failure and death have been described both in adults and children. The time to onset varied from a few days to six months. The possible role of shock, ischemia, opportunistic infections and sepsis in these cases has not always been well defined. Both hepatocellular and cholestatic patterns of enzyme elevations have been described. Immunoallergic features and autoantibodies were not typical.</p>
+          <p>Likelihood score: D (possible rare cause of clinically apparent liver disease).</p>
+        </sec>
+        <sec id="Pentostatin.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>In several instances, hepatic toxicity from pentostatin appeared to be somewhat dose related, suggesting that the liver injury is a direct effect of the purine analogue. Because pentostatin is a potent immunosuppressive agent, the possibility exists that some cases of hepatic injury are due to reactivation of hepatitis B or other opportunistic infections. While pentostatin has not been shown to cause reactivation of hepatitis B, there is a strong possibility that it might induce this syndrome, and several cases of hepatic injury during pentostatin therapy were described as due to concurrent hepatitis B.</p>
+          <p>Drug Class: <related-object link-type="booklink" source-id="livertox" document-id="AntineoplasticAgents" document-type="chapter">Antineoplastic Agents</related-object>, Antimetabolites</p>
+          <p>Other Drugs in the Subclass, <related-object link-type="booklink" source-id="livertox" document-id="PurineAnalogues" document-type="chapter">Purine Analogues</related-object>: <related-object link-type="booklink" source-id="livertox" document-id="Azathioprine" document-type="chapter">Azathioprine</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Cladribine" document-type="chapter">Cladribine</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Clofarabine" document-type="chapter">Clofarabine</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Fludarabine" document-type="chapter">Fludarabine</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Mercaptopurine" document-type="chapter">Mercaptopurine</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Nelarabine" document-type="chapter">Nelarabine</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Thioguanine" document-type="chapter">Thioguanine</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Pentostatin.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <p>
+          <bold>REPRESENTATIVE TRADE NAMES</bold>
+        </p>
+        <p>Pentostatin &#x02013; Generic, Nipent&#x000ae;</p>
+        <p>
+          <bold>DRUG CLASS</bold>
+        </p>
+        <p>Antineoplastic Agents</p>
+        <p>
+          <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Pentostatin">COMPLETE LABELING</ext-link>
+        </p>
+        <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+      </sec>
+      <sec id="Pentostatin.CHEMICAL_FORMULA_AND_STRUCTU">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Pentostatin.Tc" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th id="hd_h_Pentostatin.Tc_1_1_1_1" valign="top" align="left" scope="col" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Pentostatin.Tc_1_1_1_2" valign="top" align="left" scope="col" rowspan="1" colspan="1">CAS REGISTRY NUMBER</th>
+                <th id="hd_h_Pentostatin.Tc_1_1_1_3" valign="top" align="left" scope="col" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Pentostatin.Tc_1_1_1_4" valign="top" align="left" scope="col" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Pentostatin.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Pentostatin</td>
+                <td headers="hd_h_Pentostatin.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135003294">53910-25-1</ext-link>
+                </td>
+                <td headers="hd_h_Pentostatin.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">C11-H16-N4-O4</td>
+                <td headers="hd_h_Pentostatin.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">
+                  <related-object link-type="ext-image-back-link" source-id="pubchem" document-id="135003294" document-id-type="sid" document-type="summary" object-id="135003294" object-id-type="sid" object-type="image"/>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Pentostatin.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 12 September 2020</p>
+        <ref-list id="Pentostatin.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Pentostatin.REF.zimmerman.1999">
+            <mixed-citation publication-type="book">Zimmerman HJ. Oncotherapeutic and immunosuppressive agents. In, Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999, pp. 673-708.<annotation><p><italic toggle="yes">(Expert review of hepatotoxicity of cancer chemotherapeutic agents published in 1999 mentions that pentostatin is an adenosine deaminase inhibitor, has hepatotoxic potential and causes aminotransferase elevations in both experimental animals and humans).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Pentostatin.REF.deleve.2013">
+            <mixed-citation publication-type="book">DeLeve LD. Cancer chemotherapy. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013, p. 541-68.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of hepatotoxicity of anticancer agents does not discuss pentostatin).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Pentostatin.REF.wellstein.2018">
+            <mixed-citation publication-type="book">Wellstein A, Giaccone G, Atkins MB, Sausville EA. Cytotoxic agents. In, Brunton LL, Hilal-Dandan R, Knollman BC, eds. Goodman &#x00026; Gilman's the pharmacological basis of therapeutics. 13th ed. New York: McGraw-Hill, 2018, pp. 1167-201.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Pentostatin.REF.poplack.1981.3343">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Poplack</surname>
+                  <given-names>DG</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Sallan</surname>
+                  <given-names>SE</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Rivera</surname>
+                  <given-names>G</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Holcenberg</surname>
+                  <given-names>J</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Murphy</surname>
+                  <given-names>SB</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Blatt</surname>
+                  <given-names>J</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Lipton</surname>
+                  <given-names>JM</given-names>
+                </name>
+                <etal/>
+              </person-group>
+              <article-title>Phase I study of 2'-deoxycoformycin in acute lymphoblastic leukemia.</article-title>
+              <source>Cancer Res</source>
+              <year>1981</year>
+              <volume>41</volume>
+              <fpage>3343</fpage>
+              <lpage>6</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Among 26 children with ALL treated with 43 courses of pentostatin [0.25-1.0 mg/kg/day for 3 days], dose-limiting toxicities were neurologic [seizures, coma], pulmonary, renal and hepatic, including 2 patients receiving high doses who developed severe injury: one had jaundice and fever the day after completing the first course [bilirubin not given, ALT 743 U/L] and died of respiratory failure one day later; a second developed jaundice, fever and ascites after 2 days of therapy [bilirubin 15.4 mg/dL, ALT normal] and died two weeks later; autopsy in both patients failed to demonstrate a clear cause).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">6973390</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Pentostatin.REF.spiers.1984.1336">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Spiers</surname>
+                  <given-names>AS</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Parekh</surname>
+                  <given-names>SJ</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Bishop</surname>
+                  <given-names>MB</given-names>
+                </name>
+              </person-group>
+              <article-title>Hairy-cell leukemia: induction of complete remission with pentostatin (2'-deoxycoformycin).</article-title>
+              <source>J Clin Oncol</source>
+              <year>1984</year>
+              <volume>2</volume>
+              <fpage>1336</fpage>
+              <lpage>42</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Two men, ages 46 and 61 years, with hairy cell leukemia were treated with pentostatin [7 to 8 courses of 5 mg/kg/day for 2 days] and both had a long lasting complete remission; skin rash, but no other toxicities were mentioned).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">6334721</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Pentostatin.REF.dangvu.1988.692">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Dang-Vu</surname>
+                  <given-names>AP</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Olsen</surname>
+                  <given-names>EA</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Vollmer</surname>
+                  <given-names>RT</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Greenberg</surname>
+                  <given-names>ML</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Hershfield</surname>
+                  <given-names>MS</given-names>
+                </name>
+              </person-group>
+              <article-title>Treatment of cutaneous T cell lymphoma with 2'-deoxycoformycin (pentostatin).</article-title>
+              <source>J Am Acad Dermatol</source>
+              <year>1988</year>
+              <volume>19</volume>
+              <fpage>692</fpage>
+              <lpage>8</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(3 patients with cutaneous T cell lymphoma were treated with pentostatin [5 mg/m<sup>2</sup>/day], one of whom developed side effects of episcleritis, nausea and fever within 4 days of starting with subsequent liver enzyme elevations [ALT rising from 9 to 38 U/L, Alk P from 38 to 120 U/L] that persisted for at least 10 months after stopping).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">3263401</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Pentostatin.REF.ho.1990.1416">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Ho</surname>
+                  <given-names>AD</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Thaler</surname>
+                  <given-names>J</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Stryckmans</surname>
+                  <given-names>P</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Coiffier</surname>
+                  <given-names>B</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Luciani</surname>
+                  <given-names>M</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Sonneveld</surname>
+                  <given-names>P</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Lechner</surname>
+                  <given-names>K</given-names>
+                </name>
+                <etal/>
+              </person-group>
+              <article-title>Pentostatin in refractory chronic lymphocytic leukemia: a phase II trial of the European Organization for Research and Treatment of Cancer.</article-title>
+              <source>J Natl Cancer Inst</source>
+              <year>1990</year>
+              <volume>82</volume>
+              <fpage>1416</fpage>
+              <lpage>20</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Among 26 adults with refractory CLL treated with pentostatin [4 mg/m<sup>2</sup> every 1-2 weeks], liver biochemical tests became abnormal in 20%, but values over 5 times ULN occurred in only 1 patient who was diagnosed as having hepatitis B, but no details provided).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">2388293</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Pentostatin.REF.monfardini.1996.163">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Monfardini</surname>
+                  <given-names>S</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Sorio</surname>
+                  <given-names>R</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Cavalli</surname>
+                  <given-names>F</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Cerny</surname>
+                  <given-names>TH</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Van Glabbeke</surname>
+                  <given-names>M</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Kaye</surname>
+                  <given-names>S</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Smyth</surname>
+                  <given-names>JF</given-names>
+                </name>
+              </person-group>
+              <article-title>Pentostatin (2'-deoxycoformycin, dCF) in patients with low-grade (B-T-cell) and intermediate- and high-grade (T-cell) malignant lymphomas: phase II study of the EORTC Early Clinical Trials Group.</article-title>
+              <source>Oncology</source>
+              <year>1996</year>
+              <volume>53</volume>
+              <fpage>163</fpage>
+              <lpage>8</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Among 37 patients with low grade non-Hodgkin lymphoma treated with weekly or every other week 1-day courses of pentostatin [5 mg/m<sup>2</sup>/day], toxicities included leucopenia, infection, creatinine elevations, nausea, vomiting, diarrhea, conjunctivitis and rash).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">8604244</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Pentostatin.REF.kurzrock.1997.1803">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Kurzrock</surname>
+                  <given-names>R</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Strom</surname>
+                  <given-names>SS</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Estey</surname>
+                  <given-names>E</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>O'Brien</surname>
+                  <given-names>S</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Keating</surname>
+                  <given-names>MJ</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Jiang</surname>
+                  <given-names>H</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Adams</surname>
+                  <given-names>T</given-names>
+                </name>
+                <etal/>
+              </person-group>
+              <article-title>Second cancer risk in hairy cell leukemia: analysis of 350 patients.</article-title>
+              <source>J Clin Oncol</source>
+              <year>1997</year>
+              <volume>15</volume>
+              <fpage>1803</fpage>
+              <lpage>10</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Among 350 patients with hairy cell leukemia treated who were followed for an average of 7 years, secondary cancers occurred in 26 [7%], a rate which was minimally higher than might be expected and was not associated with any specific therapy, interferon, cladribine or pentostatin).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">9164188</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Pentostatin.REF.sanchez.1999.316">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Sanchez</surname>
+                  <given-names>M</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Orero</surname>
+                  <given-names>M</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Marco</surname>
+                  <given-names>J</given-names>
+                </name>
+              </person-group>
+              <article-title>Sim&#x000f3;, Linares M, Carbonell F. Fulminant hepatic failure after 2'-deoxycoformycin (pentostatin).</article-title>
+              <source>Br J Haematol</source>
+              <year>1999</year>
+              <volume>105</volume>
+              <fpage>316</fpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(72 year old woman with peripheral T cell lymphoma developed jaundice 6 weeks after starting weekly infusions of pentostatin [bilirubin 24.0 mg/dL, ALT 312 U/L, Alk P 2460 U/L], progressing to hepatic failure and death within 2 weeks of onset).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">10366248</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Pentostatin.REF.ho.1999.1493">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Ho</surname>
+                  <given-names>AD</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Suciu</surname>
+                  <given-names>S</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Stryckmans</surname>
+                  <given-names>P</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>De Cataldo</surname>
+                  <given-names>F</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Willemze</surname>
+                  <given-names>R</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Thaler</surname>
+                  <given-names>J</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Peetermans</surname>
+                  <given-names>M</given-names>
+                </name>
+                <etal/>
+              </person-group>
+              <article-title>Pentostatin in T-cell malignancies--a phase II trial of the EORTC. Leukemia Cooperative Group.</article-title>
+              <source>Ann Oncol</source>
+              <year>1999</year>
+              <volume>10</volume>
+              <fpage>1493</fpage>
+              <lpage>8</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Among 76 patients with T cell malignancies treated with pentostatin, toxicities were mild and self-limited and included liver test abnormalities in 24%, but values above 5 times ULN occurred in only 1 patient).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">10643542</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Pentostatin.REF.ho.2000.52">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Ho</surname>
+                  <given-names>AD</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Suciu</surname>
+                  <given-names>S</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Stryckmans</surname>
+                  <given-names>P</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>De Cataldo</surname>
+                  <given-names>F</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Willemze</surname>
+                  <given-names>R</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Thaler</surname>
+                  <given-names>J</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Peetermans</surname>
+                  <given-names>M</given-names>
+                </name>
+                <etal/>
+              </person-group>
+              <article-title>Pentostatin (Nipent) in T-cell malignancies. Leukemia Cooperative Group and the European Organization for Research and Treatment of Cancer.</article-title>
+              <source>Semin Oncol</source>
+              <year>2000</year>
+              <volume>27</volume>
+              <issue>2</issue>
+              <supplement>Suppl 5</supplement>
+              <fpage>52</fpage>
+              <lpage>7</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Same study as described in Ho [1999]).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">10877053</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Pentostatin.REF.tsimberidou.2004.342">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Tsimberidou</surname>
+                  <given-names>AM</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Giles</surname>
+                  <given-names>F</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Duvic</surname>
+                  <given-names>M</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Fayad</surname>
+                  <given-names>L</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Kurzrock</surname>
+                  <given-names>R</given-names>
+                </name>
+              </person-group>
+              <article-title>Phase II study of pentostatin in advanced T-cell lymphoid malignancies: update of an M.D. Anderson Cancer Center series.</article-title>
+              <source>Cancer</source>
+              <year>2004</year>
+              <volume>100</volume>
+              <fpage>342</fpage>
+              <lpage>9</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Among 42 adults with T cell malignancies treated with 1 to 12 courses of pentostatin [4 mg/m<sup>2</sup>], 20 [48%] developed infections, 19% serum creatinine elevations and one Guillain Barre like syndrome; no mention of ALT elevations or hepatotoxicity).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">14716770</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Pentostatin.REF.else.2005.2442">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Else</surname>
+                  <given-names>M</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Ruchlemer</surname>
+                  <given-names>R</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Osuji</surname>
+                  <given-names>N</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Del Giudice</surname>
+                  <given-names>I</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Matutes</surname>
+                  <given-names>E</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Woodman</surname>
+                  <given-names>A</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Wotherspoon</surname>
+                  <given-names>A</given-names>
+                </name>
+                <etal/>
+              </person-group>
+              <article-title>Long remissions in hairy cell leukemia with purine analogs: a report of 219 patients with a median follow-up of 12.5 years.</article-title>
+              <source>Cancer</source>
+              <year>2005</year>
+              <volume>104</volume>
+              <fpage>2442</fpage>
+              <lpage>8</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Among 219 patients with hairy cell leukemia treated with either cladribine [n=34] or pentostatin [n=185], rates of complete remission [81% vs 82%] and 10 year survival [100% vs 96%] were similar).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">16245328</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Pentostatin.REF.cannon.2008.860">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Cannon</surname>
+                  <given-names>T</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Mobarek</surname>
+                  <given-names>D</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Wegge</surname>
+                  <given-names>J</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Tabbara</surname>
+                  <given-names>IA</given-names>
+                </name>
+              </person-group>
+              <article-title>Hairy cell leukemia: current concepts.</article-title>
+              <source>Cancer Invest</source>
+              <year>2008</year>
+              <volume>26</volume>
+              <fpage>860</fpage>
+              <lpage>5</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Review of the clinical features, course and therapy of hairy cell leukemia; cladribine and pentostatin are first line therapies for this disease and have similar rates of long term response; infections may be less common with pentostatin, but cladribine is given in a single course, whereas pentostatin must be given as multiple courses).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">18798068</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Pentostatin.REF.jain.2014.187">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Jain</surname>
+                  <given-names>P</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Pemmaraju</surname>
+                  <given-names>N</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Ravandi</surname>
+                  <given-names>F.</given-names>
+                </name>
+              </person-group>
+              <article-title>Update on the Biology and Treatment Options for Hairy Cell Leukemia.</article-title>
+              <source>Curr Treat Options Oncol</source>
+              <year>2014</year>
+              <volume>15</volume>
+              <fpage>187</fpage>
+              <lpage>209</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Review of the clinical features, etiology and therapy of hairy cell leukemia which has been linked to mutations in the BRAF gene [V600E] and, while usually responsive to therapy with cladribine or pentostatin, promising future approaches include inhibitors of the BRAF signaling pathway).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">24652320</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Pentostatin.REF.chalasani.2015.1340">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Chalasani</surname>
+                  <given-names>N</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Bonkovsky</surname>
+                  <given-names>HL</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Fontana</surname>
+                  <given-names>R</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Lee</surname>
+                  <given-names>W</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Stolz</surname>
+                  <given-names>A</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Talwalkar</surname>
+                  <given-names>J</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Reddy</surname>
+                  <given-names>KR</given-names>
+                </name>
+                <etal/>
+                <collab>United States Drug Induced Liver Injury Network</collab>
+              </person-group>
+              <article-title>Features and outcomes of 899 patients with drug-induced liver injury: The DILIN Prospective Study.</article-title>
+              <source>Gastroenterology</source>
+              <year>2015</year>
+              <volume>148</volume>
+              <fpage>1340</fpage>
+              <lpage>52.e7</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Among 899 cases of drug induced liver injury enrolled in a US prospective study between 2004 and 2013, 363 [36%] were attributed to antibiotics, none of which was due to pentostatin).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">25754159</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Pentostatin.REF.robak.2015.1419">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Robak</surname>
+                  <given-names>T</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Wolska</surname>
+                  <given-names>A</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Robak</surname>
+                  <given-names>P</given-names>
+                </name>
+              </person-group>
+              <article-title>Potential breakthroughs with investigational drugs for hairy cell leukemia.</article-title>
+              <source>Expert Opin Investig Drugs</source>
+              <year>2015</year>
+              <volume>24</volume>
+              <fpage>1419</fpage>
+              <lpage>31</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Review of new therapies for hairy cell leukemia particularly for patients refractory to pentostatin and cladribine, the drugs of choice for the disease; no discussion of adverse events of pentostatin).</italic>
+                </p>
+              </annotation>
+            </element-citation>
+          </ref>
+          <ref id="Pentostatin.REF.ragon.2018.315">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Ragon</surname>
+                  <given-names>BK</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Mehta</surname>
+                  <given-names>RS</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Gulbis</surname>
+                  <given-names>AM</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Saliba</surname>
+                  <given-names>RM</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Chen</surname>
+                  <given-names>J</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Rondon</surname>
+                  <given-names>G</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Popat</surname>
+                  <given-names>UR</given-names>
+                </name>
+                <etal/>
+              </person-group>
+              <article-title>Pentostatin therapy for steroid-refractory acute graft versus host disease: identifying those who may benefit.</article-title>
+              <source>Bone Marrow Transplant</source>
+              <year>2018</year>
+              <volume>53</volume>
+              <fpage>315</fpage>
+              <lpage>25</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Among 60 patients with steroid refractory graft-vs-host disease who received an average of 3 courses of pentostatin, the overall response rate was 33% and complete response rate 18%, but prognosis was poor for non-responders with a 40% mortality rate; no discussion of potential adverse events).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">29269797</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Pentostatin.REF.king.2019.922">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>King</surname>
+                  <given-names>AC</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Kabel</surname>
+                  <given-names>CC</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Pappacena</surname>
+                  <given-names>JJ</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Stump</surname>
+                  <given-names>SE</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Daley</surname>
+                  <given-names>RJ</given-names>
+                </name>
+              </person-group>
+              <article-title>No Loose Ends: A review of the pharmacotherapy of hairy cell and hairy cell Leukemia variant.</article-title>
+              <source>Ann Pharmacother</source>
+              <year>2019</year>
+              <volume>53</volume>
+              <fpage>922</fpage>
+              <lpage>32</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Review of the pharmacotherapy of hairy cell leukemia mentions that adverse events include nausea, rash, pruritus, myelosuppression, fever and infections, and possibly secondary malignancies, no mention of hepatotoxicity).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">30841702</pub-id>
+            </element-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec sec-type="link-group" id="Pentostatin.OTHER_REFERENCE_LINKS">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <label>1</label>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=(Pentostatin/AE)+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D:%222999/12/31%22%5BEDat%5D)">Recent References on Pentostatin: from PubMed.gov</ext-link>
+            </p>
+          </list-item>
+          <list-item>
+            <label>2</label>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Pentostatin">Trials on Pentostatin: from ClinicalTrials.gov</ext-link>
+            </p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

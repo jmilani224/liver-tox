@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="BileAcidResins" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">BileAcidResins</book-part-id>
+      <title-group>
+        <title>Bile Acid Resins or Sequestrants</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>28</day>
+          <month>9</month>
+          <year>2017</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Bilberry" document-type="chapter">Bilberry</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="BileAcids" document-type="chapter">Bile Acids</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="BileAcidResins.OVERVIEW">
+        <title>OVERVIEW</title>
+        <p content-type="pubmed-excerpt">The bile acid resins or sequestrants are the oldest and safest lipid lowering agents, but are less potent than other classes now available and are not always well tolerated. The bile acid sequestrants are highly positively charged molecules that bind to the negatively charged bile acids in the intestine, inhibiting their lipid solubilizing activity and thus blocking cholesterol absorption. They also inhibit the reabsorption of bile acids (which is typically 95%) and thus cause a contraction of the bile acid pool which leads to increased bile acid synthesis that competes with cholesterol synthesis in the liver, which also contributes to the lowering of serum cholesterol levels. Three bile acid sequestrants are available in the United States (common brand name and year of approval): cholestyramine (Questran, 1973), colesevelam (Welchol, 2000) and colestipol (Colestid, 1977). These agents are also used for therapy of pruritus for their activity in lowering the &#x0201c;pruritogens&#x0201d; that accumulate in cholestatic forms of liver disease. The bile acid resins are not absorbed and thus have not been linked to clinically apparent drug induced liver injury. They have the potential to bind to vitamins, hormones or medications in the intestine and result in subtherapeutic serum levels.</p>
+        <p content-type="pubmed-excerpt">The bile acid resins have not been associated with clinically apparent acute liver injury, which is probably because of their lack of absorption. For unexplained reasons, however, therapy with these agents is associated with a low rate of mild (1 to 3 fold) serum aminotransferase and alkaline phosphatase elevations which are self-limited and not associated with symptoms or jaundice and resolve rapidly with stopping therapy.</p>
+        <p content-type="pubmed-excerpt">Drug Class: <related-object source-id="livertox" document-id="Lipid-LoweringAgents">Antilipemic Agents</related-object></p>
+        <p>Drugs in the Subclass, Bile Acid Resins/Sequestrants: <related-object source-id="livertox" document-id="Cholestyramine">Cholestyramine</related-object>, <related-object source-id="livertox" document-id="Colesevelam">Colesevelam</related-object>, <related-object source-id="livertox" document-id="Colestipol">Colestipol</related-object></p>
+      </sec>
+      <sec id="BileAcidResins.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 28 September 2017</p>
+        <ref-list id="BileAcidResins.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="BileAcidResins.R1">
+            <mixed-citation publication-type="other">Zimmerman HJ. Drugs used in the treatment of hypercholesterolemia and hyperlipidemia. In, Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999, pp. 660-2.<annotation><p><italic toggle="yes">(Expert review of hepatotoxicity published in 1999; cholestyramine has been mentioned as a cause of serum aminotransferase elevations, but &#x0201c;This is a curious phenomenon for a nonabsorbed drug&#x0201d;).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="BileAcidResins.R2">
+            <mixed-citation publication-type="other">De Marzio DH, Navarro VJ. Hepatotoxicity of cardiovascular and antidiabetic drugs. Lipid regulating agents. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013, pp. 526-7.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of lipid lowering agents; the bile acid resins are not discussed).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="BileAcidResins.R3">
+            <mixed-citation publication-type="other">Bersot TP. Drug therapy for hypercholesterolemia and dyslipidemia. In, Brunton LL, Chabner BA, Knollman BC, eds. Goodman &#x00026; Gilman&#x02019;s the pharmacological basis of therapeutics. 12th ed. New York: McGraw-Hill, 2011, pp. 877-908.<italic toggle="yes">
+</italic><annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="BileAcidResins.R4">
+            <mixed-citation publication-type="journal">The Lipid Research Clinics Coronary Primary Prevention Trial results. I. Reduction in incidence of coronary heart disease. JAMA 1984; 251: 351-64. <annotation><p><italic toggle="yes">(Landmark trial of cholesterol lowering using cholestyramine for primary prevention of symptomatic coronary artery disease; patients on cholestyramine had higher serum AST levels that those on placebo during the first year of therapy; no hepatic serious adverse events or episodes of acute liver injury).</italic></p></annotation><pub-id pub-id-type="pmid">6361299</pub-id></mixed-citation>
+          </ref>
+          <ref id="BileAcidResins.R5">
+            <mixed-citation publication-type="journal">Di Padova C, Tritapepe R, Rovagnati P, Rossetti S. Double-blind placebo-controlled clinical trial of microporous cholestyramine in the treatment of intra- and extra-hepatic cholestasis: relationship between itching and serum bile acids. Methods Find Exp Clin Pharmacol 1984; 6: 773-6. <annotation><p><italic toggle="yes">(Placebo controlled trial of cholestyramine [3 g three times daily] in 10 patients with cholestasis; itching and bile acids were reduced, but no mention of serum enzymes or bilirubin levels).</italic></p></annotation><pub-id pub-id-type="pmid">6397677</pub-id></mixed-citation>
+          </ref>
+          <ref id="BileAcidResins.R6">
+            <mixed-citation publication-type="journal">The Lovastatin Study Group III. A multicenter comparison of lovastatin and cholestyramine therapy for severe primary hypercholesterolemia. JAMA 1988; 260: 359-66. <annotation><p><italic toggle="yes">(Controlled trial of lovastatin [20 or 40 mg/day] vs cholestyramine [16 g/day] for 12 weeks in 264 patients with hypercholesterolemia; mean ALT levels increased in cholestyramine treated patients and ALT levels &#x0003e;2 times normal occurred in 9% of cholestyramine vs 1% of lovastatin treated patients).</italic></p></annotation><pub-id pub-id-type="pmid">2898027</pub-id></mixed-citation>
+          </ref>
+          <ref id="BileAcidResins.R7">
+            <mixed-citation publication-type="journal">LaRosa J. Review of clinical studies of bile acid sequestrants for lowering plasma lipid levels. Cardiology 1989; 76 Suppl 1: 55-61. <annotation><p><italic toggle="yes">(Review of efficacy and safety of bile acid sequestrants; no mention of hepatotoxicity or serum enzyme elevations).</italic></p></annotation><pub-id pub-id-type="pmid">2653624</pub-id></mixed-citation>
+          </ref>
+          <ref id="BileAcidResins.R8">
+            <mixed-citation publication-type="journal">Stein E, Kreisberg R, Miller V, Mantell G, Washington L, Shapiro DR. Effects of simvastatin and cholestyramine in familial and nonfamilial hypercholesterolemia. Multicenter Group I. Arch Intern Med 1990; 150: 341-5. <annotation><p><italic toggle="yes">(Controlled trial of simvastatin [20 or 40 mg] vs cholestyramine [4-12 g/day] in 251 patients with hypercholesterolemia; &#x0201c;simvastatin was better tolerated&#x0201d;, week 12 ALT levels were &#x0003e;1.5 times ULN in 7.1% of cholestyramine treated vs 2.4% and 8.6% of simvastatin treated; Alk P elevated in 13% vs none on simvastatin).</italic></p></annotation><pub-id pub-id-type="pmid">2405804</pub-id></mixed-citation>
+          </ref>
+          <ref id="BileAcidResins.R9">
+            <mixed-citation publication-type="journal">Pravastatin Multicenter Study Group II. Comparative efficacy and safety of pravastatin and cholestyramine alone and combined in patients with hypercholesterolemia. Arch Intern Med 1993; 153: 1321-9. <annotation><p><italic toggle="yes"> (Controlled trial of pravastatin vs cholestyramine vs both in 311 patients with hyperlipidemia treated for 8 weeks found that ALT elevations occurred in 21% of patients receiving cholestyramine alone and average ALT levels rose by 25%).</italic></p></annotation><pub-id pub-id-type="pmid">8507122</pub-id></mixed-citation>
+          </ref>
+          <ref id="BileAcidResins.R10">
+            <mixed-citation publication-type="journal">Ito MK, Shabetai R. Pravastatin alone and in combination with low-dose cholestyramine in patients with primary hypercholesterolemia and coronary artery disease. Am J Cardiol 1997; 80: 799-802. <annotation><p><italic toggle="yes">(Controlled trial of pravastatin alone vs combination with cholestyramine [10 g/day] for 18 weeks in 59 patients with hypercholesterolemia; there was a 44% increase in mean ALT levels in the combination group vs 8% increase in the pravastatin only group).</italic></p></annotation><pub-id pub-id-type="pmid">9315597</pub-id></mixed-citation>
+          </ref>
+          <ref id="BileAcidResins.R11">
+            <mixed-citation publication-type="journal">Davidson MH, Dillon MA, Gordon B, Jones P, Samuels J, Weiss S, Isaacsohn J, et al. Colesevelam hydrochloride (cholestagel): a new, potent bile acid sequestrant associated with a low incidence of gastrointestinal side effects. Arch Intern Med 1999; 159: 1893-900. <annotation><p><italic toggle="yes">(Controlled trial of colesevelam [4 dosages] vs placebo for 6 weeks in 149 patients with hypercholesterolemia; fatigue, flatulence, constipation and dyspepsia were most common adverse events; mean ALT and Alk P increased in some dosage groups, but there were no clinically significant changes, jaundice or symptoms).</italic></p></annotation><pub-id pub-id-type="pmid">10493319</pub-id></mixed-citation>
+          </ref>
+          <ref id="BileAcidResins.R12">
+            <mixed-citation publication-type="journal">Sirmans SM, Beck JK, Banh HL, Freeman DA. Colestipol-induced hepatotoxicity. Pharmacotherapy 2001; 21: 513-6. <annotation><p><italic toggle="yes">(65 year old man developed marked serum aminotransferase elevations [ALT 593 U/L] without symptoms or increases in Alk P [105 U/L] or bilirubin [0.6 mg/dL] 27 weeks after starting colestipol [10 g/day], resolving within a week of stopping; also on acetaminophen).</italic></p></annotation><pub-id pub-id-type="pmid">11310528</pub-id></mixed-citation>
+          </ref>
+          <ref id="BileAcidResins.R13">
+            <mixed-citation publication-type="journal">Hunninghake D, Insull W Jr, Toth P, Davidson D, Donovan JM, Burke SK. Coadministration of colesevelam hydrochloride with atorvastatin lowers LDL cholesterol additively. Atherosclerosis 2001; 158: 407-16. <annotation><p><italic toggle="yes">(Controlled trial of atorvastatin vs colesevelam vs the combination in 94 patients with hypercholesterolemia; mild increases in ALT and Alk P occurred in all three groups).</italic></p></annotation><pub-id pub-id-type="pmid">11583720</pub-id></mixed-citation>
+          </ref>
+          <ref id="BileAcidResins.R14">
+            <mixed-citation publication-type="journal">Aldridge MA, Ito MK. Colesevelam hydrochloride: a novel bile acid-binding resin. Ann Pharmacother 2001; 35: 898-907. <annotation><p><italic toggle="yes">(Review of pharmacology, efficacy and side effects of colesevelam; no serious adverse events have been reported; minor increases occur in ALT and Alk P, but average values remain in the normal range).</italic></p></annotation><pub-id pub-id-type="pmid">11485143</pub-id></mixed-citation>
+          </ref>
+          <ref id="BileAcidResins.R15">
+            <mixed-citation publication-type="journal">Knapp HH, Schrott H, Ma P, Knopp R, Chin B, Gaziano JM, Donovan JM, et al. Efficacy and safety of combination simvastatin and colesevelam in patients with primary hypercholesterolemia. Am J Med 2001; 110: 352-60. <annotation><p><italic toggle="yes">(Controlled trial of simvastatin vs colesevelam vs the combination vs placebo in 241 patients with hypercholesterolemia; &#x0201c;no clinically notable changes in chemistry or hematology values&#x0201d;).</italic></p></annotation><pub-id pub-id-type="pmid">11286949</pub-id></mixed-citation>
+          </ref>
+          <ref id="BileAcidResins.R16">
+            <mixed-citation publication-type="journal">Kondrackiene J, Beuers U, Kupcinskas L. Efficacy and safety of ursodeoxycholic acid versus cholestyramine in intrahepatic cholestasis of pregnancy. Gastroenterology 2005; 129: 894-901. <annotation><p><italic toggle="yes">(Controlled trial of ursodiol vs cholestyramine [8 mg/day] for 2 weeks in 84 women with intrahepatic cholestasis of pregnancy; serum ALT levels fell in ursodiol, but increased slightly in cholestyramine treated patients as did Alk P to a lesser extent).</italic></p></annotation><pub-id pub-id-type="pmid">16143129</pub-id></mixed-citation>
+          </ref>
+          <ref id="BileAcidResins.R17">
+            <mixed-citation publication-type="journal">Kawashiri MA, Higashikata T, Nohara A, Kobayashi J, Inazu A, Koizumi J, Mabuchi H. Efficacy of colestimide coadministered with atorvastatin in Japanese patients with heterozygous familial hypercholesterolemia (FH). Circ J 2005; 69: 515-20. <annotation><p><italic toggle="yes">(Open label study of atorvastatin followed by addition of colestimide in 15 patients with severe hypercholesterolemia; no changes in ALT or Alk P during therapy and no serious adverse events).</italic></p></annotation><pub-id pub-id-type="pmid">15849435</pub-id></mixed-citation>
+          </ref>
+          <ref id="BileAcidResins.R18">
+            <mixed-citation publication-type="journal">Bhardwah SS, Chalasani N. Lipid-lowering agents that cause drug-induced hepatotoxicity. Clin Liver Dis 2007; 11: 597-613. <annotation><p><italic toggle="yes">(Review of hepatotoxicity of lipid lowering agents: bile acid resins are mostly safe for the liver; mentions the case report of anicteric hepatitis due to colestipol [Sirmans 2000]).</italic></p></annotation><pub-id pub-id-type="pmid">17723922</pub-id></mixed-citation>
+          </ref>
+          <ref id="BileAcidResins.R19">
+            <mixed-citation publication-type="journal">Davidson MH. The use of colesevelam hydrochloride in the treatment 0f dyslipidemia: a review. Expert Opin Pharmacother 2007; 8: 2569-78. <annotation><p><italic toggle="yes">(Review of structure, pharmacology, mechanism of action, efficacy and safety of colesevelam; colesevelam has less side effects and fewer drug interactions than cholestyramine, no mention of changes in serum enzymes or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">17931091</pub-id></mixed-citation>
+          </ref>
+          <ref id="BileAcidResins.R20">
+            <mixed-citation publication-type="journal">Stein EA, Marais AD, Szamosi T, Raal FJ, Schurr D, Urbina EM, Hopkins PN, et al. Colesevelam hydrochloride: efficacy and safety in pediatric subjects with heterozygous familial hypercholesterolemia. J Pediatr 2010; 156: 231-6. <annotation><p><italic toggle="yes"> (Controlled trial of colesevelam vs placebo in 194 children with hypercholesterolemia; side effects were mild and largely gastrointestinal; "there were no clinically meaningful changes in safety laboratory measurements").</italic></p></annotation><pub-id pub-id-type="pmid">19879596</pub-id></mixed-citation>
+          </ref>
+          <ref id="BileAcidResins.R21">
+            <mixed-citation publication-type="journal">Kuiper EM, van Erpecum KJ, Beuers U, Hansen BE, Thio HB, de Man RA, Janssen HL, et al. The potent bile acid sequestrant colesevelam is not effective in cholestatic pruritus: results of a double-blind, randomized, placebo-controlled trial. Hepatology 2010; 52: 1334-40. <annotation><p><italic toggle="yes">(Controlled trial of colesevelam vs placebo for 3 weeks in 35 patients with pruritus due to chronic liver disease found a reduction in bile acid levels, but no change in pruritus; no mention of changes in serum enzymes).</italic></p></annotation><pub-id pub-id-type="pmid">20683930</pub-id></mixed-citation>
+          </ref>
+          <ref id="BileAcidResins.R22">
+            <mixed-citation publication-type="journal">Goldfine AB, Fonseca VA, Jones MR, Wang AC, Ford DM, Truitt KE. Long-term Safety and Tolerability of Colesevelam HCl in Subjects with Type 2 Diabetes. Horm Metab Res 2010; 42: 23-30. <annotation><p><italic toggle="yes">(A 52 week open label extension of trial of colesevelam in 509 patients with type 2 diabetes; 1 patient [0.2%] had ALT and 2 [0.4%] had AST elevations &#x0003e;3 times ULN, but these resolved without complications, with or without stopping colesevelam).</italic></p></annotation><pub-id pub-id-type="pmid">19862667</pub-id></mixed-citation>
+          </ref>
+          <ref id="BileAcidResins.R23">
+            <mixed-citation publication-type="journal">Le TA, Chen J, Changchien C, Peterson MR, Kono Y, Patton H, Cohen BL, et al.; San Diego Integrated NAFLD Research Consortium (SINC). Effect of colesevelam on liver fat quantified by magnetic resonance in nonalcoholic steatohepatitis: a randomized controlled trial. Hepatology 2012; 56: 922-32. <annotation><p><italic toggle="yes">(Controlled trial of 24 weeks of colesevelam vs placebo in 50 patients with nonalcoholic steatohepatitis found that colesevelam therapy was associated with a small increase in ALT [22.5 U/L], Alk P [8 U/L] and hepatic fat [14.2-17%], but decrease in serum cholesterol and no change in weight).</italic></p></annotation><pub-id pub-id-type="pmid">22431131</pub-id></mixed-citation>
+          </ref>
+          <ref id="BileAcidResins.R24">
+            <mixed-citation publication-type="journal">Singhal R, Harrill AH, Menguy-Vacheron F, Jayyosi Z, Benzerdjeb H, Watkins PB. Benign elevations in serum aminotransferases and biomarkers of hepatotoxicity in healthy volunteers treated with cholestyramine. BMC Pharmacol Toxicol 2014;15:42. <annotation><p><italic toggle="yes"> (Among 67 healthy adult volunteers given placebo followed by cholestyramine [8 g daily] for 11 days, serum ALT levels rose above 3 times ULN in 11 subjects, starting 3 days into treatment, peaking at 119-967 U/L [3.5 to 28 times ULN], occurring without symptoms, jaundice or bilirubin elevations, and resolving within 2 weeks of stopping).</italic></p></annotation><pub-id pub-id-type="pmid">25086653</pub-id></mixed-citation>
+          </ref>
+          <ref id="BileAcidResins.R25">
+            <mixed-citation publication-type="journal">Chalasani N, Bonkovsky HL, Fontana R, Lee W, Stolz A, Talwalkar J, Reddy KR, et al.; United States Drug Induced Liver Injury Network. Features and outcomes of 899 patients with drug-induced liver injury: The DILIN Prospective Study. Gastroenterology 2015; 148: 1340-52.e7. <annotation><p><italic toggle="yes">(Among 899 cases of drug induced liver injury enrolled in a US prospective study between 2004 and 2013, none were attributed to a bile acid resin).</italic></p></annotation><pub-id pub-id-type="pmid">25754159</pub-id></mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

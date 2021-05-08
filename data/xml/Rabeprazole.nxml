@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Rabeprazole" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Rabeprazole</book-part-id>
+      <title-group>
+        <title>Rabeprazole</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>15</day>
+          <month>4</month>
+          <year>2019</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Quinupristin-Dalfopr" document-type="chapter">Quinupristin-Dalfopristin</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Raltegravir" document-type="chapter">Raltegravir</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Rabeprazole.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Rabeprazole.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Rabeprazole is a proton pump inhibitor (PPI) and a potent inhibitor of gastric acidity used in the therapy of gastroesophageal reflux and peptic ulcer disease. Rabeprazole therapy is associated with a low rate of transient and asymptomatic serum aminotransferase elevations and is a rare cause of clinically apparent liver injury.</p>
+        </sec>
+        <sec id="Rabeprazole.Background">
+          <title>Background</title>
+          <p>Rabeprazole (ra bep' ra zole), like other PPIs, binds to and inactivates the H+/K+-ATPase of gastric parietal cells, causing inhibition of the proton pump that transports H+ into the gastric lumen, the final common step in gastric acid production. Rabeprazole is a prodrug and is converted to the active form in the acidic secretory canaliculi of parietal cells. Because the inhibition is irreversible, acid secretion is suppressed for 24 to 48 hours, until new proton pump molecules have been synthesized and transported to the cell membrane. Rabeprazole was the third PPI approved for use in the United States (1999) and is widely used in the therapy of acid-peptic disease, including duodenal and gastric ulcer disease and gastroesophageal reflux. Rabeprazole is available in delayed release tablets of 20 mg in generic forms and under the brand name Aciphex. The typical dose for duodenal ulcer disease is 20 mg once daily for 4 to 8 weeks, with similar doses for long term maintenance therapy. Twice daily doses are used for more severe cases of gastrointestinal reflux and peptic ulcer disease, and doses of up to 120 mg daily for Zollinger-Ellison syndrome. Rabeprazole is very well tolerated. Side effects are uncommon and usually mild; they may include nausea, vomiting, abdominal discomfort, constipation, diarrhea, flatulence, skin rash, headaches and dizziness. Severe side effects are rare but can include hypersensitivity reactions. Long-term use of rabeprazole may be associated with bone fractures, acute interstitial nephritis, lupus erythematosus, vitamin B12 deficiency and hypomagnesemia.</p>
+        </sec>
+        <sec id="Rabeprazole.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>Despite its wide use, rabeprazole has only rarely been associated with hepatic injury. In large scale, long term trials of rabeprazole, serum ALT elevations occurred in less than 1% of patients and at rates similar to those with placebo or comparator drugs. In large case series of drug induced liver injury, rabeprazole has accounted for few instances of symptomatic acute liver injury. Only a few cases of clinically apparent liver disease due to rabeprazole have been published and the characteristics of the injury have not been well defined, but appear to be similar to the features of hepatic injury associated with other proton pump inibitors. Clinically apparent liver injury due to proton pump inhibitors typically arises within the first 4 weeks of treatment with symptoms of jaundice, nausea and fatigue and a hepatocellular or mixed pattern of serum enzyme elevations. Recovery is typically rapid upon withdrawal of the agent. Rash, fever and eosinophilia are rare, as is autoantibody formation. Instances of recurrence on rechallenge have been reported.</p>
+          <p>Likelihood score: D (possible rare cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Rabeprazole.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The acute onset and rapid recurrence of hepatic injury with proton pump inhibitors suggests a hypersensitivity reaction, but may merely reflect altered metabolism or acute toxicity of a metabolic byproduct. Rabeprazole is metabolized predominantly by the CYP 2C19 microsomal drug-metabolizing enzyme and may interfere with clearance of other agents metabolized in a similar fashion.</p>
+        </sec>
+        <sec id="Rabeprazole.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>The mild and asymptomatic elevations in serum aminotransferase that have been observed during rabeprazole therapy are usually transient and may resolve even without dose modification. Clinically apparent liver injury due to rabeprazole is rare, but calls for prompt withdrawal of the agent. Cases of acute liver failure due to proton pump inhibitor use have been described, but not specifically with rabeprazole. Recurrence of acute liver injury on rechallenge after an initial episode of clinically apparent liver injury with rabeprazole has been reported. There is no information about cross reactivity among the various PPIs after rabeprazole hepatotoxicity, but the PPIs all share a benzimidazole structure, and caution should be used in attempting to reintroduce another PPI after clinically apparent PPI associated hepatic injury.</p>
+          <p>Drug Class: <related-object source-id="livertox" document-id="AntiulcerAgents">Antiulcer Agents</related-object></p>
+          <p>Other Drugs in the Subclass, <related-object source-id="livertox" document-id="ProtonPumpInhibitors">Proton Pump Inhibitors</related-object>: <related-object source-id="livertox" document-id="Lansoprazole">Dexlansoprazole</related-object>, <related-object source-id="livertox" document-id="Omeprazole">Esomeprazole</related-object>, <related-object source-id="livertox" document-id="Lansoprazole">Lansoprazole</related-object>, <related-object source-id="livertox" document-id="Omeprazole">Omeprazole</related-object>, <related-object source-id="livertox" document-id="Pantoprazole">Pantoprazole</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Rabeprazole.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <boxed-text position="anchor" id="Rabeprazole.BPI" orientation="portrait">
+          <p>
+            <bold>REPRESENTATIVE TRADE NAMES</bold>
+          </p>
+          <p>Rabeprazole &#x02013; Generic, Aciphex&#x000ae;</p>
+          <p>
+            <bold>DRUG CLASS</bold>
+          </p>
+          <p>Antiulcer Agents</p>
+          <p>
+            <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Rabeprazole">COMPLETE LABELING</ext-link>
+          </p>
+          <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+        </boxed-text>
+      </sec>
+      <sec id="Rabeprazole.CHEMICAL_FORMULA_AND_STRUCTU">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Rabeprazole.T1" position="anchor" orientation="portrait">
+          <table>
+            <thead>
+              <tr>
+                <th id="hd_h_Rabeprazole.T1_1_1_1_1" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Rabeprazole.T1_1_1_1_2" rowspan="1" colspan="1">CAS REGISTRY NUMBER</th>
+                <th id="hd_h_Rabeprazole.T1_1_1_1_3" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Rabeprazole.T1_1_1_1_4" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Rabeprazole.T1_1_1_1_1" rowspan="1" colspan="1">Rabeprazole</td>
+                <td headers="hd_h_Rabeprazole.T1_1_1_1_2" rowspan="1" colspan="1">
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135017547">117976-90-6</ext-link>
+                </td>
+                <td headers="hd_h_Rabeprazole.T1_1_1_1_3" rowspan="1" colspan="1">C18-H21-N3-O3-S.Na</td>
+                <td headers="hd_h_Rabeprazole.T1_1_1_1_4" rowspan="1" colspan="1">
+                  <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Rabeprazole_Structure.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait">
+                    <alt-text>Rabeprazole Chemical Structure</alt-text>
+                  </graphic>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Rabeprazole.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 15 April 2019</p>
+        <ref-list id="Rabeprazole.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Rabeprazole.R1">
+            <mixed-citation publication-type="other">Zimmerman HJ. Proton pump inhibitors. In, Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999, pp. 720-1.<annotation><p><italic toggle="yes">(Expert review of hepatotoxicity published in 1999 states that aminotransferase elevations occur in ~1% of PPI treated patients, but only 1 case of acute liver injury has been reported with omeprazole, none with the more recently released lansoprazole and pantoprazole).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Rabeprazole.R2">
+            <mixed-citation publication-type="other">Sharkey KA, McNaughton WK. Pharmacotherapy of gastric acidity, peptic ulcers, and gastroesophageal reflux disease. In, Brunton LL, Hilal-Dandan R, Knollman BC, eds. Goodman &#x00026; Gilman's the pharmacological basis of therapeutics. 13th ed. New York: McGraw-Hill, 2018, pp. 921-44.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Rabeprazole.R3">
+            <mixed-citation publication-type="journal">Arnold R. Safety of proton pump inhibitors--an overview. Aliment Pharmacol Ther 1994; 8 Suppl 1: 65-70. <annotation><p><italic toggle="yes">(Side effects of PPIs are uncommon and no more frequent than with cimetidine and ranitidine; "Omeprazole had no clinically relevant effects of laboratory values including...liver function").</italic></p></annotation><pub-id pub-id-type="pmid">8180297</pub-id></mixed-citation>
+          </ref>
+          <ref id="Rabeprazole.R4">
+            <mixed-citation publication-type="journal">Reilly JP. Safety profile of the proton-pump inhibitors. Am J Health Syst Pharm 1999; 56 (23 Suppl 4): S11-7. <annotation><p><italic toggle="yes">(Review of side effects of proton pump inhibitors, including long term tolerance).</italic></p></annotation><pub-id pub-id-type="pmid">10597119</pub-id></mixed-citation>
+          </ref>
+          <ref id="Rabeprazole.R5">
+            <mixed-citation publication-type="journal">Martin RM, Dunn NR, Freemantle S, Shakir S. The rates of common adverse events reported during treatment with proton pump inhibitors used in general practice in England: cohort studies. Br J Clin Pharmacol 2000; 50: 366-72. <annotation><p><italic toggle="yes">(Prescription event monitoring of common side effects of omeprazole, lansoprazole and pantoprazole from the UK found low rates of diarrhea [0.18-0.39/1000 days], abdominal pain [0.17-.21], nausea [0.16-0.22] and headache [0.10-0.17]; no analysis of liver toxicities).</italic></p></annotation><pub-id pub-id-type="pmid">11012560</pub-id></mixed-citation>
+          </ref>
+          <ref id="Rabeprazole.R6">
+            <mixed-citation publication-type="journal">Johnstone D, Berger C, Fleckman P. Acute fulminant hepatitis after treatment with rabeprazole and terbinafine. Arch Intern Med 2001; 161: 1677-8. <annotation><p><italic toggle="yes">(46 year old developed jaundice 4 weeks after starting terbinafine, rabeprazole and citalopram [bilirubin 1.2, ALT &#x0003e;3000 U/L], biopsy showing submassive necrosis, resolving in 2 months; authors suggest that rabeprazole rather than terbinafine was the cause).</italic></p></annotation><pub-id pub-id-type="pmid">11434801</pub-id></mixed-citation>
+          </ref>
+          <ref id="Rabeprazole.R7">
+            <mixed-citation publication-type="journal">Andrade RJ, Lucena MI. Acute fulminant hepatitis after treatment with rabeprazole and terbinafine: is rabeprazole the culprit? Arch Intern Med 2002; 162: 360-1. <annotation><p><italic toggle="yes">(Letter in response to Johnstone [2001] argues that terbinafine rather than rabeprazole was the cause of the hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">11822934</pub-id></mixed-citation>
+          </ref>
+          <ref id="Rabeprazole.R8">
+            <mixed-citation publication-type="journal">Russo MW, Galanko JA, Shrestha R, Fried MW, Watkins P. Liver transplantation for acute liver failure from drug-induced liver injury in the United States. Liver Transpl 2004; 10: 1018-23. <annotation><p><italic toggle="yes">(Among ~50,000 liver transplants reported to UNOS between 1990 and 2002, 270 [0.5%] were done for drug induced acute liver failure, but none were attributed to an H2 blocker or proton pump inhibitor).</italic></p></annotation><pub-id pub-id-type="pmid">15390328</pub-id></mixed-citation>
+          </ref>
+          <ref id="Rabeprazole.R9">
+            <mixed-citation publication-type="journal">de Abajo FJ, Montero D, Madurga M, Garc&#x000ed;a Rodr&#x000ed;guez LA. Acute and clinically relevant drug-induced liver injury: a population based case-control study. Br J Clin Pharmacol 2004; 58: 71-80. <annotation><p><italic toggle="yes">(Analysis of General Practice Research Database from UK on 1.6 million persons from 1994-2000 found 128 cases of drug induced liver injury [2.4/100,000 person years]; 3 cases were attributed to cimetidine for an odds ratio of 2.0 compared to controls [n=5000], which was not statistically significant; rabeprazole was not discussed).</italic></p></annotation><pub-id pub-id-type="pmid">15206996</pub-id></mixed-citation>
+          </ref>
+          <ref id="Rabeprazole.R10">
+            <mixed-citation publication-type="journal">Sabat&#x000e9; M, Ib&#x000e1;&#x000f1;ez L, P&#x000e9;rez E, Vidal X, Buti M, Xiol X, Mas A. Fulminant drug-induced hepatic failure leading to death or liver transplantation in Sweden. Scand J Gastroenterol 2005; 40: 1095-101. <annotation><p><italic toggle="yes">(Survey of all cases of DILI with fatal outcome from Swedish Adverse Drug Reporting system from 1966-2002; 103 cases were identified and judged as highly probable, probable or possible; 1 case was attributed to ranitidine, 1 to omeprazole, but none to other antiulcer agents).</italic></p></annotation><pub-id pub-id-type="pmid">16165719</pub-id></mixed-citation>
+          </ref>
+          <ref id="Rabeprazole.R11">
+            <mixed-citation publication-type="journal">Salgueiro E, Rubio T, Hidalgo A, Manso G. Safety profile of proton pump inhibitors according to the spontaneous reports of suspected adverse reactions. Int J Clin Pharmacol Ther 2006; 44: 548-56. <annotation><p><italic toggle="yes">(Analysis of PPI related reports to Spanish Pharmacovigilance Database during 2004 found 58 reports of liver injury from omeprazole [n=36], lansoprazole [7], pantoprazole [12], rabeprazole [2] and esomeprazole [1], correlating somewhat with relative number of prescriptions; 82% were taking other medications; most resolved uneventually).</italic></p></annotation><pub-id pub-id-type="pmid">17176621</pub-id></mixed-citation>
+          </ref>
+          <ref id="Rabeprazole.R12">
+            <mixed-citation publication-type="journal">Sabat&#x000e9; M, Ib&#x000e1;&#x000f1;ez L, P&#x000e9;rez E, Vidal X, Buti M, Xiol X, Mas A, et al. Risk of acute liver injury associated with the use of drugs: a multicentre population survey. Aliment Pharmacol Ther 2007; 25:1401-9. <annotation><p><italic toggle="yes">(Population based survey of 126 cases of acute liver injury due to drugs between 1993-1999 in Spain; 8 were attributed to ranitidine alone [incidence 5.1/100,000 person-years] and 5 to omeprazole alone [2.1/100,000]).</italic></p></annotation><pub-id pub-id-type="pmid">17539979</pub-id></mixed-citation>
+          </ref>
+          <ref id="Rabeprazole.R13">
+            <mixed-citation publication-type="journal">Chalasani N, Fontana RJ, Bonkovsky HL, Watkins PB, Davern T, Serrano J, Yang H, Rochon J; Drug Induced Liver Injury Network (DILIN). Causes, clinical features, and outcomes from a prospective study of drug-induced liver injury in the United States. Gastroenterology 2008; 135: 1924-34. <annotation><p><italic toggle="yes">(Among 300 cases of drug induced liver disease in the US collected between 2004 and 2008, 2 were attributed to ranitidine, none to cimetidine or the proton pump inhibitors).</italic></p></annotation><pub-id pub-id-type="pmid">18955056</pub-id></mixed-citation>
+          </ref>
+          <ref id="Rabeprazole.R14">
+            <mixed-citation publication-type="journal">Ferrajolo C, Capuano A, Verhamme KM, Schuemie M, Rossi F, Stricker BH, Sturkenboom MC. Drug-induced hepatic injury in children: a case/non-case study of suspected adverse drug reactions in VigiBase. Br J Clin Pharmacol 2010; 70: 721-8. <annotation><p><italic toggle="yes">(World wide pharmacovigilance database contained 9036 hepatic adverse drug reactions in children, but no antiulcer medication was listed in the top 40 causes).</italic></p></annotation><pub-id pub-id-type="pmid">21039766</pub-id></mixed-citation>
+          </ref>
+          <ref id="Rabeprazole.R15">
+            <mixed-citation publication-type="journal">Reuben A, Koch DG, Lee WM; Acute Liver Failure Study Group. Drug-induced acute liver failure: results of a U.S. multicenter, prospective study. Hepatology 2010; 52: 2065-76. <annotation><p><italic toggle="yes">(Among 1198 patients with acute liver failure enrolled in a US prospective study between 1998 and 2007, 133 were attributed to drug induced liver injury, but no case was linked to an antiulcer medication).</italic></p></annotation><pub-id pub-id-type="pmid">20949552</pub-id></mixed-citation>
+          </ref>
+          <ref id="Rabeprazole.R16">
+            <mixed-citation publication-type="journal">Akta&#x0015f; B, Ba&#x0015f;ar &#x000d6;, Altinba&#x0015f; A, Ekiz F, Y&#x000fc;ksel O. Rabeprazole-induced acute cholestatic liver injury. Turk J Gastroenterol 2012; 23: 309-10. <annotation><p><italic toggle="yes">(46 year old man developed jaundice one week after starting rabeprazole [bilirubin 8.3 mg/dL, ALT 374 U/L, Alk P 470 U/L], with resolution within 15 days of stopping and recurrence of jaundice within 3 days of restarting).</italic></p></annotation><pub-id pub-id-type="pmid">22798130</pub-id></mixed-citation>
+          </ref>
+          <ref id="Rabeprazole.R17">
+            <mixed-citation publication-type="journal">Bj&#x000f6;rnsson ES, Bergmann OM, Bj&#x000f6;rnsson HK, Kvaran RB, Olafsson S. Incidence, presentation and outcomes in patients with drug-induced liver injury in the general population of Iceland. Gastroenterology 2013; 144: 1419-25. <annotation><p><italic toggle="yes">(In a population based study of drug induced liver injury from Iceland, 96 cases were identified over a 2 year period, but none were attributed to rabeprazole, despite it being among the 10 most prescribed medications in Iceland).</italic></p></annotation><pub-id pub-id-type="pmid">23419359</pub-id></mixed-citation>
+          </ref>
+          <ref id="Rabeprazole.R18">
+            <mixed-citation publication-type="journal">Hern&#x000e1;ndez N, Bessone F, S&#x000e1;nchez A, di Pace M, Brahm J, Zapata R, A Chirino R, et al. Profile of idiosyncratic drug induced liver injury in Latin America. An analysis of published reports. Ann Hepatol 2014; 13: 231-9. <annotation><p><italic toggle="yes"> (Systematic review of literature of drug induced liver injury in Latin American countries published from 1996 to 2012 identified 176 cases, none of which were attributed to rabeprazole or other proton pump inhibitors).</italic></p></annotation><pub-id pub-id-type="pmid">24552865</pub-id></mixed-citation>
+          </ref>
+          <ref id="Rabeprazole.R19">
+            <mixed-citation publication-type="journal">Chalasani N, Bonkovsky HL, Fontana R, Lee W, Stolz A, Talwalkar J, Reddy KR, et al.; United States Drug Induced Liver Injury Network. Features and outcomes of 899 patients with drug-induced liver injury: The DILIN Prospective Study. Gastroenterology 2015; 148: 1340-52.e7. <annotation><p><italic toggle="yes">(Among 899 cases of drug induced liver injury enrolled in a US prospective study between 2004 and 2013, 3 [0.3%] were attributed to proton pump inhibitors [omeprazole, esomeprazole and lansoprazole], but none to rabeprazole).</italic></p></annotation><pub-id pub-id-type="pmid">25754159</pub-id></mixed-citation>
+          </ref>
+          <ref id="Rabeprazole.R20">
+            <mixed-citation publication-type="journal">Tsai CF, Chen MH, Wang YP, Chu CJ, Huang YH, Lin HC, Hou MC, et al. Proton pump inhibitors increase risk for hepatic encephalopathy in patients With cirrhosis in a population study. Gastroenterology 2017; 152: 134-41. <annotation><p><italic toggle="yes">(Analysis of the Taiwan National Health Insurance database found a higher rate of proton pump inhibitor use among patients with cirrhosis who developed hepatic encephalopathy [38%: 445 of 1166] compared to a matched group with cirrhosis who did not [rate not provided]; the relative risk was raised for all agents except for rabeprazole).</italic></p></annotation><pub-id pub-id-type="pmid">27639806</pub-id></mixed-citation>
+          </ref>
+          <ref id="Rabeprazole.R21">
+            <mixed-citation publication-type="journal">Weersink RA, Bouma M, Burger DM, Drenth JPH, Froukje Harkes-Idzinga S, Hunfeld NGM, Metselaar HJ, et al. Safe use of proton pump inhibitors in patients with cirrhosis. Br J Clin Pharmacol 2018; 84: 1806-20. <annotation><p><italic toggle="yes">(Systematic review of 69 publications in the literature suggested that doses of proton pump inhibitors should be reduced in patients with cirrhosis and only esomeprazole used in those with Child Pugh Class C cirrhosis, plasma levels of rabeprazole being elevated in patients with cirrhosis, 2-fold with Child Pugh class A, 3-fold with class B and 5-fold with class C).</italic></p></annotation><pub-id pub-id-type="pmid">29688583</pub-id></mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec id="Rabeprazole.OTHER_REFERENCE_LINKS" sec-type="link-group">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=(Rabeprazole/AE)+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D%3A%222999/12/31%22%5BEDat%5D)">Recent References on Rabeprazole: from PubMed.gov</ext-link>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Rabeprazole">Trials on Rabeprazole: from ClinicalTrials.gov</ext-link>
+            </p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

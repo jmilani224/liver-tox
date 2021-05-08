@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Oxybate" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Oxybate</book-part-id>
+      <title-group>
+        <title>Oxybate</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>24</day>
+          <month>11</month>
+          <year>2016</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="OxyELITEPro" document-type="chapter">OxyELITE Pro</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Oxybutynin" document-type="chapter">Oxybutynin</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Oxybate.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Oxybate.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Oxybate is a small, neuroactive molecule (gamma-hydroxybutyrate) that is used to treat catalepse and daytime sleepiness in patients with narcolepsy. Oxybate has been reported to cause serum enzyme elevations during therapy, but has not been implicated in instances of clinically apparent acute liver injury.</p>
+        </sec>
+        <sec id="Oxybate.Background">
+          <title>Background</title>
+          <p>Oxybate (ox' i bate) is a simple amino acid-like molecule (sodium 4-hydroxybutyrate) that has mild neuroactivity which acts to induce normal sleep patterns. Its mechanism of action is unclear, but it is a derivative of gamma-aminobutyric acid (GABA) and appears to be an agonist at the GABA-B receptor. In prospective, randomized controlled trials, oxybate was effective in alleviating symptoms of daytime sleepiness and decreasing episodes of cataplexy in patients with narcolepsy. Oxybate was approved for use in the United States in 2002 as therapy for cataplexy in patients with narcolepsy. These indications were broadened in 2005 to include improvement in the quality of nighttime sleep and decrease in daytime sleepiness in patients with narcolepsy. Although evaluated and reported to be partially beneficial in other conditions (fibromyalgia, chronic fatigue), oxybate is not approved for these indications. In addition, oxybate is a Schedule III agent, indicating that it has a mild-to-moderate potential for abuse and dependence. For these reasons, the availability of oxybate is restricted and it can only be prescribed as a part of a risk evaluation and mitigation strategy (REMS) program. Oxybate is available as an oral solution in 180 mL bottles of 500 mg/mL under the brand name Xyrem. The recommended starting dose is 4.5 g at nighttime, which can be increased or decreased at two week intervals in increments of 1.5 g, not to exceed 9 g daily. Common side effects include nausea, dizziness, headaches, mental confusion, paresthesia and enuresis (bed wetting). Uncommon, but potentially severe adverse reactions (usually associated with excessive doses) include hallucinations, mental confusion, abnormal thinking, disturbed sleep and depression. Instances of abuse and dependence as well as withdrawal symptoms have been described, but are rare. Hydroxybutyrate has been used as a &#x0201c;date rape&#x0201d; drug and it has been implicated in rare instances of acute psychosis, traffic accidents and suicidal overdose.</p>
+        </sec>
+        <sec id="Oxybate.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>In preregistration clinical trials, serum enzyme elevations were reported in small numbers of treated patients, but no instance of clinically apparent liver injury was reported. Since the approval and more widespread use of oxybate, there have been no published cases of liver injury due to oxybate, and in postmarketing overviews of adverse events hepatotoxicity was not listed. Thus, despite use in high doses (3 to 9 g daily), acute liver injury from oxybate must be very rare, if it occurs at all.</p>
+          <p>Likelihood score: E (unlikely cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Oxybate.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The mechanism by which oxybate might cause liver injury is not known. Hydroxybutyrate is an endogenous derivative of GABA and thus is unlikely to be inherently hepatotoxic or immunogenic.</p>
+          <p>Drug Class: <related-object source-id="livertox" document-id="Sedatives_Hypnotics">Sedatives and Hypnotics</related-object>, Narcolepsy Agents</p>
+          <p>Other Drugs in the Subclass, Narcolepsy Agents (CNS Simulants): Dextroamphetamine, <related-object source-id="livertox" document-id="Methylphenidate">Methylphenidate</related-object>, <related-object source-id="livertox" document-id="ModafinilArmodafinil">Modafinil</related-object>, <related-object source-id="livertox" document-id="ModafinilArmodafinil">Armodafinil</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Oxybate.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <boxed-text position="anchor" id="Oxybate.BPI" orientation="portrait">
+          <p>
+            <bold>REPRESENTATIVE TRADE NAMES</bold>
+          </p>
+          <p>Sodium Oxybate &#x02013; Xyrem&#x000ae;</p>
+          <p>
+            <bold>DRUG CLASS</bold>
+          </p>
+          <p>Narcolepsy Agents</p>
+          <p>
+            <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Oxybate">COMPLETE LABELING</ext-link>
+          </p>
+          <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+        </boxed-text>
+      </sec>
+      <sec id="Oxybate.CHEMICAL_FORMULAS_AND_STRUCTURES">
+        <title>CHEMICAL FORMULAS AND STRUCTURES</title>
+        <table-wrap id="Oxybate.T1" position="anchor" orientation="portrait">
+          <table>
+            <thead>
+              <tr>
+                <th id="hd_h_Oxybate.T1_1_1_1_1" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Oxybate.T1_1_1_1_2" rowspan="1" colspan="1">CAS REGISTRY NUMBER</th>
+                <th id="hd_h_Oxybate.T1_1_1_1_3" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Oxybate.T1_1_1_1_4" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Oxybate.T1_1_1_1_1" rowspan="1" colspan="1">Sodium Oxybate</td>
+                <td headers="hd_h_Oxybate.T1_1_1_1_2" rowspan="1" colspan="1">
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://134978781">502-85-2</ext-link>
+                </td>
+                <td headers="hd_h_Oxybate.T1_1_1_1_3" rowspan="1" colspan="1">C4-H7-Na-O3</td>
+                <td headers="hd_h_Oxybate.T1_1_1_1_4" rowspan="1" colspan="1">
+                  <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Oxybate_structure.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait">
+                    <alt-text>Oxybate chemical structure</alt-text>
+                  </graphic>
+                </td>
+              </tr>
+              <tr>
+                <td headers="hd_h_Oxybate.T1_1_1_1_1" rowspan="1" colspan="1">Sodium gamma-Aminobutyrate</td>
+                <td headers="hd_h_Oxybate.T1_1_1_1_2" rowspan="1" colspan="1">
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135205287">6610-05-5</ext-link>
+                </td>
+                <td headers="hd_h_Oxybate.T1_1_1_1_3" rowspan="1" colspan="1">C4-H9-N-O2.Na</td>
+                <td headers="hd_h_Oxybate.T1_1_1_1_4" rowspan="1" colspan="1">
+                  <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="_6610-05-5.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait"/>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Oxybate.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 24 November 2016</p>
+        <ref-list id="Oxybate.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Oxybate.R1">
+            <mixed-citation publication-type="other">Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999.<annotation><p><italic toggle="yes">(Textbook of hepatotoxicity published in 1999, before the availability of oxybate).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Oxybate.R2">
+            <mixed-citation publication-type="other">Wesfall TC, Westfall DP. Narcolepsy and related syndromes. Adrenergic agonists and antagonists. In, Brunton LL, Chabner BA, Knollman BC, eds. Goodman &#x00026; Gilman&#x02019;s the pharmacological basis of therapeutics. 12th ed. New York: McGraw-Hill, 2011, pp. 303.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Oxybate.R3">
+            <mixed-citation publication-type="journal">Gamma hydroxy butyrate poisoning. Med Lett Drugs Ther 1991; 33 (836): 8. <annotation><p><italic toggle="yes">(Hydroxybutyrate is promoted and sold in health food stores illegally for sleep and weight control and for its euphoric effects and has been linked to cases of abrupt unconsciousness, coma, respiratory depression, seizures, and abnormal behavior).</italic></p></annotation><pub-id pub-id-type="pmid">1986210</pub-id></mixed-citation>
+          </ref>
+          <ref id="Oxybate.R4">
+            <mixed-citation publication-type="journal">A randomized, double blind, placebo-controlled multicenter trial comparing the effects of three doses of orally administered sodium oxybate with placebo for the treatment of narcolepsy. Sleep 2002; 25: 42-9. <annotation><p><italic toggle="yes">(Among 136 patients with narcolepsy and episodes of cataplexy who were treated with oxybate [3, 6 or 9 g daily] or placebo, the highest dose of oxybate was associated with decrease in episodes of cataplexy and decrease in daytime sleepiness, and adverse events included nausea, diarrhea, dizziness and enuresis but there was &#x0201c;no measurable effect on&#x02026;hepatic or renal function&#x0201d;).</italic></p></annotation><pub-id pub-id-type="pmid">11833860</pub-id></mixed-citation>
+          </ref>
+          <ref id="Oxybate.R5">
+            <mixed-citation publication-type="journal">Gamma hydroxybutyrate (Xyrem) for narcolepsy. Med Lett Drugs Ther 2002; 44 (1145): 103-5. <annotation><p><italic toggle="yes">(Concise review of the mechanism of action, pharmacology, efficacy, adverse effects, and costs of gamma hydroxybutyrate [oxybate] shortly after its approval as therapy for narcolepsy in the US; mentions its neuropsychiatric side effects, but not ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">12473959</pub-id></mixed-citation>
+          </ref>
+          <ref id="Oxybate.R6">
+            <mixed-citation publication-type="journal">Scharf MB, Baumann M, Berkowitz DV. The effects of sodium oxybate on clinical symptoms and sleep patterns in patients with fibromyalgia. J Rheumatol 2003; 30: 1070-4. <annotation><p><italic toggle="yes">(Among 24 women with fibromyalgia treated with oxybate or placebo for 1 month in a crossover trial, pain and fatigue were improved in 29-33% of oxybate- vs only 6-10% of placebo-recipients and side effects included gastrointestinal upset, anxiety, headache and paraesthesias; there were no serious adverse events and no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">12734908</pub-id></mixed-citation>
+          </ref>
+          <ref id="Oxybate.R7">
+            <mixed-citation publication-type="journal">U.S. Xyrem Multicenter Study Group. A 12-month, open-label, multicenter extension trial of orally administered sodium oxybate for the treatment of narcolepsy. Sleep 2003; 26: 31-5. <annotation><p><italic toggle="yes">(Among 118 patients with narcolepsy who had participated in a placebo controlled trial [U.S. Xyrem, 2002] who were treated with open label oxybate [3-9 g nightly] for 12 months, episodes of cataplexy decreased and daytime sleepiness decreased and &#x0201c;adverse events were generally mild&#x0201d; while &#x0201c;only a mild increase in SGPT was determined to be possibly related to the study medication&#x0201d; and no patient discontinued therapy for this reason).</italic></p></annotation><pub-id pub-id-type="pmid">12627729</pub-id></mixed-citation>
+          </ref>
+          <ref id="Oxybate.R8">
+            <mixed-citation publication-type="journal">U.S. Xyrem Multicenter Study Group. Sodium oxybate demonstrates long-term efficacy for the treatment of cataplexy in patients with narcolepsy. Sleep Med 2004; 5: 119-23. <annotation><p><italic toggle="yes">(Among 55 patients with narcolepsy treated with oxybate for 7-44 months who were then randomized to continue or stop oxybate for 2 weeks, the frequency of cataleptic episodes increased with stopping [median increase 21 vs 0]).</italic></p></annotation><pub-id pub-id-type="pmid">15033130</pub-id></mixed-citation>
+          </ref>
+          <ref id="Oxybate.R9">
+            <mixed-citation publication-type="journal">Xyrem International Study Group. A double-blind, placebo-controlled study demonstrates sodium oxybate is effective for the treatment of excessive daytime sleepiness in narcolepsy. J Clin Sleep Med 2005; 1: 391-7. <annotation><p><italic toggle="yes">(Among 228 patients with narcolepsy and cataplexy treated with oxybate [4.5, 6 or 9 g nightly] or placebo for 8 weeks, those on the two highest doses had improvement in wakefulness; side effects included nausea, dizziness, enuresis, disorientation, dyspnea, snoring and muscle pains; 1 patient developed elevated levels of ALT and AST that gradually resolved after stopping).</italic></p></annotation><pub-id pub-id-type="pmid">17564408</pub-id></mixed-citation>
+          </ref>
+          <ref id="Oxybate.R10">
+            <mixed-citation publication-type="journal">A new indication for gamma hydroxybutyrate (Xyrem) in narcolepsy. Med Lett Drugs Ther 2006; 48 (1227): 11-2. <annotation><p><italic toggle="yes">(Concise review of narcolepsy and the mechanism of action, clinical efficacy, and adverse effects of oxybate, shortly after the broadening of its indications to include excessive daytime sleepiness in patients with narcolepsy; no mention of serum enzyme elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">16444137</pub-id></mixed-citation>
+          </ref>
+          <ref id="Oxybate.R11">
+            <mixed-citation publication-type="journal">Wang YG, Swick TJ, Carter LP, Thorpy MJ, Benowitz NL. Safety overview of postmarketing and clinical experience of sodium oxybate (Xyrem): abuse, misuse, dependence, and diversion. J Clin Sleep Med 2009; 5: 365-71. <annotation><p><italic toggle="yes">(Analysis of the postmarketing adverse event surveillance, including 928 reports from an estimated 26,000 patients taking oxybate over a 6 year period mentions rare instances of abuse [n=10], dependence [4], withdrawal symptoms [8], overdose [8], sexual assault [2], traffic accidents [3] and one death thought to be related; no mention of liver related effects among the 20 most common adverse events).</italic></p></annotation><pub-id pub-id-type="pmid">19968016</pub-id></mixed-citation>
+          </ref>
+          <ref id="Oxybate.R12">
+            <mixed-citation publication-type="journal">Russell IJ, Perkins AT, Michalek JE; Oxybate SXB-26 Fibromyalgia Syndrome Study Group. Sodium oxybate relieves pain and improves function in fibromyalgia syndrome: a randomized, double-blind, placebo-controlled, multicenter clinical trial. Arthritis Rheum 2009; 60: 299-309. <annotation><p><italic toggle="yes">(Among 188 patients with fibromyalgia treated with oxybate [4.5 or 6 g nightly] or placebo for 8 weeks, oxybate was associated with improvements in pain scores and side effects included nausea, dizziness, paresthesia, headache and enuresis, but &#x0201c;there were no clinically important changes in&#x02026;laboratory measures&#x0201d;).</italic></p></annotation><pub-id pub-id-type="pmid">19116896</pub-id></mixed-citation>
+          </ref>
+          <ref id="Oxybate.R13">
+            <mixed-citation publication-type="journal">Spaeth M, Alegre C, Perrot S, Wang Y, Guinta DR, Alvarez-Horine S, Russell I; Sodium Oxybate Fibromyalgia Study Group. Long-term tolerability and maintenance of therapeutic response to sodium oxybate in an open-label extension study in patients with fibromyalgia. Arthritis Res Ther 2013; 15: R185. <annotation><p><italic toggle="yes">(Among 560 women with fibromyalgia who had participated in short controlled trials of oxybate and were then offered open label extended therapy [4.5-9 g nightly], symptom improvement was maintained and side effects were similar to those in short term studies; there were no liver related serious adverse events and no mention of ALT elevations).</italic></p></annotation><pub-id pub-id-type="pmid">24286114</pub-id></mixed-citation>
+          </ref>
+          <ref id="Oxybate.R14">
+            <mixed-citation publication-type="journal">Mamelak M, Swick T, Emsellem H, Montplaisir J, Lai C, Black J. A 12-week open-label, multicenter study evaluating the safety and patient-reported efficacy of sodium oxybate in patients with narcolepsy and cataplexy. Sleep Med 2015; 16: 52-8. <annotation><p><italic toggle="yes">(Among 202 patients with narcolepsy with cataplexy treated with open label, titrated doses of oxybate [3-9 g nightly] for 12 weeks, 90% were considered to have had a clinical response and side effects included nausea [10%], headache [7%], dizziness [5%] and enuresis [2%], while &#x0201c;overall changes in laboratory tests were minimal&#x0201d;).</italic></p></annotation><pub-id pub-id-type="pmid">25533539</pub-id></mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec id="Oxybate.OTHER_REFERENCE_LINKS" sec-type="link-group">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=Oxybate+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D%3A%222999/12/31%22%5BEDat%5D)">Recent References on Oxybate: from PubMed.gov</ext-link>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Oxybate">Trials on Oxybate: from ClinicalTrials.gov</ext-link>
+            </p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Regorafenib" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Regorafenib</book-part-id>
+      <title-group>
+        <title>Regorafenib</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>6</day>
+          <month>6</month>
+          <year>2018</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="RedYeastRice" document-type="chapter">Red Yeast Rice</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Remdesivir" document-type="chapter">Remdesivir</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Regorafenib.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Regorafenib.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Regorafenib is an oral multi-kinase inhibitor that is used in the therapy of refractory metastatic colorectal cancer, hepatocellular carcinoma and gastrointestinal stromal tumor. Regorafenib has been associated with frequent serum aminotransferase elevations during therapy and with rare, but sometimes severe and even fatal instances of clinically apparent liver injury.</p>
+        </sec>
+        <sec id="Regorafenib.Background">
+          <title>Background</title>
+          <p>Regorafenib (re goe raf&#x02019; e nib) is an orally available, small molecule, multi-specific kinase inhibitor with activity against vascular endothelial growth factors (VEGF) receptors -1, -2 and -3, as well as against the receptor for platelet derived growth factor (PDGF) and several RAF kinases, c-Kit and TIE2. Inhibition of these kinases decreases angiogenesis, which plays an important role in the growth and spread of several forms of solid tumors. Regorafenib received approval for use in the United States in 2012 for therapy of metastatic colorectal cancer and advanced, unresectable gastrointestinal stromal tumors after failure of other antineoplastic agents. Indications were extended in 2017 to include refractory hepatocellular carcinoma. Regorafenib is available in tablets of 40 mg under the brand name Stivarga. The typical dose is 160 mg once daily for 21 days in 28 day cycles continued until there is tumor progression or unacceptable toxicity. Side effects are common and can include fatigue, diarrhea, anorexia, weight loss, nausea, abdominal pain, hand-foot syndrome, hypertension, mucositis, dysphonia, infections, rash and fever. Uncommon, but potentially severe side effects include bleeding, poor wound healing, gastrointestinal perforation and fistula, hypertension, severe skin toxicities, cardiac ischemia and reversible posterior leukoencephalopathy syndrome.</p>
+        </sec>
+        <sec id="Regorafenib.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>In large clinical trials of regorafenib, elevations in serum aminotransferase levels were common, occurring in 39% to 45% of patients, and were greater than 5 times the upper limit of normal (ULN) in 3% to 6%. In addition, there have been several reports of clinically apparent liver injury arising during regorafenib therapy which was often severe and occasionally fatal, estimated to occur in 0.3% of treated subjects. For these reasons, routine monitoring of liver enzymes is recommended. Regorafenib induced liver injury can present in several different patterns or phenotypes. Some patients present within a few days of starting regorafenib with acute hepatic necrosis, high levels of serum aminotransferase and lactic dehydrogenase with mild jaundice, but prolongation of INR and signs of hepatic failure. The injury can be severe but is generally self-limited and recovery is rapid and complete. Other patients present with an acute viral hepatitis like pattern, hepatocelllar (or mixed) serum enzyme elevations and jaundice that can be prolonged and has been fatal in several instances. Autoimmune and immunoallergic features are uncommon. In addition, rare instances of regorafenib associated liver injury have presented with a sinusoidal obstruction-like syndrome or pseudocirrhosis, with marked hepatic nodularity and ascites that eventually improves or resolves. Finally, regorafenib, like other multi-kinase inhibitors [sunitinib, imatinib, sorafenib], has also been associated with episodes of hyperammonemic coma generally arising within a few days or weeks of starting and with rapid reversal upon stopping treatment.</p>
+          <p>Likelihood score: B (highly likely cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Regorafenib.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The cause of serum enzyme elevations and liver injury during regorafenib therapy is not known. Regorafenib is metabolized in the liver largely through the CYP 3A4 pathway and liver injury may be related to production of a toxic intermediate. Because regorafenib inhibits multiple kinases, it may interfere with normal hepatocyte pathways involved in cell metabolism, injury and repair making the cell injury multifactorial. In addition, because regorafenib is metabolized by CYP 3A4, it is susceptible to drug-drug interactions with agents that inhibit or induce this hepatic microsomal enzyme.</p>
+        </sec>
+        <sec id="Regorafenib.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>Routine monitoring of liver tests before and every two weeks during the first 2 months of treatment as well as regularly thereafter is recommended for patients receiving regorafenib. Serum aminotransferase elevations above 5 times the upper limit of normal (if confirmed) should lead to at least temporary cessation, and elevations accompanied by jaundice or symptoms to permanent discontinuation. It is not clear whether such monitoring is effective in preventing regorafenib liver injury, but early discontinuation is likely to be helpful in limiting the severity and consequences of the injury. Regorafenib has been implicated in cases of acute liver failure, but not in instances of chronic hepatitis or vanishing bile duct syndrome. There does not appear to be cross reactivity in risk for hepatic injury between regorafenib and other multi-kinase inhibitors such axitinib, sorafenib and sunitinib, but caution and careful monitoring should be used in regarding a kinase inhibitor after clinically apparent liver injury from regorafenib.</p>
+          <p>Drug Class: <related-object source-id="livertox" document-id="AntineoplasticAgents">Antineoplastic Agents</related-object>, <related-object source-id="livertox" document-id="ProteinKinaseInhibit">Protein Kinase Inhibitors</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Regorafenib.CASE_REPORTS">
+        <title>CASE REPORTS</title>
+        <sec id="Regorafenib.Case_1._Pseudocirrhosis_due_">
+          <title>Case 1. Pseudocirrhosis due to regorafenib.</title>
+          <p>[Modified from a case in the database of the Drug-Induced Liver Injury Network]</p>
+          <p>A 58 year old man with advanced and refractory leiomyosarcoma with metastases to the liver, lungs and bones was placed on an experimental protocol with regorafenib. Within a week of starting the multikinase inhibitor he developed fatigue, nausea, abdominal pain, dark urine and jaundice. Serum enzyme levels were elevated before starting treatment and had increased minimally but bilirubin rose precipitously from 0.6 to 5.3 mg/dL. He had no previous history of liver disease, alcohol abuse or risk factors for viral hepatitis. His other medical conditions included anxiety, insomnia, hypothyroidism and essential hypertension. Regorafenib was stopped and he was followed as an outpatient but admitted one week later when bilirubin had risen to 9.3 mg/dL, prothrombin time increased to 1.3 and peripheral enema, anasarca and ascites developed. He had a prolonged hospital stay with diuretic therapy, paracentesis for ascites, opiates for pain and further investigations that identified brain metastases. Tests for hepatitis A, B, C and E were negative as were autoantibodies. Imaging of the liver showed the previously noted liver metastases but no evidence of biliary obstruction. After several months, jaundice and ascites began to improve. He was discharged to hospice care and died approximately 5 months after onset of jaundice.</p>
+          <sec id="Regorafenib.Key_Points">
+            <title>Key Points</title>
+            <table-wrap id="Regorafenib.T1" position="anchor" orientation="portrait">
+              <table>
+                <tbody>
+                  <tr>
+                    <th id="hd_b_Regorafenib.T1_1_1_1_1" valign="top" rowspan="1" colspan="1">Medication:</th>
+                    <td headers="hd_b_Regorafenib.T1_1_1_1_1" valign="top" rowspan="1" colspan="1">Regorafenib 160 mg daily for 7 days</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Regorafenib.T1_1_1_2_1" valign="top" rowspan="1" colspan="1">Pattern:</th>
+                    <td headers="hd_b_Regorafenib.T1_1_1_2_1" valign="top" rowspan="1" colspan="1">Cholestatic (R=0.9)</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Regorafenib.T1_1_1_3_1" valign="top" rowspan="1" colspan="1">Severity:</th>
+                    <td headers="hd_b_Regorafenib.T1_1_1_3_1" valign="top" rowspan="1" colspan="1">4+ (jaundice, coagulopathy, ascites)</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Regorafenib.T1_1_1_4_1" valign="top" rowspan="1" colspan="1">Latency:</th>
+                    <td headers="hd_b_Regorafenib.T1_1_1_4_1" valign="top" rowspan="1" colspan="1">7 days</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Regorafenib.T1_1_1_5_1" valign="top" rowspan="1" colspan="1">Recovery:</th>
+                    <td headers="hd_b_Regorafenib.T1_1_1_5_1" valign="top" rowspan="1" colspan="1">Partial recovery 3 months</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Regorafenib.T1_1_1_6_1" valign="top" rowspan="1" colspan="1">Other medications:</th>
+                    <td headers="hd_b_Regorafenib.T1_1_1_6_1" valign="top" rowspan="1" colspan="1">amlodipine, lisinopril, hydrochlorothiazide, labetalol, levothyroxine, alprazolam, diazepam, ondansetron, oxycodone,</td>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Regorafenib.Laboratory_Values">
+            <title>Laboratory Values</title>
+            <table-wrap id="Regorafenib.T2" position="anchor" orientation="portrait">
+              <table>
+                <tbody>
+                  <tr>
+                    <th id="hd_b_Regorafenib.T2_1_1_1_1" align="center" rowspan="1" colspan="1">Time After Starting</th>
+                    <th id="hd_b_Regorafenib.T2_1_1_1_2" align="center" rowspan="1" colspan="1">Time After Stopping</th>
+                    <th id="hd_b_Regorafenib.T2_1_1_1_3" align="center" rowspan="1" colspan="1">ALT (U/L)</th>
+                    <th id="hd_b_Regorafenib.T2_1_1_1_4" align="center" rowspan="1" colspan="1">Alk P (U/L)</th>
+                    <th id="hd_b_Regorafenib.T2_1_1_1_5" align="center" rowspan="1" colspan="1">Bilirubin (mg/dL)</th>
+                    <th id="hd_b_Regorafenib.T2_1_1_1_6" align="center" rowspan="1" colspan="1">Comments</th>
+                  </tr>
+                  <tr>
+                    <td headers="hd_b_Regorafenib.T2_1_1_1_1" valign="middle" align="center" rowspan="1" colspan="1">-35 days</td>
+                    <td headers="hd_b_Regorafenib.T2_1_1_1_2" valign="middle" align="center" rowspan="1" colspan="1">Pre</td>
+                    <td headers="hd_b_Regorafenib.T2_1_1_1_3" valign="middle" align="center" rowspan="1" colspan="1">37</td>
+                    <td headers="hd_b_Regorafenib.T2_1_1_1_4" valign="middle" align="center" rowspan="1" colspan="1">136</td>
+                    <td headers="hd_b_Regorafenib.T2_1_1_1_5" valign="middle" align="center" rowspan="1" colspan="1">0.9</td>
+                    <td headers="hd_b_Regorafenib.T2_1_1_1_6" valign="middle" align="center" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_b_Regorafenib.T2_1_1_1_1" valign="middle" align="center" rowspan="1" colspan="1">-21 days</td>
+                    <td headers="hd_b_Regorafenib.T2_1_1_1_2" valign="middle" align="center" rowspan="1" colspan="1">Pre</td>
+                    <td headers="hd_b_Regorafenib.T2_1_1_1_3" valign="middle" align="center" rowspan="1" colspan="1">82</td>
+                    <td headers="hd_b_Regorafenib.T2_1_1_1_4" valign="middle" align="center" rowspan="1" colspan="1">221</td>
+                    <td headers="hd_b_Regorafenib.T2_1_1_1_5" valign="middle" align="center" rowspan="1" colspan="1">0.7</td>
+                    <td headers="hd_b_Regorafenib.T2_1_1_1_6" valign="middle" align="center" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_b_Regorafenib.T2_1_1_1_1" valign="middle" align="center" rowspan="1" colspan="1">-14 days</td>
+                    <td headers="hd_b_Regorafenib.T2_1_1_1_2" valign="middle" align="center" rowspan="1" colspan="1">Pre</td>
+                    <td headers="hd_b_Regorafenib.T2_1_1_1_3" valign="middle" align="center" rowspan="1" colspan="1">63</td>
+                    <td headers="hd_b_Regorafenib.T2_1_1_1_4" valign="middle" align="center" rowspan="1" colspan="1">168</td>
+                    <td headers="hd_b_Regorafenib.T2_1_1_1_5" valign="middle" align="center" rowspan="1" colspan="1">0.6</td>
+                    <td headers="hd_b_Regorafenib.T2_1_1_1_6" valign="middle" align="center" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_b_Regorafenib.T2_1_1_1_1" valign="middle" align="center" rowspan="1" colspan="1">-7 days</td>
+                    <td headers="hd_b_Regorafenib.T2_1_1_1_2" valign="middle" align="center" rowspan="1" colspan="1">Pre</td>
+                    <td headers="hd_b_Regorafenib.T2_1_1_1_3" valign="middle" align="center" rowspan="1" colspan="1">105</td>
+                    <td headers="hd_b_Regorafenib.T2_1_1_1_4" valign="middle" align="center" rowspan="1" colspan="1">247</td>
+                    <td headers="hd_b_Regorafenib.T2_1_1_1_5" valign="middle" align="center" rowspan="1" colspan="1">0.4</td>
+                    <td headers="hd_b_Regorafenib.T2_1_1_1_6" valign="middle" align="center" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_b_Regorafenib.T2_1_1_1_1" valign="middle" align="center" rowspan="1" colspan="1">0</td>
+                    <td headers="hd_b_Regorafenib.T2_1_1_1_2" valign="middle" align="center" rowspan="1" colspan="1">Pre</td>
+                    <td headers="hd_b_Regorafenib.T2_1_1_1_3" valign="middle" align="center" rowspan="1" colspan="1">141</td>
+                    <td headers="hd_b_Regorafenib.T2_1_1_1_4" valign="middle" align="center" rowspan="1" colspan="1">282</td>
+                    <td headers="hd_b_Regorafenib.T2_1_1_1_5" valign="middle" align="center" rowspan="1" colspan="1">0.6</td>
+                    <td headers="hd_b_Regorafenib.T2_1_1_1_6" valign="middle" align="center" rowspan="1" colspan="1">Regorafenib started</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_b_Regorafenib.T2_1_1_1_1" valign="middle" align="center" rowspan="1" colspan="1">1 week</td>
+                    <td headers="hd_b_Regorafenib.T2_1_1_1_2" valign="middle" align="center" rowspan="1" colspan="1">0</td>
+                    <td headers="hd_b_Regorafenib.T2_1_1_1_3" valign="middle" align="center" rowspan="1" colspan="1">149</td>
+                    <td headers="hd_b_Regorafenib.T2_1_1_1_4" valign="middle" align="center" rowspan="1" colspan="1">297</td>
+                    <td headers="hd_b_Regorafenib.T2_1_1_1_5" valign="middle" align="center" rowspan="1" colspan="1">5.3</td>
+                    <td headers="hd_b_Regorafenib.T2_1_1_1_6" valign="middle" align="center" rowspan="1" colspan="1">Regorafenib stopped</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_b_Regorafenib.T2_1_1_1_1" valign="middle" align="center" rowspan="1" colspan="1">2 weeks</td>
+                    <td headers="hd_b_Regorafenib.T2_1_1_1_2" valign="middle" align="center" rowspan="1" colspan="1">8 days</td>
+                    <td headers="hd_b_Regorafenib.T2_1_1_1_3" valign="middle" align="center" rowspan="1" colspan="1">135</td>
+                    <td headers="hd_b_Regorafenib.T2_1_1_1_4" valign="middle" align="center" rowspan="1" colspan="1">484</td>
+                    <td headers="hd_b_Regorafenib.T2_1_1_1_5" valign="middle" align="center" rowspan="1" colspan="1">9.3</td>
+                    <td headers="hd_b_Regorafenib.T2_1_1_1_6" valign="middle" align="center" rowspan="1" colspan="1">Ultrasound, INR 1.3</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_b_Regorafenib.T2_1_1_1_1" valign="middle" align="center" rowspan="1" colspan="1"/>
+                    <td headers="hd_b_Regorafenib.T2_1_1_1_2" valign="middle" align="center" rowspan="1" colspan="1">15 days</td>
+                    <td headers="hd_b_Regorafenib.T2_1_1_1_3" valign="middle" align="center" rowspan="1" colspan="1">133</td>
+                    <td headers="hd_b_Regorafenib.T2_1_1_1_4" valign="middle" align="center" rowspan="1" colspan="1">414</td>
+                    <td headers="hd_b_Regorafenib.T2_1_1_1_5" valign="middle" align="center" rowspan="1" colspan="1">12.1</td>
+                    <td headers="hd_b_Regorafenib.T2_1_1_1_6" valign="middle" align="center" rowspan="1" colspan="1">Ascites, albumin 2.8</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_b_Regorafenib.T2_1_1_1_1" valign="middle" align="center" rowspan="1" colspan="1"/>
+                    <td headers="hd_b_Regorafenib.T2_1_1_1_2" valign="middle" align="center" rowspan="1" colspan="1">20 days</td>
+                    <td headers="hd_b_Regorafenib.T2_1_1_1_3" valign="middle" align="center" rowspan="1" colspan="1">152</td>
+                    <td headers="hd_b_Regorafenib.T2_1_1_1_4" valign="middle" align="center" rowspan="1" colspan="1">573</td>
+                    <td headers="hd_b_Regorafenib.T2_1_1_1_5" valign="middle" align="center" rowspan="1" colspan="1">12.4</td>
+                    <td headers="hd_b_Regorafenib.T2_1_1_1_6" valign="middle" align="center" rowspan="1" colspan="1">INR 1.5</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_b_Regorafenib.T2_1_1_1_1" valign="middle" align="center" rowspan="1" colspan="1"/>
+                    <td headers="hd_b_Regorafenib.T2_1_1_1_2" valign="middle" align="center" rowspan="1" colspan="1">35 days</td>
+                    <td headers="hd_b_Regorafenib.T2_1_1_1_3" valign="middle" align="center" rowspan="1" colspan="1">84</td>
+                    <td headers="hd_b_Regorafenib.T2_1_1_1_4" valign="middle" align="center" rowspan="1" colspan="1">326</td>
+                    <td headers="hd_b_Regorafenib.T2_1_1_1_5" valign="middle" align="center" rowspan="1" colspan="1">12.1</td>
+                    <td headers="hd_b_Regorafenib.T2_1_1_1_6" valign="middle" align="center" rowspan="1" colspan="1">INR 1.7, albumin 2.3</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_b_Regorafenib.T2_1_1_1_1" valign="middle" align="center" rowspan="1" colspan="1"/>
+                    <td headers="hd_b_Regorafenib.T2_1_1_1_2" valign="middle" align="center" rowspan="1" colspan="1">2 months</td>
+                    <td headers="hd_b_Regorafenib.T2_1_1_1_3" valign="middle" align="center" rowspan="1" colspan="1">53</td>
+                    <td headers="hd_b_Regorafenib.T2_1_1_1_4" valign="middle" align="center" rowspan="1" colspan="1">541</td>
+                    <td headers="hd_b_Regorafenib.T2_1_1_1_5" valign="middle" align="center" rowspan="1" colspan="1">11.4</td>
+                    <td headers="hd_b_Regorafenib.T2_1_1_1_6" valign="middle" align="center" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_b_Regorafenib.T2_1_1_1_1" valign="middle" align="center" rowspan="1" colspan="1"/>
+                    <td headers="hd_b_Regorafenib.T2_1_1_1_2" valign="middle" align="center" rowspan="1" colspan="1">3 months</td>
+                    <td headers="hd_b_Regorafenib.T2_1_1_1_3" valign="middle" align="center" rowspan="1" colspan="1">44</td>
+                    <td headers="hd_b_Regorafenib.T2_1_1_1_4" valign="middle" align="center" rowspan="1" colspan="1">708</td>
+                    <td headers="hd_b_Regorafenib.T2_1_1_1_5" valign="middle" align="center" rowspan="1" colspan="1">3.8</td>
+                    <td headers="hd_b_Regorafenib.T2_1_1_1_6" valign="middle" align="center" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_b_Regorafenib.T2_1_1_1_1" valign="middle" align="center" rowspan="1" colspan="1"/>
+                    <td headers="hd_b_Regorafenib.T2_1_1_1_2" valign="middle" align="center" rowspan="1" colspan="1">4 months</td>
+                    <td headers="hd_b_Regorafenib.T2_1_1_1_3" valign="middle" align="center" rowspan="1" colspan="1">28</td>
+                    <td headers="hd_b_Regorafenib.T2_1_1_1_4" valign="middle" align="center" rowspan="1" colspan="1">488</td>
+                    <td headers="hd_b_Regorafenib.T2_1_1_1_5" valign="middle" align="center" rowspan="1" colspan="1">1.7</td>
+                    <td headers="hd_b_Regorafenib.T2_1_1_1_6" valign="middle" align="center" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_b_Regorafenib.T2_1_1_1_1 hd_b_Regorafenib.T2_1_1_1_2" colspan="2" valign="middle" align="center" rowspan="1">
+                      <bold>Normal Values</bold>
+                    </td>
+                    <td headers="hd_b_Regorafenib.T2_1_1_1_3" valign="middle" align="center" rowspan="1" colspan="1">
+                      <bold>&#x0003c;35</bold>
+                    </td>
+                    <td headers="hd_b_Regorafenib.T2_1_1_1_4" valign="middle" align="center" rowspan="1" colspan="1">
+                      <bold>&#x0003c;125</bold>
+                    </td>
+                    <td headers="hd_b_Regorafenib.T2_1_1_1_5" valign="middle" align="center" rowspan="1" colspan="1">
+                      <bold>&#x0003c;1.2</bold>
+                    </td>
+                    <td headers="hd_b_Regorafenib.T2_1_1_1_6" valign="middle" align="center" rowspan="1" colspan="1"/>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Regorafenib.Comment">
+            <title>Comment</title>
+            <p>A dramatic onset of jaundice within a week of starting regorafenib for metastatic leiomyosarcoma that was rapidly followed by ascites and anasarca. This rapid presentation of what seems to be decompensated cirrhosis is typical of "pseudocirrhosis" complicating high potent targeted anticancer therapy in patients with hepatic metastases. Most evidence suggests that the syndrome is due to rapid shrinkage of tumor resulting in a nodular, somewhat atrophic liver with hepatic synthetic failure and portal hypertension. The majority of patients improve or appear to recover completely, although progress of the metastatic liver disease frequently results in mortality soon after the onset of liver disease. Other interpretations of this course of injury are progression of the metastatic disease and possibly another form of superimposed drug induced liver injury (from labetolol for instance). Neither of these possibilities appear likely. The lack of evidence of biliary obstruction and the eventual resolution of the jaundice and ascites are not well explained by these other possibilities.</p>
+          </sec>
+        </sec>
+      </sec>
+      <sec id="Regorafenib.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <boxed-text position="anchor" id="Regorafenib.BPI" orientation="portrait">
+          <p>
+            <bold>REPRESENTATIVE TRADE NAMES</bold>
+          </p>
+          <p>Regorafenib &#x02013; Stivarga&#x000ae;</p>
+          <p>
+            <bold>DRUG CLASS</bold>
+          </p>
+          <p>Antineoplastic Agents</p>
+          <p>
+            <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?label=all&#x00026;query=Regorafenib">COMPLETE LABELING</ext-link>
+          </p>
+          <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+        </boxed-text>
+      </sec>
+      <sec id="Regorafenib.CHEMICAL_FORMULA_AND_STRUCTU">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Regorafenib.T3" position="anchor" orientation="portrait">
+          <table>
+            <thead>
+              <tr>
+                <th id="hd_h_Regorafenib.T3_1_1_1_1" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Regorafenib.T3_1_1_1_2" rowspan="1" colspan="1">CAS REGISTRY NO.</th>
+                <th id="hd_h_Regorafenib.T3_1_1_1_3" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Regorafenib.T3_1_1_1_4" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Regorafenib.T3_1_1_1_1" rowspan="1" colspan="1">Regorafenib</td>
+                <td headers="hd_h_Regorafenib.T3_1_1_1_2" rowspan="1" colspan="1">
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135261819">755037-03-7</ext-link>
+                </td>
+                <td headers="hd_h_Regorafenib.T3_1_1_1_3" rowspan="1" colspan="1">C21-H15-Cl-F4-N4-O3</td>
+                <td headers="hd_h_Regorafenib.T3_1_1_1_4" rowspan="1" colspan="1">
+                  <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Regorafenib_structure.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait">
+                    <alt-text>Regorafenib chemical structure</alt-text>
+                  </graphic>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Regorafenib.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 06 June 2018</p>
+        <p>Abbreviations: GIST, gastrointestinal stromal tumor; HCC, hepatocellular carcinoma.</p>
+        <ref-list id="Regorafenib.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Regorafenib.R1">
+            <mixed-citation publication-type="other">Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999.<annotation><p><italic toggle="yes">(Review of hepatotoxicity published in 1999 before the availability of tyrosine kinase receptor inhibitors such as regorafenib).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Regorafenib.R2">
+            <mixed-citation publication-type="other">DeLeve LD. Cancer chemotherapy. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013, pp. 541-67.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of cancer chemotherapeutic agents; imatinib, gefitinib, erlotinib and crizotinib are discussed, but not regorafenib).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Regorafenib.R3">
+            <mixed-citation publication-type="other">Chabner BA, Barnes J, Neal J, Olson E, Mujagic H, Sequist L, Wilson W, et al. Targeted therapies: tyrosine kinase inhibitors, monoclonal antibodies, and cytokines. In, Brunton LL, Chabner BA, Knollman BC, eds. Goodman &#x00026; Gilman's the pharmacological basis of therapeutics. 12th ed. New York: McGraw-Hill, 2011, pp. 1731-54.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Regorafenib.R4">
+            <mixed-citation publication-type="journal">Eisen T, Joensuu H, Nathan PD, Harper PG, Wojtukiewicz MZ, Nicholson S, Bahl A, et al. Regorafenib for patients with previously untreated metastatic or unresectable renal-cell carcinoma: a single-group phase 2 trial. Lancet Oncol 2012; 13: 1055-62. <annotation><p><italic toggle="yes">(Among 49 patients with metastatic or unresectable renal cell cancer treated with regorafenib for 1-34 months, 40% had a partial response and side effects were common [98%], often severe [71%] and occasionally fatal [4%]; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">22959186</pub-id></mixed-citation>
+          </ref>
+          <ref id="Regorafenib.R5">
+            <mixed-citation publication-type="journal">George S, Wang Q, Heinrich MC, Corless CL, Zhu M, Butrynski JE, Morgan JA, et al. Efficacy and safety of regorafenib in patients with metastatic and/or unresectable GI stromal tumor after failure of imatinib and sunitinib: a multicenter phase II trial. J Clin Oncol 2012; 30: 2401-7. <annotation><p><italic toggle="yes">(Among 34 patients with GIST and progression despite imatinib and sunitinib therapy, 4 had a partial response to regorafenib and common side effects were hand-foot syndrome [85%], fatigue [79%], hypertension [67%], diarrhea [61%] and hoarseness [46%]; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">22614970</pub-id></mixed-citation>
+          </ref>
+          <ref id="Regorafenib.R6">
+            <mixed-citation publication-type="journal">Demetri GD, Reichardt P, Kang YK, Blay JY, Rutkowski P, Gelderblom H, Hohenberger P, et al.; GRID study investigators. Efficacy and safety of regorafenib for advanced gastrointestinal stromal tumours after failure of imatinib and sunitinib (GRID): an international, multicentre, randomised, placebo-controlled, phase 3 trial. Lancet 2013; 381(9863): 295-302. <annotation><p><italic toggle="yes">(Among 199 patients with advanced GIST after failure of other kinase inhibitors, regorafenib therapy yielded a longer progression free survival [4.8 months] compared to placebo [0.8 months], but no change in overall survival; side effects were common [98%] and often severe [60%]; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">23177515</pub-id></mixed-citation>
+          </ref>
+          <ref id="Regorafenib.R7">
+            <mixed-citation publication-type="journal">Grothey A, Van Cutsem E, Sobrero A, Siena S, Falcone A, Ychou M, Humblet Y, et al.; CORRECT Study Group. Regorafenib monotherapy for previously treated metastatic colorectal cancer (CORRECT): an international, multicentre, randomised, placebo-controlled, phase 3 trial. Lancet 2013; 381 (9863): 303-12. <annotation><p><italic toggle="yes">(Among 760 patients with metastatic colorectal cancer, overall median survival was 6.4 months with regorafenib therapy vs 5.0 months with placebo, and side effects were frequent [93%] and often severe [55%]; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">23177514</pub-id></mixed-citation>
+          </ref>
+          <ref id="Regorafenib.R8">
+            <mixed-citation publication-type="journal">Waddell T, Cunningham D. Evaluation of regorafenib in colorectal cancer and GIST. Lancet 2013; 381 (9863): 273-5. <annotation><p><italic toggle="yes">(Editorial accompanying clinical trials of Demetri [2013] and Grothey [2013] mentions that the clinical benefits were modest, but that "the case for routine use of regorafenib ... is strong, despite the apparent absence of a benefit in terms of overall survival").</italic></p></annotation><pub-id pub-id-type="pmid">23177516</pub-id></mixed-citation>
+          </ref>
+          <ref id="Regorafenib.R9">
+            <mixed-citation publication-type="journal">Regorafenib (Stivarga) for metastatic colorectal cancer and GIST. Med Lett Drugs Ther 2013; 55 (1415): e36. <annotation><p><italic toggle="yes">(Concise review of the efficacy, safety and costs of regorafenib in colorectal cancer and GIST shortly after its approval for this use in the US, mentions that regorafenib can cause severe liver injury).</italic></p></annotation><pub-id pub-id-type="pmid">23836345</pub-id></mixed-citation>
+          </ref>
+          <ref id="Regorafenib.R10">
+            <mixed-citation publication-type="journal">Bruix J, Tak WY, Gasbarrini A, Santoro A, Colombo M, Lim HY, Mazzaferro V, et al. Regorafenib as second-line therapy for intermediate or advanced hepatocellular carcinoma: multicentre, open-label, phase II safety study. Eur J Cancer 2013; 49: 3412-9. <annotation><p><italic toggle="yes">(Among 36 patients with advanced hepatocellular carcinoma who were treated for 2-103 weeks with regorafenib, 3% had a partial response and 69% had stable disease with a median survival of 13.8 months; side effects were common [97%], often severe [58%], and 2 patients died of hepatic failure, but the complication was judged to be unrelated to therapy).</italic></p></annotation><pub-id pub-id-type="pmid">23809766</pub-id></mixed-citation>
+          </ref>
+          <ref id="Regorafenib.R11">
+            <mixed-citation publication-type="journal">Shah RR, Morganroth J, Shah DR. Hepatotoxicity of tyrosine kinase inhibitors: clinical and regulatory perspectives. Drug Saf 2013; 36: 491-503. <annotation><p><italic toggle="yes">(Review of the hepatotoxicity of 18 tyrosine kinase inhibitors approved for use in cancer in the US as of 2013; regorafenib therapy is accompanied by ALT or AST elevations in 45-65% of patients [above 5 times ULN in 6%] generally during the first 2-6 weeks of therapy, and linked to rare cases of clinically apparent hepatitis and to instances of hepatic failure and death).</italic></p></annotation><pub-id pub-id-type="pmid">23620168</pub-id></mixed-citation>
+          </ref>
+          <ref id="Regorafenib.R12">
+            <mixed-citation publication-type="journal">Iacovelli R, Palazzo A, Procopio G, Santoni M, Trenta P, De Benedetto A, Mezi S, et al. Incidence and relative risk of hepatic toxicity in patients treated with anti-angiogenic tyrosine kinase inhibitors for malignancy. Br J Clin Pharmacol 2014; 77: 929-38. <annotation><p><italic toggle="yes">(Systematic review of liver toxicity reported in controlled trials of kinase inhibitors used to treat solid tumors identified 6 articles with 3691 patients, among whom 34% had ALT elevations with kinase inhibitor therapy compared to 24% of controls [above 5 times ULN in 5.2% vs 1.4%], with highest rates for sorafenib and pazopanib).</italic></p></annotation><pub-id pub-id-type="pmid">23981115</pub-id></mixed-citation>
+          </ref>
+          <ref id="Regorafenib.R13">
+            <mixed-citation publication-type="journal">Kuo JC, Parakh S, Yip D. Regorafenib-induced hyperammonemic encephalopathy. J Clin Pharm Ther 2014; 39: 446-8. <annotation><p><italic toggle="yes">(61 year old man with metastatic GIST with liver involvement developed confusion 13 months after starting regorafenib that resolved rapidly with stopping and recurred rapidly on restarting regorafenib [ammonia 105 &#x003bc;mol/L], resolving within 4 days of stopping again).</italic></p></annotation><pub-id pub-id-type="pmid">24707992</pub-id></mixed-citation>
+          </ref>
+          <ref id="Regorafenib.R14">
+            <mixed-citation publication-type="journal">De Wit M, Boers-Doets CB, Saettini A, Vermeersch K, de Juan CR, Ouwerkerk J, Raynard SS, et al. Prevention and management of adverse events related to regorafenib. Support Care Cancer 2014; 22 (3): 837-46. <annotation><p><italic toggle="yes"> (Summary recommendations for management of common side effects of regorafenib including liver test abnormalities).</italic></p></annotation><pub-id pub-id-type="pmid">24337717</pub-id></mixed-citation>
+          </ref>
+          <ref id="Regorafenib.R15">
+            <mixed-citation publication-type="journal">Li J, Qin S, Xu R, Yau TC, Ma B, Pan H, Xu J, et al; CONCUR Investigators. Regorafenib plus best supportive care versus placebo plus best supportive care in Asian patients with previously treated metastatic colorectal cancer (CONCUR): a randomised, double-blind, placebo-controlled, phase 3 trial. Lancet Oncol 2015; 16: 619-29. <annotation><p><italic toggle="yes">(Among 204 Asian patients with refractory, metastatic colorectal cancer treated with regorafenib or placebo, median overall survival was better with regorafenib [8.8 vs 6.3 months], but severe adverse events were more frequent [9% vs 4%], as were hand-foot-skin reaction [16% vs none] and ALT elevations [24% vs 7%] which were above 5 times ULN in 7% vs 0%).</italic></p></annotation><pub-id pub-id-type="pmid">25981818</pub-id></mixed-citation>
+          </ref>
+          <ref id="Regorafenib.R16">
+            <mixed-citation publication-type="journal">Karczmarek-Borowska B, Sa&#x00142;ek-Za&#x00144; A. Hepatotoxicity of molecular targeted therapy. Contemp Oncol (Pozn) 2015; 19: 87-92. <annotation><p><italic toggle="yes"> (Review of hepatotoxicity of modern molecular targeted therapies including monoclonal antibodies, protein kinase inhibitors and proteosome inhibitors; regorafenib has an increased risk of liver injury).</italic></p></annotation><pub-id pub-id-type="pmid">26034384</pub-id></mixed-citation>
+          </ref>
+          <ref id="Regorafenib.R17">
+            <mixed-citation publication-type="journal">Akamine T, Ando K, Oki E, Saeki H, Nakashima Y, Imamura YU, Ohgaki K, et al. Acute liver failure due to regorafenib may be caused by impaired liver blood flow: a case report. Anticancer Res 2015; 35: 4037-41. <annotation><p><italic toggle="yes">(50 year old Japanese woman with metastatic GIST developed fatigue, fever and seizures 10 days after starting regorafenib [bilirubin 1.6 rising to 4.5 mg/dL, ALT 100 to ~600 U/L, Alk P not given], with rapid resolution and normal values 14 days later).</italic></p></annotation><pub-id pub-id-type="pmid">26124352</pub-id></mixed-citation>
+          </ref>
+          <ref id="Regorafenib.R18">
+            <mixed-citation publication-type="journal">Raissouni S, Quraishi Z, Al-Ghamdi M, Monzon J, Tang P, Vickers MM. Acute liver failure and seizures as a consequence of regorafenib exposure in advanced rectal cancer. BMC Res Notes 2015; 8: 538. <annotation><p><italic toggle="yes">(64 year old woman with metastatic colon cancer developed diarrhea and jaundice 5 days after starting regorafenib [bilirubin 4.8 mg/dL, ALT 1290 U/L, Alk P 267 U/L, INR 2.6], resolving rapidly upon stopping with normal liver tests 14 days later).</italic></p></annotation><pub-id pub-id-type="pmid">26438070</pub-id></mixed-citation>
+          </ref>
+          <ref id="Regorafenib.R19">
+            <mixed-citation publication-type="journal">Kuwayama M, Uchino K, Takayoshi K, Komoda M, Kohjima M, Nakamuta M, Momosaki S, et al. Immunosuppressant therapy successfully improved regorafenib-induced severe hepatic injury in a patient with metastatic gastrointestinal stromal tumor: A case report. Oncol Lett 2016; 11: 85-8. <annotation><p><italic toggle="yes">(75 year old man with GIST developed fever followed by abnormal liver tests 28 days after starting regorafenib [bilirubin 1.1 rising to 5.2 mg/dL, ALT 274 to 2534 U/L, Alk P not given], with rapid improvement on stopping and with use of prednisone).</italic></p></annotation><pub-id pub-id-type="pmid">26870172</pub-id></mixed-citation>
+          </ref>
+          <ref id="Regorafenib.R20">
+            <mixed-citation publication-type="journal">Chalasani N, Bonkovsky HL, Fontana R, Lee W, Stolz A, Talwalkar J, Reddy KR, et al.; United States Drug Induced Liver Injury Network. Features and outcomes of 899 patients with drug-induced liver injury: The DILIN Prospective Study. Gastroenterology 2015; 148: 1340-52.e7. <annotation><p><italic toggle="yes">(Among 899 cases of drug induced liver injury enrolled in a US prospective study between 2004 and 2013, 49 [5%] were attributed to antineoplastic agents including one case due to regorafenib).</italic></p></annotation><pub-id pub-id-type="pmid">25754159</pub-id></mixed-citation>
+          </ref>
+          <ref id="Regorafenib.R21">
+            <mixed-citation publication-type="journal">Takahashi M, Harada S, Suzuki H, Yamashita N, Orita H, Kato M, Kotoh K. Regorafenib could cause sinusoidal obstruction syndrome. J Gastrointest Oncol 2016; 7: E41-4. <annotation><p><italic toggle="yes"> (74 year old Japanese man with colorectal cancer developed diarrhea 2 weeks and liver test abnormalities with ascites 4 weeks after starting regorafenib [bilirubin 2.3 mg/dL, ALT 978 U/L, Alk P 673 U/L, INR 1.5], which resolved rapidly with plasma exchange and corticosteroid therapy).</italic></p></annotation><pub-id pub-id-type="pmid">27284487</pub-id></mixed-citation>
+          </ref>
+          <ref id="Regorafenib.R22">
+            <mixed-citation publication-type="journal">Adenis A, de la Fouchardiere C, Paule B, Burtin P, Tougeron D, Wallet J, Dourthe LM, et al. Survival, safety, and prognostic factors for outcome with Regorafenib in patients with metastatic colorectal cancer refractory to standard therapies: results from a multicenter study (REBECCA) nested within a compassionate use program. BMC Cancer 2016; 16: 412. <annotation><p><italic toggle="yes"> (Among 1178 patients with metastatic colorectal cancer treated with regorafenib, the 12 months survival rate was 22% and adverse event rate 80%; no specific mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">27389564</pub-id></mixed-citation>
+          </ref>
+          <ref id="Regorafenib.R23">
+            <mixed-citation publication-type="journal">Sacr&#x000e9; A, Lanthier N, Dano H, Aydin S, Leggenhager D, Weber A, Dekairelle AF, et al. Regorafenib induced severe toxic hepatitis: characterization and discussion. Liver Int 2016; 36: 1590-4. <annotation><p><italic toggle="yes">(Among 93 Belgian patients with metastatic colorectal cancer treated with regorafenib, 2 women and 1 man, ages 66 to 68 years developed "severe toxic hepatitis" between 2 weeks and 4 months of starting [bilirubin 8.4, 19.0 and 5.2 mg/dL, ALT 3209, 3268 and 1738 U/L, Alk P 234, 294 and 296 U/L], 1 dying within 5 weeks of acute liver failure and the other two dying 6 and 10 months later due to the underlying malignancy).</italic></p></annotation><pub-id pub-id-type="pmid">27500989</pub-id></mixed-citation>
+          </ref>
+          <ref id="Regorafenib.R24">
+            <mixed-citation publication-type="journal">Mir O, Brodowicz T, Italiano A, Wallet J, Blay JY, Bertucci F, Chevreau C, et al. Safety and efficacy of regorafenib in patients with advanced soft tissue sarcoma (REGOSARC): a randomised, double-blind, placebo-controlled, phase 2 trial. Lancet Oncol 2016; 17: 1732-42. <annotation><p><italic toggle="yes"> (Among 182 patients with refractory advanced soft tissue sarcoma treated with regorafenib vs placebo, progression free survival was improved in several non-adipocyte forms of sarcoma while adverse events were frequent, ALT or AST elevations arising in 10% vs 3%, and one regorafenib treated subject died of hepatic failure).</italic></p></annotation><pub-id pub-id-type="pmid">27751846</pub-id></mixed-citation>
+          </ref>
+          <ref id="Regorafenib.R25">
+            <mixed-citation publication-type="journal">Bruix J, Qin S, Merle P, Granito A, Huang YH, Bodoky G, Pracht M, et al; RESORCE Investigators. Regorafenib for patients with hepatocellular carcinoma who progressed on sorafenib treatment (RESORCE): a randomised, double-blind, placebo-controlled, phase 3 trial. Lancet 2017; 389: 56-66. <annotation><p><italic toggle="yes">(Among 573 patients with refractory, advanced HCC treated with regorafenib or placebo, the median overall survival was improved with regorafenib [10.6 vs 7.8 months] and adverse events were common in both groups, ALT elevations occurring in 15% vs 11% and rising to above 5 times ULN in 4% vs 3%, with 2 deaths from liver failure in the placebo group).</italic></p></annotation><pub-id pub-id-type="pmid">27932229</pub-id></mixed-citation>
+          </ref>
+          <ref id="Regorafenib.R26">
+            <mixed-citation publication-type="journal">Kumamoto K, Endo S, Isohata N, Nirei A, Nemoto D, Utano K, Saito T, et al. Pseudocirrhosis caused by regorafenib in an advanced rectal cancer patient with multiple liver metastases. Mol Clin Oncol 2017; 6: 63-6. <annotation><p><italic toggle="yes"> (70 year old man with advanced, refractory colorectal cancer developed abdominal distress and ascites 3 weeks after starting regorafenib [bilirubin 0.6 mg/dL, ALT 40 U/L, Alk P 505 U/L, albumin 1.8 g/dL], with atrophic appearing liver and shrinkage of metastasis, resolving within 1 month, a pattern suggestive of pseudocirrhosis).</italic></p></annotation><pub-id pub-id-type="pmid">28123730</pub-id></mixed-citation>
+          </ref>
+          <ref id="Regorafenib.R27">
+            <mixed-citation publication-type="journal">Maeda A, Ando H, Ura T, Komori A, Hasegawa A, Taniguchi H, Kadowaki S, et al. Association between ABCG2 and SLCO1B1 polymorphisms and adverse drug reactions to regorafenib: a preliminary study&#x02029;. Int J Clin Pharmacol Ther 2017; 55: 409-15. <annotation><p><italic toggle="yes"> (Among 37 Japanese adults with cancer treated with regorafenib, adverse events and elevations in ALT [4%], AST [8%] and bilirubin [12%] had little relationship with presence of genetic variants of ABCG2 and SLCO1B1).</italic></p></annotation><pub-id pub-id-type="pmid">28157071</pub-id></mixed-citation>
+          </ref>
+          <ref id="Regorafenib.R28">
+            <mixed-citation publication-type="journal">Quirino M, Rossi S, Schinzari G, Basso M, Strippoli A, Cassano A, Barone C. Unexpected side effect in mCRC: A care-compliant case report of regorafenib-induced hyperammonemic encephalopathy. Medicine (Baltimore) 2017; 96: e6522. <annotation><p><italic toggle="yes">(56 year old man with metastatic colorectal cancer developed confusion 2 days after starting regorafenib [bilirubin and serum enzymes normal, ammonia 191 mmol/L], resolving within a few days of stopping and recurring 7 days after restarting regorafenib at a lower dose).</italic></p></annotation><pub-id pub-id-type="pmid">28422839</pub-id></mixed-citation>
+          </ref>
+          <ref id="Regorafenib.R29">
+            <mixed-citation publication-type="journal">B&#x000e9;chade D, Desjardin M, Castain C, Bernard PH, Fonck M. Fatal acute liver failure as a consequence of regorafenib treatment in a metastatic colon cancer. Case Rep Oncol 2017; 10: 790-4. <annotation><p><italic toggle="yes"> (65 year old French woman with refractor colorectal cancer developed jaundice, diarrhea and fever 8 weeks after starting regorafenib [bilirubin 19.4 mg/dL, ALT 1620 U/L, Alk P 188 U/L, factor V 65%], with progressive liver failure and death 10 days after presentation).</italic></p></annotation><pub-id pub-id-type="pmid">28966584</pub-id></mixed-citation>
+          </ref>
+          <ref id="Regorafenib.R30">
+            <mixed-citation publication-type="journal">Uetake H, Sugihara K, Muro K, Sunaya T, Horiuchi-Yamamoto Y, Takikawa H. Clinical Features of regorafenib-induced liver injury in Japanese patients from postmarketing experience. Clin Colorectal Cancer 2018; 17: e49-e58. <annotation><p><italic toggle="yes">(In safety analyses of postmarketing databases and spontaneous adverse event reports, ALT or AST elevatitons above 5 times ULN occurred in 11.8% and ALT elevations with jaundice in 1.3% of regorafenib treated patients, with death from liver failure in 27 of 8380 exposed subjects [0.3%]).</italic></p></annotation><pub-id pub-id-type="pmid">29074353</pub-id></mixed-citation>
+          </ref>
+          <ref id="Regorafenib.R31">
+            <mixed-citation publication-type="journal">Bunchorntavakul C, Reddy KR. Drug hepatotoxicity: newer agents. Clin Liver Dis 2017; 21: 115-34. <annotation><p><italic toggle="yes">(Review of the hepatotoxicity of recently approved medications including the antineoplastic tyrosine kinase inhibitors such as imatinib, bosutinib, ponatinib, nilotinib, gefitinib, erlotinib, crizotinib, lapatinib, sunitinib, pazopanib, vemurafenib and regorafenib).</italic></p></annotation><pub-id pub-id-type="pmid">27842767</pub-id></mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec id="Regorafenib.OTHER_REFERENCE_LINKS" sec-type="link-group">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=Regorafenib+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D%3A%222999/12/31%22%5BEDat%5D)">Recent References on Regorafenib: from PubMed.gov</ext-link>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Regorafenib">Trials on Regorafenib: from ClinicalTrials.gov</ext-link>
+            </p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

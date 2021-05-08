@@ -1,7 +1,8 @@
-import path from 'path'
+var path = require('path');
 import fs from 'fs'
 import medList from '../../data/medList'
 
+//var appDir = path.dirname(require.main.filename);
 const parseString = require('xml2js').parseString;
 
 
@@ -11,7 +12,10 @@ const handler = async (req, res) => {
     return
   }
 
-  const filePath = `public/xml/${fileName}.nxml`
+  //const filePath = `public/xml/${fileName}.nxml` // This one works
+
+  const filePath = path.join(process.cwd(), `data/xml/${fileName}.nxml`) // also works
+
 
   fs.readFile(filePath, (err, data) => {
     if (err)

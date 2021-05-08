@@ -1,0 +1,442 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Baloxavir" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Baloxavir</book-part-id>
+      <title-group>
+        <title>Baloxavir</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>22</day>
+          <month>6</month>
+          <year>2020</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Baclofen" document-type="chapter">Baclofen</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Barbiturates" document-type="chapter">Barbiturates</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Baloxavir.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Baloxavir.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Baloxavir is an inhibitor of the influenza cap-dependent endonuclease enzyme and is used as therapy of influenza A and B. Baloxavir is given as a single, one-time dose and has not been associated with serum enzyme elevations or with clinically apparent liver injury.</p>
+        </sec>
+        <sec id="Baloxavir.Background">
+          <title>Background</title>
+          <p>Baloxavir (ba lox' a vir) marboxil (mar box' il) is an oral, influenza cap-dependent endonuclease inhibitor that blocks the initiation of mRNA synthesis in influenza viruses, which results in a decrease in influenza virus particle production. Baloxavir is active against both influenza A and B viruses but has no activity against other common upper respiratory tract viruses. In addition, resistance to baloxavir can develop rapidly even after a single dose. Baloxavir was approved as therapy of uncomplicated influenza A and B in persons 12 years or older in the United States in 2018. Baloxavir is available as tablets of 40 and 80 mg under the brand name of Xofluza. It is recommended as a single oral dose of 40 mg for patients who weigh 40 to 80 kg and 80 mg for patients weighing above 80 kg, administered as soon as possible and within 48 hours after onset of symptoms. Side effects are uncommon but may include mild diarrhea, nausea, headache and upper respiratory tract symptoms that are also common with influenza itself. Rare but potentially serious adverse events include hypersensitivity reactions and secondary bacterial infections.</p>
+        </sec>
+        <sec id="Baloxavir.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>In clinical trials, there was little evidence that baloxavir caused liver injury, either in the form of serum enzyme elevations or clinically apparent liver disease. A proportion of patients with acute influenza A may have minor serum enzyme elevations during the acute illness, but these are independent of therapy and do not appear to be exacerbated by baloxavir.</p>
+          <p>Likelihood score: E (unlikely cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Baloxavir.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>How baloxavir might cause liver injury is not known. Baloxavir marboxil is a prodrug that is converted to the active agent baloxavir in the intestines. Baloxavir is metabolized by the liver by UGT1A3 with a minor contribution of CYP 3A4 but demonstrates no significant drug-drug interactions. Baloxavir is administered as a single 40 or 80 mg dose, and the brief exposure and minimal hepatic metabolism may account for the absence of hepatotoxicity.</p>
+          <p>Drug Classes: <related-object link-type="booklink" source-id="livertox" document-id="AntiviralAgents" document-type="chapter">Antiviral Agents</related-object></p>
+          <p>Other Drugs in the Class for Influenza: <related-object link-type="booklink" source-id="livertox" document-id="Amantadine" document-type="chapter">Amantadine</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Oseltamivir" document-type="chapter">Oseltamivir</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Peramivir" document-type="chapter">Peramivir</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Rimantadine" document-type="chapter">Rimantadine</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Zanamivir" document-type="chapter">Zanamivir</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Baloxavir.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <p>
+          <bold>REPRESENTATIVE TRADE NAMES</bold>
+        </p>
+        <p>Baloxavir &#x02013; Xofluza&#x000ae;</p>
+        <p>
+          <bold>DRUG CLASS</bold>
+        </p>
+        <p>Antiviral Agents</p>
+        <p>
+          <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Baloxavir">COMPLETE LABELING</ext-link>
+        </p>
+        <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+      </sec>
+      <sec id="Baloxavir.CHEMICAL_FORMULA_AND_STRUCTURE">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Baloxavir.Tc" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th id="hd_h_Baloxavir.Tc_1_1_1_1" valign="top" align="left" scope="col" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Baloxavir.Tc_1_1_1_2" valign="top" align="left" scope="col" rowspan="1" colspan="1">CAS REGISTRY NUMBER</th>
+                <th id="hd_h_Baloxavir.Tc_1_1_1_3" valign="top" align="left" scope="col" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Baloxavir.Tc_1_1_1_4" valign="top" align="left" scope="col" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Baloxavir.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Baloxavir<break/> Marboxil</td>
+                <td headers="hd_h_Baloxavir.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://336270138">1985606-14-1</ext-link>
+                </td>
+                <td headers="hd_h_Baloxavir.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">C27-H23-F2-N3-O7-S</td>
+                <td headers="hd_h_Baloxavir.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">
+                  <related-object link-type="ext-image-back-link" source-id="pubchem" document-id="336270138" document-id-type="sid" document-type="summary" object-id="336270138" object-id-type="sid" object-type="image"/>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Baloxavir.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 22 June 2020</p>
+        <ref-list id="Baloxavir.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Baloxavir.REF.zimmerman.1999">
+            <mixed-citation publication-type="book">Zimmerman HJ. Antiviral agents. In, Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999, pp. 621-3.<annotation><p><italic toggle="yes">(Expert review of antiviral agents and liver injury published in 1999; baloxavir is not mentioned).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Baloxavir.REF.n__ez.2013">
+            <mixed-citation publication-type="book">N&#x000fa;&#x000f1;ez M. Influenza virus treatments. Hepatic toxicity of antiviral agents. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013, pp. 513.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of antiviral agents; baloxavir is not discussed).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Baloxavir.REF.acosta.2018">
+            <mixed-citation publication-type="book">Acosta EP. Antiviral agents (nonretroviral). In, Brunton LL, Hilal-Dandan R, Knollman BC, eds. Goodman &#x00026; Gilman's the pharmacological basis of therapeutics. 13th ed. New York: McGraw-Hill, 2018, pp. 1105-18.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Baloxavir.REF.fda">
+            <mixed-citation publication-type="web"><person-group><collab>FDA</collab></person-group>. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.accessdata.fda.gov/scripts/cder/daf/">https://www.accessdata.fda.gov/scripts/cder/daf/</ext-link><annotation><p><italic toggle="yes">(FDA Drug Approvals website that has product labels [package inserts], letters of approval and full FDA scientific review of the new drug application for safety and efficacy; mentions that in the preregistration clinical trials, routine laboratory tests were taken on days 1, 5-6, 15 and 22, and elevated ALT levels occurred in &#x0003c;1% of 910 baloxavir recipients and in a similar proportion of 409 placebo recipients).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Baloxavir.REF.yingying.2011.902">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Yingying</surname>
+                  <given-names>C.</given-names>
+                </name>
+              </person-group>
+              <article-title>Abnormal liver chemistry in patients with influenza A H1N1.</article-title>
+              <source>Liver Int</source>
+              <year>2011</year>
+              <volume>31</volume>
+              <fpage>902</fpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Among 131 patients admitted to a hospital for influenza A H1N1, 13% had ALT and 5% Alk P elevations, but the range of values was not provided).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">21645222</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Baloxavir.REF.koshimichi.2018.1189">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Koshimichi</surname>
+                  <given-names>H</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Ishibashi</surname>
+                  <given-names>T</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Kawaguchi</surname>
+                  <given-names>N</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Sato</surname>
+                  <given-names>C</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Kawasaki</surname>
+                  <given-names>A</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Wajima</surname>
+                  <given-names>T</given-names>
+                </name>
+              </person-group>
+              <article-title>Safety, tolerability, and pharmacokinetics of the novel anti-influenza agent baloxavir marboxil in healthy adults: phase I study findings.</article-title>
+              <source>Clin Drug Investig</source>
+              <year>2018</year>
+              <volume>38</volume>
+              <fpage>1189</fpage>
+              <lpage>96</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Among 75 healthy adults enrolled in phase I studies of baloxavir, adverse events included ALT elevations in 3 subjects, but &#x0201c;there were no obvious trends in laboratory values&#x0201d;).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">30288682</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Baloxavir.REF.hayden.2018.913">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Hayden</surname>
+                  <given-names>FG</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Sugaya</surname>
+                  <given-names>N</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Hirotsu</surname>
+                  <given-names>N</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Lee</surname>
+                  <given-names>N</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>de Jong</surname>
+                  <given-names>MD</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Hurt</surname>
+                  <given-names>AC</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Ishida</surname>
+                  <given-names>T</given-names>
+                </name>
+                <etal/>
+                <collab>Baloxavir Marboxil Investigators Group</collab>
+              </person-group>
+              <article-title>Baloxavir marboxil for uncomplicated influenza in adults and adolescents.</article-title>
+              <source>N Engl J Med</source>
+              <year>2018</year>
+              <volume>379</volume>
+              <fpage>913</fpage>
+              <lpage>23</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Among 1064 patients with influenza symptoms treated with a single oral dose of baloxavir, 5 days of oseltamivir or placebo, time to symptom alleviation was shorter with baloxavir and oseltamivir than with placebo [54 and 54 vs 80 hours], while adverse event rates were similar and low; no mention of ALT elevations or hepatotoxicity).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">30184455</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Baloxavir.REF.heo.2018.693">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Heo</surname>
+                  <given-names>YA</given-names>
+                </name>
+              </person-group>
+              <article-title>Baloxavir: First global approval.</article-title>
+              <source>Drugs</source>
+              <year>2018</year>
+              <volume>78</volume>
+              <fpage>693</fpage>
+              <lpage>7</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Review of the mechanism of action, pharmacology, clinical efficacy and safety of baloxavir for influenza virus infection; mentions that adverse events are no more frequent with baloxavir as with placebo; no mention of ALT elevations or hepatotoxicity).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">29623652</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Baloxavir.REF.granwehr.2018.jc63">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Granwehr</surname>
+                  <given-names>BP</given-names>
+                </name>
+              </person-group>
+              <article-title>In acute uncomplicated influenza, single-dose baloxavir decreased time to symptom relief compared with placebo.</article-title>
+              <source>Ann Intern Med</source>
+              <year>2018</year>
+              <volume>169</volume>
+              <fpage>JC63</fpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Commentary on Hayden [2018] points out that the single oral dose regimen, while no more effective than a 5 day course of oseltamivir, provides a more convenient approach to rapidly treat suspected early influenza in an outpatient setting).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">30557416</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Baloxavir.REF10">
+            <element-citation publication-type="journal">
+              <article-title>Baloxavir marboxil (Xofluza) for treatment of influenza.</article-title>
+              <source>Med Lett Drugs Ther</source>
+              <year>2018</year>
+              <volume>60</volume>
+              <issue>1561</issue>
+              <fpage>193</fpage>
+              <lpage>6</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Concise review of the mechanism of action, clinical efficacy, safety and costs of baloxavir shortly after its approval in the US; mentions that it was well tolerated in clinical trials; no mention of ALT elevations or hepatotoxicity).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">30653474</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Baloxavir.REF11">
+            <element-citation publication-type="journal">
+              <article-title>Antiviral drugs for treatment and prophylaxis of seasonal influenza.</article-title>
+              <source>Med Lett Drugs Ther</source>
+              <year>2019</year>
+              <volume>61</volume>
+              <issue>1563</issue>
+              <fpage>1</fpage>
+              <lpage>4</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Concise review of the drug therapy of influenza mentions that there are no data suggesting the superiority of one drug over another, they are all approved for treatment of uncomplicated influenza, should be started as soon as possible, and have been shown to shorten the duration of symptoms by one day in adults; no mention of ALT elevations or hepatotoxicity of any of the neuraminidase inhibitors or baloxavir).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">30681660</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Baloxavir.REF.mushtaq.2018.903">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Mushtaq</surname>
+                  <given-names>A.</given-names>
+                </name>
+              </person-group>
+              <article-title>Baloxavir: game-changer or much ado about nothing?</article-title>
+              <source>Lancet Respir Med</source>
+              <year>2018</year>
+              <volume>6</volume>
+              <fpage>903</fpage>
+              <lpage>4</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Review of the evidence for efficacy of baloxavir in influenza; mentions that persons at highest risk for complications of influenza were excluded from the initial trials of its efficacy: children, pregnant women, and those with serious comorbidities).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">30420246</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Baloxavir.REF.abraham.2020">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Abraham</surname>
+                  <given-names>GM</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Morton</surname>
+                  <given-names>JB</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Saravolatz</surname>
+                  <given-names>LD</given-names>
+                </name>
+              </person-group>
+              <article-title>Baloxavir: a novel antiviral agent in the treatment of influenza.</article-title>
+              <source>Clin Infect Dis.</source>
+              <year>2020</year>
+              <month>Feb</month>
+              <day>5</day>
+              <comment>Epub ahead of print</comment>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Review of the mechanism of action, microbiology, indications, clinical efficacy and toxicity of baloxavir mentions that adverse event rates are similar to those of oseltamivir and not much greater than placebo; no discussion of ALT elevations or hepatotoxicity).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32020174</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Baloxavir.REF.baker.2020">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Baker</surname>
+                  <given-names>J</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Block</surname>
+                  <given-names>SL</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Matharu</surname>
+                  <given-names>B</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Burleigh Macutkiewicz</surname>
+                  <given-names>L</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Wildum</surname>
+                  <given-names>S</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Dimonaco</surname>
+                  <given-names>S</given-names>
+                </name>
+                <etal/>
+              </person-group>
+              <article-title>Baloxavir marboxil single-dose treatment in influenza-infected children: a randomized, double-blind, active controlled phase 3 safety and efficacy trial (miniSTONE-2).</article-title>
+              <source>Pediatr Infect Dis J</source>
+              <year>2020</year>
+              <month>Jun</month>
+              <day>5</day>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Among 173 children less than 12 years old with influenza who were treated with a single dose of intravenous baloxavir or a 5 day course of oral oseltamivir, rates of clinical improvement were similar with the two regimens as were rates of adverse events [57% vs 46%] and there were no serious adverse events or deaths; no mention of ALT elevations or hepatotoxicity).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32516282</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Baloxavir.REF15">
+            <element-citation publication-type="journal">
+              <article-title>Antiviral drugs for influenza.</article-title>
+              <source>Med Lett Drugs Ther</source>
+              <year>2020</year>
+              <volume>62</volume>
+              <issue>1589</issue>
+              <fpage>1</fpage>
+              <lpage>4</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Concise review of the drug therapy of influenza mentions that there is no evidence that one drug is more effective than any other in treating uncomplicated influenza infections but that oseltamivir is preferred for treatment of pregnant women, hospitalized patients and those with severe, complicated or progressive illness; mentions that side effects appear to be less common with baloxavir than oseltamivir; no mention of ALT elevations or hepatic adverse events).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">31999661</pub-id>
+            </element-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec sec-type="link-group" id="Baloxavir.OTHER_REFERENCE_LINKS">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <label>1</label>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=(Baloxavir/AE)+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D:%222999/12/31%22%5BEDat%5D)">Recent References on Baloxavir: from PubMed.gov</ext-link>
+            </p>
+          </list-item>
+          <list-item>
+            <label>2</label>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Baloxavir">Trials on Baloxavir: from ClinicalTrials.gov</ext-link>
+            </p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

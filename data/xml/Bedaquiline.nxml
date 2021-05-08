@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Bedaquiline" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Bedaquiline</book-part-id>
+      <title-group>
+        <title>Bedaquiline</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>22</day>
+          <month>9</month>
+          <year>2017</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Basiliximab" document-type="chapter">Basiliximab</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Belimumab" document-type="chapter">Belimumab</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Bedaquiline.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Bedaquiline.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Bedaquiline is a diarylquinoline antimycobacterial drug used in combination with other antituberculosis medications in the treatment of multidrug resistant tuberculosis. The addition of bedaquiline to antituberculosis drug regimens has been linked to an increased rate of transient serum liver test abnormalities during treatment and to several instances of clinically apparent liver injury.</p>
+        </sec>
+        <sec id="Bedaquiline.Background">
+          <title>Background</title>
+          <p>Bedaquiline (bed ak' wi leen) is relatively newly approved antimycobacterial agent that has been shown to have activity against multidrug resistant mycobacterium tuberculosis both in vitro and in vivo. The mechanism of action of bedaquiline is unique: it is a diarylquinoline and is believed to act via inhibition of mycobacterial ATP synthetase; mammalian ATP synthetases not being susceptible. Bedaquiline was approved for use in pulmonary, multidrug resistant tuberculosis in combination with other antituberculosis agents in the United States in 2012 and was the first drug approved for therapy of tuberculosis is over 40 years. It is not approved for use in latent or drug sensitive tuberculosis or in atypical mycobacterial infections. In addition, bedaquiline has not been proven to be effective for extra-pulmonary tuberculosis. Bedaquiline is available in tablets of 100 mg under the brand name Sirturo. The typical dose is 400 mg once daily for 2 weeks followed by 200 mg three times weekly. Common side effects include nausea, arthralgias, headache, chest pain and rash. Bedaquiline also increases the QTc interval, but has not been linked to sudden death. On the other hand, prelicensure studies showed that patients on bedaquiline therapy had an excess mortality rate in comparison to those on placebo, a finding that has not been adequately explained and for which reason its use is restricted. Regularly updated recommendations on the use of bedaquiline and other drugs for tuberculosis, including indications, contraindications, warnings, dosages and monitoring recommendations are available at the Centers for Disease Control and Prevention website: http://www.cdc.gov/tb/publications/guidelines/Treatment.htm.</p>
+        </sec>
+        <sec id="Bedaquiline.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>Liver test abnormalities occur in 8% to 12% of patients treated with multiple drug regimens that include bedaquiline. These abnormalities are usually asymptomatic, mild-to-moderate in severity and self-limited in duration. In many instances, it is difficult to determine which of the antituberculosis medications accounts for the abnormalities, but monitoring of liver tests at monthly intervals is recommended during bedaquiline therapy. Clinically apparent liver injury has been reported with bedaquiline therapy, but the clinical features, course and outcome of these cases has not been described. At least three deaths from end stage liver disease have been described in patients taking bedaquiline, but the attribution of the hepatic failure to bedaquiline has been questioned. The management of multidrug resistant tuberculosis is challenging and should be under the direction of physicians with expertise in tuberculosis therapy.</p>
+          <p>Likelihood score: E* (unproven but suspected cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Bedaquiline.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The mechanism by which bedaquiline causes serum aminotransferase elevations is not known, but is likely due to production of a toxic intermediate by its metabolism. Bedaquiline is metabolized by the liver via the P450 system (predominantly CPY 3A4) and it is susceptible to drug-drug interactions with agents that induce or inhibit CYP3A4.</p>
+        </sec>
+        <sec id="Bedaquiline.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>Patients on bedaquiline should be monitored with monthly liver tests, including serum bilirubin, ALT, AST and alkaline phosphatase. Bedaquiline should be discontinued for persistent increases in liver test abnormalities, ALT elevations above 8 times the upper limit of normal, elevations of bilirubin more than twice normal or any symptom or sign of liver injury. There does not appear to be cross sensitivity to liver injury or adverse events between bedaquiline and other antituberculosis medications.</p>
+          <p>Drug Class: <related-object source-id="livertox" document-id="AntituberculosisAgen">Antituberculosis Agents</related-object></p>
+          <p>Other Drugs in the Class: <related-object source-id="livertox" document-id="Capreomycin">Capreomycin</related-object>, <related-object source-id="livertox" document-id="Cycloserine">Cycloserine</related-object>, <related-object source-id="livertox" document-id="Ethambutol">Ethambutol</related-object>, <related-object source-id="livertox" document-id="Ethionamide">Ethionamide</related-object>, <related-object source-id="livertox" document-id="Isoniazid">Isoniazid</related-object>, <related-object source-id="livertox" document-id="Pyrazinamide">Pyrazinamide</related-object>, <related-object source-id="livertox" document-id="Rifabutin">Rifabutin</related-object>, <related-object source-id="livertox" document-id="Rifampin">Rifampin</related-object>, <related-object source-id="livertox" document-id="Rifapentine">Rifapentine</related-object>, <related-object source-id="livertox" document-id="Streptomycin">Streptomycin</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Bedaquiline.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <boxed-text position="anchor" id="Bedaquiline.BPI" orientation="portrait">
+          <p>
+            <bold>REPRESENTATIVE TRADE NAMES</bold>
+          </p>
+          <p>Bedaquiline &#x02013; Sirturo&#x000ae;</p>
+          <p>
+            <bold>DRUG CLASS</bold>
+          </p>
+          <p>Antituberculosis Agents</p>
+          <p>
+            <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?label=all&#x00026;query=Bedaquiline">COMPLETE LABELING</ext-link>
+          </p>
+          <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+        </boxed-text>
+      </sec>
+      <sec id="Bedaquiline.CHEMICAL_FORMULA_AND_STRUCTU">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Bedaquiline.T1" position="anchor" orientation="portrait">
+          <table>
+            <thead>
+              <tr>
+                <th id="hd_h_Bedaquiline.T1_1_1_1_1" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Bedaquiline.T1_1_1_1_2" rowspan="1" colspan="1">CAS REGISTRY NO.</th>
+                <th id="hd_h_Bedaquiline.T1_1_1_1_3" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Bedaquiline.T1_1_1_1_4" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Bedaquiline.T1_1_1_1_1" rowspan="1" colspan="1">Bedaquiline</td>
+                <td headers="hd_h_Bedaquiline.T1_1_1_1_2" rowspan="1" colspan="1">
+                  <bold>
+                    <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135262331">843663-66-1</ext-link>
+                  </bold>
+                </td>
+                <td headers="hd_h_Bedaquiline.T1_1_1_1_3" rowspan="1" colspan="1">C32-H31-Br-N2-O2</td>
+                <td headers="hd_h_Bedaquiline.T1_1_1_1_4" rowspan="1" colspan="1">
+                  <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Bedaquiline_structure.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait">
+                    <alt-text>Bedaquiline Chemical Structure</alt-text>
+                  </graphic>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Bedaquiline.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 22 September 2017</p>
+        <ref-list id="Bedaquiline.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Bedaquiline.R1">
+            <mixed-citation publication-type="other">Zimmerman HJ. Antituberculosis agents. In, Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999, pp. 611-21.<annotation><p><italic toggle="yes">(Extensive review of hepatotoxicity of antituberculosis medications published in 1999 before the availability of bedaquiline).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Bedaquiline.R2">
+            <mixed-citation publication-type="other">Verma S, Kaplowitz N. Hepatotoxicity of antituberculosis drugs. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013, pp. 483-504.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of antituberculosis drugs).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Bedaquiline.R3">
+            <mixed-citation publication-type="other">Gumba T. Chemotherapy of tuberculosis, mycobacterium avium complex disease and leprosy. In, Brunton LL, Chabner BA, Knollman BC, eds. Goodman &#x00026; Gilman.s the pharmacological basis of therapeutics. 12th ed. New York: McGraw-Hill, 2011, pp. 1549-70.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Bedaquiline.R4">
+            <mixed-citation publication-type="journal">Reuben A, Koch DG, Lee WM; Acute Liver Failure Study Group. Drug-induced acute liver failure: results of a U.S. multicenter, prospective study. Hepatology 2010; 52: 2065-76. <annotation><p><italic toggle="yes">(Among 1198 patients with acute liver failure enrolled in a US prospective study between 1998 and 2007, 133 were attributed to drug induced liver injury, but none were linked to bedaquiline).</italic></p></annotation><pub-id pub-id-type="pmid">20949552</pub-id></mixed-citation>
+          </ref>
+          <ref id="Bedaquiline.R5">
+            <mixed-citation publication-type="journal">Diacon AH, Donald PR, Pym A, Grobusch M, Patientia RF, Mahanyele R, Bantubani N, et al. Randomized pilot trial of eight weeks of bedaquiline (TMC207) treatment for multidrug-resistant tuberculosis: long-term outcome, tolerability, and effect on emergence of drug resistance. Antimicrob Agents Chemother 2012; 56: 3271-6. <annotation><p><italic toggle="yes">(Among 47 patients with multidrug resistant tuberculosis treated with bedaquiline or placebo with background regimens for up to 6 months, major side effects not mentioned).</italic></p></annotation><pub-id pub-id-type="pmid">22391540</pub-id></mixed-citation>
+          </ref>
+          <ref id="Bedaquiline.R6">
+            <mixed-citation publication-type="journal">Centers for Disease Control and Prevention. Provisional CDC guidelines for the use and safety monitoring of bedaquiline fumarate (Sirturo) for the treatment of multidrug-resistant tuberculosis. MMWR Recomm Rep 2013 Oct 25; 62 (RR-09): 1-12. <annotation><p><italic toggle="yes">(Recommendations on use of bedaquiline mentions that patients should be monitored monthly and bedaquiline should be discontinued for persistent aminotransferase elevations, combined elevations of ALT or AST and bilirubin, ALT or AST elevations above 8 times the ULN, or any liver test abnormalities accompanied by symptoms of liver injury).</italic></p></annotation><pub-id pub-id-type="pmid">24157696</pub-id></mixed-citation>
+          </ref>
+          <ref id="Bedaquiline.R7">
+            <mixed-citation publication-type="journal">Chan B, Khadem TM, Brown J. A review of tuberculosis: Focus on bedaquiline. Am J Health Syst Pharm 2013; 70: 1984-94. <annotation><p><italic toggle="yes">(Review of the pharmacology, mechanism of action, efficacy and safety of bedaquiline mentions that liver test abnormalities were more frequent with bedaquiline than placebo [9% vs 2%], but abnormalities were transient in all except 2 patients).</italic></p></annotation><pub-id pub-id-type="pmid">24173008</pub-id></mixed-citation>
+          </ref>
+          <ref id="Bedaquiline.R8">
+            <mixed-citation publication-type="journal">Fox GJ, Menzies D. A Review of the Evidence for Using Bedaquiline (TMC207) to Treat Multi-Drug Resistant Tuberculosis. Infect Dis Ther 2013; 2: 123-44. <annotation><p><italic toggle="yes">(Review of the published and unpublished results of trials of bedaquiline in multidrug resistant tuberculosis mentions that two patients treated in prelicensure studies developed liver injury after being placed on bedaquiline, and died 3 months and 1 year after stopping the drug).</italic></p></annotation><pub-id pub-id-type="pmid">25134476</pub-id></mixed-citation>
+          </ref>
+          <ref id="Bedaquiline.R9">
+            <mixed-citation publication-type="journal">Chahine EB, Karaoui LR, Mansour H. Bedaquiline: a novel diarylquinoline for multidrug-resistant tuberculosis. Ann Pharmacother 2014; 48: 107-15. <annotation><p><italic toggle="yes">(Review of trials of bedaquiline vs placebo in multidrug resistant tuberculosis mentions that there was a statistically significant higher rate of death among bedaquiline treated patients, "the exact cause of this difference in mortality is unknown").</italic></p></annotation><pub-id pub-id-type="pmid">24259600</pub-id></mixed-citation>
+          </ref>
+          <ref id="Bedaquiline.R10">
+            <mixed-citation publication-type="journal">Kakkar AK, Dahiya N. Bedaquiline for the treatment of resistant tuberculosis: promises and pitfalls. Tuberculosis (Edinb) 2014; 94: 357-62. <annotation><p><italic toggle="yes">(Review of the role of bedaquiline in management of multidrug resistant tuberculosis mentions that elevated aminotransferase levels were found in 11% of bedaquiline vs 1% of placebo recipients).</italic></p></annotation><pub-id pub-id-type="pmid">24841672</pub-id></mixed-citation>
+          </ref>
+          <ref id="Bedaquiline.R11">
+            <mixed-citation publication-type="journal">Guglielmetti L, Le D&#x000fb; D, Jachym M, Henry B, Martin D, Caumes E, Veziris N, et al.; MDR-TB Management Group of the French National Reference Center for Mycobacteria and the Physicians of the French MDR-TB Cohort. Compassionate use of bedaquiline for the treatment of multidrug-resistant and extensively drug-resistant tuberculosis: interim analysis of a French cohort. Clin Infect Dis 2015; 60: 188-94. <annotation><p><italic toggle="yes">(Retrospective analysis of 35 patients with multidrug resistant tuberculosis treated with bedaquiline mentions mild liver enzyme elevations in 5 [14%], but these were asymptomatic and transient in all, not requiring dose modification).</italic></p></annotation><pub-id pub-id-type="pmid">25320286</pub-id></mixed-citation>
+          </ref>
+          <ref id="Bedaquiline.R12">
+            <mixed-citation publication-type="journal">Chalasani N, Bonkovsky HL, Fontana R, Lee W, Stolz A, Talwalkar J, Reddy KR, et al.; United States Drug Induced Liver Injury Network. Features and outcomes of 899 patients with drug-induced liver injury: the DILIN prospective study. Gastroenterology 2015; 148: 1340-52.e7. <annotation><p><italic toggle="yes">(Among 899 cases of drug induced liver injury enrolled in a US prospective study between 2004 and 2013, 408 were attributed to antimicrobial agents including 52 to antituberculosis agents, but no cases were attributed to bedaquiline).</italic></p></annotation><pub-id pub-id-type="pmid">25754159</pub-id></mixed-citation>
+          </ref>
+          <ref id="Bedaquiline.R13">
+            <mixed-citation publication-type="journal">Pym AS, Diacon AH, Tang SJ, Conradie F, Danilovits M, Chuchottaworn C, Vasilyeva I, et al; TMC207-C209 Study Group. Bedaquiline in the treatment of multidrug- and extensively drug-resistant tuberculosis. Eur Respir J 2016; 47: 564-74. <annotation><p><italic toggle="yes"> (Among 233 adults with multidrug and extensively resistant tuberculosis treated with bedaquiline in combination with conventional agents for up to 120 weeks, sputum cultures became negative in ~70% of patients; while 5% had ALT elevations and one developed hepatitis with jaundice, there were no deaths or severe hepatic adverse events that were considered related to therapy).</italic></p></annotation><pub-id pub-id-type="pmid">26647431</pub-id></mixed-citation>
+          </ref>
+          <ref id="Bedaquiline.R14">
+            <mixed-citation publication-type="journal">Guglielmetti L, Jaspard M, Le D&#x000fb; D, Lach&#x000e2;tre M, Marigot-Outtandy D, Bernard C, Veziris N, et al; French MDR-TB Management Group. Long-term outcome and safety of prolonged bedaquiline treatment for multidrug-resistant tuberculosis. Eur Respir J 2017; 49. pii: 1601799. <annotation><p><italic toggle="yes"> (Among 45 adults with multidrug-resistant tuberculosis treated with bedaquiline in combination with conventional agents, liver enzyme elevations occurred in 38% but no patient stopped therapy for ALT elevations, had a serious liver related adverse event, or died from liver related causes).</italic></p></annotation><pub-id pub-id-type="pmid">28182570</pub-id></mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec id="Bedaquiline.OTHER_REFERENCE_LINKS" sec-type="link-group">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=Bedaquiline+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D%3A%222999/12/31%22%5BEDat%5D)">Recent References on Bedaquiline: from PubMed.gov</ext-link>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Bedaquiline">Trials on Bedaquiline: from ClinicalTrials.gov</ext-link>
+            </p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="XanthineDerivatives" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">XanthineDerivatives</book-part-id>
+      <title-group>
+        <title>Xanthine Derivatives</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>18</day>
+          <month>7</month>
+          <year>2020</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="WilsonDiseaseAgents" document-type="chapter">Wilson Disease Agents</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Yohimbine" document-type="chapter">Yohimbine</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="XanthineDerivatives.OVERVIEW">
+        <title>OVERVIEW</title>
+        <p content-type="pubmed-excerpt">The xanthine derivatives are agents that resemble natural occurring xanthines such as caffeine, theobromine and methylxanthines. These are plant alkaloids and components of coffee, tea and chocolate. The major pharmacologic actions of the xanthines are inhibition of tissue phosphodiesterases which increases cellular cyclic AMP levels by inhibition of its breakdown and metabolism. The xanthines also are adenosine receptor antagonists. Finally, xanthines may have antiinflammatory effects, either via release of antiinflammatory cytokines or modulation of gene transcription or activation of histone dacetylase. All of these actions may be important in their effects of bronchial tree, resulting in relaxation of smooth muscle. The major use of xanthine derivatives are for relief of bronchospasm caused by asthma or chronic obstructive lung disease. The most widely used xanthine is theophylline.</p>
+        <p content-type="pubmed-excerpt">The xanthines also have other activities mediated by their effects on different tissue phosphodiesterases including inhibition of platelet function and arterial vasodilation. These activities have potential use in preventing arterial thrombosis and thus prevention of myocardial infarction and stroke. The vasodilation caused by xanthines has been used to treat intermittent claudication (pentoxifylline). Xanthines also stimulate muscle and cardiac cells and neurons. Xanthines can cause a mild diuresis.</p>
+        <p content-type="pubmed-excerpt">The xanthines have many minor side effects (anxiety, nervousness, tremor, headache, dizziness) but are largely well tolerated in the doses used to treat asthma and chronic bronchitis. The xanthines are very rare causes of drug induced liver injury, most instances being mild and due to a hypersensitivity reaction or due to hepatic ischemia associated with overdose.</p>
+        <p>Drug Class: <related-object link-type="booklink" source-id="livertox" document-id="Anti-AsthmaDrugs" document-type="chapter">Antiasthmatic Agents</related-object></p>
+        <p>Drugs in the Subclass, Xanthine Derivatives: <related-object link-type="booklink" source-id="livertox" document-id="Theophylline" document-type="chapter">Theophylline</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Pentoxifylline" document-type="chapter">Pentoxifylline</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Caffeine" document-type="chapter">Caffeine</related-object></p>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

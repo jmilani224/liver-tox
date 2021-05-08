@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Trametinib" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Trametinib</book-part-id>
+      <title-group>
+        <title>Trametinib</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>28</day>
+          <month>6</month>
+          <year>2018</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Tramadol" document-type="chapter">Tramadol</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Trandolapril" document-type="chapter">Trandolapril</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Trametinib.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Trametinib.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Trametinib is a dual-kinase inhibitor that is used in the treatment of advanced malignant melanoma, usually in combination with darbafenib. Trametinib therapy is associated with transient elevations in serum aminotransferase and alkaline phosphatase levels during therapy, but has yet to be linked cases of clinically apparent acute liver injury.</p>
+        </sec>
+        <sec id="Trametinib.Background">
+          <title>Background</title>
+          <p>Trametinib (tra me&#x02019; ti nib) is an orally available, small molecule inhibitor of the mitogen activated extracellular signal regulated kinases 1 and 2 (MEK1 and MEK2), which are important components of the kinase cascade in the mitogen activated protein kinase (MAPK) pathway (RAS-RAF-MEK-ERK). Components of the MAPK pathway are frequently mutated in patients with malignant melanoma, particular the RAF isoform BRAF. These mutations cause a constitutive activation of the MAPK pathway, resulting in unregulated cell growth and proliferation. Clinical trials of trametinib in patients with metastatic malignant melanoma have shown that it prolongs progression free and overall survival, but the effect seemed to be limited to patients with the BRAF mutations. Trametinib was approved for use in the United States in 2013. Indications are for therapy of unresectable or metastatic malignant melanoma, non-small cell lung cancer (NSCLC) and anaplastic thyroid cancer with BRAF V600E or V600K mutations either alone or in combination with dabrafenib (a BRAF kinase inhibitor). Trametinib is available in tablets of 0.5 and 2.0 mg under the brand name Mekinist. The typical dose is 2 mg orally once daily. Common side effects include skin rash (57%), diarrhea (43%), fatigue (26%), peripheral edema (21%), and hypertension (15%). Uncommon, but potentially severe adverse reactions include cardiomyopathy, interstitial pneumonitis, colitis, intestinal perforation, hemorrhage, thromboembolism, new primary malignancies, ocular toxicity, retinal vein occlusion, severe skin reactions and embryonal-fetal toxicity.</p>
+        </sec>
+        <sec id="Trametinib.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>In large clinical trials, abnormalities in routine liver tests were common with serum aminotransferase elevations occurring in 39% to 60% and alkaline phosphatase in 24% to 67% of patients treated with trametinib. However, elevations in ALT above 5 times the ULN were uncommon, occurring in 0% to 5% of patients and generally resolving rapidly with temporary discontinuation or dose adjustment. In the prelicensure controlled trials of trametinib with or without dabrafenib, no cases of clinically apparent acute liver injury or hepatic failure were reported. There have yet to be published cases of clinically apparent hepatotoxicity attributed to trametinib. However, it has been used for a short time only.</p>
+          <p>Likelihood score: E* (unproven but suspected cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Trametinib.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The cause of serum enzyme elevations during trametinib therapy is not known. Trametinib is metabolized in the liver largely through the cytochrome P450 system, predominantly CYP 3A4 and CYP 2C8. Potent inducers or inhibitors of these P450 enzymes can alter serum levels of trametinib and serious drug-drug interactions can occur if trametinib is administered with other agents that are metabolized by CYP 3A4 or 2C8.</p>
+        </sec>
+        <sec id="Trametinib.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>In using kinase inhibitors for treatment of cancer, monitoring of routine liver tests before starting and during therapy is warranted. Serum aminotransferase elevations above 5 times the upper limit of normal (if confirmed) or elevations accompanied by jaundice or symptoms should lead to temporary cessation. Therapy should be held until improvement or resolution of the liver test abnormalities and caution used with restarting trametinib with or without dabrafenib. There does not appear to be cross reactivity in risk for hepatic injury between trametinib and other kinase inhibitors and, in some situations, switching to another kinase inhibitor may be appropriate.</p>
+          <p>Drug Class: <related-object source-id="livertox" document-id="AntineoplasticAgents">Antineoplastic Agents</related-object>, <related-object source-id="livertox" document-id="ProteinKinaseInhibit">Protein Kinase Inhibitors</related-object>, <related-object source-id="livertox" document-id="Dabrafenib">Dabrafenib</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Trametinib.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <boxed-text position="anchor" id="Trametinib.BPI" orientation="portrait">
+          <p>
+            <bold>REPRESENTATIVE TRADE NAMES</bold>
+          </p>
+          <p>Trametinib &#x02013; Mekinist&#x000ae;</p>
+          <p>
+            <bold>DRUG CLASS</bold>
+          </p>
+          <p>Antineoplastic Agents</p>
+          <p>
+            <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?label=all&#x00026;query=Trametinib">COMPLETE LABELING</ext-link>
+          </p>
+          <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+        </boxed-text>
+      </sec>
+      <sec id="Trametinib.CHEMICAL_FORMULA_AND_STRUCTUR">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Trametinib.T1" position="anchor" orientation="portrait">
+          <table>
+            <thead>
+              <tr>
+                <th id="hd_h_Trametinib.T1_1_1_1_1" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Trametinib.T1_1_1_1_2" rowspan="1" colspan="1">CAS REGISTRY NO.</th>
+                <th id="hd_h_Trametinib.T1_1_1_1_3" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Trametinib.T1_1_1_1_4" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Trametinib.T1_1_1_1_1" rowspan="1" colspan="1">Trametinib</td>
+                <td headers="hd_h_Trametinib.T1_1_1_1_2" rowspan="1" colspan="1">
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135268431">871700-17-3</ext-link>
+                </td>
+                <td headers="hd_h_Trametinib.T1_1_1_1_3" rowspan="1" colspan="1">C26-H23-F-I-N5-O4</td>
+                <td headers="hd_h_Trametinib.T1_1_1_1_4" rowspan="1" colspan="1">
+                  <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Trametinib_structure.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait">
+                    <alt-text>Trametinib chemical structure</alt-text>
+                  </graphic>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Trametinib.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 28 June 2018</p>
+        <ref-list id="Trametinib.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Trametinib.R1">
+            <mixed-citation publication-type="other">Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999.<annotation><p><italic toggle="yes">(Review of hepatotoxicity published in 1999 before the availability of kinase inhibitors such as trametinib).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Trametinib.R2">
+            <mixed-citation publication-type="other">DeLeve LD. Erlotinib. Cancer chemotherapy. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013, pp. 556.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of cancer chemotherapeutic agents discusses several tyrosine kinase inhibitors including imatinib, gefitinib, erlotinib and crizotinib, but not trametinib).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Trametinib.R3">
+            <mixed-citation publication-type="other">Chabner BA, Barnes J, Neal J, Olson E, Mujagic H, Sequist L, Wilson W, et al. Targeted therapies: tyrosine kinase inhibitors, monoclonal antibodies, and cytokines. In, Brunton LL, Chabner BA, Knollman BC, eds. Goodman &#x00026; Gilman's the pharmacological basis of therapeutics. 12th ed. New York: McGraw-Hill, 2011, pp. 1731-54.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Trametinib.R4">
+            <mixed-citation publication-type="journal">Flaherty KT, Infante JR, Daud A, Gonzalez R, Kefford RF, Sosman J, Hamid O, et al. Combined BRAF and MEK inhibition in melanoma with BRAF V600 mutations. N Engl J Med 2012; 367: 1694-703. <annotation><p><italic toggle="yes">(Among 322 patients with metastatic melanoma and V600E or V600K BRAF mutations, trametinib therapy was associated with improved overall survival compared to conventional chemotherapy [81% vs 67% at 6 months], and common adverse events were rash [57%], diarrhea [43%], fatigue [26%] and peripheral edema [26%], while less common events were ocular toxicity [9%] and cardiac dysfunction [7%]; no mention of hepatotoxicity or ALT elevations).</italic></p></annotation><pub-id pub-id-type="pmid">23020132</pub-id></mixed-citation>
+          </ref>
+          <ref id="Trametinib.R5">
+            <mixed-citation publication-type="journal">Falchook GS, Lewis KD, Infante JR, Gordon MS, Vogelzang NJ, DeMarini DJ, Sun P, et al. Activity of the oral MEK inhibitor trametinib in patients with advanced melanoma: a phase 1 dose-escalation trial. Lancet Oncol 2012; 13: 782-9. <annotation><p><italic toggle="yes">(Among 97 patients with malignant melanoma treated with escalating doses of trametinib, highest rates of response occurred in patients with BRAF mutations; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">22805292</pub-id></mixed-citation>
+          </ref>
+          <ref id="Trametinib.R6">
+            <mixed-citation publication-type="journal">Infante JR, Fecher LA, Falchook GS, Nallapareddy S, Gordon MS, Becerra C, DeMarini DJ, et al. Safety, pharmacokinetic, pharmacodynamic, and efficacy data for the oral MEK inhibitor trametinib: a phase 1 dose-escalation trial. Lancet Oncol 2012; 13: 773-81. <annotation><p><italic toggle="yes">(Among 206 patients with various advanced solid tumors treated with various doses and regimens of trametinib, the optimal dose was 2 mg daily, but the object response rate was only 10%; common side effects were rash [80%] and diarrhea [42%]; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">22805291</pub-id></mixed-citation>
+          </ref>
+          <ref id="Trametinib.R7">
+            <mixed-citation publication-type="journal">Flaherty KT, Robert C, Hersey P, Nathan P, Garbe C, Milhem M, Demidov LV, et al.; METRIC Study Group. Improved survival with MEK inhibition in BRAF-mutated melanoma. N Engl J Med 2012; 367: 107-14. <annotation><p><italic toggle="yes">(Among 247 patients with metastatic melanoma and BRAF V600 mutations, progression free survival was prolonged by the combination of trametinib and dabrafenib compared to dabrafenib alone; no mention of ALT elevations or clinically apparent acute liver injury).</italic></p></annotation><pub-id pub-id-type="pmid">22663011</pub-id></mixed-citation>
+          </ref>
+          <ref id="Trametinib.R8">
+            <mixed-citation publication-type="journal">Dabrafenib (Tafinlar) and trametinib (Mekinist) metastatic melanoma. Med Lett Drugs Ther 2013; 55 (1422): 62-3. <annotation><p><italic toggle="yes">(Concise review of mechanism of action, efficacy, safety and cost of trametinib with or without dabrafenib for metastatic melanoma shortly after its approval in the US; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">23917385</pub-id></mixed-citation>
+          </ref>
+          <ref id="Trametinib.R9">
+            <mixed-citation publication-type="journal">Wright CJ, McCormack PL. Trametinib: first global approval. Drugs 2013; 73: 1245-54. <annotation><p><italic toggle="yes">(Review of the structure, mechanism of action, pharmacodynamics, efficacy and safety of trametinib and current status of its evaluation in other solid tumors and hematologic malignancies; no discussion of hepatotoxicity or ALT elevations).</italic></p></annotation><pub-id pub-id-type="pmid">23846731</pub-id></mixed-citation>
+          </ref>
+          <ref id="Trametinib.R10">
+            <mixed-citation publication-type="journal">Kim KB, Kefford R, Pavlick AC, Infante JR, Ribas A, Sosman JA, Fecher LA, et al. Phase II study of the MEK1/MEK2 inhibitor Trametinib in patients with metastatic BRAF-mutant cutaneous melanoma previously treated with or without a BRAF inhibitor. J Clin Oncol 2013; 31: 482-9. <annotation><p><italic toggle="yes">(Among 97 patients with metastatic melanoma and BRAF mutations treated with trametinib, responses occurred largely in patients with no previous therapy with BRAF inhibitors [dabrafenib, vemurafenib] and all patients had at least one adverse event, the most common being rash [75%], diarrhea [52%] and nausea [30%]; 2 patients had ALT elevations above 5 times ULN, but this was reversible in all and there was no mention of clinically apparent hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">23248257</pub-id></mixed-citation>
+          </ref>
+          <ref id="Trametinib.R11">
+            <mixed-citation publication-type="journal">Spraggs CF, Xu CF, Hunt CM. Genetic characterization to improve interpretation and clinical management of hepatotoxicity caused by tyrosine kinase inhibitors. Pharmacogenomics 2013; 14: 541-54. <annotation><p><italic toggle="yes">(Review of genetic associations of serum ALT and bilirubin elevations during therapy with tyrosine kinase inhibitors focusing on lapatinib and pazopanib).</italic></p></annotation><pub-id pub-id-type="pmid">23556451</pub-id></mixed-citation>
+          </ref>
+          <ref id="Trametinib.R12">
+            <mixed-citation publication-type="journal">Salama AK, Kim KB. Trametinib (GSK1120212) in the treatment of melanoma. Expert Opin Pharmacother 2013; 14: 619-27. <annotation><p><italic toggle="yes">(Review of the mechanism of action, pharmacology, efficacy and safety of trametinib in therapy of melanoma; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">23432625</pub-id></mixed-citation>
+          </ref>
+          <ref id="Trametinib.R13">
+            <mixed-citation publication-type="journal">Shah RR, Morganroth J, Shah DR. Hepatotoxicity of tyrosine kinase inhibitors: clinical and regulatory perspectives. Drug Saf 2013; 36: 491-503. <annotation><p><italic toggle="yes">(Review of the hepatotoxicity of 18 tyrosine kinase inhibitors approved for use in cancer in the US as of 2013; trametinib is not discussed).</italic></p></annotation><pub-id pub-id-type="pmid">23620168</pub-id></mixed-citation>
+          </ref>
+          <ref id="Trametinib.R14">
+            <mixed-citation publication-type="journal">Infante JR, Somer BG, Park JO, Li CP, Scheulen ME, Kasubhai SM, Oh DY, Liu Y, et al. A randomised, double-blind, placebo-controlled trial of trametinib, an oral MEK inhibitor, in combination with gemcitabine for patients with untreated metastatic adenocarcinoma of the pancreas. Eur J Cancer 2014; 50: 2072-81. <annotation><p><italic toggle="yes">(Among 160 patients with pancreatic cancer treated with gemcitabine combined with trametinib or placebo, there was no difference in overall or progression free survive with or without trametinib; discussion of side effects did not mention ALT elevations or hepatotoxicity). </italic></p></annotation><pub-id pub-id-type="pmid">24915778</pub-id></mixed-citation>
+          </ref>
+          <ref id="Trametinib.R15">
+            <mixed-citation publication-type="journal">Johnson DB, Flaherty KT, Weber JS, Infante JR, Kim KB, Kefford RF, Hamid O, et al. Combined BRAF (Dabrafenib) and MEK inhibition (Trametinib) in patients with BRAFV600-mutant melanoma experiencing progression with single-agent BRAF inhibitor. J Clin Oncol 2014; 32: 3697-704. <annotation><p><italic toggle="yes"> (Among 71 patients with refractory melanoma with BRAF V600 mutantations treated with the combination of dabrafenib and trametinib, the objective response rate was 13-15% and all patients had at least one adverse event which were severe in 4 and fatal in 2, but none were liver related).</italic></p></annotation><pub-id pub-id-type="pmid">25287827</pub-id></mixed-citation>
+          </ref>
+          <ref id="Trametinib.R16">
+            <mixed-citation publication-type="journal">Long GV, Stroyakovskiy D, Gogas H, Levchenko E, de Braud F, Larkin J, Garbe C, et al. Combined BRAF and MEK inhibition versus BRAF inhibition alone in melanoma. N Engl J Med 2014; 371: 1877-88. <annotation><p><italic toggle="yes">(Among 423 pateints with advanced melanoma [with BRAF V600E or V600K mutations] treated wtih dabrafenib with or without trametinib, progression free survival was slightly better with the combination [9.3 vs 8.8 months], while adverse events tended to be more common and more severe with the combination, ALT elevations occurring in 11% vs 5% and rising above 5 times ULN in 2% vs &#x0003c;1%; no mention of clinically apparent hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">25265492</pub-id></mixed-citation>
+          </ref>
+          <ref id="Trametinib.R17">
+            <mixed-citation publication-type="journal">Chalasani N, Bonkovsky HL, Fontana R, Lee W, Stolz A, Talwalkar J, Reddy KR, et al.; United States Drug Induced Liver Injury Network. Features and outcomes of 899 patients with drug-induced liver injury: The DILIN Prospective Study. Gastroenterology 2015; 148: 1340-52.e7. <annotation><p><italic toggle="yes">(Among 899 cases of drug induced liver injury enrolled in a US prospective study between 2004 and 2013, 49 were attributed to antineoplastic agents [5.5%], 3 of which were attributed to kinase inhibitors [imatinib, lapatinib], but none to trametinib or dabrafenib).</italic></p></annotation><pub-id pub-id-type="pmid">25754159</pub-id></mixed-citation>
+          </ref>
+          <ref id="Trametinib.R18">
+            <mixed-citation publication-type="journal">Planchard D, Besse B, Groen HJM, Souquet PJ, Quoix E, Baik CS, Barlesi F, et al. Dabrafenib plus trametinib in patients with previously treated BRAF (V600E)-mutant metastatic non-small cell lung cancer: an open-label, multicentre phase 2 trial. Lancet Oncol 2016; 17: 984-93. <annotation><p><italic toggle="yes"> (Among 59 patients with previously treated, refractory NSCLC [with BRAF V600E mutation], treated with dabrafenib and trametinib, the overall response rate was 63% and adverse events were common, but ALT elevations occurred in only 3 patients [6%] and were above 5 times ULN in only 1; there were no serious liver related adverse events).</italic></p></annotation><pub-id pub-id-type="pmid">27283860</pub-id></mixed-citation>
+          </ref>
+          <ref id="Trametinib.R19">
+            <mixed-citation publication-type="journal">Knispel S, Zimmer L, Kanaki T, Ugurel S, Schadendorf D, Livingstone E. The safety and efficacy of dabrafenib and trametinib for the treatment of melanoma. Expert Opin Drug Saf 2017: 1-15. <annotation><p><italic toggle="yes">(Review of the structure, mechanism of action, clinical efficacy and safety of dabrafenib and its combination with trametinib as therapy for metastatic melanoma; no specific discussion of hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">29050517</pub-id></mixed-citation>
+          </ref>
+          <ref id="Trametinib.R20">
+            <mixed-citation publication-type="journal">Long GV, Eroglu Z, Infante J, Patel S, Daud A, Johnson DB, Gonzalez R, et al. Long-term outcomes in patients with BRAF V600-mutant metastatic melanoma who received dabrafenib combined with trametinib. J Clin Oncol 2017 Oct 9: JCO2017741025. <annotation><p><italic toggle="yes"> (Among 99 patients enrolled in a trial of dabrafenib and trametinib, 18 survived for at least 5 years and no new safety issues arose; no mention of ALT levels or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">28991513</pub-id></mixed-citation>
+          </ref>
+          <ref id="Trametinib.R21">
+            <mixed-citation publication-type="journal">Long GV, Hauschild A, Santinami M, Atkinson V, Mandal&#x000e0; M, Chiarion-Sileni V, Larkin J, et al. Adjuvant dabrafenib plus trametinib in stage III BRAF-mutated melanoma. N Engl J Med 2017; 377: 1813-23. <annotation><p><italic toggle="yes"> (Among 870 patients with Stage III, resected malignant melanoma treated with dabrafenib and trametinib or placebo for at least 1 year, relapse free survival was greater with the combination therapy [58% vs 39%], although adverse events were greater and included ALT elevations in 15% vs 1% that were above 5 times ULN in only one patient on the combination therapy; no mention of serious liver related serious adverse events).</italic></p></annotation><pub-id pub-id-type="pmid">28891408</pub-id></mixed-citation>
+          </ref>
+          <ref id="Trametinib.R22">
+            <mixed-citation publication-type="journal">Davies MA, Saiag P, Robert C, Grob JJ, Flaherty KT, Arance A, Chiarion-Sileni V, et al. Dabrafenib plus trametinib in patients with BRAF (V600)-mutant melanoma brain metastases (COMBI-MB): a multicentre, multicohort, open-label, phase 2 trial. Lancet Oncol 2017; 18: 863-73. <annotation><p><italic toggle="yes">(Among 125 patients with malignant melanoma and brain metastases [with BRAF V600 mutation] treated with dabrafenib and trametinib, intracranial response were achieved in 44-59% and the most common adverse events were fever and headache; while ALT elevations occurred in 12 patients [10%], none were above 5 times ULN).</italic></p></annotation><pub-id pub-id-type="pmid">28592387</pub-id></mixed-citation>
+          </ref>
+          <ref id="Trametinib.R23">
+            <mixed-citation publication-type="journal">Long GV, Flaherty KT, Stroyakovskiy D, Gogas H, Levchenko E, de Braud F, Larkin J, et al. Dabrafenib plus trametinib versus dabrafenib monotherapy in patients with metastatic BRAF V600E/K-mutant melanoma: long-term survival and safety analysis of a phase 3 study. Ann Oncol 2017; 28: 1631-9. <annotation><p><italic toggle="yes">(Further follow up of patients enrolled in a long term extension of a trial of dabrafenib monotherapy vs combination with trametinib [Long 2014] showed continued benefit of the combination with a survival of 44% vs 32% at 3 years, with ALT elevations in 13% vs 6% which rose above 5 times ULN in 2% vs &#x0003c;1%; no mention of clinically apparent liver injury).</italic></p></annotation><pub-id pub-id-type="pmid">28475671</pub-id></mixed-citation>
+          </ref>
+          <ref id="Trametinib.R24">
+            <mixed-citation publication-type="journal">Shroff RT, Yarchoan M, O'Connor A, Gallagher D, Zahurak ML, Rosner G, Ohaji C, et al. The oral VEGF receptor tyrosine kinase inhibitor pazopanib in combination with the MEK inhibitor trametinib in advanced cholangiocarcinoma. Br J Cancer 2017; 116: 1402-7. <annotation><p><italic toggle="yes"> (Among 25 patients with advanced, refractory cholangiocarcinoma treated with pazopanib and trametinib for an average of 12 weeks, the objective response rate was 5% and adverse events were common including elevated liver tests in 44% resulting in dose interruption in 1 patient, but without clinically apparent liver injury).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Trametinib.R25">
+            <mixed-citation publication-type="journal">Planchard D, Smit EF, Groen HJM, Mazieres J, Besse B, Helland &#x000c5;, Giannone V, et al. Dabrafenib plus trametinib in patients with previously untreated BRAF(V600E)-mutant metastatic non-small-cell lung cancer: an open-label, phase 2 trial. Lancet Oncol 2017; 18: 1307-16. <annotation><p><italic toggle="yes"> (Among 36 patients with metastatic NSCLC treated with dabrafenib and trametinib, the objective response rate was 64% and all patients had at least one adverse event including 6 [17%] with ALT elevations which were above 5 times ULN in 4 [11%], but none were associated with jaundice or symptoms).</italic></p></annotation><pub-id pub-id-type="pmid">28919011</pub-id></mixed-citation>
+          </ref>
+          <ref id="Trametinib.R26">
+            <mixed-citation publication-type="journal">Mart&#x000ed;n Algarra S, Soriano V, Fern&#x000e1;ndez-Morales L, Berciano-Guerrero M&#x000c1;, Mujika K, Manzano JL, Pu&#x000e9;rtolas Hern&#x000e1;ndez T, et al. Dabrafenib plus trametinib for compassionate use in metastatic melanoma: A STROBE-compliant retrospective observational postauthorization study. Medicine (Baltimore) 2017; 96: e9523. <annotation><p><italic toggle="yes">(Among 135 patients with metastatic melanoma treated with dabrafenib and trametinib in a Spanish open access program, the overall response rate was 68% and adverse events included skin reactions [42%], fever, weakness, arthralgia and diarrhea; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">29384960</pub-id></mixed-citation>
+          </ref>
+          <ref id="Trametinib.R27">
+            <mixed-citation publication-type="journal">Bunchorntavakul C, Reddy KR. Drug hepatotoxicity: newer agents. Clin Liver Dis 2017; 21: 115-34. <annotation><p><italic toggle="yes">(Review of the hepatotoxicity of recently approved medications including kinase inhibitors such as imatinib, erlotinib, lapatinib, pazopanib, ponatinib, nilotinib, sorafenib, sunitinib and regorafenib, but does not mention dabrafenib or trametinib).</italic></p></annotation><pub-id pub-id-type="pmid">27842767</pub-id></mixed-citation>
+          </ref>
+          <ref id="Trametinib.R28">
+            <mixed-citation publication-type="journal">Amaria RN, Prieto PA, Tetzlaff MT, Reuben A, Andrews MC, Ross MI, Glitza IC, et al. Neoadjuvant plus adjuvant dabrafenib and trametinib versus standard of care in patients with high-risk, surgically resectable melanoma: a single-centre, open-label, randomised, phase 2 trial. Lancet Oncol 2018; 19: 181-93. <annotation><p><italic toggle="yes">(Among 17 patients with surgically resected melanoma given adjuvant dabrafenib and trametinib or standard of care treatment, progression free survival was greater with the kinase inibitors [20 vs 3 months] and adverse events were mostly fever, fatigue, headache and diarrhea; ALT or AST elevations occurred in only 3 patients [23%] which were all below 5 times ULN).</italic></p></annotation><pub-id pub-id-type="pmid">29361468</pub-id></mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec id="Trametinib.OTHER_REFERENCE_LINKS" sec-type="link-group">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=Trametinib+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D%3A%222999/12/31%22%5BEDat%5D)">Recent References on Trametinib: from PubMed.gov</ext-link>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Trametinib">Trials on Trametinib: from ClinicalTrials.gov</ext-link>
+            </p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

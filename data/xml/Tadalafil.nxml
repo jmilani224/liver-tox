@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Tadalafil" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Tadalafil</book-part-id>
+      <title-group>
+        <title>Tadalafil</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>2</day>
+          <month>8</month>
+          <year>2017</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Tacrolimus" document-type="chapter">Tacrolimus</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Tafenoquine" document-type="chapter">Tafenoquine</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Tadalafil.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Tadalafil.Introcuction">
+          <title>Introcuction</title>
+          <p>Tadalafil is a selective inhibitor of phosphodiesterase type 5 (PDE5) and is used as therapy of erectile dysfunction and pulmonary hypertension. Tadalafil therapy has not been associated with serum aminotransferase elevations, but has been linked to at least one published case of clinically apparent liver injury.</p>
+        </sec>
+        <sec id="Tadalafil.Background" sec-type="pubmed-excerpt">
+          <title>Background</title>
+          <p>Tadalafil (ta da' la fil) is a selective inhibitor of phosphodiesterase type 5 (PDE5), which mediates the breakdown of cyclic guanosine monophosphate (cGMP) inducing smooth muscle relaxation in the corpus cavernosum of the penis and in the pulmonary vasculature where this specific phosphodiesterase is found. Tadalafil is effective in prolonging erection and was approved for treatment of erectile dysfunction in the United States in 2003 and for the treatment of pulmonary hypertension and symptoms of benign prostatic hypertrophy in 2011. Tadalafil is available in tablets of 2.5, 5, 10 and 20 mg under the brand name of Cialis for erectile dysfunction and benign prostatic hyperplasia, and in 20 mg tablets under the brand name Adcirca for pulmonary hypertension. The recommended dose for erectile dysfunction is 10 mg as a single dose as needed approximately one hour before sexual activity. The dose can be increased or decreased based upon effect and tolerance, with a recommended maximum frequency of once daily and maximum dosage of 20 mg. The approved dose for pulmonary hypertension is 40 mg once daily. Common side effects include dizziness, headache, flushing, hypotension, rhinitis and dyspepsia. Rare, but potentially serious adverse events inlucding vision and hearing loss, hypotension, cardiovascular events and priapism.</p>
+        </sec>
+        <sec id="Tadalafil.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>Despite fairly extensive use, tadalafil has been linked to only rare reports of serum aminotransferase elevations and clinically apparent liver injury. In a single case report, tadalafil was linked to cholestatic hepatitis arising within a few days of starting the medication. Immunoallergic features and autoantibodies were not present. The injury was self-limiting without residual evidence of bile duct injury. The related PDE5 inhibitor, sildenafil, has also been associated with rare cases of acute cholestatic liver injury with jaundice.</p>
+          <p>Likelihood score: D (possible rare cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Tadalafil.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The mechanism of liver injury from tadalafil is unknown, but it is metabolized in the liver via the cytochrome P450 system (CYP 3A4) and a toxic or immunogenic intermediate may account for the rare instances of hepatic injury linked to its use.</p>
+        </sec>
+        <sec id="Tadalafil.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>The liver injury linked to tadalafil has been self-limited and resolving within 2 to 3 months. Tadalafil has not been linked to cases of acute liver failure, chronic hepatitis or vanishing bile duct syndrome. There is no known cross sensitivity between tadalafil and the other PDE5 inhibitors currently in use in the United States, but switching to another PDE5 inhibitor should be done with caution.</p>
+          <p>References to the safety and potential hepatotoxicity of tadalafil are provided in the Overview section on PDE5 Inhibitors.</p>
+          <p>Drug Class: <related-object source-id="livertox" document-id="PDE5Inhibitors">PDE5 Inhibitors</related-object></p>
+          <p>Other Drugs in the Class: <related-object source-id="livertox" document-id="Avanafil">Avanafil</related-object>, <related-object source-id="livertox" document-id="Sildenafil">Sildenafil</related-object>, <related-object source-id="livertox" document-id="Vardenafil">Vardenafil</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Tadalafil.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <boxed-text position="anchor" id="Tadalafil.BPI" orientation="portrait">
+          <p>
+            <bold>REPRESENTATIVE TRADE NAMES</bold>
+          </p>
+          <p>Tadalafil &#x02013; Cialis&#x000ae;</p>
+          <p>
+            <bold>DRUG CLASS</bold>
+          </p>
+          <p>PDE5 Inhibitors</p>
+          <p>
+            <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=tadalafil">COMPLETE LABELING</ext-link>
+          </p>
+          <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+        </boxed-text>
+      </sec>
+      <sec id="Tadalafil.CHEMICAL_FORMULA_AND_STRUCTURE">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Tadalafil.T1" position="anchor" orientation="portrait">
+          <table>
+            <thead>
+              <tr>
+                <th id="hd_h_Tadalafil.T1_1_1_1_1" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Tadalafil.T1_1_1_1_2" rowspan="1" colspan="1">CAS REGISTRY NO</th>
+                <th id="hd_h_Tadalafil.T1_1_1_1_3" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Tadalafil.T1_1_1_1_4" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Tadalafil.T1_1_1_1_1" rowspan="1" colspan="1">Tadalafil</td>
+                <td headers="hd_h_Tadalafil.T1_1_1_1_2" rowspan="1" colspan="1">
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135067956">171596-29-5</ext-link>
+                </td>
+                <td headers="hd_h_Tadalafil.T1_1_1_1_3" rowspan="1" colspan="1">C22-H19-N3-O4</td>
+                <td headers="hd_h_Tadalafil.T1_1_1_1_4" rowspan="1" colspan="1">
+                  <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Tadalafil_Structure.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait">
+                    <alt-text>Tadalafil chemical structure</alt-text>
+                  </graphic>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Tadalafil.OTHER_REFERENCE_LINKS" sec-type="link-group">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=tadalafil+AND+Human%5BMH%5D+AND+(jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D%3A%222999/12/31%22%5BEDat%5D)">Recent References on Tadalafil: from PubMed.gov</ext-link>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=tadalafil">Trials on Tadalafil: from ClinicalTrials.gov</ext-link>
+            </p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

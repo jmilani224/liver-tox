@@ -1,0 +1,646 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Efavirenz" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Efavirenz</book-part-id>
+      <title-group>
+        <title>Efavirenz</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>10</day>
+          <month>2</month>
+          <year>2018</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Efalizumab" document-type="chapter">Efalizumab</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Elagolix" document-type="chapter">Elagolix</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Efavirenz.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Efavirenz.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Efavirenz is a nonnucleoside reverse transcriptase inhibitor used in combination with other agents in the therapy of human immunodeficiency virus (HIV) infection. Efavirenz is associated with a low rate of serum enzyme elevations during therapy and is an uncommon, but well established cause of clinically apparent acute liver injury.</p>
+        </sec>
+        <sec id="Efavirenz.Background">
+          <title>Background</title>
+          <p>Efavirenz (ef" a vir' enz) is an antiretroviral agent that acts by noncompetitive binding to and inhibition of the HIV reverse transcriptase. Efavirenz is a nonnucleoside reverse transcriptase inhibitor and is similar to nevirapine in its mechanism of action, but has little or no structural similarity. Efavirenz was approved for use in the United Sates in 1998 and is currently used in many antiretroviral regimens. Efavirenz is indicated for the treatment of HIV infection in combination with other antiretroviral agents. Efavirenz is available generically and under the brand name Sustiva in capsules of 50 and 200 mg and in tablets of 600 mg. Efavirenz is also available in fixed combination with emtricitabine (200 mg) and tenofovir (300 mg) under the brand name Atripla. The recommended dose of efavirenz in adults is 600 mg orally once daily. Common side effects include headache, dizziness, insomnia, fatigue and skin rashes (~25%). Rare, but potentially severe adverse effects include psychiatric and neurologic symptoms, convusions, immune reconstitution syndrome, lipodystrophy and severe hypersensitivity reactions including Stevens Johnson syndrome.</p>
+        </sec>
+        <sec id="Efavirenz.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>Serum aminotransferase elevations above 5 times the upper limit of normal occur in 1% to 8% of patients on efavirenz, and this rate is higher in patients who have HCV coinfection. Clinically apparent hepatotoxicity due to efavirenz is rare, but many convincing cases have been published. The liver injury is usually immunoallergic in pattern and arises within 1 to 8 weeks of starting therapy. Signs of hypersensitivity are less common than with nevirapine hepatotoxicity, but symptoms can include rash, fever, and eosinophilia and sometimes facial edema, lymphadenoapthy and lymphocytosis (Cases 1 and 2). Autoantibody formation is rare. The serum enzyme pattern is variable, typically cholestatic or mixed, but sometimes hepatocellular, these cases being more severe, likely to show submassive necrosis on liver biopsy and associated with a high fatality rate. In general, however, recovery is rapid upon stopping therapy.</p>
+          <p>Likelihood score: A (well established cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Efavirenz.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The cause of the clinically apparent hepatotoxicity from efavirenz appears to be hypersensitivity. Features such as eosinophilia, skin rash and biopsy findings suggest that the injury is due to an immunoallergic reaction. Efavirenz is metabolized by the cytochrome P450 system including CYP 3A and 2B6 and has significant drug-drug interactions with drugs that alter or are metabolized by the same enzymes.</p>
+        </sec>
+        <sec id="Efavirenz.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>The severity of the liver injury due to efavirenz ranges from mild and transient enzyme elevations to acute hepatocellular jaundice and even fulminant liver failure and death. Typically, improvements start within a few days of stopping efavirenz and full recovery is expected within 2 to 8 weeks. Corticosteroids are often used and appear to help reverse fever and rash, but their role in ameliorating the liver disease is uncertain. Rechallenge may lead to recurrence and should be avoided. Despite the similarity in causing immunoallergic hepatitis, there does not seem to be cross sensitivity to the hepatic injury between efavirenz and nevirapine or other nonnucleoside reverse transcriptase inhibitors, although there may be cross reactivity in occurrence of rash.</p>
+          <p>Drug Class: <related-object source-id="livertox" document-id="AntiviralAgents">Antiviral Agents</related-object>, Antiretroviral Agents</p>
+          <p>Other Drugs in the Subclass, Nonnucleoside Reverse Transcriptase Inhibitors: <related-object source-id="livertox" document-id="Delavirdine">Delavirdine</related-object>, <related-object source-id="livertox" document-id="Doravirine">Doravirine</related-object>, <related-object source-id="livertox" document-id="Etravirine">Etravirine</related-object>, <related-object source-id="livertox" document-id="Nevirapine">Nevirapine</related-object>, <related-object source-id="livertox" document-id="Rilpivirine">Rilpivirine</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Efavirenz.CASE_REPORTS">
+        <title>CASE REPORTS</title>
+        <sec id="Efavirenz.Case_1._Efavirenz-induced_hype">
+          <title>Case 1. Efavirenz-induced hypersensitivity reaction with hepatitis and rash.</title>
+          <p>[Modified from: Leung JM, O'Brien JG, Wong HK, Winslow DL. Efavirenz-induced hypersensitivity reaction manifesting in rash and hepatitis in a Latino male. Ann Pharmacother 2008; 42: 425-9. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/pubmed/18252833">PubMed Citation</ext-link>]</p>
+          <p>A 30 year old man newly diagnosed with HIV infection [CD4: 20 cells/mm3; HIV-1 RNA: 32,388 copies/mL] developed skin rash and fever 11 days after starting the combination of efavirenz (600 mg), tenofovir (300 mg), and emtricitabine (200 mg) once daily. He was also being treated with pyrimethamine (75 mg/day) and sulfadiazine (6 g/day) for toxoplasmosis and azithromycin and fluconazole for prophylaxis against opportunistic infections, all of which had been started four weeks before the antiretrovirals. He denied alcohol use or exposures to viral hepatitis. Physical examination showed a generalized erythematous rash. Therapy was continued. One week later he complained of abdominal pain, nausea and fever, and blood tests showed marked elevations in serum aminotransferase levels (Table). All medications were stopped. Serum enzyme elevations peaked 5 days after stopping antiretroviral therapy and he recovered slowly but completely. Serum lactate levels were normal, and tests for viral hepatitis A, B and C and autoantibodies were negative. He was subsequently treated with tenofovir, emtricitabine and atazanavir without recurrence of the liver abnormalities.</p>
+          <sec id="Efavirenz.Key_Points1">
+            <title>Key Points</title>
+            <table-wrap id="Efavirenz.T1" position="anchor" orientation="portrait">
+              <table>
+                <thead>
+                  <tr>
+                    <th id="hd_h_Efavirenz.T1_1_1_1_1" rowspan="1" colspan="1">Medication:</th>
+                    <td rowspan="1" colspan="1">Efavirenz (600 mg daily)</td>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <th headers="hd_h_Efavirenz.T1_1_1_1_1" id="hd_b_Efavirenz.T1_1_1_1_1" rowspan="1" colspan="1">Pattern:</th>
+                    <td headers="hd_b_Efavirenz.T1_1_1_1_1" rowspan="1" colspan="1">Cholestatic (R=1.9)</td>
+                  </tr>
+                  <tr>
+                    <th headers="hd_h_Efavirenz.T1_1_1_1_1" id="hd_b_Efavirenz.T1_1_1_2_1" rowspan="1" colspan="1">Severity:</th>
+                    <td headers="hd_b_Efavirenz.T1_1_1_2_1" rowspan="1" colspan="1">4+ (jaundice, hospitalization, and coagulopathy)</td>
+                  </tr>
+                  <tr>
+                    <th headers="hd_h_Efavirenz.T1_1_1_1_1" id="hd_b_Efavirenz.T1_1_1_3_1" rowspan="1" colspan="1">Latency:</th>
+                    <td headers="hd_b_Efavirenz.T1_1_1_3_1" rowspan="1" colspan="1">11 days to onset of rash, 18 days to onset of jaundice</td>
+                  </tr>
+                  <tr>
+                    <th headers="hd_h_Efavirenz.T1_1_1_1_1" id="hd_b_Efavirenz.T1_1_1_4_1" rowspan="1" colspan="1">Recovery:</th>
+                    <td headers="hd_b_Efavirenz.T1_1_1_4_1" rowspan="1" colspan="1">Yes, time to recovery not available</td>
+                  </tr>
+                  <tr>
+                    <th headers="hd_h_Efavirenz.T1_1_1_1_1" id="hd_b_Efavirenz.T1_1_1_5_1" rowspan="1" colspan="1">Other medications:</th>
+                    <td headers="hd_b_Efavirenz.T1_1_1_5_1" rowspan="1" colspan="1">Pyrimethamine, sulfadiazine, azithromycin, fluconazole, tenofovir, emtricitabine</td>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Efavirenz.Laboratory_Values1">
+            <title>Laboratory Values</title>
+            <table-wrap id="Efavirenz.T2" position="anchor" orientation="portrait">
+              <table>
+                <thead>
+                  <tr>
+                    <th id="hd_h_Efavirenz.T2_1_1_1_1" rowspan="1" colspan="1">Time After Starting</th>
+                    <th id="hd_h_Efavirenz.T2_1_1_1_2" rowspan="1" colspan="1">Time After Stopping</th>
+                    <th id="hd_h_Efavirenz.T2_1_1_1_3" rowspan="1" colspan="1">ALT* (U/L)</th>
+                    <th id="hd_h_Efavirenz.T2_1_1_1_4" rowspan="1" colspan="1">Alk P* (U/L)</th>
+                    <th id="hd_h_Efavirenz.T2_1_1_1_5" rowspan="1" colspan="1">Bilirubin* (mg/dL)</th>
+                    <th id="hd_h_Efavirenz.T2_1_1_1_6" rowspan="1" colspan="1">Other</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td headers="hd_h_Efavirenz.T2_1_1_1_1" rowspan="1" colspan="1">18 days</td>
+                    <td headers="hd_h_Efavirenz.T2_1_1_1_2" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Efavirenz.T2_1_1_1_3" rowspan="1" colspan="1">699</td>
+                    <td headers="hd_h_Efavirenz.T2_1_1_1_4" rowspan="1" colspan="1">1073</td>
+                    <td headers="hd_h_Efavirenz.T2_1_1_1_5" rowspan="1" colspan="1">3.0</td>
+                    <td headers="hd_h_Efavirenz.T2_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Efavirenz.T2_1_1_1_1" rowspan="1" colspan="1">3 weeks</td>
+                    <td headers="hd_h_Efavirenz.T2_1_1_1_2" rowspan="1" colspan="1">0</td>
+                    <td headers="hd_h_Efavirenz.T2_1_1_1_3" rowspan="1" colspan="1">1181</td>
+                    <td headers="hd_h_Efavirenz.T2_1_1_1_4" rowspan="1" colspan="1">1362</td>
+                    <td headers="hd_h_Efavirenz.T2_1_1_1_5" rowspan="1" colspan="1">4.2</td>
+                    <td headers="hd_h_Efavirenz.T2_1_1_1_6" rowspan="1" colspan="1">Temperature 39.5<sup>o</sup> C</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Efavirenz.T2_1_1_1_1" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Efavirenz.T2_1_1_1_2" rowspan="1" colspan="1">5 days</td>
+                    <td headers="hd_h_Efavirenz.T2_1_1_1_3" rowspan="1" colspan="1">2132</td>
+                    <td headers="hd_h_Efavirenz.T2_1_1_1_4" rowspan="1" colspan="1">760</td>
+                    <td headers="hd_h_Efavirenz.T2_1_1_1_5" rowspan="1" colspan="1">10.0</td>
+                    <td headers="hd_h_Efavirenz.T2_1_1_1_6" rowspan="1" colspan="1">Ammonia 119; INR 2.6</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Efavirenz.T2_1_1_1_1" rowspan="1" colspan="1">4 weeks</td>
+                    <td headers="hd_h_Efavirenz.T2_1_1_1_2" rowspan="1" colspan="1">1 week</td>
+                    <td headers="hd_h_Efavirenz.T2_1_1_1_3" rowspan="1" colspan="1">488</td>
+                    <td headers="hd_h_Efavirenz.T2_1_1_1_4" rowspan="1" colspan="1">840</td>
+                    <td headers="hd_h_Efavirenz.T2_1_1_1_5" rowspan="1" colspan="1">7.5</td>
+                    <td headers="hd_h_Efavirenz.T2_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Efavirenz.T2_1_1_1_1 hd_h_Efavirenz.T2_1_1_1_2" colspan="2" rowspan="1">
+                      <bold>Normal Values</bold>
+                    </td>
+                    <td headers="hd_h_Efavirenz.T2_1_1_1_3" rowspan="1" colspan="1">
+                      <bold>&#x0003c;40</bold>
+                    </td>
+                    <td headers="hd_h_Efavirenz.T2_1_1_1_4" rowspan="1" colspan="1">
+                      <bold>&#x0003c;117</bold>
+                    </td>
+                    <td headers="hd_h_Efavirenz.T2_1_1_1_5" rowspan="1" colspan="1">
+                      <bold>&#x0003c;1.2</bold>
+                    </td>
+                    <td headers="hd_h_Efavirenz.T2_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+            <p>* Values estimated from Figure 1.</p>
+          </sec>
+          <sec id="Efavirenz.Comment1">
+            <title>Comment</title>
+            <p>The sudden onset of rash followed by fever and a cholestatic hepatitis within 2 to 3 weeks of starting efavirenz suggests an immunoallergic form of drug induced liver disease. A similar type of liver injury can occur with sulfadiazine, but the timing was better for efavirenz. A possible role for tenofovir and emtricitabine appeared unlikely because of the lack of recurrence with rechallenge.</p>
+          </sec>
+        </sec>
+        <sec id="Efavirenz.Case_2._Efavirenz-induced_acut">
+          <title>Case 2. Efavirenz-induced acute eosinophilic hepatitis.</title>
+          <p>[Modified from: Verdon R, Six M, Rousselot P, Bazin C. Efavirenz-induced acute eosinophilic hepatitis. J Hepatol 2001; 34: 783-5. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/pubmed/11434632">PubMed Citation</ext-link>]</p>
+          <p>A 45 year old man on long term antiretroviral therapy developed skin rash, fever and abdominal pain 4 weeks after switching from indinavir to efavirenz on top of a chronic regimen of zidovudine and lamivudine. Serum bilirubin was normal, but aminotransferase and alkaline phosphatase levels were elevated (Table). The patient was known to have had antibody to hepatitis C, but serum aminotransferase levels were normal when efavirenz was started and HCV RNA was not detected in serum on multiple occasions. He had no history of liver disease and did not drink alcohol. Tests for hepatitis A and B and for autoantibodies were normal or negative. An ultrasound of the abdominal showed no evidence of obstruction. Liver biopsy showed hepatocellular injury with frequent eosinophils. Improvement began within days of stopping efavirenz, and tests were normal 5 weeks later.</p>
+          <sec id="Efavirenz.Key_Points2">
+            <title>Key Points</title>
+            <table-wrap id="Efavirenz.T3" position="anchor" orientation="portrait">
+              <table>
+                <thead>
+                  <tr>
+                    <th id="hd_h_Efavirenz.T3_1_1_1_1" rowspan="1" colspan="1">Medication:</th>
+                    <td rowspan="1" colspan="1">Efavirenz (600-1200 mg daily)</td>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <th headers="hd_h_Efavirenz.T3_1_1_1_1" id="hd_b_Efavirenz.T3_1_1_1_1" rowspan="1" colspan="1">Pattern:</th>
+                    <td headers="hd_b_Efavirenz.T3_1_1_1_1" rowspan="1" colspan="1">Mixed (R=2.9), later cholestatic</td>
+                  </tr>
+                  <tr>
+                    <th headers="hd_h_Efavirenz.T3_1_1_1_1" id="hd_b_Efavirenz.T3_1_1_2_1" rowspan="1" colspan="1">Severity:</th>
+                    <td headers="hd_b_Efavirenz.T3_1_1_2_1" rowspan="1" colspan="1">1+ (symptomatic, no frank jaundice)</td>
+                  </tr>
+                  <tr>
+                    <th headers="hd_h_Efavirenz.T3_1_1_1_1" id="hd_b_Efavirenz.T3_1_1_3_1" rowspan="1" colspan="1">Latency:</th>
+                    <td headers="hd_b_Efavirenz.T3_1_1_3_1" rowspan="1" colspan="1">4 weeks</td>
+                  </tr>
+                  <tr>
+                    <th headers="hd_h_Efavirenz.T3_1_1_1_1" id="hd_b_Efavirenz.T3_1_1_4_1" rowspan="1" colspan="1">Recovery:</th>
+                    <td headers="hd_b_Efavirenz.T3_1_1_4_1" rowspan="1" colspan="1">Yes, complete in 4-5 weeks</td>
+                  </tr>
+                  <tr>
+                    <th headers="hd_h_Efavirenz.T3_1_1_1_1" id="hd_b_Efavirenz.T3_1_1_5_1" rowspan="1" colspan="1">Other medications:</th>
+                    <td headers="hd_b_Efavirenz.T3_1_1_5_1" rowspan="1" colspan="1">Zidovudine, lamivudine, indinavir</td>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Efavirenz.Laboratory_Values2">
+            <title>Laboratory Values</title>
+            <table-wrap id="Efavirenz.T4" position="anchor" orientation="portrait">
+              <table>
+                <thead>
+                  <tr>
+                    <th id="hd_h_Efavirenz.T4_1_1_1_1" rowspan="1" colspan="1">Time After Starting</th>
+                    <th id="hd_h_Efavirenz.T4_1_1_1_2" rowspan="1" colspan="1">Time After Stopping</th>
+                    <th id="hd_h_Efavirenz.T4_1_1_1_3" rowspan="1" colspan="1">ALT (U/L)</th>
+                    <th id="hd_h_Efavirenz.T4_1_1_1_4" rowspan="1" colspan="1">Alk P (U/L)</th>
+                    <th id="hd_h_Efavirenz.T4_1_1_1_5" rowspan="1" colspan="1">Bilirubin (mg/dL)</th>
+                    <th id="hd_h_Efavirenz.T4_1_1_1_6" rowspan="1" colspan="1">Other</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td headers="hd_h_Efavirenz.T4_1_1_1_1" rowspan="1" colspan="1">Pre</td>
+                    <td headers="hd_h_Efavirenz.T4_1_1_1_2" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Efavirenz.T4_1_1_1_3" rowspan="1" colspan="1">16</td>
+                    <td headers="hd_h_Efavirenz.T4_1_1_1_4" rowspan="1" colspan="1">65</td>
+                    <td headers="hd_h_Efavirenz.T4_1_1_1_5" rowspan="1" colspan="1">1.5</td>
+                    <td headers="hd_h_Efavirenz.T4_1_1_1_6" rowspan="1" colspan="1">Efavirenz started</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Efavirenz.T4_1_1_1_1" rowspan="1" colspan="1">4 weeks</td>
+                    <td headers="hd_h_Efavirenz.T4_1_1_1_2" rowspan="1" colspan="1">0</td>
+                    <td headers="hd_h_Efavirenz.T4_1_1_1_3" rowspan="1" colspan="1">718</td>
+                    <td headers="hd_h_Efavirenz.T4_1_1_1_4" rowspan="1" colspan="1">684</td>
+                    <td headers="hd_h_Efavirenz.T4_1_1_1_5" rowspan="1" colspan="1">1.1</td>
+                    <td headers="hd_h_Efavirenz.T4_1_1_1_6" rowspan="1" colspan="1">Efavirenz stopped</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Efavirenz.T4_1_1_1_1" rowspan="1" colspan="1">5 weeks</td>
+                    <td headers="hd_h_Efavirenz.T4_1_1_1_2" rowspan="1" colspan="1">1 week</td>
+                    <td headers="hd_h_Efavirenz.T4_1_1_1_3" rowspan="1" colspan="1">141</td>
+                    <td headers="hd_h_Efavirenz.T4_1_1_1_4" rowspan="1" colspan="1">928</td>
+                    <td headers="hd_h_Efavirenz.T4_1_1_1_5" rowspan="1" colspan="1">0.7</td>
+                    <td headers="hd_h_Efavirenz.T4_1_1_1_6" rowspan="1" colspan="1">Eosinophils: 1110/&#x000b5;L</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Efavirenz.T4_1_1_1_1" rowspan="1" colspan="1">6 weeks</td>
+                    <td headers="hd_h_Efavirenz.T4_1_1_1_2" rowspan="1" colspan="1">2 weeks</td>
+                    <td headers="hd_h_Efavirenz.T4_1_1_1_3" rowspan="1" colspan="1">25</td>
+                    <td headers="hd_h_Efavirenz.T4_1_1_1_4" rowspan="1" colspan="1">246</td>
+                    <td headers="hd_h_Efavirenz.T4_1_1_1_5" rowspan="1" colspan="1">0.6</td>
+                    <td headers="hd_h_Efavirenz.T4_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Efavirenz.T4_1_1_1_1" rowspan="1" colspan="1">2 months</td>
+                    <td headers="hd_h_Efavirenz.T4_1_1_1_2" rowspan="1" colspan="1">5 weeks</td>
+                    <td headers="hd_h_Efavirenz.T4_1_1_1_3" rowspan="1" colspan="1">19</td>
+                    <td headers="hd_h_Efavirenz.T4_1_1_1_4" rowspan="1" colspan="1">156</td>
+                    <td headers="hd_h_Efavirenz.T4_1_1_1_5" rowspan="1" colspan="1">0.8</td>
+                    <td headers="hd_h_Efavirenz.T4_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Efavirenz.T4_1_1_1_1 hd_h_Efavirenz.T4_1_1_1_2" colspan="2" rowspan="1">
+                      <bold>Normal Values</bold>
+                    </td>
+                    <td headers="hd_h_Efavirenz.T4_1_1_1_3" rowspan="1" colspan="1">
+                      <bold>&#x0003c;38</bold>
+                    </td>
+                    <td headers="hd_h_Efavirenz.T4_1_1_1_4" rowspan="1" colspan="1">
+                      <bold>&#x0003c;105</bold>
+                    </td>
+                    <td headers="hd_h_Efavirenz.T4_1_1_1_5" rowspan="1" colspan="1">
+                      <bold>&#x0003c;1.2</bold>
+                    </td>
+                    <td headers="hd_h_Efavirenz.T4_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Efavirenz.Comment2">
+            <title>Comment</title>
+            <p>The onset of rash and liver injury within 4 weeks of starting efavirenz in a patient on long term zidovudine and lamivudine is highly suggestive of a hypersensitivity reaction with an accompanying anicteric hepatitis due to efavirenz. This case also had biopsy findings which suggested an allergic nature of the toxicity of this drug. The role of hepatitis C was ruled out by the absence of detectable HCV RNA before, during and after the onset of injury. Recovery was rapid upon stopping therapy and corticosteroids were not used.</p>
+          </sec>
+        </sec>
+      </sec>
+      <sec id="Efavirenz.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <boxed-text position="anchor" id="Efavirenz.BPI" orientation="portrait">
+          <p>
+            <bold>REPRESENTATIVE TRADE NAMES</bold>
+          </p>
+          <p>Efavirenz &#x02013; Sustiva&#x000ae;</p>
+          <p>
+            <bold>DRUG CLASS</bold>
+          </p>
+          <p>Antiviral Agents</p>
+          <p>
+            <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=efavirenz">COMPLETE LABELING</ext-link>
+          </p>
+          <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+        </boxed-text>
+      </sec>
+      <sec id="Efavirenz.CHEMICAL_FORMULA_AND_STRUCTURE">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Efavirenz.T5" position="anchor" orientation="portrait">
+          <table>
+            <thead>
+              <tr>
+                <th id="hd_h_Efavirenz.T5_1_1_1_1" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Efavirenz.T5_1_1_1_2" rowspan="1" colspan="1">CAS REGISTRY NUMBER</th>
+                <th id="hd_h_Efavirenz.T5_1_1_1_3" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Efavirenz.T5_1_1_1_4" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Efavirenz.T5_1_1_1_1" rowspan="1" colspan="1">Efavirenz</td>
+                <td headers="hd_h_Efavirenz.T5_1_1_1_2" rowspan="1" colspan="1">
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135022248">154598-52-4</ext-link>
+                </td>
+                <td headers="hd_h_Efavirenz.T5_1_1_1_3" rowspan="1" colspan="1">C14-H9-Cl-F3-N-O2</td>
+                <td headers="hd_h_Efavirenz.T5_1_1_1_4" rowspan="1" colspan="1">
+                  <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Efavirenz_Structure.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait">
+                    <alt-text>Efavirenz Chemical Structure</alt-text>
+                  </graphic>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Efavirenz.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 10 February 2018</p>
+        <p>Abbreviations used: NNRTI, nonnucleoside reverse transcriptase inhibitors; TMP/SMZ, trimethoprim with sulfamethoxazole.</p>
+        <ref-list id="Efavirenz.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Efavirenz.R1">
+            <mixed-citation publication-type="other">N&#x000fa;&#x000f1;ez M. Hepatic toxicity of antiviral agents. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013, pp. 505-18.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of antiviral agents, including the nonnucleoside reverse transcriptase inhibitors [NNRTIs]).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Efavirenz.R2">
+            <mixed-citation publication-type="other">Flexner C. Antiretroviral agents and treatment of HIV infection. In, Brunton LL, Chabner BA, Knollman BC, eds. Goodman &#x00026; Gilman&#x02019;s the pharmacological basis of therapeutics. 12th ed. New York: McGraw-Hill, 2011, pp. 1623-64.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Efavirenz.R3">
+            <mixed-citation publication-type="other">http://aidsinfo.nih.gov/guidelines.<annotation><p><italic toggle="yes">(Clinical guidelines on the use of antiretroviral agents in HIV-1 infected adults, adolescents and children).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Efavirenz.R4">
+            <mixed-citation publication-type="journal">Adkins JC, Noble S. Efavirenz. Drugs 1998; 56: 1055-64. <annotation><p><italic toggle="yes">(Review of structure, pharmacology, antiviral resistance, efficacy and safety of efavirenz; no discussion of hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">9878993</pub-id></mixed-citation>
+          </ref>
+          <ref id="Efavirenz.R5">
+            <mixed-citation publication-type="journal">Havlir DV, Lange JM. New antiretrovirals and new combinations. AIDS 1998; 12 Suppl A: S165-74. <annotation><p><italic toggle="yes">(Review of newy approved agents, including nelfinavir, nevirapine, delaviridine, efavirenz and abacavir; most significant toxicities discussed include diarrhea for nelfinavir, rash and hepatitis for nevirapine, rash for delavirdine; little information available on toxicities of other agents).</italic></p></annotation><pub-id pub-id-type="pmid">9632999</pub-id></mixed-citation>
+          </ref>
+          <ref id="Efavirenz.R6">
+            <mixed-citation publication-type="journal">Moyle G. Efavirenz; shifting the HAART paradigm in adult HIV-1 infection. Expert Opinion on Investigational Drugs 1999; 8: 473-86. <annotation><p><italic toggle="yes">(Review of structure, activity, pharmacology, efficacy and safety of efavirenz; ALT elevations occur in 2-3% of both efavirenz and control groups using comparative agents).</italic></p></annotation><pub-id pub-id-type="pmid">15992093</pub-id></mixed-citation>
+          </ref>
+          <ref id="Efavirenz.R7">
+            <mixed-citation publication-type="journal">Clarke S, Harrington P, Barry M, Mulcahy F. The tolerability of efavirenz after nevirapine-related adverse events. Clin Infect Dis 2000; 31: 806-7. <annotation><p><italic toggle="yes">(Among 8 patients stopping nevirapine because of toxicity including 3 with ALT elevations [&#x0003e;5 times ULN], none developed liver toxicity and only one had any symptoms [facial edema] after switching to efavirenz).</italic></p></annotation><pub-id pub-id-type="pmid">10824944</pub-id></mixed-citation>
+          </ref>
+          <ref id="Efavirenz.R8">
+            <mixed-citation publication-type="journal">Bossi P, Colin D, Dricaire F, Caumes E. Hypersensitivity syndrome associated with efavirenz therapy. Clin Infect Dis 2000; 30: 227-8. <annotation><p><italic toggle="yes">(44 year old woman developed rash 20 days after starting efavirenz, lamivudine and stavudine, followed by fever and jaundice [bilirubin 16.5 mg/dL, ALT 458 U/L, 9% eosinophils], resolving rapidly with corticosteroid therapy).</italic></p></annotation><pub-id pub-id-type="pmid">10619772</pub-id></mixed-citation>
+          </ref>
+          <ref id="Efavirenz.R9">
+            <mixed-citation publication-type="journal">Sulkowski MS, Thomas DL, Chaisson RE, Moore RD. Hepatotoxicity associated with antiretroviral therapy in adults infected with human immunodeficiency virus and the role of hepatitis C or B virus infection. JAMA 2000; 283: 74-80. <annotation><p><italic toggle="yes">(Among 298 patients with HIV infection, ALT elevations above 5 times ULN occurred in 10.4% per year during antiretroviral treatment; factors associated with ALT elevations included ritonavir [27.3%] and coinfection with either HCV or HBV; ALT with bilirubin elevations occurred in 3 patients; 2 on indinavir and all 3 with coinfection).</italic></p></annotation><pub-id pub-id-type="pmid">10632283</pub-id></mixed-citation>
+          </ref>
+          <ref id="Efavirenz.R10">
+            <mixed-citation publication-type="journal">Velasco M, Guijarro C. Elevated liver enzymes following initiation of antiretroviral therapy. JAMA 2000; 283: 2526-7. <annotation><p><italic toggle="yes">(Letter in response to Sulkowski et al. [JAMA 2000] pointing out that antiretroviral therapy can cause immune reconstitution and flares of hepatitis B or C, which may be misdiagnosed as hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">10815112</pub-id></mixed-citation>
+          </ref>
+          <ref id="Efavirenz.R11">
+            <mixed-citation publication-type="journal">Sulkowski MS, Thomas DL, Chaisson RE, Moore RD. Elevated liver enzymes following initiation of antiretroviral therapy JAMA 2000; 283: 2526-7. <annotation><p><italic toggle="yes">(Reply to Velasco and Guijarro pointing at that the majority of the ALT elevations described could not be attributed to immune reconstitution).</italic></p></annotation><pub-id pub-id-type="pmid">10815113</pub-id></mixed-citation>
+          </ref>
+          <ref id="Efavirenz.R12">
+            <mixed-citation publication-type="journal">Soriano V, Dona C, Barreiro P, Gonzalez-Lahoz J. Is there cross-toxicity between nevirapine and efavirenz in subjects developing rash. AIDS 2000; 14: 1672-3. <annotation><p><italic toggle="yes">(Retrospective review, only 1 of 8 patients with rash on nevirapine developed rash on efavirenz; no mention of hepatic cross reactions).</italic></p></annotation><pub-id pub-id-type="pmid">10983663</pub-id></mixed-citation>
+          </ref>
+          <ref id="Efavirenz.R13">
+            <mixed-citation publication-type="journal">Verdon R, Six M, Rousselot P, Bazin C. Efavirenz-induced acute eosinophilic hepatitis. J Hepatol. 2001; 34: 783-5. <annotation><p><italic toggle="yes">(45 year old man developed rash and abdominal pain 4 weeks after starting efavirenz [bilirubin 18.0 mg/dL, ALT 141 U/L, Alk P 684 U/L], resolving within 4 weeks of stopping: Case 2).</italic></p></annotation><pub-id pub-id-type="pmid">11434632</pub-id></mixed-citation>
+          </ref>
+          <ref id="Efavirenz.R14">
+            <mixed-citation publication-type="journal">Hill JB, Sheffield JS, Zeeman GG, Wendel GD Jr. Hepatotoxicity with antiretroviral treatment of pregnant women. Obstet Gynecol 2001; 98: 909-11. <annotation><p><italic toggle="yes">(Two cases, 28 year old woman on zidovudine, lamivudine and efavirenz developed jaundice at 18 weeks of pregnancy [bilirubin 20.4 mg/dL, ALT 421 U/L], remaining jaundiced until delivery at 27 weeks, resolving within 5 months of stopping; 22 year old woman started on lamivudine, zidovudine and nelfinavir at 14 weeks of pregnancy and developed jaundice 10 weeks later [bilirubin 8.9 mg/dL, ALT 1598 U/L], progressing to acute liver failure and death).</italic></p></annotation><pub-id pub-id-type="pmid">11704198</pub-id></mixed-citation>
+          </ref>
+          <ref id="Efavirenz.R15">
+            <mixed-citation publication-type="journal">Clark S, Creighton S, Portmann B, Taylor C, Wendon J, Cramp M. Acute liver failure associated with antiretroviral treatment for HIV: a report of six cases. J Hepatol 2002; 36: 295-301. <annotation><p><italic toggle="yes">(6 patients with HIV infection who developed acute liver failure on stavudine [n=5], lamivudine [n=3], didanosine [n=2], saquinavir [n=2], efavirenz [n=2], nevirapine [n=2], or nelfinavir, delaviridine or zidovudine [n=1] for 1-3 months [peak bilirubin 2.7-32 mg/dL, AST 240-8650 U/L, Alk P 122-191 U/L]; 2 had signs of hypersensitivity, 2 had hepatitis B and 5 died; autopsies showed massive necrosis and one had massive steatosis).</italic></p></annotation><pub-id pub-id-type="pmid">11830344</pub-id></mixed-citation>
+          </ref>
+          <ref id="Efavirenz.R16">
+            <mixed-citation publication-type="journal">Dybul M, Fauci AS, Bartlett JG, Kaplan JE, Pau AK; Panel on Clinical Practices for the Treatment of HIV. Guidelines for using antiretroviral agents among HIV-infected adults and adolescents. Recommendations of the Panel on Clinical Practices for Treatment of HIV. MMWR Recomm Rep 2002; 51 (RR-7): 1-55. <annotation><p><italic toggle="yes">(Recommendations on use of antiretroviral agents for HIV infection including indications, efficacy, need for monitoring and side effects including hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">12027060</pub-id></mixed-citation>
+          </ref>
+          <ref id="Efavirenz.R17">
+            <mixed-citation publication-type="journal">Sulkowski MS, Thomas DL, Mehta SH, Chaisson RE, Moore RD. Hepatotoxicity associated with nevirapine or efavirenz-containing antiretroviral therapy: role of hepatitis C and B infections. Hepatology 2002; 35: 182-9. <annotation><p><italic toggle="yes">(Prospective analysis of 568 patients, ALT levels above 5 ULN occurred in 16% on nevirapine and 8% on efavirenz, only 1/3rd in first 12 weeks, usually associated with HBV or HCV coinfection [69%] or concurrent protease inhibitor therapy [82%]; no recurrence on switching from one to the other).</italic></p></annotation><pub-id pub-id-type="pmid">11786975</pub-id></mixed-citation>
+          </ref>
+          <ref id="Efavirenz.R18">
+            <mixed-citation publication-type="journal">Abrescia N, D'Abbraccio M, Figoni M, Busto A, Butrico E, De Marco M, Viglietti R. Fulminant hepatic failure after the start of an efavirenz-based HAART regimen in a treatment-naive female AIDS patient without hepatitis virus co-infection. J Antimicrob Chemother 2002; 50: 763-5. <annotation><p><italic toggle="yes">(30 year old woman developed rash after 7 and jaundice after 10 days of combination antiretroviral therapy with stavudine, zidovudine, lamivudine and efavirenz [bilirubin 12.6 mg/dL, ALT 6 times ULN], subsequently worsening and dying 1 week later despite stopping therapy promptly).</italic></p></annotation><pub-id pub-id-type="pmid">12407142</pub-id></mixed-citation>
+          </ref>
+          <ref id="Efavirenz.R19">
+            <mixed-citation publication-type="journal">Pulido F, Torralba M. NNRTI hepatotoxicity: efavirenz versus nevirapine. J HIV Ther 2002; Suppl 2: S3-16. <annotation><p><italic toggle="yes">(Review of hepatotoxicity of all antiretrovirals with focus on NNRTIs).</italic></p></annotation><pub-id pub-id-type="pmid">12735215</pub-id></mixed-citation>
+          </ref>
+          <ref id="Efavirenz.R20">
+            <mixed-citation publication-type="journal">Law WP, Dore GJ, Duncombe CJ, Mahanontharit A, Boyd MA, Ruxrungtham K, Lange JM, et al. Risk of severe hepatotoxicity associated with antiretroviral therapy in the HIV-NAT Cohort, Thailand, 1996-2001. AIDS 2003; 17: 2191-9. <annotation><p><italic toggle="yes">(Among 692 patients in 8 controlled trials in Thailand, rate of ALT elevations above 5 times ULN was 6.1/100 patient years overall; in multivariate analysis, risk factors were HBV [RR=3.9], HCV [3.0], and use of NNRTIs [6.8], rate with nevirapine [18.6/100 person-years] higher than efavirenz [2.4]).</italic></p></annotation><pub-id pub-id-type="pmid">14523276</pub-id></mixed-citation>
+          </ref>
+          <ref id="Efavirenz.R21">
+            <mixed-citation publication-type="journal">Ena J, Amador C, Benito C, Fenoll V, Pasquau F. Risk and determinants of developing severe liver toxicity during therapy with nevirapine-and efavirenz-containing regimens in HIV-infected patients. Int J STD AIDS 2003; 14: 776-81. <annotation><p><italic toggle="yes">(Retrospective review of 136 patients treated with NNRTI combinations, 48% had ALT elevations which were &#x0003e;5 times ULN in 20%; risk factors were alcohol use, HCV infection and 4 drug regimens; 3 of 17 patients with ALT elevations on nevirapine redeveloped ALT elevations on restarting; 2 patients with jaundice, but both had HCV infection and were exposed to other hepatotoxins).</italic></p></annotation><pub-id pub-id-type="pmid">14624743</pub-id></mixed-citation>
+          </ref>
+          <ref id="Efavirenz.R22">
+            <mixed-citation publication-type="journal">Kontorinis N, Dieterich D. Hepatotoxicity of antiretroviral therapy. AIDS Rev 2003; 5: 36-43. <annotation><p><italic toggle="yes">(Review of hepatotoxicity of antiretroviral drugs including the definition of hepatotoxicity used in early antiretroviral studies; grade 1=1.25-2.5, grade 2=2.5-5, grade 3=5-10 and grade 4=&#x0003e;10 times ULN or baseline ALT values).</italic></p></annotation><pub-id pub-id-type="pmid">12875106</pub-id></mixed-citation>
+          </ref>
+          <ref id="Efavirenz.R23">
+            <mixed-citation publication-type="journal">Ogedegbe AO, Sulkowski MS. Antiretroviral-associated liver injury. Clin Liver Dis 2003; 7: 475-99. <annotation><p><italic toggle="yes">(Review of hepatotoxicity of antiretrovirals; ALT elevations above 5 times ULN reported in 7% with zidovudine, 16% didanosine, 9-13% stavudine, &#x0003c;1% lamivudine, tenofovir and abacavir, 3-10% protease inhibitors, 10% nevirapine and 8% efavirenz; recommends monitoring at 4 weeks and then every 12 weeks, stopping if ALT levels are &#x0003e;10 times ULN or if symptoms of liver injury are present, monitoring more closely if ALT levels are elevated).</italic></p></annotation><pub-id pub-id-type="pmid">12879995</pub-id></mixed-citation>
+          </ref>
+          <ref id="Efavirenz.R24">
+            <mixed-citation publication-type="journal">Ofotokun I, Pomeroy C. Sex differences in adverse reactions to antiretroviral drugs. Top HIV Med 2003; 11: 55-9. <annotation><p><italic toggle="yes">(Review of sex differences in adverse events; higher frequency of mitochondrial toxicity and hypersensitivity in women than men).</italic></p></annotation><pub-id pub-id-type="pmid">12717043</pub-id></mixed-citation>
+          </ref>
+          <ref id="Efavirenz.R25">
+            <mixed-citation publication-type="journal">Mart&#x000ed;n-Carbonero L, N&#x000fa;&#x000f1;ez M, Gonz&#x000e1;lez-Lahoz J, Soriano V. Incidence of liver injury after beginning antiretroviral therapy with efavirenz or nevirapine. HIV Clin Trials 2003; 4: 115-20. <annotation><p><italic toggle="yes">(Retrospective analysis of 298 patients, ALT elevations &#x0003e;5 times ULN occurred in 12% of nevirapine vs 4% of efavirenz treated patients, more frequent with HCV coinfection, in women and in alcohol drinkers).</italic></p></annotation><pub-id pub-id-type="pmid">12671779</pub-id></mixed-citation>
+          </ref>
+          <ref id="Efavirenz.R26">
+            <mixed-citation publication-type="journal">Manfredi R, Calza L, Chiodo F. Efavirenz versus nevirapine in current clinical practice: a prospective, open-label observational study. J Acquir Immune Defic Syndr 2004; 35: 492-502. <annotation><p><italic toggle="yes">(Comparison of 287 patients on efavirenz vs 258 on nevirapine in practice situation; similar efficacy but higher rate of ALT abnormalities with nevirapine [52% vs 18%]) and discontinuation because of liver toxicity [3.5% vs 0]).</italic></p></annotation><pub-id pub-id-type="pmid">15021314</pub-id></mixed-citation>
+          </ref>
+          <ref id="Efavirenz.R27">
+            <mixed-citation publication-type="journal">Dieterich DT, Robinson PA, Love J, Stern JO. Drug-induced liver injury associated with the use of nonnucleoside reverse-transcriptase inhibitors. Clin Infect Dis 2004; 38 Suppl 2: S80-9. <annotation><p><italic toggle="yes">(Review of hepatotoxicity of nonnucleoside reverse transcriptase inhibitors; in 17 controlled trials of nevirapine, 10% of patients developed ALT or AST elevations above 5 times ULN and 5% had a symptomatic hepatic event).</italic></p></annotation><pub-id pub-id-type="pmid">14986279</pub-id></mixed-citation>
+          </ref>
+          <ref id="Efavirenz.R28">
+            <mixed-citation publication-type="journal">Te HS. Cholestasis in HIV-infected patients. Clin Liver Dis 2004; 8: 213-28, viii-ix. <annotation><p><italic toggle="yes">(Review of causes of cholestasis in HIV infected patients, including antiretrovirals).</italic></p></annotation><pub-id pub-id-type="pmid">15062202</pub-id></mixed-citation>
+          </ref>
+          <ref id="Efavirenz.R29">
+            <mixed-citation publication-type="journal">Abrescia N, D&#x02019;Abbraccio M, Figoni M, Busto A, Maddaloni A, De Marco M. Hepatotoxicity of antiretroviral drugs. Curr Pharm Des 2005; 11: 3697-710. <annotation><p><italic toggle="yes">(Review of hepatotoxicity of antiretrovirals; major syndrome with nonnucleoside reverse transcriptase inhibitors is hypersensitivity).</italic></p></annotation><pub-id pub-id-type="pmid">16305505</pub-id></mixed-citation>
+          </ref>
+          <ref id="Efavirenz.R30">
+            <mixed-citation publication-type="journal">N&#x000fa;&#x000f1;ez M, Soriano V. Hepatotoxicity of antiretrovirals: incidence, mechanisms and management. Drug Saf 2005; 28: 53-66. <annotation><p><italic toggle="yes">(Review of liver toxicity of antiretrovirals).</italic></p></annotation><pub-id pub-id-type="pmid">15649105</pub-id></mixed-citation>
+          </ref>
+          <ref id="Efavirenz.R31">
+            <mixed-citation publication-type="journal">Aranzabal L, Casado JL, Moya J, Quereda C, Diz S, Moreno A, Moreno L, et al. Influence of liver fibrosis on highly active antiretroviral therapy-associated hepatotoxicity in patients with HIV and hepatitis C virus coinfection. Clin Infect Dis 2005; 40: 588-93. <annotation><p><italic toggle="yes">(Among 107 patients with HIV-HCV coinfection and pretreatment liver biopsy; ALT elevations of &#x0003e;5 times ULN [or 3.5 times baseline] occurred in 38% with advanced fibrosis and 15% without fibrosis; higher rates of ALT elevations occurred with nevirapine and efavirenz therapy [13%]).</italic></p></annotation><pub-id pub-id-type="pmid">15712082</pub-id></mixed-citation>
+          </ref>
+          <ref id="Efavirenz.R32">
+            <mixed-citation publication-type="journal">Verma S, Bhakta H, Nowain A, Pais S, Kanel G, Squires K, Squires K. Severe cholestatic liver injury days after initiating antiretroviral therapy in a patient with AIDS: drug toxicity or immune reconstitution inflammatory syndrome? Dig Dis Sci 2005; 50: 1813-7. <annotation><p><italic toggle="yes">(37 year old man with AIDS developed rash and fever one week after starting efavirenz and lopinavir/ritonavir and one day after restarting azithromycin, trimethoprim/sulfamethoxazole (TMP/SMS), one week later becoming jaundiced [bilirubin 0.4 rising to 9.9 mg/dL, ALT 20 to 103 U/L, Alk P 70 to 700 U/L], values normalizing within a few weeks of stopping, but recurring with jaundice after 2 rechallenges using same antiretroviral regimen without TMP/SMS).</italic></p></annotation><pub-id pub-id-type="pmid">16187179</pub-id></mixed-citation>
+          </ref>
+          <ref id="Efavirenz.R33">
+            <mixed-citation publication-type="journal">Rotger M, Colombo S, Furrer H, Bleiber G, Buclin T, Lee BL, Keiser O, et al.; Swiss HIV Cohort Study. Influence of CYP2B6 polymorphism on plasma and intracellular concentrations and toxicity of efavirenz and nevirapine in HIV-infected patients. Pharmacogenet Genomics 2005; 15: 1-5. <annotation><p><italic toggle="yes">(Analysis of an allele of CYP 2B6, the major hepatic enzyme responsible for efavirenz and nevirapine metabolism; G516T was associated with higher drug levels for both agents, and higher tissue levels correlated with greater neuropsychiatric side effects).</italic></p></annotation><pub-id pub-id-type="pmid">15864119</pub-id></mixed-citation>
+          </ref>
+          <ref id="Efavirenz.R34">
+            <mixed-citation publication-type="journal">Sanne I, Mommeja-Marin H, Hinkle J, Bartlett JA, Lederman MM, Maartens G, Wakeford C, et al. Severe hepatotoxicity associated with nevirapine use in HIV-infected subjects. J Infect Dis 2005; 191: 825-9. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/pubmed/%2015717255">PubMed Citation</ext-link><annotation><p><italic toggle="yes">(In a prospective study, ALT elevations above 5 times normal occurred in 17% [66/385] of nevirapine vs 0% [0/83] of efavirenz treated patients, usually in the first 12 weeks, most had symptoms including rash, nausea and jaundice; two cases of acute liver failure and death on nevirapine).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Efavirenz.R35">
+            <mixed-citation publication-type="journal">Kappelhoff BS, van Leth F, Robinson PA, MacGregor TR, Baraldi E, Montella F, Uip DE, et al.; 2NN Study Group. Are adverse events of nevirapine and efavirenz related to plasma concentrations? Antivir Ther 2005; 10: 489-98. <annotation><p><italic toggle="yes">(Among 1077 patients receiving nevirapine or efavirenz, no association found between adverse events and plasma levels or pharmacokinetics, except for a slight correlation of higher efavirenz levels and ALT elevations).</italic></p></annotation><pub-id pub-id-type="pmid">16038474</pub-id></mixed-citation>
+          </ref>
+          <ref id="Efavirenz.R36">
+            <mixed-citation publication-type="journal">Torti C, Lapadula G, Casari S, Puoti M, Nelson M, Quiros-Roldan E, Bella D, et al.; EPOKA-MASTER Study Group. Incidence and risk factors for liver enzyme elevation during highly active antiretroviral therapy in HIV-HCV co-infected patients: results from the Italian EPOKA-MASTER Cohort. BMC Infect Dis 2005; 5: 58. <annotation><p><italic toggle="yes">(Among 1038 HIV-HCV coinfected patients starting antiretroviral therapy, the risk of ALT elevations above 5 times ULN was 17.1/100 patient years in treatment na&#x000ef;ve and 8.2 in treatment-experienced group; risk factors being baseline ALT levels and nonnucleoside reverse transcriptase inhibitor use).</italic></p></annotation><pub-id pub-id-type="pmid">16018804</pub-id></mixed-citation>
+          </ref>
+          <ref id="Efavirenz.R37">
+            <mixed-citation publication-type="journal">Zhou J, Phanupak P, Kiertiburanakul S, Ditangco R, Kamarulzaman A, Pujary S; TREAT Asia HIV Observational Database. Highly active antiretroviral treatment containing efavirenz or nevirapine and related toxicity in the TREAT Asia HIV Observational Database. J Acquir Immune Defic Syndr 2006; 43: 501-3. <annotation><p><italic toggle="yes">(Analysis of 735 HIV-positive patients started on efavirenz- and 813 on nevirapine-containing regimens; 12 patients in both groups developed ALT &#x0003e;5 times normal but monitoring was irregular; no deaths from liver disease; no racial differences in rates of ALT elevations, HCV coinfection was a risk factor).</italic></p></annotation><pub-id pub-id-type="pmid">17099317</pub-id></mixed-citation>
+          </ref>
+          <ref id="Efavirenz.R38">
+            <mixed-citation publication-type="journal">Buyse S, Vibert E, Sebagh M, Antonini T, Ichai P, Castaing D, Samuel D, et al. Liver transplantation for fulminant hepatitis related to nevirapine therapy. Liver Transpl 2006; 12: 1880-2. <annotation><p><italic toggle="yes">(38 year old woman with HIV infection developed acute liver failure 6 weeks after starting nevirapine plus zidovudine and lamivudine [bilirubin 11.2 mg/dL, ALT 12578 U/L, GGT 340 U/L], undergoing liver transplantation and tolerating efavirenz in follow up after transplant).</italic></p></annotation><pub-id pub-id-type="pmid">17133571</pub-id></mixed-citation>
+          </ref>
+          <ref id="Efavirenz.R39">
+            <mixed-citation publication-type="journal">Ritchie MD, Haas DW, Motsinger AA, Donahue JP, Erdem H, Raffanti S, Rebeiro P, et al. Drug transporter and metabolizing enzyme gene variants and nonnucleoside reverse-transcriptase inhibitor hepatotoxicity. Clin Infect Dis 2006; 43: 779-82. <annotation><p><italic toggle="yes">(Case control study of 9 nevirapine and 4 efavirenz recipients who developed ALT above 5 times ULN on therapy vs 49 controls; found weak association with a MDR1 [p-glycoprotein: ABC B1] polymorphism).</italic></p></annotation><pub-id pub-id-type="pmid">16912956</pub-id></mixed-citation>
+          </ref>
+          <ref id="Efavirenz.R40">
+            <mixed-citation publication-type="journal">Servoss JC, Kitch DW, Andersen JW, Reisler RB, Chung RT, Robbins GK. Predictors of antiretroviral-related hepatotoxicity in the adult AIDS Clinical Trial Group(1989-1999). J Acquir Immune Defic Syndr 2006; 43: 320-3. <annotation><p><italic toggle="yes">(Analysis of factors that predict &#x0201c;serious hepatotoxicity&#x0201d; in 9% of cohort of 8851 patients with HIV infection enrolled in trials of antiretroviral therapy; factors identified included baseline liver test abnormalities, HCV infection, and in subgroups, didanosine, nevirapine and stavudine).</italic></p></annotation><pub-id pub-id-type="pmid">16967041</pub-id></mixed-citation>
+          </ref>
+          <ref id="Efavirenz.R41">
+            <mixed-citation publication-type="journal">Hofman P, Nelson AM. The pathology induced by highly active antiretroviral therapy against human immunodeficiency virus: an update. Curr Med Chem 2006; 13: 3121-32. <annotation><p><italic toggle="yes">(Review of pathology of adverse effects of antiretroviral agents with examples of mitochondrial liver injury and cholestasis).</italic></p></annotation><pub-id pub-id-type="pmid">17168701</pub-id></mixed-citation>
+          </ref>
+          <ref id="Efavirenz.R42">
+            <mixed-citation publication-type="journal">N&#x000fa;&#x000f1;ez M. Hepatotoxicity of antiretrovirals: incidence, mechanisms and management. J Hepatol 2006; 44(1 Suppl): S132-9. <annotation><p><italic toggle="yes">(Review of hepatotoxicity of antiretrovirals; elevations in ALT or AST above 5 times ULN occur in 2-18% of HIV-positive patients starting therapy, more frequent with HCV or HBV coinfection; combination of protease inhibitors with low dose ritonavir does not seem to increase risk; agents with highest risk are nevirapine and the nonnucleoside reverse transcriptase inhibitors).</italic></p></annotation><pub-id pub-id-type="pmid">16364487</pub-id></mixed-citation>
+          </ref>
+          <ref id="Efavirenz.R43">
+            <mixed-citation publication-type="journal">Hoffmann C, Charalambous S, Thio CL, Martin DJ, Pemba L, Fielding KL, Churchyard GJ, et al. Hepatotoxicity in an African antiretroviral therapy cohort: the effect of tuberculosis and hepatitis B. AIDS 2007; 21: 1301-08. <annotation><p><italic toggle="yes">(Among 868 Africans with HIV infection, ALT elevations above 5 times ULN occurred in 7.7 per 100 person years with lamivudine, zidovudine and efavirenz; risk was increased by antituberculosis therapy [8.5 fold], HBsAg [3 fold] and low CD4 counts [1.9 fold]).</italic></p></annotation><pub-id pub-id-type="pmid">17545706</pub-id></mixed-citation>
+          </ref>
+          <ref id="Efavirenz.R44">
+            <mixed-citation publication-type="journal">Bourli&#x000e8;re M, Duclos-Vall&#x000e9;e JC, Pol S. [Liver and antiretrovirals: hepatotoxicity, steatosis and monitoring of patients with liver disease] Gastroenterol Clin Biol 2007; 31: 895-905. French. <annotation><p><italic toggle="yes">(Review of hepatotoxicity of antiretrovirals in French discussing patterns of hypersensitivity reactions [nevirapine and abacavir], mitochondrial toxicity [zalcitabine, didanosine, stavudine and zidovudine], steatohepatitis [protease inhibitors with lipodystrophy], immune restoration [in patients with HIV-HBV or -HCV coinfection]; recommendations for management focusing on prevention and monitoring).</italic></p></annotation><pub-id pub-id-type="pmid">18166875</pub-id></mixed-citation>
+          </ref>
+          <ref id="Efavirenz.R45">
+            <mixed-citation publication-type="journal">Jain MK. Drug-induced liver injury associated with HIV medications. Clin Liver Dis 2007; 11: 615-39, vii-viii. <annotation><p><italic toggle="yes">(Review of hepatotoxicity of antiretroviral medications; ALT elevations occur in 2-18% of patients, but often resolve spontaneously even without dose modification; classes of injury include hypersensitivity [nevirapine, efavirenz, abacavir], mitochondrial damage [stavudine, didanosine, zidovudine], flares of hepatitis B [lamivudine, emtricitabine, tenofovir], flares of hepatitis C [any potent regimen], idiosyncratic injury [ritonavir, nevirapine, efavirenz], and cholestatic hepatitis [many agents]).</italic></p></annotation><pub-id pub-id-type="pmid">17723923</pub-id></mixed-citation>
+          </ref>
+          <ref id="Efavirenz.R46">
+            <mixed-citation publication-type="journal">Esser S, Helbig D, Hillen U, Dissemond J, Grabbe S. Side effects of HIV therapy. J Dtsch Dermatol Ges 2007; 5: 745-54. <annotation><p><italic toggle="yes">(Review of side effects of antiretroviral agents focusing on immune reconstitution syndrome, lipodystrophy, cutaneous skin reactions, hypersensitivity reactions [abacavir, nevirapine], hyperbilirubinemia [indinavir, atazanavir], local reactions [enfuvirtide] and hyperpigmentation [zidovudine, emtricitabine]).</italic></p></annotation><pub-id pub-id-type="pmid">17760894</pub-id></mixed-citation>
+          </ref>
+          <ref id="Efavirenz.R47">
+            <mixed-citation publication-type="journal">Mussi-Pinhata MM, Rego MA, Freimanis L, Kakehasi FM, Machado DM, Cardoso EM, Read JS; NISDI Perinatal Protocol Study Group. Maternal antiretrovirals and hepatic enzyme, hematologic abnormalities among human immunodeficiency virus type 1-uninfected infants: the NISDI perinatal study. Pediatr Infect Dis J 2007; 26: 1032-7. <annotation><p><italic toggle="yes">(Liver enzyme elevations in newborns of HIV infected mothers on various antiretroviral regimens; infants whose mothers received protease inhibitors were more likely to have ALT elevations [odds ratio 1.9] similarly for nonnucleoside reverse transcriptase inhibitors [odds ratio 2.4] most elevations were mild and self-limited).</italic></p></annotation><pub-id pub-id-type="pmid">17984811</pub-id></mixed-citation>
+          </ref>
+          <ref id="Efavirenz.R48">
+            <mixed-citation publication-type="journal">Mehta U, Maartens G. Is it safe to switch between efavirenz and nevirapine in the event of toxicity? Lancet Infect Dis 2007; 7: 733-8. <annotation><p><italic toggle="yes">(Review mentions that there is some evidence of cross sensitivity between nevirapine and efavirenz to skin rash, but not to hepatotoxicity; 11 patients in literature switched and no recurrence).</italic></p></annotation><pub-id pub-id-type="pmid">17961859</pub-id></mixed-citation>
+          </ref>
+          <ref id="Efavirenz.R49">
+            <mixed-citation publication-type="journal">Rivero A, Mira JA, Pineda JA. Liver toxicity induced by non-nucleoside reverse transcriptase inhibitors. J Antimicrob Chemother 2007; 59: 342-6. <annotation><p><italic toggle="yes">(Review of liver toxicity of nevirapine and efavirenz, ALT elevations above 5 times ULN reported in 1-8% of efavirenz vs 4-16% of nevirapine recipients).</italic></p></annotation><pub-id pub-id-type="pmid">17255142</pub-id></mixed-citation>
+          </ref>
+          <ref id="Efavirenz.R50">
+            <mixed-citation publication-type="journal">Lattuada E, Lanzafame M, Carolo G, Gottardi M, Concia E, Vento S. Does tenofovir increase efavirenz hepatotoxicity? AIDS 2008; 22: 995-6. <annotation><p><italic toggle="yes">(Three patients with HIV infection without hepatitis B or C on efavirenz therapy who developed ALT elevations 4-6 weeks after starting tenofovir; ALT 144, 186 and 392 U/L [previously normal], resolving with stopping tenofovir).</italic></p></annotation><pub-id pub-id-type="pmid">18453862</pub-id></mixed-citation>
+          </ref>
+          <ref id="Efavirenz.R51">
+            <mixed-citation publication-type="journal">Medrano J, Barreiro P, Tuma P, Vispo E, Labarga P, Blanco F, Soriano V. Risk for immune-mediated liver reactions by nevirapine revisited. AIDS Rev 2008; 10: 110-5. <annotation><p><italic toggle="yes">(Review: Symptomatic hepatic events occur in ~5% of patients taking nevirapine, early hypersensitivity reactions occurring especially in women with CD4 counts &#x0003e;250 and with HBV or HCV infection. Late onset hepatotoxicity may be class effect [with efavirenz]).</italic></p></annotation><pub-id pub-id-type="pmid">18615121</pub-id></mixed-citation>
+          </ref>
+          <ref id="Efavirenz.R52">
+            <mixed-citation publication-type="journal">Bae WH, Wester C, Smeaton LM, Shapiro RL, Lockman S, Onyait K, Thior I, et al. Hematologic and hepatic toxicities associated with antenatal and postnatal exposure to maternal highly active antiretroviral therapy among infants. AIDS 2008; 22: 1633-40. <annotation><p><italic toggle="yes">(Prospective monitoring found that only 1 of 69 infants born to antiretroviral treated mothers and none of 109 infants born to drug therapy unexposed mothers with HIV infection developed ALT elevations &#x0003e;5 times ULN during the first 7 months of life).</italic></p></annotation><pub-id pub-id-type="pmid">18670224</pub-id></mixed-citation>
+          </ref>
+          <ref id="Efavirenz.R53">
+            <mixed-citation publication-type="journal">Sathia L, Obiorah I, Taylor G, Kon O, O&#x02019;Donoghue M, Gibbins S, Walsh J, et al. Concomitant use of nonnucleoside analogue reverse transcriptase inhibitors and rifampicin in TB/HIV type 1-coinfected patients. AIDS Res Hum Retroviruses 2008; 24: 897-901. <annotation><p><italic toggle="yes">(Among 103 HIV infected persons with tuberculosis receiving rifampin, including 17 on nevirapine and 26 efavirenz, transient elevations in ALT occurred in 17%, but only 2 patients stopped therapy for ALT elevations above 5 times ULN, and both restarted antituberculosus therapy after ALT abnormalities resolved without recurrence).</italic></p></annotation><pub-id pub-id-type="pmid">18671475</pub-id></mixed-citation>
+          </ref>
+          <ref id="Efavirenz.R54">
+            <mixed-citation publication-type="journal">Br&#x000fc;ck S, Witte S, Brust J, Schuster D, Mosthaf F, Procaccianti M, Rump JA, et al. Hepatotoxicity in patients prescribed efavirenz or nevirapine. Eur J Med Res 2008; 13: 343-8. <annotation><p><italic toggle="yes">(Among 151 patients starting efavirenz and 145 nevirapine, rates of ALT elevations were similar in the two groups; 6% vs 3.4% had ALT levels above 2.5 times ULN and 1.2% vs 2.1% had ALT above 5 times ULN; only predictive factor identified was HBsAg; no fatal cases).</italic></p></annotation><pub-id pub-id-type="pmid">18700192</pub-id></mixed-citation>
+          </ref>
+          <ref id="Efavirenz.R55">
+            <mixed-citation publication-type="journal">Leung JM, O'Brien JG, Wong HK, Winslow DL. Efavirenz-induced hypersensitivity reaction manifesting in rash and hepatitis in a Latino male. Ann Pharmacother 2008; 42: 425-9. <annotation><p><italic toggle="yes">(30 year old man developed rash 11 days after starting tenofovir, emtricitabine and efavirenz for HIV infection, and jaundice and fever arose by day 18 [bilirubin 3.0 mg/dL, ALT 699 U/L, Alk P 1073 U/L], values peaking 5 days after stopping and ultimately resolving: Case 1).</italic></p></annotation><pub-id pub-id-type="pmid">18252833</pub-id></mixed-citation>
+          </ref>
+          <ref id="Efavirenz.R56">
+            <mixed-citation publication-type="journal">Soriano V, Puoti M, Garcia-Gasc&#x000f3; P, Rockstroh JK, Benhamou Y, Barreiro P, McGovern B. Antiretroviral drugs and liver injury. AIDS 2008; 22: 1-13. <annotation><p><italic toggle="yes">(Review of hepatotoxicity of antiretroviral drugs with recommendations on management: stopping therapy if symptoms arise, with overt jaundice [direct bilirubin], evidence of mitochondrial toxicity, ALT &#x0003e;10 times ULN, ALT at lower levels if newly marketed agent; important to rule out other causes; problematic agents include didanosine, stavudine and zidovudine, nevirapine and efavirenz, full dose ritonavir and tipranavir).</italic></p></annotation><pub-id pub-id-type="pmid">18090386</pub-id></mixed-citation>
+          </ref>
+          <ref id="Efavirenz.R57">
+            <mixed-citation publication-type="journal">Hammer SM, Eron JJ Jr, Reiss P, Schooley RT, Thompson MA, Walmsley S, Cahn P, et al.; International AIDS Society-USA. Antiretroviral treatment of adult HIV infection: 2008 recommendations of the International AIDS Society-USA panel. JAMA 2008; 300: 555-70. <annotation><p><italic toggle="yes">(Updated recommendations on use of antiviral therapy in adults with HIV infection including use of recently approved agents: raltegravir, maraviroc and etravirine).</italic></p></annotation><pub-id pub-id-type="pmid">18677028</pub-id></mixed-citation>
+          </ref>
+          <ref id="Efavirenz.R58">
+            <mixed-citation publication-type="journal">Vitezica ZG, Milpied B, Lonjou C, Borot N, Ledger TN, Lefebvre A, Hovnanian A. HLA-DRB1*01 associated with cutaneous hypersensitivity induced by nevirapine and efavirenz. AIDS 2008; 22: 540-1. <annotation><p><italic toggle="yes">(Among 21 HIV infected patients treated with nevirapine [n=14] or efavirenz [n=7], 6 developed a hypersensitivity rash, 5 of whom had DRB1*01 compared to 1 [7%] control).</italic></p></annotation><pub-id pub-id-type="pmid">18301070</pub-id></mixed-citation>
+          </ref>
+          <ref id="Efavirenz.R59">
+            <mixed-citation publication-type="journal">Chalasani N, Fontana RJ, Bonkovsky HL, Watkins PB, Davern T, Serrano J, Yang H, Rochon J; Drug Induced Liver Injury Network (DILIN). Causes, clinical features, and outcomes from a prospective study of drug-induced liver injury in the United States. Gastroenterology 2008; 135: 1924-34. <annotation><p><italic toggle="yes">(Among 300 cases of drug induced liver disease in the US collected between 2004 and 2008, 7 were attributed to antiretroviral agents, 2 nevirapine, 1 efavirez and 4 miscellaneous combinations).</italic></p></annotation><pub-id pub-id-type="pmid">18955056</pub-id></mixed-citation>
+          </ref>
+          <ref id="Efavirenz.R60">
+            <mixed-citation publication-type="journal">Ingiliz P, Benhamou Y. Elevated liver enzymes in HIV monoinfected patients on HIV therapy: what are the implications? J HIV Ther 2009; 14: 3-7. <annotation><p><italic toggle="yes">(Review of the causes of serum enzyme elevations during antiretroviral therapy; nonnucleoside reverse transcriptase inhibitors are capable of causing a hypersensitivity reaction with liver injury arising during the first 6 weeks of therapy, as well as an immunologically mediated injury that arises 6-12 months after starting treatment).</italic></p></annotation><pub-id pub-id-type="pmid">19731558</pub-id></mixed-citation>
+          </ref>
+          <ref id="Efavirenz.R61">
+            <mixed-citation publication-type="journal">Ferrajolo C, Capuano A, Verhamme KM, Schuemie M, Rossi F, Stricker BH, Sturkenboom MC. Drug-induced hepatic injury in children: a case/non-case study of suspected adverse drug reactions in VigiBase. Br J Clin Pharmacol 2010; 70: 721-8. <annotation><p><italic toggle="yes">(Worldwide pharmacovigilance database contained 9036 hepatic adverse drug reactions in children, 3 antiretroviral agents were among the top 40 cases, including zidovudine [8th, 106 cases], lamivudine [26th, 45 cases] and nevirapine [36th, 37 cases]).</italic></p></annotation><pub-id pub-id-type="pmid">21039766</pub-id></mixed-citation>
+          </ref>
+          <ref id="Efavirenz.R62">
+            <mixed-citation publication-type="journal">Reuben A, Koch DG, Lee WM; Acute Liver Failure Study Group. Drug-induced acute liver failure: results of a U.S. multicenter, prospective study. Hepatology 2010; 52: 2065-76. <annotation><p><italic toggle="yes">(Among 1198 patients with acute liver failure enrolled in a US prospective study between 1998 and 2007, 133 were attributed to drug induced liver injury, 4 of which were due to antiretroviral agents, including 3 to combinations with stavudine and 1 to abacavir).</italic></p></annotation><pub-id pub-id-type="pmid">20949552</pub-id></mixed-citation>
+          </ref>
+          <ref id="Efavirenz.R63">
+            <mixed-citation publication-type="journal">Li ZC, Li HJ, Dai LL, Gao YQ, Cai WP, Li HY, Huang XJ, et al. Liver injury in HIV-1-infected patients receiving non-nucleosides reverse transcriptase inhibitors-based antiretroviral therapy. Chin Med J (Engl) 2010; 123: 3587-90. <annotation><p><italic toggle="yes">(Among 75 Chinese patients on antiretroviral therapy with nevirapine or efavirenz, 45 developed abnormal liver tests, most of which were transient and mild, and risk factors included HBV or HCV coinfection, use of nevirapine and exposure to other hepatotoxic agents).</italic></p></annotation><pub-id pub-id-type="pmid">22166636</pub-id></mixed-citation>
+          </ref>
+          <ref id="Efavirenz.R64">
+            <mixed-citation publication-type="journal">Yimer G, Ueda N, Habtewold A, Amogne W, Suda A, Riedel KD, Burhenne J, et al. Pharmacogenetic &#x00026; pharmacokinetic biomarker for efavirenz based ARV and rifampicin based anti-TB drug induced liver injury in TB-HIV infected patients. PLoS One 2011; 6: e27810. <annotation><p><italic toggle="yes">(Among 353 patients with both tuberculosis and HIV infection treated with efavirenz based antiretroviral therapy and four drugs for tuberculosis, ALT elevations above twice normal occurred in 30% during the first 56 weeks of treatment and were associated with female sex, higher efavirenz levels, and slow NAT2 acetylation genotype and ABC B1 3435TT genotype).</italic></p></annotation><pub-id pub-id-type="pmid">22162992</pub-id></mixed-citation>
+          </ref>
+          <ref id="Efavirenz.R65">
+            <mixed-citation publication-type="journal">Pineda JA, Neukam K, Mallolas J, L&#x000f3;pez-Cort&#x000e9;s LF, Cart&#x000f3;n JA, Domingo P, Moreno S, et al. Hepatic safety of efavirenz in HIV/hepatitis C virus-coinfected patients with advanced liver fibrosis. J Infect 2012; 64: 204-11. <annotation><p><italic toggle="yes">(Among 189 patients with HIV-HCV coinfection starting on efavirenz based antiretroviral therapy, 12 [6%] developed ALT elevations above 5 times ULN and rates were similar in those with advanced fibrosis or cirrhosis [5.2%], as in those without [6.8%]).</italic></p></annotation><pub-id pub-id-type="pmid">22138553</pub-id></mixed-citation>
+          </ref>
+          <ref id="Efavirenz.R66">
+            <mixed-citation publication-type="journal">Neukam K, Mira JA, Ruiz-Morales J, Rivero A, Collado A, Torres-Cornejo A, Merino D, et al; SEGURIDAD HEP&#x000c1;TICA Study Team of the Grupo HEPAVIR de la Sociedad Andaluza de Enfermedades Infecciosas (SAEI). Liver toxicity associated with antiretroviral therapy including efavirenz or ritonavir-boosted protease inhibitors in a cohort of HIV/hepatitis C virus co-infected patients. J Antimicrob Chemother 2011; 66: 2605-14. <annotation><p><italic toggle="yes">(Among 262 patients with HIV-HCV coinfection started on antiretroviral therapy, 20 [7.6%] developed ALT elevations above 5 times ULN with no difference in rates between those with [7%] and without [8%] advanced fibrosis, treated with efavirenz [7%] or protease inhibitor [8%] based therapy).</italic></p></annotation><pub-id pub-id-type="pmid">21903660</pub-id></mixed-citation>
+          </ref>
+          <ref id="Efavirenz.R67">
+            <mixed-citation publication-type="journal">Molleston JP, Fontana RJ, Lopez MJ, Kleiner DE, Gu J, Chalasani N; Drug-induced Liver Injury Network. Characteristics of idiosyncratic drug-induced liver injury in children: results from the DILIN prospective study. J Pediatr Gastroenterol Nutr 2011; 53: 182-9. <annotation><p><italic toggle="yes">(Among 30 children with suspected drug induced liver injury in the US, none were attributed to an antiretroviral agent).</italic></p></annotation><pub-id pub-id-type="pmid">21788760</pub-id></mixed-citation>
+          </ref>
+          <ref id="Efavirenz.R68">
+            <mixed-citation publication-type="journal">Daar ES, Tierney C, Fischl MA, Sax PE, Mollan K, Budhathoki C, Godfrey C, et al.; AIDS Clinical Trials Group Study A5202 Team. Atazanavir plus ritonavir or efavirenz as part of a 3-drug regimen for initial treatment of HIV-1. Ann Intern Med 2011; 154: 445-56. (Among 1848 patients treated with either efavirenz or atazanavir /ritonavir in combination with nucleoside analogues, ALT elevations occurred in 2% and at a similar rate in both groups<annotation><p><italic toggle="yes">).</italic></p></annotation><pub-id pub-id-type="pmid">21320923</pub-id></mixed-citation>
+          </ref>
+          <ref id="Efavirenz.R69">
+            <mixed-citation publication-type="journal">Yimer G, Amogne W, Habtewold A, Makonnen E, Ueda N, Suda A, Worku A, et al. High plasma efavirenz level and CYP2B6*6 are associated with efavirenz-based HAART-induced liver injury in the treatment of na&#x000ef;ve HIV patients from Ethiopia: a prospective cohort study. Pharmacogenomics J 2012; 12: 499-506. <annotation><p><italic toggle="yes">(Among 261 patients with HIV infection and low CD4 counts started on 1 of 3 efavirenz based regimens, 41 [16%] developed liver injury, usually within 8 weeks, 11 cases were considered severe, but only 2 required change in regimen; statistical association found with CYP 2B6 polymorphisms).</italic></p></annotation><pub-id pub-id-type="pmid">21862974</pub-id></mixed-citation>
+          </ref>
+          <ref id="Efavirenz.R70">
+            <mixed-citation publication-type="journal">Mankhatitham W, Lueangniyomkul A, Manosuthi W. Hepatotoxicity in patients co-infected with tuberculosis and HIV-1 while receiving non-nucleoside reverse transcriptase inhibitor-based antiretroviral therapy and rifampicin-containing anti-tuberculosis regimen. Southeast Asian J Trop Med Public Health 2011; 42: 651-8. (Among 134 patients with HIV infection and tuberculosis treated with rifampin, ALT elevations &#x0003e; 5 times ULN occurred in 3 patients on nevirapine [4.6%] and 1 [1.4%] on efavirenz)<annotation><p><italic toggle="yes">.</italic></p></annotation><pub-id pub-id-type="pmid">21706943</pub-id></mixed-citation>
+          </ref>
+          <ref id="Efavirenz.R71">
+            <mixed-citation publication-type="journal">Qayyum S, Dong H, Kovacic D, Sohail S, Waters B, Thornton C, Corbett CE. Combination therapy efavirenz/emtricitabine/tenofovir disoproxil fumarate associated with hepatic failure. Curr Drug Saf 2012; 7: 391-3. <annotation><p><italic toggle="yes">(41 year old man developed acute liver failure 3 months after starting the combination of efavirenz, emtricitabine and tenofovir).</italic></p></annotation><pub-id pub-id-type="pmid">23373554</pub-id></mixed-citation>
+          </ref>
+          <ref id="Efavirenz.R72">
+            <mixed-citation publication-type="journal">Mugusi S, Ngaimisi E, Janabi M, Minzi O, Bakari M, Riedel KD, Burhenne J, et al. Liver enzyme abnormalities and associated risk factors in HIV patients on efavirenz-based HAART with or without tuberculosis co-infection in Tanzania. PLoS One 2012; 7: e40180. <annotation><p><italic toggle="yes">(Among 473 patients with HIV infected started on efavirenz, 37 [7.8%] developed ALT or AST values above twice normal during the first 48 weeks of treatment, rates were higher in those with anti-HCV [Hazard ratio = 4.9] and with the CYP 2B6 defective variant allele 2B6*6 [2.5], but not in those with concurrent tuberculosis or with variants of ABC B1, CYP 3A5, or SLCO 1B1).</italic></p></annotation><pub-id pub-id-type="pmid">22808112</pub-id></mixed-citation>
+          </ref>
+          <ref id="Efavirenz.R73">
+            <mixed-citation publication-type="journal">Chu KM, Manzi M, Zuniga I, Biot M, Ford NP, Rasschaert F, Zachariah R. Nevirapine- and efavirenz-associated hepatotoxicity under programmatic conditions in Kenya and Mozambique. Int J STD AIDS 2012; 23: 403-7. <annotation><p><italic toggle="yes">(Among 5832 African patients starting nevirapine or efavirenz based antiretroviral therapy for HIV infection, 124 [2.4%] developed ALT or AST elevations &#x0003e;5 times ULN, mostly within the first 6 months; mortality rates were the same in patients with [5.7%] and without [5.2%] liver enzyme abnormalities).</italic></p></annotation><pub-id pub-id-type="pmid">22807533</pub-id></mixed-citation>
+          </ref>
+          <ref id="Efavirenz.R74">
+            <mixed-citation publication-type="journal">Mac&#x000ed;as J, Neukam K, Mallolas J, L&#x000f3;pez-Cort&#x000e9;s LF, Cart&#x000f3;n JA, Domingo P, Moreno S, et al; COINS Study Team. Liver toxicity of initial antiretroviral drug regimens including two nucleoside analogs plus one non-nucleoside analog or one ritonavir-boosted protease inhibitor in HIV/HCV-coinfected patients. HIV Clin Trials 2012; 13: 61-9. <annotation><p><italic toggle="yes">(Among 745 Spanish patients with HIV infection started on antiretroviral therapy [with 0.8-3 years of follow up], hepatotoxicity requiring discontinuation occurred in 13% on nevirapine, 4% on efavirenz, and 6% on protease inhibitors).</italic></p></annotation><pub-id pub-id-type="pmid">22510353</pub-id></mixed-citation>
+          </ref>
+          <ref id="Efavirenz.R75">
+            <mixed-citation publication-type="journal">Nelson M, Amaya G, Clumeck N, Arns da Cunha C, Jayaweera D, Junod P, Li T, Tebas P, et al.; ECHO and THRIVE Study Groups. Efficacy and safety of rilpivirine in treatment-naive, HIV-1-infected patients with hepatitis B virus/hepatitis C virus coinfection enrolled in the Phase III randomized, double-blind ECHO and THRIVE trials. J Antimicrob Chemother 2012; 67: 2020-8. <annotation><p><italic toggle="yes">(Pooled analysis of 2 controlled trials of rilpivirine vs efavirenz in HIV/HBV [n=55] and HIV/HCV [n=57] coinfected patients; ALT elevations occurred in 11.1% on rilpivirine vs 10.6% on efavirenz in coinfected compared to 1.1% vs 1.9% in noncoinfected patients; one case of acute hepatitis in each group; discontinuations for hepatic adverse events were reported in 3 rilpivirine vs 9 efavirenz treated subjects).</italic></p></annotation><pub-id pub-id-type="pmid">22532465</pub-id></mixed-citation>
+          </ref>
+          <ref id="Efavirenz.R76">
+            <mixed-citation publication-type="journal">Cohen CJ, Molina JM, Cahn P, Clotet B, Fourie J, Grinsztejn B, Wu H, et al.; ECHO Study Group; THRIVE Study Group. Efficacy and safety of rilpivirine (TMC278) versus efavirenz at 48 weeks in treatment-na&#x000ef; HIV-1-infected patients: pooled results from the phase 3 double-blind randomized ECHO and THRIVE Trials. J Acquir Immune Defic Syndr 2012; 60: 33-42. <annotation><p><italic toggle="yes">(Pooled analysis of 3 controlled trials of 48 weeks of rilpivirine [n=686] vs efavirenz [n=682] in HIV infection; efficacy was similar, but adverse events were fewer with rilpivirine, including lower rates of grade 2 ALT elevations [5% vs 8%]; no mention of clinically apparent liver injury).</italic></p></annotation><pub-id pub-id-type="pmid">22343174</pub-id></mixed-citation>
+          </ref>
+          <ref id="Efavirenz.R77">
+            <mixed-citation publication-type="journal">Wilkin A, Pozniak AL, Morales-Ramirez J, Lupo SH, Santoscoy M, Grinsztejn B, Ruxrungtham K, et al.; TMC278-C204 Study Group. Long-term efficacy, safety, and tolerability of rilpivirine (RPV, TMC278) in HIV type 1-infected antiretroviral-naive patients: week 192 results from a phase IIb randomized trial. AIDS Res Hum Retroviruses 2012; 28: 437-46. <annotation><p><italic toggle="yes">(Analysis of efficacy and safety of extended therapy [192 weeks] with rilpivirine [n=279] vs efavirenz [n=89] with 2 nucleoside analogues; ALT elevations occurred in 6% of both groups, mostly during the first 48 weeks of therapy; no mention of clinically apparent liver injury).</italic></p></annotation><pub-id pub-id-type="pmid">21902621</pub-id></mixed-citation>
+          </ref>
+          <ref id="Efavirenz.R78">
+            <mixed-citation publication-type="journal">Van Welzen B, Mudrikova T, Arends J, Hoepelman A. No increased risk of hepatotoxicity in long-term use of nonnucleoside reverse transcriptase inhibitors in HIV-infected patients. HIV Med 2012; 13: 448-52. <annotation><p><italic toggle="yes">(Rates of hepatotoxicity were similar in patients on nevirapine or efavirenz based [14.8%] as on protease inhibitor-based [18.5%] antiretroviral regimens; abnormalities occurring mostly during the first year and the major risk factor being HCV coinfection).</italic></p></annotation><pub-id pub-id-type="pmid">22413955</pub-id></mixed-citation>
+          </ref>
+          <ref id="Efavirenz.R79">
+            <mixed-citation publication-type="journal">Elsharkawy AM, Schwab U, McCarron B, Burt AD, Daly AK, Hudson M, Masson S. Efavirenz induced acute liver failure requiring liver transplantation in a slow drug metaboliser. J Clin Virol 2013; 58: 331-3. <annotation><p><italic toggle="yes">(42 year old woman with HIV infection developed acute liver failure 5 months after switching to efavirenz based antiretroviral therapy [bilirubin initially normal rising to 27.8 mg/dL, ALT 517 rising to 3000 U/L, Alk P 229, INR 3.8], undergoing successful liver transplantation and retrospective testing demonstrating CYP 2B6/*6 and UGT 2B7*2 alleles, both associated with slower metabolism of efavirenz).</italic></p></annotation><pub-id pub-id-type="pmid">23763943</pub-id></mixed-citation>
+          </ref>
+          <ref id="Efavirenz.R80">
+            <mixed-citation publication-type="journal">Padmapriyadarsini C, Bhavani PK, Tang A, Kumar H, Ponnuraja C, Narendran G, Hannah E, et al. Early changes in hepatic function among HIV-tuberculosis patients treated with nevirapine or efavirenz along with rifampin-based anti-tuberculosis therapy. Int J Infect Dis 2013; 17: e1154-9. <annotation><p><italic toggle="yes">(Among 168 patients with tuberculosis and HIV infection started on an efavirenz or nevirapine based regimen in addition to antituberculosis drugs, there were few differences in median changes in ALT, AST and Alk P, but two patients on efavirenz developed ALT elevations and jaundice).</italic></p></annotation><pub-id pub-id-type="pmid">24120216</pub-id></mixed-citation>
+          </ref>
+          <ref id="Efavirenz.R81">
+            <mixed-citation publication-type="journal">Fink DL, Bloch E. Liver transplantation for acute liver failure due to efavirenz hepatotoxicity: the importance of routine monitoring. Int J STD AIDS 2013; 24: 831-3. <annotation><p><italic toggle="yes">(26 year old woman developed jaundice 6 months after starting fixed dose regimen of efavirenz, emtricitabine and tenofovir [bilirubin 6.9 mg/dL, AST 1118 U/L, INR 1.6], progressing to acute liver failure and undergoing successful liver transplant).</italic></p></annotation><pub-id pub-id-type="pmid">23970595</pub-id></mixed-citation>
+          </ref>
+          <ref id="Efavirenz.R82">
+            <mixed-citation publication-type="journal">Echenique IA, Rich JD. EFV/FTC/TDF-associated hepatotoxicity: a case report and review. AIDS Patient Care STDS 2013; 27: 493-7. <annotation><p><italic toggle="yes"> (40 year old woman with HIV infection developed ALT elevations 7 months after starting a fixed dose combination of efavirenz, emtricitabine and tenofovir [bilirubin not given, ALT 442 U/L, Alk P 451 U/L], improving within weeks of stopping). </italic></p></annotation><pub-id pub-id-type="pmid">23937548</pub-id></mixed-citation>
+          </ref>
+          <ref id="Efavirenz.R83">
+            <mixed-citation publication-type="journal">Usach I, Melis V, Peris JE. Non-nucleoside reverse transcriptase inhibitors: a review on pharmacokinetics, pharmacodynamics, safety and tolerability. J Int AIDS Soc 2013; 16: 1-14. <annotation><p><italic toggle="yes">(Review of NNRTIs mentions that delavirdine has extensive hepatic metabolism and its major side effect is skin rash, which is usually transient, but can be severe and lead to Stevens Johnson syndrome; no discussion of hepatotoxicity or ALT elevations).</italic></p></annotation><pub-id pub-id-type="pmid">24008177</pub-id></mixed-citation>
+          </ref>
+          <ref id="Efavirenz.R84">
+            <mixed-citation publication-type="journal">Casado JL. Liver toxicity in HIV-infected patients receiving novel second-generation nonnucleoside reverse transcriptase inhibitors etravirine and rilpivirine. AIDS Rev 2013; 15: 139-45. <annotation><p><italic toggle="yes">(Among 1368 patients with HIV infection in combined analyses of two controlled trials, ALT elevations above 5 times ULN occurred in 0.2% of rilpivirine vs 2% of efavirenz treated monoinfected, but in 16.7% of both groups in coinfected subjects).</italic></p></annotation><pub-id pub-id-type="pmid">24002197</pub-id></mixed-citation>
+          </ref>
+          <ref id="Efavirenz.R85">
+            <mixed-citation publication-type="journal">Manosuthi W, Sukasem C, Lueangniyomkul A, Mankatitham W, Thongyen S, Nilkamhang S, Manosuthi S, et al. CYP2B6 haplotype and biological factors responsible for hepatotoxicity in HIV-infected patients receiving efavirenz-based antiretroviral therapy. Int J Antimicrob Agents 2014; 43: 292-6. <annotation><p><italic toggle="yes"> (Among 134 Thai adults with HIV infection started on antiretroviral therapy with efavirenz, tenofovir and emtricitabine, 17% developed ALT elevations during the first 24 weeks, but none were above 5 times ULN and there were no associations with specific CYP 2B6 haplotypes which nevertheless were associated with efavirenz drug levels and to a lesser extent Alk P elevations).</italic></p></annotation><pub-id pub-id-type="pmid">24359841</pub-id></mixed-citation>
+          </ref>
+          <ref id="Efavirenz.R86">
+            <mixed-citation publication-type="journal">Drugs for HIV infection. Treat Guidel Med Lett 2014: 12: 7-16. <annotation><p><italic toggle="yes"> (Concise review of the agents available for therapy of HIV infection with listing of doses, side effects, drug-drug interactions and costs; does not list hepatotoxicity among adverse effects of efavirenz).</italic></p></annotation><pub-id pub-id-type="pmid">24457549</pub-id></mixed-citation>
+          </ref>
+          <ref id="Efavirenz.R87">
+            <mixed-citation publication-type="journal">Hern&#x000e1;ndez N, Bessone F, S&#x000e1;nchez A, di Pace M, Brahm J, Zapata R, A Chirino R, et al. Profile of idiosyncratic drug induced liver injury in Latin America. An analysis of published reports. Ann Hepatol 2014; 13: 231-9. <annotation><p><italic toggle="yes"> (Systematic review of literature of drug induced liver injury in Latin American countries published from 1996 to 2012 identified 176 cases, 5 of which were due to antiretroviral agents including lamivudine, zidovudine and nevirapine, but none were attributed to efavirenz).</italic></p></annotation><pub-id pub-id-type="pmid">24552865</pub-id></mixed-citation>
+          </ref>
+          <ref id="Efavirenz.R88">
+            <mixed-citation publication-type="journal">Chalasani N, Bonkovsky HL, Fontana R, Lee W, Stolz A, Talwalkar J, Reddy KR, et al.; United States Drug Induced Liver Injury Network. Features and outcomes of 899 patients with drug-induced liver injury: The DILIN Prospective Study. Gastroenterology 2015; 148: 1340-52.e7. <annotation><p><italic toggle="yes">(Among 899 cases of drug induced liver injury enrolled in a US prospective study between 2004 and 2013, 12 cases [1.3%] were attributed to antiretroviral medications, inluding 5 due to nonnucleoside reverse transcriptase inhibitors: nevirapine [2], efavirenz [2] and etravirine [1]).</italic></p></annotation><pub-id pub-id-type="pmid">25754159</pub-id></mixed-citation>
+          </ref>
+          <ref id="Efavirenz.R89">
+            <mixed-citation publication-type="journal">Sonderup MW, Wainwright H, Hall P, Hairwadzi H, Spearman CW. A clinicopathological cohort study of liver pathology in 301 patients with human immunodeficiency virus/acquired immune deficiency syndrome. Hepatology 2015; 61: 1721-9. <annotation><p><italic toggle="yes">(Among 301 patients with HIV infection who underwent liver biopsy at a South African referral center between 2000 and 2013, 127 [42%] were considered indicative of drug induced liver injury, the agents most commonly being used were TMP/SMZ [67%], antituberculosis agents [32%], fluconazole [7%], herbal medications [6%] and antiretrovirals [61%]; efavirenz was associated with two histologic patterns: a nonspecific hepatitis and submassive necrosis).</italic></p></annotation><pub-id pub-id-type="pmid">25644940</pub-id></mixed-citation>
+          </ref>
+          <ref id="Efavirenz.R90">
+            <mixed-citation publication-type="journal">Patil R, Ona MA, Papafragkakis H, Carey J, Moshenyat Y, Alhaddad A, Anand S. Acute liver toxicity due to efavirenz/emtricitabine/tenofovir. Case Reports Hepatol 2015; 2015: 280353. <annotation><p><italic toggle="yes">(24 year old man with HIV infection developed abdominal pain 2 months after switching his antiviral regimen to efavirenz, tenofovir and emtricitabine [bilirubin 0.6 mg/dL, ALT 1793 rising to 5346 U/L, Alk P 107 U/L, INR 1.4], yet these values fell by more than half within 7 days of stopping, and he later tolerated tenofovir and emtricitabine with rilpivirine without recurrence).</italic></p></annotation><pub-id pub-id-type="pmid">26161275</pub-id></mixed-citation>
+          </ref>
+          <ref id="Efavirenz.R91">
+            <mixed-citation publication-type="journal">Sonderup MW, Maughan D, Gogela N, Setshedi M, Wainwright H, Meintjes G, Spearman W. Identification of a novel and severe pattern of efavirenz drug-induced liver injury in South Africa. AIDS 2016; 30(9): 1483-5. <annotation><p><italic toggle="yes">(Among 81 patients with suspected efavirenz hepatotoxicity, had a median time to onset of 20 weeks, skin rash was uncommon and fatality rate was 11%; among 71 patients who had a liver biopsy, half had submassive necrosis [which was associated with higher ALT and bilirubin levels and a more severe course], 30% had mixed hepatitis and the remainer nonspecific hepatitis).</italic></p></annotation><pub-id pub-id-type="pmid">26959511</pub-id></mixed-citation>
+          </ref>
+          <ref id="Efavirenz.R92">
+            <mixed-citation publication-type="journal">Wu PY, Cheng CY, Liu CE, Lee YC, Yang CJ, Tsai MS, Cheng SH, et al. Multicenter study of skin rashes and hepatotoxicity in antiretroviral-na&#x000ef;ve HIV-positive patients receiving non-nucleoside reverse-transcriptase inhibitor plus nucleoside reverse-transcriptase inhibitors in Taiwan. PLoS One 2017; 12: e0171596. <annotation><p><italic toggle="yes"> (Among 2341 patients with HIV infection who started antiretroviral therapy with an NNRTI with tenofovir and emtricitabine, 5% developed ALT elevations above 3 times ULN within the first 4 weeks, including 7% on nevirapine, 4% on efavirenz and 4% on rilpivirine; factors most strongly associated with the ALT elevations were HCV and HBV coinfection; no details regarding jaundice, symptoms or outcomes).</italic></p></annotation><pub-id pub-id-type="pmid">28222098</pub-id></mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec id="Efavirenz.OTHER_REFERENCE_LINKS" sec-type="link-group">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=(Efavirenz/AE)+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D%3A%222999/12/31%22%5BEDat%5D)">Recent References on Efavirenz: from PubMed.gov</ext-link>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Efavirenz">Trials on Efavirenz: from ClinicalTrials.gov</ext-link>
+            </p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

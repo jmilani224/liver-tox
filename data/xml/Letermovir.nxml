@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Letermovir" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Letermovir</book-part-id>
+      <title-group>
+        <title>Letermovir</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>10</day>
+          <month>4</month>
+          <year>2019</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Lesinurad" document-type="chapter">Lesinurad</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Letrozole" document-type="chapter">Letrozole</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Letermovir.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Letermovir.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Letermovir is an antiviral agent which targets the DNA terminal transferase complex of the cytomegalovirus (CMV) and which is used to prevent CMV reactivation in immunocompromised patients. Letermovir has been associated with mild-to-moderate serum aminotransferase elevations during therapy but has not been linked to cases of clinically apparent acute liver injury.</p>
+        </sec>
+        <sec id="Letermovir.Background">
+          <title>Background</title>
+          <p>Letermovir (le term' oh vir) is a potent inhibitor of the cytomegalovirus (CMV) DNA terminal transferase complex which is needed for the processing and packaging of the viral DNA and formation of mature virions. Letermovir is unique in targeting the DNA terminal transferase complex, whereas other antivirals used in the treatment of CMV infection target the viral polymerase (ganciclovir and valganciclovir). Letermovir has potent activity against CMV in vitro and in vivo and has been shown to prevent CMV reactivation in anti-CMV positive recipients of allogeneic hematopoietic cell transplants. Letermovir was approved for this indication in the United States in 2017 and is available as tablets of 240 mg and 480 mg and in solution in single dose vials of 240 mg in 12 mL and 480 mg in 24 mL (20 mg/mL) under the brand name Prevymis. The intravenous formulation is recommended only for patients unable to take oral medications. A 240 mg daily dose is recommended for patients taking cyclosporin. Letermovir is not approved for therapy of CMV infection. Side effects include nausea, vomiting, diarrhea, abdominal pain, headache, fatigue, cough and edema. Unlike ganciclovir and valganciclovir, letermovir has minimal bone marrow and renal toxicities.</p>
+        </sec>
+        <sec id="Letermovir.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>In large preregistration clinical trials, ALT elevations occurred in 18.5% of letermovir vs 21.9% of placebo recipients after hematopoietic cell transplantation, and levels rose to above 5 times ULN in 3.5% vs 1.6%. The ALT elevations were generally transient, mild and asymptomatic. Recurrence of serum ALT elevations on rechallenge has been reported. In prelicensure studies, 0.5% of subjects developed jaundice and liver injury, but in the setting of hematopoietic cell transplantation other more likely causes for liver injury were present in all, and none could be convincingly attributed to letermovir therapy. Since the approval of letermovir and its general availability, there have been no reported cases of clinically apparent liver injury with jaundice associated with its use; however, the total clinical experience with letermovir therapy has been limited.</p>
+          <p>Likelihood score: E (unlikely cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Letermovir.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The absence of hepatotoxicity from letermovir is probably related to the fact that it has minimal hepatic metabolism. Letermovir is taken up by the liver via OATP1B1/3, a major hepatic plasma membrane organic anion transporter and its major route of excretion is biliary. Letermovir appears to have only mild effects on cytochrome P450 activity and does not demonstrate clinically significant drug-drug interactions. Cyclosporin is also taken up by OATP1B1 and inhibits its activity which can lead to marked increases in letermovir plasma levels. For this reason, the dose of letermovir should be decreased by half in patients taking cyclosporin (which is frequently used in bone marrow and solid organ transplantation). Letermovir is not recommended for patients with severe hepatic dysfunction.</p>
+        </sec>
+        <sec id="Letermovir.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>The minor aminotransferase elevations associated with letermovir therapy are usually self-limited and rarely require dose modification or discontinuation of therapy. In patients who develop ALT or AST elevations above 5 times ULN during therapy, letermovir should be at least temporarily discontinued and restarted only once levels fall to normal or near normal levels. Patients who develop ALT or AST elevations with symptoms or jaundice should discontinue letermovir and restart therapy only if another cause is identified. There is no reason to suggest any cross sensitivity to liver injury between letermovir and the conventional antiviral nucleoside analogues with activity against CMV.</p>
+          <p>Drug Class: <related-object source-id="livertox" document-id="AntiviralAgents">Antiviral Agents</related-object></p>
+          <p>Other Antiviral Agents for Herpes Virus Infections: <related-object source-id="livertox" document-id="Acyclovir">Acyclovir</related-object>, <related-object source-id="livertox" document-id="Cidofovir">Cidofovir</related-object>, <related-object source-id="livertox" document-id="Famciclovir">Famciclovir</related-object>, <related-object source-id="livertox" document-id="Foscarnet">Foscarnet</related-object>, <related-object source-id="livertox" document-id="GanciclovirValganc">Ganciclovir</related-object>, <related-object source-id="livertox" document-id="Valacyclovir">Valacyclovir</related-object>, <related-object source-id="livertox" document-id="GanciclovirValganc">Valganciclovir</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Letermovir.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <boxed-text position="anchor" id="Letermovir.BPI" orientation="portrait">
+          <p>
+            <bold> REPRESENTATIVE TRADE NAMES</bold>
+          </p>
+          <p>Letermovir &#x02013; Prevymis&#x000ae;</p>
+          <p>
+            <bold>DRUG CLASS</bold>
+          </p>
+          <p>Antiviral Agents</p>
+          <p>
+            <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Letermovir">COMPLETE LABELING</ext-link>
+          </p>
+          <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+        </boxed-text>
+      </sec>
+      <sec id="Letermovir.CHEMICAL_FORMULA_AND_STRUCTUR">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Letermovir.T1" position="anchor" orientation="portrait">
+          <table>
+            <thead>
+              <tr>
+                <th id="hd_h_Letermovir.T1_1_1_1_1" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Letermovir.T1_1_1_1_2" rowspan="1" colspan="1">CAS REGISTRY NUMBER</th>
+                <th id="hd_h_Letermovir.T1_1_1_1_3" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Letermovir.T1_1_1_1_4" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Letermovir.T1_1_1_1_1" rowspan="1" colspan="1">Letermovir</td>
+                <td headers="hd_h_Letermovir.T1_1_1_1_2" rowspan="1" colspan="1">
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://163642903">917389-32-3</ext-link>
+                </td>
+                <td headers="hd_h_Letermovir.T1_1_1_1_3" rowspan="1" colspan="1">C29-H28-F4-N4-O</td>
+                <td headers="hd_h_Letermovir.T1_1_1_1_4" rowspan="1" colspan="1">
+                  <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Letermovir_Structure.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait">
+                    <alt-text>Letermovir Chemical Structure</alt-text>
+                  </graphic>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Letermovir.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 10 April 2019</p>
+        <p>Abbreviations: CMV, cytomegalovirus; HCT, hematopoietic cell transplantation</p>
+        <ref-list id="Letermovir.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Letermovir.R1">
+            <mixed-citation publication-type="other">N&#x000fa;&#x000f1;ez M. Herpesviridae treatment. Hepatic toxicity of antiviral agents. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013, pp. 512-3.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of antiviral agents published in 2013, before the availability of letermovir).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Letermovir.R2">
+            <mixed-citation publication-type="other">Acosta EP. Antiviral agents (nonretroviral). In, Brunton LL, Hilal-Dandan R, Knollman BC, eds. Goodman &#x00026; Gilman's the pharmacological basis of therapeutics. 13th ed. New York: McGraw-Hill, 2018, pp. 1105-35.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Letermovir.R3">
+            <mixed-citation publication-type="other">
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.accessdata.fda.gov/scripts/cder/daf/">https://www.accessdata.fda.gov/scripts/cder/daf/</ext-link>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(FDA Drug Approvals website that has product labels [package inserts], letters of approval and full FDA scientific review of the new drug application for safety and efficacy; mentions that 11 patients in the major pre-registration trial of letermovir [Marty 2017] developed ALT elevations accompanied by jaundice but each had an alternative explanation such as sinusoid obstruction syndrome, sepsis, graft vs host disease, engraftment syndrome, heart failure or shock).</italic>
+                </p>
+              </annotation>
+            </mixed-citation>
+          </ref>
+          <ref id="Letermovir.R4">
+            <mixed-citation publication-type="journal">Biron KK. Antiviral drugs for cytomegalovirus diseases. Antiviral Research 2006; 71: 154-63. <annotation><p><italic toggle="yes">(Review of CMV infection and the drugs used to treat it, including cidofovir, ganciclovir, foscarnet and acyclovir; does not mention ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">16765457</pub-id></mixed-citation>
+          </ref>
+          <ref id="Letermovir.R5">
+            <mixed-citation publication-type="journal">Chemaly RF, Ullmann AJ, Stoelben S, Richard MP, Bornh&#x000e4;user M, Groth C, Einsele H, et al.; AIC246 Study Team. Letermovir for cytomegalovirus prophylaxis in hematopoietic-cell transplantation. N Engl J Med 2014; 370: 1781-9. <annotation><p><italic toggle="yes">(Among 131 anti-CMV positive patients undergoing HCT given prophylaxis with letermovir [60 120, 240 mg] or placebo daily for 12 weeks after engraftment, prophylaxis failure was less with letermovir [48%m 32% abd 29% vs 64%], while adverse events rates were similar in all groups and there were &#x0201c;no clinically relevant trends specific to letermovir&#x0201d; in safety variables including laboratory values; no specific mention of ALT levels or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">24806159</pub-id></mixed-citation>
+          </ref>
+          <ref id="Letermovir.R6">
+            <mixed-citation publication-type="journal">Griffiths PD, Emery VC. Taming the transplantation troll by targeting terminase. N Engl J Med 2014; 370: 1844-6. <annotation><p><italic toggle="yes">(Editorial in response to Chemaly [2014] discussing the challenge of CMV reactivation after HCT, shortcomings of standard therapies, and mechanism of action and unique features of letermovir; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">24806164</pub-id></mixed-citation>
+          </ref>
+          <ref id="Letermovir.R7">
+            <mixed-citation publication-type="journal">Stoelben S, Arns W, Renders L, Hummel J, M&#x000fc;hlfeld A, Stangl M, Fischereder M, et al. Preemptive treatment of Cytomegalovirus infection in kidney transplant recipients with letermovir: results of a Phase 2a study. Transpl Int 2014; 27: 77-86. <annotation><p><italic toggle="yes">(Among 18 patients with renal transplantation and CMV infection treated with letermovir or standard of care, viral suppression was similar in all groups and laboratory value &#x0201c;changes over time were within the normal range&#x0201d;).</italic></p></annotation><pub-id pub-id-type="pmid">24164420</pub-id></mixed-citation>
+          </ref>
+          <ref id="Letermovir.R8">
+            <mixed-citation publication-type="journal">Chalasani N, Bonkovsky HL, Fontana R, Lee W, Stolz A, Talwalkar J, Reddy KR, et al.; United States Drug Induced Liver Injury Network. Features and outcomes of 899 patients with drug-induced liver injury: the DILIN prospective study. Gastroenterology 2015; 148: 1340-52. <annotation><p><italic toggle="yes">(Among 899 cases of drug induced liver injury enrolled in a US prospective study between 2004 and 2013, 12 cases were attributed to antiviral agents, but none to cidofovir or letermovir).</italic></p></annotation><pub-id pub-id-type="pmid">25754159</pub-id></mixed-citation>
+          </ref>
+          <ref id="Letermovir.R9">
+            <mixed-citation publication-type="journal">Marty FM, Ljungman P, Chemaly RF, Maertens J, Dadwal SS, Duarte RF, Haider S, et al. Letermovir Prophylaxis for cytomegalovirus in hematopoietic-cell transplantation. N Engl J Med 2017; 377: 2433-44. <annotation><p><italic toggle="yes">(Among 495 anti-CMV positive [CMV DNA negative] patients undergoing HCT given prophylaxis with letermovir [480 mg] or placebo daily, rates of clinically significant CMV infection were less with letermovir [37.5% vs 60.6%] while adverse events that were more common were vomiting [19% vs 14%], edema [15% vs 9%], atrial arrhythmias [5% vs 1%] and ALT elevations above 5 times ULN [3.5% vs 1.6%], but there was no clinically apparent hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">29211658</pub-id></mixed-citation>
+          </ref>
+          <ref id="Letermovir.R10">
+            <mixed-citation publication-type="journal">Kropeit D, McCormick D, Erb-Zohar K, Moiseev VS, Kobalava ZD, Stobernack HP, Zimmermann H, et al. Pharmacokinetics and safety of the anti-human cytomegalovirus drug letermovir in subjects with hepatic impairment. Br J Clin Pharmacol 2017; 83: 2678-86. <annotation><p><italic toggle="yes">(Among 16 subjects with hepatic dysfunction receiving letermovir [30 or 60 mg once daily] for 8 days, steady state area under the curve [AUC] of plasma levels was 1.59-fold higher in those with moderate and 3.82-fold higher in those with severe dysfunction compared to 8 healthy controls, but there were no serious adverse events and no &#x0201c;clinically relevant&#x0201d; changes in laboratory test results).</italic></p></annotation><pub-id pub-id-type="pmid">28722153</pub-id></mixed-citation>
+          </ref>
+          <ref id="Letermovir.R11">
+            <mixed-citation publication-type="journal">Kropeit D, Scheuenpflug J, Erb-Zohar K, Halabi A, Stobernack HP, Hulskotte EGJ, van Schanke A, et al. Pharmacokinetics and safety of letermovir, a novel anti-human cytomegalovirus drug, in patients with renal impairment. Br J Clin Pharmacol 2017; 83: 1944-53. <annotation><p><italic toggle="yes">(Among 16 subjects with renal impairment receiving letermovir [120 mg daily] for 8 days, steady state area under the curve [AUC] of plasma levels were 1.92-fold higher in those with moderate and 1.42-fold higher in those with severe renal dysfunction, but letermovir was well tolerated and there were &#x0201c;no relevant change&#x0201d; of the laboratory tests).</italic></p></annotation><pub-id pub-id-type="pmid">28345163</pub-id></mixed-citation>
+          </ref>
+          <ref id="Letermovir.R12">
+            <mixed-citation publication-type="journal">Bowman LJ, Melaragno JI, Brennan DC. Letermovir for the management of cytomegalovirus infection. Expert Opin Investig Drugs 2017; 26: 235-41. <annotation><p><italic toggle="yes">(Systematic review of the literature on pharmacology, clinical efficacy and safety of letermovir for CMV infection concludes that letermovir has been shown to be safe with minimal adverse effects, rates of which are similar if not less than with placebo treatment; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">27998189</pub-id></mixed-citation>
+          </ref>
+          <ref id="Letermovir.R13">
+            <mixed-citation publication-type="journal">Kim ES. Letermovir: first global approval. Drugs 2018; 78: 147-52. <annotation><p><italic toggle="yes">(Review of the mechanism of action, history of development, pharmacology, clinical efficacy and safety of letermovir shortly after its approval in the US; mentions common adverse events of nausea, diarrhea, vomiting, cough, edema, headache, fatigue and abdominal pain, but does not mention ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">29288370</pub-id></mixed-citation>
+          </ref>
+          <ref id="Letermovir.R14">
+            <mixed-citation publication-type="journal">Geswein L. Letermovir associated hepatic transaminitis: a case report. J Oncol Pharm Pract 2018 Jan 1: [Epub ahead of print] <annotation><p><italic toggle="yes">(42 year old man with autologous HCT and refractory CMV disease developed ALT elevations without jaundice or symptoms within days of starting letermovir [peak 100 U/L], which improved on stopping and rose again on restarting [peak 140 U/L] but then fell into the normal range despite continuing letermovir).</italic></p></annotation><pub-id pub-id-type="pmid">29945532</pub-id></mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec id="Letermovir.OTHER_REFERENCE_LINKS" sec-type="link-group">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=(Letermovir/AE)+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D%3A%222999/12/31%22%5BEDat%5D)">Recent References on Letermovir: from PubMed.gov</ext-link>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Letermovir">Trials on Letermovir: from ClinicalTrials.gov</ext-link>
+            </p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

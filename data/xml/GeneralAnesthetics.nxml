@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="GeneralAnesthetics" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">GeneralAnesthetics</book-part-id>
+      <title-group>
+        <title>Anesthetics, General</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>25</day>
+          <month>4</month>
+          <year>2018</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="AndrogenicSteroids" document-type="chapter">Androgenic Steroids</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="ARBs" document-type="chapter">Angiotensin II Receptor Antagonists</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="GeneralAnesthetics.OVERVIEW">
+        <title>OVERVIEW</title>
+        <p content-type="pubmed-excerpt">General anesthetics depress the central nervous system adequately to allow for surgery or invasive, potentially painful, procedures. These are generally administered for a short period only and by medical personnel specifically trained in their use, efficacy and safety. General anesthetics can be separated into inhalational gases and parenterally admistered agents as well as on the basis of their structure and mechanisms of action.</p>
+        <p content-type="pubmed-excerpt">Several general anesthetics have been implicated in causing liver injury, usually arising within 1 to 14 days of their administration. Most commonly implicated was halothane, the initial halogenated inhalational general anesthetic which was introduced into practice in the 1950's. Shortly thereafter, case reports followed by case series were published of severe liver injury attributed to halothane. The liver injury arose within days or a few weeks of the exposure and was typically associated with a hepatocellular pattern of injury accompanied by fever and signs of hypersensitivity. Halothane hepatitis was often severe and, although rare, led to a decrease in its use, particularly with the development of better tolerated and safer halogenated gases for anesthesia such as enflurane (1972), isoflurane (1981), desfurane (1993), and sevoflurane (1995). Drug induced liver injury can occur with the newer agents, but is extremely rare.</p>
+        <p content-type="pubmed-excerpt">The other general anesthetics have not been definitely implicated in causing drug induced liver injury, at least when given in conventional anesthetic doses and for limited periods of time. Nitrous oxide, for instance, has not been convincingly linked to liver injury despite wide scale use for many decades. Two more recently developed anesthetics, however, have been implicated in causing unusual and rare forms of liver injury: propofol and ketamine.</p>
+        <p>Propofol, which has become the most common general anesthetic in general use, can cause a distinctive and life threatening syndrome (the "propofol infusion syndrome") when given for prolonged periods, a syndrome that can be accompanied by lactic acidosis and liver dysfunction. Ketamine can cause an unusual form of liver injury when used on a regular basis (as with ketamine abuse), marked by recurrent abdominal pain, biliary strictures and cholestatic liver injury.</p>
+        <p>Each of the general anesthetics is discussed separately with case examples and references.</p>
+        <p>Drug Class: Anesthetics, General</p>
+        <list list-type="bullet">
+          <list-item>
+            <p><related-object source-id="livertox" document-id="Barbiturates">Barbiturates</related-object>
+<list list-type="bullet"><list-item><p><related-object source-id="livertox" document-id="Barbiturates">Amobarbital</related-object>, Methohexital, Thiopental</p></list-item></list></p>
+          </list-item>
+          <list-item>
+            <p><related-object source-id="livertox" document-id="HalogenatedAnestheti">Halogenated</related-object>
+<list list-type="bullet"><list-item><p><related-object source-id="livertox" document-id="Desflurane">Desflurane</related-object>, <related-object source-id="livertox" document-id="Enflurane">Enflurane</related-object>, <related-object source-id="livertox" document-id="Halothane">Halothane</related-object>, <related-object source-id="livertox" document-id="Isoflurane">Isoflurane</related-object>, <related-object source-id="livertox" document-id="Sevoflurane">Sevoflurane</related-object></p></list-item></list></p>
+          </list-item>
+          <list-item>
+            <p>Miscellaneous <list list-type="bullet"><list-item><p><related-object source-id="livertox" document-id="Ketamine">Ketamine</related-object>, Nitrous Oxide, <related-object source-id="livertox" document-id="Propofol">Propofol</related-object></p></list-item></list></p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

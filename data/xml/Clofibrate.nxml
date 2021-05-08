@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Clofibrate" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Clofibrate</book-part-id>
+      <title-group>
+        <title>Clofibrate</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>24</day>
+          <month>1</month>
+          <year>2017</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Clofazimine" document-type="chapter">Clofazimine</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Clomiphene" document-type="chapter">Clomiphene</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Clofibrate.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Clofibrate.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Clofibrate is a fibric acid derivative used in the therapy of hypertriglyceridemia and dyslipidemia. Clofibrate therapy is associated with mild and transient serum aminotransferase elevations and with rare instances of acute liver injury.</p>
+        </sec>
+        <sec id="Clofibrate.Background">
+          <title>Background</title>
+          <p>Clofibrate (kloe fye' brate) is a fibric acid derivative. The lipid lowering activity of clofibrate is probably mediated by its interactions with the peroxisome proliferator activated receptor alpha (PPAR&#x003b1;), which regulates gene expression of enzymes involved in fatty acid oxidation. Clofibrate increases lipoprotein lipase levels which enhances clearance of triglyceride rich lipoproteins. Clofibrate was available for many years and frequently used in the therapy of hypertriglyceridemia (Fredrickson types IV and V hyperlipidemia) and hypercholesterolemia (Fredrickson types IIa and IIb). Use of clofibrate decreased with the availability of statins for therapy of hyperlipidemia and subsequently it was withdrawn from use in 2002. Clofibrate was available previously in generic forms and under the brand name of Atromid-S as capsules of 500 mg. The recommended dosage was 2 grams daily in divided doses. Common side effects of clofibrate include headache, muscle aches and gastrointestinal upset. Fibrates have multiple drug interactions requiring careful review and use.</p>
+        </sec>
+        <sec id="Clofibrate.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>Mild, transient serum aminotransferase elevations develop in a small proportion of patients receiving clofibrate, but values above 3 times normal occur in 2% or less. These abnormalities are usually asymptomatic and transient, resolving even with continuation of clofibrate. There have been rare reports of clinically apparent liver injury in patients on clofibrate. Onset of injury is usually after 2 to 3 months of treatment and the pattern of serum enzyme elevations can be either cholestatic or hepatocellular. Symptoms of immunoallergic hepatitis are rare as are autoantibodies. Chronic therapy with clofibrate has also been linked to an increased rate of gallstones, particularly among patients with chronic cholestatic liver disease (primary biliary cirrhosis).</p>
+          <p>Likelihood score: D (possible rare cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Clofibrate.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The mechanism of hepatotoxicity of clofibrate is not known but may relate to formation of toxic intermediates or interference with normal hepatic enzyme function. The development of gallstones during clofibrate therapy may relate to its effects in increasing cholesterol while lowering bile acid secretion in bile, thus favoring cholesterol supersaturation.</p>
+        </sec>
+        <sec id="Clofibrate.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>There have been no reports of acute liver failure, chronic hepatitis, cirrhosis or vanishing bile duct syndrome related to clofibrate therapy. There is likely to be some degree of cross reactivity to hepatotoxic reactions to fibrates, but not to statins.</p>
+          <p>Drug Class: <related-object source-id="livertox" document-id="Lipid-LoweringAgents">Antilipemic Agents</related-object>, <related-object source-id="livertox" document-id="Fibrates">Fibrates</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Clofibrate.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <boxed-text position="anchor" id="Clofibrate.BPI" orientation="portrait">
+          <p>
+            <bold>REPRESENTATIVE TRADE NAMES</bold>
+          </p>
+          <p>Clofibrate &#x02013; Atromid-S&#x000ae;</p>
+          <p>
+            <bold>DRUG CLASS</bold>
+          </p>
+          <p>Antilipemic Agents</p>
+          <p>
+            <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=clofibrate">COMPLETE LABELING</ext-link>
+          </p>
+          <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+        </boxed-text>
+      </sec>
+      <sec id="Clofibrate.CHEMICAL_FORMULA_AND_STRUCTUR">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Clofibrate.T1" position="anchor" orientation="portrait">
+          <table>
+            <thead>
+              <tr>
+                <th id="hd_h_Clofibrate.T1_1_1_1_1" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Clofibrate.T1_1_1_1_2" rowspan="1" colspan="1">CAS REGISTRY NUMBER</th>
+                <th id="hd_h_Clofibrate.T1_1_1_1_3" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Clofibrate.T1_1_1_1_4" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Clofibrate.T1_1_1_1_1" rowspan="1" colspan="1">Clofibrate</td>
+                <td headers="hd_h_Clofibrate.T1_1_1_1_2" rowspan="1" colspan="1">
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://134978309">637-07-0</ext-link>
+                </td>
+                <td headers="hd_h_Clofibrate.T1_1_1_1_3" rowspan="1" colspan="1">C12-H15-Cl-O3</td>
+                <td headers="hd_h_Clofibrate.T1_1_1_1_4" rowspan="1" colspan="1">
+                  <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Clofibrate.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait">
+                    <alt-text>Image of Chemical Structure</alt-text>
+                  </graphic>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Clofibrate.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 24 January 2017</p>
+        <ref-list id="Clofibrate.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Clofibrate.R1">
+            <mixed-citation publication-type="other">Zimmerman HJ. Drugs used in the treatment of hypercholesterolemia and hyperlipidemia. In, Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999, pp. 660-2.<annotation><p><italic toggle="yes">(Expert review of hepatotoxicity of lipid lowering agents including clofibrate, fenofibrate and gemfibrozil, all three of which can lead to mild-to-moderate serum aminotransferase elevations, and which have been associated with hepatic injury).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Clofibrate.R2">
+            <mixed-citation publication-type="other">De Marzio DH, Navarro VJ. Fibrates. Hepatotoxicity of cardiovascular and antidiabetic drugs: fibrates. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013, pp. 527. <italic toggle="yes">(Review of hepatotoxicity of fibrates; fenofibrate is the most commonly implicated fibrate in causing liver injury, which can be severe and prolonged with autoimmune features and the potential for chroni</italic>city<annotation><p><italic toggle="yes">).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Clofibrate.R3">
+            <mixed-citation publication-type="other">Bersot TP. Drug therapy for hypercholesterolemia and dyslipidemia. In, Brunton LL, Chabner BA, Knollman BC, eds. Goodman &#x00026; Gilman&#x02019;s the pharmacological basis of therapeutics. 12th ed. New York: McGraw-Hill, 2011, pp. 877-908.<italic toggle="yes"> (Textbook</italic><annotation><p><italic toggle="yes">of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Clofibrate.R4">
+            <mixed-citation publication-type="journal">Smith AL, Macfie WG, Oliver MF. Clofibrate, serum enzymes and muscle pain. Br Med J 1970; 2: 86-8. <annotation><p><italic toggle="yes">(Cross sectional study of 101 patients on clofibrate, 110 untreated and 85 controls, found no difference in mean AST levels, 2 patients had raised AST during follow up [117 and 140 U/L] not further characterized, but without accompanying CPK elevations).</italic></p></annotation><pub-id pub-id-type="pmid">5420239</pub-id></mixed-citation>
+          </ref>
+          <ref id="Clofibrate.R5">
+            <mixed-citation publication-type="journal">Vester JW, Sunder JH, Aarons JH, Danowski TS. Long-term monitoring during clofibrate therapy. Clin Pharmacol Ther 1970; 11: 689-97. <annotation><p><italic toggle="yes">(Analysis of 22 patients given clofibrate for 2-5 years, no changes in serum enzymes; one patient had rise in BSP clearance without other abnormalities).</italic></p></annotation><pub-id pub-id-type="pmid">5460240</pub-id></mixed-citation>
+          </ref>
+          <ref id="Clofibrate.R6">
+            <mixed-citation publication-type="journal">Summerfield JA, Elias E, Sherlock S. Effects of clofibrate in primary biliary cirrhosis: hypercholesterolemia and gallstones. Gastroenterology 1975; 69: 998-1000. <annotation><p><italic toggle="yes">(52 year old woman with primary biliary cirrhosis developed worsening cholestasis and multiple intra- and extra-hepatic gallstones 2 months after starting clofibrate, with resolution of stones with stopping therapy).</italic></p></annotation><pub-id pub-id-type="pmid">1175893</pub-id></mixed-citation>
+          </ref>
+          <ref id="Clofibrate.R7">
+            <mixed-citation publication-type="journal">Jacobs WH. Intrahepatic cholestasis following the use of Atromid-S. Am J Gastroenterol 1976; 66: 69-71. <annotation><p><italic toggle="yes">(70 year old woman developed jaundice 2 years after starting clofibrate [bilirubin 10.5 mg/dL, ALT 45 U/L, Alk P 125 U/L], biopsy showing intrahepatic cholestasis, degree of recovery not given).</italic></p></annotation><pub-id pub-id-type="pmid">970388</pub-id></mixed-citation>
+          </ref>
+          <ref id="Clofibrate.R8">
+            <mixed-citation publication-type="journal">Bateson MC, Maclean D, Ross PE, Bouchier IAD. Clofibrate therapy and gallstone induction. Am J Dig Dis 1978; 23: 623-8. <annotation><p><italic toggle="yes">(Among patients with hyperlipidemia, 9 of 19 on clofibrate compared to 15 of 112 untreated patients had gallstones by oral cholecystograms; biliary cholesterol was higher in clofibrate treated group, saturation index 1.46 vs 1.03 ).</italic></p></annotation><pub-id pub-id-type="pmid">685927</pub-id></mixed-citation>
+          </ref>
+          <ref id="Clofibrate.R9">
+            <mixed-citation publication-type="journal">Schwandt P, Klinge O, Immich H. Clofibrate and the liver. Lancet 1978; 2: 325. <annotation><p><italic toggle="yes">(40 patients had liver biopsy before and 3 month after starting clofibrate; slight decrease in hepatic fat, but no evidence of liver injury found).</italic></p></annotation><pub-id pub-id-type="pmid">79123</pub-id></mixed-citation>
+          </ref>
+          <ref id="Clofibrate.R10">
+            <mixed-citation publication-type="journal">Pierce EH, Chesler DL. Possible association of granulomatous hepatitis with clofibrate therapy. N Engl J Med 1978; 299: 314. <annotation><p><italic toggle="yes">(69 year old woman developed jaundice 3 months after starting clofibrate [bilirubin 7.3 mg/dL, ALT 149 U/L, Alk P 454 U/L], biopsy showing intrahepatic cholestasis and granulomas, resolution 1 month after stopping).</italic></p></annotation><pub-id pub-id-type="pmid">661938</pub-id></mixed-citation>
+          </ref>
+          <ref id="Clofibrate.R11">
+            <mixed-citation publication-type="journal">Migneco G, Mascarella A, La Ferla A, Attianese R. [Clofibrate hepatitis. A case report] Minerva Med 1986; 77: 799-800. <annotation><p><italic toggle="yes">(51 year old developed abdominal pain and fatigue 3 months after starting clofibrate [bilirubin normal, ALT 210 U/L] and rapid resolution on stopping; 4 months later she presented again having taken fenofibrate for 1 month [ALT 76 U/L, Alk P normal], and rapid resolution again on stopping).</italic></p></annotation><pub-id pub-id-type="pmid">3714094</pub-id></mixed-citation>
+          </ref>
+          <ref id="Clofibrate.R12">
+            <mixed-citation publication-type="journal">Athyros VG, Athyros VG, Papageorgiou AA, Hatzikonstandinou HA, Didangelos TP, Carina MV, Kranitsas DF, et al. Safety and efficacy of long-term statin-fibrate combinations in patients with refractory familial combined hyperlipidemia. Am J Cardiol 1997; 80: 608-13. <annotation><p><italic toggle="yes">(389 patients treated with statin and fibrate combination for average of 2.5 years; 1.3% stopped because of ALT &#x0003e;3 times normal, all resolving within 4 weeks; no hepatitis or jaundice reported).</italic></p></annotation><pub-id pub-id-type="pmid">9294990</pub-id></mixed-citation>
+          </ref>
+          <ref id="Clofibrate.R13">
+            <mixed-citation publication-type="journal">Chalasani N, Bonkovsky HL, Fontana R, Lee W, Stolz A, Talwalkar J, Reddy KR, et al.; United States Drug Induced Liver Injury Network. Features and outcomes of 899 patients with drug-induced liver injury: The DILIN Prospective Study. Gastroenterology 2015; 148: 1340-52. <annotation><p><italic toggle="yes">(Among 899 cases of drug induced liver injury enrolled in a US prospective study between 2004 and 2013, 4 cases [0.5%] were attributed to fibrates, but all to fenofibrate and none to clofibrate).</italic></p></annotation><pub-id pub-id-type="pmid">25754159</pub-id></mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec id="Clofibrate.OTHER_REFERENCE_LINKS" sec-type="link-group">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=clofibrate+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D%3A%222999/12/31%22%5BEDat%5D)">Recent References on Clofibrate: from PubMed.gov</ext-link>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=clofibrate">Trials on Clofibrate: from ClinicalTrials.gov</ext-link>
+            </p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

@@ -1,0 +1,667 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Iron" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Iron</book-part-id>
+      <title-group>
+        <title>Iron</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>5</day>
+          <month>4</month>
+          <year>2018</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="IrinotecanTopotecan" document-type="chapter">Irinotecan</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Isavuconazonium" document-type="chapter">Isavuconazonium</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Iron.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Iron.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Iron is an essential heavy metal that is included in many over-the-counter multivitamin and mineral supplements and is used therapeutically in higher doses to treat or prevent iron deficiency anemia. When taken at the usual recommended daily allowance or in replacement doses, iron has little or no adverse effect on the liver. In high doses and in intentional or accidental overdoses, iron causes serious toxicities, one component of which is acute liver damage.</p>
+        </sec>
+        <sec id="Iron.Background">
+          <title>Background</title>
+          <p>Iron is an essential heavy metal that is a necessary component of hemoglobin and myoglobin and is found in many human enzymes. High concentrations of iron are present in red blood cells and muscle tissue. In adults, the recommended dietary allowance of iron is 8 to 11 mg per day for men and 8 to 18 mg for women in whom higher levels are recommended during pregnancy (27 mg per day). Iron is poorly absorbed and body and tissue iron stores are controlled largely by modifying rates of absorption. Adequate amounts of iron are found in most Western diets, with highest levels found in red meats and moderate levels in fish, poultry, green vegetables, cereals and grains (some of which are fortified with iron). Iron deficiency is usually due to loss of iron, predominantly as a result of blood loss in the gastrointestinal tract or from menstruation and is rarely due to deficiency in intake. Standard multivitamin tablets do not contain iron and, those that do, are usually labeled as multivitamins with iron. Iron for treatment of iron deficiency is available as various ferrous ion salts (gluconate, sulfate, fumarate), usually in concentrations of 200 to 400 mg per tablet, representing 30 to 100 mg of elemental iron. The typical recommended dose is 100 to 200 mg of elemental iron daily, which may represent 1 to 4 tablets (see Table). Iron is also available in parenteral formulations for more rapid replacement of iron stores or for patients who do not respond to oral intake. These preparations include iron sucrose and iron dextran. Common side effects of oral replacement iron preparations include gastrointestinal upset, nausea, abdominal pain, constipation and dark stools. Rare, but potentially severe adverse reactions to iron include iron overload, hypersensitivity reactions (particularly to parenteral forms) and gastrointestinal bleeding.</p>
+          <table-wrap id="Iron.T1" position="anchor" orientation="portrait">
+            <caption>
+              <p>Concentrations of elemental iron in typical iron tablets</p>
+            </caption>
+            <table>
+              <thead>
+                <tr>
+                  <th id="hd_h_Iron.T1_1_1_1_1" rowspan="1" colspan="1">Salt Form</th>
+                  <th id="hd_h_Iron.T1_1_1_1_2" rowspan="1" colspan="1">Typical Dose</th>
+                  <th id="hd_h_Iron.T1_1_1_1_3" rowspan="1" colspan="1">Percent Fe</th>
+                  <th id="hd_h_Iron.T1_1_1_1_4" rowspan="1" colspan="1">Elemental Iron</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td headers="hd_h_Iron.T1_1_1_1_1" rowspan="1" colspan="1">Ferrous sulfate (desiccated)</td>
+                  <td headers="hd_h_Iron.T1_1_1_1_2" rowspan="1" colspan="1">325 mg</td>
+                  <td headers="hd_h_Iron.T1_1_1_1_3" rowspan="1" colspan="1">37%</td>
+                  <td headers="hd_h_Iron.T1_1_1_1_4" rowspan="1" colspan="1">120 mg</td>
+                </tr>
+                <tr>
+                  <td headers="hd_h_Iron.T1_1_1_1_1" rowspan="1" colspan="1">Ferrous sulfate (hydrated)</td>
+                  <td headers="hd_h_Iron.T1_1_1_1_2" rowspan="1" colspan="1">325 mg</td>
+                  <td headers="hd_h_Iron.T1_1_1_1_3" rowspan="1" colspan="1">20%</td>
+                  <td headers="hd_h_Iron.T1_1_1_1_4" rowspan="1" colspan="1">64 mg</td>
+                </tr>
+                <tr>
+                  <td headers="hd_h_Iron.T1_1_1_1_1" rowspan="1" colspan="1">Ferrous fumarate</td>
+                  <td headers="hd_h_Iron.T1_1_1_1_2" rowspan="1" colspan="1">300 mg</td>
+                  <td headers="hd_h_Iron.T1_1_1_1_3" rowspan="1" colspan="1">33%</td>
+                  <td headers="hd_h_Iron.T1_1_1_1_4" rowspan="1" colspan="1">99 mg</td>
+                </tr>
+                <tr>
+                  <td headers="hd_h_Iron.T1_1_1_1_1" rowspan="1" colspan="1">Ferrous gluconate</td>
+                  <td headers="hd_h_Iron.T1_1_1_1_2" rowspan="1" colspan="1">325 mg</td>
+                  <td headers="hd_h_Iron.T1_1_1_1_3" rowspan="1" colspan="1">12%</td>
+                  <td headers="hd_h_Iron.T1_1_1_1_4" rowspan="1" colspan="1">39 mg</td>
+                </tr>
+              </tbody>
+            </table>
+          </table-wrap>
+        </sec>
+        <sec id="Iron.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>Typical replacement doses of oral iron have not been linked convincingly to serum enzyme elevations during therapy or to idiosyncratic, acute clinically apparent liver injury. In contrast, overdoses of oral iron, whether intentional or accidental, can cause liver injury, largely as a component of iron poisoning. Iron poisoning occurs most common in toddlers (1 to 3 years old) who ingest iron tablets prescribed for adults. Toxicity occurs after ingestion of 3 grams or more of ferrous sulfate (approximately 10 tablets, or ~650 mg of elemental iron), with toxic levels being more than 60 mg/kg of elemental iron and fatal levels more than 180 mg/kg. The typical sequence of events is appearance of nausea, vomiting and abdominal pain within 1 to 3 hours of the ingestion, followed by diarrhea, weakness, irritability, lethargy and stupor. Vomitus may be blood streaked or frank hematemesis. The diarrhea is generally fluid and dark (as a result of iron rather than blood). With higher doses, this initial phase is rapidly followed by pallor, hypotension and shock. Both upper and lower gastrointestinal bleeding can occur and early changes include metabolic acidosis and coagulopathy. In some instances, there is an improvement after a few hours of symptoms which can then be followed by sudden hemodynamic collapse, cardiogenic shock and severe acidosis that may be fatal. Early intervention (with gastric lavage, fluid replacement and iron chelation) appears to ameliorate the course of injury. Liver toxicity generally arises after 24 hours and may be more common in adults than children. Severe liver toxicity, with jaundice and marked aminotransferase elevations (ALT and AST greater than 25 times ULN), generally occurs only with larger overdoses and high initial serum iron levels (&#x0003e;1000 &#x003bc;g/dL). Jaundice is initially mild, while prolongation of the prothrombin time (or INR) and acidosis arise early (Case 1). The usual cause of death from iron poisoning is cardiac arrest, but deaths from hepatic failure as well as emergency liver transplantation for iron poisoning have been reported. Interestingly, the hepatic histological findings of acute iron hepatotoxicity are those of hemorrhagic, submassive necrosis which is predominantly peri-portal (zone 1), a finding typical of direct hepatotoxins that do not require hepatic metabolism for their toxicity. With more severe toxicity, the injury is massive and pan-lobular.</p>
+          <p>Likelihood score: A[H] (well established cause of clinically apparent acute and chronic liver injury when given in high doses).</p>
+        </sec>
+        <sec id="Iron.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>Iron is clearly a direct hepatotoxin, the injury arising only after high dose exposure and manifesting as acute hepatic necrosis. The likely cause is direct cytotoxicity of elemental iron, the sudden large exposure having overwhelmed the normal serum and tissue iron binding capacities. Iron hepatotoxicity can be reproduced in animal models, although the sequence of events is different, perhaps because of the route of exposure (parenteral vs oral) and species differences in handling excess iron.</p>
+        </sec>
+        <sec id="Iron.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>Cases of liver injury attributed to iron poisoning have ranged from mild-to-moderate in severity (aminotransferase elevations without symptoms) to severe and rapidly fatal injury. The injury from acute exposure is generally self-limited in course and, with supportive management, resolves rapidly within 2 to 4 weeks of onset. Death from cardiac, respiratory or hepatic failure occurs in 1% to 3% of cases. A late complication of iron poisoning is gastric or intestinal obstruction due to strictures caused by the direct gastrointestinal mucosal injury. There is no reason to believe that subsequent use of oral iron in normal amounts is contraindicated.</p>
+          <p>Drug Class: <related-object source-id="livertox" document-id="TraceElementsAndMeta">Trace Elements and Metals</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Iron.CASE_REPORT">
+        <title>CASE REPORT</title>
+        <sec id="Iron.Case_1._Acute_liver_failure_due_to_">
+          <title>Case 1. Acute liver failure due to overdose of ferrous sulfate in a young adult.</title>
+          <p>[Modified from: Daram SR, Hayashi PH. Acute liver failure due to iron overdose in an adult. South Med J 2005; 98: 241-4. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/pubmed/15759960">PubMed Citation</ext-link>]</p>
+          <p>An 18 year old woman took an overdose of ferrous sulfate (~100 tablets of 325 mg each) and developed nausea, vomiting and abdominal pain shortly thereafter. She was taken to an emergency room and admitted within 5 hours of the exposure. She had no other significant medical illnesses, was taking no medications (the iron tablets were not hers) and had no history of liver disease, excess alcohol intake or risk factors for viral hepatitis. The estimated total dose of iron ingested was 32.5 g of ferrous sulfate, which was equivalent to 120 mg of elemental iron per kg body weight. On admission, she was still vomiting with mild hematemesis and pill fragments in the vomitus. She had tachycardia (97/minute), but vital signs were otherwise normal, and she was alert and oriented. She underwent gastric lavage and was started on intravenous deferoxamine. Serum iron levels were elevated, but not markedly (340 &#x003bc;g/dL; normal &#x0003c;158) while renal, coagulation and hepatic tests were normal. The following day, however, she became lethargic and was found to be jaundiced. Serum aminotransferase levels were markedly elevated (ALT 4,048 U/L, AST 2,417 U/L) and INR had risen to 5.0 (Table). She was treated with oral N-acetylcysteine and was transferred to a liver transplant center. Tests for hepatitis A, B and C were negative as were autoantibodies. However, her liver tests were stable, over the following 4 days she continued to improve and she was discharged on hospital day 6. In follow up one week later, she was asymptomatic and liver tests were normal or near normal.</p>
+          <sec id="Iron.Key_Points">
+            <title>Key Points</title>
+            <table-wrap id="Iron.T2" position="anchor" orientation="portrait">
+              <table>
+                <thead>
+                  <tr>
+                    <th id="hd_h_Iron.T2_1_1_1_1" rowspan="1" colspan="1">Medication:</th>
+                    <td rowspan="1" colspan="1">Ferrous sulfate (100 tablets of 325 mg; ~6.4 g elemental iron)</td>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <th headers="hd_h_Iron.T2_1_1_1_1" id="hd_b_Iron.T2_1_1_1_1" rowspan="1" colspan="1">Pattern:</th>
+                    <td headers="hd_b_Iron.T2_1_1_1_1" rowspan="1" colspan="1">Hepatocellular (R=~100)</td>
+                  </tr>
+                  <tr>
+                    <th headers="hd_h_Iron.T2_1_1_1_1" id="hd_b_Iron.T2_1_1_2_1" rowspan="1" colspan="1">Severity:</th>
+                    <td headers="hd_b_Iron.T2_1_1_2_1" rowspan="1" colspan="1">4+ (jaundice, hospitalization, hepatic failure)</td>
+                  </tr>
+                  <tr>
+                    <th headers="hd_h_Iron.T2_1_1_1_1" id="hd_b_Iron.T2_1_1_3_1" rowspan="1" colspan="1">Latency:</th>
+                    <td headers="hd_b_Iron.T2_1_1_3_1" rowspan="1" colspan="1">24 hours</td>
+                  </tr>
+                  <tr>
+                    <th headers="hd_h_Iron.T2_1_1_1_1" id="hd_b_Iron.T2_1_1_4_1" rowspan="1" colspan="1">Recovery:</th>
+                    <td headers="hd_b_Iron.T2_1_1_4_1" rowspan="1" colspan="1">Unclear, ~4 weeks</td>
+                  </tr>
+                  <tr>
+                    <th headers="hd_h_Iron.T2_1_1_1_1" id="hd_b_Iron.T2_1_1_5_1" rowspan="1" colspan="1">Other medications:</th>
+                    <td headers="hd_b_Iron.T2_1_1_5_1" rowspan="1" colspan="1">None</td>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Iron.Laboratory_Values">
+            <title>Laboratory Values</title>
+            <table-wrap id="Iron.T3" position="anchor" orientation="portrait">
+              <table>
+                <thead>
+                  <tr>
+                    <th id="hd_h_Iron.T3_1_1_1_1" rowspan="1" colspan="1">Time After Overdose</th>
+                    <th id="hd_h_Iron.T3_1_1_1_2" rowspan="1" colspan="1">ALT (U/L)</th>
+                    <th id="hd_h_Iron.T3_1_1_1_3" rowspan="1" colspan="1">Alk P (U/L)</th>
+                    <th id="hd_h_Iron.T3_1_1_1_4" rowspan="1" colspan="1">Bilirubin (mg/dL)</th>
+                    <th id="hd_h_Iron.T3_1_1_1_5" rowspan="1" colspan="1">INR</th>
+                    <th id="hd_h_Iron.T3_1_1_1_6" rowspan="1" colspan="1">Comments</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td headers="hd_h_Iron.T3_1_1_1_1" rowspan="1" colspan="1">&#x0003c;24 hours</td>
+                    <td headers="hd_h_Iron.T3_1_1_1_2" rowspan="1" colspan="1">14</td>
+                    <td headers="hd_h_Iron.T3_1_1_1_3" rowspan="1" colspan="1">59</td>
+                    <td headers="hd_h_Iron.T3_1_1_1_4" rowspan="1" colspan="1">0.3</td>
+                    <td headers="hd_h_Iron.T3_1_1_1_5" rowspan="1" colspan="1">1.0</td>
+                    <td headers="hd_h_Iron.T3_1_1_1_6" rowspan="1" colspan="1">Admission, 5 hours after overdose</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Iron.T3_1_1_1_1" rowspan="1" colspan="1">1 day</td>
+                    <td headers="hd_h_Iron.T3_1_1_1_2" rowspan="1" colspan="1">4,048</td>
+                    <td headers="hd_h_Iron.T3_1_1_1_3" rowspan="1" colspan="1">87</td>
+                    <td headers="hd_h_Iron.T3_1_1_1_4" rowspan="1" colspan="1">3.1</td>
+                    <td headers="hd_h_Iron.T3_1_1_1_5" rowspan="1" colspan="1">5.0</td>
+                    <td headers="hd_h_Iron.T3_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Iron.T3_1_1_1_1" rowspan="1" colspan="1">2 days</td>
+                    <td headers="hd_h_Iron.T3_1_1_1_2" rowspan="1" colspan="1">3,618</td>
+                    <td headers="hd_h_Iron.T3_1_1_1_3" rowspan="1" colspan="1">84</td>
+                    <td headers="hd_h_Iron.T3_1_1_1_4" rowspan="1" colspan="1">2.3</td>
+                    <td headers="hd_h_Iron.T3_1_1_1_5" rowspan="1" colspan="1">5.8</td>
+                    <td headers="hd_h_Iron.T3_1_1_1_6" rowspan="1" colspan="1">Transferred</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Iron.T3_1_1_1_1" rowspan="1" colspan="1">3 days</td>
+                    <td headers="hd_h_Iron.T3_1_1_1_2" rowspan="1" colspan="1">2,642</td>
+                    <td headers="hd_h_Iron.T3_1_1_1_3" rowspan="1" colspan="1">85</td>
+                    <td headers="hd_h_Iron.T3_1_1_1_4" rowspan="1" colspan="1">2.3</td>
+                    <td headers="hd_h_Iron.T3_1_1_1_5" rowspan="1" colspan="1">4.0</td>
+                    <td headers="hd_h_Iron.T3_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Iron.T3_1_1_1_1" rowspan="1" colspan="1">4 days</td>
+                    <td headers="hd_h_Iron.T3_1_1_1_2" rowspan="1" colspan="1">1,657</td>
+                    <td headers="hd_h_Iron.T3_1_1_1_3" rowspan="1" colspan="1">85</td>
+                    <td headers="hd_h_Iron.T3_1_1_1_4" rowspan="1" colspan="1">2.4</td>
+                    <td headers="hd_h_Iron.T3_1_1_1_5" rowspan="1" colspan="1">2.7</td>
+                    <td headers="hd_h_Iron.T3_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Iron.T3_1_1_1_1" rowspan="1" colspan="1">5 days</td>
+                    <td headers="hd_h_Iron.T3_1_1_1_2" rowspan="1" colspan="1">1,438</td>
+                    <td headers="hd_h_Iron.T3_1_1_1_3" rowspan="1" colspan="1">107</td>
+                    <td headers="hd_h_Iron.T3_1_1_1_4" rowspan="1" colspan="1">2.8</td>
+                    <td headers="hd_h_Iron.T3_1_1_1_5" rowspan="1" colspan="1">1.1</td>
+                    <td headers="hd_h_Iron.T3_1_1_1_6" rowspan="1" colspan="1">Discharged</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Iron.T3_1_1_1_1" rowspan="1" colspan="1">2 weeks</td>
+                    <td headers="hd_h_Iron.T3_1_1_1_2" rowspan="1" colspan="1">362</td>
+                    <td headers="hd_h_Iron.T3_1_1_1_3" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Iron.T3_1_1_1_4" rowspan="1" colspan="1">0.9</td>
+                    <td headers="hd_h_Iron.T3_1_1_1_5" rowspan="1" colspan="1">0.9</td>
+                    <td headers="hd_h_Iron.T3_1_1_1_6" rowspan="1" colspan="1">Asymptomatic</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Iron.T3_1_1_1_1" rowspan="1" colspan="1">
+                      <bold>Normal Values</bold>
+                    </td>
+                    <td headers="hd_h_Iron.T3_1_1_1_2" rowspan="1" colspan="1">
+                      <bold>&#x0003c;41</bold>
+                    </td>
+                    <td headers="hd_h_Iron.T3_1_1_1_3" rowspan="1" colspan="1">
+                      <bold>&#x0003c;129</bold>
+                    </td>
+                    <td headers="hd_h_Iron.T3_1_1_1_4" rowspan="1" colspan="1">
+                      <bold>&#x0003c;1.2</bold>
+                    </td>
+                    <td headers="hd_h_Iron.T3_1_1_1_5" rowspan="1" colspan="1">
+                      <bold>&#x0003c;1.2</bold>
+                    </td>
+                    <td headers="hd_h_Iron.T3_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Iron.Comment">
+            <title>Comment</title>
+            <p>Iron poisoning typically occurs in toddlers who ingest iron tablets meant for their parents. In adults, iron overdose occurs typically as a result of a suicide attempt. When initially reported in the 1940s and 1950s, the mortality rate of iron poisoning was in excess of 50%. In more recent series, however, the death rate has been much lower, in the range of 1% to 3%. Liver injury from iron poisoning is often mentioned and can be severe, but is rarely the primary cause of death. As in this case, hepatic injury generally arises after the first day and is often overshadowed by other manifestations, such as cardiac failure, sepsis, acidosis, gastrointestinal bleeding or coagulopathy. In general surveys, severe liver injury is reported in 15% of cases of iron poisoning, generally in association with higher exposures, higher initial iron levels (above 1000 &#x003bc;g/dL) and more severe injury. Liver injury appears to be more common in adults than children, or at least it is better documented, as most instances of deaths from hepatic failure or emergency liver transplantation from iron overdoses have been reported in adults taking iron with suicidal intent.</p>
+          </sec>
+        </sec>
+      </sec>
+      <sec id="Iron.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <boxed-text position="anchor" id="Iron.BPI" orientation="portrait">
+          <p>
+            <bold>REPRESENTATIVE TRADE NAMES</bold>
+          </p>
+          <p>Ferrous Fumarate - Generic, Feostat&#x000ae;</p>
+          <p>Ferrous Glconate - Generic, Fergon&#x000ae;</p>
+          <p>Ferrous Sulfate - Generic, Feratab&#x000ae;</p>
+          <p>
+            <bold>DRUG CLASS</bold>
+          </p>
+          <p>Trace Elements and Metals</p>
+          <p>
+            <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=ferrous">COMPLETE LABELING</ext-link>
+          </p>
+          <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+        </boxed-text>
+      </sec>
+      <sec id="Iron.CHEMICAL_FORMULAS_AND_STRUCTURES">
+        <title>CHEMICAL FORMULAS AND STRUCTURES</title>
+        <table-wrap id="Iron.T4" position="anchor" orientation="portrait">
+          <table>
+            <thead>
+              <tr>
+                <th id="hd_h_Iron.T4_1_1_1_1" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Iron.T4_1_1_1_2" rowspan="1" colspan="1">CAS REGISTRY NUMBER</th>
+                <th id="hd_h_Iron.T4_1_1_1_3" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Iron.T4_1_1_1_4" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Iron.T4_1_1_1_1" rowspan="1" colspan="1">Ferrous Fumarate</td>
+                <td headers="hd_h_Iron.T4_1_1_1_2" rowspan="1" colspan="1">
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://134975091">141-01-5</ext-link>
+                </td>
+                <td headers="hd_h_Iron.T4_1_1_1_3" rowspan="1" colspan="1">C4-H4-O4.Fe</td>
+                <td headers="hd_h_Iron.T4_1_1_1_4" rowspan="1" colspan="1">
+                  <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="FerrousFumarate_structure.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait">
+                    <alt-text>Image of Ferrous Fumarate Chemical Structure</alt-text>
+                  </graphic>
+                </td>
+              </tr>
+              <tr>
+                <td headers="hd_h_Iron.T4_1_1_1_1" rowspan="1" colspan="1">Ferrous Gluconate</td>
+                <td headers="hd_h_Iron.T4_1_1_1_2" rowspan="1" colspan="1">
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://134975116">299-29-6</ext-link>
+                </td>
+                <td headers="hd_h_Iron.T4_1_1_1_3" rowspan="1" colspan="1">C12-H22-Fe-O14</td>
+                <td headers="hd_h_Iron.T4_1_1_1_4" rowspan="1" colspan="1">
+                  <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="FerrousGluconate_structure.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait">
+                    <alt-text>Image of Ferrous Gluconate Chemical Structure</alt-text>
+                  </graphic>
+                </td>
+              </tr>
+              <tr>
+                <td headers="hd_h_Iron.T4_1_1_1_1" rowspan="1" colspan="1">Ferrous Sulfate</td>
+                <td headers="hd_h_Iron.T4_1_1_1_2" rowspan="1" colspan="1">
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://134989337">7720-78-7</ext-link>
+                </td>
+                <td headers="hd_h_Iron.T4_1_1_1_3" rowspan="1" colspan="1">Fe.H2-O4-S</td>
+                <td headers="hd_h_Iron.T4_1_1_1_4" rowspan="1" colspan="1">
+                  <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="FerrousSulfate_structure.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait">
+                    <alt-text>Image of Ferrous Sulfate Chemical Structure</alt-text>
+                  </graphic>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Iron.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 05 April 2018</p>
+        <ref-list id="Iron.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Iron.R1">
+            <mixed-citation publication-type="other">Zimmerman HJ. Iron poisoning. In, Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999, pp 346-7.<annotation><p><italic toggle="yes">(Review of hepatotoxicity published in 1999 mentions that liver injury is a known component of iron poisoning, typically occurring in toddlers, resembling acute hepatic necrosis and arising between 1-3 days after exposure).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Iron.R2">
+            <mixed-citation publication-type="other">Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013.<annotation><p><italic toggle="yes">(Textbook on hepatotoxicity; the acute hepatotoxicity of iron is not discussed).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Iron.R3">
+            <mixed-citation publication-type="other">Byrns MC, Penning TM. Treatment of metal exposure. Environmental toxicology: carcinogens and heavy metals. In, Brunton LL, Chabner BA, Knollman BC, eds. Goodman &#x00026; Gilman's the pharmacological basis of therapeutics. 12th ed. New York: McGraw-Hill, 2011, pp. 1872-6.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Iron.R4">
+            <mixed-citation publication-type="journal">Forbes G. Poisoning with a preparation of iron, copper, and manganese. Br Med J 1947; 1(4498): 367-70. <annotation><p><italic toggle="yes">(Initial modern report of two children, ages 1 and 3 years, who took 30-50 tablets of iron [10-16 g] and developed gastrointestinal distress followed by temporary improvement and then pallor, tachycardia and shock and dying within 30-53 hours; in one case, the autopsy was said to show acute liver failure).</italic></p></annotation><pub-id pub-id-type="pmid">20289621</pub-id></mixed-citation>
+          </ref>
+          <ref id="Iron.R5">
+            <mixed-citation publication-type="journal">Thomson J. Two cases of ferrous sulphate poisoning. Br Med J 1947; 1 (4505): 640. <annotation><p><italic toggle="yes">(Two cases reported in response to Forbes [1947]; 16 month old girl swallowed 40 tablets of ferrous sulfate [with small amounts of copper and manganese] and rapidly developed vomiting, lethargy and hematemesis, with improvement after gastric lavage and iv fluids, but sudden deterioration, shock and death several hours later, autopsy showing gastric erosions and necrosis; 2 year old boy swallowed 10 tablets of ferrous sulfate and rapidly developed vomiting, dark diarrhea and lethargy, recovering with conservative management).</italic></p></annotation><pub-id pub-id-type="pmid">20248077</pub-id></mixed-citation>
+          </ref>
+          <ref id="Iron.R6">
+            <mixed-citation publication-type="journal">Somers GF. Relative oral toxicity of some therapeutic iron preparations. Br Med J 1947; 2 (4518): 201-3. <annotation><p><italic toggle="yes">(Analysis of toxicity of various iron preparations in 3 species of animals found toxicity only at high doses, similar among most formulations, correlated with elemental iron concentration, ferrous iron less toxic than ferric, and histology in lethal cases showing minimal organ damage, with only slight swelling of hepatocytes; concluding that, "iron preparations should be kept out of reach of the very young").</italic></p></annotation><pub-id pub-id-type="pmid">20255537</pub-id></mixed-citation>
+          </ref>
+          <ref id="Iron.R7">
+            <mixed-citation publication-type="journal">Edge ND, Somers GF. Effect of dimercaprol in acute iron poisoning. Pharm J 1948; 107: 216. <annotation><p><italic toggle="yes">(Study of toxicity of ferrous sulfate and chloride given orally or intravenously to mice found that dimercaprol increased toxicity when given after iron exposures and decreased toxicity when given before, but only with ferrous sulfate).</italic></p></annotation><pub-id pub-id-type="pmid">18885636</pub-id></mixed-citation>
+          </ref>
+          <ref id="Iron.R8">
+            <mixed-citation publication-type="journal">Foucar FH, Gordon BS, Kaye S. Death following ingestion of ferrous sulfate. Am J Clin Pathol 1948; 18: 971-3. <annotation><p><italic toggle="yes">(26 year old man accidentally ingested aqueous ferrous sulfate solution, rapidly developing vomiting, abdominal pain and rigidity, cyanosis and shock, dying within 3 hours; autopsy showed necrotic gastric mucosa and hepatic degeneration, but little evidence of iron absorption or staining of tissues outside of the stomach).</italic></p></annotation><pub-id pub-id-type="pmid">18105521</pub-id></mixed-citation>
+          </ref>
+          <ref id="Iron.R9">
+            <mixed-citation publication-type="journal">Prain JH. Fatal poisoning of an infant by antianemic pills containing iron, manganese, and copper. Br Med J 1949; 2 (4635): 1019, pl. <annotation><p><italic toggle="yes">(11 month old girl took an unknown number of antianemia tablets of ferrous sulfate with copper and manganese and rapidly developed vomiting and drowsiness, later improving, but suddenly deteriorating the following day with cyanosis and shock and death 39 hours after the ingestion, autopsy showing hepatic steatosis with scant iron).</italic></p></annotation><pub-id pub-id-type="pmid">15406860</pub-id></mixed-citation>
+          </ref>
+          <ref id="Iron.R10">
+            <mixed-citation publication-type="journal">Smith RP, Jones CW, Cochran WE. Ferrous sulfate toxicity; report of a fatal case. N Engl J Med 1950; 243: 641-5. <annotation><p><italic toggle="yes">(17 month old girl ingested an unknown number of ferrous sulfate tablets and developed vomiting and diarrhea, followed by stupor and cyanosis, marked ecchymoses, shock, coma, convulsions and death within 12 hours of the exposure).</italic></p></annotation><pub-id pub-id-type="pmid">14780348</pub-id></mixed-citation>
+          </ref>
+          <ref id="Iron.R11">
+            <mixed-citation publication-type="journal">Murphy JW, Neustein C, Hoffman AC, Winters HV, Gaskins AL. Acute iron poisoning. Report of a case and review of the literature. Arch Pediatr 1951; 68: 303-8. <annotation><p><italic toggle="yes">(30 month old girl developed severe vomiting shortly after swallowing 75 ferrous sulfate tablets that her mother was given after donating blood and was treated with gastric lavage and iv fluids; she had a day of diarrhea and vomiting, but then remained well and was discharged).</italic></p></annotation><pub-id pub-id-type="pmid">14857918</pub-id></mixed-citation>
+          </ref>
+          <ref id="Iron.R12">
+            <mixed-citation publication-type="journal">Spencer IO. Ferrous sulphate poisoning in children. Br Med J 1951; 2 (4740): 1112-7. <annotation><p><italic toggle="yes">(Description of 8 cases of iron poisoning in children, 3 girls and 5 boys, ages 11 to 23 months who took 3-54 tablets, presenting within 1-7 hours, usual symptoms of vomiting, pallor, drowsiness and hematemesis, 4 dying in 4-24 hours).</italic></p></annotation><pub-id pub-id-type="pmid">14869831</pub-id></mixed-citation>
+          </ref>
+          <ref id="Iron.R13">
+            <mixed-citation publication-type="journal">Branch LK. Ferrous sulfate poisoning; report of a fatal case. Pediatrics 1952 Dec; 10 (6): 677-80. <annotation><p><italic toggle="yes">(29 month old boy was found eating ferrous sulfate tablets and underwent gastric lavage within 30 minutes, but he then developed vomiting, hematemesis and black stools followed by cyanosis, coma and death within 5 hours of the ingestion).</italic></p></annotation><pub-id pub-id-type="pmid">13003416</pub-id></mixed-citation>
+          </ref>
+          <ref id="Iron.R14">
+            <mixed-citation publication-type="journal">Duffy TL, Diehl AM. Ferrous sulfate poisoning. Report of three cases. J Pediatr 1952; 40: 1-5. <annotation><p><italic toggle="yes">(15, 18 and 26 month old children, 2 girls and 1 boy, swallowed adult, chocolate favored, ferrous sulfate tablets and rapidly developed vomiting followed by black stools and lethargy, one recovering within 2 and one within 5 days, the third dying of progressive shock and cardiac failure within 5 hours of the ingestion and autopsy showing necrotic gastric mucosa).</italic></p></annotation><pub-id pub-id-type="pmid">14898410</pub-id></mixed-citation>
+          </ref>
+          <ref id="Iron.R15">
+            <mixed-citation publication-type="journal">Swift SC, Cefalu V, Rubell EB. Ferrous sulfate poisoning; report of a fatal case. J Pediatr 1952; 40: 6-10. <annotation><p><italic toggle="yes">(19 month old boy swallowed enteric coated ferrous sulfate tablets and began to vomit within 30 minutes, then developing lethargy, diarrhea, red liquid stools, cyanosis, hypotension, fever and respiratory failure, dying 40 hours after exposure, autopsy showing central necrosis of the liver, but without iron staining).</italic></p></annotation><pub-id pub-id-type="pmid">14898411</pub-id></mixed-citation>
+          </ref>
+          <ref id="Iron.R16">
+            <mixed-citation publication-type="journal">Luongo MA, Bjornson SS. The liver in ferrous sulfate poisoning; a report of three fatal cases in children and an experimental study. N Engl J Med 1954; 251: 995-9. <annotation><p><italic toggle="yes">(3 cases of fatal overdose of ferrous sulfate in 12 to 18 month old children who died within 48 hours, and autopsies showed marked peri-portal hepatic necrosis (zone 1) with leukocytic infiltrates and mild-to-moderate fatty metamorphosis).</italic></p></annotation><pub-id pub-id-type="pmid">13214376</pub-id></mixed-citation>
+          </ref>
+          <ref id="Iron.R17">
+            <mixed-citation publication-type="journal">Shoss J. Ferrous sulfate poisoning; a case treated with BAL. J Pediatr 1954; 44: 77-8. <annotation><p><italic toggle="yes">(14 month old girl swallowed 50-75 ferrous sulfate tablets and was admitted with lethargy and vomiting 3 hours later, semicomatose, cyanotic, febrile and in shock, treated with gastric lavage and intramuscular BAL, with slow improvement and discharge after 5 days).</italic></p></annotation><pub-id pub-id-type="pmid">13131201</pub-id></mixed-citation>
+          </ref>
+          <ref id="Iron.R18">
+            <mixed-citation publication-type="journal">Curtiss CD, Kosinski AA. Fatal case of iron intoxication in a child. J Am Med Assoc 1954; 156: 1326-8. <annotation><p><italic toggle="yes">(21 month old girl ingested unknown number of ferrous sulfate tablets and developed vomiting, stupor, coma and sudden death 48 hours after the ingestion; liver showing irregular pattern of necrosis).</italic></p></annotation><pub-id pub-id-type="pmid">13211245</pub-id></mixed-citation>
+          </ref>
+          <ref id="Iron.R19">
+            <mixed-citation publication-type="journal">Clark WM Jr, Jurow SS, Walford RL, Warthen RO. Ferrous sulfate poisoning. AMA Am J Dis Child 1954; 88: 220-6. <annotation><p><italic toggle="yes">(Two cases of iron poisoning; 15 month old girl took 5.5 g of ferrous sulfate and rapidly developed vomiting, black diarrhea and fever, but recovered within 3 days; 20 month old girl took 10-12 g of ferrous sulfate and developed bloody diarrhea, vomiting, pallor, shock and death within 20 hours, autopsy showed an infarcted ileum and there was little iron in the liver).</italic></p></annotation><pub-id pub-id-type="pmid">13180017</pub-id></mixed-citation>
+          </ref>
+          <ref id="Iron.R20">
+            <mixed-citation publication-type="journal">Kaplan BB, Schliefer DM. Ferrous sulfate poisoning; a nonfatal case. AMA Am J Dis Child 1954; 88: 348-9. <annotation><p><italic toggle="yes">(13 month old girl took ~2 g of ferrous sulfate and developed blood stained vomiting, drowsiness, diaphoresis and shock [serum iron 10 times ULN], was treated with gastric lavage, transfusions and fluids and recovered in 3-4 days).</italic></p></annotation><pub-id pub-id-type="pmid">13188454</pub-id></mixed-citation>
+          </ref>
+          <ref id="Iron.R21">
+            <mixed-citation publication-type="journal">Birk RE, Stallard SK. Acute ferrous sulfate poisoning: report of a nonfatal case. J Pediatr 1954; 45: 164-8. <annotation><p><italic toggle="yes">(26 month of girl presented 2 hours after ingesting 65 tablets of ferrous sulfate [~13 g], was treated with fluids, lavage, blood transfusions and BAL and recovered fully within 4-6 days; review of 30 cases from literature).</italic></p></annotation><pub-id pub-id-type="pmid">13184390</pub-id></mixed-citation>
+          </ref>
+          <ref id="Iron.R22">
+            <mixed-citation publication-type="journal">Reissman KR, Coleman TJ, Budai BS, Moriarty LR. Acute intestinal iron intoxication. I. Iron absorption, serum iron and autopsy findings. Blood 1955; 10: 35-45. <annotation><p><italic toggle="yes">(Studies of ferrous sulfate overdose in rabbits and dogs found fatal dose to be ~200 mg/kg, but autopsies showed minimal gastrointestinal mucosal or hepatic damage).</italic></p></annotation><pub-id pub-id-type="pmid">13219186</pub-id></mixed-citation>
+          </ref>
+          <ref id="Iron.R23">
+            <mixed-citation publication-type="journal">Brown RJ, Gray JD. The mechanism of acute ferrous sulphate poisoning. Can Med Assoc J 1955; 73: 192-7. <annotation><p><italic toggle="yes">(2 year old boy swallowed 40 ferrous sulfate tablets and developed vomiting and semi-coma, followed by pallor and cyanosis and persistent vomiting, developing jaundice after 24 hours, coma, convulsions, but ultimately recovered although he required surgery for pyloric stenosis, at which time a liver biopsy was minimally abnormal).</italic></p></annotation><pub-id pub-id-type="pmid">13240579</pub-id></mixed-citation>
+          </ref>
+          <ref id="Iron.R24">
+            <mixed-citation publication-type="journal">Charney E. A fatal case of ferrous sulfate poisoning. JAMA 1961 Oct 21; 178: 326-7. <annotation><p><italic toggle="yes">(16 month old girl ingested unknown number of ferrous sulfate tablets and was found semi-comatose with gastrointestinal bleeding, acidosis, coagulopathy and cardiac failure, followed by death 17 hours after the ingestion, autopsy showing gastrointestinal mucosal necrosis and hemorrhage; "the liver was unremarkable").</italic></p></annotation><pub-id pub-id-type="pmid">13878304</pub-id></mixed-citation>
+          </ref>
+          <ref id="Iron.R25">
+            <mixed-citation publication-type="journal">Dugdate AE, Powell LW. Acute iron poisoning: its effects and treatment. Med J Aust 1964; 2: 990-2. <annotation><p><italic toggle="yes">(3 cases of acute iron poisoning from Australia: 17 month old boy swallowed more than 100 ferrous sulfate tablets and was admitted drowsy and pale one hour later, becoming stable with fluid replacement, but then deteriorating and dying 30 hours after the ingestion, autopsy showing severe necrosis; 22 month old girl took 60 tablets of ferrous sulfate, began to vomit and developed circulatory failure [serum iron 4800 &#x003bc;g/dL], was treated with deferoxamine and had transient liver injury [peak bilirubin 2.7 mg/dL], but ultimately recovered; 20 year old pregnant woman took 60 ferrous sulfate tablets with sodium amytal and aspirin and developed hypotension [serum iron 465 &#x003bc;g/dL], was treated with an iron chelating agent and recovered and delivered a normal child several months later).</italic></p></annotation><pub-id pub-id-type="pmid">14226570</pub-id></mixed-citation>
+          </ref>
+          <ref id="Iron.R26">
+            <mixed-citation publication-type="journal">Santos AS, Pisciotta AV. Acute iron intoxication. Treatment with desferrioxamine E(BA-29837). Am J Dis Child 1964; 107: 424-7. <annotation><p><italic toggle="yes">(14 year old girl swallowed 10 ferrous sulfate tablets and began vomiting within 20 minutes and was admitted with diarrhea, lethargy and semicoma [serum iron 575 &#x003bc;g/dL], treated with deferoxamine and recovered fully within 6 days).</italic></p></annotation><pub-id pub-id-type="pmid">14109504</pub-id></mixed-citation>
+          </ref>
+          <ref id="Iron.R27">
+            <mixed-citation publication-type="journal">Covey TJ. Ferrous sulfate poisoning: a review, case summaries, and therapeutic regimen. J Pediatr 1964; 64: 218-26. <annotation><p><italic toggle="yes">(Description of 4 of 20 cases of iron poisoning seen at Cook County Hospital, Chicago during a 1 year period; the single fatal case had massive liver necrosis).</italic></p></annotation><pub-id pub-id-type="pmid">14119521</pub-id></mixed-citation>
+          </ref>
+          <ref id="Iron.R28">
+            <mixed-citation publication-type="journal">Walsh JR, Gillick JB. Iron chelation in acute iron poisoning and chronic hypersiderosis. Clin Pediatr (Phila) 1965; 4: 633-8. <annotation><p><italic toggle="yes">(Review of the rationale for iron chelation using deferoxamine for acute iron poisoning and clinical guidance to its use).</italic></p></annotation><pub-id pub-id-type="pmid">5844429</pub-id></mixed-citation>
+          </ref>
+          <ref id="Iron.R29">
+            <mixed-citation publication-type="journal">Barr DG, Fraser DK. Management of acute iron poisoning. Br Med J 1965; 1(5435): 657. <annotation><p><italic toggle="yes">(Letter on use of deferoxamine in iron poisoning mentioning a case with massive hepatic necrosis and cautioning against use of drugs with potential of worsening hepatic injury).</italic></p></annotation><pub-id pub-id-type="pmid">14245190</pub-id></mixed-citation>
+          </ref>
+          <ref id="Iron.R30">
+            <mixed-citation publication-type="journal">Jacobs J, Greene H, Gendel BR. Acute iron intoxication. N Engl J Med 1965; 273: 1124-7. <annotation><p><italic toggle="yes">(17 month old girl took an unknown number of ferrous sulfate tablets and developed abdominal pain, vomiting and watery diarrhea 45 minutes later; on admission, serum iron was 1162 &#x000b5;g/dL and she was treated with gastric lavage and deferoxamine and recovered; review of literature on use of deferoxamine represented by case reports only).</italic></p></annotation><pub-id pub-id-type="pmid">5841675</pub-id></mixed-citation>
+          </ref>
+          <ref id="Iron.R31">
+            <mixed-citation publication-type="journal">Gevirtz NR, Rausen AR. Acute iron poisoning. Clinical and laboratory observations with deferoxamine. J Mt Sinai Hosp N Y 1966; 33: 64-8. <annotation><p><italic toggle="yes">(18 month old boy swallowed an unknown number of his mother's ferrous sulfate tablets and developed vomiting followed by lethargy and then coma; initial serum iron of 800 &#x003bc;g/dL fell to normal with starting iv, sc and oral deferoxamine and he recovered and was discharged after 6 days).</italic></p></annotation><pub-id pub-id-type="pmid">5215561</pub-id></mixed-citation>
+          </ref>
+          <ref id="Iron.R32">
+            <mixed-citation publication-type="journal">Westlin WF. Deferoxamine in the treatment of acute iron poisoning. Clinical experiences with 172 children. Clin Pediatr(Phila) 1966; 5: 531-5. <annotation><p><italic toggle="yes">(Analysis of results of deferoxamine therapy of acute iron poisoning in 172 children, ages 9 months to 18 years [all but 2 were below age 5], 81 boys and 76 girls, 86% with symptoms, vomiting [80%], drowsiness [52%], diarrhea [48%], with shock in 19 [11%], coma in 18 [10%] and 3 deaths [1.7% overall, 11% of those with shock or coma]; initial iron levels correlated with subsequent severity, shock or coma arising in 70% if &#x0003e;1000 &#x003bc;g/dL; side effects of deferoxamine included flushing or rash in 3 and transient hypotension in 4).</italic></p></annotation><pub-id pub-id-type="pmid">5911317</pub-id></mixed-citation>
+          </ref>
+          <ref id="Iron.R33">
+            <mixed-citation publication-type="journal">Leikin S, Vossough P, Mochir-Fatemi F. Chelation therapy in acute iron poisoning. J Pediatr 1967; 71: 425-30. <annotation><p><italic toggle="yes">(22 children with iron poisoning were treated with either standard care, deferoxamine orally or both orally and intravenously; all patients recovered and initial serum iron levels of 250 to 800 &#x000b5;g/dL fell to normal within 24 hours in all patients regardless of deferoxamine use; urinary excretion was greater with deferoxamine treatment).</italic></p></annotation><pub-id pub-id-type="pmid">6034795</pub-id></mixed-citation>
+          </ref>
+          <ref id="Iron.R34">
+            <mixed-citation publication-type="journal">Coli RD, Leone LA, Albala MM. Treatment of acute iron intoxication with deferoxamine: a report of six cases. Chelating agent proves effective in management of acute iron poisoning. R I Med J 1967; 50: 549-53 <annotation><p><italic toggle="yes">(Six children, ages 15 to 22 months, with acute iron poisoning [3-19 g of ferrous sulfate] were treated with deferoxamine orally and parenterally and 5 survived; no adverse effects were noted).</italic></p></annotation><pub-id pub-id-type="pmid">5235587</pub-id></mixed-citation>
+          </ref>
+          <ref id="Iron.R35">
+            <mixed-citation publication-type="journal">Keller P, Schneider V. [Accidental iron sulfate poisoning in a 3-year-old child]. Monatsschr Kinderheilkd 1968; 116: 476-8. German. <annotation><p><italic toggle="yes">(3 year old boy developed severe vomiting and abdominal distress and was found to have a gastric perforation and had progressive cardiac and respiratory failure after emergency surgery, subsequent investigation suggesting that he had swallowed a car battery powder that contained ferrous sulfate).</italic></p></annotation><pub-id pub-id-type="pmid">5720561</pub-id></mixed-citation>
+          </ref>
+          <ref id="Iron.R36">
+            <mixed-citation publication-type="journal">Barr DG, Fraser DKB. Acute iron poisoning in children: role of chelating agents. BMJ 1968; 737-41. <annotation><p><italic toggle="yes">(Analysis of outcome of treating iron poisoning with chelating agents [mostly deferoxamine]; 16 children, ages 1 to 6 years with initial serum iron of 390-3000 &#x003bc;g/dL were treated with oral and/or parenteral agents, one fatality [with highest iron levels], no apparent adverse effects of treatment, and all were normal in follow up).</italic></p></annotation><pub-id pub-id-type="pmid">5641439</pub-id></mixed-citation>
+          </ref>
+          <ref id="Iron.R37">
+            <mixed-citation publication-type="journal">Movassaghi N, Purugganan GG, Leikin S. Comparison of exchange transfusion and deferoxamine in the treatment of acute iron poisoning. J Pediatr 1969; 75: 604-8. <annotation><p><italic toggle="yes">(In dogs, exchange transfusion resulted in 30 times greater removal of iron than did deferoxamine infusions, but the animals were in shock with little urinary output).</italic></p></annotation><pub-id pub-id-type="pmid">5809838</pub-id></mixed-citation>
+          </ref>
+          <ref id="Iron.R38">
+            <mixed-citation publication-type="journal">Whitten CF, Brough AJ. The pathophysiology of acute iron poisoning. Clin Toxicol 1971 4: 585-95. <annotation><p><italic toggle="yes">(Review of pathophysiology of acute iron toxicity mentions that signs of hepatic dysfunction arise 3-4 days after exposure with rises in serum bilirubin and lactic acidosis, possibly due to hepatic mitochondrial injury).</italic></p></annotation><pub-id pub-id-type="pmid">5317453</pub-id></mixed-citation>
+          </ref>
+          <ref id="Iron.R39">
+            <mixed-citation publication-type="journal">Rueff B, Benhamou JP. Acute hepatic necrosis and fulminant hepatic failure. Gut 1973; 14: 805-15. <annotation><p><italic toggle="yes">(Review of the clinical features, causes and management of acute liver failure: no cases were attributed to iron).</italic></p></annotation><pub-id pub-id-type="pmid">4586083</pub-id></mixed-citation>
+          </ref>
+          <ref id="Iron.R40">
+            <mixed-citation publication-type="journal">Ganote CE, Nahara G. Acute ferrous sulfate hepatotoxicity in rats. An electron microscopic and biochemical study. Lab Invest 1973; 28: 426-36. <annotation><p><italic toggle="yes">(Study of acute iron hepatic injury in rats given ferrous sulfate orally [250-500 mg/kg] found early swelling of hepatocytes and mitochondrial changes, followed by frank necrosis that was predominantly periportal or mid-zonal).</italic></p></annotation><pub-id pub-id-type="pmid">4574197</pub-id></mixed-citation>
+          </ref>
+          <ref id="Iron.R41">
+            <mixed-citation publication-type="journal">Gjone E, Stave R. Liver disease associated with a "non-constipating" iron preparation. Lancet 1973; 1 (7800): 421-2. <annotation><p><italic toggle="yes">(Two women ages 21 and 68 years developed jaundice and ascites having taken an iron preparation for 6 months and 4 years that also included oxyphenasitin, a known hepatotoxin that causes a progressive, autoimmune hepatitis-like syndrome).</italic></p></annotation><pub-id pub-id-type="pmid">4119723</pub-id></mixed-citation>
+          </ref>
+          <ref id="Iron.R42">
+            <mixed-citation publication-type="journal">Eriksson F, Johansson SV, Mellstedt H, Stranberg O, Wester PO. Iron intoxication in two adult patients. Acta Med Scand 1974; 196: 231-6. <annotation><p><italic toggle="yes">(Two patients with iron poisoning; 19 year old woman took overdose of 60 tablets of ferrous succinate, developing abdominal pain, vomiting and lethargy [plasma iron 350 &#x003bc;g/dL], liver tests were normal and she recovered within 1 week; 26 year old woman took an overdose of 150 tablets of ferrous succinate developing vomiting, lethargy and dehydration [plasma iron 640 &#x003bc;g/dL], was treated with deferoxamine and developed jaundice on day 2 [bilirubin rising to 17.2 mg/dL and ALT to 421 U/L], resolving over the following 2 weeks).</italic></p></annotation><pub-id pub-id-type="pmid">4417152</pub-id></mixed-citation>
+          </ref>
+          <ref id="Iron.R43">
+            <mixed-citation publication-type="journal">Robotham JL, Troxler RF, Lietman PS. Iron poisoning: another energy crisis. Lancet 1974; 2 (7881): 664-5. <annotation><p><italic toggle="yes">(Letter suggesting mechanism of hepatic injury from iron poisoning is mediated by mitochondrial injury).</italic></p></annotation><pub-id pub-id-type="pmid">4137783</pub-id></mixed-citation>
+          </ref>
+          <ref id="Iron.R44">
+            <mixed-citation publication-type="journal">Murphy BF. Editorial: Hazards of children's vitamin preparations containing iron. JAMA 1974; 229: 324. <annotation><p><italic toggle="yes">(Editorial raising concern regarding use of flavored, chewable iron containing multivitamins for children).</italic></p></annotation><pub-id pub-id-type="pmid">4406797</pub-id></mixed-citation>
+          </ref>
+          <ref id="Iron.R45">
+            <mixed-citation publication-type="journal">Strom RL, Schiller P, Seeds AE, Bensel RT. Fatal iron poisoning in a pregnant female. Minn Med 1976; 59: 483-9. <annotation><p><italic toggle="yes">(17 year old, pregnant adolescent female took an overdose of 95 tablets of iron in a suicide attempt and soon developed vomiting and diarrhea [serum iron 1700 &#x003bc;g/dL], was treated with gastric lavage alone and went on to develop coma, acidosis, hypoglycemia, coagulopathy, gastrointestinal bleeding, and hepatic, respiratory and renal failure, spontaneously aborting on the 2nd and dying on the 3rd hospital day; at autopsy, the liver showed prominent periportal necrosis, but the fetus showed no abnormalities and no excess iron).</italic></p></annotation><pub-id pub-id-type="pmid">1086955</pub-id></mixed-citation>
+          </ref>
+          <ref id="Iron.R46">
+            <mixed-citation publication-type="journal">Greenblatt DJ, Allen MD, Kock-Weser J. Accidental iron poisoning in childhood. Six cases including one fatality. Clin Pediatr (Phila) 1976; 15: 835-8. <annotation><p><italic toggle="yes">(Among 76 admissions for accidental poisoning in children, 6 were due to iron, 2 mild [serum iron &#x0003c;400 &#x000b5;g/dL], 2 moderate [iron 400-1000 &#x000b5;g/dL] and 2 severe [1556 and 2160 &#x000b5;g/mL], the one fatal case having severe hepatic necrosis, but death was due to cardiac arrest).</italic></p></annotation><pub-id pub-id-type="pmid">954339</pub-id></mixed-citation>
+          </ref>
+          <ref id="Iron.R47">
+            <mixed-citation publication-type="journal">deCastro FJ, Jaeger R, Gleason WA Jr. Liver damage and hypoglycemia in acute iron poisoning. Clin Toxicol 1977; 10: 287-9. <annotation><p><italic toggle="yes">(16 month of boy ingested ~15 g of ferrous sulfate and developed irritability, vomiting, dark diarrhea and lethargy and was admitted 2 hours later in shock [serum iron 5000 &#x000b5;g/dL], with hepatic injury arising on day 3 [bilirubin 5.9 rising to 10.6 mg/dL, ALT 1100 U/L, LDH 1200 U/L], with subsequent confusion, hypoglycemia and death on day 5).</italic></p></annotation><pub-id pub-id-type="pmid">862362</pub-id></mixed-citation>
+          </ref>
+          <ref id="Iron.R48">
+            <mixed-citation publication-type="journal">Gleason WA Jr, deMello DE, deCastro FJ, Connors JJ. Acute hepatic failure in severe iron poisoning. J Pediatr 1979; 95: 138-40. <annotation><p><italic toggle="yes">(18 month old boy became obtunded within 8 hours of swallowing ~3.5 g of elemental iron [50-60 ferrous sulfate tablets] and progressed to hepatic and circulatory failure within 2 days despite deferoxamine [peak bilirubin 7.6 mg/dL, AST 9011 U/L], autopsy showing hemorrhagic necrosis that was panlobular, but most prominent in zone 1 [periportal]).</italic></p></annotation><pub-id pub-id-type="pmid">479996</pub-id></mixed-citation>
+          </ref>
+          <ref id="Iron.R49">
+            <mixed-citation publication-type="journal">Krenzelok EP, Hoff JV. Accidental childhood iron poisoning: a problem of marketing and labeling. Pediatrics 1979; 63: 591-6. <annotation><p><italic toggle="yes">(Discussion of issues that account for accidental ingestion of iron by toddlers including the general availability of iron tablets, use of sugar or attractive coating, lack of knowledge about the dangers of iron, lack of child-resistant containers and variability of iron concentrations; listing of commercial iron products and concentrations of elemental iron).</italic></p></annotation><pub-id pub-id-type="pmid">440869</pub-id></mixed-citation>
+          </ref>
+          <ref id="Iron.R50">
+            <mixed-citation publication-type="journal">Robotham JL, Lietman PS. Acute iron poisoning. A review. Am J Dis Child 1980; 134: 875-9. <annotation><p><italic toggle="yes">(Review of acute iron toxicity, clinical features, pathophysiology and management).</italic></p></annotation><pub-id pub-id-type="pmid">6998282</pub-id></mixed-citation>
+          </ref>
+          <ref id="Iron.R51">
+            <mixed-citation publication-type="journal">Doolin EJ, Drueck C 3rd. Fatal iron intoxication in an adult. J Trauma 1980; 20: 518-22. <annotation><p><italic toggle="yes">(18 year old man fell into a vat of ferrous chloride and jumped out quickly, but was admitted in critical condition with chemical burns, improving initially, but developing severe acidosis, coagulopathy, and progressive respiratory, renal and hepatic failure and death within 5 days, autopsy showing severe hepatic necrosis without a zonal pattern).</italic></p></annotation><pub-id pub-id-type="pmid">7373684</pub-id></mixed-citation>
+          </ref>
+          <ref id="Iron.R52">
+            <mixed-citation publication-type="journal">Peterson CD, Fifield GC. Emergency gastrotomy for acute iron poisoning. Ann Emerg Med 1980; 9: 262-4. <annotation><p><italic toggle="yes">(15 month old female swallowed 10-15 ferrous sulfate tablets, was seen within 45 minutes, x-rays showing a clump of radioopague pills in stomach; she underwent gastrotomy and removal of tables, whereupon she recovered uneventfully, serum iron levels decreasing from 240 to 98 &#x003bc;g/dL).</italic></p></annotation><pub-id pub-id-type="pmid">7369579</pub-id></mixed-citation>
+          </ref>
+          <ref id="Iron.R53">
+            <mixed-citation publication-type="journal">Venturelli J, Kwee Y, Morris N, Cameron G. Gastrotomy in the management of acute iron poisoning. J Pediatr 1982; 100: 768-9. <annotation><p><italic toggle="yes">(17 year old male swallowed ~43 tablets of ferrous fumarate [200 mg each] and was admitted 2.5 hours later and found to have an iron bezoar in stomach that did not respond to ipecac or gastric lavage and was removed by gastrotomy, the child recovering without signs of iron toxicity and peak serum iron of 177 &#x003bc;g/dL).</italic></p></annotation><pub-id pub-id-type="pmid">7069540</pub-id></mixed-citation>
+          </ref>
+          <ref id="Iron.R54">
+            <mixed-citation publication-type="journal">Evensen SA, F&#x000f8;R, Opedal I, Stormorken H. Acute iron intoxication with abruptly reduced levels of vitamin K-dependent coagulation factors. Scand J Haematol 1982; 29: 25-30. <annotation><p><italic toggle="yes">(17 year old girl swallowed 50 iron tablets [~5 g of elemental iron] and rapidly developed abdominal pain, vomiting and diarrhea, followed by hypotension, acidosis and coagulopathy with slow recovery in levels of vitamin K dependent coagulation factors and transient liver injury [AST rising from 80 to 1296 U/L; bilirubin 1.2 to 5.0 mg/dL by day 3]).</italic></p></annotation><pub-id pub-id-type="pmid">7123152</pub-id></mixed-citation>
+          </ref>
+          <ref id="Iron.R55">
+            <mixed-citation publication-type="journal">Henretig FM, Karl SR, Weintraub WH. Severe iron poisoning treated with enteral and intravenous deferoxamine. Ann Emerg Med 1983; 12: 306-9. <annotation><p><italic toggle="yes">(18 month old boy swallowed an estimated 60 tablets of ferrous sulfate [~3.5 g elemental iron] and presented 45 minutes later with obtundation, vomiting, diarrhea, acidosis and shock [serum iron 6798 &#x000b5;g/dL], responding to fluids and deferroxamine infusions and recovering within 7 days, returning 6 weeks later with intestinal obstruction due to a jejunal stricture).</italic></p></annotation><pub-id pub-id-type="pmid">6625282</pub-id></mixed-citation>
+          </ref>
+          <ref id="Iron.R56">
+            <mixed-citation publication-type="journal">Henretig FM, Temple AR. Acute iron poisoning in children. Clin Lab Med 1984; 4: 575-86. <annotation><p><italic toggle="yes">(Review of acute iron toxicity, pathophysiology, clinical manifestations and management).</italic></p></annotation><pub-id pub-id-type="pmid">6148170</pub-id></mixed-citation>
+          </ref>
+          <ref id="Iron.R57">
+            <mixed-citation publication-type="journal">Foxford R, Goldfrank L. Gastrotomy--a surgical approach to iron overdose. Ann Emerg Med 1985; 14: 1223-6. <annotation><p><italic toggle="yes">(19 year old man took an overdose of ferrous sulfate and acetaminophen [12 g] and was treated with ipecac one hour later, an x-ray showing a radio-opaque mass in the stomach that did not decrease with gastric lavage and led to gastrotomy and manual removal of the tablets, after which he recovered uneventfully with normal serum ALT levels).</italic></p></annotation><pub-id pub-id-type="pmid">4061998</pub-id></mixed-citation>
+          </ref>
+          <ref id="Iron.R58">
+            <mixed-citation publication-type="journal">Tenenbein M. Whole bowel irrigation for toxic ingestions. J Toxicol Clin Toxicol 1985; 23(2-3): 177-84. <annotation><p><italic toggle="yes">(Description of outcome in 8 children with accidental poisonings [2 with iron] who were treated with whole bowel irrigation using large-bore nasogastric tube flush and infusion until rectal effluent was clear [2-21 L over 3-24 hours]).</italic></p></annotation><pub-id pub-id-type="pmid">4057311</pub-id></mixed-citation>
+          </ref>
+          <ref id="Iron.R59">
+            <mixed-citation publication-type="journal">Proudfoot AT, Simpson D, Dyson EH. Management of acute iron poisoning. Med Toxicol 1986; 1: 83-100. <annotation><p><italic toggle="yes">(Extensive review of the clinical features of iron poisoning, its pathophysiology, diagnosis, assessment of severity and management).</italic></p></annotation><pub-id pub-id-type="pmid">3784842</pub-id></mixed-citation>
+          </ref>
+          <ref id="Iron.R60">
+            <mixed-citation publication-type="journal">Banner W Jr, Tong TG. Iron poisoning. Pediatr Clin North Am 1986; 33: 393-409. <annotation><p><italic toggle="yes">(Review of the clinical manifestations, diagnosis, assessment and treatment of iron poisoning in children discussing the use of serum iron levels and clinical symptoms to guide therapy, including oral and intravenous deferoxamine chelation).</italic></p></annotation><pub-id pub-id-type="pmid">2870463</pub-id></mixed-citation>
+          </ref>
+          <ref id="Iron.R61">
+            <mixed-citation publication-type="journal">Landsman I, Bricker JT, Reid BS, Bloss RS. Emergency gastrotomy: treatment of choice for iron bezoar. J Pediatr Surg 1987; 22: 184-5. <annotation><p><italic toggle="yes">(23 month old girl developed lethargy after taking ~60 enteric coated ferrous sulfate tablets [serum iron 352 &#x000b5;g/dL] and was found to have an iron bezoar in the stomach which was removed surgically and she recovered uneventfully, without further evidence of iron toxicity).</italic></p></annotation><pub-id pub-id-type="pmid">3820024</pub-id></mixed-citation>
+          </ref>
+          <ref id="Iron.R62">
+            <mixed-citation publication-type="journal">Wiseman HM, Guest K, Murray VS, Volans GN. Accidental poisoning in childhood: a multicentre survey. 1. General epidemiology. Hum Toxicol 1987; 6: 293-301. <annotation><p><italic toggle="yes">(Prospective study from 14 centers identified 2043 accidental poisonings in children [0-5 years] over a 2 year period, including 1212 [59%] due to drugs and 25 attributed to iron, but none were admitted to an intensive care unit and none died).</italic></p></annotation><pub-id pub-id-type="pmid">3623575</pub-id></mixed-citation>
+          </ref>
+          <ref id="Iron.R63">
+            <mixed-citation publication-type="journal">Wiseman HM, Guest K, Murray VS, Volans GN. Accidental poisoning in childhood: a multicentre survey. 2. The role of packaging in accidents involving medications. Hum Toxicol 1987; 6: 303-14. <annotation><p><italic toggle="yes">(Survey of poisoned children and matched controls found child-resistant containers and blister packs to be significantly associated with a lower risk of accidental poisoning, but iron was not specifically discussed).</italic></p></annotation><pub-id pub-id-type="pmid">3623576</pub-id></mixed-citation>
+          </ref>
+          <ref id="Iron.R64">
+            <mixed-citation publication-type="journal">Dean BS, Krenzelok EP. Multiple vitamins and vitamins with iron: accidental poisoning in children. Vet Hum Toxicol 1988; 30: 23-5. <annotation><p><italic toggle="yes">(Review of 275 cases of an overdose with pediatric vitamin and mineral supplements [iron ingestion of 0.9 to 77.5 mg/kg] found that no child required admission or had evidence of significant iron toxicity, and 90% were managed at home).</italic></p></annotation><pub-id pub-id-type="pmid">3354178</pub-id></mixed-citation>
+          </ref>
+          <ref id="Iron.R65">
+            <mixed-citation publication-type="journal">Mueller PD, Benowitz NL. Toxicologic causes of acute abdominal disorders. Emerg Med Clin North Am 1989; 7: 667-82. <annotation><p><italic toggle="yes">(Review of gastrointestinal toxicity of agents including iron, mercury and copper).</italic></p></annotation><pub-id pub-id-type="pmid">2663462</pub-id></mixed-citation>
+          </ref>
+          <ref id="Iron.R66">
+            <mixed-citation publication-type="journal">Everson GW, Oudjhane K, Young LW, Krenzelok EP. Effectiveness of abdominal radiographs in visualizing chewable iron supplements following overdose. Am J Emerg Med 1989; 7: 459-63. <annotation><p><italic toggle="yes">(Retrospective analysis of abdominal x-rays done on 30 children after overdose of chewable pediatric iron supplements found radioopaque material in only one case, despite experiments showing that the tablets were opaque when dispersed in water).</italic></p></annotation><pub-id pub-id-type="pmid">2757710</pub-id></mixed-citation>
+          </ref>
+          <ref id="Iron.R67">
+            <mixed-citation publication-type="journal">Schauben JL, Augenstein WL, Cox J, Sato R. Iron poisoning: report of three cases and a review of therapeutic intervention. J Emerg Med 1990; 8: 309-19. <annotation><p><italic toggle="yes">(3 cases, two toddlers with accidental overdose and an 18 year old pregnant woman with suicidal overdose of ferrous sulfate [serum iron on admission 82, 320 and 289 &#x003bc;g/dL] were treated with deferoxamine and gastric lavage and whole bowel irrigation, with recovery in all three; the pregnant woman delivering a normal child 14 weeks later).</italic></p></annotation><pub-id pub-id-type="pmid">2197323</pub-id></mixed-citation>
+          </ref>
+          <ref id="Iron.R68">
+            <mixed-citation publication-type="journal">Tennebein M, Wiseman N, Yatscoff RW. Gastrotomy and whole bowel irrigation in iron poisoning. Pediatr Emerg Care 1991; 7: 286-8. <annotation><p><italic toggle="yes">(13 year old girl took an overdose of ferrous sulfate, was seen 3 hours later with x-rays showing at least 50 tablets in the stomach [serum iron 320 &#x003bc;g/dL], and underwent whole bowel irrigation, gastrotomy and deferoxamine therapy).</italic></p></annotation><pub-id pub-id-type="pmid">1754488</pub-id></mixed-citation>
+          </ref>
+          <ref id="Iron.R69">
+            <mixed-citation publication-type="journal">Litovitz T, Manoguerra A. Comparison of pediatric poisoning hazards: an analysis of 3.8 million exposure incidents. A report from the American Association of Poison Control Centers. Pediatrics 1992; 89 (6 Pt 1): 999-1006. <annotation><p><italic toggle="yes">(Among 3.8 million poison exposures in children [&#x0003c;6 years] reported to poison centers from 1985 to 1987, 2117 had a major clinical outcome and 14 died: "Iron supplements were the single most frequent cause of pediatric unintentional ingestion fatalities, accounting for 30.2%" of cases due to pharmaceutical ingestions).</italic></p></annotation><pub-id pub-id-type="pmid">1594365</pub-id></mixed-citation>
+          </ref>
+          <ref id="Iron.R70">
+            <mixed-citation publication-type="journal">Lacoste H, Goyert GL, Goldman LS, Wright DJ, Schwartz DB. Acute iron intoxication in pregnancy: case report and review of the literature. Obstet Gynecol 1992; 80 (3 Pt 2): 500-1. <annotation><p><italic toggle="yes">(17 year old pregnant female [27 weeks gestation] developed abdominal pain, nausea and vomiting shortly after ingesting 50 ferrous sulfate tablets [serum iron 413 &#x003bc;g/dL] and recovered with deferoxamine therapy within 2 days and delivered a healthy child 10 weeks later).</italic></p></annotation><pub-id pub-id-type="pmid">1495721</pub-id></mixed-citation>
+          </ref>
+          <ref id="Iron.R71">
+            <mixed-citation publication-type="journal">Chyka PA, Butler AY. Assessment of acute iron poisoning by laboratory and clinical observations. Am J Emerg Med 1993; 11: 99-103. <annotation><p><italic toggle="yes">(Among 65 children with iron poisoning seen at a single referral hospital over a 16 year period who had serum iron testing done within 1-6 hours of ingestion, serum iron levels ranged from 200-1,500 &#x003bc;g/dL and severity and outcome correlated poorly with initial levels, except coma being more frequent with levels &#x0003e;500 &#x003bc;g/dL).</italic></p></annotation><pub-id pub-id-type="pmid">8476468</pub-id></mixed-citation>
+          </ref>
+          <ref id="Iron.R72">
+            <mixed-citation publication-type="journal">Anderson AC. Iron poisoning in children. Curr Opin Pediatr 1994; 6: 289-94. <annotation><p><italic toggle="yes">(Review of assessment and management of acute iron poisoning in children with discussion of dose, clinical presentation and treatment, including induction of vomiting, gastric lavage, whole bowel irrigation, gastrotomy and deferoxamine).</italic></p></annotation><pub-id pub-id-type="pmid">7914796</pub-id></mixed-citation>
+          </ref>
+          <ref id="Iron.R73">
+            <mixed-citation publication-type="journal">Kozaki K, Egawa H, Garcia-Kennedy R, Cox KL, Lindsay J, Esquivel CO. Hepatic failure due to massive iron ingestion successfully treated with liver transplantation. Clin Transplant 1995; 9: 85-7. <annotation><p><italic toggle="yes">(3 year old girl swallowed an unknown number of sugar coated ferrous sulfate tablets and developed vomiting and lethargy [serum iron 21,680 &#x003bc;g/dL], was treated with gastric lavage and deferoxamine, but developed worsening hypotension, acidosis, coma, renal and hepatic failure [ALT 7330 U/L, bilirubin 20.4 mg/dL], undergoing liver transplantation on day 5 with excellent recovery; explant showed massive necrosis).</italic></p></annotation><pub-id pub-id-type="pmid">7599407</pub-id></mixed-citation>
+          </ref>
+          <ref id="Iron.R74">
+            <mixed-citation publication-type="journal">Cheney K, Gumbiner C, Benson B, Tenenbein M. Survival after a severe iron poisoning treated with intermittent infusions of deferoxamine. J Toxicol Clin Toxicol 1995; 33: 61-6. <annotation><p><italic toggle="yes">(22 month old boy ingested ~18 g of ferrous sulfate and developed coma, acidosis, cardiogenic shock, coagulopathy and liver failure [bilirubin rising from 1.7 at admission to 14.8 mg/dL at 48 hours, ALT &#x0003c;3 to 2843, Alk P 312 to 248 U/L], eventually resolving with deferoxamine therapy, but found to have pyloric stenosis during recovery).</italic></p></annotation><pub-id pub-id-type="pmid">7837315</pub-id></mixed-citation>
+          </ref>
+          <ref id="Iron.R75">
+            <mixed-citation publication-type="journal">Chyka PA, Butler AY, Holley JE. Serum iron concentrations and symptoms of acute iron poisoning in children. Pharmacotherapy 1996; 16: 1053-8. <annotation><p><italic toggle="yes">(Among 92 children with acute iron ingestion seen at a single referral center over a 16 year period, initial serum iron levels correlated poorly with subsequent clinical severity of poisoning, with considerable overlap in values of those with and without cardiac instability).</italic></p></annotation><pub-id pub-id-type="pmid">8947978</pub-id></mixed-citation>
+          </ref>
+          <ref id="Iron.R76">
+            <mixed-citation publication-type="journal">Howland MA. Risks of parenteral deferoxamine for acute iron poisoning. J Toxicol Clin Toxicol 1996; 34: 491-7. <annotation><p><italic toggle="yes">(Review of literature on adverse events attributed to deferoxamine therapy mostly in treatment of chronic iron overload, focused upon hypotension, pulmonary, ocular and otic toxicity and infections; no mention of hepatic injury).</italic></p></annotation><pub-id pub-id-type="pmid">8800186</pub-id></mixed-citation>
+          </ref>
+          <ref id="Iron.R77">
+            <mixed-citation publication-type="journal">Morse SB, Hardwick WE Jr, King WD. Fatal iron intoxication in an infant. South Med J 1997; 90: 1043-7. <annotation><p><italic toggle="yes">(13 month old boy was brought to hospital with respiratory failure, metabolic acidosis and gastrointestinal bleeding [serum iron 5939 &#x003bc;g/dL], with subsequent shock and death within 13 hours of presentation).</italic></p></annotation><pub-id pub-id-type="pmid">9347819</pub-id></mixed-citation>
+          </ref>
+          <ref id="Iron.R78">
+            <mixed-citation publication-type="journal">Pestaner JP, Ishak KG, Mullick FG, Centeno JA. Ferrous sulfate toxicity: a review of autopsy findings. Biol Trace Elem Res 1999; 69: 191-8. <annotation><p><italic toggle="yes">(Review of autopsies from the Armed Forces Institute of Pathology of 11 children [5 boys, 6 girls, ages 11 to 36 months] who died of acute iron poisoning within 6-42 hours of ingestion; all had stomach or intestinal involvement and 5 had liver involvement marked by periportal(zone 1) necrosis with coagulative degeneration, cytoplasmic eosinophilia, variable dropout, mild-to-moderate iron staining of necrotic hepatocytes: "The damage to liver cells is probably related to direct toxicity by the metal").</italic></p></annotation><pub-id pub-id-type="pmid">10468156</pub-id></mixed-citation>
+          </ref>
+          <ref id="Iron.R79">
+            <mixed-citation publication-type="journal">Morris CC. Pediatric iron poisonings in the United States. South Med J 2000; 93: 352-8. <annotation><p><italic toggle="yes">(Analysis of pediatric iron poisoning reported between 1980 and 1996 in the US showed a rise from 820 in 1980 to a peak of 2930 cases in 1989 and falling then to 2370 in 1996, with average number of deaths increasing from 2.7 to 6.3 despite use of child-resistant containers, which were sometimes left open, or were opened by other children or by the ingestee).</italic></p></annotation><pub-id pub-id-type="pmid">10798501</pub-id></mixed-citation>
+          </ref>
+          <ref id="Iron.R80">
+            <mixed-citation publication-type="journal">Maclachlan D, Tyndall A. Acute hepatitis in adult Still's disease apparently resulting from oral iron substitution--a case report. Clin Rheumatol 2000; 19: 222-5. <annotation><p><italic toggle="yes">(22 year old woman with adult onset Still disease had marked ALT elevation [1589 U/L] one day after starting ferrous fumarate [300 mg twice daily], which fell to baseline within 10 days of stopping; she also received indomethacin and methylprednisolone).</italic></p></annotation><pub-id pub-id-type="pmid">10870659</pub-id></mixed-citation>
+          </ref>
+          <ref id="Iron.R81">
+            <mixed-citation publication-type="journal">Tenenbein M. Hepatotoxicity in acute iron poisoning. J Toxicol Clin Toxicol 2001; 39: 721-6. <annotation><p><italic toggle="yes">(Review of clinical features, animal studies, mechanism of injury and therapy of acute iron toxicity).</italic></p></annotation><pub-id pub-id-type="pmid">11778670</pub-id></mixed-citation>
+          </ref>
+          <ref id="Iron.R82">
+            <mixed-citation publication-type="journal">Black J, Zenel JA. Child abuse by intentional iron poisoning presenting as shock and persistent acidosis. Pediatrics 2003; 111: 197-9. <annotation><p><italic toggle="yes">(7 week old male infant was admitted with unexplained metabolic acidosis [ALT 1555 U/L, Alk P 551 U/L] and was found to have elevated iron levels [308 &#x003bc;g/dL], mother later admitting to physical abuse and feeding infant crushed iron tablets).</italic></p></annotation><pub-id pub-id-type="pmid">12509576</pub-id></mixed-citation>
+          </ref>
+          <ref id="Iron.R83">
+            <mixed-citation publication-type="journal">Velez LI, Gracia R, Mills LD, Shepherd G, Feng SY. Iron bezoar retained in colon despite 3 days of whole bowel irrigation. J Toxicol Clin Toxicol 2004; 42: 653-6. <annotation><p><italic toggle="yes">(16 month old boy swallowed an unknown number of ferrous sulfate tablets, developed vomiting 18 hours later [serum iron 429 &#x003bc;g/dL] and had multiple opaque tablets in stomach and intestines by x-ray; he was treated with whole bowel irrigation until effluent was clear, but still had a colonic bezoar that was passed only after resumption of a normal diet).</italic></p></annotation><pub-id pub-id-type="pmid">15462159</pub-id></mixed-citation>
+          </ref>
+          <ref id="Iron.R84">
+            <mixed-citation publication-type="journal">Robertson A, Tenenbein M. Hepatotoxicity in acute iron poisoning. Hum Exp Toxicol 2005; 24: 559-62. <annotation><p><italic toggle="yes">(Retrospective analysis all patients admitted with iron poisoning [serum iron &#x0003e;300 &#x000b5;g/dL] to a single Canadian referral center over a 20 year period identified 73 cases, only 13 of which had hepatotoxicity which was severe in 9 [15%] and fatal in 4; all severe cases had serum iron levels &#x0003e;1000 &#x003bc;g/dL on admission compared to levels of &#x0003c;704 &#x000b5;g/dL in those without liver injury; no mention of bilirubin or INR levels).</italic></p></annotation><pub-id pub-id-type="pmid">16323571</pub-id></mixed-citation>
+          </ref>
+          <ref id="Iron.R85">
+            <mixed-citation publication-type="journal">Wood DM, Thomson AH, Lawes M, Jones AL, Dargan PI. Hepatocellular damage following therapeutic intravenous iron sucrose infusion in a child. Ther Drug Monit 2005; 27: 405-8. <annotation><p><italic toggle="yes">(3 year old boy with refractory iron deficiency anemia developed iron poisoning at end of an infusion of iron sucrose [242 mg iv over 3 hours], with abdominal pain, nausea, vomiting and ALT rise to 810 U/L [13 hours after], resolving rapidly).</italic></p></annotation><pub-id pub-id-type="pmid">16044093</pub-id></mixed-citation>
+          </ref>
+          <ref id="Iron.R86">
+            <mixed-citation publication-type="journal">Daram SR, Hayashi PH. Acute liver failure due to iron overdose in an adult. South Med J 2005; 98: 241-4. <annotation><p><italic toggle="yes">(18 year old woman took an overdose of ferrous sulfate [100 tablets, ~30 g] and rapidly developed nausea, vomiting, abdominal pain and diarrhea [serum iron 340 &#x003bc;g/dL], with abnormal liver tests starting on day 2 [bilirubin 3.1 mg/dL, ALT rising to 4048 U/L, Alk P 87 U/L, INR 5.0], resolving within 1 week: Case 1).</italic></p></annotation><pub-id pub-id-type="pmid">15759960</pub-id></mixed-citation>
+          </ref>
+          <ref id="Iron.R87">
+            <mixed-citation publication-type="journal">Madiwale T, Liebelt E. Iron: not a benign therapeutic drug. Curr Opin Pediatr 2006; 18: 174-9. <annotation><p><italic toggle="yes">(Review of pathophysiology, clinical presentation, diagnosis and management of acute iron poisoning in children).</italic></p></annotation><pub-id pub-id-type="pmid">16601499</pub-id></mixed-citation>
+          </ref>
+          <ref id="Iron.R88">
+            <mixed-citation publication-type="journal">Tenenbein M. Unit-dose packaging of iron supplements and reduction of iron poisoning in young children. Arch Pediatr Adolesc Med 2005; 159: 557-60. <annotation><p><italic toggle="yes">(Analysis of reports of iron poisoning in children &#x0003c;6 years old in the US between 1988 and 2002 demonstrated a significant decrease in reports between the first 10 year period [1988-97: 2.91 per 1000 calls with 29 deaths] and the subsequent 5 years [1998-2000: 1.91 per 1000 calls with only 1 death], coinciding with the FDA requirement for unit dose packaging of iron tablets with more than 30 g of elemental iron).</italic></p></annotation><pub-id pub-id-type="pmid">15939855</pub-id></mixed-citation>
+          </ref>
+          <ref id="Iron.R89">
+            <mixed-citation publication-type="journal">Haig A, Driman DK. Iron-induced mucosal injury to the upper gastrointestinal tract. Histopathology 2006; 48: 808-12. <annotation><p><italic toggle="yes">(25 instances of upper gastrointestinal mucosal injury due to iron, with erosive mucosal injury attributed to direct effect of the oral iron).</italic></p></annotation><pub-id pub-id-type="pmid">16722929</pub-id></mixed-citation>
+          </ref>
+          <ref id="Iron.R90">
+            <mixed-citation publication-type="journal">Skoczynska A, Kwiecinska D, Kielbinski M, Lukaszewski M. Acute iron poisoning in adult female. Hum Exp Toxicol 2007; 26: 663-6. <annotation><p><italic toggle="yes">(27 year old woman with sideroblastic anemia received both oral and parenteral iron [~4 g orally and 0.7 g im and iv] and developed nausea, vomiting, diarrhea followed by hypotension with respiratory, renal and hepatic failure, resolving slowly with supportive and deferoxamine therapy).</italic></p></annotation><pub-id pub-id-type="pmid">17884954</pub-id></mixed-citation>
+          </ref>
+          <ref id="Iron.R91">
+            <mixed-citation publication-type="journal">Ng HW, Tse ML, Lau FL, Chu W. Endoscopic removal of iron bezoar following acute overdose. Clin Toxicol (Phila) 2008; 46: 913-5. <annotation><p><italic toggle="yes">(45 year old woman took an overdose of iron sulfate [~100 tablets] and developed nausea, vomiting and diarrhea and hypotension and was found to have a gastric bezoar of iron tablets which was removed endoscopically, whereupon she recovered).</italic></p></annotation><pub-id pub-id-type="pmid">18608283</pub-id></mixed-citation>
+          </ref>
+          <ref id="Iron.R92">
+            <mixed-citation publication-type="journal">Toledano M, Kozer E, Goldstein LH, Abu-Kishk I, Bar-Haim A, Siman-Tov Y, Rechavi M, et al. Hepcidin in acute iron toxicity. Am J Emerg Med 2009; 27: 761-4. <annotation><p><italic toggle="yes">(Study in rats showing that serum iron and hepcidin levels increase with large oral iron ingestion).</italic></p></annotation><pub-id pub-id-type="pmid">19683100</pub-id></mixed-citation>
+          </ref>
+          <ref id="Iron.R93">
+            <mixed-citation publication-type="journal">Chang TP, Rangan C. Iron poisoning: a literature-based review of epidemiology, diagnosis, and management. Pediatr Emerg Care 2011; 27: 978-85. <annotation><p><italic toggle="yes">(Review of iron poisoning including incidence, effects of unit dose packaging, formulations, pathophysiology of injury, clinical course and stages, diagnostic testing, and treatments such as gastric lavage, whole bowel irrigation, and oral and iv chelation with deferoxamine).</italic></p></annotation><pub-id pub-id-type="pmid">21975503</pub-id></mixed-citation>
+          </ref>
+          <ref id="Iron.R94">
+            <mixed-citation publication-type="journal">Audimoolam VK, Wendon J, Bernal W, Heaton N, O'Grady J, Auzinger G. Iron and acetaminophen a fatal combination? Transpl Int 2011; 24: e85-8. <annotation><p><italic toggle="yes">(3 cases of overdose with multiple agents, including iron in 3 and acetaminophen in 2 which were followed by severe and complicated acute liver failure [AST 1,334-11,555 U/L, iron 394, 1202 and 915 &#x003bc;g/dL], 1 patient dying and 2 undergoing liver transplantation, but then dying of postoperative opportunistic infections).</italic></p></annotation><pub-id pub-id-type="pmid">21883506</pub-id></mixed-citation>
+          </ref>
+          <ref id="Iron.R95">
+            <mixed-citation publication-type="journal">B&#x000f8;g S, H&#x000f8;g LC, Dalhoff KP, Mortensen OS. Status and trends in poisonings in Denmark 2007-2009. Dan Med Bull 2011; 58: A4268. <annotation><p><italic toggle="yes">(Over a 3 year period, there were 37,205 reports to Danish poisoning centers, of which 57 [0.15%] were attributed to iron and there was a 3 fold increase in these cases over the 3 year period).</italic></p></annotation><pub-id pub-id-type="pmid">21535985</pub-id></mixed-citation>
+          </ref>
+          <ref id="Iron.R96">
+            <mixed-citation publication-type="journal">Griffith EA, Fallgatter KC, Tantama SS, Tanen DA, Matteucci MJ. Effect of deferasirox on iron absorption in a randomized, placebo-controlled, crossover study in a human model of acute supratherapeutic iron ingestion. Ann Emerg Med 2011; 58: 69-73. <annotation><p><italic toggle="yes">(Study in 8 healthy volunteers, showed that oral deferasirox decreases iron absorption if administered within 1 hour of taking a standard dose of oral ferrous sulfate).</italic></p></annotation><pub-id pub-id-type="pmid">21288598</pub-id></mixed-citation>
+          </ref>
+          <ref id="Iron.R97">
+            <mixed-citation publication-type="journal">Diaz M, Cabrerizo S, Docampo PC. [Ferrous sulfate: acute poisoning with a frequent use drug]. Arch Argent Pediatr 2011; 109: 1-3. Spanish. <annotation><p><italic toggle="yes">(4 year old boy swallowed 30 ferrous sulfate tablets, developed nausea, vomiting and lethargy [serum iron 353 &#x003bc;g/dL], followed by acidosis, but recovered with deferoxamine therapy, ALT remaining normal throughout).</italic></p></annotation><pub-id pub-id-type="pmid">21283930</pub-id></mixed-citation>
+          </ref>
+          <ref id="Iron.R98">
+            <mixed-citation publication-type="journal">Jayashree M, Singhi S. Changing trends and predictors of outcome in patients with acute poisoning admitted to the intensive care. J Trop Pediatr 2011 Oct; 57: 340-6. <annotation><p><italic toggle="yes">(Among 225 children admitted for [largely accidental] poisoning to a single pediatric intensive care unit in a referral hospital in India over a 16 year period, 27 [12%] were for iron poisoning, which accounted for 5 of the 20 deaths).</italic></p></annotation><pub-id pub-id-type="pmid">20978013</pub-id></mixed-citation>
+          </ref>
+          <ref id="Iron.R99">
+            <mixed-citation publication-type="journal">Magdalan J, Zawadzki M, Sozanski T. Fulminant hepatic failure in woman with iron and non-steroidal anti-inflammatory drug intoxication. Hum Exp Toxicol 2011; 30: 1106-11. <annotation><p><italic toggle="yes">(17 year old girl took 50 tablets of iron sulfate, 15 of naproxen and 5 of ibuprofen in a suicide attempt, developed nausea, vomiting and diarrhea [iron 2351 &#x003bc;g/dL], was treated with deferoxamine, liver tests becoming abnormal on day 2 [bilirubin 9.3 mg/dL, ALT 12,538 U/L, INR 6.03], with subsequent shock, coagulopathy, respiratory and renal failure and death at 80 hours after ingestion).</italic></p></annotation><pub-id pub-id-type="pmid">20952452</pub-id></mixed-citation>
+          </ref>
+          <ref id="Iron.R100">
+            <mixed-citation publication-type="journal">Bronstein AC, Spyker DA, Cantilena LR Jr, Rumack BH, Dart RC. 2011 Annual report of the American Association of Poison Control Centers' National Poison Data System (NPDS): 29th Annual Report. Clin Toxicol (Phila) 2012; 50: 911-1164. <annotation><p><italic toggle="yes">(Annual review of reports of poisoning in the US).</italic></p></annotation><pub-id pub-id-type="pmid">23272763</pub-id></mixed-citation>
+          </ref>
+          <ref id="Iron.R101">
+            <mixed-citation publication-type="journal">Gumber MR, Kute VB, Shah PR, Vanikar AV, Patel HV, Balwani MR, Ghuge PP, Trivedi HL. Successful treatment of severe iron intoxication with gastrointestinal decontamination, deferoxamine, and hemodialysis. Ren Fail 2013; 35: 729-31. <annotation><p><italic toggle="yes">(18 year old woman took 50 tablets of iron sulfate, developed nausea and vomiting followed by lethargy and acidosis [serum iron 2150 &#x003bc;g/dL], was treated with whole bowel irrigation, deferoxamine and hemodialysis and recovered).</italic></p></annotation><pub-id pub-id-type="pmid">23635030</pub-id></mixed-citation>
+          </ref>
+          <ref id="Iron.R102">
+            <mixed-citation publication-type="journal">Sankar J, Shukla A, Khurana R, Dubey N. Near fatal iron intoxication managed conservatively. BMJ Case Rep 2013 Jan 31; 2013. <annotation><p><italic toggle="yes">(10 month old girl swallowed 10 iron tablets and presented 3 hours later with nausea, vomiting and dehydration [serum iron 360 &#x003bc;g/dL]; she was treated with whole bowel irrigation and deferoxamine and recovered within 3 days). </italic></p></annotation><pub-id pub-id-type="pmid">23376661</pub-id></mixed-citation>
+          </ref>
+          <ref id="Iron.R103">
+            <mixed-citation publication-type="journal">Bj&#x000f6;rnsson ES, Bergmann OM, Bj&#x000f6;rnsson HK, Kvaran RB, Olafsson S. Incidence, presentation and outcomes in patients with drug-induced liver injury in the general population of Iceland. Gastroenterology 2013; 144: 1419-25. <annotation><p><italic toggle="yes">(In a population based study of drug induced liver injury from Iceland, 96 cases were identified over a 2 year period, but none were attributed to iron).</italic></p></annotation><pub-id pub-id-type="pmid">23419359</pub-id></mixed-citation>
+          </ref>
+          <ref id="Iron.R104">
+            <mixed-citation publication-type="journal">Hern&#x000e1;ndez N, Bessone F, S&#x000e1;nchez A, di Pace M, Brahm J, Zapata R, A Chirino R, et al. Profile of idiosyncratic drug induced liver injury in Latin America. An analysis of published reports. Ann Hepatol 2014; 13: 231-9. <annotation><p><italic toggle="yes"> (Systematic review of literature of drug induced liver injury in Latin American countries published from 1996 to 2012 identified 176 cases, none of which were attributed to iron).</italic></p></annotation><pub-id pub-id-type="pmid">24552865</pub-id></mixed-citation>
+          </ref>
+          <ref id="Iron.R105">
+            <mixed-citation publication-type="journal">Chalasani N, Bonkovsky HL, Fontana R, Lee W, Stolz A, Talwalkar J, Reddy KR, et al.; United States Drug Induced Liver Injury Network. Features and outcomes of 899 patients with drug-induced liver injury: The DILIN Prospective Study. Gastroenterology 2015; 148: 1340-52.e7. <annotation><p><italic toggle="yes">(Among 899 cases of drug induced liver injury enrolled in a US prospective study between 2004 and 2013, none of which were attributed to iron, given chronically or as an acute overdose).</italic></p></annotation><pub-id pub-id-type="pmid">25754159</pub-id></mixed-citation>
+          </ref>
+          <ref id="Iron.R106">
+            <mixed-citation publication-type="journal">Stockwell BR, Friedmann Angeli JP, Bayir H, Bush AI, Conrad M, Dixon SJ, Fulda S, Get ak. Ferroptosis: a regulated cell death nexus linking metabolism, redox biology, and disease. Cell 2017; 171: 273-85. <annotation><p><italic toggle="yes">(Review of the molecular pathways involved in ferroptosis, a form of regulated cell death that involves iron and glutathione metabolism).</italic></p></annotation><pub-id pub-id-type="pmid">28985560</pub-id></mixed-citation>
+          </ref>
+          <ref id="Iron.R107">
+            <mixed-citation publication-type="journal">Devarbhavi H, Patil M, Reddy VV, Singh R, Joseph T, Ganga D. Drug-induced acute liver failure in children and adults: Results of a single-centre study of 128 patients. Liver Int 2017 Dec 9. [Epub ahead of print]. <annotation><p><italic toggle="yes"> (Among 128 cases of acute, drug induced liver failure enrolled in a prospective study in Bangalore, India, most cases were due to antituberculosis medications, but 2 were due to intentional overdose with ferrous sulfate, 1 of which was fatal).</italic></p></annotation><pub-id pub-id-type="pmid">29222960</pub-id></mixed-citation>
+          </ref>
+          <ref id="Iron.R108">
+            <mixed-citation publication-type="journal">Lands R, Isang E. Secondary Hemochromatosis due to chronic oral iron supplementation. Case Rep Hematol 2017; 2017: 2494167. <annotation><p><italic toggle="yes">(78 year old woman who had taken 1-3 tablets of ferrous sulfate for 30 years was found to have high serum ferritin levels [1379 ng/mL] and hepatic iron overload [6153 ug/g] despite absence of C282Y, H53D and S65C variants of HFE, with normal serum aminotransferase levels and no hepatic fibrosis).</italic></p></annotation><pub-id pub-id-type="pmid">28133557</pub-id></mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec id="Iron.OTHER_REFERENCE_LINKS" sec-type="link-group">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=(fluoxetine)+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D%3A%222999/12/31%22%5BEDat%5D)">Recent References on Iron: from PubMed.gov</ext-link>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=fluoxetine">Trials on Iron: from ClinicalTrials.gov</ext-link>
+            </p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

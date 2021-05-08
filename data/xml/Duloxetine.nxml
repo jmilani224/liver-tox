@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Duloxetine" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Duloxetine</book-part-id>
+      <title-group>
+        <title>Duloxetine</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>8</day>
+          <month>1</month>
+          <year>2018</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Dulaglutide" document-type="chapter">Dulaglutide</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Dupilumab" document-type="chapter">Dupilumab</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Duloxetine.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Duloxetine.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Duloxetine is a selective serotonin and norepinephrine reuptake inhibitor widely used as an antidepressant and for neuropathic pain. Duloxetine therapy can be associated with transient asymptomatic elevations in serum aminotransferase levels and has been linked to rare instances of clinically apparent acute liver injury.</p>
+        </sec>
+        <sec id="Duloxetine.Background">
+          <title>Background</title>
+          <p>Duloxetine is a selective serotonin and norepinephrine reuptake inhibitor (SNRI) that is used as an antidepressant and for neuropathic pain. By blocking the reuptake of serotonin and norepinephrine in CNS synaptic clefts, the brain levels of these neurotransmitters are increased, which is associated with an antidepressant effect. Duloxetine was approved for use in the United States in 2004 and is available in delayed release capsules of 20, 30 and 60 mg in multiple generic forms and under the brand name Cymbalta. Indications for duloxetine therapy include major depression, generalized anxiety disorders, fibromyalgia and neuropathic pain. The recommended dosage in adults is 40 to 60 mg daily, which can be raised to 120 mg daily based upon tolerance and clinical effects. Common side effects are drowsiness, dyspepsia, nausea, headache, increased sweating, increased appetite, weight gain, urinary retention and sexual dysfunction. Rare, but potentially severe adverse events include suicidal thoughts and behaviors, mania, postural hypotension, syncope and falls, serotonin syndrome, seizures, severe skin rash, hypersensitivity reactions, hyponatremia, and glaucoma.</p>
+        </sec>
+        <sec id="Duloxetine.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>Liver test abnormalities with ALT elevations above 3 times the upper limit of normal have been reported to occur in ~1% of patients on duloxetine, but elevations were usually self-limited and did not require dose modification or discontinuation. Rare instances of acute, clinically apparent episodes of liver injury with marked liver enzyme elevations with or without jaundice have been reported in patients on duloxetine. The onset of injury is usually within 1 to 6 months and the pattern of serum enzyme elevations is usually hepatocellular, but mixed and cholestatic forms have also been described. Fatal cases have been described but their relatedness to duloxetine has been quesitoned. Autoimmune (autoantibodies) and immunoallergic features (rash, fever, eosinophilia) are uncommon.</p>
+          <p>Likelihood score: B (likely cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Duloxetine.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The mechanism by which duloxetine causes liver injury is not known, but is likely due to a metabolic byproduct. Duloxetine is metabolized by the liver, mainly via the cytochrome P450 system (CYP1A2 and 2D6) and is susceptible to drug-drug interactions with agents that alter activity of those microsomal enzymes (such as cimetidine and rifampin).</p>
+        </sec>
+        <sec id="Duloxetine.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>The serum aminotransferase elevations that occur on duloxetine therapy are usually self-limited and do not require dose modification or discontinuation of therapy. Rare instances of acute liver failure and chronic hepatitis have been attributed to duloxetine therapy. Persons with intolerance to duloxetine may have similar reactions to other SNRIs and SSRIs and careful monitoring is warranted if other such agents are used.</p>
+          <p>Drug Class: <related-object source-id="livertox" document-id="Antidepressants">Antidepressant Agents</related-object></p>
+          <p>Other Drugs in the Subclass, SNRIs/SSRIs: <related-object source-id="livertox" document-id="CitalopramEscitalopr">Citalopram</related-object>, <related-object source-id="livertox" document-id="CitalopramEscitalopr">Escitalopram</related-object>, <related-object source-id="livertox" document-id="Fluoxetine">Fluoxetine</related-object>, <related-object source-id="livertox" document-id="Fluvoxamine">Fluvoxamine</related-object>, <related-object source-id="livertox" document-id="MilnacipranLevomilna">Levomilnacipran</related-object>, <related-object source-id="livertox" document-id="Paroxetine">Paroxetine</related-object>, <related-object source-id="livertox" document-id="Sertraline">Sertraline</related-object>, <related-object source-id="livertox" document-id="Venlafaxine">Venlafaxine</related-object>, <related-object source-id="livertox" document-id="Vilazodone">Vilazodone</related-object>, <related-object source-id="livertox" document-id="Vortioxetine">Vortioxetine</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Duloxetine.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <boxed-text position="anchor" id="Duloxetine.BPI" orientation="portrait">
+          <p>
+            <bold>REPRESENTATIVE TRADE NAMES</bold>
+          </p>
+          <p>Duloxetine &#x02013; Cymbalta&#x000ae;</p>
+          <p>
+            <bold>DRUG CLASS</bold>
+          </p>
+          <p>Antidepressant Agents</p>
+          <p>
+            <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=duloxetine">COMPLETE LABELING</ext-link>
+          </p>
+          <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+        </boxed-text>
+      </sec>
+      <sec id="Duloxetine.CHEMICAL_FORMULA_AND_STRUCTUR">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Duloxetine.T1" position="anchor" orientation="portrait">
+          <table>
+            <thead>
+              <tr>
+                <th id="hd_h_Duloxetine.T1_1_1_1_1" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Duloxetine.T1_1_1_1_2" rowspan="1" colspan="1">CAS REGISTRY NUMBER</th>
+                <th id="hd_h_Duloxetine.T1_1_1_1_3" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Duloxetine.T1_1_1_1_4" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Duloxetine.T1_1_1_1_1" rowspan="1" colspan="1">Duloxetine</td>
+                <td headers="hd_h_Duloxetine.T1_1_1_1_2" rowspan="1" colspan="1">
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135085912">116539-59-4</ext-link>
+                </td>
+                <td headers="hd_h_Duloxetine.T1_1_1_1_3" rowspan="1" colspan="1">C18-H19-N-O-S</td>
+                <td headers="hd_h_Duloxetine.T1_1_1_1_4" rowspan="1" colspan="1">
+                  <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Duloxetine.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait">
+                    <alt-text>Image of Duloxetine Chemical Structure</alt-text>
+                  </graphic>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Duloxetine.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 08 January 2018</p>
+        <ref-list id="Duloxetine.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Duloxetine.R1">
+            <mixed-citation publication-type="other">Zimmerman HJ. Antidepressants. In, Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999, pp. 493-8.<annotation><p><italic toggle="yes">(Expert review of hepatotoxicity published in 1999; duloxetine is not mentioned).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Duloxetine.R2">
+            <mixed-citation publication-type="other">Larrey D, Ripault MP. Hepatotoxicity of psychotropic drugs and drugs of abuse. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013, pp. 443-62.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of antidepressants mentions that post-marketing evaluation identified 58 potential cases of duloxetine hepatotoxicity using arising 2 to 8 weeks after starting therapy).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Duloxetine.R3">
+            <mixed-citation publication-type="other">O'Donnell JM, Shelton RC. Drug therapy of depression and anxiety disorders. In, Brunton LL, Chabner BA, Knollman BC, eds. Goodman &#x00026; Gilman&#x02019;s the pharmacological basis of therapeutics. 12th ed. New York: McGraw-Hill, 2011, pp. 396-415.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Duloxetine.R4">
+            <mixed-citation publication-type="journal">Mourilhe P, Stokes PE. Risks and benefits of selective serotonin reuptake inhibitors in the treatment of depression. Drug Saf 1998; 18: 57-82. <annotation><p><italic toggle="yes">(Review of pharmacology, efficacy and safety of SSRIs before the availability of duloxetine; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">9466088</pub-id></mixed-citation>
+          </ref>
+          <ref id="Duloxetine.R5">
+            <mixed-citation publication-type="journal">Grohmann R, R&#x000fc;ther E, Engel RR, Hippius H. Assessment of adverse drug reactions in psychiatric inpatients with the AMSP drug safety program: methods and first results for tricyclic antidepressants and SSRI. Pharmacopsychiatry 1999; 32: 21-8. <annotation><p><italic toggle="yes">(Analysis of reporting of adverse events among inpatients in 29 German hospitals between 1993 to 1997; 896 severe adverse events among 48,564 patients [1.8%], both total and hepatic events were more common with tricyclics than SSRIs).</italic></p></annotation><pub-id pub-id-type="pmid">10071179</pub-id></mixed-citation>
+          </ref>
+          <ref id="Duloxetine.R6">
+            <mixed-citation publication-type="journal">Carvajal Garc&#x000ed;a-Pando A, Garc&#x000ed;a del Pozo J, S&#x000e1;nchez AS, Velasco MA, Rueda de Castro AM, Lucena MI.Hepatotoxicity associated with the new antidepressants. J Clin Psychiatry 2002; 63: 135-7. <annotation><p><italic toggle="yes">(Analysis of cases of hepatotoxicity from antidepressants in Spanish Pharmacovigilance System from 1989-1999, identified 99 cases; among SSRIs, 26 due to fluoxetine, 14 paroxetine, 6 fluvoxamine, 5 sertraline, 3 venlafaxine and 2 citalopram; among tricyclics, 16 clomipramine 7 amitriptyline, 6 imipramine; among miscellaneous, 3 nefazodone and 1 trazodone; but all similar in rate ~1-3 per 100,000 patient-years of exposure, except for nefazodone=29/100,000; analysis pre-dated the availability of duloxetine).</italic></p></annotation><pub-id pub-id-type="pmid">11874214</pub-id></mixed-citation>
+          </ref>
+          <ref id="Duloxetine.R7">
+            <mixed-citation publication-type="journal">Lucena M, Carvajal A, Andrade R, Velasco A. Antidepressant-induced hepatotoxicity. Expert Opin Drug Saf 2003; 2: 249-62. <annotation><p><italic toggle="yes">(Review of hepatotoxicity of antidepressants; antidepressant use has increased markedly between 1992 and 2002, accounting for 5% of cases of hepatotoxicity; SSRIs are less likely to cause injury than tricyclics and MAO inhibitors; range of presentations, typically self-limited and rapid recovery; no hallmarks of hypersensitivity; duloxetine not discussed).</italic></p></annotation><pub-id pub-id-type="pmid">12904104</pub-id></mixed-citation>
+          </ref>
+          <ref id="Duloxetine.R8">
+            <mixed-citation publication-type="journal">Spigset O, H&#x000e4;gg S, Bate A. Hepatic injury and pancreatitis during treatment with serotonin reuptake inhibitors: data from the World Health Organization (WHO) database of adverse drug reactions. Int Clin Psychopharmacol 2003; 18:157-61. <annotation><p><italic toggle="yes">(Among 27,542 reports of hepatic injury in WHO database, 786 were attributed to SSRIs [3%], including citalopram 42, fluoxetine 222, fluvoxamine 54, paroxetine 191, sertraline 112, nefazodone 91 and venlafaxine 74; only nefazodone had an excess of hepatic reports in relationship to total reports; duloxetine was not discussed as it was first marketed in 2004).</italic></p></annotation><pub-id pub-id-type="pmid">12702895</pub-id></mixed-citation>
+          </ref>
+          <ref id="Duloxetine.R9">
+            <mixed-citation publication-type="journal">Degner D, Grohmann R, Kropp S, R&#x000fc;ther E, Bender S, Engel RR, Schmidt LG. Severe adverse drug reactions of antidepressants: results of the German multicenter drug surveillance program AMSP. Pharmacopsychiatry 2004; 37 Suppl 1: S39-45. <italic toggle="yes"> (</italic><annotation><p><italic toggle="yes">Analysis of adverse drug reactions reported from 1993-2000 in 35 psychiatric hospitals; 0.7% of SSRI recipients had a severe adverse event; hepatic in 0.05%).</italic></p></annotation><pub-id pub-id-type="pmid">15052513</pub-id></mixed-citation>
+          </ref>
+          <ref id="Duloxetine.R10">
+            <mixed-citation publication-type="journal">Hanje AJ, Pell LJ, Votolato NA, Frankel WL, Kirkpatrick RB. Case report: fulminant hepatic failure involving duloxetine hydrochloride. Clin Gastroenterol Hepatol 2006; 4: 912-7. <annotation><p><italic toggle="yes">(56 year old woman with non-Hodgkin lymphoma developed jaundice 1 year after starting duloxetine and 6 weeks after dose increase and addition of mirtazapine [bilirubin 9.9 rising to 18.8 mg/dL, AST 2477 U/L, Alk P 307 U/L, INR 2.8], with subsequent worsening and death from liver failure).</italic></p></annotation><pub-id pub-id-type="pmid">16797245</pub-id></mixed-citation>
+          </ref>
+          <ref id="Duloxetine.R11">
+            <mixed-citation publication-type="other">Pinzani V, Peyriere H, Hillaire-Buys D, Pageaux GP, Blayac BP, Larrey D. Specific serotonin recapture inhibitor(SSRI) antidepressants: hepatoxicity assessment in a large cohort in France. J Hepatol 2006; 44: S256.<annotation><p><italic toggle="yes">(Abstract: Analysis of French Pharmacovigilance data on SSRIs found 63 cases of hepatotoxicity from paroxetine, 45 fluoxetine, 30 citalopram, 18 sertraline, and 2 fluvoxamine; no mention of duloxetine).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Duloxetine.R12">
+            <mixed-citation publication-type="journal">Sabat&#x000e9; M, Ib&#x000e1;&#x000f1;ez L, P&#x000e9;rez E, Vidal X, Buti M, Xiol X, Mas A, et al. Risk of acute liver injury associated with the use of drugs: a multicentre population survey. Aliment Pharmacol Ther 2007; 25: 1401-9. <annotation><p><italic toggle="yes">(Among 126 cases of drug induced liver injury seen in Spain between 1993-2000, 3 were attributed to paroxetine and 3 to fluoxetine with a relative risk of injury to rate of use in the population of 3.0 and 1.8, respectively).</italic></p></annotation><pub-id pub-id-type="pmid">17539979</pub-id></mixed-citation>
+          </ref>
+          <ref id="Duloxetine.R13">
+            <mixed-citation publication-type="journal">DeSanty KP, Amabile CM. Antidepressant-induced liver injury. Ann Pharmacother 2007; 41: 1201-11. <annotation><p><italic toggle="yes"> (Review of drug induced liver injury and reports of injury from MAO inhibitors, SSRIs, tricyclics and atypical agents; mentions one case report of hepatotoxicity due to duloxetine complicated by concurrent use of mirtazapine [Hanje 2006]).</italic></p></annotation><pub-id pub-id-type="pmid">17609231</pub-id></mixed-citation>
+          </ref>
+          <ref id="Duloxetine.R14">
+            <mixed-citation publication-type="journal">Chalasani N, Fontana RJ, Bonkovsky HL, Watkins PB, Davern T, Serrano J, Yang H, Rochon J; Drug Induced Liver Injury Network (DILIN). Causes, clinical features, and outcomes from a prospective study of drug-induced liver injury in the United States. Gastroenterology 2008; 135: 1924-34. <annotation><p><italic toggle="yes">(Among 300 cases of drug induced liver disease in the US collected from 2004 to 2008, 6 were attributed to duloxetine, 3 to atomoxetine, 2 to fluoxetine, 2 to bupropion, and 1 to sertraline as single agents).</italic></p></annotation><pub-id pub-id-type="pmid">18955056</pub-id></mixed-citation>
+          </ref>
+          <ref id="Duloxetine.R15">
+            <mixed-citation publication-type="journal">Wernicke J, Pangallo B, Wang F, Murray I, Henck JW, Knadler MP, D'Souza DN, et al. Hepatic effects of duloxetine-I: non-clinical and clinical trial data. Curr Drug Saf 2008; 3: 132-42. <annotation><p><italic toggle="yes">(In animal studies, duloxetine showed no evidence of hepatocyte or mitochondrial toxicity; in clinical trials ALT levels above 3 times ULN occurred in ~1% of treated subjects; jaundice and ALT elevations occurred in 7/23,000 [.03%] on duloxetine vs 2/6000 [.03%] on placebo).</italic></p></annotation><pub-id pub-id-type="pmid">18690991</pub-id></mixed-citation>
+          </ref>
+          <ref id="Duloxetine.R16">
+            <mixed-citation publication-type="journal">Wernicke J, Acharya N, Strombom I, Gahimer JL, D'Souza DN, Dipietro N, Uetrecht JP. Hepatic Effects of Duloxetine-II: Spontaneous Reports and Epidemiology of Hepatic Events. Curr Drug Saf 2008; 3: 143-53. <annotation><p><italic toggle="yes">(Analysis of spontaneous reporting of hepatic adverse events between 2004 and 2005; 5 million persons received duloxetine for 1.5 million person-years of exposure; 406 hepatic events, 26 probable and 127 possible; 225 had enzyme elevations only, 37 severe hepatic injury, 9 hepatic failure and 12 deaths [but none from hepatic failure]; overall rate of hepatic events of .008%).</italic></p></annotation><pub-id pub-id-type="pmid">18690992</pub-id></mixed-citation>
+          </ref>
+          <ref id="Duloxetine.R17">
+            <mixed-citation publication-type="journal">Strombom I, Wernicke JF, Seeger J, D'Souza DN, Acharya N. Hepatic Effects of Duloxetine-III: Analysis of Hepatic Events Using External Data Sources. Curr Drug Saf 2008; 3: 154-62. <annotation><p><italic toggle="yes">(Analysis of two safety databases for hepatic adverse event reports on antidepressants; nefazodone had the highest signal in regards to disproportionality and incidence rate ratio followed by duloxetine, imipramine and amitriptyline among the antidepressants).</italic></p></annotation><pub-id pub-id-type="pmid">18690993</pub-id></mixed-citation>
+          </ref>
+          <ref id="Duloxetine.R18">
+            <mixed-citation publication-type="journal">McIntyre RS, Panjwani ZD, Nguyen HT, Woldeyohannes HO, Alsuwaidan M, Soczynska JK, Lourenco MT, et al. The hepatic safety profile of duloxetine: a review. Expert Opin Drug Metab Toxicol 2008; 4: 281-5. <annotation><p><italic toggle="yes">(FDA approved duloxetine in 2004 and then published a warning letter regarding hepatotoxicity in October 2005; ALT elevations above 3 times ULN occurred in 1% of duloxetine vs 0.3% placebo recipients; authors summarize single case report from Hanje and the analyses published by Wernicke [2008]).</italic></p></annotation><pub-id pub-id-type="pmid">18363543</pub-id></mixed-citation>
+          </ref>
+          <ref id="Duloxetine.R19">
+            <mixed-citation publication-type="journal">Vuppalanchi R, Hayashi PH, Chalasani N, Fontana RJ, Bonkovsky H, Saxena R, Kleiner D, et al; Drug-Induced Liver Injury Network (DILIN). Duloxetine hepatotoxicity: a case-series from the drug-induced liver injury network. Aliment Pharmacol Ther 2010; 32: 1174-83. <annotation><p><italic toggle="yes">(Among ~600 patients with drug induced liver injury enrolled in a US database between 2006 and 2009 [Chalasani 2008], 7 cases [~1%] were attributed to duloxetine; 6 women and 1 man, ages 29-58 years, and latency of 2-9 weeks [bilirubin 2.3-16.7 mg/dL, ALT 245-10,000 U/L, Alk P 92-468 U/L], usually hepatocellular, often severe but no deaths, resolving with stopping in all but one patient who had chronic Alk P elevations after a bout of severe cholestatic hepatitis).</italic></p></annotation><pub-id pub-id-type="pmid">20815829</pub-id></mixed-citation>
+          </ref>
+          <ref id="Duloxetine.R20">
+            <mixed-citation publication-type="journal">Reuben A, Koch DG, Lee WM; Acute Liver Failure Study Group. Drug-induced acute liver failure: results of a U.S. multicenter, prospective study. Hepatology 2010; 52: 2065-76. <annotation><p><italic toggle="yes">(Among 1198 patients with acute liver failure enrolled in a US prospective study between 1998 and 2007, 133 were attributed to drug induced liver injury including 4 due to psychotropic agents [1 each for fluoxetine, venlafaxine, quetiapine, and nefazodone]; none were linked to duloxetine).</italic></p></annotation><pub-id pub-id-type="pmid">20949552</pub-id></mixed-citation>
+          </ref>
+          <ref id="Duloxetine.R21">
+            <mixed-citation publication-type="journal">Park YM, Lee BH, Lee HJ, Kang SG. Cholestatic jaundice induced by duloxetine in a patient with major depressive disorder. Psychiatry Investig 2010; 7: 228-30. <annotation><p><italic toggle="yes">(22 year old man developed jaundice 3 months after starting duloxetine and mirtazepine [bilirubin 3.3 mg/dL, direct not given, ALT and Alk P normal], resolving within a few months of stopping).</italic></p></annotation><pub-id pub-id-type="pmid">20927314</pub-id></mixed-citation>
+          </ref>
+          <ref id="Duloxetine.R22">
+            <mixed-citation publication-type="journal">Kang SG, Park YM, Lee HJ, Yoon B. Duloxetine-induced liver injury in patients with major depressive disorder. Psychiatry Investig 2011; 8: 269-71. <annotation><p><italic toggle="yes">(2 men and 1 woman, ages 22, 65 and 37 years, developed minor ALT elevations with minimal symptoms and no jaundice, 1 to 20 weeks after starting duloxetine, resolving upon stopping).</italic></p></annotation><pub-id pub-id-type="pmid">21994516</pub-id></mixed-citation>
+          </ref>
+          <ref id="Duloxetine.R23">
+            <mixed-citation publication-type="journal">Molleston JP, Fontana RJ, Lopez MJ, Kleiner DE, Gu J, Chalasani N: Drug-induced Liver Injury Network. Characteristics of idiosyncratic drug-induced liver injury in children: results from the DILIN prospective study. J Pediatr Gastroenterol Nutr 2011; 53: 182-9. <annotation><p><italic toggle="yes">(Among 30 children with suspected drug induced liver injury, half [n=15] were due to antimicrobials [minocycline 4, INH 3, azithromycin 3] and the rest largely due to CNS agents and anticonvulsants; one case was attributed to amitriptyline, but no other antidepressant was listed). </italic></p></annotation><pub-id pub-id-type="pmid">21788760</pub-id></mixed-citation>
+          </ref>
+          <ref id="Duloxetine.R24">
+            <mixed-citation publication-type="journal">Gimenez C, Guce G, Lingisetty C, Bernhardt L. Severe INR elevation related to duloxetine use: a case report. Psychosomatics 2011; 52: 583-5. <annotation><p><italic toggle="yes">(44 year old man on long term warfarin, simvastastin, amlodipine, gabapentin and insulin therapy had marked rise in INR within one week of starting duloxetine [INR 11.9, bilirubin normal, ALT 99], resolving within a few days of vitamin K and fresh frozen plasma therapy, likely due to drug interactions rather than hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">22054632</pub-id></mixed-citation>
+          </ref>
+          <ref id="Duloxetine.R25">
+            <mixed-citation publication-type="journal">Xue F, Strombom I, Turnbull B, Zhu S, Seeger JD. Duloxetine for depression and the incidence of hepatic events in adults. J Clin Psychopharmacol 2011; 31: 517-22. <annotation><p><italic toggle="yes">(Analysis of reports to a large health insurance claims database including 21,457 adults treated with duloxetine betwen 2004 and 2006 found the relative risk for severe hepatic injury to be no higher in duloxetine treated than in control groups).</italic></p></annotation><pub-id pub-id-type="pmid">21694615</pub-id></mixed-citation>
+          </ref>
+          <ref id="Duloxetine.R26">
+            <mixed-citation publication-type="journal">Yuan W, Williams B. Acute hepatic failure involving duloxetine hydrochloride. J Neuropsychiatry Clin Neurosci 2012; 24: E48-9. <annotation><p><italic toggle="yes"> (58 year old woman developed abdominal pain and confusion 4 months after an increase in chronic duloxetine dose from 60 to 90 mg daily [bilirubin 2.9, ALT 3270 U/L, Alk P 146 U/L, INR 1.8, creatinine 3.9 mg/dL], with rapid recovery on stopping; was also taking trazodone, acetaminophen and atorvastatin).</italic></p></annotation><pub-id pub-id-type="pmid">22772703</pub-id></mixed-citation>
+          </ref>
+          <ref id="Duloxetine.R27">
+            <mixed-citation publication-type="journal">Spina E, Trifir&#x000f2; G, Caraci F. Clinically significant drug interactions with newer antidepressants. CNS Drugs 2012; 26: 39-67. <annotation><p><italic toggle="yes"> (Review of drug-drug interactions of antidepressants; duloxetine has extensive hepatic metabolism largely via CYP 1A2 so that levels can be increased by 1A2 inhibitors [cimetidine] and decreased by inducers [smoking, rifampin]; duloxetine is also a moderate CYP 2D6 inhibitor and may raise levels of risperidone and lower those of the active metabolite of tamoxifen).</italic></p></annotation><pub-id pub-id-type="pmid">22171584</pub-id></mixed-citation>
+          </ref>
+          <ref id="Duloxetine.R28">
+            <mixed-citation publication-type="journal">Bj&#x000f6;rnsson ES, Bergmann OM, Bj&#x000f6;rnsson HK, Kvaran RB, Olafsson S. Incidence, presentation and outcomes in patients with drug-induced liver injury in the general population of Iceland. Gastroenterology 2013; 144: 1419-25. <annotation><p><italic toggle="yes">(In a population based study from Iceland, 96 cases of drug induced liver injury were identified over a 2 year period, one of which was attributed to an antidepressant [venlafaxine]).</italic></p></annotation><pub-id pub-id-type="pmid">23419359</pub-id></mixed-citation>
+          </ref>
+          <ref id="Duloxetine.R29">
+            <mixed-citation publication-type="journal">Park SH, Ishino R. Liver injury associated with antidepressants. Curr Drug Saf 2013; 8: 207-23. <annotation><p><italic toggle="yes"> (Review of antidepressant induced liver injury lists and discusses 12 published cases attributed to duloxetine). </italic></p></annotation><pub-id pub-id-type="pmid">23914755</pub-id></mixed-citation>
+          </ref>
+          <ref id="Duloxetine.R30">
+            <mixed-citation publication-type="journal">Voican CS, Corruble E, Naveau S, Perlemuter G. Antidepressant-induced liver injury: a review for clinicians. Am J Psychiatry 2014; 171: 404-15. <annotation><p><italic toggle="yes"> (Review of antidepressant induced liver injury mentions that duloxetine has been linked to cases of hepatocellular, mixed and cholestatic injury and its frequency is estimated to be 26.2 per 100,000 patient years [Wernicke 2008]).</italic></p></annotation><pub-id pub-id-type="pmid">24362450</pub-id></mixed-citation>
+          </ref>
+          <ref id="Duloxetine.R31">
+            <mixed-citation publication-type="journal">Hern&#x000e1;ndez N, Bessone F, S&#x000e1;nchez A, di Pace M, Brahm J, Zapata R, A Chirino R, et al. Profile of idiosyncratic drug induced liver injury in Latin America. An analysis of published reports. Ann Hepatol 2014; 13: 231-9. <annotation><p><italic toggle="yes">(Systematic review of literature of drug induced liver injury in Latin American countries published from 1996 to 2012 identified 176 cases, none of which were attributed to duloxetine).</italic></p></annotation><pub-id pub-id-type="pmid">24552865</pub-id></mixed-citation>
+          </ref>
+          <ref id="Duloxetine.R32">
+            <mixed-citation publication-type="journal">Chalasani N, Bonkovsky HL, Fontana R, Lee W, Stolz A, Talwalkar J, Reddy KR, et al.; United States Drug Induced Liver Injury Network. Features and outcomes of 899 patients with drug-induced liver injury: The DILIN Prospective Study. Gastroenterology 2015; 148: 1340-52.e7. <annotation><p><italic toggle="yes">(Among 899 cases of drug induced liver injury enrolled in a US prospective study between 2004 and 2013, 20 cases [2%] were attributed to antidepressants, including 7 to duloxetine [Vuppalanchi 2010]).</italic></p></annotation><pub-id pub-id-type="pmid">25754159</pub-id></mixed-citation>
+          </ref>
+          <ref id="Duloxetine.R33">
+            <mixed-citation publication-type="journal">Lin ND, Norman H, Regev A, Perahia DG, Li H, Chang CL, Dore DD. Hepatic outcomes among adults taking duloxetine: a retrospective cohort study in a US health care claims database. BMC Gastroenterol 2015; 15: 134. <annotation><p><italic toggle="yes">(Analysis of a US health care database of patients initiating duloxetine therapy between 2004 and 2010 identified no cases of acute liver failure, but 5 cases of clinically significant liver injury among 7632 person-years of duloxetine use [0.07%]).</italic></p></annotation><pub-id pub-id-type="pmid">26467777</pub-id></mixed-citation>
+          </ref>
+          <ref id="Duloxetine.R34">
+            <mixed-citation publication-type="journal">Bunchorntavakul C, Reddy KR. Drug hepatotoxicity: newer agents. Clin Liver Dis 2017; 21: 115-34. <annotation><p><italic toggle="yes"> (Review of newly approved agents that have been linked to liver injury, including duloxetine).</italic></p></annotation><pub-id pub-id-type="pmid">27842767</pub-id></mixed-citation>
+          </ref>
+          <ref id="Duloxetine.R35">
+            <mixed-citation publication-type="journal">Friedrich ME, Akimova E, Huf W, Konstantinidis A, Papageorgiou K, Winkler D, Toto S, et al. Drug-induced liver injury during antidepressant treatment: results of AMSP, a drug surveillance program. Int J Neuropsychopharmacol 2016; 19. pii: pyv126. <annotation><p><italic toggle="yes"> (Monitoring of 184,234 inpatients in 80 psychiatric hospitals for liver injury during antidepressant treatment identified 149 cases including 3 among 8015 duloxetine treated subjects [0.04%], a rate similar to other SSRIs and SNRIs; no cases resulted in acute liver failure or death from liver disease).</italic></p></annotation><pub-id pub-id-type="pmid">26721950</pub-id></mixed-citation>
+          </ref>
+          <ref id="Duloxetine.R36">
+            <mixed-citation publication-type="journal">Ferrajolo C, Scavone C, Donati M, Bortolami O, Stoppa G, Motola D, Vannacci A, et al.; DILI-IT Study Group. Antidepressant-induced acute liver injury: a case-control study in an Italian inpatient population. Drug Saf 2018; 41: 95-102. <annotation><p><italic toggle="yes">(Among 179 cases of hospitalizations for unexplained acute liver injury enrolled in an prospective study between 2010 and 2014, 17 had been exposed to antidepressants including one who received duloxetine for 2 years [bilirubin 1.1 mg/dL, ALT 696 U/L, Alk P 122 U/L]).</italic></p></annotation><pub-id pub-id-type="pmid">28770534</pub-id></mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec id="Duloxetine.OTHER_REFERENCE_LINKS" sec-type="link-group">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=duloxetine+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D%3A%222999/12/31%22%5BEDat%5D)">Recent References on Duloxetine: from PubMed.gov</ext-link>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=duloxetine">Trials on Duloxetine: from ClinicalTrials.gov</ext-link>
+            </p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

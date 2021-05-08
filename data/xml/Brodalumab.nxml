@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Brodalumab" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Brodalumab</book-part-id>
+      <title-group>
+        <title>Brodalumab</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>2</day>
+          <month>10</month>
+          <year>2017</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Brivaracetam" document-type="chapter">Brivaracetam</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Bromocriptine" document-type="chapter">Bromocriptine</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Brodalumab.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Brodalumab.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Brodalumab is a human monoclonal antibody to the interleukin-17A receptor which acts as an immunosuppressant and is used to treat moderate-to-severe plaque psoriasis. Brodalumab has not been linked to serum enzyme elevations during therapy or to instances of idiosyncratic acute liver injury.</p>
+        </sec>
+        <sec id="Brodalumab.Background">
+          <title>Background</title>
+          <p>Brodalumab (broe dal' ue mab) is a recombinant, human IgG monoclonal antibody to the interleukin (IL)-17A receptor, engagement of which results in release of proinflammatory mediators. The binding of the monoclonal antibody blocks the interaction of IL-17A with its receptor and thus decreases inflammatory pathways that are involved in immune mediated cell injury. Brodalumab is considered an immunomodulatory agent and has been evaluated in several immune mediated diseases including inflammatory bowel disease, rheumatoid arthritis and psoriasis. In large clinical trials of moderate-to-severe plaque psoriasis, brodalumab was shown to be beneficial and was subsequently approved for this use in the United States in 2017. Brodalumab was the third monoclonal antibody inhibitor of the IL-17A pathway approved for use in psoriasis, the others having anti-IL-17A activity (secukinumab in 2014 and ixekizumab in 2016). Brodalumab is available as a solution in single dose syringes of 210 mg [in 1.5 mL] under the brand name Siliq. The typical dose is 210 mg by subcutaneous injection at weeks 0, 1 and 2 followed by every 2 weeks. Side effects are not common, but can include arthralgia, myalgia, headache, throat pain, fatigue, diarrhea, nausea, myalgia, neutropenia, tinea infections and injection site reactions. Rare, but potentially severe adverse reactions include severe infections, reactivation of tuberculosis, exacerbation of Crohn disease and immediate hypersensitivity reactions.</p>
+        </sec>
+        <sec id="Brodalumab.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>In large premarketing clinical trials of brodalumab in more than 3000 patients with psoriasis, serum enzyme elevations during therapy were no more common than with placebo and there were no instances of clinically apparent liver injury attributed to its use. Since its approval there have been no reports of liver injury attributed to brodalumab therapy and no cases of reactivation of hepatitis B or autoimmune hepatitis, two possible hepatic complications of immunomodulatory monoclonal antibody therapy. However, clinical experience with brodalumab has been limited.</p>
+          <p>Likelihood score: E (unlikely cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Brodalumab.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The mechanism by which brodalumab might cause liver injury is unknown. Brodalumab is a monoclonal antibody and, like other proteins, is metabolized into amino acids and is unlikely to have intrinsic toxicity. Because of its immunomodulatory activity, brodalumab might induce an autoimmune reaction against hepatocytes, but this has yet to be shown.</p>
+          <p>Other immunomodulatory biologic agents used to treat severe psoriasis include adalimumab, certolizumab, efalizumab, etanercept, golimumab, infliximab, ixekizumab, secukinumab and ustekinumab.</p>
+          <p>Drug Class: Dermatologic Agents, <related-object source-id="livertox" document-id="PsoriasisDrugs">Psoriasis Agents</related-object>; <related-object source-id="livertox" document-id="MonoclonalAntibodies">Monoclonal Antibodies</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Brodalumab.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <boxed-text position="anchor" id="Brodalumab.BPI" orientation="portrait">
+          <p>
+            <bold>REPRESENTATIVE TRADE NAMES</bold>
+          </p>
+          <p>Brodalumab &#x02013; Siliq&#x000ae;</p>
+          <p>
+            <bold>DRUG CLASS</bold>
+          </p>
+          <p>Dermatologic Agents, Psoriasis Agents</p>
+          <p>
+            <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Brodalumab">COMPLETE LABELING</ext-link>
+          </p>
+          <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+        </boxed-text>
+      </sec>
+      <sec id="Brodalumab.CHEMICAL_FORMULA_AND_STRUCTUR">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Brodalumab.T1" position="anchor" orientation="portrait">
+          <table>
+            <thead>
+              <tr>
+                <th id="hd_h_Brodalumab.T1_1_1_1_1" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Brodalumab.T1_1_1_1_2" rowspan="1" colspan="1">CAS REGISTRY NO</th>
+                <th id="hd_h_Brodalumab.T1_1_1_1_3" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Brodalumab.T1_1_1_1_4" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Brodalumab.T1_1_1_1_1" rowspan="1" colspan="1">Brodalumab</td>
+                <td headers="hd_h_Brodalumab.T1_1_1_1_2" rowspan="1" colspan="1">
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://377483926">1174395-19-7</ext-link>
+                </td>
+                <td headers="hd_h_Brodalumab.T1_1_1_1_3" rowspan="1" colspan="1">Monoclonal Antibody</td>
+                <td headers="hd_h_Brodalumab.T1_1_1_1_4" rowspan="1" colspan="1">Not Available</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Brodalumab.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 02 October 2017</p>
+        <ref-list id="Brodalumab.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Brodalumab.R1">
+            <mixed-citation publication-type="other">Zimmerman HJ. Drugs used to treat rheumatic and musculospastic disease. In, Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999, pp. 517-54.<annotation><p><italic toggle="yes">(Expert review of hepatotoxicity published in 1999, well before the availability of most monoclonal antibody therapies).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Brodalumab.R2">
+            <mixed-citation publication-type="other">Reuben A. Hepatotoxicity of immunosuppressive drugs. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2011, pp. 569-91.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of immunosuppressive agents; mentions rituximab and problems of reactivation of hepatitis B, but also states that "the biological immunosuppressants are largely free from hepatotoxicity, with the exception of the TNF alpha antagonists"; brodalumab is not specifically mentioned).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Brodalumab.R3">
+            <mixed-citation publication-type="other">Krensky AM, Vincenti F, Bennett WM. Immunomodulators. In, Brunton LL, Lazo JS, Parker KL, eds. Goodman &#x00026; Gilman's the pharmacological basis of therapeutics. 11th ed. New York: McGraw-Hill, 2006, pp. 1405-88.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Brodalumab.R4">
+            <mixed-citation publication-type="journal">Langley RG, Elewski BE, Lebwohl M, Reich K, Griffiths CE, Papp K, Puig L, et al.; ERASURE Study Group; FIXTURE Study Group. Secukinumab in plaque psoriasis--results of two phase 3 trials. N Engl J Med 2014; 371: 326-38. <annotation><p><italic toggle="yes">(Among 1044 patients with plaque psoriasis treated with secukinumab [anti-17A] or placebo in two large 52 week clinical trials, common side effects were nasopharyngitis, upper respiratory infection and diarrhea; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">25007392</pub-id></mixed-citation>
+          </ref>
+          <ref id="Brodalumab.R5">
+            <mixed-citation publication-type="journal">Papp KA, Leonardi C, Menter A, Ortonne JP, Krueger JG, Kricorian G, Aras G, et al. Brodalumab, an anti-interleukin-17-receptor antibody for psoriasis. N Engl J Med 2012; 366: 1181-9. <annotation><p><italic toggle="yes">(Among 198 patients with plaque psoriasis treated with 4 dose regimens of brodalumab or placebo for 12 weeks, rates of symptomatic improvement were above 80% with the higher doses vs 16% with placebo, while adverse event rates were similar in all groups; no liver related serious adverse events and mention of ALT elevations).</italic></p></annotation><pub-id pub-id-type="pmid">22455412</pub-id></mixed-citation>
+          </ref>
+          <ref id="Brodalumab.R6">
+            <mixed-citation publication-type="journal">Papp K, Leonardi C, Menter A, Thompson EH, Milmont CE, Kricorian G, Nirula A, et al. Safety and efficacy of brodalumab for psoriasis after 120 weeks of treatment. J Am Acad Dermatol 2014; 71: 1183-1190. <annotation><p><italic toggle="yes">(Among 181 patients with psoriasis treated with brodalumab sc every 2 weeks in an open label extension trial [Papp 2012], half [51%] had persistent clearance of plaque lesions at week 120 and adverse events were usually mild, 15 patients [8%] having a serious adverse event, but none were liver related and most were considered unrelated to therapy).</italic></p></annotation><pub-id pub-id-type="pmid">25313095</pub-id></mixed-citation>
+          </ref>
+          <ref id="Brodalumab.R7">
+            <mixed-citation publication-type="journal">Pavelka K, Chon Y, Newmark R, Lin SL, Baumgartner S, Erondu N. A study to evaluate the safety, tolerability, and efficacy of brodalumab in subjects with rheumatoid arthritis and an inadequate response to methotrexate. J Rheumatol 2015; 42: 912-9. <annotation><p><italic toggle="yes">(Among 252 patients with rheumatoid arthritis treated with brodalumab [70, 140 or 210 mg] or placebo injections, rates of symptomatic improvement were similar in all 4 groups as were adverse events, both total [55% vs 51%] and serious [2.6% vs 3.2%]; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">25877498</pub-id></mixed-citation>
+          </ref>
+          <ref id="Brodalumab.R8">
+            <mixed-citation publication-type="journal">Drugs for psoriasis. Med Lett Drugs Ther 2015; 57 (1470): 81-4. <annotation><p><italic toggle="yes">(Concise summary of options for therapy of psoriasis as of 2015 including topical agents, phototherapy, oral systemic drugs, and biologic agents including secukinumab [anti-IL-17A], but not brodalumab [anti-IL-17A receptor] or ixekizumab [anti-IL-17A]; mentions that serious infections occurred in 1.2% of secukinumab treated patients; no mention of hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">26035749</pub-id></mixed-citation>
+          </ref>
+          <ref id="Brodalumab.R9">
+            <mixed-citation publication-type="journal">Lebwohl M, Strober B, Menter A, Gordon K, Weglowska J, Puig L, Papp K, et al. Phase 3 studies comparing brodalumab with ustekinumab in psoriasis. N Engl J Med 2015; 373: 1318-28. <annotation><p><italic toggle="yes">(Among 3712 patients enrolled in two controlled trials of brodalumab [140 or 210 mg], ustekinumab [45 or 90 mg] or placebo for 12 weeks followed by maintenance dosing of either monoclonal, common adverse events were upper respiratory symptoms, headache and arthralgia; among 1613 patients receiving brodalumab, one was listed as having drug induced liver injury compared to none of 313 on ustekinumab, but no details were provided).</italic></p></annotation><pub-id pub-id-type="pmid">26422722</pub-id></mixed-citation>
+          </ref>
+          <ref id="Brodalumab.R10">
+            <mixed-citation publication-type="journal">Papp KA, Reich K, Paul C, Blauvelt A, Baran W, Bolduc C, Toth D, et al. A prospective phase III, randomized, double-blind, placebo-controlled study of brodalumab in patients with moderate-to-severe plaque psoriasis. Br J Dermatol 2016; 175: 273-86. <annotation><p><italic toggle="yes">(Among 648 patients with plaque psoriasis treated in an extension trial with brodalumab [140 or 210 mg every 2 weeks], 1 patient with preexisting cirrhosis died after variceal hemorrhage, but there were no other liver related serious adverse events and no mention of ALT elevations).</italic></p></annotation><pub-id pub-id-type="pmid">26914406</pub-id></mixed-citation>
+          </ref>
+          <ref id="Brodalumab.R11">
+            <mixed-citation publication-type="journal">Nakagawa H, Niiro H, Ootaki K; Japanese brodalumab study group. Brodalumab, a human anti-interleukin-17-receptor antibody in the treatment of Japanese patients with moderate-to-severe plaque psoriasis: Efficacy and safety results from a phase II randomized controlled study. J Dermatol Sci 2016; 81: 44-52. <annotation><p><italic toggle="yes">(Among 151 patients with plaque psoriasis treated with brodalumab [70, 140 or 210 mg] or placebo for 12 weeks, symptomatic improvements occurred in 60-90% with the higher doses compared to 0-8% with placebo; while adverse event rates were similar, common side effects from brodalumab were nasopharyngitis [12% vs 8%], diarrhea [5% vs 0%], folliculitis [3.5% vs 0%]; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">26547109</pub-id></mixed-citation>
+          </ref>
+          <ref id="Brodalumab.R12">
+            <mixed-citation publication-type="journal">Farahnik B, Beroukhim K, Abrouk M, Nakamura M, Zhu TH, Singh R, Lee K, et al. Brodalumab for the treatment of psoriasis: A review of phase III trials. Dermatol Ther (Heidelb) 2016; 6: 111-24. <annotation><p><italic toggle="yes">(Review of results from 3 phase III trials of brodalumab in patients with psoriasis found clinical response rates at 12 weeks of 83-86% with 210 mg, 60-69% with 140 mg, and 3-8% with placebo, while adverse event rates were only slightly higher with brodalumab; no liver related adverse events listed).</italic></p></annotation><pub-id pub-id-type="pmid">27221323</pub-id></mixed-citation>
+          </ref>
+          <ref id="Brodalumab.R13">
+            <mixed-citation publication-type="journal">Targan SR, Feagan B, Vermeire S, Panaccione R, Melmed GY, Landers C, Li D, et al. A randomized, double-blind, placebo-controlled phase 2 study of brodalumab in patients with moderate-to-severe Crohn's disease. Am J Gastroenterol 2016; 111 1599-1607. <annotation><p><italic toggle="yes">(Among 130 patients with Crohn disease treated with brodalumab [210, 350 or 700 mg] or placebo subcutaneously at baseline and week 4, overall symptom scores at week 6 worsened with brodalumab, but adverse event rates were similar in all groups; ALT values were not reported).</italic></p></annotation><pub-id pub-id-type="pmid">27481309</pub-id></mixed-citation>
+          </ref>
+          <ref id="Brodalumab.R14">
+            <mixed-citation publication-type="journal">Umezawa Y, Nakagawa H, Niiro H, Ootaki K; Japanese Brodalumab Study Group. Long-term clinical safety and efficacy of brodalumab in the treatment of Japanese patients with moderate-to-severe plaque psoriasis. J Eur Acad Dermatol Venereol 2016; 30: 1957-60. <annotation><p><italic toggle="yes">(Among 145 patients with plaque psoriasis treated with brodalumab [140 or 210 mg] every 2 weeks for 1 year as an extension study of a controlled trial, clinical responses were maintained and no patient developed a liver related serious adverse event).</italic></p></annotation><pub-id pub-id-type="pmid">27358210</pub-id></mixed-citation>
+          </ref>
+          <ref id="Brodalumab.R15">
+            <mixed-citation publication-type="journal">Yamasaki K, Nakagawa H, Kubo Y, Ootaki K; Japanese Brodalumab Study Group. Efficacy and safety of brodalumab in patients with generalized pustular psoriasis and psoriatic erythroderma: results from a 52-week, open-label study. Br J Dermatol 2017; 176: 741-51. <annotation><p><italic toggle="yes">(Among 145 Japanese patients with plaque psoriasis treated with brodalumab [140 or 210 mg every 2 weeks for 52 weeks] as a part of an extension study of a controlled trial, no patient developed a liver related serious adverse event).</italic></p></annotation><pub-id pub-id-type="pmid">27106510</pub-id></mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec id="Brodalumab.OTHER_REFERENCE_LINKS" sec-type="link-group">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=Brodalumab/AE+AND+Human%5BMH%5D+AND+(jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI+OR+hepatitis,+toxic%5BMH%5D)">Recent References on Brodalumab: from PubMed.gov</ext-link>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Brodalumab">Trials on Brodalumab: from ClinicalTrials.gov</ext-link>
+            </p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

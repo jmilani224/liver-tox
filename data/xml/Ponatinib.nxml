@@ -1,0 +1,841 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Ponatinib" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Ponatinib</book-part-id>
+      <title-group>
+        <title>Ponatinib</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>10</day>
+          <month>5</month>
+          <year>2020</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Pomalidomide" document-type="chapter">Pomalidomide</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Posaconazole" document-type="chapter">Posaconazole</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Ponatinib.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Ponatinib.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Ponatinib is a tyrosine kinase receptor inhibitor that is used in the therapy of refractory chronic myelogenous leukemia (CML) positive for the Philadelphia chromosome. Ponatinib is commonly associated with transient elevations in serum aminotransferase levels during treatment, but with only rare instances of clinically apparent acute liver injury.</p>
+        </sec>
+        <sec id="Ponatinib.Background">
+          <title>Background</title>
+          <p>Ponatinib (poe na&#x02019; ti nib) is a broad spectrum inhibitor of the unique BCR-ABL tyrosine kinase receptor, which is the product of a fusion gene resulting from the translocation between chromosomes 9 and 22 that underlies the Philadelphia chromosome of chronic myelogenous leukemia (CML). The abnormal tyrosine kinase receptor is constitutively expressed and causes abnormal cell growth and proliferation. Inhibition of the enzyme can lead to dramatic reversal of progression of leukemia and is highly effective, although limited by the development of tumor resistance caused by mutations in the kinase. Ponatinib is actually a multi-kinase inhibitor and also has activity against scr, c-Kit and ephrin receptors, among others. Ponatinib received approval for use in the United States in 2012 and was one of 5 such specific inhibitors of BCR-ABL approved for clinical use, the others being imatinib [2001], dasatinib [2006], nilotinib [2007], and bosutinib [2012]. Ponatinib was subsequently withdrawn after identification of severe side effects of vascular thromboses, but then reapproved with a narrowing of indications and boxed warnings. Ponatinib is available in tablets of 15 and 45 mg under the brand name Inclusig. Current indications are as second line treatment of Philadelphia chromosome-positive CML in the chronic, accelerated or blast phase with the specific T315I mutation or after failure of all other BCR-ABL tyrosine kinase receptor inhibitors. The typical dose is 45 mg once daily to continue until the disease progresses or intolerable side effects arise. Common side effects include hypertension, rash, abdominal pain, nausea, constipation, arthralgias, headache, fatigue, fever and bone marrow suppression. Less common, but severe side effects include heart failure (5%), pancreatitis (6%), neuropathy (13%), ocular toxicity (3%) and arterial and venous thromboses (27%) including myocardial infarction, stroke and peripheral vascular disease.</p>
+        </sec>
+        <sec id="Ponatinib.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>In large clinical trials, elevations in serum aminotransferase levels during ponatinib therapy occurred in up to 56% of patients and were above 5 times upper limit of normal (ULN) in 8% of patients. While these abnormalities were reversible in most patients, they were prolonged or severe in some. Instances of clinically apparent liver disease and progressive hepatic failure and death were reported in clinical trials of ponatinib, although the clinical features of the liver injury have not been well described. The latency until onset can be rapid and most cases have had a hepatocellular pattern of serum enzyme elevations. Because of the potential for serious hepatotoxicity, routine monitoring of liver tests is recommended during ponatinib therapy and dose modification or discontinuation recommended for ALT or AST elevations above 3 times ULN. Thus, ponatinib therapy is associated with a high rate of transient serum aminotransferase elevations and is reported to cause rare instances of severe hepatic injury, but there have been no cases described in the literature.</p>
+          <p>Reactivation of hepatitis B has been reported with imatinib and nilotinib therapy of CML, but not with ponatinib. Reactivation typically occurs in an HBsAg positive person treated with the tyrosine kinase inhibitor for 3 to 6 months, presenting with jaundice, marked serum aminotransferase elevations and an increase in HBV DNA levels. Reactivation of hepatitis B can be severe, and fatal instances have been reported after imatinib and nilotinib therapy. Screening of patients for HBsAg and anti-HBc is sometimes recommended before starting cancer chemotherapy and those with HBsAg offered prophylaxis with oral antiviral agents, such as lamivudine, tenofovir or entecavir. Whether reactivation occurs with ponatinib therapy is unknown.</p>
+          <p>Likelihood score: E* (unproven but suspected cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Ponatinib.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>Ponatinib is metabolized in the liver largely through the CYP 3A4 pathway and liver injury may be related to production of a toxic intermediate. Because of this pathway of metabolism, ponatinib is susceptible to drug-drug interactions when using agents that induce or inhibit CYP 3A4. Studies of ponatinib in vitro suggest that it has direct toxicity to hepatocytes inhibiting oxidative metabolism and inducing hepatocyte apoptosis.</p>
+        </sec>
+        <sec id="Ponatinib.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>Serum aminotransferase elevations above 3 times the upper limit of normal should lead to dose reduction or temporary cessation, with resumption at a lower dose once levels return to normal. In patients with clinically apparent liver injury and jaundice, ponatinib should be discontinued permanently. Ponatinib, like imatinib and nilotinib, can cause clinically apparent liver injury and has been linked to instances of acute liver failure. There does not appear to be cross reactivity with other kinase inhibitors and switching to another BCR-ABL receptor inhibitor may be appropriate.</p>
+          <p>Drug Class: <related-object link-type="booklink" source-id="livertox" document-id="AntineoplasticAgents" document-type="chapter">Antineoplastic Agents</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="ProteinKinaseInhibit" document-type="chapter">Protein Kinase Inhibitors</related-object></p>
+          <p>Other Drugs in the Subclass, Chronic Myeloid Leukemia Agents: <related-object link-type="booklink" source-id="livertox" document-id="Bosutinib" document-type="chapter">Bosutinib</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Dasatinib" document-type="chapter">Dasatinib</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Imatinib" document-type="chapter">Imatinib</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Nilotinib" document-type="chapter">Nilotinib</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Omacetaxine" document-type="chapter">Omacetaxine</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Ponatinib.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <p>
+          <bold>REPRESENTATIVE TRADE NAMES</bold>
+        </p>
+        <p>Ponatinib &#x02013; Inclusig&#x000ae;</p>
+        <p>
+          <bold>DRUG CLASS</bold>
+        </p>
+        <p>Antineoplastic Agents</p>
+        <p>
+          <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?label=all&#x00026;query=Ponatinib">COMPLETE LABELING</ext-link>
+        </p>
+        <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+      </sec>
+      <sec id="Ponatinib.CHEMICAL_FORMULA_AND_STRUCTURE">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Ponatinib.Tc" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th id="hd_h_Ponatinib.Tc_1_1_1_1" valign="top" align="center" scope="col" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Ponatinib.Tc_1_1_1_2" valign="top" align="center" scope="col" rowspan="1" colspan="1">CAS REGISTRY NO.</th>
+                <th id="hd_h_Ponatinib.Tc_1_1_1_3" valign="top" align="center" scope="col" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Ponatinib.Tc_1_1_1_4" valign="top" align="center" scope="col" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Ponatinib.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Ponatinib</td>
+                <td headers="hd_h_Ponatinib.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135263267">943319-70-8</ext-link>
+                </td>
+                <td headers="hd_h_Ponatinib.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">C29-H27-F3-N6-O</td>
+                <td headers="hd_h_Ponatinib.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">
+                  <related-object link-type="ext-image-back-link" source-id="pubchem" document-id="135263267" document-id-type="sid" document-type="summary" object-id="135263267" object-id-type="sid" object-type="image"/>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Ponatinib.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 10-May-2020</p>
+        <p>Abbreviations: CML, chronic myelogenous leukemia; REMS, risk evaluation and mitigation strategy.</p>
+        <ref-list id="Ponatinib.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Ponatinib.REF.zimmerman.1999">
+            <mixed-citation publication-type="book">Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999.<annotation><p><italic toggle="yes">(Review of hepatotoxicity published in 1999 before the availability of kinase inhibitors and ponatinib).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Ponatinib.REF.deleve.2013">
+            <mixed-citation publication-type="book">DeLeve LD. Cancer chemotherapy. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013, pp. 541-67.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of cancer chemotherapeutic agents; imatinib, gefitinib, erlotinib and crizotinib are discussed, but not ponatinib).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Ponatinib.REF.wellstein.2018">
+            <mixed-citation publication-type="book">Wellstein A, Giaccone G, Atkins MB, Sausville EA. Pathway-targeted therapies: monoclonal antibodies, protein kinase inhibitors, and various small molecules. In, Brunton LL, Hilal-Dandan R, Knollman BC, eds. Goodman &#x00026; Gilman's the pharmacological basis of therapeutics. 13th ed. New York: McGraw-Hill, 2018, pp. 1203-36.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Ponatinib.REF.chalasani.2008.1924">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Chalasani</surname>
+                  <given-names>N</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Fontana</surname>
+                  <given-names>RJ</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Bonkovsky</surname>
+                  <given-names>HL</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Watkins</surname>
+                  <given-names>PB</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Davern</surname>
+                  <given-names>T</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Serrano</surname>
+                  <given-names>J</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Yang</surname>
+                  <given-names>H</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Rochon</surname>
+                  <given-names>J</given-names>
+                </name>
+                <collab>Drug Induced Liver Injury Network (DILIN)</collab>
+              </person-group>
+              <article-title>Causes, clinical features, and outcomes from a prospective study of drug-induced liver injury in the United States.</article-title>
+              <source>Gastroenterology</source>
+              <year>2008</year>
+              <volume>135</volume>
+              <fpage>1924</fpage>
+              <lpage>34</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Among 300 cases of drug induced liver disease in the US collected from 2004 to 2008, one case was attributed to imatinib, but none to other kinase inhibitors).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">18955056</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ponatinib.REF.reuben.2010.2065">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Reuben</surname>
+                  <given-names>A</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Koch</surname>
+                  <given-names>DG</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Lee</surname>
+                  <given-names>WM</given-names>
+                </name>
+                <collab>Acute Liver Failure Study Group</collab>
+              </person-group>
+              <article-title>Drug-induced acute liver failure: results of a U.S. multicenter, prospective study.</article-title>
+              <source>Hepatology</source>
+              <year>2010</year>
+              <volume>52</volume>
+              <fpage>2065</fpage>
+              <lpage>76</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Among 1198 patients with acute liver failure enrolled in a US prospective study between 1998 and 2007, 133 were attributed to drug induced liver injury, none of which were attributed to kinase inhibitors).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">20949552</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ponatinib.REF.cortes.2012.2075">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Cortes</surname>
+                  <given-names>JE</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Kantarjian</surname>
+                  <given-names>H</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Shah</surname>
+                  <given-names>NP</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Bixby</surname>
+                  <given-names>D</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Mauro</surname>
+                  <given-names>MJ</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Flinn</surname>
+                  <given-names>I</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>O'Hare</surname>
+                  <given-names>T</given-names>
+                </name>
+                <etal/>
+              </person-group>
+              <article-title>Ponatinib in refractory Philadelphia chromosome-positive leukemias.</article-title>
+              <source>N Engl J Med</source>
+              <year>2012</year>
+              <volume>367</volume>
+              <fpage>2075</fpage>
+              <lpage>88</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Among 81 patients with previously treated, resistant hematologic malignancies [60 with CML] hematologic responses occurred independent of BCR-ABL mutations, and adverse events included pancreatitis [14%] and ALT elevations [10%] which were mostly mild, only one being &#x02265;5 times ULN).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">23190221</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ponatinib.REF.goldman.2012.2148">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Goldman</surname>
+                  <given-names>JM</given-names>
+                </name>
+              </person-group>
+              <article-title>Ponatinib for chronic myeloid leukemia.</article-title>
+              <source>N Engl J Med</source>
+              <year>2012</year>
+              <volume>367</volume>
+              <fpage>2148</fpage>
+              <lpage>9</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Editorial in response to Cortes [2012] discussing ponatinib as a third generation tyrosine kinase inhibitor with activity against mutated forms of BCR-ABL).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">23190226</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ponatinib.REF.shah.2013.491">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Shah</surname>
+                  <given-names>RR</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Morganroth</surname>
+                  <given-names>J</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Shah</surname>
+                  <given-names>DR</given-names>
+                </name>
+              </person-group>
+              <article-title>Hepatotoxicity of tyrosine kinase inhibitors: clinical and regulatory perspectives.</article-title>
+              <source>Drug Saf</source>
+              <year>2013</year>
+              <volume>36</volume>
+              <fpage>491</fpage>
+              <lpage>503</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Review of the hepatotoxicity of 18 tyrosine kinase inhibitors approved for use in cancer in the US as of 2013; ponatinib is listed as having the potential to cause clinically apparent liver injury and hepatic failure, for which reason it has a "boxed warning" and routine liver test screening is recommended).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">23620168</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ponatinib.REF.shah.2013.548">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Shah</surname>
+                  <given-names>NP</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Talpaz</surname>
+                  <given-names>M</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Deininger</surname>
+                  <given-names>MW</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Mauro</surname>
+                  <given-names>MJ</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Flinn</surname>
+                  <given-names>IW</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Bixby</surname>
+                  <given-names>D</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Lustgarten</surname>
+                  <given-names>S</given-names>
+                </name>
+                <etal/>
+              </person-group>
+              <article-title>Ponatinib in patients with refractory acute myeloid leukaemia: findings from a phase 1 study.</article-title>
+              <source>Br J Haematol</source>
+              <year>2013</year>
+              <volume>162</volume>
+              <fpage>548</fpage>
+              <lpage>52</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Among 12 patients with AML and FLT3 mutations, responses to ponatinib therapy occurred in 3; no mention of hepatotoxicity).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">23691988</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ponatinib.REF10">
+            <element-citation publication-type="journal">
+              <article-title>Ponatinib (Inclusig) for CML and Ph+ ALL.</article-title>
+              <source>Med Lett Drugs Ther</source>
+              <year>2013</year>
+              <volume>55</volume>
+              <issue>1424</issue>
+              <fpage>71</fpage>
+              <lpage>2</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Concise summary of mechanism of action, efficacy, safety and costs of ponatinib of Philadelphia chromosome positive CML or ALL shortly after its approval, mentions the potential of serious hepatic toxicity).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">25970013</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ponatinib.REF.cortes.2013.1783">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Cortes</surname>
+                  <given-names>JE</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Kim</surname>
+                  <given-names>DW</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Pinilla-Ibarz</surname>
+                  <given-names>J</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>le Coutre</surname>
+                  <given-names>P</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Paquette</surname>
+                  <given-names>R</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Chuah</surname>
+                  <given-names>C</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Nicolini</surname>
+                  <given-names>FE</given-names>
+                </name>
+                <etal/>
+              </person-group>
+              <article-title>PACE Investigators. A phase 2 trial of ponatinib in Philadelphia chromosome-positive leukemias.</article-title>
+              <source>N Engl J Med</source>
+              <year>2013</year>
+              <volume>369</volume>
+              <fpage>1783</fpage>
+              <lpage>96</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Among 449 patients with CML or ALL with BCR-ABL and resistance or intolerance to other tyrosine kinase receptor inhibitors who were treated with ponatinib for an average of 12.8 months, common side effects were rash, dry skin and abdominal pain with ALT elevations in 3-12%, and values above 5 times ULN in 2-3%).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">24180494</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ponatinib.REF.prasad.2014.353">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Prasad</surname>
+                  <given-names>V</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Mailankody</surname>
+                  <given-names>S</given-names>
+                </name>
+              </person-group>
+              <article-title>The accelerated approval of oncologic drugs: lessons from ponatinib.</article-title>
+              <source>JAMA</source>
+              <year>2014</year>
+              <volume>311</volume>
+              <fpage>353</fpage>
+              <lpage>4</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Editorial on the accelerated approval of ponatinib and subsequent withdrawal when rates of vascular thrombosis at 2.7 years were found to be 48%).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">24449310</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ponatinib.REF.mayer.2014.976">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Mayer</surname>
+                  <given-names>K</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Gielen</surname>
+                  <given-names>GH</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Willinek</surname>
+                  <given-names>W</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>M&#x000fc;ller</surname>
+                  <given-names>MC</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Wolf</surname>
+                  <given-names>D</given-names>
+                </name>
+              </person-group>
+              <article-title>Fatal progressive cerebral ischemia in CML under third-line treatment with ponatinib.</article-title>
+              <source>Leukemia</source>
+              <year>2014</year>
+              <volume>28</volume>
+              <fpage>976</fpage>
+              <lpage>7</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(55 year old man with CML developed visual loss 3 weeks after starting ponatinib, with subsequent deterioration and death, autopsy showing brain edema and bilateral cerebral infarcts).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">24170029</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ponatinib.REF.narasimhan.2014.341">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Narasimhan</surname>
+                  <given-names>NI</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Dorer</surname>
+                  <given-names>DJ</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Davis</surname>
+                  <given-names>J</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Turner</surname>
+                  <given-names>CD</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Marbury</surname>
+                  <given-names>TC</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Sonnichsen</surname>
+                  <given-names>D</given-names>
+                </name>
+              </person-group>
+              <article-title>Evaluation of pharmacokinetics and safety of ponatinib in subjects with chronic hepatic impairment and matched healthy subjects.</article-title>
+              <source>Cancer Chemother Pharmacol</source>
+              <year>2014</year>
+              <volume>74</volume>
+              <fpage>341</fpage>
+              <lpage>8</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(In a study of 16 patients with cirrhosis given a single dose of ponatinib, pharmacokinetic parameters were similar despite varying degrees of liver disease severity [Child class A, B and C], and laboratory tests remained stable, except for a rise in amylase and lipase in one patient who developed pancreatitis 2 days after the single dose).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">24934866</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ponatinib.REF.jain.2015.e376">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Jain</surname>
+                  <given-names>P</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Kantarjian</surname>
+                  <given-names>H</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Jabbour</surname>
+                  <given-names>E</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Gonzalez</surname>
+                  <given-names>GN</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Borthakur</surname>
+                  <given-names>G</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Pemmaraju</surname>
+                  <given-names>N</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Daver</surname>
+                  <given-names>N</given-names>
+                </name>
+                <etal/>
+              </person-group>
+              <article-title>Ponatinib as first-line treatment for patients with chronic myeloid leukaemia in chronic phase: a phase 2 study.</article-title>
+              <source>Lancet Haematol</source>
+              <year>2015</year>
+              <volume>2</volume>
+              <fpage>e376</fpage>
+              <lpage>83</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Among 51 patients with CML in the chronic phase treated with ponatinib for a median of 20.9 months, all except one had a complete hematologic response and adverse events were common including skin rash [69%], lipase elevations [63%], cardiovascular effects [49%, mostly hypertension], and ALT elevations in 27% [8% above 5 times ULN], such that 88% required drug reductions).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">26436130</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ponatinib.REF.mingard.2018.418">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Mingard</surname>
+                  <given-names>C</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Paech</surname>
+                  <given-names>F</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Bouitbir</surname>
+                  <given-names>J</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Kr&#x000e4;henb&#x000fc;hl</surname>
+                  <given-names>S</given-names>
+                </name>
+              </person-group>
+              <article-title>Mechanisms of toxicity associated with six tyrosine kinase inhibitors in human hepatocyte cell lines.</article-title>
+              <source>J Appl Toxicol</source>
+              <year>2018</year>
+              <volume>38</volume>
+              <fpage>418</fpage>
+              <lpage>31</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(In hepatocyte cell culture experiments, ponatinib impaired oxidative metabolism and induced apoptosis, and in higher doses affect mitochondria function and glycolysis).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">29072336</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ponatinib.REF.cortes.2018.393">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Cortes</surname>
+                  <given-names>JE</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Kim</surname>
+                  <given-names>DW</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Pinilla-Ibarz</surname>
+                  <given-names>J</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>le Coutre</surname>
+                  <given-names>PD</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Paquette</surname>
+                  <given-names>R</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Chuah</surname>
+                  <given-names>C</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Nicolini</surname>
+                  <given-names>FE</given-names>
+                </name>
+                <etal/>
+              </person-group>
+              <article-title>Ponatinib efficacy and safety in Philadelphia chromosome-positive leukemia: final 5-year results of the phase 2 PACE trial.</article-title>
+              <source>Blood</source>
+              <year>2018</year>
+              <volume>132</volume>
+              <fpage>393</fpage>
+              <lpage>404</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Among 267 patients with chronic phase CML treated with ponatinib [Cortes 2013], 5 year follow up demonstrated that 60% achieved a major cytogenetic response and 5 year survival was 73%, while adverse events were common including rash [47%], abdominal pain [46%], thrombocytopenia [46%], headache [43%] and constipation [41%], no mention of hepatotoxicity).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">29567798</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ponatinib.REF.breccia.2018.623">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Breccia</surname>
+                  <given-names>M</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Efficace</surname>
+                  <given-names>F</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Iurlo</surname>
+                  <given-names>A</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Luciano</surname>
+                  <given-names>L</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Abruzzese</surname>
+                  <given-names>E</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Gozzini</surname>
+                  <given-names>A</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Pregno</surname>
+                  <given-names>P</given-names>
+                </name>
+                <etal/>
+              </person-group>
+              <article-title>Intolerance to tyrosine kinase inhibitors in chronic myeloid leukemia: the possible role of ponatinib.</article-title>
+              <source>Expert Opin Drug Saf</source>
+              <year>2018</year>
+              <volume>17</volume>
+              <fpage>623</fpage>
+              <lpage>8</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Review of the mechanism of action, clinical efficacy and safety of ponatinib and its role in treatment of patients with CML who are intolerant to other tyrosine kinase inhibitors, mentions that increased liver enzymes arose in 19-53% of patients in four prospective trials and were above 5 times ULN in 2-8%).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">29845876</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ponatinib.REF.heiblig.2018.41">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Heiblig</surname>
+                  <given-names>M</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Rea</surname>
+                  <given-names>D</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Chr&#x000e9;tien</surname>
+                  <given-names>ML</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Charbonnier</surname>
+                  <given-names>A</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Rousselot</surname>
+                  <given-names>P</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Coiteux</surname>
+                  <given-names>V</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Escoffre-Barbe</surname>
+                  <given-names>M</given-names>
+                </name>
+                <etal/>
+              </person-group>
+              <article-title>Ponatinib evaluation and safety in real-life chronic myelogenous leukemia patients failing more than two tyrosine kinase inhibitors: the PEARL observational study.</article-title>
+              <source>Exp Hematol</source>
+              <year>2018</year>
+              <volume>67</volume>
+              <fpage>41</fpage>
+              <lpage>8</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Analysis of a national health database identified 48 patients with CML treated with ponatinib, in whom the 5 year overall survival was 81% and cardiovascular adverse events arose in 47% including hypertension [19%], atrial fibrillation [6%], myocardial infarction [8%], stroke [3%], arterial and deep vein thrombosis [5% each]; no mention of clinically apparent liver injury ).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">30195076</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ponatinib.REF.garc_aguti_rrez.2019.603">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Garc&#x000ed;a-Guti&#x000e9;rrez</surname>
+                  <given-names>V</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Hern&#x000e1;ndez-Boluda</surname>
+                  <given-names>JC</given-names>
+                </name>
+              </person-group>
+              <article-title>Tyrosine kinase inhibitors available for chronic myeloid leukemia: efficacy and safety.</article-title>
+              <source>Front Oncol</source>
+              <year>2019</year>
+              <volume>9</volume>
+              <fpage>603</fpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Review of current therapy of CML using first [imatinib], second [nilotinib, dasatinib, bosutinib], and third generation [ponatinib] tyrosine kinase inhibitors, ponatinib being used only after failure of 1 or 2 other agents, its major shortcoming being high rate of adverse effects including major cardiovascular complications particularly with high doses of ponatinib; no discussion of hepatotoxicity).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">31334123</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ponatinib.REF.kim.2020.348">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Kim</surname>
+                  <given-names>J</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Nair</surname>
+                  <given-names>A</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Keegan</surname>
+                  <given-names>P</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Beaver</surname>
+                  <given-names>JA</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Kluetz</surname>
+                  <given-names>PG</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Pazdur</surname>
+                  <given-names>R</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Chuk</surname>
+                  <given-names>M</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Blumenthal</surname>
+                  <given-names>GM</given-names>
+                </name>
+              </person-group>
+              <article-title>Evaluation of serious postmarket safety signals within 2&#x02009;years of FDA approval for new cancer drugs.</article-title>
+              <source>Oncologist</source>
+              <year>2020</year>
+              <volume>25</volume>
+              <fpage>348</fpage>
+              <lpage>54</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Between 2010 and 2016, 53 new molecular entities for treatment of cancer were approved by the FDA, 9 of which subsequently had substantial safety related changes in labeling or indications, including 1 of 32 with regular approval and 7 of 23 with accelerated approval; ponatinib has the most changes [warning, boxed warning, withdrawal and REMS).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32297444</pub-id>
+            </element-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec sec-type="link-group" id="Ponatinib.OTHER_REFERENCE_LINKS">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <label>1</label>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=Ponatinib+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D:%222999/12/31%22%5BEDat%5D)">Recent References on Ponatinib: from PubMed.gov</ext-link>
+            </p>
+          </list-item>
+          <list-item>
+            <label>2</label>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Ponatinib">Trials on Ponatinib: from ClinicalTrials.gov</ext-link>
+            </p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

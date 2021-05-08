@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Mirabegron" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Mirabegron</book-part-id>
+      <title-group>
+        <title>Mirabegron</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>19</day>
+          <month>12</month>
+          <year>2016</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Minoxidil" document-type="chapter">Minoxidil</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Mirtazapine" document-type="chapter">Mirtazapine</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Mirabegron.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Mirabegron.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Mirabegron is a beta-3 adrenergic agonist that is used for treatment of overactive bladder syndrome. Mirabegron has not been implicated in causing liver enzyme elevations or clinically apparent acute liver injury.</p>
+        </sec>
+        <sec id="Mirabegron.Background">
+          <title>Background</title>
+          <p>Mirabegron (mir" a beg' ron) is a synthetic beta-3 adrenergic agonist which binds to receptors in the bladder that causes relaxation of the detrusor smooth muscle and results in an increase in the bladder capacity. Mirabegron has been evaluated as therapy of the overactive bladder syndrome, a condition marked by urgency, frequency, nocturia and incontinence that occurs most commonly in older women. Other therapies of overactive bladder include anticholinergics, but these are only partially effective and can have troublesome side effects, particularly in the elderly. In several short term clinical trials, mirabegron was found to increase voided volume and decrease episodes of incontinence and urinary frequency modestly. Mirabegron was approved for use in the United States in 2012 as treatment of overactive bladder with symptoms of urgency, incontinence and frequency. Mirabegron is available as 25 and 50 mg extended release tablets under the brand name Myrbetriq. The typical dose in adults is 25 to 50 mg orally once daily. Side effects are not common, but can include nausea, diarrhea, constipation, dizziness, tachycardia, palpitations, hypertension and headache. Rare, but potentially severe side effects include hypersensitivity reactions, angioedema and rash.</p>
+        </sec>
+        <sec id="Mirabegron.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>In preregistration clinical trials, serum aminotransferase elevations were uncommon and mild in patients treated with mirabegron and rates of serum enzyme elevations were similar to those with placebo treatment. Among several thousands of patients treated, there were no episodes of clinically apparent liver injury. Since its approval and more wide scale use, there have not been any published reports of hepatotoxicity attributed to mirabegron. The product label for mirabegron mentions occasional elevations in ALT and AST associated with treatment, but not clinically apparent hepatitis or hepatotoxicity.</p>
+          <p>Likelihood score: E (unlikely cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Mirabegron.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>Mirabegron is extensively metabolized by CYP 2D6 and inhibits its activity making it susceptible to drug-drug interactions with agents that are also metabolized by this enzyme. The possible cause of liver injury due to mirabegron is not known, but might result from its metabolism to a toxic or immunogenic intermediate or by its alteration in the drug levels of other potentially hepatotoxic agents.</p>
+          <p>Drug Class: Urologic Agents, Overactive Bladder Syndrome Agents</p>
+          <p>Other Drugs in the Subclass, Overactive Bladder Syndrome Agents: <related-object source-id="livertox" document-id="Darifenacin">Darifenacin</related-object>, <related-object source-id="livertox" document-id="Fesoterodine">Fesoterodine</related-object>, <related-object source-id="livertox" document-id="Flavoxate">Flavoxate</related-object>, <related-object source-id="livertox" document-id="Hyoscyamine">Hyoscyamine</related-object>, <related-object source-id="livertox" document-id="Oxybutynin">Oxybutynin</related-object>, <related-object source-id="livertox" document-id="Solifenacin">Solifenacin</related-object>, <related-object source-id="livertox" document-id="Tolterodine">Tolterodine</related-object>, <related-object source-id="livertox" document-id="Trospium">Trospium</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Mirabegron.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <boxed-text position="anchor" id="Mirabegron.BPI" orientation="portrait">
+          <p>
+            <bold>REPRESENTATIVE TRADE NAMES</bold>
+          </p>
+          <p>Mirabegron &#x02013; Myrbetriq&#x000ae;</p>
+          <p>
+            <bold>DRUG CLASS</bold>
+          </p>
+          <p>Urologic Agents</p>
+          <p>
+            <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Mirabegron">COMPLETE LABELING</ext-link>
+          </p>
+          <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+        </boxed-text>
+      </sec>
+      <sec id="Mirabegron.CHEMICAL_FORMULA_AND_STRUCTUR">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Mirabegron.T1" position="anchor" orientation="portrait">
+          <table>
+            <thead>
+              <tr>
+                <th id="hd_h_Mirabegron.T1_1_1_1_1" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Mirabegron.T1_1_1_1_2" rowspan="1" colspan="1">CAS REGISTRY NO.</th>
+                <th id="hd_h_Mirabegron.T1_1_1_1_3" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Mirabegron.T1_1_1_1_4" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Mirabegron.T1_1_1_1_1" rowspan="1" colspan="1">Mirabegron</td>
+                <td headers="hd_h_Mirabegron.T1_1_1_1_2" rowspan="1" colspan="1">
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135262850">223673-61-8</ext-link>
+                </td>
+                <td headers="hd_h_Mirabegron.T1_1_1_1_3" rowspan="1" colspan="1">C21-H24-N4-O2-S</td>
+                <td headers="hd_h_Mirabegron.T1_1_1_1_4" rowspan="1" colspan="1">
+                  <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Mirabegron_Structure.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait">
+                    <alt-text>Mirabegron Chemical Structure</alt-text>
+                  </graphic>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Mirabegron.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 19 December 2016</p>
+        <ref-list id="Mirabegron.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Mirabegron.R1">
+            <mixed-citation publication-type="other">Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999.<annotation><p><italic toggle="yes">(Expert review of hepatotoxicity published in 1999 before the availability of mirabegron).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Mirabegron.R2">
+            <mixed-citation publication-type="journal">Herschorn S, Barkin J, Castro-Diaz D, Frankel JM, Espuna-Pons M, Gousse AE, St&#x000f6;lzel M, et al. A phase III, randomized, double-blind, parallel-group, placebo-controlled, multicentre study to assess the efficacy and safety of the &#x003b2;&#x02083;adrenoceptor agonist, mirabegron, in patients with symptoms of overactive bladder. Urology 2013; 82: 313-20. <annotation><p><italic toggle="yes">(Among 1306 patients with overactive bladder syndrome treated with mirabegron [25 or 50 mg] or placebo daily for 12 weeks, episodes of incontinence and numbers of micturitions per day decreased with mirabegron, and side effects were mild and "the overall incidence of hepatic treatment emergent adverse events was similar across treatment groups; most were mild or moderate").</italic></p></annotation><pub-id pub-id-type="pmid">23769122</pub-id></mixed-citation>
+          </ref>
+          <ref id="Mirabegron.R3">
+            <mixed-citation publication-type="journal">Nitti VW, Khullar V, van Kerrebroeck P, Herschorn S, Cambronero J, Angulo JC, Blauwet MB, et al. Mirabegron for the treatment of overactive bladder: a prespecified pooled efficacy analysis and pooled safety analysis of three randomised, double-blind, placebo-controlled, phase III studies. Int J Clin Pract 2013; 67: 619-32. <annotation><p><italic toggle="yes">(In a pooled analysis of 3 placebo controlled trials, 3542 patients with overactive bladder syndrome were treated with mirabegron [25, 50 or 100 mg] or placebo daily for 12 weeks; adverse event rates were no different with mirabegron than placebo; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">23692526</pub-id></mixed-citation>
+          </ref>
+          <ref id="Mirabegron.R4">
+            <mixed-citation publication-type="journal">Khullar V, Amarenco G, Angulo JC, Cambronero J, H&#x000f8;ye K, Milsom I, Radziszewski P, et al. Efficacy and tolerability of mirabegron, a &#x003b2;(3)-adrenoceptor agonist, in patients with overactive bladder: results from a randomised European-Australian phase 3 trial. Eur Urol 2013; 63: 283-95. <annotation><p><italic toggle="yes">(Among 1978 patients with overactive bladder syndrome treated with once daily mirabegron [50 or 100 mg], tolterodine [4 mg] or placebo for 12 weeks, adverse event rates were similar among groups, and "changes in...serum chemistry parameters...were small and consistent across treatment groups").</italic></p></annotation><pub-id pub-id-type="pmid">23182126</pub-id></mixed-citation>
+          </ref>
+          <ref id="Mirabegron.R5">
+            <mixed-citation publication-type="journal">Chapple CR, Dvorak V, Radziszewski P, Van Kerrebroeck P, Wyndaele JJ, Bosman B, Boerrigter P, et al.; Dragon Investigator Group. A phase II dose-ranging study of mirabegron in patients with overactive bladder. Int Urogynecol J 2013; 24: 1447-58. <annotation><p><italic toggle="yes">(Among 928 adults with overactive bladder treated with mirabegron [25, 50, 100 or 200 mg daily], there was a dose related reduction in frequency of micturition, and side effects included increase in pulse rate at the high doses, but "there were no clinically relevant changes in laboratory parameters").</italic></p></annotation><pub-id pub-id-type="pmid">23471546</pub-id></mixed-citation>
+          </ref>
+          <ref id="Mirabegron.R6">
+            <mixed-citation publication-type="journal">Otsuki H, Kosaka T, Nakamura K, Mishima J, Kuwahara Y, Tsukamoto T. &#x003b2;3-Adrenoceptor agonist mirabegron is effective for overactive bladder that is unresponsive to antimuscarinic treatment or is related to benign prostatic hyperplasia in men. Int Urol Nephrol 2013; 45: 53-60. <annotation><p><italic toggle="yes">(Among 97 patients with overactive bladder treated with mirabegron [50 mg daily] for 8 weeks, 74% had improvement in symptoms and there were no liver related adverse events).</italic></p></annotation><pub-id pub-id-type="pmid">23212147</pub-id></mixed-citation>
+          </ref>
+          <ref id="Mirabegron.R7">
+            <mixed-citation publication-type="journal">Mirabegron (Myrbetriq) for overactive bladder. Med Lett Drugs Ther 2013; 55 (1410): 13-5. <annotation><p><italic toggle="yes">(Concise review of mechanism of action, clinical efficacy, safety and costs of mirabegron and other treatments for overactive bladder syndrome; mentions side effects of nausea, diarrhea, constipation, dizziness, tachycardia and headache, but not ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">23459457</pub-id></mixed-citation>
+          </ref>
+          <ref id="Mirabegron.R8">
+            <mixed-citation publication-type="journal">Bj&#x000f6;rnsson ES, Bergmann OM, Bj&#x000f6;rnsson HK, Kvaran RB, Olafsson S. Incidence, presentation and outcomes in patients with drug-induced liver injury in the general population of Iceland. Gastroenterology 2013; 144: 1419-25. <annotation><p><italic toggle="yes">(In a population based study of drug induced liver injury from Iceland, 96 cases were identified over a 2 year period, but none were attributed to mirabegron).</italic></p></annotation><pub-id pub-id-type="pmid">23419359</pub-id></mixed-citation>
+          </ref>
+          <ref id="Mirabegron.R9">
+            <mixed-citation publication-type="journal">Nitti VW, Chapple CR, Walters C, Blauwet MB, Herschorn S, Milsom I, Auerbach S, et al. Safety and tolerability of the &#x003b2;3 -adrenoceptor agonist mirabegron, for the treatment of overactive bladder: results of a prospective pooled analysis of three 12-week randomised Phase III trials and of a 1-year randomised Phase III trial. Int J Clin Pract 2014; 68: 972-85. <annotation><p><italic toggle="yes">(Pooled analysis of safety of mirabegron [25, 50 and 100 mg daily] from three 12-week and one 1-year studies reported side effects of hypertension, headache, back pain, drug mouth and constipation low and similar to rates in placebo recipients; elevations in ALT above 3 times ULN occurred in 1.5% on mirabegron, 1.4% on placebo and 2.0% on tolterodine, and no patient had concurrent elevation in bilirubin or clinically apparent liver injury).</italic></p></annotation><pub-id pub-id-type="pmid">24703195</pub-id></mixed-citation>
+          </ref>
+          <ref id="Mirabegron.R10">
+            <mixed-citation publication-type="journal">Hern&#x000e1;ndez N, Bessone F, S&#x000e1;nchez A, di Pace M, Brahm J, Zapata R, A Chirino R, et al. Profile of idiosyncratic drug induced liver injury in Latin America. An analysis of published reports. Ann Hepatol 2014; 13: 231-9. <annotation><p><italic toggle="yes">(Systematic review of literature of drug induced liver injury in Latin American countries published from 1996 to 2012 identified 176 cases, but none were attributed to mirabegron).</italic></p></annotation><pub-id pub-id-type="pmid">24552865</pub-id></mixed-citation>
+          </ref>
+          <ref id="Mirabegron.R11">
+            <mixed-citation publication-type="journal">Chalasani N, Bonkovsky HL, Fontana R, Lee W, Stolz A, Talwalkar J, Reddy KR, et al.; United States Drug Induced Liver Injury Network. Features and Outcomes of 899 Patients With Drug-Induced Liver Injury: The DILIN Prospective Study. Gastroenterology 2015; 148: 1340-1352.e7. <annotation><p><italic toggle="yes">(Among 899 cases of drug induced liver injury enrolled in a US prospective study between 2004 and 2013, none were attributed to mirabegron or other agents for overactive bladder syndrome).</italic></p></annotation><pub-id pub-id-type="pmid">25754159</pub-id></mixed-citation>
+          </ref>
+          <ref id="Mirabegron.R12">
+            <mixed-citation publication-type="journal">Batista JE, K&#x000f6;lbl H, Herschorn S, Rechberger T, Cambronero J, Halaska M, Coppell A, et al.; BEYOND study group. The efficacy and safety of mirabegron compared with solifenacin in overactive bladder patients dissatisfied with previous antimuscarinic treatment due to lack of efficacy: results of a noninferiority, randomized, phase IIIb trial. Ther Adv Urol 2015; 7: 167-79. <annotation><p><italic toggle="yes">(Among 1887 patients with overactive bladder treated with mirabegron or solifenacin for 12 weeks, decreases in micturition rates were similar with the two drugs [3.0 and 3.1 per day] as were rates of adverse events; no mention of ALT levels or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">26445596</pub-id></mixed-citation>
+          </ref>
+          <ref id="Mirabegron.R13">
+            <mixed-citation publication-type="journal">Thiagamoorthy G, Cardozo L, Srikrishna S. Drug therapy for an overactive bladder. Womens Health (Lond) 2015; 11: 445-8. <annotation><p><italic toggle="yes">(Overactive bladder is defined as urinary urgency, usually with frequency and nocturia with or without incontinence in the absence of infection or other known cause; medical therapy being use of anticholinergics or beta-3 agonists such as mirabegron which has fewer side effects than typical anticholinergics).</italic></p></annotation><pub-id pub-id-type="pmid">26238677</pub-id></mixed-citation>
+          </ref>
+          <ref id="Mirabegron.R14">
+            <mixed-citation publication-type="journal">Warren K, Burden H, Abrams P. Mirabegron in overactive bladder patients: efficacy review and update on drug safety. Ther Adv Drug Saf 2016; 7: 204-216. <annotation><p><italic toggle="yes">(Review of the 3 phase III trials of mirabegron for overactive bladder syndrome; no discussion of liver related adverse events).</italic></p></annotation><pub-id pub-id-type="pmid">27695622</pub-id></mixed-citation>
+          </ref>
+          <ref id="Mirabegron.R15">
+            <mixed-citation publication-type="journal">Kallner HK, Christensson AA, Elm&#x000e9;r C, Flam B, Altman D. Safety and efficacy of mirabegron in daily clinical practice: a prospective observational study. Eur J Obstet Gynecol Reprod Biol 2016; 203: 167-72 <annotation><p><italic toggle="yes">(Among 221 women with overactive bladder syndrome treated in clinical practice at a single medical center, 16 patients stopped therapy because of side effects including palpitations, chest pain, dry mouth, diarrhea, headache, fatigue, blurred vision and edema; no mention of liver related adverse events).</italic></p></annotation><pub-id pub-id-type="pmid">27318184</pub-id></mixed-citation>
+          </ref>
+          <ref id="Mirabegron.R16">
+            <mixed-citation publication-type="journal">Blais AS, Nadeau G, Moore K, Genois L, Bolduc S. Prospective pilot study of mirabegron in pediatric patients with overactive bladder. Eur Urol 2016; 70: 9-13. <annotation><p><italic toggle="yes">(Among 58 children with overactive bladder treated with mirabegron for a median of 11 months, bladder capacity increased and incontinence decreased, while most children tolerated therapy with no change in pulse or blood pressure and infrequent symptoms of nausea, personality change and nasal stuffiness; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">26876327</pub-id></mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec id="Mirabegron.OTHER_REFERENCE_LINKS" sec-type="link-group">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=Mirabegron+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D%3A%222999/12/31%22%5BEDat%5D)">Recent References on Mirabegron: from PubMed.gov</ext-link>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Mirabegron">Trials on Mirabegron: from ClinicalTrials.gov</ext-link>
+            </p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

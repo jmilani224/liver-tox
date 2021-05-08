@@ -1,0 +1,722 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="MonoclonalAntibodies" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">MonoclonalAntibodies</book-part-id>
+      <title-group>
+        <title>Monoclonal Antibodies</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>30</day>
+          <month>12</month>
+          <year>2020</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Molindone" document-type="chapter">Molindone</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Montelukast" document-type="chapter">Montelukast</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="MonoclonalAntibodies.OVERVIEW">
+        <title>OVERVIEW</title>
+        <p content-type="pubmed-excerpt">Monoclonal antibodies are antibodies that have a high degree of specificity (mono-specificity) for an antigen or epitope. Monoclonal antibodies are typically derived from a clonal expansion of antibody producing malignant human plasma cells. The initial monoclonal antibodies were created by fusing spleen cells from an immunized mouse with human or mouse myeloma cells (malignant self-perpetuating antibody producing cells), and selecting out and cloning the hybrid cells (hybridomas) that produced the desired antibody reactivity. These initial monoclonal products were mouse antibodies and were very valuable in laboratory and animal research and diagnostic assays, but were problematic as therapeutic agents because of immune reactions to the foreign mouse protein. Subsequently, production of chimeric mouse-human monoclonal antibodies and means of further &#x0201c;humanizing&#x0201d; them and producing fully human recombinant monoclonal antibodies were developed. The conventions used in nomenclature of monoclonal antibodies indicate whether they are mouse (-omab), chimeric (-ximab), humanized (-zumab) or fully human (-umab).</p>
+        <p content-type="pubmed-excerpt">Monoclonal antibodies have broad clinical and experimental medical uses. Many of the initial monoclonal antibodies used in clinical medicine were immunomodulatory agents with activity against specific immune cells, such as CD4 or CD3 lymphocytes, which are important in the pathogenesis of rejection after solid organ transplantation. Subsequently, monoclonal antibodies were prepared against specific cytokines (anti-cytokines), which were believed to play a role in cell and tissue damage in immunologically mediated diseases such as rheumatoid arthritis, alkylosing spondylitis, inflammatory bowel disease, multiple sclerosis and psoriasis, among others. In addition, therapeutic monoclonal antibodies were developed, aimed at blocking or inhibiting the activity of specific enzymes, cell surface transporters or signaling molecules and have been used in cancer chemotherapy and to treat severe viral infections. Use of monoclonal antibodies is currently broadening to therapy of other severe, nonmalignant conditions including asthma, atopic dermatitis, migraine headaches, hypercholesterolemia, osteoporosis and viral or bacterial infections. Thus, the therapeutic monoclonal antibodies do not fall into a single class and have broad therapeutic uses. As of 2018, more than 60 therapeutic monoclonal antibodies are approved and in use in the United States.</p>
+        <p content-type="pubmed-excerpt">Monoclonal antibodies are generally well tolerated. Because they are large proteins (typically 150-200,000 daltons in size) they require parenteral, often intravenous, administration. Circulating proteins are metabolized by many cells, but particularly by hepatocytes. Proteins undergo hepatic uptake by endocytosis and are either degraded or recycled to the cell surface for secretion. The hepatic metabolism of antibodies often determines their half-life. Proteins are broken down by cellular proteases into small peptides and amino acids that can used to synthesize other proteins. Metabolism of proteins does not generate toxic intermediates and, therefore, monoclonal antibodies are unlikely to induce drug induced liver injury via production of toxic metabolites. On the other hand, the peptides that are generated by the metabolism of the exogenously administered protein may ultimately be presented as foreign epitopes and generate an immune response. In addition, the primary effect of the monoclonal antibody may generate a response, either immune or otherwise, that leads to an immune mediate hepatic injury. Finally, monoclonal antibodies that suppress the immune system may cause reactivation of latent infections, including tuberculosis and hepatitis B.</p>
+        <p>Among the monoclonal antibodies that have been used in clinical medicine, only a few have been linked to drug induced liver injury and, in many situations, the cause of the hepatic adverse event is often unclear. The monoclonal antibodies most clearly linked to drug induced liver injury include the antibodies to tumor necrosis factor (anti-TNF such as infliximab, adalimumab, certolizumab and golimumab), to antibodies to checkpoint proteins (anti-CTLA4 such as ipilimumab; anti-PD1 such as nivolumab, pembrolizumab and cemiplimab; and anti- PD-L1 such as atezolizumab, avelumab and durvalumab) and to antibodies to B cell markers and activation signals (anti-CD20 such as rituximab, ofatumumab and tositumomab). The liver injury caused by these products is usually attributed to induction of autoimmunity or to immune modulation and reactivation of hepatitis B.</p>
+        <p>Because of their fine specificity, monoclonal antibodies can also be used to direct more conventional therapeutic agents to specific organs, tissues or cells. Several monoclonal antibody conjugates have been developed, largely in the therapy of cancer, the conjugated drug being an antineoplastic or cytotoxic agent. Five such agents are gemtuzumab ozogamicin, brentuximab vedotin, trastuzumab emtansine, inotuzumab ozogamicin and moxetumomab pasudotox. These products combine a monoclonal antibody (anti-CD33, anti-CD30, anti-HER2, anti-CD22) to a microtubule inhibitor (ozogamicin, vedotin, emtansine, pasudotox). These agents have been associated with serum enzyme elevations during therapy, and several have been linked to hepatic vascular damage, sinusoidal obstruction syndrome and nodular regenerative hyperplasia. These forms of hepatotoxicity are likely due to the conjugate (the "payload") rather than the monoclonal antibody (the targeting vehicle).</p>
+        <p>Monoclonal antibodies available for clinical use in the United States are listed below with the type of monoclonal and specific antigen targeted in parentheses, followed by the year of approval and major use. Those monoclonal antibodies with specific discussions of their hepatotoxicity in LiverTox are underlined and have a link to the corresponding record.</p>
+        <p>
+          <underline>MONOCLONAL ANTIBODIES</underline>
+        </p>
+        <p>
+          <italic toggle="yes">Underlined Generic Names link to a LiverTox record.</italic>
+        </p>
+        <table-wrap id="MonoclonalAntibodies.Tc" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <tbody>
+              <tr>
+                <td colspan="5" valign="top" align="left" scope="col" rowspan="1">
+                  <bold>CANCER</bold>
+                </td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" scope="row" rowspan="1" colspan="1">
+                  <bold>Generic Name<break/>Brand Name</bold>
+                </td>
+                <td valign="top" align="left" rowspan="1" colspan="1">
+                  <bold>Type<break/>Antigenic Target</bold>
+                </td>
+                <td valign="top" align="left" rowspan="1" colspan="1">
+                  <bold>Approval</bold>
+                </td>
+                <td valign="top" align="left" rowspan="1" colspan="1">
+                  <bold>Likelihood<break/>Score&#x02020;</bold>
+                </td>
+                <td valign="top" align="left" rowspan="1" colspan="1">
+                  <bold>Major Uses</bold>
+                </td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" scope="row" rowspan="1" colspan="1"><related-object link-type="booklink" source-id="livertox" document-id="Alemtuzumab" document-type="chapter">Alemtuzumab</related-object><break/> Campath</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Humanized<break/>CD52</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">2001</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">E</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Chronic lymphocytic leukemia</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" scope="row" rowspan="1" colspan="1"><related-object link-type="booklink" source-id="livertox" document-id="Atezolizumab" document-type="chapter">Atezolizumab</related-object><break/> Tecentriq</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Humanized<break/>PD-L1</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">2016</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">D</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Urothelial carcinoma<break/>Non-small cell lung cancer</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" scope="row" rowspan="1" colspan="1"><related-object link-type="booklink" source-id="livertox" document-id="Avelumab" document-type="chapter">Avelumab</related-object><break/> Bavencio</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Human<break/>PD-L1</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">2017</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">E*</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Merkel cell carcinoma<break/>Urothelial carcinoma</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" scope="row" rowspan="1" colspan="1"><related-object link-type="booklink" source-id="livertox" document-id="Bevacizumab" document-type="chapter">Bevacizumab</related-object><break/> Avastin</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Humanized<break/> VEGF</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">2004<break/>2006<break/>2009<break/>2018</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">E</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Colorectal cancer<break/>Non-small cell lung cancer<break/>Macular degeneration (off lbl) Renal cancer<break/>Ovarian cancer</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" scope="row" rowspan="1" colspan="1"><related-object link-type="booklink" source-id="livertox" document-id="Blinatumomab" document-type="chapter">Blinatumomab</related-object><break/> Blincyto</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Mouse<break/>CD3, CD19</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">2014</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">E</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Acute lymphoblastic leukemia</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" scope="row" rowspan="1" colspan="1"><related-object link-type="booklink" source-id="livertox" document-id="Brentuximab_vedotin" document-type="chapter">Brentuximab</related-object><break/> Adcetris</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Chimeric<break/>CD30</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">2011<break/>2018</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">E</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Hodgkin lymphoma<break/>Peripheral T-cell lymphoma</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" scope="row" rowspan="1" colspan="1"><related-object link-type="booklink" source-id="livertox" document-id="Cemiplimab" document-type="chapter">Cemiplimab</related-object><break/> Libtayo</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Human<break/>PD-1</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">2018</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">C</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Squamous cell carcinoma</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" scope="row" rowspan="1" colspan="1"><related-object link-type="booklink" source-id="livertox" document-id="Cetuximab" document-type="chapter">Cetuximab</related-object><break/> Erbitux</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Chimeric<break/>EGFR</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">2004</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">E</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Head and neck cancer<break/>Colorectal cancer</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" scope="row" rowspan="1" colspan="1"><related-object link-type="booklink" source-id="livertox" document-id="Daratumumab" document-type="chapter">Daratumumab</related-object><break/> Darzalex</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Human<break/>CD38</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">2015</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">E</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Multiple myeloma</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" scope="row" rowspan="1" colspan="1"><related-object link-type="booklink" source-id="livertox" document-id="Dinutuximab" document-type="chapter">Dinutuximab</related-object><break/> Unituxin</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Chimeric<break/>GD2</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">2015</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">E*</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Neuroblastoma</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" scope="row" rowspan="1" colspan="1"><related-object link-type="booklink" source-id="livertox" document-id="Durvalumab" document-type="chapter">Durvalumab</related-object><break/> Imfinzi</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Human<break/>PD-L1</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">2017</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">C</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Urothelial carcinoma</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" scope="row" rowspan="1" colspan="1"><related-object link-type="booklink" source-id="livertox" document-id="Elotuzumab" document-type="chapter">Elotuzumab</related-object><break/> Empliciti</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Humanized<break/>SLAMF7</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">2015</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">D</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Multiple myeloma</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" scope="row" rowspan="1" colspan="1"><related-object link-type="booklink" source-id="livertox" document-id="GemtuzumabOzogamicin" document-type="chapter">Gemtuzumab</related-object><break/> Mylotarg</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Humanized<break/>CD33</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">2000<break/>2017</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">A</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Acute myelogenous leukemia</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" scope="row" rowspan="1" colspan="1"><related-object link-type="booklink" source-id="livertox" document-id="InotuzumabOzogamicin" document-type="chapter">Inotuzumab</related-object><break/> Besponsa</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Humanized<break/>CD22</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">2017</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">B</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Acute lymphoblastic leukemia</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" scope="row" rowspan="1" colspan="1"><related-object link-type="booklink" source-id="livertox" document-id="Ipilimumab" document-type="chapter">Ipilimumab</related-object><break/> Yervoy</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Human<break/>CTLA4</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">2011</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">A</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Malignant melanoma</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" scope="row" rowspan="1" colspan="1"><related-object link-type="booklink" source-id="livertox" document-id="Mogamulizumab" document-type="chapter">Mogamulizumab</related-object><break/> Poteligeo</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Humanized<break/>CCR4</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">2018</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">C</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Mycosis fungoides<break/>S&#x000e9;zary syndrome</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" scope="row" rowspan="1" colspan="1"><related-object link-type="booklink" source-id="livertox" document-id="MoxetumomabPasudotox" document-type="chapter">Moxetumomab</related-object> Lumoxiti</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Mouse<break/>CD22</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">2018</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">E*</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Hairy cell leukemia</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" scope="row" rowspan="1" colspan="1"><related-object link-type="booklink" source-id="livertox" document-id="Necitumumab" document-type="chapter">Necitumumab</related-object><break/> Portrazza</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Human<break/>EGFR</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">2015</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">E</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Non-small cell lung cancer</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" scope="row" rowspan="1" colspan="1"><related-object link-type="booklink" source-id="livertox" document-id="Nivolumab" document-type="chapter">Nivolumab</related-object><break/> Opdivo</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Human<break/>PD-1</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">2015<break/>2018</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">E*</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Malignant melanoma<break/>Metastatic small cell lung cancer</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" scope="row" rowspan="1" colspan="1"><related-object link-type="booklink" source-id="livertox" document-id="Ofatumumab" document-type="chapter">Ofatumumab</related-object><break/> Arzerra</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Human<break/>CD20</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">2009</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">E</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Chronic lymphocytic leukemia</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" scope="row" rowspan="1" colspan="1"><related-object link-type="booklink" source-id="livertox" document-id="Olaratumab" document-type="chapter">Olaratumab</related-object><break/> Lartruvo</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Human<break/>PDGF</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">2016</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">E*</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Soft tissue sarcoma</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" scope="row" rowspan="1" colspan="1"><related-object link-type="booklink" source-id="livertox" document-id="Panitumumab" document-type="chapter">Panitumumab</related-object><break/> Vectibix</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Human<break/>EGFR</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">2006</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">E*</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Colorectal cancer</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" scope="row" rowspan="1" colspan="1"><related-object link-type="booklink" source-id="livertox" document-id="Pembrolizumab" document-type="chapter">Pembrolizumab</related-object><break/> Keytruda</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Humanized<break/>PD-1</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">2014<break/>2015<break/>2018</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">E*</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Malignant melanoma<break/>Non-small cell lung cancer<break/>Advanced cervical cancer</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" scope="row" rowspan="1" colspan="1"><related-object link-type="booklink" source-id="livertox" document-id="Pertuzumab" document-type="chapter">Pertuzumab</related-object><break/> Perjeta</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Humanized<break/>HER2</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">2012</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">E*</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Breast cancer</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" scope="row" rowspan="1" colspan="1"><related-object link-type="booklink" source-id="livertox" document-id="Ramucirumab" document-type="chapter">Ramucirumab</related-object><break/> Cyramza</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Human<break/>VEGF</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">2014<break/>2015</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">E*</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Gastric, non-small cell lung cancer<break/>Colorectal cancer</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" scope="row" rowspan="1" colspan="1"><related-object link-type="booklink" source-id="livertox" document-id="Rituximab" document-type="chapter">Rituximab</related-object><break/> Rituxan</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Chimeric<break/>CD20</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">1997</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">A</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Chronic lymphocytic leukemia<break/>Non-Hodgkin lymphoma<break/>Rheumatoid arthritis</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" scope="row" rowspan="1" colspan="1"><related-object link-type="booklink" source-id="livertox" document-id="Tositumomab" document-type="chapter">Tositumomab</related-object><break/> Bexxar</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Mouse<break/>CD20</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">2003<break/>Withdrawn</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">C</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Non-Hodgkin lymphoma</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" scope="row" rowspan="1" colspan="1"><related-object link-type="booklink" source-id="livertox" document-id="Trastuzumab" document-type="chapter">Trastuzumab</related-object><break/> Herceptin</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Humanized<break/>HER2</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">1998</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">C</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Breast and gastric cancer</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+        <table-wrap id="MonoclonalAntibodies.Td" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <tbody>
+              <tr>
+                <td colspan="5" valign="top" align="left" scope="col" rowspan="1">
+                  <bold>AUTOIMMUNE DISEASES</bold>
+                </td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" scope="row" rowspan="1" colspan="1">
+                  <bold>Generic Name<break/>Brand Name</bold>
+                </td>
+                <td valign="top" align="left" rowspan="1" colspan="1">
+                  <bold>Type<break/>Antigenic Target</bold>
+                </td>
+                <td valign="top" align="left" rowspan="1" colspan="1">
+                  <bold>Approval</bold>
+                </td>
+                <td valign="top" align="left" rowspan="1" colspan="1">
+                  <bold>Likelihood<break/>Score&#x02020;</bold>
+                </td>
+                <td valign="top" align="left" rowspan="1" colspan="1">
+                  <bold>Major Uses</bold>
+                </td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" scope="row" rowspan="1" colspan="1"><related-object link-type="booklink" source-id="livertox" document-id="Adalimumab" document-type="chapter">Adalimumab</related-object><break/> Humira</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Human<break/>TNF&#x003b1;</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">2002</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">B</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Inflammatory bowel disease<break/>Rheumatoid, psoriatic arthritis<break/>Severe psoriasis</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" scope="row" rowspan="1" colspan="1"><related-object link-type="booklink" source-id="livertox" document-id="Alemtuzumab" document-type="chapter">Alemtuzumab</related-object><break/> Lemtrada</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Humanized<break/>CD52</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">2014</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">E</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Multiple sclerosis</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" scope="row" rowspan="1" colspan="1"><related-object link-type="booklink" source-id="livertox" document-id="Belimumab" document-type="chapter">Belimumab</related-object><break/> Benlysta</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Human<break/>B cell activity factor</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">2011<break/>2020</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">E</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Systemic lupus erythematosus<break/>Lupus nephritis</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" scope="row" rowspan="1" colspan="1"><related-object link-type="booklink" source-id="livertox" document-id="Brodalumab" document-type="chapter">Brodalumab</related-object><break/> Siliq</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Human<break/>IL-17A</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">2017</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">E</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Plaque psoriasis</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" scope="row" rowspan="1" colspan="1"><related-object link-type="booklink" source-id="livertox" document-id="Canakinumab" document-type="chapter">Canakinumab</related-object><break/> Ilaris</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Human<break/>IL1&#x003b2;</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">2009</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">E</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Autoinflammatory diseases</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" scope="row" rowspan="1" colspan="1"><related-object link-type="booklink" source-id="livertox" document-id="Certolizumab" document-type="chapter">Certolizumab</related-object><break/> Cimzia</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Humanized<break/>TNF&#x003b1;</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">2008</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">E*</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Inflammatory bowel disease<break/>Rheumatoid arthritis</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" scope="row" rowspan="1" colspan="1"><related-object link-type="booklink" source-id="livertox" document-id="Daclizumab" document-type="chapter">Daclizumab</related-object><break/> Zinbryta</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Humanized<break/>CD25</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">2016</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">C</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Multiple sclerosis</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" scope="row" rowspan="1" colspan="1"><related-object link-type="booklink" source-id="livertox" document-id="Dupilumab" document-type="chapter">Dupilumab</related-object><break/> Dupixent</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Human<break/>IL-4&#x003b1;</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">2017</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">E</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Atopic dermatitis</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" scope="row" rowspan="1" colspan="1"><related-object link-type="booklink" source-id="livertox" document-id="Efalizumab" document-type="chapter">Efalizumab</related-object><break/> Raptiva</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Humanized<break/>CD11a</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">2003<break/>Withdrawn</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">D</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Plaque psoriasis</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" scope="row" rowspan="1" colspan="1"><related-object link-type="booklink" source-id="livertox" document-id="Golimumab" document-type="chapter">Golimumab</related-object><break/> Simponi</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Human<break/>TNF&#x003b1;</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">2009</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">E*</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Inflammatory bowel disease<break/>Rheumatoid, psoriatic arthritis</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" scope="row" rowspan="1" colspan="1"><related-object link-type="booklink" source-id="livertox" document-id="Guselkumab" document-type="chapter">Guselkumab</related-object><break/> Tremfya</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Human<break/>IL-23</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">2017</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">E*</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Plaque psoriasis</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" scope="row" rowspan="1" colspan="1"><related-object link-type="booklink" source-id="livertox" document-id="Infliximab" document-type="chapter">Infliximab</related-object><break/> Remicade</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Chimeric<break/>TNF&#x003b1;</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">1998</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">A</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Inflammatory bowel disease<break/>Rheumatoid arthritis<break/>Severe psoriasis</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" scope="row" rowspan="1" colspan="1"><related-object link-type="booklink" source-id="livertox" document-id="Ixekizumab" document-type="chapter">Ixekizumab</related-object><break/> Taltz</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Humanized<break/>IL-17A</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">2016</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">E</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Plaque psoriasis<break/>Psoriatic arthritis</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" scope="row" rowspan="1" colspan="1"><related-object link-type="booklink" source-id="livertox" document-id="Ocrelizumab" document-type="chapter">Ocrelizumab</related-object><break/> Ocrevus</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Humanized<break/>CD20</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">2017</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">E*</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Multiple sclerosis</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" scope="row" rowspan="1" colspan="1"><related-object link-type="booklink" source-id="livertox" document-id="Omalizumab" document-type="chapter">Omalizumab</related-object><break/> Xolair</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Humanized<break/>IgE</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">2003<break/>2014</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">E</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Eosinophilic asthma<break/>Chronic idiopathic urticaria</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" scope="row" rowspan="1" colspan="1"><related-object link-type="booklink" source-id="livertox" document-id="Rituximab" document-type="chapter">Rituximab</related-object><break/> Rituxan</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Chimeric<break/>CD20</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">1997</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">A</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Chronic lymphocytic leukemia<break/>Non-Hodgkin lymphoma<break/>Rheumatoid arthritis</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" scope="row" rowspan="1" colspan="1"><related-object link-type="booklink" source-id="livertox" document-id="Sarilumab" document-type="chapter">Sarilumab</related-object><break/> Kevzara</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Human<break/>IL6R</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">2017</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">E*</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Rheumatoid arthritis</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" scope="row" rowspan="1" colspan="1"><related-object link-type="booklink" source-id="livertox" document-id="Secukinumab" document-type="chapter">Secukinumab</related-object><break/> Cosentyx</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Human<break/>IL-17A</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">2015</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">E</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Plaque psoriasis<break/>Psoriatic arthritis</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" scope="row" rowspan="1" colspan="1"><related-object link-type="booklink" source-id="livertox" document-id="Siltuximab" document-type="chapter">Siltuximab</related-object><break/> Sylvant</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Chimeric<break/>IL6</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">2014</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">E</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Castleman disease</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" scope="row" rowspan="1" colspan="1"><related-object link-type="booklink" source-id="livertox" document-id="Tildrakizumab" document-type="chapter">Tildrakizumab</related-object><break/> Ilumya</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Humanized<break/>IL-23</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">2018</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">E*</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Plaque psoriasis</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" scope="row" rowspan="1" colspan="1"><related-object link-type="booklink" source-id="livertox" document-id="Tocilizumab" document-type="chapter">Tocilizumab</related-object><break/> Actemra</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Humanized<break/>IL6R</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">2010<break/>2011<break/>2017</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">D</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Rheumatoid arthritis<break/>Juvenile idiopathic arthritis<break/>Giant cell arteritis</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" scope="row" rowspan="1" colspan="1"><related-object link-type="booklink" source-id="livertox" document-id="Ustekinumab" document-type="chapter">Ustekinumab</related-object><break/> Stelara</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Human<break/>IL-12, IL-23</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">2010</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">E*</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Plaque psoriasis<break/>Psoriatic arthritis</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" scope="row" rowspan="1" colspan="1"><related-object link-type="booklink" source-id="livertox" document-id="Vedolizumab" document-type="chapter">Vedolizumab</related-object><break/> Entyvio</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Humanized<break/>Integrin &#x003b1;4&#x003b2;7</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">2014</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">E*</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Inflammatory bowel disease</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+        <table-wrap id="MonoclonalAntibodies.Te" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <tbody>
+              <tr>
+                <td colspan="5" valign="top" align="left" scope="col" rowspan="1">
+                  <bold>LIVER TRANSPLANTATION</bold>
+                </td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" scope="row" rowspan="1" colspan="1">
+                  <bold>Generic Name<break/>Brand Name</bold>
+                </td>
+                <td valign="top" align="left" rowspan="1" colspan="1">
+                  <bold>Type<break/>Antigenic Target</bold>
+                </td>
+                <td valign="top" align="left" rowspan="1" colspan="1">
+                  <bold>Approval</bold>
+                </td>
+                <td valign="top" align="left" rowspan="1" colspan="1">
+                  <bold>Likelihood<break/>Score&#x02020;</bold>
+                </td>
+                <td valign="top" align="left" rowspan="1" colspan="1">
+                  <bold>Major Uses</bold>
+                </td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" scope="row" rowspan="1" colspan="1"><related-object link-type="booklink" source-id="livertox" document-id="Basiliximab" document-type="chapter">Basiliximab</related-object><break/> Simulect</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Chimeric<break/>IL-2R&#x003b1;</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">1998</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">E</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Prevention of transplant rejection</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" scope="row" rowspan="1" colspan="1"><related-object link-type="booklink" source-id="livertox" document-id="Daclizumab" document-type="chapter">Daclizumab</related-object><break/> Zenapax</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Humanized<break/>IL-2</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">1997<break/>Withdrawn</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">E</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Prevention of transplant rejection</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" scope="row" rowspan="1" colspan="1"><related-object link-type="booklink" source-id="livertox" document-id="Muromonab-CD3" document-type="chapter">Muromonab-CD3</related-object><break/> OKT3</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Mouse<break/>CD3 T cells</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">1985<break/>Withdrawn</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">E</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Prevention of transplant rejection</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+        <table-wrap id="MonoclonalAntibodies.Tf" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <tbody>
+              <tr>
+                <td colspan="5" valign="top" align="left" scope="col" rowspan="1">
+                  <bold>MISCELLANEOUS</bold>
+                </td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" scope="row" rowspan="1" colspan="1">
+                  <bold>Generic Name<break/>Brand Name</bold>
+                </td>
+                <td valign="top" align="left" rowspan="1" colspan="1">
+                  <bold>Type<break/>Antigenic Target</bold>
+                </td>
+                <td valign="top" align="left" rowspan="1" colspan="1">
+                  <bold>Approval</bold>
+                </td>
+                <td valign="top" align="left" rowspan="1" colspan="1">
+                  <bold>Likelihood<break/>Score&#x02020;</bold>
+                </td>
+                <td valign="top" align="left" rowspan="1" colspan="1">
+                  <bold>Major Uses</bold>
+                </td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" scope="row" rowspan="1" colspan="1">Abciximab<break/> Reopro</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Chimeric<break/>GpIIb/IIIa</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">1993</td>
+                <td valign="top" align="left" rowspan="1" colspan="1"/>
+                <td valign="top" align="left" rowspan="1" colspan="1">Inhibition of platelet aggregation</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" scope="row" rowspan="1" colspan="1"><related-object link-type="booklink" source-id="livertox" document-id="Alirocumab" document-type="chapter">Alirocumab</related-object><break/> Praluent</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Human<break/>PCSK9</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">2015</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">E</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Hypercholesterolemia</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" scope="row" rowspan="1" colspan="1"><related-object link-type="booklink" source-id="livertox" document-id="Benralizumab" document-type="chapter">Benralizumab</related-object><break/> Fasenra</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Humanized<break/>IL5</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">2017</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">E</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Eosinophilic asthma</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" scope="row" rowspan="1" colspan="1"><related-object link-type="booklink" source-id="livertox" document-id="Bezlotoxumab" document-type="chapter">Bezlotoxumab</related-object><break/> Zinplava</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Human<break/>C. difficile toxin B</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">2016</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">E*</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Prevention of recurrence<break/>of C. difficile infection</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" scope="row" rowspan="1" colspan="1"><related-object link-type="booklink" source-id="livertox" document-id="Burosumab" document-type="chapter">Burosumab</related-object><break/> Crysvita</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Human<break/>FGF 23</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">2018</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">E</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">X-linked Hypophosphatemia</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" scope="row" rowspan="1" colspan="1"><related-object link-type="booklink" source-id="livertox" document-id="Denosumab" document-type="chapter">Denosumab</related-object><break/> Prolia, Zgeva</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Human<break/>RANKL</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">2010</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">E</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Osteoporosis<break/>Bone metastases</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" scope="row" rowspan="1" colspan="1"><related-object link-type="booklink" source-id="livertox" document-id="Eculizumab" document-type="chapter">Eculizumab</related-object><break/> Soliris</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Humanized<break/>C5</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">2007<break/>2011</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">D</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Paroxysmal nocturnal hemoglobinuria</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" scope="row" rowspan="1" colspan="1"><related-object link-type="booklink" source-id="livertox" document-id="Emapalumab" document-type="chapter">Emapalumab</related-object><break/>Gamifant</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Human<break/>Interferon Gamma</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">2018</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">E</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Hemophagocytic lymphohistiocytosis</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" scope="row" rowspan="1" colspan="1"><related-object link-type="booklink" source-id="livertox" document-id="Emicizumab" document-type="chapter">Emicizumab</related-object><break/> Hemlibra</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Humanized<break/>Factor IXa &#x00026; X</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">2017</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">E</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Hemophilia A</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" scope="row" rowspan="1" colspan="1"><related-object link-type="booklink" source-id="livertox" document-id="Erenumab" document-type="chapter">Erenumab</related-object><break/> Aimovig</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Human<break/>CGRP</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">2018</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">E</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Migraine headache</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" scope="row" rowspan="1" colspan="1"><related-object link-type="booklink" source-id="livertox" document-id="Evolocumab" document-type="chapter">Evolocumab</related-object><break/> Repatha</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Human<break/>PCSK9</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">2015</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">E</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Hypercholesterolemia</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" scope="row" rowspan="1" colspan="1"><related-object link-type="booklink" source-id="livertox" document-id="Fremanezumab" document-type="chapter">Fremanezumab</related-object><break/> Ajovy</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Humanized<break/>CGRP</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">2018</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">E</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Migraine headache</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" scope="row" rowspan="1" colspan="1"><related-object link-type="booklink" source-id="livertox" document-id="Galcanezumab" document-type="chapter">Galcanezumab</related-object><break/> Emgality</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Humanized<break/>CGRP</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">2018</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">E</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Migraine headache</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" scope="row" rowspan="1" colspan="1"><related-object link-type="booklink" source-id="livertox" document-id="Ibalizumab" document-type="chapter">Ibalizumab</related-object><break/> Trogarzo</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Humanized<break/>CD4</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">2018</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">E</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">HIV infection</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" scope="row" rowspan="1" colspan="1"><related-object link-type="booklink" source-id="livertox" document-id="Lanadelumab" document-type="chapter">Lanadelumab</related-object><break/> Takhzyro</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Human<break/>Kallikrein</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">2018</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">E</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Hereditary angioneurotic edema</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" scope="row" rowspan="1" colspan="1"><related-object link-type="booklink" source-id="livertox" document-id="Mepolizumab" document-type="chapter">Mepolizumab</related-object><break/> Nucala</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Humanized<break/>IL15</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">2015</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">E</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Eosinophilic asthma<break/>Hypereosinophilic syndrome</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" scope="row" rowspan="1" colspan="1"><related-object link-type="booklink" source-id="livertox" document-id="Natalizumab" document-type="chapter">Natalizumab</related-object><break/> Tysabri</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Humanized<break/>Integrin &#x003b1;4&#x003b2;7</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">2004</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">C</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Multiple sclerosis<break/>Inflammatory bowel disease</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" scope="row" rowspan="1" colspan="1"><related-object link-type="booklink" source-id="livertox" document-id="AnthraxAntitoxins" document-type="chapter">Obiltoxaximab</related-object><break/> Anthim</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Chimeric<break/>Anthrax toxin</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">2016</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">E</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Inhalational anthrax</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" scope="row" rowspan="1" colspan="1"><related-object link-type="booklink" source-id="livertox" document-id="Omalizumab" document-type="chapter">Omalizumab</related-object><break/> Xolair</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Humanized<break/>IgE</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">2003<break/>2014</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">E</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Eosinophilic asthma<break/>Chronic idiopathic urticaria</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" scope="row" rowspan="1" colspan="1">Palivizumab<break/> Synagis</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Humanized<break/>RSV fusion protein</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">1998</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">E</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Respiratory syncytial virus infection</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" scope="row" rowspan="1" colspan="1"><related-object link-type="booklink" source-id="livertox" document-id="MacularDegenerAgents" document-type="chapter">Ranibizumab</related-object><break/> Lucentis</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Humanized<break/>VEGF-A</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">2006</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">E</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Macular degeneration</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" scope="row" rowspan="1" colspan="1"><related-object link-type="booklink" source-id="livertox" document-id="Ravulizumab" document-type="chapter">Ravulizumab</related-object><break/>Ultomiris</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Humanized Complement C5</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">2018</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">E*</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Paroxysmal noctural hemoglobinuria</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" scope="row" rowspan="1" colspan="1">
+                  <related-object link-type="booklink" source-id="livertox" document-id="AnthraxAntitoxins" document-type="chapter">Raxibacumab</related-object>
+                </td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Human<break/>Anthrax toxin</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">2012</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">E</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Inhalational anthrax</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" scope="row" rowspan="1" colspan="1"><related-object link-type="booklink" source-id="livertox" document-id="Reslizumab" document-type="chapter">Reslizumab</related-object><break/> Cinqair</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Humanized<break/>IL5</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">2016</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">E</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Eosinophilic asthma</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+        <p><bold>&#x02020;</bold> Likelihood Score indicates the likelihood of association with drug induced liver injury,</p>
+        <p>based upon the known potential of the drug to cause such injury.</p>
+        <p>Updated: February 3, 2019</p>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

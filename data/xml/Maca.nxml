@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Maca" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Maca</book-part-id>
+      <title-group>
+        <title>Maca</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>10</day>
+          <month>4</month>
+          <year>2019</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Lurasidone" document-type="chapter">Lurasidone</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Macitentan" document-type="chapter">Macitentan</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Maca.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Maca.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Maca is a vegetable and food as well as a traditional herbal medicine derived from the roots of a perennial plant (Lepidium meyenii) that grows in high altitudes of Peru and is used to promote health and improve wellness, sexual function and fertility. Maca has not been implicated in causing liver injury either in the form of transient serum enzyme elevations or clinically apparent liver injury.</p>
+        </sec>
+        <sec id="Maca.Background">
+          <title>Background</title>
+          <p>Maca (ma' ka) is a food and traditional herbal medicine derived from the roots of a perennial plant (Lepidium meyenii) cultivated at high altitudes in the Andes mountains. Also known as &#x0201c;Peruvian ginseng&#x0201d; is belongs to the genus Lepidium and family Brassica (mustard). Maca is unique in being one of the few edible plants that can survive the intense cold, sunlight and strong winds found above 4000 m in the Peruvian Andes. In Peru, maca has been used for centuries as a food supplement to improve health and for its medicinal properties to enhance energy and fertility. The principal and edible part of the maca plant is the underground tuber, which is similar to a radish or turnip and varies in size and color (white, black, red). The principal components of maca are carbohydrates and protein and it is an excellent source of essential amino acids, iron and calcium. Secondary components include macaridine, macaenes, macamides and maca alkaloids that are unique to this plant. It also has multiple sterols and glucosinolates. In experimental animals, maca extracts increase sexual function and improve fertility. Other activities include improvement in memory and learning, decrease in prostate size and improvement in bone mineralization. Studies in humans have had conflicting results, but it has been promoted as improving sexual desire and improving sperm counts, improving mood, memory and learning, as well as energy and physical stamina. None of these effects have been proven in prospective, rigorously controlled trials in humans. The recommended daily dose varies widely (500 to 3000 mg daily), depending on the preparation used (capsules, tablets, liquid, root extract) and indications. Side effects of maca are uncommon and mild, and mostly include gastrointestinal symptoms and headaches.</p>
+        </sec>
+        <sec id="Maca.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>In small clinical trials, maca extracts have been reported to be safe, well tolerated and with only minor, transient adverse effects. There have been no convincing reports linking maca to liver injury, either in the form of transient serum enzyme elevations during therapy or clinically apparent acute liver injury. As an herbal supplement, however, maca has had limited use.</p>
+          <p>Likelihood score: E (unlikely cause of clinically apparent liver injury).</p>
+          <p>Drug Class: <related-object source-id="livertox" document-id="HerbalDietarySuppl">Herbal and Dietary Supplements</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Maca.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <boxed-text position="anchor" id="Maca.BPI" orientation="portrait">
+          <p>
+            <bold>REPRESENTATIVE TRADE NAMES</bold>
+          </p>
+          <p>Maca &#x02013; Generic</p>
+          <p>
+            <bold>DRUG CLASS</bold>
+          </p>
+          <p>Herbal and Dietary Supplements</p>
+          <p>SUMMARY INFORMATION</p>
+          <p>
+            <underline>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://medlineplus.gov/druginfo/natural/555.html">Fact Sheet at MedlinePlus/Natural Medicines Comprehensive Database</ext-link>
+            </underline>
+          </p>
+        </boxed-text>
+      </sec>
+      <sec id="Maca.CHEMICAL_FORMULA_AND_STRUCTURE">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Maca.T1" position="anchor" orientation="portrait">
+          <table>
+            <thead>
+              <tr>
+                <th id="hd_h_Maca.T1_1_1_1_1" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Maca.T1_1_1_1_2" rowspan="1" colspan="1">CAS REGISTRY NUMBER</th>
+                <th id="hd_h_Maca.T1_1_1_1_3" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Maca.T1_1_1_1_4" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Maca.T1_1_1_1_1" rowspan="1" colspan="1">Maca</td>
+                <td headers="hd_h_Maca.T1_1_1_1_2" rowspan="1" colspan="1">
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://chem.sis.nlm.nih.gov/chemidplus/direct.jsp?regno=M010010000">M010010000</ext-link>
+                </td>
+                <td headers="hd_h_Maca.T1_1_1_1_3" rowspan="1" colspan="1">Herbal Extract</td>
+                <td headers="hd_h_Maca.T1_1_1_1_4" rowspan="1" colspan="1">Not applicable</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Maca.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 10 April 2019</p>
+        <p>Abbreviations used: HDS, herbal and dietary supplements</p>
+        <ref-list id="Maca.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Maca.R1">
+            <mixed-citation publication-type="other">Zimmerman HJ. Unconventional drugs. Miscellaneous drugs and diagnostic chemicals. In, Zimmerman, HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott,1999: pp. 731-4.<annotation><p><italic toggle="yes">(Expert review of hepatotoxicity published in 1999; maca is not discussed).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Maca.R2">
+            <mixed-citation publication-type="other">Seeff L, Stickel F, Navarro VJ. Hepatotoxicity of herbals and dietary supplements. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013, pp. 631-58.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of HDS; maca is not discussed).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Maca.R3">
+            <mixed-citation publication-type="journal">Schiano TD. Hepatotoxicity and complementary and alternative medicines. Clin Liver Dis 2003; 7: 453-73. <annotation><p><italic toggle="yes">(Comprehensive review of herbal associated hepatotoxicity; maca is not listed as causing hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">12879994</pub-id></mixed-citation>
+          </ref>
+          <ref id="Maca.R4">
+            <mixed-citation publication-type="journal">Gonzales GF, C&#x000f3;rdova A, Vega K, Chung A, Villena A, G&#x000f3;&#x000f1;ez C. Effect of Lepidium meyenii (Maca), a root with aphrodisiac and fertility-enhancing properties, on serum reproductive hormone levels in adult healthy men. J Endocrinol 2003; 176: 163-8. <annotation><p><italic toggle="yes">(Among 56 adult men treated with maca [1.5 or 3.0 g daily] for up to 12 weeks, sex and pituitary hormone levels did not change; adverse events were not reported).</italic></p></annotation><pub-id pub-id-type="pmid">12525260</pub-id></mixed-citation>
+          </ref>
+          <ref id="Maca.R5">
+            <mixed-citation publication-type="journal">Russo MW, Galanko JA, Shrestha R, Fried MW, Watkins P. Liver transplantation for acute liver failure from drug-induced liver injury in the United States. Liver Transpl 2004; 10: 1018-23. <annotation><p><italic toggle="yes">(Among ~50,000 liver transplants reported to UNOS between 1990 and 2002, 270 [0.5%] were done for drug induced acute liver failure, including 7 [5%] for herbal medications, none attributed to maca).</italic></p></annotation><pub-id pub-id-type="pmid">15390328</pub-id></mixed-citation>
+          </ref>
+          <ref id="Maca.R6">
+            <mixed-citation publication-type="journal">Valerio LG Jr, Gonzales GF. Toxicological aspects of the South American herbs cat's claw (Uncaria tomentosa) and Maca (Lepidium meyenii): a critical synopsis. Toxicol Rev 2005; 24: 11-35. <annotation><p><italic toggle="yes">(Extensive review of the pharmacological and toxicological features of two popular South American traditional remedies, maca and cat&#x02019;s claw, the former having a long history of medicinal use in traditional medicine by indigenous cultures but has not been well studied scientifically, although studies in experimental animals suggest a low degree of oral toxicity).</italic></p></annotation><pub-id pub-id-type="pmid">16042502</pub-id></mixed-citation>
+          </ref>
+          <ref id="Maca.R7">
+            <mixed-citation publication-type="journal">Dording CM, Fisher L, Papakostas G, Farabaugh A, Sonawalla S, Fava M, Mischoulon D. A double-blind, randomized, pilot dose-finding study of maca root (L. meyenii) for the management of SSRI-induced sexual dysfunction. CNS Neurosci Ther 2008; 14: 182-91. <annotation><p><italic toggle="yes">(Open label study of two doses of maca in 16 patients with antidepressant induced sexual dysfunction found improvements with the higher [3 g] but not lower [1.5 g] daily doses and mentions that maca was &#x0201c;well tolerated overall&#x0201d;, the most frequent side effect being gastrointestinal [31%]).</italic></p></annotation><pub-id pub-id-type="pmid">18801111</pub-id></mixed-citation>
+          </ref>
+          <ref id="Maca.R8">
+            <mixed-citation publication-type="journal">Garc&#x000ed;a-Cort&#x000e9;s M, Borraz Y, Lucena MI, Pel&#x000e1;ez G, Salmer&#x000f3;n J, Diago M, Mart&#x000ed;nez-Sierra MC, et al. [Liver injury induced by &#x0201c;natural remedies&#x0201d;: an analysis of cases submitted to the Spanish Liver Toxicity Registry]. Rev Esp Enferm Dig 2008; 100: 688-95. Spanish. <annotation><p><italic toggle="yes">(Among 521 cases of drug induced liver injury submitted to a Spanish registry, 13 [2%] were due to herbals, but none were attributed to maca).</italic></p></annotation><pub-id pub-id-type="pmid">19159172</pub-id></mixed-citation>
+          </ref>
+          <ref id="Maca.R9">
+            <mixed-citation publication-type="journal">Jacobsson I, J&#x000f6;nsson AK, Gerd&#x000e9;n B, H&#x000e4;gg S. Spontaneously reported adverse reactions in association with complementary and alternative medicine substances in Sweden. Pharmacoepidemiol Drug Saf 2009; 18: 1039-47. <annotation><p><italic toggle="yes">(Review of 778 spontaneous reports of adverse reactions to herbals to Swedish Registry between 1987 and 2006 found no cases attributed to maca).</italic></p></annotation><pub-id pub-id-type="pmid">19650152</pub-id></mixed-citation>
+          </ref>
+          <ref id="Maca.R10">
+            <mixed-citation publication-type="journal">Shin BC, Lee MS, Yang EJ, Lim HS, Ernst E. Maca (L. meyenii) for improving sexual function: a systematic review. BMC Complement Altern Med 2010; 10: 44. <annotation><p><italic toggle="yes">(A systematic review of the literature on maca for improving sexual function provided &#x0201c;limited evidence&#x0201d; for its effectiveness and none of the trials provided information on adverse events).</italic></p></annotation><pub-id pub-id-type="pmid">20691074</pub-id></mixed-citation>
+          </ref>
+          <ref id="Maca.R11">
+            <mixed-citation publication-type="journal">Lee MS, Shin BC, Yang EJ, Lim HJ, Ernst E. Maca (Lepidium meyenii) for treatment of menopausal symptoms: a systematic review. Maturitas 2011; 70: 227-33. <annotation><p><italic toggle="yes">(Systematic review of the literature on use of maca for menopausal symptoms identified 4 controlled trials all of which demonstrated &#x0201c;favorable&#x0201d; effects but the number, size and quality of the studies &#x0201c;were too limited to draw firm conclusions&#x0201d;).</italic></p></annotation><pub-id pub-id-type="pmid">21840656</pub-id></mixed-citation>
+          </ref>
+          <ref id="Maca.R12">
+            <mixed-citation publication-type="journal">Gonzales GF. Ethnobiology and ethnopharmacology of Lepidium meyenii (maca), a plant from the Peruvian highlands. Evid Based Complement Alternat Med 2012; 2012: 193496. <annotation><p><italic toggle="yes">(Review of the history and tradition of use of maca, its chemical constituents and results of studies in experimental animals and clinical trials in humans mentions that studies in rats have revealed no toxic effects and it has been reported to be safe in humans).</italic></p></annotation><pub-id pub-id-type="pmid">21977053</pub-id></mixed-citation>
+          </ref>
+          <ref id="Maca.R13">
+            <mixed-citation publication-type="journal">Teschke R, Wolff A, Frenzel C, Schulze J, Eickhoff A. Herbal hepatotoxicity: a tabular compilation of reported cases. Liver Int 2012 32: 1543-56. <annotation><p><italic toggle="yes">(A systematic compilation of all publications on the hepatotoxicity of specific herbals identified 185 publications on 60 different herbs and supplements; does not list maca).</italic></p></annotation><pub-id pub-id-type="pmid">22928722</pub-id></mixed-citation>
+          </ref>
+          <ref id="Maca.R14">
+            <mixed-citation publication-type="journal">Bunchorntavakul C, Reddy KR. Review article: herbal and dietary supplement hepatotoxicity. Aliment Pharmacol Ther 2013; 37: 3-17. <annotation><p><italic toggle="yes">(Systematic review of literature on HDS associated liver injury does not discuss maca).</italic></p></annotation><pub-id pub-id-type="pmid">23121117</pub-id></mixed-citation>
+          </ref>
+          <ref id="Maca.R15">
+            <mixed-citation publication-type="journal">Navarro VJ, Barnhart H, Bonkovsky HL, Davern T, Fontana RJ, Grant L, Reddy KR, et al. Liver injury from herbals and dietary supplements in the U.S. Drug-Induced Liver Injury Network. Hepatology 2014; 60: 1399-408. <annotation><p><italic toggle="yes">(Among 85 cases of HDS associated liver injury [not due to anabolic steroids] enrolled in a US prospective study between 2004 and 2013, none were attributed to a known maca containing product).</italic></p></annotation><pub-id pub-id-type="pmid">25043597</pub-id></mixed-citation>
+          </ref>
+          <ref id="Maca.R16">
+            <mixed-citation publication-type="journal">Stojanovska L, Law C, Lai B, Chung T, Nelson K, Day S, Apostolopoulos V, et al. Maca reduces blood pressure and depression, in a pilot study in postmenopausal women. Climacteric 2015; 18: 69-78. <annotation><p><italic toggle="yes">(Among 29 postmenopausal women treated with maca [3.3 g] or placebo daily for 6 weeks in a cross-over study, hormonal levels, glucose, lipids and sexual dysfunction scores did not change, while depression and anxiety scores improved to a similar extent with maca and placebo).</italic></p></annotation><pub-id pub-id-type="pmid">24931003</pub-id></mixed-citation>
+          </ref>
+          <ref id="Maca.R17">
+            <mixed-citation publication-type="journal">Seeff LB, Bonkovsky HL, Navarro VJ, Wang G. Herbal products and the liver: a review of adverse effects and mechanisms. Gastroenterology 2015; 148: 517-32. <annotation><p><italic toggle="yes">(Extensive review of possible beneficial as well as harmful effects of herbal products on the liver does not mention or discuss maca).</italic></p></annotation><pub-id pub-id-type="pmid">25500423</pub-id></mixed-citation>
+          </ref>
+          <ref id="Maca.R18">
+            <mixed-citation publication-type="journal">Garc&#x000ed;a-Cort&#x000e9;s M, Robles-D&#x000ed;az M, Ortega-Alonso A, Medina-Caliz I, Andrade RJ. Hepatotoxicity by dietary supplements: a tabular listing and clinical characteristics. Int J Mol Sci 2016; 17. pii: E537. <annotation><p><italic toggle="yes">(Listing of published cases of liver injury from HDS products does not mention or discuss maca in the listings).</italic></p></annotation><pub-id pub-id-type="pmid">27070596</pub-id></mixed-citation>
+          </ref>
+          <ref id="Maca.R19">
+            <mixed-citation publication-type="journal">Gonzales-Arimborgo C, Yupanqui I, Montero E, Alarc&#x000f3;n-Yaquetto DE, Zevallos-Concha A, Caballero L, Gasco M, et al. Acceptability, safety, and efficacy of oral administration of extracts of black or red maca (Lepidium meyenii) in adult human subjects: a randomized, double-blind, placebo-controlled study. Pharmaceuticals(Basel) 2016; 9(3). pii: E49. <annotation><p><italic toggle="yes">(Among 175 adults given 3 g of red or black maca or placebo daily for 12 weeks, improvements in sexual desire, mood and energy and health related quality of life were greater with maca; adverse events were not discussed).</italic></p></annotation><pub-id pub-id-type="pmid">27548190</pub-id></mixed-citation>
+          </ref>
+          <ref id="Maca.R20">
+            <mixed-citation publication-type="journal">Xiao A, He HY, Chen Q, Ma SW. Drug-induced liver injury due to Lepidium meyenii (Maca) medicinal liquor. Chin Med J (Engl) 2017; 130: 3005-6. <annotation><p><italic toggle="yes">(30 year old man developed jaundice within a few days of drinking 300 mL of &#x0201c;maca medicinal liquor&#x0201d; [bilirubin 4.9 mg/dL, ALT 1886 U/L, Alk P 136 U/L, INR 1.1], with resolution over the next 1-3 months).</italic></p></annotation><pub-id pub-id-type="pmid">29237937</pub-id></mixed-citation>
+          </ref>
+          <ref id="Maca.R21">
+            <mixed-citation publication-type="journal">Brown AC. Liver toxicity related to herbs and dietary supplements: Online table of case reports. Part 2 of 5 series. Food Chem Toxicol 2017; 107 (Pt A): 472-501. <annotation><p><italic toggle="yes">(Description of an online compendium of cases of liver toxicity attributed to HDS products; does not mention maca).</italic></p></annotation><pub-id pub-id-type="pmid">27402097</pub-id></mixed-citation>
+          </ref>
+          <ref id="Maca.R22">
+            <mixed-citation publication-type="journal">Wong LL, Lacar L, Roytman M, Orloff SL. Urgent liver transplantation for dietary supplements: an under-recognized problem. Transplant Proc 2017; 49: 322-5. <annotation><p><italic toggle="yes">(Among 2048 adult liver transplants recipients enrolled in the Scientific Registry of Transplant Recipients [SRTR] between 2003 and 2015, 625 were done for acute hepatic necrosis due to drug induced liver injury, half being due to acetaminophen and the 4th most frequent cause [n=21] being HDS products, but maca was not implicated in any case).</italic></p></annotation><pub-id pub-id-type="pmid">28219592</pub-id></mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec id="Maca.OTHER_REFERENCE_LINKS" sec-type="link-group">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=(Maca/AE)+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D%3A%222999/12/31%22%5BEDat%5D)">Recent References on Maca: from PubMed.gov</ext-link>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Maca">Trials on Maca: from ClinicalTrials.gov</ext-link>
+            </p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

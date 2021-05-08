@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Ribavirin" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Ribavirin</book-part-id>
+      <title-group>
+        <title>Ribavirin</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>10</day>
+          <month>6</month>
+          <year>2018</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Revefenacin" document-type="chapter">Revefenacin</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Ribociclib" document-type="chapter">Ribociclib</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Ribavirin.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Ribavirin.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Ribavirin is a nucleoside analogue and antiviral agent used in therapy of chronic hepatitis C and other flavivirus infections. Ribavirin has not been associated with clinically apparent liver injury.</p>
+        </sec>
+        <sec id="Ribavirin.Background">
+          <title>Background</title>
+          <p>Ribavirin (rye" ba vye' rin) is a guanosine nucleoside analogue which has antiviral activity against many RNA and DNA viruses in vitro, but has been found to have clinical effects in humans mostly against flaviviruses, including the hepatitis C virus (HCV), respiratory syncytial virus (RSV), and perhaps the Ebola and Hanta viruses. The in vitro antiviral activity of ribavirin appears to be mediated by depletion of intracellular guanosine through inhibition of inosine monophosphate dehydrogenase (a necessary enzyme in purine nucleoside synthesis). Ribavirin may also have indirect effects on viral replication caused by increasing interferon induced gene expression and modulating immune responses. Ribavirin is indicated as adjunctive therapy with alpha interferon or peginterferon in combination with an HCV specific protease inhibitor (boceprevir or telaprevir) in chronic hepatitis C. Ribavirin is also used by inhalation for acute RSV infection. Ribavirin has been used experimentally to treat chronic hepatitis E, and is currently under evaluation in interferon-free regimens for hepatitis C in combination with other oral direct acting antivirals. Ribavirin was approved for use in hepatitis C in 1998 and was initially widely used for that indication. With the development of potent, all oral, direct acting antiviral agents for hepatitis C, ribavirin has been used far less frequently, although it is occasionally still used in patients who relapse or fail to respond to optimal direct acting agents for hepatitis C. Ribavirin is available as capsules of 200 mg in generic forms and under the brand names of Copegus and Rebetol. The recommended dose of ribavirin in adults is 800 to 1200 mg daily in two divided doses for 24 to 48 weeks in combination with peginterferon, with or without boceprevir or telaprevir. Side effects include hemolytic anemia, pruritus and nasal stuffiness.</p>
+        </sec>
+        <sec id="Ribavirin.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>Oral therapy with ribavirin alone is rarely used and has not been associated with serum aminotransferase elevations. Because ribavirin is usually used in patients with underlying liver disease (hepatitis C), it is difficult to interpret increases in serum ALT levels during therapy, and typically ribavirin decreases serum ALT levels in patients with hepatitis C. Ribavirin does cause a dose dependent red cell hemolysis which can be severe. The onset of hemolysis is usually after 2 to 3 weeks of therapy and can present with symptoms of anemia and sudden decreases in hematocrit levels by 5% to 10%. The hemolysis is accompanied by a mild increase in indirect bilirubin, which may result in total bilirubin concentrations of 1.5 to 2.5 mg/dL. This indirect hyperbilirubinemia is generally benign and resolves rapidly once therapy is stopped. Patients with underlying Gilbert syndrome or with advanced liver disease may become visibly jaundiced. Patients with deficiencies in inosine triphosphatase activity (ITPA variants) are relatively protected against the hemolysis of ribavirin, probably because the increased levels of intracellular ITP provide an alternate source for intracellular guanosine and adenosine triphosphate which are depleted in red cells by ribavirin-triphosphate.</p>
+          <p>Rare instances of fatty liver with lactic acidosis and hepatic dysfunction have been reported in patients with HIV infection receiving antiretroviral therapy as well as ribavirin in combination with interferon or oral direct acting antiviral agents against hepatitis C. This complication has not been reported with use of ribavirin alone and drug-drug interactions are likely the cause, ribavirin increasing the risk of lactic acidosis from other nucleoside analogues used in the treatment of HIV infection (particularly stavudine, didanosine and zidovudine).</p>
+          <p>Treatment of patients with advanced cirrhosis with chronic hepatitis C using potent direct acting antiviral agents has resulted in several instances of acute hepatic decompensation, typically arising during the first few weeks of treatment. Many of these patients were also receiving ribavirin, but sudden decompensation has also been described in non-ribavirin containing regimens and no single antiviral agent appears to be responsible. Because ribavirin is generally used in combination with other antiviral agents its contribution to adverse events and particularly liver associated adverse events is difficult to assess. If ribavirin is capable of causing significant liver injury, this must be quite rare.</p>
+          <p>Likelihood score: E* (unproven although suspected rare cause of clinically apparent liver injury)</p>
+        </sec>
+        <sec id="Ribavirin.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>Ribavirin is metabolized minimally by the liver and is excreted largely unchanged by the kidneys, perhaps accounting for the absence or rarity of hepatic injury. The hyperbilirubinemia associated with ribavirin use is due to red cell hemolysis and excess production of bilirubin.</p>
+          <p>Drug Class: <related-object source-id="livertox" document-id="AntiviralAgents">Antiviral Agents</related-object>, <related-object source-id="livertox" document-id="NucleosideAnalogues">Nucleoside Analogues</related-object>, <related-object source-id="livertox" document-id="HepatitisCDrugs">Hepatitis C Agents</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Ribavirin.CASE_REPORT">
+        <title>CASE REPORT</title>
+        <sec id="Ribavirin.Case_1._Hyperbilirubinemia_dur">
+          <title>Case 1. Hyperbilirubinemia during ribavirin therapy in a patient with Gilbert syndrome.</title>
+          <p>[NIH Case #R52]</p>
+          <p>A 53 year old man with chronic hepatitis C developed mild jaundice during experimental therapy with ribavirin. He was known to have had chronic hepatitis C for 10 years, acquired because of a blood transfusion. He was otherwise well, but had a previous history of hepatitis B from which he had recovered. He denied all symptoms of liver disease except for mild and intermittent fatigue. He had elevations of serum aminotransferase levels (ALT 123 U/L, AST 91 U/L), but normal serum bilirubin 0.9 mg/dL and albumin 4.2 g/dL. He was positive for anti-HCV, and HCV RNA was present at levels of 3 to 6 million IU/mL, genotype 1b. HBsAg and anti-HAV were negative and autoantibodies were not detected. A liver biopsy showed marked disease activity (histology activity index score of 12 of a total possible of 18) and bridging hepatic fibrosis (Ishak fibrosis score of 3 of a possible 6). He was enrolled in an experimental study of ribavirin monotherapy and received 1200 mg daily for 12 months. Serum enzymes improved during treatment, but serum bilirubin levels were intermittently elevated with a peak total bilirubin of 3.1, direct 0.5 mg/dL. A concurrent reticulocyte count had risen from 2.4 to 9.3% and hematocrit had fallen from 49.2% to 39.7% (Table). He denied worsening of fatigue or itching. Upon stopping ribavirin, the hemolysis resolved and bilirubin levels and reticulocyte counts fell while serum aminotransferase levels and hematocrit rose to baseline levels. There was no sustained improvement in the liver disease.</p>
+          <sec id="Ribavirin.Key_Points">
+            <title>Key Points</title>
+            <table-wrap id="Ribavirin.T1" position="anchor" orientation="portrait">
+              <table>
+                <tbody>
+                  <tr>
+                    <td rowspan="1" colspan="1">Medication:</td>
+                    <td rowspan="1" colspan="1">Ribavirin (1200 mg daily)</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Pattern:</td>
+                    <td rowspan="1" colspan="1">Not applicable</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Severity:</td>
+                    <td rowspan="1" colspan="1">None; hyperbilirubinemia without liver injury</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Latency:</td>
+                    <td rowspan="1" colspan="1">2-4 weeks</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Recovery:</td>
+                    <td rowspan="1" colspan="1">2-4 weeks</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Other medications:</td>
+                    <td rowspan="1" colspan="1">None</td>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Ribavirin.Laboratory_Values">
+            <title>Laboratory Values</title>
+            <table-wrap id="Ribavirin.T2" position="anchor" orientation="portrait">
+              <table>
+                <thead>
+                  <tr>
+                    <th id="hd_h_Ribavirin.T2_1_1_1_1" rowspan="1" colspan="1">Months After Starting</th>
+                    <th id="hd_h_Ribavirin.T2_1_1_1_2" rowspan="1" colspan="1">ALT<break/> (U/L)</th>
+                    <th id="hd_h_Ribavirin.T2_1_1_1_3" rowspan="1" colspan="1">Total Bilirubin (mg/dL)</th>
+                    <th id="hd_h_Ribavirin.T2_1_1_1_4" rowspan="1" colspan="1">Retics (%)</th>
+                    <th id="hd_h_Ribavirin.T2_1_1_1_5" rowspan="1" colspan="1">Hct<break/> (%)</th>
+                    <th id="hd_h_Ribavirin.T2_1_1_1_6" rowspan="1" colspan="1">HCV RNA<break/> (million IU/mL)</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td headers="hd_h_Ribavirin.T2_1_1_1_1" rowspan="1" colspan="1">Pre</td>
+                    <td headers="hd_h_Ribavirin.T2_1_1_1_2" rowspan="1" colspan="1">123</td>
+                    <td headers="hd_h_Ribavirin.T2_1_1_1_3" rowspan="1" colspan="1">0.9</td>
+                    <td headers="hd_h_Ribavirin.T2_1_1_1_4" rowspan="1" colspan="1">1.0</td>
+                    <td headers="hd_h_Ribavirin.T2_1_1_1_5" rowspan="1" colspan="1">50.3</td>
+                    <td headers="hd_h_Ribavirin.T2_1_1_1_6" rowspan="1" colspan="1">6.5</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Ribavirin.T2_1_1_1_1" rowspan="1" colspan="1">0</td>
+                    <td headers="hd_h_Ribavirin.T2_1_1_1_2" rowspan="1" colspan="1">148</td>
+                    <td headers="hd_h_Ribavirin.T2_1_1_1_3" rowspan="1" colspan="1">1.5</td>
+                    <td headers="hd_h_Ribavirin.T2_1_1_1_4" rowspan="1" colspan="1">2.4</td>
+                    <td headers="hd_h_Ribavirin.T2_1_1_1_5" rowspan="1" colspan="1">49.2</td>
+                    <td headers="hd_h_Ribavirin.T2_1_1_1_6" rowspan="1" colspan="1">3.4</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Ribavirin.T2_1_1_1_1 hd_h_Ribavirin.T2_1_1_1_2 hd_h_Ribavirin.T2_1_1_1_3 hd_h_Ribavirin.T2_1_1_1_4 hd_h_Ribavirin.T2_1_1_1_5 hd_h_Ribavirin.T2_1_1_1_6" colspan="6" rowspan="1">Ribavirin (1200 mg daily) started</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Ribavirin.T2_1_1_1_1" rowspan="1" colspan="1">1</td>
+                    <td headers="hd_h_Ribavirin.T2_1_1_1_2" rowspan="1" colspan="1">85</td>
+                    <td headers="hd_h_Ribavirin.T2_1_1_1_3" rowspan="1" colspan="1">1.7</td>
+                    <td headers="hd_h_Ribavirin.T2_1_1_1_4" rowspan="1" colspan="1">8.8</td>
+                    <td headers="hd_h_Ribavirin.T2_1_1_1_5" rowspan="1" colspan="1">41.0</td>
+                    <td headers="hd_h_Ribavirin.T2_1_1_1_6" rowspan="1" colspan="1">2.6</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Ribavirin.T2_1_1_1_1" rowspan="1" colspan="1">2</td>
+                    <td headers="hd_h_Ribavirin.T2_1_1_1_2" rowspan="1" colspan="1">65</td>
+                    <td headers="hd_h_Ribavirin.T2_1_1_1_3" rowspan="1" colspan="1">2.0</td>
+                    <td headers="hd_h_Ribavirin.T2_1_1_1_4" rowspan="1" colspan="1">9.3</td>
+                    <td headers="hd_h_Ribavirin.T2_1_1_1_5" rowspan="1" colspan="1">39.7</td>
+                    <td headers="hd_h_Ribavirin.T2_1_1_1_6" rowspan="1" colspan="1">2.5</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Ribavirin.T2_1_1_1_1" rowspan="1" colspan="1">4</td>
+                    <td headers="hd_h_Ribavirin.T2_1_1_1_2" rowspan="1" colspan="1">35</td>
+                    <td headers="hd_h_Ribavirin.T2_1_1_1_3" rowspan="1" colspan="1">2.1</td>
+                    <td headers="hd_h_Ribavirin.T2_1_1_1_4" rowspan="1" colspan="1">10.4</td>
+                    <td headers="hd_h_Ribavirin.T2_1_1_1_5" rowspan="1" colspan="1">36.4</td>
+                    <td headers="hd_h_Ribavirin.T2_1_1_1_6" rowspan="1" colspan="1">2.5</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Ribavirin.T2_1_1_1_1" rowspan="1" colspan="1">6</td>
+                    <td headers="hd_h_Ribavirin.T2_1_1_1_2" rowspan="1" colspan="1">47</td>
+                    <td headers="hd_h_Ribavirin.T2_1_1_1_3" rowspan="1" colspan="1">1.5</td>
+                    <td headers="hd_h_Ribavirin.T2_1_1_1_4" rowspan="1" colspan="1">11.7</td>
+                    <td headers="hd_h_Ribavirin.T2_1_1_1_5" rowspan="1" colspan="1">38.8</td>
+                    <td headers="hd_h_Ribavirin.T2_1_1_1_6" rowspan="1" colspan="1">1.9</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Ribavirin.T2_1_1_1_1" rowspan="1" colspan="1">8</td>
+                    <td headers="hd_h_Ribavirin.T2_1_1_1_2" rowspan="1" colspan="1">54</td>
+                    <td headers="hd_h_Ribavirin.T2_1_1_1_3" rowspan="1" colspan="1">3.1</td>
+                    <td headers="hd_h_Ribavirin.T2_1_1_1_4" rowspan="1" colspan="1">9.3</td>
+                    <td headers="hd_h_Ribavirin.T2_1_1_1_5" rowspan="1" colspan="1">39.7</td>
+                    <td headers="hd_h_Ribavirin.T2_1_1_1_6" rowspan="1" colspan="1">1.8</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Ribavirin.T2_1_1_1_1" rowspan="1" colspan="1">12</td>
+                    <td headers="hd_h_Ribavirin.T2_1_1_1_2" rowspan="1" colspan="1">43</td>
+                    <td headers="hd_h_Ribavirin.T2_1_1_1_3" rowspan="1" colspan="1">1.9</td>
+                    <td headers="hd_h_Ribavirin.T2_1_1_1_4" rowspan="1" colspan="1">9.9</td>
+                    <td headers="hd_h_Ribavirin.T2_1_1_1_5" rowspan="1" colspan="1">37.9</td>
+                    <td headers="hd_h_Ribavirin.T2_1_1_1_6" rowspan="1" colspan="1">1.8</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Ribavirin.T2_1_1_1_1 hd_h_Ribavirin.T2_1_1_1_2 hd_h_Ribavirin.T2_1_1_1_3 hd_h_Ribavirin.T2_1_1_1_4 hd_h_Ribavirin.T2_1_1_1_5 hd_h_Ribavirin.T2_1_1_1_6" colspan="6" rowspan="1">Ribavirin stopped and patient followed on no therapy</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Ribavirin.T2_1_1_1_1" rowspan="1" colspan="1">+1</td>
+                    <td headers="hd_h_Ribavirin.T2_1_1_1_2" rowspan="1" colspan="1">72</td>
+                    <td headers="hd_h_Ribavirin.T2_1_1_1_3" rowspan="1" colspan="1">0.6</td>
+                    <td headers="hd_h_Ribavirin.T2_1_1_1_4" rowspan="1" colspan="1">2.4</td>
+                    <td headers="hd_h_Ribavirin.T2_1_1_1_5" rowspan="1" colspan="1">48.0</td>
+                    <td headers="hd_h_Ribavirin.T2_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Ribavirin.T2_1_1_1_1" rowspan="1" colspan="1">+2</td>
+                    <td headers="hd_h_Ribavirin.T2_1_1_1_2" rowspan="1" colspan="1">212</td>
+                    <td headers="hd_h_Ribavirin.T2_1_1_1_3" rowspan="1" colspan="1">0.8</td>
+                    <td headers="hd_h_Ribavirin.T2_1_1_1_4" rowspan="1" colspan="1">1.3</td>
+                    <td headers="hd_h_Ribavirin.T2_1_1_1_5" rowspan="1" colspan="1">48.6</td>
+                    <td headers="hd_h_Ribavirin.T2_1_1_1_6" rowspan="1" colspan="1">3.0</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Ribavirin.T2_1_1_1_1" rowspan="1" colspan="1">+6</td>
+                    <td headers="hd_h_Ribavirin.T2_1_1_1_2" rowspan="1" colspan="1">157</td>
+                    <td headers="hd_h_Ribavirin.T2_1_1_1_3" rowspan="1" colspan="1">1.4</td>
+                    <td headers="hd_h_Ribavirin.T2_1_1_1_4" rowspan="1" colspan="1">1.3</td>
+                    <td headers="hd_h_Ribavirin.T2_1_1_1_5" rowspan="1" colspan="1">49.0</td>
+                    <td headers="hd_h_Ribavirin.T2_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Ribavirin.T2_1_1_1_1" rowspan="1" colspan="1">
+                      <bold>Normal Values</bold>
+                    </td>
+                    <td headers="hd_h_Ribavirin.T2_1_1_1_2" rowspan="1" colspan="1">
+                      <bold>&#x0003c;42</bold>
+                    </td>
+                    <td headers="hd_h_Ribavirin.T2_1_1_1_3" rowspan="1" colspan="1">
+                      <bold>&#x0003c;1.2</bold>
+                    </td>
+                    <td headers="hd_h_Ribavirin.T2_1_1_1_4" rowspan="1" colspan="1">
+                      <bold>&#x0003c;1.0</bold>
+                    </td>
+                    <td headers="hd_h_Ribavirin.T2_1_1_1_5" rowspan="1" colspan="1">
+                      <bold>&#x0003e;38</bold>
+                    </td>
+                    <td headers="hd_h_Ribavirin.T2_1_1_1_6" rowspan="1" colspan="1">
+                      <bold>None</bold>
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+            <p>Abbreviations: Retics, reticulocytes; Hct, hematocrit; HCV, hepatitis C virus.</p>
+          </sec>
+          <sec id="Ribavirin.Comment">
+            <title>Comment</title>
+            <p>A patient with chronic hepatitis C and probable Gilbert syndrome (constitutional indirect hyperbilirubinemia) developed visible jaundice during an experimental study of monotherapy with ribavirin. At the same time that serum bilirubin levels increased, serum ALT levels had fallen in response to the ribavirin therapy. There was a concomitant minor decrease in HCV RNA levels. The increase in indirect hyperbilirubinemia with reticulocytosis and decrease in hematocrit indicated that the jaundice was due to hemolysis in a patient with impaired ability to conjugate bilirubin, rather than hepatic injury or cholestasis. There was a rapid reversal of the hyperbilirubinemia with stopping therapy. Both before and after therapy, total serum bilirubin levels were occasionally slightly above normal (1.5-1.8 mg/dL), probably based upon how long he had been fasting at the time of the blood draw.</p>
+          </sec>
+        </sec>
+      </sec>
+      <sec id="Ribavirin.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <boxed-text position="anchor" id="Ribavirin.BPI" orientation="portrait">
+          <p>
+            <bold>REPRESENTATIVE TRADE NAMES</bold>
+          </p>
+          <p>Ribavirin &#x02013; Generic, Copegus&#x000ae;, Rebetol&#x000ae;</p>
+          <p>
+            <bold>DRUG CLASS</bold>
+          </p>
+          <p>Antiviral Agents</p>
+          <p>
+            <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Ribavirin">COMPLETE LABELING</ext-link>
+          </p>
+          <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+        </boxed-text>
+      </sec>
+      <sec id="Ribavirin.CHEMICAL_FORMULA_AND_STRUCTURE">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Ribavirin.T3" position="anchor" orientation="portrait">
+          <table>
+            <thead>
+              <tr>
+                <th id="hd_h_Ribavirin.T3_1_1_1_1" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Ribavirin.T3_1_1_1_2" rowspan="1" colspan="1">CAS REGISTRY NUMBER</th>
+                <th id="hd_h_Ribavirin.T3_1_1_1_3" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Ribavirin.T3_1_1_1_4" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Ribavirin.T3_1_1_1_1" rowspan="1" colspan="1">Ribavirin</td>
+                <td headers="hd_h_Ribavirin.T3_1_1_1_2" rowspan="1" colspan="1">
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135000384">36791-04-5</ext-link>
+                </td>
+                <td headers="hd_h_Ribavirin.T3_1_1_1_3" rowspan="1" colspan="1">C8-H12-N4-O5</td>
+                <td headers="hd_h_Ribavirin.T3_1_1_1_4" rowspan="1" colspan="1">
+                  <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Ribavirin_Structure.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait">
+                    <alt-text>Ribavirin Chemical Structure</alt-text>
+                  </graphic>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Ribavirin.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 10 June 2018</p>
+        <ref-list id="Ribavirin.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Ribavirin.R1">
+            <mixed-citation publication-type="other">Zimmerman HJ. Antiviral agents. In, Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999, pp. 621-3.<annotation><p><italic toggle="yes">(Expert review of antiviral agents and liver injury published in 1999; mentions that ribavirin can cause hemolysis and hyperbilirubinemia, but "no other evidence of hepatic injury").</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Ribavirin.R2">
+            <mixed-citation publication-type="other">Spengler U. Hepatic toxicity of antiviral agents. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 2nd ed. New York: Informa Healthcare USA, 2007, pp. 567-91.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of antiviral agents published in 2007).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Ribavirin.R3">
+            <mixed-citation publication-type="other">Hayden. Antiviral agents (nonretroviral). In, Brunton LL, Lazo JS, Parker KL, eds. Goodman &#x00026; Gilman's the pharmacological basis of therapeutics. 11th ed. New York: McGraw-Hill, 2006, pp. 1243-72.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Ribavirin.R4">
+            <mixed-citation publication-type="journal">Di Bisceglie AM, Conjeevaram HS, Fried MW, Sallie R, Park Y, Yurdaydin C, Swain M, et al. Ribavirin as therapy for chronic hepatitis C. A randomized, double-blind, placebo-controlled trial. Ann Intern Med 1995; 123: 897-903. <annotation><p><italic toggle="yes">(Controlled trial of 12 month course of ribavirin vs placebo in 29 patients with chronic hepatitis C; serum aminotransferase levels decreased in all but one ribavirin treated patient; none developed worsening of liver disease: Case 1).</italic></p></annotation><pub-id pub-id-type="pmid">7486483</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ribavirin.R5">
+            <mixed-citation publication-type="journal">Fried MW. Side effects of therapy of hepatitis C and their management. Hepatology 2002; 36 (5 Suppl 1): S237-44. <annotation><p><italic toggle="yes">(Review of side effects of interferon and ribavirin).</italic></p></annotation><pub-id pub-id-type="pmid">12407599</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ribavirin.R6">
+            <mixed-citation publication-type="journal">Soriano V, Miralles C, Berd&#x000fa;, Berdun MA, Losada E, Aguirrebenjoa K, Ocampo A, et al.; PRESCO Study Group. Premature treatment discontinuation in HIV/HCV-coinfected patients receiving pegylated interferon plus weight-based ribavirin. Antivir Ther 2007; 12: 469-76. <annotation><p><italic toggle="yes">(Among 389 patients with HIV-HCV coinfection treated with peginterferon and ribavirin in Spain, 45% stopped therapy early, 2 developed mitochondrial injury with pancreatitis and lactic acidosis [despite not using didanosine], resolving with stopping therapy).</italic></p></annotation><pub-id pub-id-type="pmid">17668555</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ribavirin.R7">
+            <mixed-citation publication-type="journal">Drugs for non-HIV viral infections. Treat Guidel Med Lett 2007; 5: 59-70. <annotation><p><italic toggle="yes">(Review of status of non-antiretroviral antiviral agents for prevention and treatment of herpes, varicella-zoster, cytomegalovirus, influenza A and B, and hepatitis B and C; no mention of liver related side effects for ribavirin).</italic></p></annotation><pub-id pub-id-type="pmid">17565338</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ribavirin.R8">
+            <mixed-citation publication-type="journal">Jain MK, Zoellner C. Role of ribavirin in HCV treatment response: now and in the future. Expert Opin Pharmacother 2010; 11: 673-83. <annotation><p><italic toggle="yes">(Review of the chemistry, mechanism of action, pharmacokinetics, clinical efficacy and side effects of ribavirin in chronic hepatitis C; ribavirin is used only in combination with interferon or peginterferon; major side effect is hemolysis; ribavirin and peginterferon may predispose patients with HIV infection also receiving antiretroviral nucleoside analogues such as stavudine to develop lactic acidosis).</italic></p></annotation><pub-id pub-id-type="pmid">20163278</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ribavirin.R9">
+            <mixed-citation publication-type="journal">Kamar N, Rostaing L, Abravanel F, Garrouste C, Lhomme S, Esposito L, Basse G, et al. Ribavirin therapy inhibits viral replication on patients with chronic hepatitis E virus infection. Gastroenterology 2010; 139: 1612-8. <annotation><p><italic toggle="yes">(Among six patients with chronic hepatitis E treated with ribavirin [400-800 mg daily], all became HEV RNA negative during therapy and 4 remained negative afterwards; side effects included hemolysis and anemia, but serum ALT levels improved in all patients).</italic></p></annotation><pub-id pub-id-type="pmid">20708006</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ribavirin.R10">
+            <mixed-citation publication-type="journal">Fellay J, Thompson AJ, Ge D, Gumbs CE, Urban TJ, Shianna KV, Little LD, et al. ITPA gene variants protect against anaemia in patients treated for chronic hepatitis C. Nature 2010; 464: 405-8. <annotation><p><italic toggle="yes"> (Genome wide association study in 1602 patients with chronic hepatitis C treated with peginterferon and ribavirin found that variants leading to inosine triphosphatase deficiency were associated with protection against ribavirin associated hemolysis).</italic></p></annotation><pub-id pub-id-type="pmid">20173735</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ribavirin.R11">
+            <mixed-citation publication-type="journal">Hitomi Y, Cirulli ET, Fellay J, McHutchison JG, Thompson AJ, Gumbs CE, Shianna KV, et al. Inosine triphosphate protects against ribavirin-induced adenosine triphosphate loss by adenylosuccinate synthase function. Gastroenterology 2011; 140: 1314-21. <annotation><p><italic toggle="yes">(Analysis of role of inosine triphosphate [ITP] in protecting against hemolysis caused by ribavirin, suggesting that ITP provides an alternate source for guanosine and adenosine triphosphate, which are depleted by build up of ribavirin triphosphate in red cells).</italic></p></annotation><pub-id pub-id-type="pmid">21199653</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ribavirin.R12">
+            <mixed-citation publication-type="journal">Poordad F, McCone J Jr, Bacon BR, Bruno S, Manns MP, Sulkowski MS, Jacobson IM, et al.; SPRINT-2 Investigators. Boceprevir for untreated chronic HCV genotype 1 infection. N Engl J Med 2011; 364: 1195-206. <annotation><p><italic toggle="yes"> (Among 734 patients with chronic hepatitis C, genotype 1, treated with boceprevir, peginterferon and ribavirin for 28-48 weeks, sustained reponse rates were 63-66%; adverse events included hemolysis and anemia, but no worsening liver enzyme levels or flares of hepatitis mentioned).</italic></p></annotation><pub-id pub-id-type="pmid">21449783</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ribavirin.R13">
+            <mixed-citation publication-type="journal">Jacobson IM, McHutchison JG, Dusheiko G, Di Bisceglie AM, Reddy KR, Bzowej NH, Marcellin P, et al.; ADVANCE Study Team. Telaprevir for previously untreated chronic hepatitis C virus infection. N Engl J Med 2011; 364: 2405-16. <annotation><p><italic toggle="yes">(Among 727 patients with chronic hepatitis C, genotype 1, treated with the combination of telaprevir, peginterferon and ribavirin, sustained response rates were 69-75%; adverse events included hemolysis and anemia, but no worsening of liver enzyme levels or flares of hepatitis mentioned).</italic></p></annotation><pub-id pub-id-type="pmid">21696307</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ribavirin.R14">
+            <mixed-citation publication-type="journal">Gane EJ, Stedman CA, Hyland RH, Ding X, Svarovskaia E, Symonds WT, Hindes RG, et al. Nucleotide polymerase inhibitor sofosbuvir plus ribavirin for hepatitis C. N Engl J Med 2013; 368: 34-44. <annotation><p><italic toggle="yes">(Among 85 patients with chronic hepatitis C treated with sofosbuvir and ribavirin with or without peginterferon for 8-12 weeks, serum enzymes became or remained normal and HCV RNA became undetectable in all patients during therapy; adverse events included anemia and hemolysis, but there were no instances of worsening of liver enzymes or flares of hepatitis).</italic></p></annotation><pub-id pub-id-type="pmid">23281974</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ribavirin.R15">
+            <mixed-citation publication-type="journal">Chalasani N, Bonkovsky HL, Fontana R, Lee W, Stolz A, Talwalkar J, Reddy KR, et al.; United States Drug Induced Liver Injury Network. Features and outcomes of 899 patients with drug-induced liver injury: The DILIN Prospective Study. Gastroenterology 2015; 148: 1340-52. <annotation><p><italic toggle="yes">(Among 899 cases of drug induced liver injury enrolled in a US prospective study between 2004 and 2013, 12 were attributed to antiviral agents, but all were antiretroviral agents and no case was attributed to ribavirin or oral direct acting agents used to treat hepatitis C).</italic></p></annotation><pub-id pub-id-type="pmid">25754159</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ribavirin.R16">
+            <mixed-citation publication-type="journal">Reddy KR, Bourli&#x000e8;re M, Sulkowski M, Omata M, Zeuzem S, Feld JJ, Lawitz E, et al. Ledipasvir and sofosbuvir in patients with genotype 1 hepatitis C virus infection and compensated cirrhosis: An integrated safety and efficacy analysis. Hepatology 2015; 62: 79-86. <annotation><p><italic toggle="yes">(Among 513 cirrhotic patients with chronic hepatitis C, genotype 1, treated with sofosbuvir and ledipasvir with or without ribavirin for 12 or 24 weeks in 7 clinical trials, the overall SVR rate was 96% and there were 24 [5%] serious adverse events, only 5 [1%] of which were considered treatment related, none of which were liver related).</italic></p></annotation><pub-id pub-id-type="pmid">25846144</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ribavirin.R17">
+            <mixed-citation publication-type="journal">Mizokami M, Yokosuka O, Takehara T, Sakamoto N, Korenaga M, Mochizuki H, Nakane K, et al. Ledipasvir and sofosbuvir fixed-dose combination with and without ribavirin for 12 weeks in treatment-naive and previously treated Japanese patients with genotype 1 hepatitis C: an open-label, randomised, phase 3 trial. Lancet Infect Dis 2015; 15: 645-53. <annotation><p><italic toggle="yes">(Among 341 Japanese patients with chronic hepatitis C, genotype 1, treated with sofosbuvir and ledipasvir with or without ribavirin for 12 weeks, SVR rates were 98% and 100%, adverse events were more common in those receiving ribavirin [75% vs 65%]; there were no liver related severe adverse events attributed to therapy or ALT elevations above 5 times ULN).</italic></p></annotation><pub-id pub-id-type="pmid">25863559</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ribavirin.R18">
+            <mixed-citation publication-type="journal">Charlton M, Everson GT, Flamm SL, Kumar P, Landis C, Brown RS Jr, Fried MW, et al.; SOLAR-1 Investigators. Ledipasvir and sofosbuvir plus ribavirin for treatment of HCV infection in patients with advanced liver disease. Gastroenterology 2015; 149: 649-59. <annotation><p><italic toggle="yes">(Among 337 patients with chronic hepatitis C, genotype 1 or 4, with decompensated cirrhosis treated with sofosbuvir, ledipasvir and ribavirin for 12 or 24 weeks, SVR rates were 86-89%, but serious adverse events were frequent [23%] and included hepatic decompensation, need for liver transplantation and death [2.6%]).</italic></p></annotation><pub-id pub-id-type="pmid">25985734</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ribavirin.R19">
+            <mixed-citation publication-type="journal">Saxena V, Nyberg L, Pauly M, Dasgupta A, Nyberg A, Piasecki B, Winston B, et al. Safety and Efficacy of simeprevir/sofosbuvir in hepatitis C-infected patients with compensated and decompensated cirrhosis. Hepatology 2015; 62: 715-25. <annotation><p><italic toggle="yes">(Among 156 patients with chronic hepatitis C, genotype 1, and cirrhosis treated with simeprevir and sofosbuvir with or without ribavirin for 12 weeks, overall SVR rates were 91% in compensated vs 73% in decompensated cases, and worsening decompensation in 20% vs 3%, one patient dying of liver failure, but rates of adverse events were said to be similar to those of a matched cohort of untreated subjects).</italic></p></annotation><pub-id pub-id-type="pmid">26033798</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ribavirin.R20">
+            <mixed-citation publication-type="journal">Kalafateli M, Dusheiko G, Manousou P. Clinical decompensation after achieving SVR with sofosbuvir, daclatasvir and ribavirin in a patient with recurrent HCV post-liver transplant. J Gastrointestin Liver Dis 2015; 24: 257-8. <annotation><p><italic toggle="yes">(33 year old man with hemophilia and chronic hepatitis C, genotype 3, underwent liver transplantation and had recurrence of hepatitis C which failed to respond to several courses of peginterferon, eventually achieving an SVR with sofosbuvir, daclatasvir and ribavirin, but then developing hepatic decompensation 2 months later).</italic></p></annotation><pub-id pub-id-type="pmid">26114189</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ribavirin.R21">
+            <mixed-citation publication-type="journal">Foster GR, Pianko S, Brown A, Forton D, Nahass RG, George J, Barnes E, et al.; BOSON Study Group. Efficacy of sofosbuvir plus ribavirin with or without peginterferon-alfa in patients with hepatitis C virus genotype 3 infection and treatment-experienced patients with cirrhosis and hepatitis C virus genotype 2 infection. Gastroenterology 2015 149: 1462-70. <annotation><p><italic toggle="yes">(Among 592 patients with chronic hepatitis C, genotype 2 or 3, treated with sofosbuvir and ribavirin for 16 or 24 weeks or sofosbuvir, ribavirin and peginterferon for 12 weeks, the SVR rates were 87-100% in genotype 2 and 71-93% in genotype 3 patients; serious adverse events occurred in 4-6%, but none were hepatic decompensation or hepatitis and most were considered unrelated to sofosbuvir; ALT elevations above 5 times ULN occurred in 9 patients [1.5%], but were self-limited and did not result in early discontinuation of therapy).</italic></p></annotation><pub-id pub-id-type="pmid">26248087</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ribavirin.R22">
+            <mixed-citation publication-type="journal">Sulkowski MS, Vargas HE, Di Bisceglie AM, Kuo A, Reddy KR, Lim JK, Morelli G, et al.; HCV-TARGET Study Group. Effectiveness of simeprevir plus sofosbuvir, with or without ribavirin, in real-world patients with HCV genotype 1 infection. Gastroenterology 2016; 150: 419-29. <annotation><p><italic toggle="yes">(Among 802 patients with chronic hepatitis C, genotype 1, treated with sofosbuvir and simeprevir with or without ribavirin for 12 weeks in clinical practices ["the real world"], 675 [84%] had an SVR, 44 [5.3%] had a serious adverse event, 10 [1.2%] hepatic decompensation and 2 [0.3%] died of liver failure).</italic></p></annotation><pub-id pub-id-type="pmid">26497081</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ribavirin.R23">
+            <mixed-citation publication-type="journal">Dyson JK, Hutchinson J, Harrison L, Rotimi O, Tiniakos D, Foster GR, Aldersley MA, et al. Liver toxicity associated with sofosbuvir, an NS5A inhibitor and ribavirin use. J Hepatol 2016; 64: 753-4. <annotation><p><italic toggle="yes">(74 year old man and 36 year old woman with HCV related cirrhosis developed worsening hepatic decompensation within a few weeks of starting sofosbuvir, an NS5A inhibitor and ribavirin [peak bilirubin 23.4 and 30.5 mg/dL, ALT 65 and 96 U/L, Alk P 202 and 398 U/L], resulting in death in one and emergency liver transplant in the other [Case 1]).</italic></p></annotation><pub-id pub-id-type="pmid">26325535</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ribavirin.R24">
+            <mixed-citation publication-type="journal">Marchan-Lopez A, Dominguez-Dominguez L, Kessler-Saiz P, Jarrin-Estupi&#x000f1;an ME. Liver failure in human immunodeficiency virus - hepatitis C virus coinfection treated with sofosbuvir, ledipasvir and antiretroviral therapy. J Hepatol 2016; 64: 752-3. <annotation><p><italic toggle="yes">(Letter in response to Dyson [2016]: 49 year old man with chronic hepatitis C, cirrhosis [Child-Pugh class B] and HIV coinfection developed worsening hepatic decompensation 1 to 2 months after starting sofosbuvir and ledipasvir that worsened for two weeks after stopping [peak bilirubin 46.9 mg/dL, INR 3.17], and then resolved; he later tolerated reinitiation of antiretroviral drugs).</italic></p></annotation><pub-id pub-id-type="pmid">26682727</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ribavirin.R25">
+            <mixed-citation publication-type="journal">Dyson JK, McPherson S. Reply to "Liver failure in human immunodeficiency virus - Hepatitis C virus coinfection treated with sofosbuvir, ledipasvir and antiretroviral therapy". J Hepatol 2016; 64: 753-4. <annotation><p><italic toggle="yes">(Letter in reply to March-Lopez [2016] reporting another case of hepatic decompensation during sofosbuvir, ledipasvir and ribavirin therapy of a patient hepatitis C, cirrhosis and HIV coinfection, arising within 6 weeks of starting treatment [bilirubin 12.6 mg/dL, protime 17 sec], and leading to successful, emergency liver transplantation).</italic></p></annotation><pub-id pub-id-type="pmid">26682725</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ribavirin.R26">
+            <mixed-citation publication-type="journal">Welker MW, Luhne S, Lange CM, Vermehren J, Farnik H, Herrmann E, Welzel T, et al. Lactic acidosis in patients with hepatitis C virus cirrhosis and combined ribavirin/ sofosbuvir treatment. J Hepatol 2016; 64; 790-8. <italic toggle="yes">
+</italic><annotation><p><italic toggle="yes">(Among 35 patients with chronic hepatitis C and advanced fibrosis or cirrhosis treated with sofosbuvir based regimens, 12 [34%] had a serious adverse event and 5 [14%] developed lactic acidosis, largely in those with Child-Pugh class B or C cirrhosis and in the context of hepatic decompensation, 2 of whom died).</italic></p></annotation><pub-id pub-id-type="pmid">26658684</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ribavirin.R27">
+            <mixed-citation publication-type="journal">Hoofnagle JH. Hepatic decompensation during direct-acting antiviral therapy of chronic hepatitis C. J Hepatol 2016; 64: 763-5. <annotation><p><italic toggle="yes">(Editorial in response to Welker [2016] discussing the occurrence of unexplained hepatic decompensation during antiviral therapy of hepatitis C and whether these episodes are coincidental, caused by hepatoxicity of the antiviral drugs, or are the paradoxical result of sudden eradication of the chronic viral infection).</italic></p></annotation><pub-id pub-id-type="pmid">26795828</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ribavirin.R28">
+            <mixed-citation publication-type="journal">Alonso S, Riveiro-Barciela M, Fernandez I, Rinc&#x000f3;n D, Real Y, Llerena S, Gea F, et al. Effectiveness and safety of sofosbuvir-based regimens plus an NS5A inhibitor for patients with HCV genotype 3 infection and cirrhosis. results of a multicenter real-life cohort. J Viral Hepat 2017; 24: 304-11. <annotation><p><italic toggle="yes">(Among 208 cirrhotic patients with chronic hepatitis C, genotype 3, treated with sofosbuvir and either daclatasvir or lepidasvir with or without ribavirin, the overall SVR rate was 94% and 7 patients developed hepatic decompensation, 3 of whom died).</italic></p></annotation><pub-id pub-id-type="pmid">27935168</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ribavirin.R29">
+            <mixed-citation publication-type="journal">Sperl J, Horvath G, Halota W, Ruiz-Tapiador JA, Streinu-Cercel A, Jancoriene L, Werling K, et al. Efficacy and safety of elbasvir/grazoprevir and sofosbuvir/pegylated interferon/ribavirin: A phase III randomized controlled trial. J Hepatol 2016; 65: 1112-9. <annotation><p><italic toggle="yes">(Among 257 patients with chronic hepatitis C, genotypes 1 and 4, SVR rates were 99% with 12 weeks of elbasvir and grazoprevir and 90.5% with 12 weeks of sofosbuvir, peginterferon and ribavirin; adverse events were more frequent in the interferon treated subjects, but there were no deaths and no liver related serious adverse events or late ALT elevations).</italic></p></annotation><pub-id pub-id-type="pmid">27542322</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ribavirin.R30">
+            <mixed-citation publication-type="journal">Feld JJ, Maan R, Zeuzem S, Kuo A, Nelson DR, Di Bisceglie AM, Manns MP, et al. Effectiveness and safety of sofosbuvir-based regimens for chronic HCV genotype 3 infection: results of the HCV-TARGET Study. Clin Infect Dis 2016; 63: 776-83. <annotation><p><italic toggle="yes">(Among 178 patients with chronic hepatitis C, genotype 3, treated with sofosbuvir and ribavirin, the overall response rate was 60% and 11 patients had a decompensation event, arising 0.1 to 24 weeks after starting, all with a previous history of decompensation).</italic></p></annotation><pub-id pub-id-type="pmid">27325691</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ribavirin.R31">
+            <mixed-citation publication-type="journal">Gane EJ, Shiffman ML, Etzkorn K, Morelli G, Stedman C, Davis MN, Hinestrosa F, et al; GS-US-342-1553 Investigators. Sofosbuvir-velpatasvir with ribavirin for 24 weeks in HCV patients previously treated with a direct-acting antiviral regimen. Hepatology 2017; 66: 1083-9. <annotation><p><italic toggle="yes"> (Among 69 patients with chronic hepatitis C who had failed to respond to a course of direct acting antiviral therapy and were treated with a 24-week course of sofosbuvir-velpatasvir and ribavirin, the SVR rate was 91% and adverse events were largely due to ribavirin and there were no ALT elevations after the initial decrease).</italic></p></annotation><pub-id pub-id-type="pmid">28498551</pub-id></mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec id="Ribavirin.OTHER_REFERENCE_LINKS" sec-type="link-group">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=(Ribavirin/AE)+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D%3A%222999/12/31%22%5BEDat%5D)">Recent References on Ribavirin: from PubMed.gov</ext-link>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Ribavirin">Trials on Ribavirin: from ClinicalTrials.gov</ext-link>
+            </p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

@@ -1,0 +1,1998 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="NonsteroidalAntiinfl" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">NonsteroidalAntiinfl</book-part-id>
+      <title-group>
+        <title>Nonsteroidal Antiinflammatory Drugs (NSAIDs)</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>18</day>
+          <month>3</month>
+          <year>2020</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Noni" document-type="chapter">Noni</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Norfloxacin" document-type="chapter">Norfloxacin</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="NonsteroidalAntiinfl.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="NonsteroidalAntiinfl.Introduction">
+          <title>Introduction</title>
+          <p content-type="pubmed-excerpt">The nonsteroidal antiinflammatory drugs (NSAIDs) are a group of chemically heterogenous medications used widely in the therapy of mild-to-moderate pain and inflammation. NSAIDs act through inhibition of intracellular cyclo-oxygenase enzymes (Cox-1 and Cox-2), which cause a decrease in synthesis of the proinflammatory prostaglandins that are potent mediators of pain and inflammation. Most NSAIDs are nonselective and inhibit both Cox-1 and Cox-2. Recently, several selective inhibitors of Cox-2 have been developed that have the antiinflammatory and analgesic efficacy of other NSAIDs, but lack the effects on gastric and renal tissue that account for a majority of their adverse events (gastrointestinal bleeding and renal insufficiency). NSAIDS are among the most frequently prescribed drugs worldwide and rarely cause drug induced liver disease. However, more than 30 million Americans take an NSAID every year, so that despite the overall low incidence of NSAID induced hepatotoxicity, their widescale use makes them an important cause of drug induced liver injury.</p>
+        </sec>
+        <sec id="NonsteroidalAntiinfl.Background">
+          <title>Background</title>
+          <p>NSAIDS are indicated in the treatment of various acute and chronic inflammatory conditions, headaches, and fever. The pharmacologic properties of the various NSAIDS are related to their molecular structure, which can be categorized into the five classes (Table). Not all of these listed agents are currently available either in the United States or elsewhere. Only ibuprofen and naproxen are available over-the-counter (in the United States); the rest are by prescription only. Carprofen and phenylbutazone are available in the United States as veterinary medications. NSAIDs withdrawn from use or testing because of hepatotoxicity or other serious adverse events include benoxaprofen, sudoxicam, isoxicam, fluproquazone, bromfenac, oxyphenbutazone and phenylbutazone (aplastic anemia), indoprofen (gastrointestinal bleeding), suprofen and zomepirac (anaphylaxis). NSAIDs in use in other countries of the world include acemetacin, azaproprazone, fenbufen, feprazone, floctafenine, flufenamic acid, nimesulide, pirprofen, and tiaprofenic acid.</p>
+          <table-wrap id="NonsteroidalAntiinfl.Tc" orientation="portrait" position="anchor">
+            <table frame="hsides" rules="groups">
+              <thead>
+                <tr>
+                  <th id="hd_h_NonsteroidalAntiinfl.Tc_1_1_1_1" valign="top" align="left" scope="col" rowspan="1" colspan="1">PROPIONIC ACIDS</th>
+                  <th id="hd_h_NonsteroidalAntiinfl.Tc_1_1_1_2" valign="top" align="left" scope="col" rowspan="1" colspan="1">ACETIC ACIDS</th>
+                  <th id="hd_h_NonsteroidalAntiinfl.Tc_1_1_1_3" valign="top" align="left" scope="col" rowspan="1" colspan="1">FENAMIC ACIDS</th>
+                  <th id="hd_h_NonsteroidalAntiinfl.Tc_1_1_1_4" valign="top" align="left" scope="col" rowspan="1" colspan="1">PYRAZALONES</th>
+                  <th id="hd_h_NonsteroidalAntiinfl.Tc_1_1_1_5" valign="top" align="left" scope="col" rowspan="1" colspan="1">OXICAMS</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td headers="hd_h_NonsteroidalAntiinfl.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Carprofen<break/> Benoxaprofen<break/> Fenbufen<break/> Fenoprofen*<break/> Flurbiprofen*<break/> Ibuprofen*<break/> Indoprofen<break/> Ketoprofen*<break/> Loxoprofen<break/> Oxaprozin*<break/> Naproxen*<break/> Pirprofen<break/> Tiaprofenic acid</td>
+                  <td headers="hd_h_NonsteroidalAntiinfl.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">Aceclofenac*<break/> Acemetacin<break/> Bromfenac<break/> Diclofenac*<break/> Etodolac*<break/> Indomethacin*<break/> Ketorolac*<break/> Nabumetone*<break/> Sulindac*<break/> Tolmetin*<break/> Zomepirac</td>
+                  <td headers="hd_h_NonsteroidalAntiinfl.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">Floctafenine<break/> Flufenamic<break/> Meclofenamate*<break/> Mefenamic acid*</td>
+                  <td headers="hd_h_NonsteroidalAntiinfl.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">Azapropazone<break/> Feprazone<break/> Oxyphenbutazone<break/> Phenylbutazone</td>
+                  <td headers="hd_h_NonsteroidalAntiinfl.Tc_1_1_1_5" valign="top" align="left" rowspan="1" colspan="1">Isoxicam<break/> Lornoxicam<break/> Meloxicam*<break/> Piroxicam*<break/> Sudoxicam</td>
+                </tr>
+              </tbody>
+            </table>
+            <table-wrap-foot>
+              <fn id="NonsteroidalAntiinfl.TF.c.1">
+                <label>*</label>
+                <p>Currently available for human use in the United States.</p>
+              </fn>
+            </table-wrap-foot>
+          </table-wrap>
+        </sec>
+        <sec id="NonsteroidalAntiinfl.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>Aspirin and acetaminophen are technically NSAIDs and they can cause liver injury, but the injury is due to intrinsic toxicity and usually associated with use of high doses or overdoses. For this reason, aspirin and acetaminophen are discussed separately. The liver injury caused by typical NSAIDs is, in contrast, most likely idiosyncratic. Clinically apparent liver injury from NSAIDs is rare (~1-10 cases per 100,000 prescriptions) and typically presents as acute hepatitis within 1 to 3 months of starting the medication. Cases of fatal hepatitis tend to present much later &#x02013; after 12 to 15 months. Sulindac and diclofenac are the NSAIDs that are most commonly linked to hepatotoxicity, but virtually all NSAIDs that have been used extensively have been linked to at least rare cases of clinically apparent drug induced liver injury. The pattern of injury is mainly hepatocellular, although cases of cholestatic (sulindac, ibuprofen), and mixed (naproxen) injury have been reported. Typical presenting symptoms include fever, malaise, jaundice and itching. The clinical pattern may depend on the pattern of injury. Hepatocellular injury presents with marked serum aminotransferase elevations, fatigue and jaundice, while cholestatic injury presents with jaundice and itching with marked elevations in alkaline phosphatase and bilirubin levels. Histology varies greatly. Women and the elderly, as well as patients with chronic hepatitis C may be more susceptible.</p>
+          <p>In addition to the clinically apparent, idiosyncratic liver injury due to NSAIDs, transient, mild and asymptomatic elevations in serum aminotransferase levels occur in up to 18% of patients taking NSAIDs over a prolonged period. The rate of such aminotransferase abnormalities varies by the different NSAIDs, but the rate is highly dependent upon the rigor with which such elevations are sought (whether by regular monitoring at frequent intervals or irregularly and only occasionally during long term use) and the level of abnormality that is reported (any value above the upper limit of the normal range or values that are twice or three fold elevated). The rate of aminotransferase elevations is also dependent upon the population studied, tending to be more common in obese patients and patients with serious underlying disease. Nevertheless, these minor elevations associated with NSAID use are usually self-limited, not accompanied by symptoms and rapidly resolve even if the medication is continued. In some studies, the rates of serum aminotransferase elevations are no higher than occurs in placebo recipients, raising some doubt as to the association of these changes with NSAID use.</p>
+        </sec>
+        <sec id="NonsteroidalAntiinfl.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The apparent mechanism by which almost all NSAIDs produce hepatic injury is idiosyncrasy rather than intrinsic toxicity. The main exceptions to this are acetaminophen and aspirin, in which case a dose related injury. Although many cases of NSAID related liver injury demonstrate evidence of an immunologic cause, there is evidence that toxic metabolites contribute to the liver injury for some NSAIDs.</p>
+        </sec>
+        <sec id="NonsteroidalAntiinfl.Outcome_and_Managem">
+          <title>Outcome and Management</title>
+          <p>Severity ranges from asymptomatic elevations in serum aminotransferase levels, hepatitis with jaundice to fulminant liver failure and death. Complete recovery is expected after stopping the drug. Cross reactivity between drugs of the same class (i.e., naproxen and fenoprofen [see Table]) can lead to recurrence and should be avoided.</p>
+          <p>The following links are to individual drug records.</p>
+          <list list-type="bullet">
+            <list-item>
+              <p>
+                <related-object link-type="booklink" source-id="livertox" document-id="Celecoxib" document-type="chapter">Celecoxib</related-object>
+              </p>
+            </list-item>
+            <list-item>
+              <p>
+                <related-object link-type="booklink" source-id="livertox" document-id="Diclofenac" document-type="chapter">Diclofenac</related-object>
+              </p>
+            </list-item>
+            <list-item>
+              <p>
+                <related-object link-type="booklink" source-id="livertox" document-id="Etodolac" document-type="chapter">Etodolac</related-object>
+              </p>
+            </list-item>
+            <list-item>
+              <p>
+                <related-object link-type="booklink" source-id="livertox" document-id="Fenoprofen" document-type="chapter">Fenoprofen</related-object>
+              </p>
+            </list-item>
+            <list-item>
+              <p>
+                <related-object link-type="booklink" source-id="livertox" document-id="Flurbiprofen" document-type="chapter">Flurbiprofen</related-object>
+              </p>
+            </list-item>
+            <list-item>
+              <p>
+                <related-object link-type="booklink" source-id="livertox" document-id="Ibuprofen" document-type="chapter">Ibuprofen</related-object>
+              </p>
+            </list-item>
+            <list-item>
+              <p>
+                <related-object link-type="booklink" source-id="livertox" document-id="Indomethacin" document-type="chapter">Indomethacin</related-object>
+              </p>
+            </list-item>
+            <list-item>
+              <p>
+                <related-object link-type="booklink" source-id="livertox" document-id="Ketorolac" document-type="chapter">Ketorolac</related-object>
+              </p>
+            </list-item>
+            <list-item>
+              <p>
+                <related-object link-type="booklink" source-id="livertox" document-id="MefenamicAcid" document-type="chapter">Mefenamic Acid</related-object>
+              </p>
+            </list-item>
+            <list-item>
+              <p>
+                <related-object link-type="booklink" source-id="livertox" document-id="Meloxicam" document-type="chapter">Meloxicam</related-object>
+              </p>
+            </list-item>
+            <list-item>
+              <p>
+                <related-object link-type="booklink" source-id="livertox" document-id="Nabumetone" document-type="chapter">Nabumetone</related-object>
+              </p>
+            </list-item>
+            <list-item>
+              <p>
+                <related-object link-type="booklink" source-id="livertox" document-id="Naproxen" document-type="chapter">Naproxen</related-object>
+              </p>
+            </list-item>
+            <list-item>
+              <p>
+                <related-object link-type="booklink" source-id="livertox" document-id="Nimesulide" document-type="chapter">Nimesulide</related-object>
+              </p>
+            </list-item>
+            <list-item>
+              <p>
+                <related-object link-type="booklink" source-id="livertox" document-id="Oxaprozin" document-type="chapter">Oxaprozin</related-object>
+              </p>
+            </list-item>
+            <list-item>
+              <p>
+                <related-object link-type="booklink" source-id="livertox" document-id="Piroxicam" document-type="chapter">Piroxicam</related-object>
+              </p>
+            </list-item>
+            <list-item>
+              <p>
+                <related-object link-type="booklink" source-id="livertox" document-id="Rofecoxib" document-type="chapter">Rofecoxib</related-object>
+              </p>
+            </list-item>
+            <list-item>
+              <p>
+                <related-object link-type="booklink" source-id="livertox" document-id="Sulindac" document-type="chapter">Sulindac</related-object>
+              </p>
+            </list-item>
+            <list-item>
+              <p>
+                <related-object link-type="booklink" source-id="livertox" document-id="Tolmetin" document-type="chapter">Tolmetin</related-object>
+              </p>
+            </list-item>
+          </list>
+        </sec>
+      </sec>
+      <sec id="NonsteroidalAntiinfl.ANNOTATED_BIBLIOGRA">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 18 March 2020</p>
+        <p>Abbreviations used: NSAIDs, nonsteroidal antiinflammatory drugs</p>
+        <ref-list id="NonsteroidalAntiinfl.ANNOTATED_BIBLIOGRA.reflist0">
+          <ref id="NonsteroidalAntiinfl.REF.zimmerman.1999">
+            <mixed-citation publication-type="book">Zimmerman HJ. The NSAIDs. In, Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999, pp. 517-41.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of NSAIDs published in 1999).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="NonsteroidalAntiinfl.REF.lewis.2013">
+            <mixed-citation publication-type="book">Lewis JH, Stine JG. Nonsteroidal anti-inflammatory drugs and leukotriene receptor antagonists: pathology and clinical presentation of hepatotoxicity. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd Edition. Amsterdam: Elsevier, 2013. pp. 370-402.<annotation><p><italic toggle="yes">(Expert review of liver injury caused by NSAIDs).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="NonsteroidalAntiinfl.REF.grossner.2018">
+            <mixed-citation publication-type="book">Grossner T, Smyth EM, Fitzgerald GA. Pharmacology of inflammation, fever, pain, and gout. In, Brunton LL, Hilal-Dandan R, Knollman BC. Goodman &#x00026; Gilman&#x02019;s The pharmacological basis of therapeutics, 13th ed. New York: McGraw-Hill, 2018. p. 685-709.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="NonsteroidalAntiinfl.REF.cuthbert.1974.600">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Cuthbert</surname>
+                  <given-names>MF</given-names>
+                </name>
+              </person-group>
+              <article-title>Adverse reactions to non-steroidal antirheumatic drugs.</article-title>
+              <source>Curr Med Res Opin</source>
+              <year>1974</year>
+              <volume>2</volume>
+              <fpage>600</fpage>
+              <lpage>10</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Analysis of adverse event reporting for NSAIDs in the UK from 1964 to 1973; major focus is on blood dyscrasias and gastrointestinal bleeding; minimal mention of hepatotoxicity).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">4452298</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="NonsteroidalAntiinfl.REF.lewis.1984.128">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Lewis</surname>
+                  <given-names>JH</given-names>
+                </name>
+              </person-group>
+              <article-title>Hepatic toxicity of nonsteroidal anti-inflammatory drugs.</article-title>
+              <source>Clin Pharm</source>
+              <year>1984</year>
+              <volume>3</volume>
+              <fpage>128</fpage>
+              <lpage>38</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Review of hepatotoxicity of NSAIDs including specific discussion of salicylates, indomethacin, sulindac, tolectin, phenylbutazone, oxyphenylbutazone, ibuprofen, naproxen, fenoprofen, benoxaprofen, fenbufen, mefenamic acid, sudoxicam and piroxicam).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">6373099</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="NonsteroidalAntiinfl.REF.andrejak.1987.180">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Andrejak</surname>
+                  <given-names>M</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Davion</surname>
+                  <given-names>T</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Gienston</surname>
+                  <given-names>JL</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Capron</surname>
+                  <given-names>JP</given-names>
+                </name>
+              </person-group>
+              <article-title>Cross hepatotoxicity between non-steroidal anti-inflammatory drugs.</article-title>
+              <source>Br Med J (Clin Res Ed)</source>
+              <year>1987</year>
+              <volume>295</volume>
+              <fpage>180</fpage>
+              <lpage>1</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(67 year old woman developed jaundice 9 days after starting naproxen [bilirubin 4.9 mg/dL, ALT 250 U/L, Alk P 280 U/L], with rapid resolution and rapid recurrence upon exposure to fenoprofen, another NSAID belonging to the propionic acid class).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">3115366</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="NonsteroidalAntiinfl.REF.hannequin.1988.983">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Hannequin</surname>
+                  <given-names>JR</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Doffoel</surname>
+                  <given-names>M</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Schmutz</surname>
+                  <given-names>G</given-names>
+                </name>
+              </person-group>
+              <comment>[Hepatitis secondary to current non-steroidal anti-inflammatory agents]</comment>
+              <source>Rev Rhum Mal Osteoartic</source>
+              <year>1988</year>
+              <volume>55</volume>
+              <fpage>983</fpage>
+              <lpage>8</lpage>
+              <comment>French.</comment>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Review of the literature on hepatotoxicity of NSAIDs; 21 cases were attributed to sulindac, occurring at all ages, with latency of 4 days to 2 months, commonly with jaundice and fever and often with rash, one fatality, several instances of recurrence with re-exposure suggesting an immunoallergic basis).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">3070713</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="NonsteroidalAntiinfl.REF.kromannandersen.1988.187">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Kromann-Andersen</surname>
+                  <given-names>H</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Pedersen</surname>
+                  <given-names>A</given-names>
+                </name>
+              </person-group>
+              <article-title>Reported adverse reactions to and consumption of nonsteroidal anti-inflammatory drugs in Denmark over a 17-year period.</article-title>
+              <source>Dan Med Bull</source>
+              <year>1988</year>
+              <volume>35</volume>
+              <fpage>187</fpage>
+              <lpage>92</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Summary of 2721 adverse event reports on NSAIDs from Denmark between 1969 and 1985; hepatic injury accounted for 3% of reports [3 fatal]; rates of hepatic adverse reactions per million were highest for sulindac [1.2] compared to diclofenac [0.4], phenylbutazone [0.2], ibuprofen, naproxen or indomethacin [0.1]).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">2966038</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="NonsteroidalAntiinfl.REF.drogovoz.1989.76">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Drogovoz</surname>
+                  <given-names>SM</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Iakovleva</surname>
+                  <given-names>LV</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Zupanets</surname>
+                  <given-names>IA</given-names>
+                </name>
+              </person-group>
+              <comment>[The hepatotropic properties of nonsteroidal anti-inflammatory agents]</comment>
+              <source>Farmakol Toksikol</source>
+              <year>1989</year>
+              <volume>52</volume>
+              <fpage>76</fpage>
+              <lpage>9</lpage>
+              <comment>Russian.</comment>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Review in Russian).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">2625154</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="NonsteroidalAntiinfl.REF.miller.1990.589">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Miller</surname>
+                  <given-names>LG</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Prichard</surname>
+                  <given-names>JG</given-names>
+                </name>
+              </person-group>
+              <article-title>Current issues in NSAID therapy.</article-title>
+              <source>Prim Care</source>
+              <year>1990</year>
+              <volume>17</volume>
+              <fpage>589</fpage>
+              <lpage>601</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Review of NSAID use for primary practitioner with mention of hepatotoxicity being most common with phenylbutazone).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">2236338</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="NonsteroidalAntiinfl.REF.smolinske.1990.252">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Smolinske</surname>
+                  <given-names>SC</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Hall</surname>
+                  <given-names>AH</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Vandenberg</surname>
+                  <given-names>SA</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Spoerke</surname>
+                  <given-names>DG</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>McBride</surname>
+                  <given-names>PV</given-names>
+                </name>
+              </person-group>
+              <article-title>Toxic effects of nonsteroidal anti-inflammatory drugs in overdose. An overview of recent evidence on clinical effects and dose-response relationships.</article-title>
+              <source>Drug Saf</source>
+              <year>1990</year>
+              <volume>5</volume>
+              <fpage>252</fpage>
+              <lpage>74</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Review of literature on NSAID overdoses, which typically cause nausea, vomiting, gastrointestinal upset, metabolic acidosis and drowsiness, stupor and coma and are rarely associated with ALT elevations or clinically apparent liver injury).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">2198051</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="NonsteroidalAntiinfl.REF.zimmerman.1990.322">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Zimmerman</surname>
+                  <given-names>HJ</given-names>
+                </name>
+              </person-group>
+              <article-title>Update of hepatotoxicity due to classes of drugs in common clinical use: non-steroid drugs, anti-inflammatory drugs, antibiotics, antihypertensives, and cardiac and psychotropic agents.</article-title>
+              <source>Semin Liver Dis</source>
+              <year>1990</year>
+              <volume>10</volume>
+              <fpage>322</fpage>
+              <lpage>8</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Review on the spectrum of liver injury that occurs with NSAIDs including those that were withdrawn because of hepatotoxicity: benoxaprofen, ibufenac, clometacine).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">2281340</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="NonsteroidalAntiinfl.REF.johnson.1991.130">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Johnson</surname>
+                  <given-names>AG</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Day</surname>
+                  <given-names>RO</given-names>
+                </name>
+              </person-group>
+              <article-title>The problems and pitfalls of NSAID therapy in the elderly(Part I).</article-title>
+              <source>Drugs Aging</source>
+              <year>1991</year>
+              <volume>1</volume>
+              <fpage>130</fpage>
+              <lpage>43</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Review of difficulties of use of NSAIDs in elderly, differences in pharmacokinetics, toxicities including liver injury which is usually idiosyncratic, and may be increased in frequency in elderly).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">1794009</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="NonsteroidalAntiinfl.REF.johnson.1991.212">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Johnson</surname>
+                  <given-names>AG</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Day</surname>
+                  <given-names>RO</given-names>
+                </name>
+              </person-group>
+              <article-title>The problems and pitfalls of NSAID therapy in the elderly(Part II).</article-title>
+              <source>Drugs Aging</source>
+              <year>1991</year>
+              <volume>1</volume>
+              <fpage>212</fpage>
+              <lpage>27</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Continuation of review of NSAID use in the elderly, focusing on drug interactions, variability in response and guidelines to use).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">1794015</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="NonsteroidalAntiinfl.REF.friis.1992.133">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Friis</surname>
+                  <given-names>H</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Andreasen</surname>
+                  <given-names>PB</given-names>
+                </name>
+              </person-group>
+              <article-title>Drug-induced hepatic injury: an analysis of 1100 cases reported to the Danish Committee on Adverse Drug Reactions between 1978 and 1987.</article-title>
+              <source>J Intern Med</source>
+              <year>1992</year>
+              <volume>232</volume>
+              <fpage>133</fpage>
+              <lpage>8</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Among 1188 cases of drug-induced liver disease, 17 were attributed to ibuprofen, one fatal and 18 to sulindac, none fatal).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">1506809</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="NonsteroidalAntiinfl.REF.jick.1992.207">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Jick</surname>
+                  <given-names>H</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Derby</surname>
+                  <given-names>LE</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Garc&#x000ed;a Rodr&#x000ed;guez</surname>
+                  <given-names>LA</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Jick</surname>
+                  <given-names>SS</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Dean</surname>
+                  <given-names>AD</given-names>
+                </name>
+              </person-group>
+              <article-title>Liver disease associated with diclofenac, naproxen, and piroxicam.</article-title>
+              <source>Pharmacotherapy</source>
+              <year>1992</year>
+              <volume>12</volume>
+              <fpage>207</fpage>
+              <lpage>12</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Analysis of UK database on 102,644 persons receiving NSAIDs, including 50,6676 on naproxen, identified 14 cases of suspected drug induced liver disease, most due to diclofenac; cases in patients on naproxen often had another possible cause).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">1608854</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="NonsteroidalAntiinfl.REF.carson.1993.1331">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Carson</surname>
+                  <given-names>JL</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Strom</surname>
+                  <given-names>BL</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Duff</surname>
+                  <given-names>A</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Gupta</surname>
+                  <given-names>A</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Das</surname>
+                  <given-names>K</given-names>
+                </name>
+              </person-group>
+              <article-title>Safety of nonsteroidal anti-inflammatory drugs with respect to acute liver disease.</article-title>
+              <source>Arch Intern Med</source>
+              <year>1993</year>
+              <volume>153</volume>
+              <fpage>1331</fpage>
+              <lpage>6</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Analysis of Medicaid database from Michigan and Florida from 1980-87 found 107 cases of acute idiopathic hepatitis [2.2/100,000], of whom 8.4% received NSAIDs and 0.9% naproxen, compared to 6.1% and 1.6% of 428 case-controls, suggesting little contribution of NSAIDs to acute liver injury).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">8507123</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="NonsteroidalAntiinfl.REF.garc_a_rodr_guez.1994.311">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Garc&#x000ed;a Rodr&#x000ed;guez</surname>
+                  <given-names>LA</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Williams</surname>
+                  <given-names>R</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Derby</surname>
+                  <given-names>LE</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Dean</surname>
+                  <given-names>AD</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Jick</surname>
+                  <given-names>H</given-names>
+                </name>
+              </person-group>
+              <article-title>Acute liver injury associated with nonsteroidal anti-inflammatory drugs and the role of risk factors.</article-title>
+              <source>Arch Intern Med</source>
+              <year>1994</year>
+              <volume>154</volume>
+              <fpage>311</fpage>
+              <lpage>6</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Retrospective cohort study of cases of acute liver injury in England after exposure to NSAIDs; 23 cases were identified &#x02013; none fatal &#x02013; including 5 from ibuprofen, 4 diclofenac, 4 naproxen, 2 mefenamic acid, 3 ketoprofen, 2 piroxicam, 2 fenbuten and 3 sulindac).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">8297198</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="NonsteroidalAntiinfl.REF.fry.1995.875">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Fry</surname>
+                  <given-names>SW</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Seeff</surname>
+                  <given-names>LB</given-names>
+                </name>
+              </person-group>
+              <article-title>Hepatotoxicity of analgesics and anti-inflammatory agents.</article-title>
+              <source>Gastroenterol Clin North Am</source>
+              <year>1995</year>
+              <volume>24</volume>
+              <fpage>875</fpage>
+              <lpage>905</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Review of the hepatotoxicity of analgesics including NSAIDs with discussion of specific agents).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">8749903</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="NonsteroidalAntiinfl.REF.manoukian.1996.64">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Manoukian</surname>
+                  <given-names>AV</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Carson</surname>
+                  <given-names>JL</given-names>
+                </name>
+              </person-group>
+              <article-title>Nonsteroidal anti-inflammatory drug-induced hepatic disorders. Incidence and prevention.</article-title>
+              <source>Drug Saf</source>
+              <year>1996</year>
+              <volume>15</volume>
+              <fpage>64</fpage>
+              <lpage>71</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Review article focusing largely on diclofenac and sulindac as a cause of liver injury; abnormal liver enzymes occur in ~4%; acute liver injury in 3.8/100,000 users).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">8862964</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="NonsteroidalAntiinfl.REF.walker.1997.201">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Walker</surname>
+                  <given-names>AM</given-names>
+                </name>
+              </person-group>
+              <article-title>Quantitative studies of the risk of serious hepatic injury in persons using nonsteroidal antiinflammatory drugs.</article-title>
+              <source>Arthritis Rheum</source>
+              <year>1997</year>
+              <volume>40</volume>
+              <fpage>201</fpage>
+              <lpage>8</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Extensive review of large population-based studies of NSAID liver injury, found that hepatotoxicity from NSAIDs is rare with incidences in the range of 6 to 184 per 100,000 person-years and highest risk for sulindac and lowest for naproxen).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">9041931</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="NonsteroidalAntiinfl.REF.bjorkman.1998.17s">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Bjorkman</surname>
+                  <given-names>D.</given-names>
+                </name>
+              </person-group>
+              <article-title>Nonsteroidal anti-inflammatory drug-associated toxicity of the liver, lower gastrointestinal tract, and esophagus.</article-title>
+              <source>Am J Med</source>
+              <year>1998</year>
+              <volume>105</volume>
+              <fpage>17S</fpage>
+              <lpage>21S</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Review article of gastrointestinal side effects of NSAIDs, stresses that intestinal side effects are far more common than liver).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">9855171</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="NonsteroidalAntiinfl.REF.tolman.1998.13s">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Tolman</surname>
+                  <given-names>KG</given-names>
+                </name>
+              </person-group>
+              <article-title>Hepatotoxicity of non-narcotic analgesics.</article-title>
+              <source>Am J Med</source>
+              <year>1998</year>
+              <volume>105</volume>
+              <issue>1B</issue>
+              <fpage>13S</fpage>
+              <lpage>19S</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Review of hepatotoxicity of analgesics).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">9715830</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="NonsteroidalAntiinfl.REF.p_rezgutthann.1999.854">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>P&#x000e9;rez-Gutthann</surname>
+                  <given-names>S</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Garc&#x000ed;a-Rodr&#x000ed;guez</surname>
+                  <given-names>LA</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Duque-Oliart</surname>
+                  <given-names>A</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Varas-Lorenzo</surname>
+                  <given-names>C</given-names>
+                </name>
+              </person-group>
+              <article-title>Low-dose diclofenac, naproxen, and ibuprofen cohort study.</article-title>
+              <source>Pharmacotherapy</source>
+              <year>1999</year>
+              <volume>19</volume>
+              <fpage>854</fpage>
+              <lpage>9</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Analysis of database of general practice in UK on 3 million persons between 1991-95; analysis of patients receiving first prescription for diclofenac [n=22,146], naproxen [n=46,919] or ibuprofen [54,830] in low doses similar to what might be given over the counter, found 64 complications, 13 liver injury, but only 3 confirmed, 1 naproxen (0.2/10,000), 2 ibuprofen (0.4/10,000), but none for diclofenac).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">10417034</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="NonsteroidalAntiinfl.REF.bareille.2001.51">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Bareille</surname>
+                  <given-names>MP</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Montastruc</surname>
+                  <given-names>JL</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Lapeyre-Mestre</surname>
+                  <given-names>M</given-names>
+                </name>
+              </person-group>
+              <comment>[Liver damage and nonsteroidal anti-inflammatory drugs: case non-case study in the French Pharmacovigilance Database]</comment>
+              <source>Therapie</source>
+              <year>2001</year>
+              <volume>56</volume>
+              <fpage>51</fpage>
+              <lpage>5</lpage>
+              <comment>French.</comment>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Using French database, overall 13% of adverse events due to NSAIDs were hepatic, but 15.7% of naproxen reports involved the liver, although concurrent exposure to other hepatotoxins was frequent).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">11322018</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="NonsteroidalAntiinfl.REF.o_connor.2003.787">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>O&#x02019;Connor</surname>
+                  <given-names>N</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Dargan</surname>
+                  <given-names>PI</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Jones</surname>
+                  <given-names>AL</given-names>
+                </name>
+              </person-group>
+              <article-title>Hepatocellular damage from non-steroidal anti-inflammatory drugs.</article-title>
+              <source>QJM</source>
+              <year>2003</year>
+              <volume>96</volume>
+              <fpage>787</fpage>
+              <lpage>91</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Review of hepatotoxicity of NSAIDs stressing the increased risk from sulindac and diclofenac).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">14566034</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="NonsteroidalAntiinfl.REF.teoh.2003.401">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Teoh</surname>
+                  <given-names>NC</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Farrell</surname>
+                  <given-names>GC</given-names>
+                </name>
+              </person-group>
+              <article-title>Hepatotoxicity associated with non-steroidal anti-inflammatory drugs.</article-title>
+              <source>Clin Liver Dis</source>
+              <year>2003</year>
+              <volume>7</volume>
+              <issue>2</issue>
+              <fpage>401</fpage>
+              <lpage>13</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Review article on NSAIDs, naproxen said to cause cholestatic or mixed injury and to be low in incidence).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">12879991</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="NonsteroidalAntiinfl.REF.lacroix.2004.201">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Lacroix</surname>
+                  <given-names>I</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Lapeyre-Mestre</surname>
+                  <given-names>M</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Bagheri</surname>
+                  <given-names>H</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Pathak</surname>
+                  <given-names>A</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Montastruc</surname>
+                  <given-names>JL</given-names>
+                </name>
+              </person-group>
+              <article-title>Club de Reflexion des cabinets de Groupe de Gastro-Enterologie(CREGG); General Practitioner Networks. Nonsteroidal anti-inflammatory drug-induced liver injury: a case-control study in primary care.</article-title>
+              <source>Fundam Clin Pharmacol</source>
+              <year>2004</year>
+              <volume>18</volume>
+              <fpage>201</fpage>
+              <lpage>6</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Case controlled study of patients presenting with suspected drug induced liver injury in a general practice context in Southern France found 88 cases and matched them to 178 controls: 22 cases vs 16 controls were exposed to NSAIDs; 5 diclofenac, 4 ibuprofen, 4 ketoprofen, 2 niflumic acid, 1 flurbiprofen and 1 meloxicam; rest of cases were due to salicylates which was as frequently used in controls; cases were more common in women compared to controls; no fatalities).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">15066135</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="NonsteroidalAntiinfl.REF.russo.2004.1018">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Russo</surname>
+                  <given-names>MW</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Galanko</surname>
+                  <given-names>JA</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Shrestha</surname>
+                  <given-names>R</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Fried</surname>
+                  <given-names>MW</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Watkins</surname>
+                  <given-names>P</given-names>
+                </name>
+              </person-group>
+              <article-title>Liver transplantation for acute liver failure from drug induced liver injury in the United States.</article-title>
+              <source>Liver Transpl</source>
+              <year>2004</year>
+              <volume>10</volume>
+              <fpage>1018</fpage>
+              <lpage>23</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Review of United Network for Organ Sharing [UNOS] database from 1990-2002, found 270 cases of acute liver failure undergoing liver transplant due to medications; one case reportedly due to naproxen).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">15390328</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="NonsteroidalAntiinfl.REF.rubenstein.2004.373">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Rubenstein</surname>
+                  <given-names>JH</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Laine</surname>
+                  <given-names>L</given-names>
+                </name>
+              </person-group>
+              <article-title>Systematic review: the hepatotoxicity of non-steroidal anti-inflammatory drugs.</article-title>
+              <source>Aliment Pharmacol Ther</source>
+              <year>2004</year>
+              <volume>20</volume>
+              <fpage>373</fpage>
+              <lpage>80</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(NSAIDs are the most commonly used drugs in the U.S. and account for a large proportion of cases of hepatic injury, but the frequency is quite rare. Among 7 population-based studies, hospitalization occurred in 3.1-23.4/100,000 patient-years [20-70% higher than background] and ~1 death/100,000 patient-years due to liver injury; not increased with age or associated with gender; in case controlled studies, higher odds ratio with sulindac, indomethacin, piroxicam and diclofenac).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">15298630</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="NonsteroidalAntiinfl.REF.rostom.2005.489">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Rostom</surname>
+                  <given-names>A</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Goldkind</surname>
+                  <given-names>L</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Laine</surname>
+                  <given-names>L</given-names>
+                </name>
+              </person-group>
+              <article-title>Nonsteroidal anti-inflammatory drugs and hepatic toxicity: a systematic review of randomized controlled trials in arthritis patients.</article-title>
+              <source>Clin Gastroenterol Hepatol</source>
+              <year>2005</year>
+              <volume>3</volume>
+              <fpage>489</fpage>
+              <lpage>98</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Review of randomized clinical trials of NSAIDS for frequency of adverse events; ALT &#x0003e;3 fold ULN in 0.43% of ibuprofen, 0.43% naproxen, 0.42% celecoxib, 1.8% rofecoxib, 3.55% diclofenac and 0.29% of placebo recipients, rare liver-related serious adverse effects or deaths with any).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">15880319</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="NonsteroidalAntiinfl.REF.bj_rnsson.2005.1095">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Bj&#x000f6;rnsson</surname>
+                  <given-names>E</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Jerlstad</surname>
+                  <given-names>P</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Bergqvist</surname>
+                  <given-names>A</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Olsson</surname>
+                  <given-names>R</given-names>
+                </name>
+              </person-group>
+              <article-title>Fulminant drug-induced hepatic failure leading to death or liver transplantation in Sweden.</article-title>
+              <source>Scand J Gastroenterol</source>
+              <year>2005</year>
+              <volume>40</volume>
+              <fpage>1095</fpage>
+              <lpage>101</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Survey of all cases of drug induced liver injury with fatal outcome from Swedish Adverse Drug Reporting System from 1966-2002: among 103 cases, 9 were attributed to NSAIDs, 3 to diclofenac, 3 to naproxen and 1 each to ibuprofen, rofecoxib, and indomethacin; but no specific details given).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">16165719</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="NonsteroidalAntiinfl.REF.andrade.2005.512">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Andrade</surname>
+                  <given-names>RJ</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Lucena</surname>
+                  <given-names>MI</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Fern&#x000e1;ndez</surname>
+                  <given-names>MC</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Pelaez</surname>
+                  <given-names>G</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Pachkoria</surname>
+                  <given-names>K</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Garc&#x000ed;a-Ruiz</surname>
+                  <given-names>E</given-names>
+                </name>
+                <etal/>
+                <collab>Spanish Group for the Study of Drug-Induced Liver Disease</collab>
+              </person-group>
+              <article-title>Drug-induced liver injury: an analysis of 461 incidences submitted to the Spanish Registry over a 10-year period.</article-title>
+              <source>Gastroenterology</source>
+              <year>2005</year>
+              <volume>129</volume>
+              <fpage>512</fpage>
+              <lpage>21</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Reports of Spanish drug induced liver injury network on 570 cases, ibuprofen and diclofenac but not naproxen mentioned among the 20 most frequent causes with &#x0003e;4 cases).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">16083708</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="NonsteroidalAntiinfl.REF.bj_rnsson.2006.33">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Bj&#x000f6;rnsson</surname>
+                  <given-names>E</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Olsson</surname>
+                  <given-names>R</given-names>
+                </name>
+              </person-group>
+              <article-title>Suspected drug-induced liver fatalities reported to the WHO database.</article-title>
+              <source>Dig Liver Dis</source>
+              <year>2006</year>
+              <volume>38</volume>
+              <fpage>33</fpage>
+              <lpage>8</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Survey of drug induced liver fatalities reported to WHO database between 1968-2003 revealed 4690 reports; among NSAIDs, only diclofenac is ranked among the top 20 most frequent causes [15th; 56 cases]).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">16054882</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="NonsteroidalAntiinfl.REF.lapeyremestre.2006.391">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Lapeyre-Mestre</surname>
+                  <given-names>M</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>de Castro</surname>
+                  <given-names>AM</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Bareille</surname>
+                  <given-names>MP</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Del Pozo</surname>
+                  <given-names>JG</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Requejo</surname>
+                  <given-names>AA</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Arias</surname>
+                  <given-names>LM</given-names>
+                </name>
+                <etal/>
+              </person-group>
+              <article-title>Non-steroidal anti-inflammatory drug-related hepatic damage in France and Spain: analysis from national spontaneous reporting systems.</article-title>
+              <source>Fundam Clin Pharmacol</source>
+              <year>2006</year>
+              <volume>20</volume>
+              <fpage>391</fpage>
+              <lpage>5</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Analysis of reports of liver injury from NSAIDs from France and Spain from 1982-2001; relative risk definitely raised for droxicam, sulindac, nimesulide, and clometacin; minimally raised for naproxen, diclofenac, piroxicam and tenoxicam).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">16867024</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="NonsteroidalAntiinfl.REF.arellano.2006.861">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Arellano</surname>
+                  <given-names>FM</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Yood</surname>
+                  <given-names>MU</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Wentworth</surname>
+                  <given-names>CE</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Oliveria</surname>
+                  <given-names>SA</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Rivero</surname>
+                  <given-names>E</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Verma</surname>
+                  <given-names>A</given-names>
+                </name>
+                <etal/>
+              </person-group>
+              <article-title>Use of cyclo-oxygenase 2 inhibitors (COX-2) and prescription non-steroidal anti-inflammatory drugs (NSAIDS) in UK and USA populations Implications for COX-2 cardiovascular profile.</article-title>
+              <source>Pharmacoepidemiol Drug Saf</source>
+              <year>2006</year>
+              <volume>15</volume>
+              <fpage>861</fpage>
+              <lpage>72</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Survey of NSAID use in UK and USA indicates ibuprofen is most commonly used; major focus on Cox-2 use).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">17086563</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="NonsteroidalAntiinfl.REF.daly.2007.272">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Daly</surname>
+                  <given-names>AK</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Aithal</surname>
+                  <given-names>GP</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Leathart</surname>
+                  <given-names>JB</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Swainsbury</surname>
+                  <given-names>RA</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Dang</surname>
+                  <given-names>TS</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Day</surname>
+                  <given-names>CP</given-names>
+                </name>
+              </person-group>
+              <article-title>Genetic susceptibility to diclofenac-induced hepatotoxicity: contribution of UGT2B7, CYP2C8, and ABCC2 genotypes.</article-title>
+              <source>Gastroenterology</source>
+              <year>2007</year>
+              <volume>132</volume>
+              <fpage>272</fpage>
+              <lpage>81</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Three allelic variants in drug metabolizing and transport genes were found more commonly in 24 patients with diclofenac hepatotoxicity, compared with controls).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">17241877</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="NonsteroidalAntiinfl.REF.aithal.2007.563">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Aithal</surname>
+                  <given-names>GP</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Day</surname>
+                  <given-names>CP.</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Aithal</surname>
+                  <given-names>GP</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Day</surname>
+                  <given-names>CP.</given-names>
+                </name>
+              </person-group>
+              <article-title>Nonsteroidal anti-inflammatory drug-induced hepatotoxicity.</article-title>
+              <source>Clin Liver Dis</source>
+              <year>2007</year>
+              <volume>11</volume>
+              <fpage>563</fpage>
+              <lpage>75</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Review of the hepatotoxicity of NSAIDs, highlighting several examples and focusing on diclofenac).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">17723920</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="NonsteroidalAntiinfl.REF.brune.2009.1771">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Brune</surname>
+                  <given-names>K</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Renner</surname>
+                  <given-names>B</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Maas</surname>
+                  <given-names>R.</given-names>
+                </name>
+              </person-group>
+              <article-title>Zyklooxygenasehemmer: Arzneimittelinteraktionen sind unvermeidlich, nur wenige sind (akut) gefahrlich.</article-title>
+              <comment>[Cyclooxygenase inhibitors: adverse drug reactions are unavoidable, but only a few are (acutely) dangerous]</comment>
+              <source>Deutsche Medizinische Wochenschrift</source>
+              <year>2009</year>
+              <volume>134</volume>
+              <fpage>1771</fpage>
+              <lpage>3</lpage>
+              <pub-id pub-id-type="pmid">19718601</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="NonsteroidalAntiinfl.REF.soni.2009.1841">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Soni</surname>
+                  <given-names>P</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Shell</surname>
+                  <given-names>B</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Cawkwell</surname>
+                  <given-names>G</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Li</surname>
+                  <given-names>C</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Ma</surname>
+                  <given-names>H</given-names>
+                </name>
+              </person-group>
+              <article-title>The hepatic safety and tolerability of the cyclooxygenase-2 selective NSAID celecoxib: pooled analysis of 41 randomized controlled trials.</article-title>
+              <source>Curr Med Res Opin</source>
+              <year>2009</year>
+              <volume>25</volume>
+              <fpage>1841</fpage>
+              <lpage>51</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(A retrospective analysis of a dataset of 41 studies of patients with various inflammatory conditions focused upon adverse events for celecoxib, placebo, diclofenac, naproxen, and ibuprofen finding that the incidence of hepatic adverse events due to celecoxib was similar for placebo and ibuprofen or naproxen, but lower than for diclofenac).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">19530981</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="NonsteroidalAntiinfl.REF.laine.2009.356">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Laine</surname>
+                  <given-names>L</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Goldkind</surname>
+                  <given-names>L</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Curtis</surname>
+                  <given-names>SP</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Connors</surname>
+                  <given-names>LG</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Yanqiong</surname>
+                  <given-names>Z</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Cannon</surname>
+                  <given-names>CP</given-names>
+                </name>
+              </person-group>
+              <article-title>How common is diclofenac-associated liver injury? Analysis of 17,289 arthritis patients in a long-term prospective clinical trial.</article-title>
+              <source>Am J Gastroenterol</source>
+              <year>2009</year>
+              <volume>104</volume>
+              <fpage>356</fpage>
+              <lpage>62</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Examination of a clinical trial database of diclofenac vs. etoricoxib for arthritis; diclofenac was commonly associated with elevated liver enzymes, usually within the first 6 months of therapy).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">19174782</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="NonsteroidalAntiinfl.REF.ferrajolo.2010.721">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Ferrajolo</surname>
+                  <given-names>C</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Capuano</surname>
+                  <given-names>A</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Verhamme</surname>
+                  <given-names>KM</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Schuemie</surname>
+                  <given-names>M</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Rossi</surname>
+                  <given-names>F</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Stricker</surname>
+                  <given-names>BH</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Sturkenboom</surname>
+                  <given-names>MC</given-names>
+                </name>
+              </person-group>
+              <article-title>Drug-induced hepatic injury in children: a case/non-case study of suspected adverse drug reactions in VigiBase.</article-title>
+              <source>Br J Clin Pharmacol</source>
+              <year>2010</year>
+              <volume>70</volume>
+              <fpage>721</fpage>
+              <lpage>8</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Worldwide pharmacovigilance database contained 9036 hepatic adverse drug reactions in children among which acetaminophen ranked 2nd [n=327] and aspirin ranked 41st [n=30], but none of the regular NSAIDs were listed among the top 41 causes).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">21039766</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="NonsteroidalAntiinfl.REF.reuben.2010.2065">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Reuben</surname>
+                  <given-names>A</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Koch</surname>
+                  <given-names>DG</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Lee</surname>
+                  <given-names>WM</given-names>
+                </name>
+                <collab>Acute Liver Failure Study Group</collab>
+              </person-group>
+              <article-title>Drug-induced acute liver failure: results of a U.S. multicenter, prospective study.</article-title>
+              <source>Hepatology</source>
+              <year>2010</year>
+              <volume>52</volume>
+              <fpage>2065</fpage>
+              <lpage>76</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Among 1198 patients with acute liver failure enrolled in a US prospective study between 1998 and 2007, 133 were attributed to drug induced liver injury, including 7 attributed to NSAIDS: 4 to bromfenac, 2 to diclofenac and 1 to etodolac).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">20949552</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="NonsteroidalAntiinfl.REF.suzuki.2010.503">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Suzuki</surname>
+                  <given-names>A</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Andrade</surname>
+                  <given-names>RJ</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Bj&#x000f6;rnsson</surname>
+                  <given-names>E</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Lucena</surname>
+                  <given-names>MI</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Lee</surname>
+                  <given-names>WM</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Yuen</surname>
+                  <given-names>NA</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Hunt</surname>
+                  <given-names>CM</given-names>
+                </name>
+                <etal/>
+              </person-group>
+              <article-title>Drugs associated with hepatotoxicity and their reporting frequency of liver adverse events in VigiBase: unified list based on international collaborative work.</article-title>
+              <source>Drug Saf</source>
+              <year>2010</year>
+              <volume>33</volume>
+              <fpage>503</fpage>
+              <lpage>22</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(The combination of several large data sources identified 385 different drugs to be linked to liver injury and 107 to acute liver failure, the most commonly implicated NSAIDs being diclofenac, ibuprofen, naproxen, nimesulide, piroxicam, and sulindac).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">20486732</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="NonsteroidalAntiinfl.REF.zhou.2013.825">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Zhou</surname>
+                  <given-names>Y</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Yang</surname>
+                  <given-names>L</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Liao</surname>
+                  <given-names>Z</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>He</surname>
+                  <given-names>X</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Zhou</surname>
+                  <given-names>Y</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Guo</surname>
+                  <given-names>H</given-names>
+                </name>
+              </person-group>
+              <article-title>Epidemiology of drug-induced liver injury in China: a systematic analysis of the Chinese literature including 21 789 patients.</article-title>
+              <source>Eur J Gastroenterol Hepatol</source>
+              <year>2013</year>
+              <volume>25</volume>
+              <fpage>825</fpage>
+              <lpage>9</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Search of 3 electronic databases of the Chinese medical literature from 1994-2011 identified 279 reports on a total of 24,111 patients with drug induced liver injury, the most commonly implicated being antituberculosis agents [31%], HDS products [19%], antibiotics [10%] and NSAIDs [7.6%], and the most frequent individual NSAIDs being acetaminophen, ibuprofen, indomethacin, aspirin and phenylbutazone).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">23510965</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="NonsteroidalAntiinfl.REF.bj_rnsson.2013.1419">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Bj&#x000f6;rnsson</surname>
+                  <given-names>ES</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Bergmann</surname>
+                  <given-names>OM</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Bj&#x000f6;rnsson</surname>
+                  <given-names>HK</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Kvaran</surname>
+                  <given-names>RB</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Olafsson</surname>
+                  <given-names>S</given-names>
+                </name>
+              </person-group>
+              <article-title>Incidence, presentation and outcomes in patients with drug-induced liver injury in the general population of Iceland.</article-title>
+              <source>Gastroenterology</source>
+              <year>2013</year>
+              <volume>144</volume>
+              <fpage>1419</fpage>
+              <lpage>25</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Prospective analysis of all cases of drug induced liver injury in Iceland between 2010-11 identified 97 cases [19 per 100,000 inhabitants], 6 of which were attributed to diclofenac; no other NSAID mentioned).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">23419359</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="NonsteroidalAntiinfl.REF.hern_ndez.2014.231">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Hern&#x000e1;ndez</surname>
+                  <given-names>N</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Bessone</surname>
+                  <given-names>F</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>S&#x000e1;nchez</surname>
+                  <given-names>A</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>di Pace</surname>
+                  <given-names>M</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Brahm</surname>
+                  <given-names>J</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Zapata</surname>
+                  <given-names>R, A</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Chirino</surname>
+                  <given-names>R</given-names>
+                </name>
+                <etal/>
+              </person-group>
+              <article-title>Profile of idiosyncratic drug induced liver injury in Latin America. An analysis of published reports.</article-title>
+              <source>Ann Hepatol</source>
+              <year>2014</year>
+              <volume>13</volume>
+              <fpage>231</fpage>
+              <lpage>9</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Systematic review of literature of drug induced liver injury in Latin American countries published from 1996 to 2012 identified 176 cases, the most common class of implicated agents being NSAIDs [n=62, 32%], and specific agents were nimesulide [n=53], piroxicam [5], diclofenac [2], gold salts [1], and naproxen [1]).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">24552865</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="NonsteroidalAntiinfl.REF.chalasani.2015.1340">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Chalasani</surname>
+                  <given-names>N</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Bonkovsky</surname>
+                  <given-names>HL</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Fontana</surname>
+                  <given-names>R</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Lee</surname>
+                  <given-names>W</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Stolz</surname>
+                  <given-names>A</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Talwalkar</surname>
+                  <given-names>J</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Reddy</surname>
+                  <given-names>KR</given-names>
+                </name>
+                <etal/>
+                <collab>United States Drug Induced Liver Injury Network</collab>
+              </person-group>
+              <article-title>Features and outcomes of 899 patients with drug-induced liver injury: The DILIN Prospective Study.</article-title>
+              <source>Gastroenterology</source>
+              <year>2015</year>
+              <volume>148</volume>
+              <fpage>1340</fpage>
+              <lpage>52.e7</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Among 899 cases of drug induced liver injury enrolled in a US prospective study between 2004 and 2013, 28 were attributed to NSAIDs [Schmeltzer 2016]).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">25754159</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="NonsteroidalAntiinfl.REF.schmeltzer.2016.603">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Schmeltzer</surname>
+                  <given-names>PA</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Kosinski</surname>
+                  <given-names>AS</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Kleiner</surname>
+                  <given-names>DE</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Hoofnagle</surname>
+                  <given-names>JH</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Stolz</surname>
+                  <given-names>A</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Fontana</surname>
+                  <given-names>RJ</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Russo</surname>
+                  <given-names>MW</given-names>
+                </name>
+                <collab>Drug-Induced Liver Injury Network (DILIN)</collab>
+              </person-group>
+              <article-title>Liver injury from nonsteroidal anti-inflammatory drugs in the United States.</article-title>
+              <source>Liver Int</source>
+              <year>2016</year>
+              <volume>36</volume>
+              <fpage>603</fpage>
+              <lpage>9</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Among 1221 cases of drug induced liver injury enrolled in a prospective, US database between 2004 and 2014, 30 cases [2.5%] were attributed to NSAIDs, most commonly diclofenac [n=16], but also celecoxib [3], meloxicam [3], etodolac [2], ibuprofen [2], oxaprozin [2], val and sulindac [1]).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">26601797</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="NonsteroidalAntiinfl.REF.donati.2016.238">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Donati</surname>
+                  <given-names>M</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Conforti</surname>
+                  <given-names>A</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Lenti</surname>
+                  <given-names>MC</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Capuano</surname>
+                  <given-names>A</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Bortolami</surname>
+                  <given-names>O</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Motola</surname>
+                  <given-names>D</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Moretti</surname>
+                  <given-names>U</given-names>
+                </name>
+                <etal/>
+                <collab>DILI-IT Study Group</collab>
+              </person-group>
+              <article-title>Risk of acute and serious liver injury associated to nimesulide and other NSAIDs: data from drug-induced liver injury case-control study in Italy.</article-title>
+              <source>Br J Clin Pharmacol</source>
+              <year>2016</year>
+              <volume>82</volume>
+              <fpage>238</fpage>
+              <lpage>48</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Among 179 cases of acute liver injury and 1770 controls admitted to 9 Italian hospitals between 2010 and 2014, NSAIDs used more frequently in cases compared to controls included nimesulide [17% vs 10%: odds ratio 1.88] and ibuprofen [14% vs 10%: odds ratio 1.59] and risk was higher in those taking higher doses).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">26991794</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="NonsteroidalAntiinfl.REF.zoubek.2018.292">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Zoubek</surname>
+                  <given-names>ME</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Gonz&#x000e1;lez-Jimenez</surname>
+                  <given-names>A</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Medina-C&#x000e1;liz</surname>
+                  <given-names>I</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Robles-D&#x000ed;az</surname>
+                  <given-names>M</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Hernandez</surname>
+                  <given-names>N</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Romero-G&#x000f3;mez</surname>
+                  <given-names>M</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Bessone</surname>
+                  <given-names>F</given-names>
+                </name>
+                <etal/>
+              </person-group>
+              <article-title>High Prevalence of ibuprofen drug-induced Liver injury in Spanish and Latin-American registries.</article-title>
+              <source>Clin Gastroenterol Hepatol</source>
+              <year>2018</year>
+              <volume>16</volume>
+              <fpage>292</fpage>
+              <lpage>4</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Analysis of a Spanish and Latin-American registries identified 73 cases of NSAID induced liver injury, the most common agents being nimesulide [38%], diclofenac [34%] and ibuprofen [17%]; other agents not mentioned).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">28782674</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="NonsteroidalAntiinfl.REF.taneja.2017.818">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Taneja</surname>
+                  <given-names>S</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Kumar</surname>
+                  <given-names>P</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Rathi</surname>
+                  <given-names>S</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Duseja</surname>
+                  <given-names>A</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Singh</surname>
+                  <given-names>V</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Dhiman</surname>
+                  <given-names>RK</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Chawla</surname>
+                  <given-names>YK</given-names>
+                </name>
+              </person-group>
+              <article-title>Acute liver failure due to etodolac, a selective cycloxygenase- 2 (COX -2) inhibitor non-steroidal anti-inflammatory drug established by RUCAM-based causality assessment.</article-title>
+              <source>Ann Hepatol</source>
+              <year>2017</year>
+              <volume>16</volume>
+              <fpage>818</fpage>
+              <lpage>21</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Two cases of acute liver failure in patients taking etodolac; 27 and 80 year old women developed symptoms within 2 days of starting a fixed combination of etodolac [400 mg] and acetaminophen [500 mg] twice daily [initial bilirubin 4.3 and 4.4 mg/dL, ALT 6060 and 6896 U/L; Alk P 229 and 78 U/L, INR 6.7 and 4.0]; both treated with NAC, one dying of hepatic failure within 2 days, the other recovering with conservative management).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">28809737</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="NonsteroidalAntiinfl.REF.tujios.2018.6">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Tujios</surname>
+                  <given-names>SR</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Lee</surname>
+                  <given-names>WM</given-names>
+                </name>
+              </person-group>
+              <article-title>Acute liver failure induced by idiosyncratic reaction to drugs: challenges in diagnosis and therapy.</article-title>
+              <source>Liver Int</source>
+              <year>2018</year>
+              <volume>38</volume>
+              <fpage>6</fpage>
+              <lpage>14</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Review of acute liver failure and the contribution of drug induced liver injury, of which 5% were due to NSAIDs, most commonly diclofenac and etodolac).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">28771932</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="NonsteroidalAntiinfl.REF.meunier.2018.187">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Meunier</surname>
+                  <given-names>L</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Larrey</surname>
+                  <given-names>D</given-names>
+                </name>
+              </person-group>
+              <article-title>Recent advances in hepatotoxicity of non-steroidal anti-inflammatory drugs.</article-title>
+              <source>Ann Hepatol</source>
+              <year>2018</year>
+              <volume>17</volume>
+              <fpage>187</fpage>
+              <lpage>91</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Review of the hepatotoxicity of NSAIDS mentions the most commonly implicated are diclofenac, nimesulide, sulindac, ibuprofen, piroxicam, naproxen and aspirin).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">29469052</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="NonsteroidalAntiinfl.REF.daniels.2018.161">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Daniels</surname>
+                  <given-names>AM</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Gibbs</surname>
+                  <given-names>LM</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Herndon</surname>
+                  <given-names>CM</given-names>
+                </name>
+              </person-group>
+              <article-title>Elevated transaminases with topical diclofenac: a case report.</article-title>
+              <source>J Pain Palliat Care Pharmacother</source>
+              <year>2018</year>
+              <volume>32</volume>
+              <issue>2-3</issue>
+              <fpage>161</fpage>
+              <lpage>4</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(79 year old woman with osteoarthritis developed ALT elevations after starting diclofenac gel, 4 times daily [peak ALT ~225 U/L, bilirubin and Alk P not provided], which resolved within 4 weeks of stopping [ALT 24 U/L]).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">30645151</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="NonsteroidalAntiinfl.REF.zoubek.2020.603">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Zoubek</surname>
+                  <given-names>ME</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Lucena</surname>
+                  <given-names>MI</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Andrade</surname>
+                  <given-names>RJ</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Stephens</surname>
+                  <given-names>C</given-names>
+                </name>
+              </person-group>
+              <article-title>Systematic review: ibuprofen-induced liver injury.</article-title>
+              <source>Aliment Pharmacol Ther</source>
+              <year>2020</year>
+              <volume>51</volume>
+              <fpage>603</fpage>
+              <lpage>11</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Systematic review of the literature identified 22 cases of ibuprofen induced liver injury; median age 31 years, 55% women, median latency 12 days; hepatocellular enzyme pattern in 58%, mixed 16% and cholestatic 16%; median initial bilirubin 7.6 mg/dL, ALT 965 U/L, Alk P 610 U/L; often with rash and/or fever and in the context of DRESS, Stevens Johnson Syndrome or toxic-epidermal necrolysis; 5 with vanishing bile duct syndrome and 2 with acute liver failure; 3 having recurrence with reexposure).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">31984540</pub-id>
+            </element-citation>
+          </ref>
+        </ref-list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

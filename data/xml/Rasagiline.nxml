@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Rasagiline" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Rasagiline</book-part-id>
+      <title-group>
+        <title>Rasagiline</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>21</day>
+          <month>7</month>
+          <year>2017</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Ranolazine" document-type="chapter">Ranolazine</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Rasburicase" document-type="chapter">Rasburicase</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Rasagiline.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Rasagiline.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Rasagiline is an inhibitor of monamine oxidase used as adjunctive therapy in combination with levodopa and carbidopa in the management of Parkinson&#x02019;s disease. Rasagiline has been associated with a low rate of serum enzyme elevations during treatment, but has not been linked to instances of clinically apparent acute liver injury.</p>
+        </sec>
+        <sec id="Rasagiline.Background">
+          <title>Background</title>
+          <p>Rasagiline (ra sa' ji leen) is a specific inhibitor of monamine oxidase (MAO) type B which is a major enzyme in the pathway of dopamine and levodopa metabolism. As a result, rasagiline results in an increase in the bioavailability of levodopa enhancing and increasing the duration of its effects in Parkinson disease. Rasagiline was approved for use in the United States in 2007, the second MAO-B inhibitor approved for use in the therapy of Parkinson disease, and is currently approved for use monotherapy or as an adjunct to levodopa therapy. Rasagiline is available in tablets of 0.5 and 1 mg under the brand name of Azilect. Rasagiline is typically given in oral doses of 0.5 to 1 mg once daily alone or in combination with levodopa/carbidopa. Common side effects include headache, nausea, dizziness, agitation, delusions, insomnia, orthostatic hypotension, dry mouth, headache and gastrointestinal upset &#x02013; most of which are attributable to enhanced dopaminergic effects.</p>
+        </sec>
+        <sec id="Rasagiline.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>Rasagiline has been reported to cause serum enzyme elevations in a small proportion of patients treated long term, although the abnormalities were usually mild and self-limiting. Rasagiline has not been implicated in cases of acute liver injury, but such instances have been reported with other less specific MAO inhibitors.</p>
+          <p>Likelihood score: E (unlikely cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Rasagiline.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>Rasagiline is extensively metabolized by the hepatic cytochrome P450 system (CYP 1A2) to inactive metabolites.</p>
+        </sec>
+        <sec id="Rasagiline.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>Instances of hepatotoxicity attributed to rasagiline have been mild and self-limiting elevations in serum enzymes. No instances of severe liver injury, acute liver failure, chronic hepatitis or vanishing bile duct syndrome have been linked to rasagiline use.</p>
+          <p>Drug Class: <related-object source-id="livertox" document-id="AntiparkinsonAgents">Antiparkinson Agents</related-object></p>
+          <p>Other Drugs in the Subclass, Selective MAO-B Inhibitors: <related-object source-id="livertox" document-id="Safinamide">Safinamide</related-object>, <related-object source-id="livertox" document-id="Selegiline">Selegiline</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Rasagiline.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <boxed-text position="anchor" id="Rasagiline.BPI" orientation="portrait">
+          <p>
+            <bold>REPRESENTATIVE TRADE NAMES</bold>
+          </p>
+          <p>Rasagiline &#x02013; Generic, Azilect&#x000ae;</p>
+          <p>
+            <bold>DRUG CLASS</bold>
+          </p>
+          <p>Antiparkinson Agents</p>
+          <p>
+            <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Rasagiline">COMPLETE LABELING</ext-link>
+          </p>
+          <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+        </boxed-text>
+      </sec>
+      <sec id="Rasagiline.CHEMICAL_FORMULA_AND_STRUCTUR">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Rasagiline.T1" position="anchor" orientation="portrait">
+          <table>
+            <thead>
+              <tr>
+                <th id="hd_h_Rasagiline.T1_1_1_1_1" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Rasagiline.T1_1_1_1_2" rowspan="1" colspan="1">CAS REGISTRY NUMBER</th>
+                <th id="hd_h_Rasagiline.T1_1_1_1_3" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Rasagiline.T1_1_1_1_4" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Rasagiline.T1_1_1_1_1" rowspan="1" colspan="1">Rasagiline</td>
+                <td headers="hd_h_Rasagiline.T1_1_1_1_2" rowspan="1" colspan="1">
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135228398">136236-51-6</ext-link>
+                </td>
+                <td headers="hd_h_Rasagiline.T1_1_1_1_3" rowspan="1" colspan="1">C12-H13-N</td>
+                <td headers="hd_h_Rasagiline.T1_1_1_1_4" rowspan="1" colspan="1">
+                  <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Rasagiline_Structure.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait">
+                    <alt-text>Rasagiline Chemical Structure</alt-text>
+                  </graphic>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Rasagiline.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 21 July 2017</p>
+        <ref-list id="Rasagiline.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Rasagiline.R1">
+            <mixed-citation publication-type="other">Zimmerman HJ. Antiparkinsonism drugs. In, Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999, pp. 715-7.<annotation><p><italic toggle="yes">(Expert review of hepatotoxicity published in 1999; among anticholinergic agents, "only trihexyphenidyl has been incriminated in hepatic injury"; other antiparkinsonism drugs discussed include levodopa, lergotrile [no longer available], pergolide and bromocriptine, but not rasagiline).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Rasagiline.R2">
+            <mixed-citation publication-type="other">Larrey D, Ripault MP. Hepatotoxicity of psychotropic drugs and drugs of abuse. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier Inc, 2013, pp. 443-62.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of agents acting on the central nervous system).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Rasagiline.R3">
+            <mixed-citation publication-type="other">Standaert DG, Roberson ED. Treatment of central nervous system degenerative disorders. In, Brunton LL, Chabner BA, Knollman BC, eds. Goodman &#x00026; Gilman&#x02019;s the pharmacological basis of therapeutics. 12th ed. New York: McGraw-Hill, 2011, pp. 609-28.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Rasagiline.R4">
+            <mixed-citation publication-type="journal">Lambert D, Waters CH. Comparative tolerability of the newer generation antiparkinsonian agents. Drugs Aging 2000; 16: 55-65. <annotation><p><italic toggle="yes">(Review of mechanism of action, tolerability and safety of selegiline, pramipexole, ropinirole, tolcapone and entacapone in Parkinson disease).</italic></p></annotation><pub-id pub-id-type="pmid">10733264</pub-id></mixed-citation>
+          </ref>
+          <ref id="Rasagiline.R5">
+            <mixed-citation publication-type="journal">Parkinson Study Group. A randomized placebo-controlled trial of rasagiline in levodopa-treated patients with Parkinson disease and motor fluctuations: the PRESTO study. Arch Neurol 2005; 62: 241-8. <annotation><p><italic toggle="yes">(Controlled trial of 26 weeks of rasagiline vs placebo in 472 patients with Parkinson disease on levodopa with motor fluctuations; side effects that were more common with rasagiline were anorexia, weight loss, vomiting and balance difficulty, "there were no significant group differences in laboratory values during treatment").</italic></p></annotation><pub-id pub-id-type="pmid">15710852</pub-id></mixed-citation>
+          </ref>
+          <ref id="Rasagiline.R6">
+            <mixed-citation publication-type="journal">Rascol O, Brooks DJ, Melamed E, Oertel W, Poewe W, Stocchi F, Tolosa E; LARGO study group. Rasagiline as an adjunct to levodopa in patients with Parkinson's disease and motor fluctuations (LARGO, Lasting effect in Adjunct therapy with Rasagiline Given Once daily, study): a randomised, double-blind, parallel-group trial. Lancet 2005; 365: 947-54. <annotation><p><italic toggle="yes">(Randomized controlled trial of rasagiline vs entacapone vs placebo for 18 weeks in patients with Parkinson disease on levodopa/carbidopa found little difference in side effects; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">15766996</pub-id></mixed-citation>
+          </ref>
+          <ref id="Rasagiline.R7">
+            <mixed-citation publication-type="journal">Reuben A, Koch DG, Lee WM; Acute Liver Failure Study Group. Drug-induced acute liver failure: results of a U.S. multicenter, prospective study. Hepatology 2010; 52: 2065-76. <annotation><p><italic toggle="yes">(Among 1198 patients with acute liver failure enrolled in a US prospective study between 1998 and 2007, 133 were attributed to drug induced liver injury, but none were attributed to agents used for Parkinson disease). </italic></p></annotation><pub-id pub-id-type="pmid">20949552</pub-id></mixed-citation>
+          </ref>
+          <ref id="Rasagiline.R8">
+            <mixed-citation publication-type="journal">Bj&#x000f6;rnsson ES, Bergmann OM, Bj&#x000f6;rnsson HK, Kvaran RB, Olafsson S. Incidence, presentation, and outcomes in patients with drug-induced liver injury in the general population of Iceland. Gastroenterology 2013; 144: 1419-25,1425. <annotation><p><italic toggle="yes">(In a population based study of drug induced liver injury from Iceland, 96 cases were identified over a 2 year period, but none of the 96 were attributed to an agent used to treat Parkinson disease).</italic></p></annotation><pub-id pub-id-type="pmid">23419359</pub-id></mixed-citation>
+          </ref>
+          <ref id="Rasagiline.R9">
+            <mixed-citation publication-type="journal">Drugs for Parkinson's disease. Treat Guidel Med Lett 2013; 11 (135): 101-6. <annotation><p><italic toggle="yes">(Concise review of recommendations for therapy of Parkinson disease with description of mechanisms of action, efficacy and adverse events). </italic></p></annotation><pub-id pub-id-type="pmid">24165688</pub-id></mixed-citation>
+          </ref>
+          <ref id="Rasagiline.R10">
+            <mixed-citation publication-type="journal">Hern&#x000e1;ndez N, Bessone F, S&#x000e1;nchez A, di Pace M, Brahm J, Zapata R, A Chirino R, et al. Profile of idiosyncratic drug induced liver injury in Latin America: an analysis of published reports. Ann Hepatol 2014; 13: 231-9. <annotation><p><italic toggle="yes">(Among 176 reports of drug induced liver injury from Latin America published between 1996 and 2012, none were attributed to an agent to treat Parkinson disease).</italic></p></annotation><pub-id pub-id-type="pmid">24552865</pub-id></mixed-citation>
+          </ref>
+          <ref id="Rasagiline.R11">
+            <mixed-citation publication-type="journal">Chalasani N, Bonkovsky HL, Fontana R, Lee W, Stolz A, Talwalkar J, Reddy KR, et al.; United States Drug Induced Liver Injury Network. Features and outcomes of 899 patients with drug-induced liver injury: The DILIN Prospective Study. Gastroenterology 2015; 148: 1340-52. <annotation><p><italic toggle="yes">(Among 899 cases of drug induced liver injury from the US enrolled in a prospective database between 2004 and 2012, none were attributed to an agent used to treat Parkinson disease).</italic></p></annotation><pub-id pub-id-type="pmid">25754159</pub-id></mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec id="Rasagiline.OTHER_REFERENCE_LINKS" sec-type="link-group">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=(Rasagiline/AE)+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D%3A%222999/12/31%22%5BEDat%5D)">Recent References on Rasagiline: from PubMed.gov</ext-link>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Rasagiline">Trials on Rasagiline: from ClinicalTrials.gov</ext-link>
+            </p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

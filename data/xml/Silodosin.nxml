@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Silodosin" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Silodosin</book-part-id>
+      <title-group>
+        <title>Silodosin</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>8</day>
+          <month>1</month>
+          <year>2018</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Sildenafil" document-type="chapter">Sildenafil</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Siltuximab" document-type="chapter">Siltuximab</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Silodosin.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Silodosin.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Silodosin is a selective alpha-1a adrenergic antagonist used in the therapy of benign prostatic hypertrophy. Silodosin is associated with a low rate of serum aminotransferase elevations and to rare instances of clinically apparent acute liver injury.</p>
+        </sec>
+        <sec id="Silodosin.Background">
+          <title>Background</title>
+          <p>Silodosin (sye loe' doe sin) is a selective alpha-1a adrenergic antagonist approved for use in the United States for benign prostatic hypertrophy. Silodosin inhibits alpha adrenergic receptors present on smooth muscle in the bladder neck and prostate (alpha-1a adrenergic receptors). It has minimal effects on alpha-1b adrenergic receptors present in arterioles, which are responsible for the antihypertensive effects of the nonspecific alpha-1 adrenergic blockers. The effects of the agent on smooth muscle of the bladder neck and prostate cause improvement in urine flow in men with partial obstruction due to benign prostatic hypertrophy. Silodosin was approved for use in the United States in 2007 for treatment of symptoms of urinary hesitancy due to benign prostatic hypertrophy. Silodosin is available in capsules of 4 and 8 mg under the trade name Rapaflo. The recommended dose is 4 to 8 mg once daily. Side effects include retrograde ejaculation, orthostatic hypotension, dizziness, diarrhea, thirst, nasal stuffiness and headache. Rare, but potentially severe adverse events include severe postural hypotension and intraoperative floppy iris syndrome</p>
+        </sec>
+        <sec id="Silodosin.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>Silodosin has been associated with a low rate of serum aminotransferase elevations (&#x0003c;2%) that in controlled trials was no higher than with placebo or comparative agent therapy. These elevations were transient and did not require dose modification. No instances of clinically apparent acute liver injury due to silodosin have been published in the literature, but reports of jaundice with serum enzyme elevations have been received by the sponsor. Among the alpha adrenergic receptor antagonists, the most frequently implicated agent in causing liver injury has been alfuzosin with only single, and not well documented cases linked to other alpha blockers. Thus, acute symptomatic liver injury due to silodosin is quite rare, if it occurs at all.</p>
+          <p>Likelihood score: E* (unproven but suspected rare cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Silodosin.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The cause of the serum aminotransferase elevations and rare instances of acute liver injury associated with the alpha-1a adrenergic antagonists is not known. Silodosin is partially metabolized by the liver by the cytochrome P450 enzymes (predominantly CYP 3A4) and generation of a mildly toxic intermediate is a possible explanation.</p>
+        </sec>
+        <sec id="Silodosin.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>No instances of acute liver failure or chronic liver injury have been reported in association with the alpha-1 adrenergic blockers. There is no information on cross reactivity of the liver injury among the various adrenergic receptor antagonists, but similarity of chemical structure suggests that cross sensitivity may be present.</p>
+          <p>References to the safety and potential hepatotoxicity of alfuzosin are given in the Overview on the Alpha-1 Adrenergic Receptor Antagonists.</p>
+          <p>Drug Class: <related-object source-id="livertox" document-id="BPHAgents">Benign Prostatic Hypertrophy Agents</related-object></p>
+          <p>Other Drugs in the Class:</p>
+          <list list-type="bullet">
+            <list-item>
+              <p><related-object source-id="livertox" document-id="AlphaBlockers">Alpha-1 Adrenergic Receptor Antagonists</related-object>
+<list list-type="bullet"><list-item><p><related-object source-id="livertox" document-id="Alfuzosin">Alfuzosin</related-object>, <related-object source-id="livertox" document-id="Doxazosin">Doxazosin</related-object>, <related-object source-id="livertox" document-id="Tamsulosin">Tamsulosin</related-object>, <related-object source-id="livertox" document-id="Terazosin">Terazosin</related-object></p></list-item></list></p>
+            </list-item>
+            <list-item>
+              <p><related-object source-id="livertox" document-id="five-ARIs">5-Alpha Reductase Inhibitors</related-object>
+<list list-type="bullet"><list-item><p><related-object source-id="livertox" document-id="Dutasteride">Dutasteride</related-object>, <related-object source-id="livertox" document-id="Finasteride">Finasteride</related-object></p></list-item></list></p>
+            </list-item>
+          </list>
+        </sec>
+      </sec>
+      <sec id="Silodosin.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <boxed-text position="anchor" id="Silodosin.BPI" orientation="portrait">
+          <p>
+            <bold>REPRESENTATIVE TRADE NAMES</bold>
+          </p>
+          <p>Silodosin &#x02013; Rapaflo&#x000ae;</p>
+          <p>
+            <bold>DRUG CLASS</bold>
+          </p>
+          <p>Benign Prostatic Hypertrophy Agents</p>
+          <p>
+            <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=silodosin">COMPLETE LABELING</ext-link>
+          </p>
+          <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+        </boxed-text>
+      </sec>
+      <sec id="Silodosin.CHEMICAL_FORMULA_AND_STRUCTURE">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Silodosin.T1" position="anchor" orientation="portrait">
+          <table>
+            <thead>
+              <tr>
+                <th id="hd_h_Silodosin.T1_1_1_1_1" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Silodosin.T1_1_1_1_2" rowspan="1" colspan="1">CAS REGISTRY NUMBER</th>
+                <th id="hd_h_Silodosin.T1_1_1_1_3" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Silodosin.T1_1_1_1_4" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Silodosin.T1_1_1_1_1" rowspan="1" colspan="1">Silodosin</td>
+                <td headers="hd_h_Silodosin.T1_1_1_1_2" rowspan="1" colspan="1">
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135252710">160970-54-7</ext-link>
+                </td>
+                <td headers="hd_h_Silodosin.T1_1_1_1_3" rowspan="1" colspan="1">C25-H32-F3-N3-O4</td>
+                <td headers="hd_h_Silodosin.T1_1_1_1_4" rowspan="1" colspan="1">
+                  <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Silodosin_Structure.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait">
+                    <alt-text>Silodosin Chemical Structure</alt-text>
+                  </graphic>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Silodosin.OTHER_REFERENCE_LINKS_Enter_dr" sec-type="link-group">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=(Silodosin/AE)+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D%3A%222999/12/31%22%5BEDat%5D)">Recent References on Silodosin: from PubMed.gov</ext-link>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Silodosin">Trials on Silodosin: from ClinicalTrials.gov</ext-link>
+            </p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

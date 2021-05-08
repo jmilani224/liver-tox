@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="LevodopaCarbodopa" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">LevodopaCarbodopa</book-part-id>
+      <title-group>
+        <title>Levodopa</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>20</day>
+          <month>7</month>
+          <year>2017</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Levetiracetam" document-type="chapter">Levetiracetam</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Levofloxacin" document-type="chapter">Levofloxacin</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="LevodopaCarbodopa.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="LevodopaCarbodopa.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Levodopa (L-Dopa) is an amino acid precursor of dopamine and is the most effective and commonly used drug in the treatment of Parkinson disease. Levodopa is usually combined with carbidopa, which is an inhibitor of L-amino acid decarboxylase, the plasma enzyme that metabolizes levodopa peripherally. Treatment with the combination of levodopa and carbidopa has been associated with mild and transient increases in serum enzymes in a proportion of patients and with very rare instances of clinically apparent acute liver injury.</p>
+        </sec>
+        <sec id="LevodopaCarbodopa.Background">
+          <title>Background</title>
+          <p>Levodopa (lee" voe doe' pa) is a derivative of phenylalanine and is a metabolic precursor of dopamine. Levodopa crosses the blood brain barrier where it is converted to dopamine by decarboxylation in the presynaptic terminals of dopaminergic neurons. After release, it is transported back into the dopaminergic terminals or is metabolized either by catechol-O-methyltransferase (COMT) or by monoamine oxidase (MAO). When given orally, levodopa is usually combined with carbidopa (kar' bi doe' pa), which is also a derivative of phenylalanine and is an inhibitor of L-amino acid decarboxylase, the plasma enzyme that metabolizes levodopa peripherally. Levodopa was approved for use in the United States in 1970 and the combination of levodopa and carbidopa in 1975. Levodopa, alone and in combination with carbodopa, remains a commonly used agent for Parkinson disease with more than 2 million prescriptions filled yearly in the United States. Current indications include therapy of symptomatic Parkinson disease as well as spastic disorders and extrapyramidal disorders due to medications. Levodopa is available as tablets with various fixed combination with carbidopa (10-100, 25-100 and 25-250) in generic forms and under the trade name Sinemet. The combination is typically given 3 to 4 times daily, although a controlled release form is available that allows for twice daily dosing. The optimal dose varies by patient; it is typically started at a low dose and increased based upon clinical response and tolerance. Side effects can include nausea, dyskinesias, hallucinations, confusion, postural hypotension, sedation, constipation, sleep disturbances, depression and hypersexuality &#x02013; side effects that are common to all dopaminergic agents.</p>
+        </sec>
+        <sec id="LevodopaCarbodopa.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>The combination of levodopa and carbidopa has been reported to cause serum aminotransferase elevations in up to 9% of patients, but these abnormalities are usually mild, asymptomatic and self-limiting. In rare instances, the aminotransferase elevations rise above 5 to 10 times the ULN and require discontinuation or dose adjustment. In addition, levodopa has been implicated in a small number of cases of clinically apparent, acute liver injury, but the clinical characteristics and typical pattern of enzyme elevations have not been characterized. In view of the long term and wide scale use of levodopa in Parkinson disease, clinically apparent liver injury with jaundice must be exceedingly rare.</p>
+          <p>Likelihood score: E (unlikely cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="LevodopaCarbodopa.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The metabolism of levodopa and carbodopa is largely through peripheral or intracellular amino acid decarboxylases, and by catechol-O-methyltransferase and monoamine oxidase in the brain. They have minimal hepatic metabolism.</p>
+          <p>Drug Class: <related-object source-id="livertox" document-id="AntiparkinsonAgents">Antiparkinson Agents</related-object></p>
+        </sec>
+      </sec>
+      <sec id="LevodopaCarbodopa.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <boxed-text position="anchor" id="LevodopaCarbodopa.BPI" orientation="portrait">
+          <p>
+            <bold>REPRESENTATIVE TRADE NAMES</bold>
+          </p>
+          <p>Levodopa &#x02013; L-Dopa&#x000ae;</p>
+          <p>Carbidopa &#x02013; Lodosyn&#x000ae;</p>
+          <p>Carbidopa/Levodopa &#x02013; Generic, Sinemet&#x000ae;</p>
+          <p>
+            <bold>DRUG CLASS</bold>
+          </p>
+          <p>Antiparkinson Agents</p>
+          <p>
+            <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Levodopa">COMPLETE LABELING</ext-link>
+          </p>
+          <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+        </boxed-text>
+      </sec>
+      <sec id="LevodopaCarbodopa.CHEMICAL_FORMULAS_AND_">
+        <title>CHEMICAL FORMULAS AND STRUCTURES</title>
+        <table-wrap id="LevodopaCarbodopa.T1" position="anchor" orientation="portrait">
+          <table>
+            <thead>
+              <tr>
+                <th id="hd_h_LevodopaCarbodopa.T1_1_1_1_1" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_LevodopaCarbodopa.T1_1_1_1_2" rowspan="1" colspan="1">CAS REGISTRY NUMBER</th>
+                <th id="hd_h_LevodopaCarbodopa.T1_1_1_1_3" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_LevodopaCarbodopa.T1_1_1_1_4" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_LevodopaCarbodopa.T1_1_1_1_1" rowspan="1" colspan="1">Levodopa</td>
+                <td headers="hd_h_LevodopaCarbodopa.T1_1_1_1_2" rowspan="1" colspan="1">
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://134972617">59-92-7</ext-link>
+                </td>
+                <td headers="hd_h_LevodopaCarbodopa.T1_1_1_1_3" rowspan="1" colspan="1">C9-H11-N-O4</td>
+                <td headers="hd_h_LevodopaCarbodopa.T1_1_1_1_4" rowspan="1" colspan="1">
+                  <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Levodopa_Structure.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait">
+                    <alt-text>Levodopa Chemical Structure</alt-text>
+                  </graphic>
+                </td>
+              </tr>
+              <tr>
+                <td headers="hd_h_LevodopaCarbodopa.T1_1_1_1_1" rowspan="1" colspan="1">Carbidopa</td>
+                <td headers="hd_h_LevodopaCarbodopa.T1_1_1_1_2" rowspan="1" colspan="1">
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135001464">38821-49-7</ext-link>
+                </td>
+                <td headers="hd_h_LevodopaCarbodopa.T1_1_1_1_3" rowspan="1" colspan="1">C10-H14-N2-O4.H2-O</td>
+                <td headers="hd_h_LevodopaCarbodopa.T1_1_1_1_4" rowspan="1" colspan="1">
+                  <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Carbidopa_Structure.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait">
+                    <alt-text>Carbidopa Chemical Structure</alt-text>
+                  </graphic>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="LevodopaCarbodopa.REFERENCES_Levodopa_an">
+        <title>REFERENCES</title>
+        <p>References updated: 20 July 2017</p>
+        <ref-list id="LevodopaCarbodopa.REFERENCES_Levodopa_an.reflist0">
+          <ref id="LevodopaCarbodopa.R1">
+            <mixed-citation publication-type="other">Zimmerman HJ. Antiparkinsonism drugs. In, Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999, pp. 715-7.<annotation><p><italic toggle="yes">(Expert review of hepatotoxicity published in 1999; among anticholinergic agents, "only trihexyphenidyl has been incriminated in hepatic injury"; other antiparkinsonism drugs discussed include levodopa, lergotrile [no longer available], pergolide and bromocriptine).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="LevodopaCarbodopa.R2">
+            <mixed-citation publication-type="other">Larrey D, Ripault MP. Hepatotoxicity of psychotropic drugs and drugs of abuse. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier Inc, 2013, pp. 443-62.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of agents acting on the central nervous system).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="LevodopaCarbodopa.R3">
+            <mixed-citation publication-type="other">Roberson ED. Treatment of central nervous system degenerative disorders. In, Brunton LL, Hilal-Dandan R, Knollman BC, eds. Goodman &#x00026; Gilman&#x02019;s the pharmacological basis of therapeutics. 13th ed. New York: McGraw-Hill, 2018, pp. 327-38.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="LevodopaCarbodopa.R4">
+            <mixed-citation publication-type="journal">McDowell F. Symposium on levodopa in Parkinson's disease. Clinical and pharmacological aspects. Clinical laboratory abnormalities. Clin Pharmacol Ther 1971; 12: 335-9. <annotation><p><italic toggle="yes">(Retrospective analysis of laboratory abnormalities arising in 974 patients with Parkinson disease treated with levodopa; AST elevations occurred in 9% of 5427 determinations, but were usually mild and transient returning to normal in 1-2 months without dose adjustment; AST levels rose to 1600 U/L in one patient who later died of complications of diabetes).</italic></p></annotation><pub-id pub-id-type="pmid">4102803</pub-id></mixed-citation>
+          </ref>
+          <ref id="LevodopaCarbodopa.R5">
+            <mixed-citation publication-type="journal">Kanetaka T, Oda T. Toxic liver injuries. Acta Pathol Jpn 1973; 23: 617-27. <annotation><p><italic toggle="yes"> (In reviewing experience with drug induced liver disease, mentions one case attributed to levodopa therapy).</italic></p></annotation><pub-id pub-id-type="pmid">4800729</pub-id></mixed-citation>
+          </ref>
+          <ref id="LevodopaCarbodopa.R6">
+            <mixed-citation publication-type="journal">Lieberman AN, Gopinathan G, Neophytides A, Goldstein M. Management of levodopa failures: the use of dopamine agonists. Clin Neuropharmacol 1986; 9: S9-21. <annotation><p><italic toggle="yes">(Among 278 patients with Parkinson disease failing to respond to levodopa and treated with a dopamine agonist, 61% improved but adverse events requiring discontinuation occurred in 46%; no discussion of hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">3297319</pub-id></mixed-citation>
+          </ref>
+          <ref id="LevodopaCarbodopa.R7">
+            <mixed-citation publication-type="journal">Lambert D, Waters CH. Comparative tolerability of the newer generation antiparkinsonian agents. Drugs Aging 2000; 16: 55-65. <annotation><p><italic toggle="yes">(Review of mechanism of action, tolerability and safety of selegiline, pramipexole, ropinirole, tolcapone and entacapone in Parkinson disease).</italic></p></annotation><pub-id pub-id-type="pmid">10733264</pub-id></mixed-citation>
+          </ref>
+          <ref id="LevodopaCarbodopa.R8">
+            <mixed-citation publication-type="journal">Levodopa + carbidopa + entacapone. Entacapone: a second look: new preparations. Parkinson's disease: a modest effect. Prescrire Int 2005; 14: 51-4. <annotation><p><italic toggle="yes">(Review of risks and benefits of a fixed dose combination of levodopa, carbidopa and entacapone mentions that entacapone may cause cholestatic hepatitis and that is has not been shown to be more effective than bromocriptine).</italic></p></annotation><pub-id pub-id-type="pmid">15875340</pub-id></mixed-citation>
+          </ref>
+          <ref id="LevodopaCarbodopa.R9">
+            <mixed-citation publication-type="journal">Jankovic J, Stacy M. Medical management of levodopa-associated motor complications in patients with Parkinson's disease. CNS Drugs 2007; 21: 677-92. <annotation><p><italic toggle="yes">(Review of options for therapy of Parkinson disease in patients on long term levodopa manifesting fluctuating motor dysfunction).</italic></p></annotation><pub-id pub-id-type="pmid">17630819</pub-id></mixed-citation>
+          </ref>
+          <ref id="LevodopaCarbodopa.R10">
+            <mixed-citation publication-type="journal">Lees AJ, Ratziu V, Tolosa E, Oertel WH. Safety and tolerability of adjunctive tolcapone treatment in patients with early Parkinson's disease. J Neurol Neurosurg Psychiatry 2007; 78: 944-8. <annotation><p><italic toggle="yes">(Controlled trial of tolcapone vs placebo combined with levodopa and carbidopa in 677 patients with early Parkinson disease; ALT or AST elevations occurred in 20% of placebo- vs 27% of tolcapone treated patients and were &#x0003e;3 times ULN in 1.2% [placebo] vs 1.8% [tolcapone], almost all during first 6 months; 1% of tolcapone treated patients stopped because of ALT elevations, but none developed jaundice or clinically apparent liver injury).</italic></p></annotation><pub-id pub-id-type="pmid">17098835</pub-id></mixed-citation>
+          </ref>
+          <ref id="LevodopaCarbodopa.R11">
+            <mixed-citation publication-type="journal">Brooks DJ, Leinonen M, Kuoppam&#x000e4;ki M, Nissinen H. Five-year efficacy and safety of levodopa/DDCI and entacapone in patients with Parkinson's disease. J Neural Transm 2008; 115: 843-9. <annotation><p><italic toggle="yes">(Retrospective, pooled analysis of 5 controlled trials with 5 year extension phases that included 806 patients with Parkinson disease treated with entacapone added to levodopa/carbodopa; there were "few clinically significant changes in liver function tests" and none of the 478 serious adverse events that were reported were due to hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">18259682</pub-id></mixed-citation>
+          </ref>
+          <ref id="LevodopaCarbodopa.R12">
+            <mixed-citation publication-type="journal">Reuben A, Koch DG, Lee WM; Acute Liver Failure Study Group. Drug-induced acute liver failure: results of a U.S. multicenter, prospective study. Hepatology 2010; 52: 2065-76. <annotation><p><italic toggle="yes">(Among 1198 patients with acute liver failure enrolled in a US prospective study between 1998 and 2007, 133 were attributed to drug induced liver injury, but none were attributed to agents used for Parkinson disease).</italic></p></annotation><pub-id pub-id-type="pmid">20949552</pub-id></mixed-citation>
+          </ref>
+          <ref id="LevodopaCarbodopa.R13">
+            <mixed-citation publication-type="journal">Bj&#x000f6;rnsson ES, Bergmann OM, Bj&#x000f6;rnsson HK, Kvaran RB, Olafsson S. Incidence, presentation, and outcomes in patients with drug-induced liver injury in the general population of Iceland. Gastroenterology 2013; 144: 1419-25,1425. <annotation><p><italic toggle="yes">(In a population based study of drug induced liver injury from Iceland, 96 cases were identified over a 2 year period, but none of the 96 were attributed to an agent used to treat Parkinson disease).</italic></p></annotation><pub-id pub-id-type="pmid">23419359</pub-id></mixed-citation>
+          </ref>
+          <ref id="LevodopaCarbodopa.R14">
+            <mixed-citation publication-type="journal">Drugs for Parkinson's disease. Treat Guidel Med Lett 2013; 11 (135): 101-6. <annotation><p><italic toggle="yes">(Concise review of recommendations for therapy of Parkinson disease with description of mechanisms of action, efficacy and adverse events). </italic></p></annotation><pub-id pub-id-type="pmid">24165688</pub-id></mixed-citation>
+          </ref>
+          <ref id="LevodopaCarbodopa.R15">
+            <mixed-citation publication-type="journal">Hern&#x000e1;ndez N, Bessone F, S&#x000e1;nchez A, di Pace M, Brahm J, Zapata R, A Chirino R, et al. Profile of idiosyncratic drug induced liver injury in Latin America: an analysis of published reports. Ann Hepatol 2014; 13: 231-9. <annotation><p><italic toggle="yes">(Among 176 reports of drug induced liver injury from Latin America published between 1996 and 2012, none were attributed to an agent to treat Parkinson disease).</italic></p></annotation><pub-id pub-id-type="pmid">24552865</pub-id></mixed-citation>
+          </ref>
+          <ref id="LevodopaCarbodopa.R16">
+            <mixed-citation publication-type="journal">Chalasani N, Bonkovsky HL, Fontana R, Lee W, Stolz A, Talwalkar J, Reddy KR, et al.; United States Drug Induced Liver Injury Network. Features and outcomes of 899 patients with drug-induced liver injury: The DILIN Prospective Study. Gastroenterology 2015; 148: 1340-52. <annotation><p><italic toggle="yes">(Among 899 cases of drug induced liver injury from the US enrolled in a prospective database between 2004 and 2012, none were attributed to an agent used to treat Parkinson disease).</italic></p></annotation><pub-id pub-id-type="pmid">25754159</pub-id></mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec id="LevodopaCarbodopa.OTHER_REFERENCE_LINKS" sec-type="link-group">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=(Levodopa/AE)+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D%3A%222999/12/31%22%5BEDat%5D)">Recent References on Levodopa: from PubMed.gov</ext-link>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Levodopa">Trials on Levodopa: from ClinicalTrials.gov</ext-link>
+            </p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

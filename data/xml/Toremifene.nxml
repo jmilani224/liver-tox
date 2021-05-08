@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Toremifene" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Toremifene</book-part-id>
+      <title-group>
+        <title>Toremifene</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>6</day>
+          <month>6</month>
+          <year>2016</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="TopoisomeraseInhibit" document-type="chapter">Topoisomerase Inhibitors</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Tositumomab" document-type="chapter">Tositumomab</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Toremifene.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Toremifene.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Toremifene is a nonsteroidal antiestrogen that is used in the treatment of estrogen receptor positive breast cancer. Long term toremifene therapy has been associated with development of fatty liver, steatohepatitis, cirrhosis, and rare instances of clinically apparent acute liver injury.</p>
+        </sec>
+        <sec id="Toremifene.Background">
+          <title>Background</title>
+          <p>Toremifene (tor em' i feen) is a selective estrogen receptor modulator, similar to tamoxifen, that has tissue specific actions with antiestrogenic activity on breast tissue, but estrogenic activity (agonism) on bone and the cardiovascular system. The antiestrogenic effects of toremifene are the basis for its use in the treatment of estrogen-receptor positive breast cancer. It also has weak estrogenic effects on uterus. Toremifene was approved for use in the United States in 1997 and its indications are limited to the treatment of estrogen-receptor positive (or unknown) metastatic breast cancer in postmenopausal women. Unlike tamoxifen, toremifene has not been approved as a means of prevention of de novo breast cancer in high risk patients or for prevention of recurrence of breast cancer. Toremifene is available in tablets of 60 mg under the brand name Fareston. The recommended dose is 60 mg by mouth once daily. Common side effects include hot flashes, sweating, nausea, dizziness, peripheral edema and vaginal discharge. Rare, but potentially severe adverse events include tumor flare (transient worsening soon after starting therapy), prolongation of the QTc interval, venous thrombosis and pulmonary embolism and endometrial (uterine) carcinoma.</p>
+        </sec>
+        <sec id="Toremifene.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>Toremifene has been associated with mild-to-moderate serum ALT or AST elevations in 5% to 19% of patients, but these abnormalities are usually transient and not associated with symptoms or jaundice. Elevations above 5 times the ULN are uncommon (&#x0003c;1%), but occasionally lead to discontinuation. In large registration clinical trials, there were no instances of clinically apparent liver injury attributed to toremifene therapy. Since its approval and more wide spread use, toremifene has been associated with instances of nonalcoholic fatty liver with serum enzyme elevations, some cases of which were shown to represent steatohepatitis. Both the serum enzyme elevations and fatty liver tended to regress once therapy was stopped and no instances of cirrhosis or death from end stage liver disease have been linked to toremifene therapy in the published literature. Nevertheless, steatohepatitis, cirrhosis, end stage liver disease and hepatocellular carcinoma have been reported in women treated with tamoxifen for many years and similar instances may occur with toremifene, although the hepatic adverse effects of the estrogen receptor modulators appears to be less with toremifene than with tamoxifen.</p>
+          <p>Likelihood score: D (possible cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Toremifene.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The cause of the serum enzyme elevations during toremifene therapy is unknown, but they may represent fatty liver disease induced by the estrogen receptor modulation. Toremifene is metabolized in the liver by CYP 3A4 and is susceptible to drug-drug interactions with agents that induce, inhibit or are substrates for this microsomal enzyme.</p>
+        </sec>
+        <sec id="Toremifene.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>While fatty liver arises in proportion of women treated with toremifene, clinically significant steatohepatitis is rare. Nevertheless, periodic monitoring of serum aminotransferase levels during toremifene therapy is appropriate. In women with persistent elevations in ALT levels, the relative benefits and risks of continuing toremifene therapy must be weighed. Factors to help in the decision include noninvasive tests for hepatic fibrosis (platelet count), imaging of the liver and, in some instances, liver biopsy. Other approaches short of stopping toremifene therapy include nutritional advice and weight loss, abstinence from alcohol, and possibly medical therapies for nonalcoholic steatohepatitis (which are currently investigational and have not been shown to be specifically helpful in drug induced fatty liver). The possible development of serious hepatic fibrosis and portal hypertension can be assessed noninvasively by serial determinations of platelet count, but may require liver biopsy to document.</p>
+          <p>Drug Class: <related-object source-id="livertox" document-id="AntineoplasticAgents">Antineoplastic Agents</related-object>, Hormonal Agents, <related-object source-id="livertox" document-id="AromataseInhibitors">Antiestrogens</related-object>, <related-object source-id="livertox" document-id="SERMS">Selective Estrogen Receptor Modulators</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Toremifene.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <boxed-text position="anchor" id="Toremifene.BPI" orientation="portrait">
+          <p>
+            <bold>REPRESENTATIVE TRADE NAMES</bold>
+          </p>
+          <p>Toremifene &#x02013; Fareston&#x000ae;</p>
+          <p>
+            <bold>DRUG CLASS</bold>
+          </p>
+          <p>Antineoplastic Agents</p>
+          <p>
+            <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Toremifene">COMPLETE LABELING</ext-link>
+          </p>
+          <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+        </boxed-text>
+      </sec>
+      <sec id="Toremifene.CHEMICAL_FORMULA_AND_STRUCTUR">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Toremifene.T1" position="anchor" orientation="portrait">
+          <table>
+            <thead>
+              <tr>
+                <th id="hd_h_Toremifene.T1_1_1_1_1" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Toremifene.T1_1_1_1_2" rowspan="1" colspan="1">CAS REGISTRY NO</th>
+                <th id="hd_h_Toremifene.T1_1_1_1_3" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Toremifene.T1_1_1_1_4" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Toremifene.T1_1_1_1_1" rowspan="1" colspan="1">Toremifene</td>
+                <td headers="hd_h_Toremifene.T1_1_1_1_2" rowspan="1" colspan="1">
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135013751">89778-26-7</ext-link>
+                </td>
+                <td headers="hd_h_Toremifene.T1_1_1_1_3" rowspan="1" colspan="1">C26-H28-Cl-N-O</td>
+                <td headers="hd_h_Toremifene.T1_1_1_1_4" rowspan="1" colspan="1">
+                  <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Toremifene_structure.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait">
+                    <alt-text>Toremifene chemical structure</alt-text>
+                  </graphic>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Toremifene.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 06 June 2016</p>
+        <ref-list id="Toremifene.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Toremifene.R1">
+            <mixed-citation publication-type="other">Zimmerman HJ. Antiestrogens. Hormonal derivatives and related drugs. In, Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999, pp. 574.<annotation><p><italic toggle="yes">(Expert review of hepatotoxicity published in 1999 mentions that tamoxifen can lead to cholestasis, peliosis, fatty liver and steatohepatitis, but does not discuss toremifene).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Toremifene.R2">
+            <mixed-citation publication-type="other">Chitturi S, Farrell GC. Estrogen receptor antagonists. Adverse effects of hormones and hormone antagonists on the liver. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013, pp. 610-2.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of SERMs mentions that hepatic effects including fatty liver disease are less common with toremifene than tamoxifen).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Toremifene.R3">
+            <mixed-citation publication-type="other">Moy B, Lee RJ, Smith M. Anti-estrogen therapy. Natural products in cancer chemotherapy. In, Brunton LL, Chabner BA, Knollman BC, eds. Goodman &#x00026; Gilman&#x02019;s the pharmacological basis of therapeutics. 12th ed. New York: McGraw-Hill, 2011, pp. 1756-9.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Toremifene.R4">
+            <mixed-citation publication-type="journal">Kivinen S, M&#x000e4;enp&#x000e4;&#x000e4; J. Effect of toremifene on clinical chemistry, hematology and hormone levels at different doses in healthy postmenopausal volunteers: phase I study. J Steroid Biochem 1990; 36: 217-20. <annotation><p><italic toggle="yes">(Toremifene given in a single dose for 5 days in 72 postmenopausal women was associated with a decrease in serum ALT, AST and Alk P).</italic></p></annotation><pub-id pub-id-type="pmid">2142236</pub-id></mixed-citation>
+          </ref>
+          <ref id="Toremifene.R5">
+            <mixed-citation publication-type="journal">Systemic treatment of early breast cancer by hormonal, cytotoxic, or immune therapy. 133 randomised trials involving 31,000 recurrences and 24,000 deaths among 75,000 women. Early Breast Cancer Trialists' Collaborative Group. Lancet 1992; 339: 1-15, 71-85. <annotation><p><italic toggle="yes">(Combined results of outcome of tamoxifen therapy in 75,000 women showed reductions in rates of recurrence and death and decrease in cancer in contralateral breast for first 4 years of therapy).</italic></p></annotation><pub-id pub-id-type="pmid">1345869</pub-id></mixed-citation>
+          </ref>
+          <ref id="Toremifene.R6">
+            <mixed-citation publication-type="journal">Vogel CL, Shemano I, Schoenfelder J, Gams RA, Green MR. Multicenter phase II efficacy trial of toremifene in tamoxifen-refractory patients with advanced breast cancer. J Clin Oncol 1993; 11: 345-50. <annotation><p><italic toggle="yes">(Among 102 women with metastatic breast cancer refractory to tamoxifen, the objective response rate to toremifene was 5% and AST elevations above 100 U/L arose in 9% of patients, but there was no mention of clinically apparent liver injury).</italic></p></annotation><pub-id pub-id-type="pmid">8426212</pub-id></mixed-citation>
+          </ref>
+          <ref id="Toremifene.R7">
+            <mixed-citation publication-type="journal">Plowman PN. Tamoxifen as adjuvant therapy in breast cancer. Drugs 1993; 46: 819-33. <annotation><p><italic toggle="yes">(Review of the history, mechanism of action, clinical efficacy and toxicity of tamoxifen; common side effects are vasomotor symptoms, vaginal discharge and endometrial hyperplasia, and rare serious side effects include endometrial carcinoma, ocular toxicity and increased thromboses; hepatotoxicity not discussed).</italic></p></annotation><pub-id pub-id-type="pmid">7505033</pub-id></mixed-citation>
+          </ref>
+          <ref id="Toremifene.R8">
+            <mixed-citation publication-type="journal">Hayes DF, Van Zyl JA, Hacking A, Goedhals L, Bezwoda WR, Mailliard JA, Jones SE, et al. Randomized comparison of tamoxifen and two separate doses of toremifene in postmenopausal patients with metastatic breast cancer. J Clin Oncol 1995; 13: 2556-66. <annotation><p><italic toggle="yes">(Among 648 women with estrogen receptor positive metastatic breast cancer treated with tamoxifen [20 mg] or toremifene [60 or 200 mg] daily, response rates were similar [44-50%] as were adverse events such as tumor flare [16-19%], nausea [14-20%], edema [5-8%], hot flashes [28-34%], and vaginal discharge [13-16%], whereas AST elevations above 100 U/L were more common with toremifene [5-10%] than tamoxifen [2%] and led to discontinuations in 2 patients).</italic></p></annotation><pub-id pub-id-type="pmid">7595707</pub-id></mixed-citation>
+          </ref>
+          <ref id="Toremifene.R9">
+            <mixed-citation publication-type="journal">Pyrh&#x000f6;nen S, Valavaara R, Modig H, Pawlicki M, Pienkowski T, Gundersen S, Bauer J, et al. Comparison of toremifene and tamoxifen in post-menopausal patients with advanced breast cancer: a randomized double-blind, the 'nordic' phase III study. Br J Cancer 1997; 76: 270-7. <annotation><p><italic toggle="yes">(Among 415 postmenopausal women with metastatic breast cancer, overall response rates were 31% with toremifene [60 mg] vs 37% with tamoxifen [40 mg], and adverse event rates were 39% vs 44% including AST elevations in 3% vs 8%; however, no patient developed clinically apparent liver injury).</italic></p></annotation><pub-id pub-id-type="pmid">9231932</pub-id></mixed-citation>
+          </ref>
+          <ref id="Toremifene.R10">
+            <mixed-citation publication-type="journal">Gershanovich M, Garin A, Baltina D, Kurvet A, Kangas L, Ellm&#x000e9;n J. A phase III comparison of two toremifene doses to tamoxifen in postmenopausal women with advanced breast cancer. Eastern European Study Group. Breast Cancer Res Treat 1997; 45: 251-62. <annotation><p><italic toggle="yes">(Among 463 postmenopausal women with advanced breast cancer, the overall response rate as 20-29% with toremifene [60 and 240 mg] vs 21% with tamoxifen [40 mg] daily and tolerability was similar between the lower doses of the two SERMs).</italic></p></annotation><pub-id pub-id-type="pmid">9386869</pub-id></mixed-citation>
+          </ref>
+          <ref id="Toremifene.R11">
+            <mixed-citation publication-type="journal">Fisher B, Constantino JP, Wickerham DL, Redmond CK, Kavanah M, Cronin WM, Vogel V, et al. Tamoxifen for prevention of breast cancer: report of the National Surgical Adjuvant Breast and Bowel Project P-1 Study. J Natl Cancer Inst 1998; 90: 1371-88. <annotation><p><italic toggle="yes">(Among 13,388 women at increased risk for breast cancer treated with tamoxifen or placebo for 5 years, tamoxifen reduced risk of cancer by 49% [22 vs 43.4/1000]; hepatotoxicity was not mentioned, but there were no cases of liver cancer or deaths from liver disease in either group).</italic></p></annotation><pub-id pub-id-type="pmid">9747868</pub-id></mixed-citation>
+          </ref>
+          <ref id="Toremifene.R12">
+            <mixed-citation publication-type="journal">Ogawa Y, Murata Y, Nishioka A, Inomata T, Yoshida S. Tamoxifen-induced fatty liver in patients with breast cancer. Lancet 1998; 351: 725. <annotation><p><italic toggle="yes">(Fatty liver found by computed tomography in 24 of 66 [36%] patients with breast cancer treated with tamoxifen).</italic></p></annotation><pub-id pub-id-type="pmid">9504521</pub-id></mixed-citation>
+          </ref>
+          <ref id="Toremifene.R13">
+            <mixed-citation publication-type="journal">Toremifene and letrozole for advanced breast cancer. Med Lett Drugs Ther 1998; 40 (1024): 43-5. <annotation><p><italic toggle="yes">(Short summary of the mechanism of action, clinical efficacy, adverse events and costs of toremifene shortly after its approval for use in the United States mentions that serum aminotransferase elevations have been reported in patients on therapy).</italic></p></annotation><pub-id pub-id-type="pmid">9580744</pub-id></mixed-citation>
+          </ref>
+          <ref id="Toremifene.R14">
+            <mixed-citation publication-type="journal">Law CH, Tandan VR. The association between tamoxifen and the development of hepatocellular carcinoma: case report and literature review. Can J Surg 1999; 42: 211-4. <annotation><p><italic toggle="yes">(56 year old woman developed hepatocellular carcinoma an unspecified time after a 6 year course of tamoxifen for breast cancer, having no other risk factors and normal nontumorous liver histology).</italic></p></annotation><pub-id pub-id-type="pmid">10372018</pub-id></mixed-citation>
+          </ref>
+          <ref id="Toremifene.R15">
+            <mixed-citation publication-type="journal">Moffat DF, Oien KA, Dickson J, Habeshaw T, McLellan DR. Hepatocellular carcinoma after long-term tamoxifen therapy. Ann Oncol 2000; 11: 1195-6. <annotation><p><italic toggle="yes">(71 year old woman with breast cancer developed abdominal pain and hepatocellular carcinoma after 12 years of tamoxifen therapy [AST 145 U/L, Alk P 378 U/L, alpha fetoprotein 320 ng/dL]; no mention of weight or hepatitis serology).</italic></p></annotation><pub-id pub-id-type="pmid">11061618</pub-id></mixed-citation>
+          </ref>
+          <ref id="Toremifene.R16">
+            <mixed-citation publication-type="journal">Hamada N, Ogawa Y, Saibara T, Murata Y, Kariya S, Nishioka A, Terashima M, et al. Toremifene-induced fatty liver and NASH in breast cancer patients with breast-conservation treatment. Int J Oncol 2000; 17: 1119-23. <annotation><p><italic toggle="yes">(Among 52 women with breast cancer treated with toremifene for 3 to 5 years, 4 [8%] developed fatty liver disease by CT scan, 2 with raised ALT and AST levels and one with steatohepatitis on liver biopsy).</italic></p></annotation><pub-id pub-id-type="pmid">11078796</pub-id></mixed-citation>
+          </ref>
+          <ref id="Toremifene.R17">
+            <mixed-citation publication-type="journal">Farrell GC. Drugs and steatohepatitis. Semin Liver Dis 2002; 22: 185-94. <annotation><p><italic toggle="yes">(Review of drug induced steatohepatitis; tamoxifen has been associated with fatty liver, steatohepatitis and cirrhosis usually arising after 1-2 years of therapy and improving upon stopping treatment; mentions that toremifene also has been reported to cause steatosis and steatohepatitis, but at a lower frequency [&#x0003c;10%] than tamoxifen).</italic></p></annotation><pub-id pub-id-type="pmid">12016549</pub-id></mixed-citation>
+          </ref>
+          <ref id="Toremifene.R18">
+            <mixed-citation publication-type="journal">Agarwal R, Peters TJ, Coombes RC, Vigushin DM. Tamoxifen-related porphyria cutanea tarda. Med Oncol 2002; 19: 121-3. <annotation><p><italic toggle="yes">(58 year old woman developed porphyria cutanea tarda after four years of tamoxifen therapy for breast cancer [bilirubin 0.5 mg/dL, ALT 48 U/L, Alk P 84 U/L] with no iron overload, hepatitis C or alcohol abuse, symptoms and liver tests improving on stopping tamoxifen).</italic></p></annotation><pub-id pub-id-type="pmid">12180481</pub-id></mixed-citation>
+          </ref>
+          <ref id="Toremifene.R19">
+            <mixed-citation publication-type="journal">Ellm&#x000e9;n J, Hakulinen P, Partanen A, Hayes DF. Estrogenic effects of toremifene and tamoxifen in postmenopausal breast cancer patients. Breast Cancer Res Treat 2003; 82: 103-11. <annotation><p><italic toggle="yes">(Among 648 women with breast cancer treated with toremifene or tamoxifen, AST levels did not change in those receiving 60 mg of toremifene or 20 mg of tamoxifen daily).</italic></p></annotation><pub-id pub-id-type="pmid">14692654</pub-id></mixed-citation>
+          </ref>
+          <ref id="Toremifene.R20">
+            <mixed-citation publication-type="journal">Nishino M, Hayakawa K, Nakamura Y, Morimoto T, Mukaihara S. Effects of tamoxifen on hepatic fat content and the development of hepatic steatosis in patients with breast cancer: high frequency of involvement and rapid reversal after completion of tamoxifen therapy. Am J Roentgenol 2003; 180: 129-34. <annotation><p><italic toggle="yes">(Among 67 women with breast cancer treated with tamoxifen followed with annual CT scans of the liver, 43% developed steatosis, all within 2 years, which was severe in 6% and which improved to baseline after therapy; no patient developed cirrhosis).</italic></p></annotation><pub-id pub-id-type="pmid">12490491</pub-id></mixed-citation>
+          </ref>
+          <ref id="Toremifene.R21">
+            <mixed-citation publication-type="journal">Bruno S, Maisonneuve P, Castellana P, Rotmensz N, Rossi S, Maggioni M, Persico M, et al. Incidence and risk factors for non-alcoholic steatohepatitis: prospective study of 5408 women enrolled in Italian tamoxifen chemoprevention trial. BMJ 2005; 330: 932. <annotation><p><italic toggle="yes">(Among 5408 Italian women with breast cancer treated with tamoxifen or placebo for 5 years, 64 developed persistent de novo elevations in serum ALT which was attributable to fatty liver in 52 [control 0.7% vs tamoxifen 1.3%]; hazard ratio [HR] for fatty liver was 2.0 for tamoxifen, but association was limited to overweight [HR 3.2] or obese [HR 5.4] women and none developed signs of cirrhosis).</italic></p></annotation><pub-id pub-id-type="pmid">15746106</pub-id></mixed-citation>
+          </ref>
+          <ref id="Toremifene.R22">
+            <mixed-citation publication-type="journal">Grieco A, Forgione A, Miele L, Vero V, Greco AV, Gasbarrini A, Gasbarrini G. Fatty liver and drugs. Eur Rev Med Pharmacol Sci 2005; 9: 261-3. <annotation><p><italic toggle="yes">(Brief review of drugs that can cause steatosis including amiodarone and tamoxifen, but not toremifene).</italic></p></annotation><pub-id pub-id-type="pmid">16237810</pub-id></mixed-citation>
+          </ref>
+          <ref id="Toremifene.R23">
+            <mixed-citation publication-type="journal">Omoto H, Yamashita S, Ito H. [A Case of Liver Failure Induced by Toremifene in a Patient with Metastatic Breast Cancer]. Gan To Kagaku Ryoho 2015; 42: 1809-11. Japanese. <annotation><p><italic toggle="yes">(67 year old woman with metastatic breast cancer developed jaundice 4 months after starting toremifene which led to liver failure and was attributed to the antiestrogen therapy).</italic></p></annotation><pub-id pub-id-type="pmid">26805180</pub-id></mixed-citation>
+          </ref>
+          <ref id="Toremifene.R24">
+            <mixed-citation publication-type="journal">Bj&#x000f6;rnsson ES, Bergmann OM, Bj&#x000f6;rnsson HK, Kvaran RB, Olafsson S. Incidence, presentation, and outcomes in patients with drug-induced liver injury in the general population of Iceland. Gastroenterology 2013; 144: 1419-25. <annotation><p><italic toggle="yes">(In a population based study of drug induced liver injury from Iceland, 96 cases were identified over a 2 year period, but none of the 96 were attributed to a selective estrogen receptor modulator).</italic></p></annotation><pub-id pub-id-type="pmid">23419359</pub-id></mixed-citation>
+          </ref>
+          <ref id="Toremifene.R25">
+            <mixed-citation publication-type="journal">Vogel CL, Johnston MA, Capers C, Braccia D. Toremifene for breast cancer: a review of 20 years of data. Clin Breast Cancer 2014; 14: 1-9. <annotation><p><italic toggle="yes">(Review of the safety and efficacy of toremifene mentions that safety data is based upon more than 500,000 patients-years of experience and that adverse events rates are similar between toremifene and tamoxifen, and that AST elevations occur in 5-19% on toremifene vs 1-17% on tamoxifen).</italic></p></annotation><pub-id pub-id-type="pmid">24439786</pub-id></mixed-citation>
+          </ref>
+          <ref id="Toremifene.R26">
+            <mixed-citation publication-type="journal">Zheng Q, Xu F, Nie M, Xia W, Qin T, Qin G, An X, et al. Selective estrogen receptor modulator-associated nonalcoholic fatty liver disease improved survival in patients with breast cancer: a retrospective cohort analysis. Medicine (Baltimore) 2015; 94: e1718. <annotation><p><italic toggle="yes">(Among 785 women with breast cancer treated with tamoxifen or toremifene for 2 to 10 years, 158 [20%] developed fatty liver disease [18% on tamoxifen vs 22% on toremifene] and 5 year disease-free survival was better in those who developed NAFLD [92%] than in those who did not [85%]).</italic></p></annotation><pub-id pub-id-type="pmid">26448028</pub-id></mixed-citation>
+          </ref>
+          <ref id="Toremifene.R27">
+            <mixed-citation publication-type="journal">Chalasani N, Bonkovsky HL, Fontana R, Lee W, Stolz A, Talwalkar J, Reddy KR, et al.; United States Drug Induced Liver Injury Network. Features and outcomes of 899 patients with drug-induced liver injury: the DILIN Prospective Study. Gastroenterology 2015; 148: 1340-52. <annotation><p><italic toggle="yes">(Among 899 cases of drug induced liver injury in the US collected between 2004 and 2012, 4 cases were attributed to tamoxifen, but none to toremifene or other selective estrogen receptor modulators).</italic></p></annotation><pub-id pub-id-type="pmid">25754159</pub-id></mixed-citation>
+          </ref>
+          <ref id="Toremifene.R28">
+            <mixed-citation publication-type="journal">Ellis AJ, Hendrick VM, Williams R, Komm BS. Selective estrogen receptor modulators in clinical practice: a safety overview. Expert Opin Drug Saf 2015; 14: 921-34. <annotation><p><italic toggle="yes">(Review of the safety of SERMs focusing upon breast, uterine and cardiovascular adverse events; no mention of ALT elevations or liver disease).</italic></p></annotation><pub-id pub-id-type="pmid">25936229</pub-id></mixed-citation>
+          </ref>
+          <ref id="Toremifene.R29">
+            <mixed-citation publication-type="journal">Yang YJ, Kim KM, An JH, Lee DB, Shim JH, Lim YS, Lee HC, et al. Clinical significance of fatty liver disease induced by tamoxifen and toremifene in breast cancer patients. Breast 2016; 28: 67-72. <annotation><p><italic toggle="yes">(Among 1061 women with breast cancer and normal baseline ALT levels seen over a 1 year period in an Asian medical center, ALT elevations occurred in 45 of 618 [7.7%: peak values 46-237 U/L] who received SERMs vs 22 of 406 [4.5%] who did not; furthermore, fatty liver by imaging tests was found in 47 of 122 [42%] on SERM therapy vs 19 of 95 [20%] controls; nevertheless, no patient developed cirrhosis or died of liver disease).</italic></p></annotation><pub-id pub-id-type="pmid">27240168</pub-id></mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec id="Toremifene.OTHER_REFERENCE_LINKS" sec-type="link-group">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=Toremifene/AE+AND+Human%5BMH%5D+AND+(jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI+OR+hepatitis,+toxic%5BMH%5D)">Recent References on Toremifene: from PubMed.gov</ext-link>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Toremifene">Trials on Toremifene: from ClinicalTrials.gov</ext-link>
+            </p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

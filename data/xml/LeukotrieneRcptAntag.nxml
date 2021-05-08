@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="LeukotrieneRcptAntag" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">LeukotrieneRcptAntag</book-part-id>
+      <title-group>
+        <title>Leukotriene Receptor Antagonists</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>10</day>
+          <month>4</month>
+          <year>2019</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Letrozole" document-type="chapter">Letrozole</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Leuprolide" document-type="chapter">Leuprolide</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="LeukotrieneRcptAntag.OVERVIEW">
+        <title>OVERVIEW</title>
+        <p content-type="pubmed-excerpt">The leukotriene receptor antagonists are among the most prescribed drugs for the management of asthma, used both for treatment and prevention of acute asthmatic attacks. This class of drugs acts by binding to cysteinyl leukotriene (CysLT) receptors and blocking their activation and the subsequent inflammatory cascade which cause the symptoms commonly associated with asthma and allergic rhinitis.</p>
+        <p content-type="pubmed-excerpt">The cysteinyl leukotrienes (C4, D4 and E4) are products of arachidonic acid metabolism and are released from various cells, including mast cells and eosinophils. These eicosanoids bind to CysLT receptors. The CysLT type-1 receptor is found in the human airway smooth muscle cells and airway macrophages and on other proinflammatory cells. In asthmatic patients, leukotriene mediated effects include airway edema, smooth muscle contraction, and altered cellular activity associated with the inflammatory process. In allergic rhinitis, CysLTs are released from the nasal mucosa after allergen exposure and precipitate the symptoms of allergic rhinitis.</p>
+        <p content-type="pubmed-excerpt">Two leukotriene receptor antagonists are available in the United States, zafirlukast (1996) and montelukast (1998). Both are oral agents used in management of asthma and allergic rhinitis. Both have been associated with rare cases of acute liver injury. While they have similar mechanisms of action, these two agents are structurally distinct, and the liver injury they cause does not appear to be similar in pattern of presentation or outcome. Indeed, several instances of hepatotoxicity due to one agent have been described in which the patient has tolerated the other agent without recurrence. For this reason, these two agents are discussed separately.</p>
+        <p>The following links are to individual drug records.</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>
+              <related-object source-id="livertox" document-id="Montelukast">Montelukast</related-object>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <related-object source-id="livertox" document-id="Zafirlukast">Zafirlukast</related-object>
+            </p>
+          </list-item>
+        </list>
+        <p>Drug Class: <related-object source-id="livertox" document-id="Anti-AsthmaDrugs">Antiasthmatic Agents</related-object></p>
+        <p>Last updated: 06 June 2019</p>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

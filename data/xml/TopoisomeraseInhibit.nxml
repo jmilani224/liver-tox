@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="TopoisomeraseInhibit" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">TopoisomeraseInhibit</book-part-id>
+      <title-group>
+        <title>Topoisomerase Inhibitors</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>12</day>
+          <month>9</month>
+          <year>2020</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Topiramate" document-type="chapter">Topiramate</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Toremifene" document-type="chapter">Toremifene</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="TopoisomeraseInhibit.OVERVIEW">
+        <title>OVERVIEW</title>
+        <p content-type="pubmed-excerpt">Topoisomerase I and II are normal host enzymes that are found in the nucleus of mammalian cells and are required for normal DNA replication and cellular division. The enzymes create and then repair single stranded nicks in cellular DNA. The nicks allow for the untangling and relaxation of supercoiled double stranded DNA, so that replication can proceed. Once the DNA torsional strain has been relieved, the topoisomerase reseals the relaxed double helix. Topoisomerase activity is particularly increased in rapidly dividing and in cancer cells. It represents an appropriate, but nonselective target for anticancer therapy.</p>
+        <p content-type="pubmed-excerpt">Topoisomerase inhibitors in current use in the United States include irinotecan and topotecan, inhibitors of topoisomerase I, and etoposide and teniposide, inhibitors of topoisomerase II. All four agents are semisynthetic analogues of natural toxins that were initially identified in plants. All four are given parenterally, typically in combination with other antineoplastic agents in cycles of every 3 to 4 weeks. The major dose limiting toxicities of topoisomerase inhibitors are largely hematologic (neutropenia, anemia, thrombocytopenia) and gastrointestinal (diarrhea, nausea). While serum enzyme elevations are not uncommon with chemotherapeutic regimens that include topoisomerase inhibitors, clinically apparent liver injury is uncommon.</p>
+        <p content-type="pubmed-excerpt">Irinotecan and topotecan are derived from camptothecins, cytotoxic compounds which were initially isolated from the bark of the Chinese tree, Camptotheca acuminata. These agents bind to the DNA-topoisomerase I complex and prevent resealing of the DNA. Accumulation of DNA breaks results in inhibition of DNA replication and cell death. Once the mechanism of toxicity of camptothecins was elucidated, more soluble and less toxic analogues were produced. Irinotecan and topotecan are two camptothecin derivatives currently in use in the United States and are used as adjunctive therapies for advanced colorectal, ovarian and small cell lung cancer.</p>
+        <p>Etoposide and teniposide are semisynthetic derivatives of extracts of the American mandrake plant or Mayapple (Podophyllum peltatum) and bind to topoisomerase II and DNA, preventing the resealing of DNA breaks and thus causing inhibition of DNA replication and cell death. These agents are in current use as adjunctive therapies for advanced testicular and small cell lung cancer (etoposide, originally called VP-16), and for acute leukemia in children and malignant brain tumors (teniposide, VP-26).</p>
+        <p>A more complete discussion of the current use and hepatotoxicity and references are provided with each agent individually.</p>
+        <p>Drug Class: <related-object link-type="booklink" source-id="livertox" document-id="AntineoplasticAgents" document-type="chapter">Antineoplastic Agents</related-object></p>
+        <p>Drugs in the Subclass Topoisomerase Inhibitors:</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>
+              <related-object link-type="booklink" source-id="livertox" document-id="EtoposideTeniposide" document-type="chapter">Etoposide</related-object>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <related-object link-type="booklink" source-id="livertox" document-id="IrinotecanTopotecan" document-type="chapter">Irinotecan</related-object>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <related-object link-type="booklink" source-id="livertox" document-id="EtoposideTeniposide" document-type="chapter">Teniposide</related-object>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <related-object link-type="booklink" source-id="livertox" document-id="IrinotecanTopotecan" document-type="chapter">Topotecan</related-object>
+            </p>
+          </list-item>
+        </list>
+      </sec>
+      <sec id="TopoisomeraseInhibit.ANNOTATED_BIBLIOGRA">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 12 September 2020</p>
+        <ref-list id="TopoisomeraseInhibit.ANNOTATED_BIBLIOGRA.reflist0">
+          <ref id="TopoisomeraseInhibit.REF.wellstein.2018">
+            <mixed-citation publication-type="book">Wellstein A, Giaccone G, Atkins MB, Sausville EA. Camptothecin analogues. Cytotoxic agents. In, Brunton LL, Hilal-Dandan R, Knollman BC, eds. Goodman &#x00026; Gilman's the pharmacological basis of therapeutics. 13th ed. New York: McGraw-Hill, 2018, pp. 1189-90.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics; mentions that irinotecan and topotecan are the only camptothecin analogues approved for clinical use and have activity in colorectal, ovarian and small cell lung cancer, and both can cause elevations in serum aminotransferase levels).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="TopoisomeraseInhibit.REF.wellstein.2018_1">
+            <mixed-citation publication-type="book">Wellstein A, Giaccone G, Atkins MB, Sausville EA. Epipodophyllotoxins. Cytotoxic agents. In, Brunton LL, Hilal-Dandan R, Knollman BC, eds. Goodman &#x00026; Gilman's the pharmacological basis of therapeutics. 13th ed. New York: McGraw-Hill, 2018, pp. 1192-3.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics; mentions that etoposide and teniposide [VP-16 and VP-26] are semisynthetic derivatives of podophyllotoxin, an extract from the mandrake plant or mayapple [Podophyllum peltatum], which bind to topoisomerase 2 and DNA and preempt resealing of DNA breaks that occur during DNA replication).</italic></p></annotation></mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

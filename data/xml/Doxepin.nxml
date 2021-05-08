@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Doxepin" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Doxepin</book-part-id>
+      <title-group>
+        <title>Doxepin</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>8</day>
+          <month>1</month>
+          <year>2018</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Doxazosin" document-type="chapter">Doxazosin</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="DoxorubicinEpirubici" document-type="chapter">Doxorubicin</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Doxepin.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Doxepin.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Doxepin is a tricyclic antidepressant that widely used in the therapy of depression. Doxepin can cause mild and transient serum enzyme elevations but is a rare cause of clinically apparent acute cholestatic liver injury.</p>
+        </sec>
+        <sec id="Doxepin.Background">
+          <title>Background</title>
+          <p>Doxepin (dox' e pin) is a dibenzoxepine derived tricyclic antidepressant which acts by inhibition of serotonin and norepinephrine reuptake within synaptic clefts in the central nervous system, thus increasing brain levels of these neurotransmitters. Doxepin is indicated for therapy of depression or anxiety and was approved for this indication in the United States in 1969 and it is still widely used, with more than 2 million prescriptions being filled yearly. Doxepin is available in generic forms and under the brand names of Sinequan in capsules of 10, 25, 50, 75, 100 and 150 mg as well as an oral solution. The recommended adult dose for depression is 25 to 75 mg daily in divided doses, increasing gradually to a maximum of 300 mg daily. Doxepin can also be given as a single nighttime dose (maximum dose of 150 mg). Common side effects include dizziness, headache, drowsiness, restlessness, confusion, gastrointestinal upset, nausea, increased appetite, weight gain, blurred vision, dry mouth, urinary retention, rash and hypersensitivity reactions. Rare but potentially severe adverse events include suicidal thoughts and behaviors and acute glaucoma.</p>
+        </sec>
+        <sec id="Doxepin.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>Liver test abnormalities have been reported to occur in up to 16% of patients being treated with tricyclic antidepressants, but elevations are uncommonly above 3 times the upper limit of normal. The aminotransferase abnormalities are usually mild, asymptomatic and transient, reversing even with continuation of medication. Rare instances of clinically apparent acute liver injury have been reported due to doxepin, but the number of cases have been too few to characterize the clinical features. Recurrent jaundice and marked aminotransferase elevations with repeated exposures to doxepin has been reported. Most cases have been mild and deaths from acute liver failure or chronic injury have not been reported.</p>
+          <p>Likelihood score: C (possible rare cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Doxepin.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The mechanism by which doxepin causes serum aminotransferase elevation is not known. It undergoes extensive hepatic metabolism and a possible cause of liver injury is production of a toxic intermediate of metabolism.</p>
+        </sec>
+        <sec id="Doxepin.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>The serum aminotransferase elevations that occur on doxepin therapy are usually self-limited and do not require dose modification or discontinuation of therapy. The acute liver injury associated with doxepin has been self-limited and no cases of acute liver failure or chronic liver disease due to doxepin have been reported. Rechallenge with doxepin is likely to cause a prompt recurrence of the liver injury and should be avoided. Patients with clinically apparent doxepin induced liver injury may have cross sensitivity to injury from other tricyclic antidepressants and phenothiazines, but generally tolerate other forms of antidepressant medications such as the selective serotonin reuptake inhibitors.</p>
+          <p>Drug Class: <related-object source-id="livertox" document-id="Antidepressants">Antidepressant Agents</related-object></p>
+          <p>Other Drugs in the Subclass, Tricyclics: <related-object source-id="livertox" document-id="Amitriptyline">Amitriptyline</related-object>, <related-object source-id="livertox" document-id="Amoxapine">Amoxapine</related-object>, <related-object source-id="livertox" document-id="Clomipramine">Clomipramine</related-object>, <related-object source-id="livertox" document-id="Desipramine">Desipramine</related-object>, <related-object source-id="livertox" document-id="Imipramine">Imipramine</related-object>, <related-object source-id="livertox" document-id="Nortriptyline">Nortriptyline</related-object>, <related-object source-id="livertox" document-id="Protriptyline">Protriptyline</related-object>, <related-object source-id="livertox" document-id="Trimipramine">Trimipramine</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Doxepin.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <boxed-text position="anchor" id="Doxepin.BPI" orientation="portrait">
+          <p>
+            <bold>REPRESENTATIVE TRADE NAMES</bold>
+          </p>
+          <p>Doxepin &#x02013; Sinequan&#x000ae;</p>
+          <p>
+            <bold>DRUG CLASS</bold>
+          </p>
+          <p>Antidepressant Agents</p>
+          <p>
+            <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=doxepin">COMPLETE LABELING</ext-link>
+          </p>
+          <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+        </boxed-text>
+      </sec>
+      <sec id="Doxepin.CHEMICAL_FORMULA_AND_STRUCTURE">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Doxepin.T1" position="anchor" orientation="portrait">
+          <table>
+            <thead>
+              <tr>
+                <th id="hd_h_Doxepin.T1_1_1_1_1" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Doxepin.T1_1_1_1_2" rowspan="1" colspan="1">CAS REGISTRY NUMBER</th>
+                <th id="hd_h_Doxepin.T1_1_1_1_3" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Doxepin.T1_1_1_1_4" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Doxepin.T1_1_1_1_1" rowspan="1" colspan="1">Doxepin</td>
+                <td headers="hd_h_Doxepin.T1_1_1_1_2" rowspan="1" colspan="1">1668-19-5</td>
+                <td headers="hd_h_Doxepin.T1_1_1_1_3" rowspan="1" colspan="1">C19-H21-N-O</td>
+                <td headers="hd_h_Doxepin.T1_1_1_1_4" rowspan="1" colspan="1">
+                  <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Doxepin.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait">
+                    <alt-text>Image of Doxepin Chemical Structure</alt-text>
+                  </graphic>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Doxepin.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 08 January 2018</p>
+        <ref-list id="Doxepin.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Doxepin.R1">
+            <mixed-citation publication-type="other">Zimmerman HJ. Tricyclic antidepressants. In, Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999, pp. 495-8.<annotation><p><italic toggle="yes">(Expert review of hepatotoxicity published in 1999 mentions that hepatic injury caused by tricyclic antidepressants is less frequent and less consistent than with monamine oxidase inhibitors).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Doxepin.R2">
+            <mixed-citation publication-type="other">Larrey D, Ripault MP. Hepatotoxicity of psychotropic drugs and drugs of abuse. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013, pp. 443-62.<annotation><p><italic toggle="yes">(Review of tricylic antidepressant hepatotoxicity mentions that doxepin has been implicated in rare instances of short latency onset, cholestatic hepatitis).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Doxepin.R3">
+            <mixed-citation publication-type="other">O'Donnell JM, Shelton RC. Pharmacotherapy of depression and anxiety disorders. In, Brunton LL, Chabner BA, Knollman BC, eds. Goodman &#x00026; Gilman&#x02019;s the pharmacological basis of therapeutics. 121th ed. New York: McGraw-Hill, 2011, pp. 397-416.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Doxepin.R4">
+            <mixed-citation publication-type="journal">Klerman GL, Cole JO. Clinical pharmacology of imipramine and related antidepressant compounds. Pharmacol Rev 1965; 17: 101-41. <annotation><p><italic toggle="yes">(Extensive review of structure, pharmacology, clinical effects, mechanisms of action, drug interactions, and side effects of tricyclic antidepressants; jaundice arises in 0.5 to 1% of treated patients and usually resolves rapidly with stopping).</italic></p></annotation><pub-id pub-id-type="pmid">14294030</pub-id></mixed-citation>
+          </ref>
+          <ref id="Doxepin.R5">
+            <mixed-citation publication-type="journal">Clarke AE, Maritz VM, Denborough MA. Phenothiazines and jaundice. Aust N Z J Med 1972; 2: 376-82. <annotation><p><italic toggle="yes">(Chlorpromazine and amitriptyline cause precipitation of proteins when added to human bile in vitro and hepatotoxicity of these agents may relate to this characteristic).</italic></p></annotation><pub-id pub-id-type="pmid">4144624</pub-id></mixed-citation>
+          </ref>
+          <ref id="Doxepin.R6">
+            <mixed-citation publication-type="journal">Fiori MG. Tricyclic antidepressants: a review of their toxicology. Curr Dev Psychopharmacol 1977; 4: 71-110. <annotation><p><italic toggle="yes">(Review of cardiac, hepatic, neurological, fetal and psychotoxicity of tricyclic antidepressants; most cases of hepatotoxicity have been attributed to hypersensitivity, but tricyclics are taken up and extensively metabolized by hepatocytes).</italic></p></annotation><pub-id pub-id-type="pmid">340145</pub-id></mixed-citation>
+          </ref>
+          <ref id="Doxepin.R7">
+            <mixed-citation publication-type="journal">D&#x000f8;ssing M, Andreasen PB. Drug-induced liver disease in Denmark. An analysis of 572 cases of hepatotoxicity reported to the Danish Board of Adverse Reactions to Drugs. Scand J Gastroenterol 1982; 17: 205-11. <annotation><p><italic toggle="yes">(Among 572 cases of drug induced liver disease seen between 1968-78 in Denmark, psychotropic agents accounted for 93 cases, 54 of which were due to chlorpromazine; tricyclics not specifically mentioned).</italic></p></annotation><pub-id pub-id-type="pmid">6982502</pub-id></mixed-citation>
+          </ref>
+          <ref id="Doxepin.R8">
+            <mixed-citation publication-type="journal">Larrey D, Rueff B, Pessayre D, Algard M, Geneve J, Benhamou JP. Cross hepatotoxicity between tricyclic antidepressants. Gut 1986; 87-90. <annotation><p><italic toggle="yes">(39 year old woman developed abdominal pain 2 weeks after starting amineptine [a tricyclic antidepressant], with fever and eosinophilia [bilirubin 1.2 mg/dL, ALT 1360 U/L, Alk P 1.5 times ULN] resolving rapidly on stopping, but recurring 7 days after starting clomipramine [ALT 1050 U/L, Alk P 1.5 times ULN], again resolving rapidly upon stopping).</italic></p></annotation><pub-id pub-id-type="pmid">3721296</pub-id></mixed-citation>
+          </ref>
+          <ref id="Doxepin.R9">
+            <mixed-citation publication-type="journal">Geneve J, Larrey D, Pessayre D, Benhamou JP. Structure tricyclique des medicaments et hepatotoxicite. Gastroenterol Clin Biol 1987; 11: 242-9. <annotation><p><italic toggle="yes">(Review of structural similarity and hepatotoxicity of tricyclic antidepressants focusing on amineptine, imipramine and amitriptyline).</italic></p></annotation><pub-id pub-id-type="pmid">2884161</pub-id></mixed-citation>
+          </ref>
+          <ref id="Doxepin.R10">
+            <mixed-citation publication-type="journal">Pirmohamed MKL, Kittringham NR, Parkl BK. Idiosyncratic reactions to antidepressants: a review of the possible mechanism and predisposing factors. Pharm Ther 1992; 53: 105-25. <annotation><p><italic toggle="yes">(Review of idiosyncratic reactions to antidepressants; possible mechanism of injury being production of a chemically reactive metabolite that is either directly toxic or induces a hypersensitivity reaction).</italic></p></annotation><pub-id pub-id-type="pmid">1641399</pub-id></mixed-citation>
+          </ref>
+          <ref id="Doxepin.R11">
+            <mixed-citation publication-type="journal">Keegan AD. Doxepin-induced recurrent acute hepatitis. Aust N Z J Med 1993; 23: 523. <annotation><p><italic toggle="yes">(50 year old man with 3 episodes of jaundice following use of doxepin for 1-2 days [bilirubin 3.3, 16.4 and 5.5 mg/dL, ALT &#x0003e;1500 U/L, Alk P]).</italic></p></annotation><pub-id pub-id-type="pmid">8297287</pub-id></mixed-citation>
+          </ref>
+          <ref id="Doxepin.R12">
+            <mixed-citation publication-type="journal">Berson A, Fr&#x000e9;neaux E, Larrey D, Lepage V, Douay C, Mallet C. Possible role of HLA in hepatotoxicity. An exploratory study. J Hepatol 1994; 20: 336-42. <annotation><p><italic toggle="yes">(Human leukocyte antigen [HLA] haplotypes done on 71 patients with drug induced liver disease; among 12 due to tricyclics [7 amineptine, 3 amitriptyline and 2 clomipramine], 6 [50%] were HLA A11 positive including 2 of the 3 amitriptyline cases; 12% in controls had this allele).</italic></p></annotation><pub-id pub-id-type="pmid">8014443</pub-id></mixed-citation>
+          </ref>
+          <ref id="Doxepin.R13">
+            <mixed-citation publication-type="journal">Marttila M, Jaaskelainen J, Jarvi R, Romanov M, Miettinen E, Sorri P, Ahlfors U, et al. A double-blind study comparing the efficacy and tolerability of mirtazapine and doxepin in patients with major depression. Eur Neuropsychopharm 1995; 15: 441-6. <annotation><p><italic toggle="yes">(Controlled trial of doxepin vs mirtazapine in 163 patients with depression found no statistically significant changes in biochemical tests from baseline in either group and no instances of clinically apparent liver injury).</italic></p></annotation><pub-id pub-id-type="pmid">8998395</pub-id></mixed-citation>
+          </ref>
+          <ref id="Doxepin.R14">
+            <mixed-citation publication-type="journal">Remy AL, Larrey D, Pageaux GP, Desprez D, Ramos J, Michel H. Cross hepatotoxicity between tricyclic antidepressants and phenothiazines. Eur J Gastroenterol 1995; 7: 373-6. <annotation><p><italic toggle="yes">(65 year old woman developed fatigue and serum enzyme elevations [ALT ~1300 U/L; Alk P ~380 U/L] 1 month after starting trimipramine; 3 years later she developed nausea and ALT elevations 10 days after starting desipramine [ALT ~250 U/L], and 2 years later developed abdominal pain and fever and enzyme elevations [ALT ~1100 U/L, Alk P ~510 U/L] 8 days after starting cyamemazine; each time with rapid recovery and no jaundice).</italic></p></annotation><pub-id pub-id-type="pmid">7600146</pub-id></mixed-citation>
+          </ref>
+          <ref id="Doxepin.R15">
+            <mixed-citation publication-type="journal">Allison DB, Mentore JL, Heo M, Chandler LP, Cappelleri JC, Infante MC, Weiden PJ. Antipsychotic-induced weight gain: a comprehensive research synthesis. Am J Psychiatry 1999; 156: 1686-96. <annotation><p><italic toggle="yes">(Systematic review of 81 articles on weight change with antipsychotics; using change after 10 weeks to compare: clozapine +5.7, olanzapine +4.2, chlorpromazine +4.2, risperidone +1.7, loxapine +0.6, haloperidol +0.5, ziprasidone +0.3, molindone -0.1, and pimozide -2.7 kilograms).</italic></p></annotation><pub-id pub-id-type="pmid">10553730</pub-id></mixed-citation>
+          </ref>
+          <ref id="Doxepin.R16">
+            <mixed-citation publication-type="journal">Grohmann R, R&#x000fc;ther E, Engel RR, Hippius H. Assessment of adverse drug reactions in psychiatric inpatients with the AMSP drug safety program: methods and first results for tricyclic antidepressants and SSRIs. Pharmacopsychiatry 1999; 32: 21-8. <annotation><p><italic toggle="yes">(Analysis of reporting of adverse events among inpatients in 29 German hospitals between 1993 to 1997; 896 severe adverse events among 48,564 patients [1.8%], both total and hepatic events were more common with tricyclics than SSRIs).</italic></p></annotation><pub-id pub-id-type="pmid">10071179</pub-id></mixed-citation>
+          </ref>
+          <ref id="Doxepin.R17">
+            <mixed-citation publication-type="journal">Carvajal Garc&#x000ed;a-Pando A, Garc&#x000ed;a del Pozo J, S&#x000e1;nchez AS, Velasco MA, Rueda de Castro AM, Lucena MI. Hepatotoxicity associated with the new antidepressants. J Clin Psychiatry 2002; 63: 135-7. <annotation><p><italic toggle="yes">(Analysis of cases of hepatotoxicity from antidepressants in Spanish Pharmacovigilance System from 1989-1999, identified 99 cases; among SSRIs, 26 due to fluoxetine, 14 paroxetine, 6 fluvoxamine, 5 sertraline, 3 venlafaxine and 2 citalopram; among tricyclics, 16 clomipramine 7 amitriptyline, 6 imipramine; among miscellaneous, 3 nefazodone and 1 trazodone; but all similar in rate ~1-3 per 100,000 patient-years of exposure except for nefazodone=29/100,000; doxepin not mentioned.).</italic></p></annotation><pub-id pub-id-type="pmid">11874214</pub-id></mixed-citation>
+          </ref>
+          <ref id="Doxepin.R18">
+            <mixed-citation publication-type="journal">Lucena M, Carvajal A, Andrade R, Velasco A. Antidepressant-induced hepatotoxicity. Expert Opin Drug Saf 2003; 2: 249-62. <annotation><p><italic toggle="yes">(Review of hepatotoxicity of antidepressants; antidepressant use has increased markedly between 1992 and 2002, accounting for 5% of cases of hepatotoxicity; SSRIs are less likely to cause injury than tricyclics and MAO inhibitors; range of presentations, typically self-limited and rapid recovery; doxepin is listed but not specifically discussed).</italic></p></annotation><pub-id pub-id-type="pmid">12904104</pub-id></mixed-citation>
+          </ref>
+          <ref id="Doxepin.R19">
+            <mixed-citation publication-type="journal">Milkiewicz P, Chilton AP, Hubscher SG, Elias E. Antidepressant induced cholestasis: hepatocellular redistribution of multidrug resistant protein(MRP2). Gut 2003; 52: 300-3. <annotation><p><italic toggle="yes">(Two cases; 30 year old woman developed jaundice 8 weeks after starting citalopram [bilirubin 4.4 mg/dL, AST 33 U/L, Alk P 637 U/L], resolving within 2 months of stopping; 63 year old man developed jaundice 3 months after starting dothiepin [a tricyclic antidepressant related to doxepin that is not available in the US] with bilirubin 9.4 mg/dL, AST 40 U/L, Alk P 600 U/L], resolving within 3 months of stopping on corticosteroids and later tolerating fluoxetine for 12 months, but redeveloping jaundice 2 months after starting paroxetine [bilirubin 15.2 mg/dL, AST 36 U/L, Alk P 544 U/L], resolving within 6 months of stopping).</italic></p></annotation><pub-id pub-id-type="pmid">12524417</pub-id></mixed-citation>
+          </ref>
+          <ref id="Doxepin.R20">
+            <mixed-citation publication-type="journal">Degner D, Grohmann R, Kropp S, R&#x000fc;ther E, Bender S, Engel RR, Schmidt LG. Severe adverse drug reactions of antidepressants: results of the German multicenter drug surveillance program AMSP. Pharmacopsychiatry 2004; 37 Suppl 1: S39-45. <annotation><p><italic toggle="yes">(53,042 patients treated with antidepressants in 35 psychiatric hospitals in Germany from 1993-2000 were monitored for adverse drug reactions; increased liver enzymes reported in 16% on tricyclics, 5.5% on SSRIs and 12% of monamine oxidase inhibitors).</italic></p></annotation><pub-id pub-id-type="pmid">15052513</pub-id></mixed-citation>
+          </ref>
+          <ref id="Doxepin.R21">
+            <mixed-citation publication-type="journal">Sabat&#x000e9; M, Ib&#x000e1;&#x000f1;ez L, P&#x000e9;rez E, Vidal X, Buti M, Xiol X, Mas A, et al. Risk of acute liver injury associated with the use of drugs: a multicentre population survey. Aliment Pharmacol Ther 2007; 25: 1401-9. <annotation><p><italic toggle="yes">(Among 126 cases of drug induced liver injury seen in Spain between 1993-2000, 3 were due to amitriptyline with a relative risk of 14.2: estimated frequency of 6 per 100,000 person-year exposures).</italic></p></annotation><pub-id pub-id-type="pmid">17539979</pub-id></mixed-citation>
+          </ref>
+          <ref id="Doxepin.R22">
+            <mixed-citation publication-type="journal">DeSanty KP, Amabile CM. Antidepressant-induced liver injury. Ann Pharmacother 2007; 41: 1201-11. <annotation><p><italic toggle="yes">(Review of drug induced liver injury and summary analysis of reports of injury from MAO inhibitors, SSRIs, tricyclics and atypical agents).</italic></p></annotation><pub-id pub-id-type="pmid">17609231</pub-id></mixed-citation>
+          </ref>
+          <ref id="Doxepin.R23">
+            <mixed-citation publication-type="journal">Chalasani N, Fontana RJ, Bonkovsky HL, Watkins PB, Davern T, Serrano J, Yang H, Rochon J; Drug Induced Liver Injury Network (DILIN). Causes, clinical features, and outcomes from a prospective study of drug-induced liver injury in the United States. Gastroenterology 2008; 135: 1924-34. <annotation><p><italic toggle="yes">(Among 300 cases of drug induced liver disease in the US collected from 2004 to 2008, one case was attributed to a tricyclic antidepressant [amitriptyline], doxepin not listed).</italic></p></annotation><pub-id pub-id-type="pmid">18955056</pub-id></mixed-citation>
+          </ref>
+          <ref id="Doxepin.R24">
+            <mixed-citation publication-type="journal">Reuben A, Koch DG, Lee WM; Acute Liver Failure Study Group. Drug-induced acute liver failure: results of a U.S. multicenter, prospective study. Hepatology 2010; 52: 2065-76. <annotation><p><italic toggle="yes">(Among 1198 patients with acute liver failure enrolled in a US prospective study between 1998 and 2007, 133 were attributed to drug induced liver injury, but none were linked to a tricyclic antidepressant).</italic></p></annotation><pub-id pub-id-type="pmid">20949552</pub-id></mixed-citation>
+          </ref>
+          <ref id="Doxepin.R25">
+            <mixed-citation publication-type="journal">Molleston JP, Fontana RJ, Lopez MJ, Kleiner DE, Gu J, Chalasani N; Drug-induced Liver Injury Network. Characteristics of idiosyncratic drug-induced liver injury in children: results from the DILIN prospective study. J Pediatr Gastroenterol Nutr 2011; 53: 182-9. <annotation><p><italic toggle="yes">(Among 30 children with suspected drug induced liver injury, half were due to antimicrobials and the rest largely due to CNS agents; one case was attributed to amitriptyline, but no other tricyclic antidepressant was listed).</italic></p></annotation><pub-id pub-id-type="pmid">21788760</pub-id></mixed-citation>
+          </ref>
+          <ref id="Doxepin.R26">
+            <mixed-citation publication-type="journal">Bj&#x000f6;rnsson ES, Bergmann OM, Bj&#x000f6;rnsson HK, Kvaran RB, Olafsson S. Incidence, presentation and outcomes in patients with drug-induced liver injury in the general population of Iceland. Gastroenterology 2013; 144: 1419-25. <annotation><p><italic toggle="yes">(In a population based study of drug induced liver injury from Iceland, 96 cases were identified over a 2 year period, but none were attributed to tricyclic antidepressants, none of which were among the top 48 drugs dispensed in Iceland during the period).</italic></p></annotation><pub-id pub-id-type="pmid">23419359</pub-id></mixed-citation>
+          </ref>
+          <ref id="Doxepin.R27">
+            <mixed-citation publication-type="journal">Park SH, Ishino R. Liver injury associated with antidepressants. Curr Drug Saf 2013; 8: 207-23. <annotation><p><italic toggle="yes"> (Review of antidepressant induced liver injury; doxepin is not discussed).</italic></p></annotation><pub-id pub-id-type="pmid">23914755</pub-id></mixed-citation>
+          </ref>
+          <ref id="Doxepin.R28">
+            <mixed-citation publication-type="journal">Hern&#x000e1;ndez N, Bessone F, S&#x000e1;nchez A, di Pace M, Brahm J, Zapata R, A Chirino R, et al. Profile of idiosyncratic drug induced liver injury in Latin America. An analysis of published reports. Ann Hepatol 2014; 13: 231-9. <annotation><p><italic toggle="yes">(Systematic review of literature of drug induced liver injury in Latin American countries published from 1996 to 2012 identified 176 cases, one of which was attributed to amitriptyline but none to doxepin).</italic></p></annotation><pub-id pub-id-type="pmid">24552865</pub-id></mixed-citation>
+          </ref>
+          <ref id="Doxepin.R29">
+            <mixed-citation publication-type="journal">Chalasani N, Bonkovsky HL, Fontana R, Lee W, Stolz A, Talwalkar J, Reddy KR, et al.; United States Drug Induced Liver Injury Network. Features and outcomes of 899 patients with drug-induced liver injury: The DILIN Prospective Study. Gastroenterology 2015; 148: 1340-52.e7. <annotation><p><italic toggle="yes">(Among 899 cases of drug induced liver injury enrolled in a US prospective study between 2004 and 2013, 20 cases [2%] were attributed to antidepressants, but only one to a tricyclic [imipramine] and none to doxepin).</italic></p></annotation><pub-id pub-id-type="pmid">25754159</pub-id></mixed-citation>
+          </ref>
+          <ref id="Doxepin.R30">
+            <mixed-citation publication-type="journal">Friedrich ME, Akimova E, Huf W, Konstantinidis A, Papageorgiou K, Winkler D, Toto S, et al. Drug-induced liver injury during antidepressant treatment: results of AMSP, a drug surveillance program. Int J Neuropsychopharmacol 2016; 19. pii: pyv126. <annotation><p><italic toggle="yes"> (Monitoring of 184,234 inpatients in 80 psychiatric hospitals for liver injury during antidepressant treatment identified 149 cases including 7 of 12,412 who were receiving doxepine, a rate [0.06%] similar to other antidepressants [overall 0.08%]).</italic></p></annotation><pub-id pub-id-type="pmid">26721950</pub-id></mixed-citation>
+          </ref>
+          <ref id="Doxepin.R31">
+            <mixed-citation publication-type="journal">Ferrajolo C, Scavone C, Donati M, Bortolami O, Stoppa G, Motola D, Vannacci A, et al.; DILI-IT Study Group. Antidepressant-induced acute liver injury: a case-control study in an Italian inpatient population. Drug Saf 2018; 41: 95-102. <annotation><p><italic toggle="yes">(Among 179 cases of hospitalizations for unexplained acute liver injury enrolled in a prospective study between 2010 and 2014, 17 had been exposed to antidepressants including two receiving tricyclic antidepressants, but none were reported as receiving doxepin).</italic></p></annotation><pub-id pub-id-type="pmid">28770534</pub-id></mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec id="Doxepin.OTHER_REFERENCE_LINKS" sec-type="link-group">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=(doxepin)+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D%3A%222999/12/31%22%5BEDat%5D)">Recent References on Doxepin: from PubMed.gov</ext-link>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=doxepin">Trials on Doxepin: from ClinicalTrials.gov</ext-link>
+            </p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

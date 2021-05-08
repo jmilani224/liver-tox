@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Cidofovir" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Cidofovir</book-part-id>
+      <title-group>
+        <title>Cidofovir</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>10</day>
+          <month>10</month>
+          <year>2017</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="CholicAcid" document-type="chapter">Cholic Acid</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Cilostazol" document-type="chapter">Cilostazol</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Cidofovir.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Cidofovir.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Cidofovir is a nucleoside analogue and antiviral agent which is used in therapy of serious cytomegalovirus infections in immunocompromised patients. Cidofovir has been associated with mild-to-moderate serum aminotransferase elevations during intravenous therapy, but has not been convincingly linked to cases of clinically apparent acute liver injury.</p>
+        </sec>
+        <sec id="Cidofovir.Background">
+          <title>Background</title>
+          <p>Cidofovir (sye dof' oh vir) is an acyclic nucleoside monophosphate and cytosine analogue with potent activity against replication of several herpes viruses, including cytomegalovirus (CMV). Cidofovir is phosphorylated intracellularly and competes with cytosine, resulting in DNA chain termination and inhibition of DNA viral synthesis. Cidofovir has activity in cell culture against several herpes viruses, papilloma, polyoma, pox and adenoviruses. Cidofovir is poorly absorbed orally and must be given intravenously, usually administered with probenecid to inhibit its rapid renal excretion. Cidofovir is indicated for therapy of cytomegalovirus retinitis and off label is used to treat serious adenovirus and acyclovir-resistant herpes simplex infections in immunocompromised individuals. Cidofovir was approved for use in the United States in 1996 and has limited use, largely because of its potential for nephrotoxicity. Cidofovir is available as an intravenous formulation of 75 mg/mL under the brand name of Vistide. The usually recommended dose in adults is 5 mg/kg infused over one hour, once weekly for two weeks, but dose modifications are required if there is renal insufficiency. Probenecid is given concurrently. Side effects include headache, dizziness, confusion, fever, fatigue, abdominal pain, renal dysfunction and rash.</p>
+        </sec>
+        <sec id="Cidofovir.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>Intravenous cidofovir therapy is associated with mild-to-moderate elevations in serum ALT levels in a proportion of patients, but the elevations are usually self-limited and do not require dose modification. Nephrotoxicity is often dose limiting, which may account for the absence of clinically significant cases of liver injury associated with cidofovir therapy. Cases of clinically apparent liver injury have been reported during cidofovir therapy, but the role of this agent has been difficult to define because most patients who receive cidofovir have severe immunodeficiency and are receiving multiple other agents, some of which are known hepatotoxins. Several instances of acute liver failure, lactic acidosis and fatty liver have been described in patients taking cidofovir, but other nucleoside analogues such as zidovudine, stavudine or didanosine were being taken concurrently.</p>
+          <p>Likelihood score: E (unlikely cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Cidofovir.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The absence of hepatotoxicity from cidofovir is probably related to the fact that it is rapidly excreted in the urine and binds to the anion transported in the convoluted tubules, leading to its accumulation and renal toxicity.</p>
+        </sec>
+        <sec id="Cidofovir.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>The minor aminotransferase elevations associated with cidofovir therapy are usually self-limited and do not require dose modification or discontinuation of therapy.</p>
+          <p>Drug Class: <related-object source-id="livertox" document-id="AntiviralAgents">Antiviral Agents</related-object></p>
+          <p>Other Antiviral Agents for Herpes Virus Infections: <related-object source-id="livertox" document-id="Acyclovir">Acyclovir</related-object>, <related-object source-id="livertox" document-id="Famciclovir">Famciclovir</related-object>, <related-object source-id="livertox" document-id="Foscarnet">Foscarnet</related-object>, <related-object source-id="livertox" document-id="GanciclovirValganc">Ganciclovir</related-object>, <related-object source-id="livertox" document-id="Letermovir">Letermovir</related-object>, <related-object source-id="livertox" document-id="Valacyclovir">Valacyclovir</related-object>, <related-object source-id="livertox" document-id="GanciclovirValganc">Valganciclovir</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Cidofovir.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <boxed-text position="anchor" id="Cidofovir.BPI" orientation="portrait">
+          <p>
+            <bold> REPRESENTATIVE TRADE NAMES</bold>
+          </p>
+          <p>Cidofovir &#x02013; Vistide&#x000ae;</p>
+          <p>
+            <bold>DRUG CLASS</bold>
+          </p>
+          <p>Antiviral Agents</p>
+          <p>
+            <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Cidofovir">COMPLETE LABELING</ext-link>
+          </p>
+          <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+        </boxed-text>
+      </sec>
+      <sec id="Cidofovir.CHEMICAL_FORMULA_AND_STRUCTURE">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Cidofovir.T1" position="anchor" orientation="portrait">
+          <table>
+            <thead>
+              <tr>
+                <th id="hd_h_Cidofovir.T1_1_1_1_1" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Cidofovir.T1_1_1_1_2" rowspan="1" colspan="1">CAS REGISTRY NUMBER</th>
+                <th id="hd_h_Cidofovir.T1_1_1_1_3" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Cidofovir.T1_1_1_1_4" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Cidofovir.T1_1_1_1_1" rowspan="1" colspan="1">Cidofovir</td>
+                <td headers="hd_h_Cidofovir.T1_1_1_1_2" rowspan="1" colspan="1">
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135018697">113852-37-2</ext-link>
+                </td>
+                <td headers="hd_h_Cidofovir.T1_1_1_1_3" rowspan="1" colspan="1">C8-H14-N3-O6-P</td>
+                <td headers="hd_h_Cidofovir.T1_1_1_1_4" rowspan="1" colspan="1">
+                  <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Cidofovir_Structure.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait">
+                    <alt-text>Cidofovir Chemical Structure</alt-text>
+                  </graphic>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Cidofovir.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 10 October 2017</p>
+        <ref-list id="Cidofovir.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Cidofovir.R1">
+            <mixed-citation publication-type="other">N&#x000fa;&#x000f1;ez M. Herpesviridae treatment. Hepatic toxicity of antiviral agents. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013, pp. 512-3. <italic toggle="yes">(Review of hepatotoxicity of antiviral agents mentions that ALT elevations, hepatic necrosis and jaundice were reported in clinical trials using cidofovir</italic><annotation><p><italic toggle="yes">).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Cidofovir.R2">
+            <mixed-citation publication-type="other">Acosta EP, Flexner C. Antiviral agents(nonretroviral). In, Brunton LL, Chabner BA, Knollman BC, eds. Goodman &#x00026; Gilman's the pharmacological basis of therapeutics. 12th ed. New York: McGraw-Hill, 20136, pp. 1593-1622.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Cidofovir.R3">
+            <mixed-citation publication-type="journal">Lea AP, Bryson HM. Cidofovir. Drugs 1996; 52: 225-30. <annotation><p><italic toggle="yes">(Review of structure, mechanism of action, pharmacokinetics, efficacy and safety of cidofovir, a cytidine nucleotide analogue shown to be effective in treatment of CMV retinitis; no mention of liver toxicity).</italic></p></annotation><pub-id pub-id-type="pmid">8841740</pub-id></mixed-citation>
+          </ref>
+          <ref id="Cidofovir.R4">
+            <mixed-citation publication-type="journal">Studies of Ocular Complications of AIDS Research Group in Collaboration with the AIDS Clinical Trials Group. Parenteral cidofovir for cytomegalovirus retinitis in patients with AIDS: the HPMPC peripheral cytomegalovirus retinitis trial. A randomized, controlled trial. Ann Intern Med 1997; 126: 264-74. <annotation><p><italic toggle="yes">(Randomized controlled trial of low vs high dose cidofovir in 64 patients with small peripheral CMV retinitis and AIDS; complications included neutropenia and proteinuria; no mention of hepatotoxicity or ALT elevations).</italic></p></annotation><pub-id pub-id-type="pmid">9036798</pub-id></mixed-citation>
+          </ref>
+          <ref id="Cidofovir.R5">
+            <mixed-citation publication-type="journal">Lalezari JP, Stagg RJ, Kuppermann BD, Holland GN, Kramer F, Ives DV, Youle M, et al. Intravenous cidofovir for peripheral cytomegalovirus retinitis in patients with AIDS. A randomized, controlled trial. Ann Intern Med 1997; 126: 257-63. <annotation><p><italic toggle="yes">(Controlled trial of 4 weeks of cidofovir in 48 patients with CMV retinitis and HIV infection; neutropenia [15%] and proteinuria [12%] were the most significant adverse events; no mention of hepatotoxicity or ALT elevations).</italic></p></annotation><pub-id pub-id-type="pmid">9036797</pub-id></mixed-citation>
+          </ref>
+          <ref id="Cidofovir.R6">
+            <mixed-citation publication-type="journal">Jacobson MA. Treatment of cytomegalovirus retinitis in patients with the acquired immunodeficiency syndrome. N Engl J Med 1997; 337: 105-15. <annotation><p><italic toggle="yes">(Review of natural history, outcome and therapy of CMV retinitis focusing on ganciclovir, foscarnet and cidofovir; no mention of hepatotoxicity in discussion of side effects of the 3 drugs).</italic></p></annotation><pub-id pub-id-type="pmid">9211681</pub-id></mixed-citation>
+          </ref>
+          <ref id="Cidofovir.R7">
+            <mixed-citation publication-type="journal">Lalezari JP. Cidofovir: a new therapy for cytomegalovirus retinitis. J Acquir Immune Defic Syndr Hum Retrovirol 1997; 14 (Suppl 1): S22-6. <annotation><p><italic toggle="yes">(Review of safety and efficacy of cidofovir as therapy of CMV retinitis; no mention of hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">9058614</pub-id></mixed-citation>
+          </ref>
+          <ref id="Cidofovir.R8">
+            <mixed-citation publication-type="journal">Lalezari JP, Holland GN, Kramer F, McKinley GF, Kemper CA, Ives DV, Nelson R, et al. Randomized, controlled study of the safety and efficacy of intravenous cidofovir for the treatment of relapsing cytomegalovirus retinitis in patients with AIDS. J Acquir Immune Defic Syndr Hum Retrovirol 1998; 17: 339-44. <annotation><p><italic toggle="yes">(Controlled trial of two doses of intravenous cidofovir every 1-2 weeks for up to 1 year; no mention of hepatotoxicity or ALT elevations).</italic></p></annotation><pub-id pub-id-type="pmid">9525435</pub-id></mixed-citation>
+          </ref>
+          <ref id="Cidofovir.R9">
+            <mixed-citation publication-type="journal">Plosker GL, Noble S. Cidofovir: a review of its use in cytomegalovirus retinitis in patients with AIDS. Drugs 1999; 58: 325-45. <annotation><p><italic toggle="yes">(Review of efficacy and safety of cidofovir for CMV retinitis in HIV-infected patients; nephrotoxicity is the major dose limiting adverse effect; no mention of hepatotoxicity or ALT elevations during therapy).</italic></p></annotation><pub-id pub-id-type="pmid">10473024</pub-id></mixed-citation>
+          </ref>
+          <ref id="Cidofovir.R10">
+            <mixed-citation publication-type="journal">Biron KK. Antiviral drugs for cytomegalovirus diseases. Antiviral Research 2006; 71: 154-63. <annotation><p><italic toggle="yes">(Review of CMV infection and the drugs used to treat it, including cidofovir, ganciclovir, foscarnet and acyclovir, does not mention ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">16765457</pub-id></mixed-citation>
+          </ref>
+          <ref id="Cidofovir.R11">
+            <mixed-citation publication-type="journal">Drugs for non-HIV viral infections. Treat Guidel Med Lett 2007; 5: 59-70. <annotation><p><italic toggle="yes">(Review of status of non-antiretroviral antiviral agents for prevention and treatment of herpes, varicella-zoster, cytomegalovirus, influenza A and B, and hepatitis B and C; no mention of liver related side effects for cidofovir).</italic></p></annotation><pub-id pub-id-type="pmid">17565338</pub-id></mixed-citation>
+          </ref>
+          <ref id="Cidofovir.R12">
+            <mixed-citation publication-type="journal">Chalasani N, Fontana RJ, Bonkovsky HL, Watkins PB, Davern T, Serrano J, Yang H, Rochon J; Drug Induced Liver Injury Network (DILIN). Causes, clinical features, and outcomes from a prospective study of drug-induced liver injury in the United States. Gastroenterology 2008; 135: 1924-34. <annotation><p><italic toggle="yes"> (Among 300 cases of drug induced liver disease in the US collected between 2004 and 2008, 8 were attributed to antiviral agents including one due to valacyclovir, but none were attributed to cidofovir).</italic></p></annotation><pub-id pub-id-type="pmid">18955056</pub-id></mixed-citation>
+          </ref>
+          <ref id="Cidofovir.R13">
+            <mixed-citation publication-type="journal">Caruso Brown AE, Cohen MN, Tong S, Braverman RS, Rooney JF, Giller R, Levin MJ. Pharmacokinetics and safety of intravenous cidofovir for life-threatening viral infections in pediatric hematopoietic stem cell transplant recipients. Antimicrob Agents Chemother 2015; 59: 3718-25. <annotation><p><italic toggle="yes">(Among 12 children with various symptomatic and severe herpes or adenoviral infections after hematopoietic cell transplantation who were treated with a single dose of cidofovir, there were no instances of hepatotoxicity, but two children developed renal dysfunction).</italic></p></annotation><pub-id pub-id-type="pmid">25733509</pub-id></mixed-citation>
+          </ref>
+          <ref id="Cidofovir.R14">
+            <mixed-citation publication-type="journal">Chalasani N, Bonkovsky HL, Fontana R, Lee W, Stolz A, Talwalkar J, Reddy KR, et al.; United States Drug Induced Liver Injury Network. Features and outcomes of 899 patients with drug-induced liver injury: the DILIN prospective study. Gastroenterology 2015; 148: 1340-52.e7. <annotation><p><italic toggle="yes">(Among 899 cases of drug induced liver injury enrolled in a US prospective study between 2004 and 2013, 12 cases were attributed to antiviral agents, but none to cidofovir). </italic></p></annotation><pub-id pub-id-type="pmid">25754159</pub-id></mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec id="Cidofovir.OTHER_REFERENCE_LINKS" sec-type="link-group">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=(Cidofovir/AE)+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D%3A%222999/12/31%22%5BEDat%5D)">Recent References on Cidofovir: from PubMed.gov</ext-link>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Cidofovir">Trials on Cidofovir: from ClinicalTrials.gov</ext-link>
+            </p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

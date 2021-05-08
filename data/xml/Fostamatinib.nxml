@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Fostamatinib" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Fostamatinib</book-part-id>
+      <title-group>
+        <title>Fostamatinib</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>20</day>
+          <month>10</month>
+          <year>2018</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Fosphenytoin" document-type="chapter">Fosphenytoin</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Fremanezumab" document-type="chapter">Fremanezumab</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Fostamatinib.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Fostamatinib.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Fostamatinib is an orally available small molecule inhibitor of spleen tyrosine kinase that is used to treat chronic immune thrombocytopenia. Fostamatinib is associated with transient and usually mild elevations in serum aminotransferase levels during therapy but has yet to be linked to instances of clinically apparent acute liver injury.</p>
+        </sec>
+        <sec id="Fostamatinib.Background">
+          <title>Background</title>
+          <p>Fostamatinib (fos" ta ma' ti nib) is an orally available, specific inhibitor of spleen tyrosine kinase that is used to treat chronic immune mediated thrombocytopenia. The spleen tyrosine kinase (Syk) signaling pathway is important in phagocytosis and specifically the antibody mediated uptake and destruction of platelets by splenic macrophages in patients with immune thrombocytopenia. The Syk signaling pathway may also play a role in other immune cell types involved in inflammation and cell damage. Fostamatinib was been shown to raise platelet counts in patients with refractory chronic immune thrombocytopenia and was approved for this use in the United States in 2018. Fostamatinib has also been evaluated in patients with rheumatoid arthritis, autoimmune hemolytic anemia and other immune-mediated conditions, but has not been specifically approved for these uses. Fostamatinib is available in tablets of 50 and 100 mg under the brand name Tavalisse. The recommended initial dose is 100 mg twice daily, increasing to 150 mg twice daily after 4 weeks as needed. Common side effects include diarrhea, nausea, abdominal pain, hypertension, dizziness, chest pain, neutropenia and rash. Rare, but potentially severe adverse events include, severe diarrhea, hypertension, neutropenia and embryo-fetal toxicity.</p>
+        </sec>
+        <sec id="Fostamatinib.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>In prelicensure controlled trials, serum aminotransferase elevations above 3 times ULN arose in 9% of fostamatinib treated subjects but in none of the placebo recipients. ALT values above 5 times ULN occurred in 5% of treated subjects. These elevations were typically transient but led to early discontinuations in a proportion of patients, but more often resolved even without dose adjustment. In prelicensure studies, there were no instances of clinically apparent liver injury attributed to fostamatinib. Since approval and more widescale availability of fostamatinib, there have been no published reports of hepatotoxicity associated with its use, although it has had limited general use.</p>
+          <p>Likelihood score: E* (suspected but unproven cause of idiosyncratic clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Fostamatinib.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The causes of serum enzyme elevations during fostamatinib therapy are not known. Fostamatinib is metabolized in the liver largely by CYP 3A4 and liver injury may be related to production of a toxic or immunogenic intermediate. Because it is a substrate for CYP 3A4, fostamatinib is susceptible to drug-drug interactions with agents that inhibit or induce this specific hepatic microsomal activity.</p>
+        </sec>
+        <sec id="Fostamatinib.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>Monitoring of serum aminotransferase levels is recommended for patients before starting fostamatinib and at monthly intervals thereafter. Serum aminotransferase elevations above 5 times the upper limit of normal or any elevations accompanied by jaundice or symptoms should lead to discontinuation. There does not appear to be cross reactivity in risk for hepatic injury between fostamatinib and other kinase inhibitors.</p>
+          <p>Drug Class: Hematologic Growth Factors, <related-object source-id="livertox" document-id="ProteinKinaseInhibit">Protein Kinase Inhibitors</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Fostamatinib.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <boxed-text position="anchor" id="Fostamatinib.BPI" orientation="portrait">
+          <p>
+            <bold>REPRESENTATIVE TRADE NAMES</bold>
+          </p>
+          <p>Fostamatinib &#x02013; Tavalisse&#x000ae;</p>
+          <p>
+            <bold>DRUG CLASS</bold>
+          </p>
+          <p>Hematologic Growth Factors</p>
+          <p>
+            <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?label=all&#x00026;query=Fostamatinib">COMPLETE LABELING</ext-link>
+          </p>
+          <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+        </boxed-text>
+      </sec>
+      <sec id="Fostamatinib.CHEMICAL_FORMULA_AND_STRUCT">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Fostamatinib.T1" position="anchor" orientation="portrait">
+          <table>
+            <thead>
+              <tr>
+                <th id="hd_h_Fostamatinib.T1_1_1_1_1" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Fostamatinib.T1_1_1_1_2" rowspan="1" colspan="1">CAS REGISTRY NO.</th>
+                <th id="hd_h_Fostamatinib.T1_1_1_1_3" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Fostamatinib.T1_1_1_1_4" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Fostamatinib.T1_1_1_1_1" rowspan="1" colspan="1">Fostamatinib</td>
+                <td headers="hd_h_Fostamatinib.T1_1_1_1_2" rowspan="1" colspan="1">
+                  <bold>
+                    <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135262180">901119-35-5</ext-link>
+                  </bold>
+                </td>
+                <td headers="hd_h_Fostamatinib.T1_1_1_1_3" rowspan="1" colspan="1">C23-H26-F-N6-O9-P</td>
+                <td headers="hd_h_Fostamatinib.T1_1_1_1_4" rowspan="1" colspan="1">
+                  <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Fostamatinib_structure.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait">
+                    <alt-text>Fostamatinib structure</alt-text>
+                  </graphic>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Fostamatinib.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 20 October 2018</p>
+        <ref-list id="Fostamatinib.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Fostamatinib.R1">
+            <mixed-citation publication-type="other">Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999.<annotation><p><italic toggle="yes">(Review of hepatotoxicity published in 1999 before the availability of protein kinase inhibitors such as fostamatinib).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Fostamatinib.R2">
+            <mixed-citation publication-type="other">DeLeve LD. Erlotinib. Cancer chemotherapy. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013, pp. 556.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of cancer chemotherapeutic agents discusses several kinase inhibitors including imatinib, gefitinib, erlotinib and crizotinib, but not fostamatinib).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Fostamatinib.R3">
+            <mixed-citation publication-type="other">Chabner BA, Barnes J, Neal J, Olson E, Mujagic H, Sequist L, Wilson W, et al. Targeted therapies: tyrosine kinase inhibitors, monoclonal antibodies, and cytokines. In, Brunton LL, Chabner BA, Knollman BC, eds. Goodman &#x00026; Gilman's the pharmacological basis of therapeutics. 12th ed. New York: McGraw-Hill, 2011, pp. 1731-54.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Fostamatinib.R4">
+            <mixed-citation publication-type="other">
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.accessdata.fda.gov/scripts/cder/daf/">https://www.accessdata.fda.gov/scripts/cder/daf/</ext-link>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(FDA Drug Approvals website that has product labels [package inserts], letters of approval and full FDA scientific review of the new drug application for safety and efficacy).</italic>
+                </p>
+              </annotation>
+            </mixed-citation>
+          </ref>
+          <ref id="Fostamatinib.R5">
+            <mixed-citation publication-type="journal">Spraggs CF, Xu CF, Hunt CM. Genetic characterization to improve interpretation and clinical management of hepatotoxicity caused by tyrosine kinase inhibitors. Pharmacogenomics 2013; 14: 541-54. <annotation><p><italic toggle="yes">(Review of genetic associations of serum ALT and bilirubin elevations during therapy with tyrosine kinase inhibitors focusing on lapatinib and pazopanib; fostamatinib is not mentioned).</italic></p></annotation><pub-id pub-id-type="pmid">23556451</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fostamatinib.R6">
+            <mixed-citation publication-type="journal">Genovese MC, van der Heijde DM, Keystone EC, Spindler AJ, Benhamou C, Kavanaugh A, Fudman E, et al. A phase III, multicenter, randomized, double-blind, placebo-controlled, parallel-group study of 2 dosing regimens of fostamatinib in patients with rheumatoid arthritis with an inadequate response to a tumor necrosis factor-&#x003b1; antagonist. J Rheumatol 2014; 41: 2120-8. <annotation><p><italic toggle="yes">(Among 323 patients with rheumatoid arthritis on methotrexate enrolled in a randomized controlled trial for 24 weeks, clinical responses were more frequent with fostamatinib [36% and 28%] than placebo [21%], but so were side effects including diarrhea [20% and 27% vs 6%] and hypertension [13% and 14% vs 8%] and ALT elevations above 3 times ULN [4% and 2% vs 2%], and there were no liver related serious adverse events).</italic></p></annotation><pub-id pub-id-type="pmid">25225285</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fostamatinib.R7">
+            <mixed-citation publication-type="journal">Taylor PC, Genovese MC, Greenwood M, Ho M, Nasonov E, Oemar B, Stoilov R, et al. OSKIRA-4: a phase IIb randomised, placebo-controlled study of the efficacy and safety of fostamatinib monotherapy. Ann Rheum Dis 2015; 74: 2123-9. <annotation><p><italic toggle="yes">(Among 279 patients with rheumatoid arthritis treated with fostamatinib or adalimumab or placebo for 6 weeks, clinical improvements were more frequent with fostamatinib than placebo as were adverse events, ALT elevations above 5 times ULN occurring in 4% vs 2% on placebo).</italic></p></annotation><pub-id pub-id-type="pmid">25074688</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fostamatinib.R8">
+            <mixed-citation publication-type="journal">Bussel J, Arnold DM, Grossbard E, Mayer J, Treli&#x00144;ski J, Homenda W, Hellmann A, et al. Fostamatinib for the treatment of adult persistent and chronic immune thrombocytopenia: results of two phase 3, randomized, placebo-controlled trials. Am J Hematol 2018; 93: 921-30. <annotation><p><italic toggle="yes">(Among 150 patients enrolled in 2 controlled trials of a 24-week course of fostamatinib in patients with chronic immune thrombocytopenia, response in platelet counts were more frequent with fostamatinib vs placebo [43% vs 14%] as were adverse side effects including ALT elevations [11% vs 0%], but there were no cases of clinically apparent liver injury in either group).</italic></p></annotation><pub-id pub-id-type="pmid">29696684</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fostamatinib.R9">
+            <mixed-citation publication-type="journal">Newland A, Lee EJ, McDonald V, Bussel JB. Fostamatinib for persistent/chronic adult immune thrombocytopenia. Immunotherapy 2018; 10: 9-25. <annotation><p><italic toggle="yes">(Review of the basis of use, clinical efficacy and safety of fostamatinib in therapy of immune thrombocytopenia mentions that ALT elevations above twice normal occur in up to 12% of patients, but are generally mild and transient and not accompanied by symptoms or jaundice).</italic></p></annotation><pub-id pub-id-type="pmid">28967793</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fostamatinib.R10">
+            <mixed-citation publication-type="journal">Markham A. Fostamatinib: first global approval. Drugs 2018; 78: 959-63. <annotation><p><italic toggle="yes">(Review of the history of the development of fostamatinib, its mechanism of action, pharmacology, clinical efficacy and safety).</italic></p></annotation><pub-id pub-id-type="pmid">29869203</pub-id></mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec id="Fostamatinib.OTHER_REFERENCE_LINKS" sec-type="link-group">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=Fostamatinib+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D%3A%222999/12/31%22%5BEDat%5D)">Recent References on Fostamatinib: from PubMed.gov</ext-link>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Fostamatinib">Trials on Fostamatinib: from ClinicalTrials.gov</ext-link>
+            </p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

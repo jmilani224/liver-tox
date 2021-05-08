@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Mogamulizumab" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Mogamulizumab</book-part-id>
+      <title-group>
+        <title>Mogamulizumab</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>10</day>
+          <month>4</month>
+          <year>2019</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Moexipril" document-type="chapter">Moexipril</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Molindone" document-type="chapter">Molindone</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Mogamulizumab.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Mogamulizumab.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Mogamulizumab is a humanized monoclonal antibody to the T cell CC chemokine receptor 4 which is used to treat peripheral and cutaneous T-cell lymphomas. Mogamulizumab is associated with a low rate of serum enzyme elevations during treatment and has been linked to several instances of reactivation of hepatitis B.</p>
+        </sec>
+        <sec id="Mogamulizumab.Background">
+          <title>Background</title>
+          <p>Mogamulizumab (moe gam" ue liz' ue mab) is a recombinant humanized monoclonal antibody to the CC chemokine receptor type 4, which is found on helper T cells and is highly expressed on malignant T cells as occurs in cutaneous and peripheral T cell lymphomas. Mogamulizumab is defucosylated and the removal of these sugar molecules makes the antibody more avid in inducing antibody dependent cellular cytotoxicity. Clinical trials of mogamulizumab in refractory or relapsing cases of cutaneous T cell lymphoma (S&#x000e9;zary syndrome and mycosis fungoides) have shown that it decreases malignant T cells and induces objective responses in a proportion of patients. Mogamulizumab was approved for use in the United States in 2018 for therapy of patients with relapsed or refractory mycosis fungoides or S&#x000e9;zary syndrome. Mogamulizumab is available in solution in single dose vials of 20 mg/5 mL (4 mg/mL) under the brand name Poteligeo. Mogamulizumab is administered as an intravenous infusion in a dose of 1 mg/kg on days 1, 8, 15 and 22 of the first 28-day cycle and on days 1 and 15 of subsequent chemotherapy cycles. Side effects are generally mild-to-moderate in severity but can be severe and include rash, infusion reactions, autoimmune complications and, in patients with hematopoietic cell transplants, severe acute graft-versus-host disease. Rare, but potentially severe adverse events include reactivation of infections including hepatitis B.</p>
+        </sec>
+        <sec id="Mogamulizumab.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>In prelicensure clinical trials of mogamulizumab in S&#x000e9;zary syndrome, mycosis fungoides and adult T-cell lymphomas, serum aminotransferase elevations occurred in 18% to 25% of recipients, but the abnormalities were generally mild and self-limited and often attributable to other underlying conditions. Elevations of ALT above 5 times the ULN occurred in only 1% of subjects and no patient developed both serum aminotransferase and bilirubin elevations or clinically apparent liver injury. Mogamulizumab has also been associated with induction of autoimmune conditions and at least one case of autoimmune hepatitis that arose after successful mogamulizumab therapy and that required long-term corticosteroid therapy.</p>
+          <p>In Japan where mogamulizumab was approved for adult T cell lymphoma in 2015, several instances of reactivation of hepatitis B have been reported, at least one of which was fatal and most of which occurred in patients with antibody to HBV without detectable HBsAg or HBV DNA before therapy ("reverse seroconversion"). The treated patients had received multiple other chemotherapeutic agents and the specific role of mogamulizumab in inducing an increase in HBV replication was not always clear. Since approval in the United States, there have been no published reports of clinically apparent acute liver injury or reactivation of hepatitis B attributed to mogamulizumab, but it has had limited general use.</p>
+          <p>Likelihood score: C (probable cause of clinically apparent liver injury largely due to reactivation of hepatitis B and induction of autoimmune conditions).</p>
+        </sec>
+        <sec id="Mogamulizumab.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>Mogamulizumab is a human monoclonal antibody and is unlikely to be inherently hepatotoxic. Recombinant proteins are often metabolized in the cells on which they act but are also metabolized in the liver, largely to small peptides and amino acids which may be reused to synthesize proteins and are unlikely to be toxic or immunogenic. Mogamulizumab therapy may affect normal T cell function, particularly regulatory T cells that may express CC chemokine receptor 4 (CXCR4) on cell surface membranes. These effects may explain the induction of autoimmune conditions as well as reactivation of hepatitis B by mogamulizumab.</p>
+        </sec>
+        <sec id="Mogamulizumab.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>Serum enzyme elevations during mogamulizumab therapy are usually transient and mild, but induction of autoimmune hepatitis even months after successful therapy has been described. Autoimmune hepatitis may require corticosteroid therapy. Reactivation of hepatitis B can result in severe hepatitis and even acute hepatic failure. Patients who are to receive potent immunosuppressive therapy such as with ibrutinib, rituximab or mogamulizumab should be screened for hepatitis B markers, including HBsAg and anti-HBc before starting therapy, and those who are positive given prophylaxis against reactivation using oral antiviral agents with activity against HBV such as tenofovir and entecavir or monitored carefully for changes in HBV DNA levels during therapy. If HBV DNA levels increase significantly (by 10-fold or greater; at least one log increase in HBV DNA), initiation of antiviral therapy is appropriate. Therapy should be continued for at least six months after immunosuppressive therapy has been completed.</p>
+          <p>Drug Class: <related-object source-id="livertox" document-id="AntineoplasticAgents">Antineoplastic Agents</related-object>, <related-object source-id="livertox" document-id="MonoclonalAntibodies">Monoclonal Antibodies</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Mogamulizumab.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <boxed-text position="anchor" id="Mogamulizumab.BPI" orientation="portrait">
+          <p>
+            <bold>REPRESENTATIVE TRADE NAMES</bold>
+          </p>
+          <p>Mogamulizumab &#x02013; Poteligeo&#x000ae;</p>
+          <p>
+            <bold>DRUG CLASS</bold>
+          </p>
+          <p>Antineoplastic Agents</p>
+          <p>
+            <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?label=all&#x00026;query=Mogamulizumab">COMPLETE LABELING</ext-link>
+          </p>
+          <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+        </boxed-text>
+      </sec>
+      <sec id="Mogamulizumab.CHEMICAL_FORMULA_AND_STRUC">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Mogamulizumab.T1" position="anchor" orientation="portrait">
+          <table>
+            <thead>
+              <tr>
+                <th id="hd_h_Mogamulizumab.T1_1_1_1_1" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Mogamulizumab.T1_1_1_1_2" rowspan="1" colspan="1">CAS REGISTRY NO.</th>
+                <th id="hd_h_Mogamulizumab.T1_1_1_1_3" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Mogamulizumab.T1_1_1_1_4" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Mogamulizumab.T1_1_1_1_1" rowspan="1" colspan="1">Mogamulizumab</td>
+                <td headers="hd_h_Mogamulizumab.T1_1_1_1_2" rowspan="1" colspan="1">
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135317476">1159266-37-1</ext-link>
+                </td>
+                <td headers="hd_h_Mogamulizumab.T1_1_1_1_3" rowspan="1" colspan="1">Monoclonal Antibody</td>
+                <td headers="hd_h_Mogamulizumab.T1_1_1_1_4" rowspan="1" colspan="1">Not Available</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Mogamulizumab.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 10 April 2019</p>
+        <ref-list id="Mogamulizumab.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Mogamulizumab.R1">
+            <mixed-citation publication-type="other">Reuben A. Hepatotoxicity of immunosuppressive drugs. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2011, pp. 569-91.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of monoclonal immunosuppressive agents written before the availability of mogamulizumab; "the biological immuno-suppressants are largely free from hepatotoxicity, with the exception of the TNF alpha antagonists").</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Mogamulizumab.R2">
+            <mixed-citation publication-type="other">Wellstein A, Giaccone G, Atkins MB, Sausville EA. Pathway-targeted therapies: monoclonal antibodies, protein kinase inhibitors, and various small molecules. In, Brunton LL, Hilal-Danan R, Knollman BC, eds. Goodman &#x00026; Gilman's the pharmacological basis of therapeutics. 13th ed. New York: McGraw-Hill, 2018, pp. 1203-36.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Mogamulizumab.R3">
+            <mixed-citation publication-type="other">
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.accessdata.fda.gov/scripts/cder/daf/">https://www.accessdata.fda.gov/scripts/cder/daf/</ext-link>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(FDA Drug Approvals website that has product labels [package inserts], letters of approval and full FDA scientific review of the new drug application for safety and efficacy; mentions that &#x0201c;hepatitis&#x0201d; was reported in 8% of 319 patients treated with mogamulizumab, but that there were no cases of hepatitis with jaundice and rates of ALT elevations were similar in comparator arms [19% vs 21% receiving vorinostat]).</italic>
+                </p>
+              </annotation>
+            </mixed-citation>
+          </ref>
+          <ref id="Mogamulizumab.R4">
+            <mixed-citation publication-type="journal">Ogura M, Ishida T, Hatake K, Taniwaki M, Ando K, Tobinai K, Fujimoto K, et al. Multicenter phase II study of mogamulizumab (KW-0761), a defucosylated anti-cc chemokine receptor 4 antibody, in patients with relapsed peripheral T-cell lymphoma and cutaneous T-cell lymphoma. J Clin Oncol 2014; 32: 1157-63. <annotation><p><italic toggle="yes">(Among 37 patients with relapsed peripheral or cutaneous T-cell lymphoma treated with mogamulizumab, 35% had an objective response and side effects included lymphopenia [81%], skin rash [51%], fever [30%], infusion reactions [24%] and ALT elevations [22%] which were above 5 times ULN in only one subject [3%]).</italic></p></annotation><pub-id pub-id-type="pmid">24616310</pub-id></mixed-citation>
+          </ref>
+          <ref id="Mogamulizumab.R5">
+            <mixed-citation publication-type="journal">Nakano N, Kusumoto S, Tanaka Y, Ishida T, Takeuchi S, Takatsuka Y, Akinaga S, et al. Reactivation of hepatitis B virus in a patient with adult T-cell leukemia-lymphoma receiving the anti-CC chemokine receptor 4 antibody mogamulizumab. Hepatol Res 2014; 44: 354-7. <annotation><p><italic toggle="yes">(65 year old woman with relapsed adult T-cell lymphoma [with anti-HBc without HBsAg or HBV DNA] developed reactivation of HBV 6 months after starting intermittent mogamulizumab therapy becoming HBsAg and HBV DNA positive [bilirubin not given, ALT 205 U/L, HBV DNA 7.8 million IU/mL], responding to entecavir therapy).</italic></p></annotation><pub-id pub-id-type="pmid">23601025</pub-id></mixed-citation>
+          </ref>
+          <ref id="Mogamulizumab.R6">
+            <mixed-citation publication-type="journal">Ifuku H, Kusumoto S, Tanaka Y, Totani H, Ishida T, Okada M, Murakami S, et al. Fatal reactivation of hepatitis B virus infection in a patient with adult T-cell leukemia-lymphoma receiving the anti-CC chemokine receptor 4 antibody mogamulizumab. Hepatol Res 2015; 45: 1363-7. <annotation><p><italic toggle="yes">(72 year old man with adult T-cell lymphoma developed fatal reactivation of HBV [peak bilirubin ~31 mg/dL, ALT 3,080 U/L] shortly after starting mogamulizumab, having become HBsAg and HBV DNA positive before starting monoclonal antibody therapy after 8 previous cycles of cytotoxic chemotherapy).</italic></p></annotation><pub-id pub-id-type="pmid">25753008</pub-id></mixed-citation>
+          </ref>
+          <ref id="Mogamulizumab.R7">
+            <mixed-citation publication-type="journal">Totani H, Kusumoto S, Ishida T, Masuda A, Yoshida T, Ito A, Ri M, et al. Reactivation of hepatitis B virus (HBV) infection in adult T-cell leukemia-lymphoma patients with resolved HBV infection following systemic chemotherapy. Int J Hematol 2015; 101: 398-404. <annotation><p><italic toggle="yes">(Among 24 patients with adult T cell lymphomas with antibody to HBV without HBsAg who received systemic chemotherapy, 3 [13%] developed HBV reactivation during prospective monitoring of HBV DNA levels, but none developed hepatitis having been promptly treated with entecavir; 2 of the 3 received mogamulizumab, the 3rd had undergone hematopoietic cell transplantation).</italic></p></annotation><pub-id pub-id-type="pmid">25633779</pub-id></mixed-citation>
+          </ref>
+          <ref id="Mogamulizumab.R8">
+            <mixed-citation publication-type="journal">Duvic M, Pinter-Brown LC, Foss FM, Sokol L, Jorgensen JL, Challagundla P, Dwyer KM, et al. Phase 1/2 study of mogamulizumab, a defucosylated anti-CCR4 antibody, in previously treated patients with cutaneous T-cell lymphoma. Blood 2015; 125: 1883-9. <annotation><p><italic toggle="yes">(Among 41 patients with cutaneous T-cell lymphoma treated with mogamulizumab, the objective response rate was 37% and adverse events included nausea [31%], fever [24%], infusion reactions [21%] and drug eruptions [17%]; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">25605368</pub-id></mixed-citation>
+          </ref>
+          <ref id="Mogamulizumab.R9">
+            <mixed-citation publication-type="journal">Sugio T, Kato K, Aoki T, Ohta T, Saito N, Yoshida S, Kawano I, et al. Mogamulizumab treatment prior to allogeneic hematopoietic stem cell transplantation induces severe acute graft-versus-host disease. Biol Blood Marrow Transplant 2016; 22: 1608-14. <annotation><p><italic toggle="yes">(Among 25 patients with acute T cell lymphoma treated with mogamulizumab before hematopoietic cell transplantation, graft-vs-host disease was more frequent and more severe than in patients who had not received mogamulizumab).</italic></p></annotation><pub-id pub-id-type="pmid">27220263</pub-id></mixed-citation>
+          </ref>
+          <ref id="Mogamulizumab.R10">
+            <mixed-citation publication-type="journal">Phipps C, Chen Y, Tan D. Lymphoproliferative disease and hepatitis B reactivation: challenges in the era of rapidly evolving targeted therapy. Clin Lymphoma Myeloma Leuk 2016; 16: 5-11. <annotation><p><italic toggle="yes">(Review of reactivation of hepatitis B caused by targeted therapies of lymphoproliferative diseases; mentions two cases of HBV reactivation with reverse seroconversion during mogamulizumab therapy of adult T cell lymphomas).</italic></p></annotation><pub-id pub-id-type="pmid">26705677</pub-id></mixed-citation>
+          </ref>
+          <ref id="Mogamulizumab.R11">
+            <mixed-citation publication-type="journal">Kim YH, Bagot M, Pinter-Brown L, Rook AH, Porcu P, Horwitz SM, Whittaker S, et al.; MAVORIC Investigators. Mogamulizumab versus vorinostat in previously treated cutaneous T-cell lymphoma (MAVORIC): an international, open-label, randomised, controlled phase 3 trial. Lancet Oncol 2018; 19: 1192-204. <annotation><p><italic toggle="yes">(Among 370 patients with refractory cutaneous T cell lymphoma treated with mogamulizumab or vorinostat, median progression-free survival was greater with the monoclonal antibody [7.7 vs 3.1 months], while adverse event rates were less except for infusion site reactions [24% vs 1%] and skin eruptions [24% vs 1%] while AST elevations occurred in 4% vs 7%, and there were no severe hepatic adverse reactions).</italic></p></annotation><pub-id pub-id-type="pmid">30100375</pub-id></mixed-citation>
+          </ref>
+          <ref id="Mogamulizumab.R12">
+            <mixed-citation publication-type="journal">Sato T, Coler-Reilly ALG, Yagishita N, Araya N, Inoue E, Furuta R, Watanabe T, et al. Mogamulizumab (anti-CCR4) in HTLV-1-associated myelopathy. N Engl J Med 2018; 378: 529-38. <annotation><p><italic toggle="yes">(Among 21 patients with HTLV-1 associated myelopathy and adult T cell lymphoma treated with mogamulizumab, reduction in spasticity occurred in 79% of patients and infusions were well tolerated; 1 patient developed transient AST elevations above 5 times ULN which resolved rapidly upon stopping therapy). </italic></p></annotation><pub-id pub-id-type="pmid">29414279</pub-id></mixed-citation>
+          </ref>
+          <ref id="Mogamulizumab.R13">
+            <mixed-citation publication-type="journal">Miyagawa F, Yamamoto S, Miyao M, Nishikawa M, Ogawa K, Asada H. Predisposition to multi-drug hypersensitivity after administration of mogamulizumab. Eur J Dermatol 2018; 28: 526-8. <annotation><p><italic toggle="yes"> (59 year old woman with refractory adult T-cell leukemia-lymphoma developed a severe cutaneous reaction a few days after a third infusion of mogamulizumab, which resolved on stopping but recurred on two occasions when started on other medications without mogamulizumab).</italic></p></annotation><pub-id pub-id-type="pmid">29952299</pub-id></mixed-citation>
+          </ref>
+          <ref id="Mogamulizumab.R14">
+            <mixed-citation publication-type="journal">Bonnet P, Battistella M, Roelens M, Ram-Wolff C, Herms F, Frumholtz L, Bouaziz JD, et al. Association of autoimmunity and long-term complete remission in patients with S&#x000e9;zary syndrome treated with mogamulizumab. Br J Dermatol 2019; 180: 419-20. <annotation><p><italic toggle="yes"> (Two of 21 patients with refractory cutaneous T cell lymphomas treated with mogamulizumab developed autoimmune conditions (one with vitiligo and autoimmune hepatitis and one with hemolytic anemia) after successful treatment and long term complete responses with mogamulizumab).</italic></p></annotation><pub-id pub-id-type="pmid">30328116</pub-id></mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec id="Mogamulizumab.OTHER_REFERENCE_LINKS" sec-type="link-group">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=Mogamulizumab+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D%3A%222999/12/31%22%5BEDat%5D)">Recent References on Mogamulizumab: from PubMed.gov</ext-link>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Mogamulizumab">Trials on Mogamulizumab: from ClinicalTrials.gov</ext-link>
+            </p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

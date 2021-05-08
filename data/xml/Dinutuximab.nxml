@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Dinutuximab" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Dinutuximab</book-part-id>
+      <title-group>
+        <title>Dinutuximab</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>3</day>
+          <month>1</month>
+          <year>2018</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="DimethylFumarate" document-type="chapter">Dimethyl Fumarate</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="DPP4-inhibitors" document-type="chapter">Dipeptidyl Peptidase-4 Inhibitors</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Dinutuximab.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Dinutuximab.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Dinutuximab is a recombinant chimeric monoclonal antibody to GD2 which is used as an anticancer agent in combination with other antineoplastic agents in the treatment of neuroblastoma. Transient asymptomatic elevations in serum aminotransferase levels are common during dinutuximab therapy, but it has not been linked to instances of clinically apparent liver injury.</p>
+        </sec>
+        <sec id="Dinutuximab.Background">
+          <title>Background</title>
+          <p>Dinutuximab (din" ue tux' i mab) is a mouse-human chimeric monoclonal IgG1 antibody to disialoganglioside (GD2), a cell surface glycolipid that is present in low concentrations on skin, neural or peripheral nerve cells and is overexpressed on neuroblastoma cells. Engagement of dinutuximab with GD2 triggers antibody dependent cell cytotoxicity. Cytotoxicity of dinutuximab is increased by coadministration of granulocyte-macrophage colony stimulating factor (GM-CSF) and interleukin 2 (IL2) because of their effects on neutrophils, macrophages and immune effector cells, for which reason dinutuximab is usually combined with these cytokines. Dinutuximab was approved for use in neuroblastoma in the United States in 2015. Current indications are for its administration with IL2 or GM-CSF added to standard isotretinoin therapy of high risk pediatric patients with neuroblastoma. Dinutuximab is available in liquid solution in single use vials of 17.5 mg in 5 mL (3.5 mg/mL) under the brand name Unituxin. Dinutuximab is given by slow intravenous infusion (over 10 hours) in a dose of 17.5 mg/m<sup>2</sup> daily for 4 consecutive days, repeated in up to 5 cycles. Premedication with hydration, diphenhydramine, acetaminophen and a potent analgesic [such as morphine] is recommended. Adverse side effects of the combination immunotherapy are frequent and can be severe. These side effects include infusion reactions, nausea and vomiting, rash, hypotension, capillary leak syndrome, neuropathic pain and peripheral neuropathy. Less common, but potentially severe side effects include severe hypersensitivity reactions, neurologic and ophthalmologic toxicities, transverse myelitis, reversible posterior leukoencephalopathy syndrome, severe infections, bone marrow suppression, electrolyte abnormalities and embryo-fetal toxicity.</p>
+        </sec>
+        <sec id="Dinutuximab.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>Serum aminotransferase elevations are common during dinutuximab therapy occurring in at least 50% of patients, but the abnormalities are usually transient and asymptomatic, resolving spontaneously before the time for the next cycle of infusions. ALT elevations above 5 times the upper limit of normal occurred in 8% to 23% of patients in preregistration trials. However, clinically apparent liver injury with jaundice has not been described in clinical trials or case series on the use of dinutuximab in children with neuroblastoma.</p>
+          <p>Likelihood score: E* (unproven but suspected cause of clinically apparent acute liver injury).</p>
+        </sec>
+        <sec id="Dinutuximab.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The mechanism of liver injury caused by dinutuximab is not known. It is a recombinant protein and unlikely to be inherently hepatoxic, but may trigger liver injury by engagement of low levels of GD2 on hepatocytes or sinusoidal cells, triggering cell injury. The aminotransferase elevations with dinutuximab do not appear to be related to the frequent hypersensitivity infusion reactions, which may be due in part to reactions to the chimeric antibody.</p>
+        </sec>
+        <sec id="Dinutuximab.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>Patients with neuroblastoma receiving dinutuximab therapy require careful monitoring of both hematologic and clinical chemistry test results. Serum aminotransferase elevations that persist or rise above 5 times ULN should lead to delay in subsequent infusions until the abnormalities resolve. The appearance of symptoms of liver injury or jaundice should lead to discontinuation.</p>
+          <p>Drug Class: <related-object source-id="livertox" document-id="AntineoplasticAgents">Antineoplastic Agents</related-object>, <related-object source-id="livertox" document-id="MonoclonalAntibodies">Monoclonal Antibodies</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Dinutuximab.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <boxed-text position="anchor" id="Dinutuximab.BPI" orientation="portrait">
+          <p>
+            <bold>REPRESENTATIVE TRADE NAMES</bold>
+          </p>
+          <p>Dinutuximab &#x02013; Unituxin&#x000ae;</p>
+          <p>
+            <bold>DRUG CLASS</bold>
+          </p>
+          <p>Antineoplastic Agents</p>
+          <p>
+            <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Dinutuximab">COMPLETE LABELING</ext-link>
+          </p>
+          <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+        </boxed-text>
+      </sec>
+      <sec id="Dinutuximab.CHEMICAL_FORMULA_AND_STRUCTU">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Dinutuximab.T1" position="anchor" orientation="portrait">
+          <table>
+            <thead>
+              <tr>
+                <th id="hd_h_Dinutuximab.T1_1_1_1_1" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Dinutuximab.T1_1_1_1_2" rowspan="1" colspan="1">CAS REGISTRY NO</th>
+                <th id="hd_h_Dinutuximab.T1_1_1_1_3" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Dinutuximab.T1_1_1_1_4" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Dinutuximab.T1_1_1_1_1" rowspan="1" colspan="1">Dinutuximab</td>
+                <td headers="hd_h_Dinutuximab.T1_1_1_1_2" rowspan="1" colspan="1">
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://377483933">1363687-32-4</ext-link>
+                </td>
+                <td headers="hd_h_Dinutuximab.T1_1_1_1_3" rowspan="1" colspan="1">Monoclonal Antibody</td>
+                <td headers="hd_h_Dinutuximab.T1_1_1_1_4" rowspan="1" colspan="1">Not Available</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Dinutuximab.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 03 January 2018</p>
+        <ref-list id="Dinutuximab.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Dinutuximab.R1">
+            <mixed-citation publication-type="other">Zimmerman HJ. Hepatotoxic effects of oncotherapeutic and immunosuppressive agents. In, Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999, pp. 673-708.<annotation><p><italic toggle="yes">(Expert review of hepatotoxicity published in 1999, well before the availability of most monoclonal antibody therapies).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Dinutuximab.R2">
+            <mixed-citation publication-type="other">Reuben A. Hepatotoxicity of immunosuppressive drugs. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2011, pp. 569-91.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of immunosuppressive agents; mentions rituximab and problems of reactivation of hepatitis B, but also states that "the biological immunosuppressants are largely free from hepatotoxicity, with the exception of the TNF alpha antagonists"; no specific discussion of dinutuximab).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Dinutuximab.R3">
+            <mixed-citation publication-type="other">Chabner BA, Barnes J, Neal J, Olson E, Mujagiv H, Sequist L, Wilson W, et al. Targeted therapies: tyrosine kinase inhibitors, monoclonal antibodies, and cytokines. In, Brunton LL, Chabner BA, Knollman BC, eds. Goodman &#x00026; Gilman's the pharmacological basis of therapeutics. 12th ed. New York: McGraw-Hill, 2011, pp. 1731-53.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Dinutuximab.R4">
+            <mixed-citation publication-type="journal">Yu AL, Uttenreuther-Fischer MM, Huang CS, Tsui CC, Gillies SD, Reisfeld RA, Kung FH. Phase I trial of a human-mouse chimeric anti-disialoganglioside monoclonal antibody ch14.18 in patients with refractory neuroblastoma and osteosarcoma. J Clin Oncol 1998; 16: 2169-80. <annotation><p><italic toggle="yes">(Among 10 children with recurrent, refractory neuroblastoma and 1 with osteosarcoma treated with dinutuximab [10, 20, 50, 100 or 200 mg/m2], half had an objective response while side effects were common including infusion reactions, neuropathic pain, tachycardia, hypertension, fever, rash; transient ALT elevations occurred in 3 patients and were recurrent with subsequent infusions in one [peak ALT levels 94-424 U/L]).</italic></p></annotation><pub-id pub-id-type="pmid">9626218</pub-id></mixed-citation>
+          </ref>
+          <ref id="Dinutuximab.R5">
+            <mixed-citation publication-type="journal">Albertini MR, Hank JA, Schiller JH, Khorsand M, Borchert AA, Gan J, Bechhofer R, et al. Phase IB trial of chimeric antidisialoganglioside antibody plus interleukin 2 for melanoma patients. Clin Cancer Res 1997; 3: 1277-88. <annotation><p><italic toggle="yes">(Among 24 patients with advanced melanoma treated with dinutuximab and IL2, two patients had an objective response but adverse events were frequent, most attributable to IL2, but also with frequent infusion reactions and several severe allergic reactions).</italic></p></annotation><pub-id pub-id-type="pmid">9815810</pub-id></mixed-citation>
+          </ref>
+          <ref id="Dinutuximab.R6">
+            <mixed-citation publication-type="journal">Ozkaynak MF, Sondel PM, Krailo MD, Gan J, Javorsky B, Reisfeld RA, Matthay KK, et al. Phase I study of chimeric human/murine anti-ganglioside G(D2) monoclonal antibody (ch14.18) with granulocyte-macrophage colony-stimulating factor in children with neuroblastoma immediately after hematopoietic stem-cell transplantation: a Children's Cancer Group Study. J Clin Oncol. 2000; 18: 4077-85. <annotation><p><italic toggle="yes">(Among 19 children with neuroblastoma treated with 79 courses of dinutuximab and GM-CSF after hematopoietic cell transplant, toxicities included pain, fever, nausea and vomiting, rash, hypotension, capillary leak syndrome and neurotoxicity; &#x0201c;transient and insignificant AST/ALT elevations were observed&#x0201d;).</italic></p></annotation><pub-id pub-id-type="pmid">11118469</pub-id></mixed-citation>
+          </ref>
+          <ref id="Dinutuximab.R7">
+            <mixed-citation publication-type="journal">Simon T, Hero B, Faldum A, Handgretinger R, Schrappe M, Niethammer D, Berthold F. Consolidation treatment with chimeric anti-GD2-antibody ch14.18 in children older than 1 year with metastatic neuroblastoma. J Clin Oncol 2004; 22: 3549-57. <annotation><p><italic toggle="yes">(Among 334 patients enrolled in a German cooperative study of therapies of neuroblastoma of whom 166 received dinutuximab, event free survival was not different between those who had and had not received dinutuximab, while side effects of the treatment were frequent; ALT elevations occurred during 5% of cycles and in 12.8% of patients who received dinutuximab).</italic></p></annotation><pub-id pub-id-type="pmid">15337804</pub-id></mixed-citation>
+          </ref>
+          <ref id="Dinutuximab.R8">
+            <mixed-citation publication-type="journal">Yu AL, Gilman AL, Ozkaynak MF, London WB, Kreissman SG, Chen HX, Smith M, et al.; Children's Oncology Group. Anti-GD2 antibody with GM-CSF, interleukin-2, and isotretinoin for neuroblastoma. N Engl J Med 2010; 363: 1324-34. <annotation><p><italic toggle="yes">(Among 222 patients with neuroblastoma treated with isoretinoin and dinutuximab [with GM-CSF and IL2] or placebo after induction therapy and hematopoietic cell transplant, event free and overall survival were greater with the addition of immunotherapy but adverse events were more common, including pain, hypotension, capillary leak syndrome and hypersensitivity reactions; ALT elevations above 5 times ULN occurred in 23% [vs 3% with isoretinoin alone]).</italic></p></annotation><pub-id pub-id-type="pmid">20879881</pub-id></mixed-citation>
+          </ref>
+          <ref id="Dinutuximab.R9">
+            <mixed-citation publication-type="journal">Simon T, Hero B, Faldum A, Handgretinger R, Schrappe M, Klingebiel T, Berthold F. Long term outcome of high-risk neuroblastoma patients after immunotherapy with antibody ch14.18 or oral metronomic chemotherapy. BMC Cancer 2011; 11: 21. <annotation><p><italic toggle="yes">(Long term follow up of 334 patients with neuroblastoma described previously [Simon 2004] found an improved long term overall survival rate associated with dinutuximab; no discussion of adverse side effects).</italic></p></annotation><pub-id pub-id-type="pmid">21244693</pub-id></mixed-citation>
+          </ref>
+          <ref id="Dinutuximab.R10">
+            <mixed-citation publication-type="journal">Ploessl C, Pan A, Maples KT, Lowe DK. Dinutuximab: An anti-GD2 monoclonal antibody for high-risk neuroblastoma. Ann Pharmacother 2016; 50: 416-22. <annotation><p><italic toggle="yes">(Review of the pharmacology, mechanism of action, clinical efficacy and safety of dinutuximab discusses its adverse events in detail and mentions that ALT elevations arise in 56% of patients, but does not mention clinical apparent hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">26917818</pub-id></mixed-citation>
+          </ref>
+          <ref id="Dinutuximab.R11">
+            <mixed-citation publication-type="journal">In brief: Dinutuximab (Unituxin) for high-risk neuroblastoma. Med Lett Drugs Ther 2016; 58 (1491): e48. <annotation><p><italic toggle="yes">(Brief review of the mechanism of action, clinical efficacy, safety and costs of dinutuximab shortly after its approval for use in the US; mentions severe adverse events such as infusion reactions, pain, peripheral neuropathy, capillary leak syndrome, visual disturbances, hemolytic uremic syndrome, but does not mention hepatotoxicity or ALT elevations). </italic></p></annotation><pub-id pub-id-type="pmid">27027692</pub-id></mixed-citation>
+          </ref>
+          <ref id="Dinutuximab.R12">
+            <mixed-citation publication-type="journal">Ding YY, Panzer J, Maris JM, Casta&#x000f1;eda A, Gomez-Chiari M, Mora J. Transverse myelitis as an unexpected complication following treatment with dinutuximab in pediatric patients with high-risk neuroblastoma: a case series. Pediatr Blood Cancer 2018; 65. Epub 2017 Jul 27. <annotation><p><italic toggle="yes">(Three children with neuroblastoma developed lower extremity weakness, numbness and tingling progressing to paralysis [two with bladder and anal sphincter involvement], with transverse myelitis shown by MR imaging shortly after a second course of dinutuximab, recovering symptomatically and radiologically with corticosteroid therapy; no mention of liver injury or ALT elevations).</italic></p></annotation><pub-id pub-id-type="pmid">28748630</pub-id></mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec id="Dinutuximab.OTHER_REFERENCE_LINKS" sec-type="link-group">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=Dinutuximab/AE+AND+Human%5BMH%5D+AND+(jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI+OR+hepatitis,+toxic%5BMH%5D)">Recent References on Dinutuximab: from PubMed.gov</ext-link>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Dinutuximab">Trials on Dinutuximab: from ClinicalTrials.gov</ext-link>
+            </p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

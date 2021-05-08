@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Duvelisib" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Duvelisib</book-part-id>
+      <title-group>
+        <title>Duvelisib</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>23</day>
+          <month>1</month>
+          <year>2019</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Dutasteride" document-type="chapter">Dutasteride</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Echinacea" document-type="chapter">Echinacea</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Duvelisib.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Duvelisib.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Duvelisib is an oral inhibitor of phosphatidylinositol 3-kinase (PI3K) that is approved for use in relapsed or refractory chronic lymphocytic leukemia (CLL) and for follicular lymphoma. Duvelisib is associated with a high rate of serum enzyme elevations during therapy and with occasional concurrent rise in serum bilirubin and is a suspected but not proven cause of clinically apparent acute liver injury.</p>
+        </sec>
+        <sec id="Duvelisib.Background">
+          <title>Background</title>
+          <p>Duvelisib (doo" ve lis' ib) is an orally available, small molecule inhibitor of the delta and gamma isoforms of phosphatidylinositol 3-kinase (PI3K &#x003b4;/&#x003bb;), which is an essential component in the B cell signaling pathways that drive migration of B cells to lymph nodes and bone marrow. Inhibition of this pathway inhibits B cell chemotaxis and adherence and reduces cell viability. This pathway is upregulated in many B cell malignancies and has been shown to be critical for proliferation and survival of leukemia and lymphomatous malignant B lymphocytes. Duvelisib was approved for use in the United States in 2018 as therapy for relapsed or refractory CLL and small cell lymphoma (SCL) as well as refractory forms of follicular lymphoma. Duvelisib is available as capsules of 15 and 25 mg under the brand name Copiktra. The recommended dose is 25 orally mg twice daily until disease progression or unacceptable toxicity. Side effects are common but most often mild-to-moderate in severity, and include diarrhea, neutropenia, rash, fatigue, fever, cough, musculoskeletal pain and anemia. Common laboratory abnormalities can include cytopenias, liver enzyme elevations, hyper- or hypo-glycemia, and hyponatremia. Severe adverse events can include severe diarrhea or colitis, pneumonitis, intestinal perforation, severe skin rash, anaphylaxis, neutropenia and embryo-fetal toxicity.</p>
+        </sec>
+        <sec id="Duvelisib.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>In clinical trials of duvelisib in patients with CLL and lymphoma, the rates of serum enzyme elevations during therapy ranged from 39% to 57% and were above 5 times the ULN in 3% to 8%. Serum enzyme elevations typically arose within 4 to 12 weeks of starting therapy and usually resolved rapidly with dose reduction or temporary discontinuation. In many instances, the serum aminotransferase elevations resolved spontaneously and most (but not all) patients were able to restart duvelisib without recurrence. While there were no reported cases of clinically apparent liver injury with jaundice, up to 35% of patients discontinued duvelisib because of serum enzyme elevations and all patients were followed carefully during treatment. In one study, 2% of treated patients developed concurrent elevations in serum aminotransferase and bilirubin levels but there were no episodes considered to be clinically apparent liver injury and no deaths due to liver failure. Duvelisib has not been widely used since its approval, and its potential for causing acute clinically apparent liver injury with jaundice has not been well defined. Because, duvelisib affects B cell function, it may also be capable of inducing reactivation of hepatitis B, although in published trials of the agent, reactivation was not reported.</p>
+          <p>Likelihood score: E* (unproved but suspected cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Duvelisib.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The reason why duvelisib causes serum enzyme elevations is not known, but may be a direct toxicity to hepatocytes caused by inhibition of PI3K activity or the result of change in B cell activity and caused by induction of immune mediated liver injury as has been reported with other small molecule PI3K inhibitors such as idelalisib. Duvelisib is metabolized primarily in the liver by cytochrome P450 (CYP 3A4) and is susceptible to drug-drug interactions with strong inducers or inhibitors of CYP 3A4 and itself may inhibit CYP 3A4 activity and affect plasma levels of other drugs metabolized by this microsomal enzyme.</p>
+        </sec>
+        <sec id="Duvelisib.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>Serum enzyme elevations are not uncommon during cancer chemotherapy with duvelisib and may occasionally be dose limiting. Duvelisib should not be used with other agents with hepatotoxic potential. Furthermore, regular monitoring of liver tests is recommended during duvelisib therapy, with more frequent monitoring if serum aminotransferase values rise. Duvelisib should be held if ALT or AST values rise above 5 times the ULN, and treatment resumed only if values fall below 3 times ULN and then with careful monitoring or at a reduced dose. Elevations of aminotransferase values of more than 20 times the ULN, or appearance of jaundice or symptoms should trigger permanent discontinuation. Corticosteroids are often used if the liver injury does not resolve rapidly with stopping duvelisib and continuing the corticosteroids may help prevent recurrence of injury with restarting therapy. There is no known cross sensitivity to hepatic injury among the different protein kinase inhibitors.</p>
+          <p>Drug Class: <related-object source-id="livertox" document-id="AntineoplasticAgents">Antineoplastic Agents</related-object>, <related-object source-id="livertox" document-id="ProteinKinaseInhibit">Protein Kinase Inhibitors</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Duvelisib.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <boxed-text position="anchor" id="Duvelisib.BPI" orientation="portrait">
+          <p>
+            <bold>REPRESENTATIVE TRADE NAMES</bold>
+          </p>
+          <p>Duvelisib &#x02013; Copiktra&#x000ae;</p>
+          <p>
+            <bold>DRUG CLASS</bold>
+          </p>
+          <p>Antineoplastic Agents</p>
+          <p>
+            <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Duvelisib">COMPLETE LABELING</ext-link>
+          </p>
+          <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+        </boxed-text>
+      </sec>
+      <sec id="Duvelisib.CHEMICAL_FORMULA_AND_STRUCTURE">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Duvelisib.T1" position="anchor" orientation="portrait">
+          <table>
+            <thead>
+              <tr>
+                <th id="hd_h_Duvelisib.T1_1_1_1_1" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Duvelisib.T1_1_1_1_2" rowspan="1" colspan="1">CAS REGISTRY NO.</th>
+                <th id="hd_h_Duvelisib.T1_1_1_1_3" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Duvelisib.T1_1_1_1_4" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Duvelisib.T1_1_1_1_1" rowspan="1" colspan="1">Duvelisib</td>
+                <td headers="hd_h_Duvelisib.T1_1_1_1_2" rowspan="1" colspan="1">
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://164117634">1201438-56-3</ext-link>
+                </td>
+                <td headers="hd_h_Duvelisib.T1_1_1_1_3" rowspan="1" colspan="1">C22-H17-Cl-N6-O</td>
+                <td headers="hd_h_Duvelisib.T1_1_1_1_4" rowspan="1" colspan="1">
+                  <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Duvelisib_structure.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait">
+                    <alt-text>Duvelisib chemical structure</alt-text>
+                  </graphic>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Duvelisib.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 23 January 2019</p>
+        <p>Abbreviations: PI3K, phosphatidylinositol 3-kinase; CLL, chronic lymphocytic leukemia; SLL, small cell lymphocytic lymphoma.</p>
+        <ref-list id="Duvelisib.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Duvelisib.R1">
+            <mixed-citation publication-type="other">Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999.<annotation><p><italic toggle="yes">(Review of hepatotoxicity published in 1999 before the availability of tyrosine kinase receptor inhibitors).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Duvelisib.R2">
+            <mixed-citation publication-type="other">DeLeve LD. Kinase inhibitors. Cancer chemotherapy. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013, p. 556.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of cancer chemotherapeutic agents; does not discuss duvelisib).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Duvelisib.R3">
+            <mixed-citation publication-type="other">Wellstein A, Giaccone G, Atkins MB, Sausville EA. Pathway-targeted therapies: monoclonal antibodies, protein kinase inhibitors, and various small molecules. In, Brunton LL, Hilal-Dandan R, Knollman BC, eds. Goodman &#x00026; Gilman's the pharmacological basis of therapeutics. 13th ed. New York: McGraw-Hill, 2018, pp. 1203-36.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Duvelisib.R4">
+            <mixed-citation publication-type="other">
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.accessdata.fda.gov/scripts/cder/daf/">https://www.accessdata.fda.gov/scripts/cder/daf/</ext-link>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(FDA Drug Approvals website that has product labels [package inserts], letters of approval and full FDA scientific review of the new drug application for safety and efficacy; mentions that duvelisib has serious hepatotoxicity and that review of laboratory test results found 8 cases of concomitant elevations in ALT or AST with bilirubin that was twice normal; ALT elevations arose in 43% of treated patients and to above 5 times ULN in 8% although there were no deaths from hepatic failure).</italic>
+                </p>
+              </annotation>
+            </mixed-citation>
+          </ref>
+          <ref id="Duvelisib.R5">
+            <mixed-citation publication-type="journal">Furman RR, Sharman JP, Coutre SE, Cheson BD, Pagel JM, Hillmen P, Barrientos JC, et al. Idelalisib and rituximab in relapsed chronic lymphocytic leukemia. N Engl J Med 2014; 370: 997-1007. <annotation><p><italic toggle="yes">(Among 220 patients with relapsed CLL treated in a placebo controlled trial, progression free survival improved with idelalisib and rituximab compared to rituximab alone, but side effects were more common with the combination including ALT or AST elevations [35% vs 19%] which were above 5 times ULN in 5% vs 1% and led to drug discontinuations in some patients, but there were no clinically apparent cases of liver injury).</italic></p></annotation><pub-id pub-id-type="pmid">24450857</pub-id></mixed-citation>
+          </ref>
+          <ref id="Duvelisib.R6">
+            <mixed-citation publication-type="journal">Lampson BL, Kasar SN, Matos TR, Morgan EA, Rassenti L, Davids MS, Fisher DC, et al. Idelalisib given front-line for treatment of chronic lymphocytic leukemia causes frequent immune-mediated hepatotoxicity. Blood 2016; 128: 195-203. <annotation><p><italic toggle="yes">(Among 24 patients with relapsed or refractory CLL treated with idelalisib, 19 [79%] developed ALT elevations which were above 5 times ULN in 13 [54%], usually within 28 days of starting therapy and sometimes worsening despite drug discontinuation leading to corticosteroid therapy in 16 subjects; rechallenge with idelalisib led to recurrence within a few days, but abnormalities were mild and tolerable in those on corticosteroids).</italic></p></annotation><pub-id pub-id-type="pmid">27247136</pub-id></mixed-citation>
+          </ref>
+          <ref id="Duvelisib.R7">
+            <mixed-citation publication-type="journal">Brown JR. The PI3K pathway: clinical inhibition in chronic lymphocytic leukemia. Semin Oncol 2016; 43: 260-4. <annotation><p><italic toggle="yes">(Review of the role of aberrant PI3K signaling in cancer with delta and lambda isoenzymes predominantly expressed in hematopoietic cells making them candidates for targeted therapy in B cell related leukemias and lymphomas).</italic></p></annotation><pub-id pub-id-type="pmid">27040704</pub-id></mixed-citation>
+          </ref>
+          <ref id="Duvelisib.R8">
+            <mixed-citation publication-type="journal">Flinn IW, Patel M, Oki Y, Horwitz S, Foss FF, Allen K, Douglas M, et al. Duvelisib, an oral dual PI3K-&#x003b4;,&#x003b3; inhibitor, shows clinical activity in indolent non-Hodgkin lymphoma in a phase 1 study. Am J Hematol 2018; 93: 1311-7. <annotation><p><italic toggle="yes">(Among 31 patients with refractory, indolent non-Hodgkin lymphoma treated with 8 different doses of duvelisib, the overall response rate was 58% and dose limiting toxicities were rash and ALT or AST elevations, which arose in 57% of patients, and to above 5 times ULN in 43% with 11 dose modifications and 4 discontinuations but no instance of enzyme elevations with jaundice).</italic></p></annotation><pub-id pub-id-type="pmid">30033575</pub-id></mixed-citation>
+          </ref>
+          <ref id="Duvelisib.R9">
+            <mixed-citation publication-type="journal">Flinn IW, Hillmen P, Montillo M, Nagy Z, Ill&#x000e9;s &#x000c1;, Etienne G, Delgado J, et al. The phase 3 DUO trial: duvelisib vs ofatumumab in relapsed and refractory CLL/SLL. Blood 2018; 132: 2446-55. <annotation><p><italic toggle="yes">(Among 159 patients with relapsed or refractory CLL or SLL treated with duvelisib [25 mg twice daily] or ofatumumab [iv every 3 weeks], progression free survival was greater with duvelisib [13.3 vs 9.9 months] and adverse reactions included diarrhea [51%], neutropenia [33%], fever [29%], nausea [23%], cough [21%], fatigue [13%], rash [10%] and ALT elevations above 5 times ULN [3%]).</italic></p></annotation><pub-id pub-id-type="pmid">30287523</pub-id></mixed-citation>
+          </ref>
+          <ref id="Duvelisib.R10">
+            <mixed-citation publication-type="journal">O'Brien S, Patel M, Kahl BS, Horwitz SM, Foss FM, Porcu P, Jones J, et al. Duvelisib, an oral dual PI3K-&#x003b4;,&#x003b3; inhibitor, shows clinical and pharmacodynamic activity in chronic lymphocytic leukemia and small lymphocytic lymphoma in a phase 1 study. Am J Hematol 2018; 93: 1318-26. <annotation><p><italic toggle="yes">(Among 79 patients with CLL treated with duvelisib in multiple dose levels [8 to 75 mg twice daily] given in 28-day cycles, the overall response rate was 56% [in relapsed or refractory patients] and 83% [in treatment-na&#x000ef;ve], and adverse events were common including ALT elevations in 31% which were above 5 times ULN in 11%).</italic></p></annotation><pub-id pub-id-type="pmid">30094870</pub-id></mixed-citation>
+          </ref>
+          <ref id="Duvelisib.R11">
+            <mixed-citation publication-type="journal">Blair HA. Duvelisib: first global approval. Drugs 2018; 78: 1847-53. <annotation><p><italic toggle="yes">(Review of the mechanism of action, history of development, pharmacology, clinical efficacy and safety of duvelisib shortly after its approval as monotherapy for CLL and SLL; mentions that it has &#x0201c;manageable tolerability&#x0201d; and increased ALT and AST levels occur in 3% of patients).</italic></p></annotation><pub-id pub-id-type="pmid">30430368</pub-id></mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec id="Duvelisib.OTHER_REFERENCE_LINKS" sec-type="link-group">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=Duvelisib+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D%3A%222999/12/31%22%5BEDat%5D)">Recent References on Duvelisib: from PubMed.gov</ext-link>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Duvelisib">Trials on Duvelisib: from ClinicalTrials.gov</ext-link>
+            </p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

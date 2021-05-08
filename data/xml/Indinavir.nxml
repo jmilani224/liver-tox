@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Indinavir" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Indinavir</book-part-id>
+      <title-group>
+        <title>Indinavir</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>1</day>
+          <month>9</month>
+          <year>2017</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="IncretinBasedDrugs" document-type="chapter">Incretin-Based Drugs</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Indomethacin" document-type="chapter">Indomethacin</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Indinavir.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Indinavir.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Indinavir is an antiretroviral protease inhibitor used in the therapy and prevention of human immunodeficiency virus (HIV) infection and the acquired immunodeficiency syndrome (AIDS). Indinavir can cause transient and usually asymptomatic elevations in serum aminotransferase levels and mild elevations in indirect bilirubin concentration. Indinavir is a rare cause of clinically apparent, acute liver injury. In HBV or HCV coinfected patients, antiretroviral therapy with indinavir may result in an exacerbation of the underlying chronic hepatitis B or C.</p>
+        </sec>
+        <sec id="Indinavir.Background">
+          <title>Background</title>
+          <p>Indinavir (in din' a vir) is an antiretroviral protease inhibitor that acts by binding to the catalytic site of the HIV protease, thereby preventing the cleavage of viral polyprotein precursors into mature, functional proteins that are necessary for viral replication. Indinavir was approved for use in the United States in 1996 and continues to be commonly used in combination with other antiretroviral agents for the treatment of HIV infection. Indinavir is available under the brand name Crixivan in capsules of 100, 200 and 400 mg. Indinavir is typically used in combination with a low dose of ritonavir, which improves its pharmacokinetics. The recommended dosage of indinavir is 800 mg orally every 8 hours with or without ritonavir (usually 100 to 200 mg twice daily). Side effects can include gastrointestinal upset, nausea, diarrhea, back pain, fatigue and, with long term use, hyperlipidemia and lipodystrophy.</p>
+        </sec>
+        <sec id="Indinavir.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>Some degree of serum aminotransferase elevations occur in a high proportion of patients taking indinavir containing antiretroviral regimens. Moderate-to severe elevations in serum aminotransferase levels (&#x0003e;5 times the upper limit of normal) are found in 3% to 10% of patients, although rates may be higher in patients with HIV-HCV coinfection. These elevations are usually asymptomatic and self-limited and can resolve even with continuation of the medication. Indinavir therapy also causes increases in unconjugated (indirect) and total serum bilirubin that can manifest as jaundice in up to 10% of patients. These elevations are due to the inhibition of UDP glucuronyl transferase, the hepatic enzyme responsible for conjugation of bilirubin that is deficient in Gilbert syndrome. The hyperbilirubinemia is usually mild, the increases averaging 0.3-0.5 mg/dL, but can be more marked in patients with Gilbert syndrome with increases of 1.5 mg/dL or more and clinical jaundice. The jaundice, however, is not indicative of hepatic injury. Clinically apparent acute liver injury due to indinavir is rare. The few cases that have been reported have arisen after 1 to 8 weeks of starting indinavir, and the pattern of serum enzyme elevations has varied from hepatocellular to cholestatic. Signs of hypersensitivity (fever, rash, eosinophilia) are rare as is autoantibody formation. The acute liver injury due to indinavir is usually self-limited, but it can be severe, and isolated cases of acute liver failure have been reported. In addition, initiation of indinavir based highly active antiretroviral therapy can lead to exacerbation of an underlying chronic hepatitis B or C in coinfected individuals, typically arising 2 to 12 months after starting therapy and associated with a hepatocellular pattern of serum enzyme elevations and increases in serum levels of hepatitis B virus (HBV) DNA or hepatitis C virus (HCV) RNA. Indinavir therapy has not been clearly linked to lactic acidosis and acute fatty liver that is reported in association with several nucleoside analogue reverse transcriptase inhibitors.</p>
+          <p>Likelihood score: C (frequent cause of serum bilirubin elevations and probable cause of rare instances of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Indinavir.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The cause of the clinical hepatotoxicity from indinavir is only partially known. The indirect hyperbilirubinemia associated with indinavir use is caused by inhibition of hepatic conjugation of bilirubin, similar to what occurs in Gilbert syndrome and is not indicative of liver injury. Indinavir is extensively metabolized by the liver, largely by the cytochrome P450 system (CYP3A4), and toxic intermediates may be the cause of some liver injury. In patients with HIV infection who are coinfected with either HBV or HCV, initiation of potent antiretroviral therapy may be associated with flares of the underlying chronic hepatitis, which may be the result of reconstitution of the immune system, viral interactions or a direct effect of the drug.</p>
+        </sec>
+        <sec id="Indinavir.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>The severity of the liver injury from indinavir ranges from mild and transient enzyme elevations to more marked and symptomatic liver test abnormalities and, rarely, to acute hepatitis. Hepatic injury from indinavir is usually self-limited, but instances of acute liver failure and death have been reported. In the typical case, improvement starts within a few days of stopping therapy and recovery is rapid. Rechallenge may lead to recurrence and should be avoided. There is little evidence for cross reactivity to the hepatotoxicity of indinavir with other HIV protease inhibitors or antiretroviral agents. The exacerbation of hepatitis B or C that can occur with indinavir based antiretroviral therapies can be severe and lead to acute liver failure or progressive, end stage liver disease. Patients with HCV or HBV coinfection should be monitored prospectively for viral and serum aminotransferase levels and appropriate therapy instituted if possible.</p>
+          <p>References to indinavir are included with references to all the HIV protease inhibitors in the overview section of Protease Inhibitors (updated September 2017). Most of the HIV protease inhibitors in clinical use are proteinomimetic drugs and are structurally unrelated.</p>
+          <p>Drug Class: <related-object source-id="livertox" document-id="AntiviralAgents">Antiviral Agents</related-object>, Antiretroviral Agents</p>
+          <p>Other Drugs in the Subclass, <related-object source-id="livertox" document-id="HIVProteaseInhibitor">Protease Inhibitors</related-object>: <related-object source-id="livertox" document-id="AmprenavirFosampren">Amprenavir</related-object>, <related-object source-id="livertox" document-id="Atazanavir">Atazanavir</related-object>, <related-object source-id="livertox" document-id="Darunavir">Darunavir</related-object>, <related-object source-id="livertox" document-id="AmprenavirFosampren">Fosamprenavir</related-object>, <related-object source-id="livertox" document-id="Lopinavir">Lopinavir</related-object>, <related-object source-id="livertox" document-id="Nelfinavir">Nelfinavir</related-object>, <related-object source-id="livertox" document-id="Ritonavir">Ritonavir</related-object>, <related-object source-id="livertox" document-id="Saquinavir">Saquinavir</related-object>, <related-object source-id="livertox" document-id="Tipranavir">Tipranavir</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Indinavir.CASE_REPORTS">
+        <title>CASE REPORTS</title>
+        <sec id="Indinavir.Case_1._Indinavir_induced_acut">
+          <title>Case 1. Indinavir induced acute hepatitis.</title>
+          <p>[Modified from: Vergis E, Paterson DL, Singh N. Indinavir-associated hepatitis in patients with advanced HIV infection. Int J STD AIDS 1998; 9:53. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/pubmed/9518018">PubMed Citation</ext-link>]</p>
+          <p>A 46 year old man with HIV infection and AIDS (CD4 count 10 cells/&#x000b5;L) developed abdominal pain and nausea followed by jaundice 7 weeks after the addition of indinavir (800 mg three times daily) to a chronic antiretroviral regimen of zidovudine and didanosine. His serum enzymes were known to be normal one month before starting indinavir. His other medications included trimethoprim-sulfamethoxazole and desipramine which he had taken for at least 7 months. Serum bilirubin was 3.7 mg/dL, ALT 123 U/L, and alkaline phosphatase 136 U/L. Tests hepatitis B and C were negative. An ultrasound and CT scan of the abdomen revealed hepatomegaly, but no evidence of biliary obstruction. His antiretroviral medications were discontinued. A liver biopsy showed steatosis, eosinophilic degeneration, and fibrosis. Over the ensuing several days, the patient developed prolongation of the prothrombin time, massive ascites and anasarca requiring diuretics. His serum bilirubin peaked at 12.2 mg/dL before gradually returning to normal. Course of events and time to resolution were not provided.</p>
+          <sec id="Indinavir.Key_Points1">
+            <title>Key Points</title>
+            <table-wrap id="Indinavir.T1" position="anchor" orientation="portrait">
+              <table>
+                <tbody>
+                  <tr>
+                    <td rowspan="1" colspan="1">Medication:</td>
+                    <td rowspan="1" colspan="1">Indinavir (800 mg every 8 hours)</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Pattern:</td>
+                    <td rowspan="1" colspan="1">Mixed, modest enzyme elevations (R=2.9)</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Severity:</td>
+                    <td rowspan="1" colspan="1">4+ (evidence of hepatic failure with ascites and coagulopathy)</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Latency:</td>
+                    <td rowspan="1" colspan="1">46 days</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Recovery:</td>
+                    <td rowspan="1" colspan="1">Yes, time not given</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Other medications:</td>
+                    <td rowspan="1" colspan="1">Trimethoprim-sulfamethoxazole, zidovudine, didanosine, and desipramine</td>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Indinavir.Comment1">
+            <title>Comment</title>
+            <p>An example of possible acute idiosyncratic hepatocellular injury with onset after 7 weeks of starting indinavir, a severe course and protracted recovery. The possible role of zidovudine and didanosine cannot be excluded, particularly in view of the presentation with ascites and anasarca and the presence of steatosis on liver biopsy. Typically, attempts at reintroduction of the agents believed to be least likely the cause of the injury can help to define which drug was responsible.</p>
+          </sec>
+        </sec>
+        <sec id="Indinavir.Case_2._Fulminant_hepatic_fail">
+          <title>Case 2. Fulminant hepatic failure after indinavir.</title>
+          <p>[Modified from: Br&#x000e4;u N, Leaf HL, Wieczorek RL, Margolis DM. Severe hepatitis in three AIDS patients treated with indinavir. Lancet 1997; 349: 924-5. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/pubmed/9093260">PubMed Citation</ext-link>]</p>
+          <p>A 48 year old man with HIV-HBV infection developed abdominal pain and jaundice 10 days after indinavir (800 mg every 8 hours) was added to his zidovudine monotherapy, which he had been on for several years. He was known to have hepatitis B surface antigen (HBsAg) in serum, but had normal serum aminotransferase levels and no signs of chronic liver disease. Before starting indinavir his CD4 count was 11 cells/&#x000b5;L. He was also taking trimethoprim-sulfamethoxazole and fluconazole as prophylaxis, and doxepin and nortriptyline for chronic anxiety and depression. On presentation, physical examination was normal except for jaundice. His serum aminotransferase levels, which had been normal before starting indinavir, were markedly elevated and serum bilirubin 12.5 mg/dL (Table). Tests for hepatitis A and C were negative. Computed tomography of the abdomen was normal. A liver biopsy showed moderate microvesicular fat accumulation with marked fibrosis, and inflammatory infiltrates with eosinophils. Immunostains for HBsAg and HBcAg were positive. Lactate levels and HBV DNA levels were not provided. The findings were thought to be consistent with drug induced steatohepatitis in a cirrhotic liver. Despite withdrawal of all medication, the patient&#x02019;s liver disease worsened with progressive coagulopathy, hyperbilirubinaemia, ascites, and hepatorenal syndrome. He died 25 days after admission.</p>
+          <sec id="Indinavir.Key_Points2">
+            <title>Key Points</title>
+            <table-wrap id="Indinavir.T2" position="anchor" orientation="portrait">
+              <table>
+                <tbody>
+                  <tr>
+                    <td rowspan="1" colspan="1">Medication:</td>
+                    <td rowspan="1" colspan="1">Indinavir (800 mg every 8 hours)</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Pattern:</td>
+                    <td rowspan="1" colspan="1">Hepatocellular (R=15.4)</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Severity:</td>
+                    <td rowspan="1" colspan="1">5+ (death)</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Latency:</td>
+                    <td rowspan="1" colspan="1">10 days</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Recovery:</td>
+                    <td rowspan="1" colspan="1">No</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Other medications:</td>
+                    <td rowspan="1" colspan="1">Zidovudine, co-trimoxazole, nortriptyline, fluconazole, doxepin</td>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Indinavir.Laboratory_Values">
+            <title>Laboratory Values</title>
+            <table-wrap id="Indinavir.T3" position="anchor" orientation="portrait">
+              <table>
+                <thead>
+                  <tr>
+                    <th id="hd_h_Indinavir.T3_1_1_1_1" rowspan="1" colspan="1">Time After Starting</th>
+                    <th id="hd_h_Indinavir.T3_1_1_1_2" rowspan="1" colspan="1">Time After Stopping</th>
+                    <th id="hd_h_Indinavir.T3_1_1_1_3" rowspan="1" colspan="1">ALT<break/> (U/L)</th>
+                    <th id="hd_h_Indinavir.T3_1_1_1_4" rowspan="1" colspan="1">Alk P<break/> (U/L)</th>
+                    <th id="hd_h_Indinavir.T3_1_1_1_5" rowspan="1" colspan="1">Bilirubin (mg/dL)</th>
+                    <th id="hd_h_Indinavir.T3_1_1_1_6" rowspan="1" colspan="1">Other</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td headers="hd_h_Indinavir.T3_1_1_1_1" rowspan="1" colspan="1">0</td>
+                    <td headers="hd_h_Indinavir.T3_1_1_1_2" rowspan="1" colspan="1">0</td>
+                    <td headers="hd_h_Indinavir.T3_1_1_1_3" rowspan="1" colspan="1">28</td>
+                    <td headers="hd_h_Indinavir.T3_1_1_1_4" rowspan="1" colspan="1">99</td>
+                    <td headers="hd_h_Indinavir.T3_1_1_1_5" rowspan="1" colspan="1">0.5</td>
+                    <td headers="hd_h_Indinavir.T3_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Indinavir.T3_1_1_1_1" rowspan="1" colspan="1">10 days</td>
+                    <td headers="hd_h_Indinavir.T3_1_1_1_2" rowspan="1" colspan="1">0</td>
+                    <td headers="hd_h_Indinavir.T3_1_1_1_3" rowspan="1" colspan="1">690</td>
+                    <td headers="hd_h_Indinavir.T3_1_1_1_4" rowspan="1" colspan="1">145</td>
+                    <td headers="hd_h_Indinavir.T3_1_1_1_5" rowspan="1" colspan="1">17.4</td>
+                    <td headers="hd_h_Indinavir.T3_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Indinavir.T3_1_1_1_1" rowspan="1" colspan="1">5 weeks</td>
+                    <td headers="hd_h_Indinavir.T3_1_1_1_2" rowspan="1" colspan="1">4 weeks</td>
+                    <td headers="hd_h_Indinavir.T3_1_1_1_3" align="center" rowspan="1" colspan="1">-</td>
+                    <td headers="hd_h_Indinavir.T3_1_1_1_4" align="center" rowspan="1" colspan="1">-</td>
+                    <td headers="hd_h_Indinavir.T3_1_1_1_5" align="center" rowspan="1" colspan="1">-</td>
+                    <td headers="hd_h_Indinavir.T3_1_1_1_6" rowspan="1" colspan="1">Death</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Indinavir.T3_1_1_1_1 hd_h_Indinavir.T3_1_1_1_2" colspan="2" rowspan="1">
+                      <bold>Normal Values</bold>
+                    </td>
+                    <td headers="hd_h_Indinavir.T3_1_1_1_3" rowspan="1" colspan="1">
+                      <bold>&#x0003c;40</bold>
+                    </td>
+                    <td headers="hd_h_Indinavir.T3_1_1_1_4" rowspan="1" colspan="1">
+                      <bold>&#x0003c;130</bold>
+                    </td>
+                    <td headers="hd_h_Indinavir.T3_1_1_1_5" rowspan="1" colspan="1">
+                      <bold>&#x0003c;1.2</bold>
+                    </td>
+                    <td headers="hd_h_Indinavir.T3_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Indinavir.Comment2">
+            <title>Comment</title>
+            <p>Despite this case being considered evidence of indinavir hepatotoxicity, there are many other possibilities. Immune reconstitution with a severe flare of the underlying chronic hepatitis B is possible, although 10 days is quite rapid for this process, which generally occurs as CD4 counts rise and is accompanied by a rise and then fall in HBV DNA levels. Another possibility is lactic acidosis and hepatic failure due to mitochondrial injury caused by the zidovudine therapy, perhaps augmented by the recent addition of indinavir. Finally, fluconazole and trimethoprim sulfamethoxazole are both capable of causing an acute severe hepatitis that can be fatal; without information on the duration of therapy with these agents it is difficult to discount this possibility. Regardless of the mechanism, however, the addition of indinavir 10 days before the onset of symptoms suggests that it was responsible at least in part for the sudden appearance of acute liver failure.</p>
+          </sec>
+        </sec>
+      </sec>
+      <sec id="Indinavir.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <boxed-text position="anchor" id="Indinavir.BPI" orientation="portrait">
+          <p>
+            <bold>REPRESENTATIVE TRADE NAMES</bold>
+          </p>
+          <p>Indinavir &#x02013; Crixivan&#x000ae;</p>
+          <p>
+            <bold>DRUG CLASS</bold>
+          </p>
+          <p>Antiviral Agents</p>
+          <p>
+            <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Indinavir">COMPLETE LABELING</ext-link>
+          </p>
+          <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+        </boxed-text>
+      </sec>
+      <sec id="Indinavir.CHEMICAL_FORMULA_AND_STRUCTURE">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Indinavir.T4" position="anchor" orientation="portrait">
+          <table>
+            <thead>
+              <tr>
+                <th id="hd_h_Indinavir.T4_1_1_1_1" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Indinavir.T4_1_1_1_2" rowspan="1" colspan="1">CAS REGISTRY NUMBER</th>
+                <th id="hd_h_Indinavir.T4_1_1_1_3" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Indinavir.T4_1_1_1_4" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Indinavir.T4_1_1_1_1" rowspan="1" colspan="1">Indinavir</td>
+                <td headers="hd_h_Indinavir.T4_1_1_1_2" rowspan="1" colspan="1">
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135017560">157810-81-6</ext-link>
+                </td>
+                <td headers="hd_h_Indinavir.T4_1_1_1_3" rowspan="1" colspan="1">C36-H47-N5-O4.H2-O4-S</td>
+                <td headers="hd_h_Indinavir.T4_1_1_1_4" rowspan="1" colspan="1">
+                  <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Indinavir_Structure.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait">
+                    <alt-text>Indinavir Chemical Structure</alt-text>
+                  </graphic>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Indinavir.OTHER_REFERENCE_LINKS" sec-type="link-group">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=(Indinavir/AE)+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D%3A%222999/12/31%22%5BEDat%5D)">Recent References on Indinavir: from PubMed.gov</ext-link>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Indinavir">Trials on Indinavir: from ClinicalTrials.gov</ext-link>
+            </p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

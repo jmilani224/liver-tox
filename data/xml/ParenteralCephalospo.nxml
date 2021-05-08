@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="ParenteralCephalospo" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">ParenteralCephalospo</book-part-id>
+      <title-group>
+        <title>Cephalosporins, Parenteral</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>9</day>
+          <month>1</month>
+          <year>2017</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="OralCephalosporins" document-type="chapter">Cephalosporins, Oral</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Ceritinib" document-type="chapter">Ceritinib</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="ParenteralCephalospo.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="ParenteralCephalospo.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>The parenterally administered cephalosporins are widely used as broad spectrum antibiotics for moderate-to-severe infections with susceptible organisms. Despite their widescale use, cases of drug induced liver disease from the cephalosporins are very rare, with only isolated case reports having been published.</p>
+        </sec>
+        <sec id="ParenteralCephalospo.Background">
+          <title>Background</title>
+          <p>Parenterally administered cephalosporins include cefazolin (Ancef: 1st generation), cefepime (Maxipime: 4th), cefoperazone (Cefobid: 3rd), cefotaxime (Claforan: 3rd), cefoxitin (Mefoxin: 2nd), ceftaroline (Teflaro: 5th), ceftazidime (Ceptaz, Fortaz, Tazicef, Tazidime: 3rd), ceftibuten (3rd), ceftizoxime (Cefizox: 3rd), ceftolozane/tazobactam (Zerbaxa: 5th), ceftriaxone (Rocephin: 3rd), cefuroxime (Zinacef: 2nd), and cephradine (1st); the latter two are also available in oral formulations. Most of these cephalosporins can be given either intravenously or intramuscularly and are indicated for therapy of moderate-to-severe bacterial infections caused by susceptible organisms. Typical dose regimens in adults range from 250 mg, 500 mg, 1 gram or 2 grams every 6 to 12 hours for 7 to 14 days. The parenteral cephalosporins are widely used in medicine for serious infections and can be safely given to patients with advanced liver disease, dose modifications being required mainly for renal insufficiency. Many of these agents are also approved for use in children.</p>
+        </sec>
+        <sec id="ParenteralCephalospo.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>Parenteral administration of cephalosporins can be associated with minor elevations in serum aminotransferase and alkaline phosphatase values, but these are generally mild, transient and not associated with symptoms or development of more severe liver injury. The frequency of these elevations is reported to be as high as 11%, but varies depending upon the frequency of monitoring, duration of therapy, and nature and severity of the underlying illness. Clinically apparent liver injury from parenteral cephalosporin administration is rare, and not all of the formulations have been linked to cases of liver injury. Cefazolin has been most frequently linked to cholestatic jaundice, but it is also one of the most frequently used cephalosporins. The clinical pattern of injury suggests that hepatotoxicity is largely a class effect from the cephalosporins, even though it is idiosyncratic and rare. The typical latency period is 1 to 4 weeks with an abrupt onset of liver injury. Symptoms and jaundice can arise after the course of antibiotics and typically consist of nausea, abdominal pain, pruritus and jaundice. The pattern of serum enzyme elevations is usually described as cholestatic, but mixed and hepatocellular instances have been reported. Liver injury is often accompanied by fever, rash and eosinophilia or other signs and symptoms of hypersensitivity. A history of penicillin allergy is not common, but the liver injury resembles that associated with penicillin hepatotoxicity.</p>
+          <p>Likelihood score: B (cephalosporins as a class are very likely but rare causes of clinically apparent liver injury, the association having been made largely with the most frequently used agents, such as cefazolin, cephalexin and ceftriaxone).</p>
+        </sec>
+        <sec id="ParenteralCephalospo.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The mechanism of hepatic injury due to cephalosporins is unknown, but believed to be hypersensitivity, similar to that of other penicillins.</p>
+        </sec>
+        <sec id="ParenteralCephalospo.Outcome_and_Managem">
+          <title>Outcome and Management</title>
+          <p>In most case reports, recovery has been rapid within 4 to 8 weeks, with residual injury or persistent serum enzyme elevations. Among the few cases reported, none have been fatal, although in some complicated cases the hepatic injury and cholestasis may have contributed to the mortality from the underlying illness.</p>
+          <p>References to the safety and potential hepatotoxicity of parenteral cephalosporins are provided in the introductory Overview section on Cephalosporins.</p>
+          <p>Drug Class: Antiinfective Agents, <related-object source-id="livertox" document-id="Cephalosporins">Cephalosporins</related-object></p>
+        </sec>
+      </sec>
+      <sec id="ParenteralCephalospo.CASE_REPORT_Parente">
+        <title>CASE REPORT</title>
+        <sec id="ParenteralCephalospo.Case_1._Cholestatic">
+          <title>Case 1. Cholestatic hepatitis after single intravenous infusion of cefazolin.</title>
+          <p>[Modified from a case in the database of the Drug-Induced Liver Injury Network]</p>
+          <p>A 60 year old man received a single iv infusion of cefazolin during outpatient surgery and developed symptoms of liver disease 3 days later. He was healthy without major medical illnesses when he injured his shoulder while playing hockey. Approximately 2 months later, he underwent outpatient surgical repair of a torn right supraspinatus muscle under general anesthesia using inhaled nitrous oxide with intravenous propofol, fentanyl and midazolam. He also received a single intravenous infusion of 2 grams of cefazolin (a first generation parenteral cephalosporin) for prophylaxis against infection. Other perioperative medications included dimenhydrinate (Dramamine) and hydromorphone. The surgery lasted 5 hours and he recovered without incident, being sent home the same day with a prescription for a combination of acetaminophen (500 mg) and codeine (5 mg) 2 or 3 times daily for pain control, which he took as directed. Three days after surgery, he developed nausea and pruritus and 2 days later noted dark urine and jaundice. On testing, he had moderate elevations in serum aminotransferase and alkaline phosphatase levels and hyperbilirubinemia (Table). He was admitted for evaluation. His past medical history was remarkable for several previous orthopedic procedures. He had a history of asbestos exposure and mild chronic bronchitis for which he used albuterol by inhaler irregularly. He took occasional ibuprofen for muscle aches. He denied alcohol use or exposure to viral hepatitis. On admission to the hospital, he had mild eosinophilia (~640 cells/&#x003bc;l), but no rash or fever. Tests for hepatitis A, B and C were negative as well as autoantibodies. Ultrasound of the abdomen was normal. Importantly, review of two previous surgeries showed that he had received cefazolin at the time of both, and had jaundice following the second surgery that had been attributed to &#x0201c;halothane.&#x0201d; Careful review of anesthesia records showed no exposure to halogenated anesthetics during this third surgery; the names of the inhalational agent used during previous surgeries were not available.</p>
+          <sec id="ParenteralCephalospo.Key_Points">
+            <title>Key Points</title>
+            <table-wrap id="ParenteralCephalospo.T1" position="anchor" orientation="portrait">
+              <table>
+                <tbody>
+                  <tr>
+                    <td rowspan="1" colspan="1">Medication:</td>
+                    <td rowspan="1" colspan="1">Cefazolin, 2 g iv at time of surgery</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Pattern:</td>
+                    <td rowspan="1" colspan="1">Mixed &#x02192; cholestatic (R=2.2&#x02192;0.9)</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Severity:</td>
+                    <td rowspan="1" colspan="1">3+ (jaundice and hospitalization)</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Latency:</td>
+                    <td rowspan="1" colspan="1">Three days</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Recovery:</td>
+                    <td rowspan="1" colspan="1">Complete 8 weeks</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Other medications:</td>
+                    <td rowspan="1" colspan="1">Chronically, salbutamol and ibuprofen, perioperatively nitrous oxide, fentanyl, propofol, midazolam, dramamine, acetaminophen with codeine</td>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="ParenteralCephalospo.Laboratory_Values">
+            <title>Laboratory Values</title>
+            <table-wrap id="ParenteralCephalospo.T2" position="anchor" orientation="portrait">
+              <table>
+                <thead>
+                  <tr>
+                    <th id="hd_h_ParenteralCephalospo.T2_1_1_1_1" rowspan="1" colspan="1">Time After Starting</th>
+                    <th id="hd_h_ParenteralCephalospo.T2_1_1_1_2" rowspan="1" colspan="1">Time After Stopping</th>
+                    <th id="hd_h_ParenteralCephalospo.T2_1_1_1_3" rowspan="1" colspan="1">ALT (U/L)</th>
+                    <th id="hd_h_ParenteralCephalospo.T2_1_1_1_4" rowspan="1" colspan="1">Alk P (U/L)</th>
+                    <th id="hd_h_ParenteralCephalospo.T2_1_1_1_5" rowspan="1" colspan="1">Bilirubin (mg/dL)</th>
+                    <th id="hd_h_ParenteralCephalospo.T2_1_1_1_6" rowspan="1" colspan="1">Other</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td headers="hd_h_ParenteralCephalospo.T2_1_1_1_1" rowspan="1" colspan="1">Pre</td>
+                    <td headers="hd_h_ParenteralCephalospo.T2_1_1_1_2" rowspan="1" colspan="1">Pre</td>
+                    <td headers="hd_h_ParenteralCephalospo.T2_1_1_1_3" rowspan="1" colspan="1">24</td>
+                    <td headers="hd_h_ParenteralCephalospo.T2_1_1_1_4" rowspan="1" colspan="1">65</td>
+                    <td headers="hd_h_ParenteralCephalospo.T2_1_1_1_5" rowspan="1" colspan="1">0.4</td>
+                    <td headers="hd_h_ParenteralCephalospo.T2_1_1_1_6" rowspan="1" colspan="1">Presurgery evaluation</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_ParenteralCephalospo.T2_1_1_1_1 hd_h_ParenteralCephalospo.T2_1_1_1_2 hd_h_ParenteralCephalospo.T2_1_1_1_3 hd_h_ParenteralCephalospo.T2_1_1_1_4 hd_h_ParenteralCephalospo.T2_1_1_1_5 hd_h_ParenteralCephalospo.T2_1_1_1_6" colspan="6" rowspan="1">Orthopedic surgery under nitrous oxide and propofol, and iv cefazolin (2 g)</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_ParenteralCephalospo.T2_1_1_1_1" rowspan="1" colspan="1">7 days</td>
+                    <td headers="hd_h_ParenteralCephalospo.T2_1_1_1_2" rowspan="1" colspan="1">6 days</td>
+                    <td headers="hd_h_ParenteralCephalospo.T2_1_1_1_3" rowspan="1" colspan="1">194</td>
+                    <td headers="hd_h_ParenteralCephalospo.T2_1_1_1_4" rowspan="1" colspan="1">309</td>
+                    <td headers="hd_h_ParenteralCephalospo.T2_1_1_1_5" rowspan="1" colspan="1">5.7</td>
+                    <td headers="hd_h_ParenteralCephalospo.T2_1_1_1_6" rowspan="1" colspan="1">10% eosinophils</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_ParenteralCephalospo.T2_1_1_1_1" rowspan="1" colspan="1">8 days</td>
+                    <td headers="hd_h_ParenteralCephalospo.T2_1_1_1_2" rowspan="1" colspan="1">7 days</td>
+                    <td headers="hd_h_ParenteralCephalospo.T2_1_1_1_3" rowspan="1" colspan="1">192</td>
+                    <td headers="hd_h_ParenteralCephalospo.T2_1_1_1_4" rowspan="1" colspan="1">240</td>
+                    <td headers="hd_h_ParenteralCephalospo.T2_1_1_1_5" rowspan="1" colspan="1">5.3</td>
+                    <td headers="hd_h_ParenteralCephalospo.T2_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_ParenteralCephalospo.T2_1_1_1_1" rowspan="1" colspan="1">11 days</td>
+                    <td headers="hd_h_ParenteralCephalospo.T2_1_1_1_2" rowspan="1" colspan="1">10 days</td>
+                    <td headers="hd_h_ParenteralCephalospo.T2_1_1_1_3" rowspan="1" colspan="1">193</td>
+                    <td headers="hd_h_ParenteralCephalospo.T2_1_1_1_4" rowspan="1" colspan="1">358</td>
+                    <td headers="hd_h_ParenteralCephalospo.T2_1_1_1_5" rowspan="1" colspan="1">4.4</td>
+                    <td headers="hd_h_ParenteralCephalospo.T2_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_ParenteralCephalospo.T2_1_1_1_1" rowspan="1" colspan="1">2 weeks</td>
+                    <td headers="hd_h_ParenteralCephalospo.T2_1_1_1_2" rowspan="1" colspan="1">13 days</td>
+                    <td headers="hd_h_ParenteralCephalospo.T2_1_1_1_3" rowspan="1" colspan="1">116</td>
+                    <td headers="hd_h_ParenteralCephalospo.T2_1_1_1_4" rowspan="1" colspan="1">385</td>
+                    <td headers="hd_h_ParenteralCephalospo.T2_1_1_1_5" rowspan="1" colspan="1">4.3</td>
+                    <td headers="hd_h_ParenteralCephalospo.T2_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_ParenteralCephalospo.T2_1_1_1_1" rowspan="1" colspan="1">3 weeks</td>
+                    <td headers="hd_h_ParenteralCephalospo.T2_1_1_1_2" rowspan="1" colspan="1">20 days</td>
+                    <td headers="hd_h_ParenteralCephalospo.T2_1_1_1_3" rowspan="1" colspan="1">92</td>
+                    <td headers="hd_h_ParenteralCephalospo.T2_1_1_1_4" rowspan="1" colspan="1">373</td>
+                    <td headers="hd_h_ParenteralCephalospo.T2_1_1_1_5" rowspan="1" colspan="1">2.9</td>
+                    <td headers="hd_h_ParenteralCephalospo.T2_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_ParenteralCephalospo.T2_1_1_1_1" rowspan="1" colspan="1">4 weeks</td>
+                    <td headers="hd_h_ParenteralCephalospo.T2_1_1_1_2" rowspan="1" colspan="1">27 days</td>
+                    <td headers="hd_h_ParenteralCephalospo.T2_1_1_1_3" rowspan="1" colspan="1">92</td>
+                    <td headers="hd_h_ParenteralCephalospo.T2_1_1_1_4" rowspan="1" colspan="1">293</td>
+                    <td headers="hd_h_ParenteralCephalospo.T2_1_1_1_5" rowspan="1" colspan="1">1.4</td>
+                    <td headers="hd_h_ParenteralCephalospo.T2_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_ParenteralCephalospo.T2_1_1_1_1" rowspan="1" colspan="1">2 months</td>
+                    <td headers="hd_h_ParenteralCephalospo.T2_1_1_1_2" rowspan="1" colspan="1">2 months</td>
+                    <td headers="hd_h_ParenteralCephalospo.T2_1_1_1_3" rowspan="1" colspan="1">62</td>
+                    <td headers="hd_h_ParenteralCephalospo.T2_1_1_1_4" rowspan="1" colspan="1">97</td>
+                    <td headers="hd_h_ParenteralCephalospo.T2_1_1_1_5" rowspan="1" colspan="1">0.8</td>
+                    <td headers="hd_h_ParenteralCephalospo.T2_1_1_1_6" rowspan="1" colspan="1">No symptoms</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_ParenteralCephalospo.T2_1_1_1_1" rowspan="1" colspan="1">8 months</td>
+                    <td headers="hd_h_ParenteralCephalospo.T2_1_1_1_2" rowspan="1" colspan="1">8 months</td>
+                    <td headers="hd_h_ParenteralCephalospo.T2_1_1_1_3" rowspan="1" colspan="1">20</td>
+                    <td headers="hd_h_ParenteralCephalospo.T2_1_1_1_4" rowspan="1" colspan="1">60</td>
+                    <td headers="hd_h_ParenteralCephalospo.T2_1_1_1_5" rowspan="1" colspan="1">0.6</td>
+                    <td headers="hd_h_ParenteralCephalospo.T2_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_ParenteralCephalospo.T2_1_1_1_1 hd_h_ParenteralCephalospo.T2_1_1_1_2" colspan="2" rowspan="1">
+                      <bold>Normal Values</bold>
+                    </td>
+                    <td headers="hd_h_ParenteralCephalospo.T2_1_1_1_3" rowspan="1" colspan="1">
+                      <bold>&#x0003c;40</bold>
+                    </td>
+                    <td headers="hd_h_ParenteralCephalospo.T2_1_1_1_4" rowspan="1" colspan="1">
+                      <bold>&#x0003c;140</bold>
+                    </td>
+                    <td headers="hd_h_ParenteralCephalospo.T2_1_1_1_5" rowspan="1" colspan="1">
+                      <bold>&#x0003c;1.2</bold>
+                    </td>
+                    <td headers="hd_h_ParenteralCephalospo.T2_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="ParenteralCephalospo.Comment">
+            <title>Comment</title>
+            <p>Postoperative jaundice can be caused by sepsis, hypotension, viral hepatitis, benign postoperative cholestasis or anesthetic induced hepatotoxicity. Less well defined is postoperative liver disease due to other medications given at or around the time of surgery. In this instance, multiple medications were given in addition to inhaled nitrous oxide, but no halogenated anesthetics such as halothane, isoflurane, enflurane, desflurane or sevoflurane. In addition, the pattern of liver injury was typical of cephalosporins with short latency period, eosinophilia, cholestatic pattern of enzyme elevations and mild, self-limited course. Halothane hepatitis typically causes fever and is associated with a hepatocellular pattern of injury. Acetaminophen generally causes liver injury only when given in doses above 4 grams daily and causes marked aminotransferase elevations with minimal changes in alkaline phosphatase levels. Nitrous oxide and propofol have not been convincingly linked to drug induced liver injury. A single, intravenous administration of a cephalosporin at the time of outpatient surgery may be a more common cause of jaundice and liver injury than is currently thought.</p>
+          </sec>
+        </sec>
+      </sec>
+      <sec id="ParenteralCephalospo.CHEMICAL_FORMULA_AN">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="ParenteralCephalospo.T3" position="anchor" orientation="portrait">
+          <table>
+            <thead>
+              <tr>
+                <th id="hd_h_ParenteralCephalospo.T3_1_1_1_1" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_ParenteralCephalospo.T3_1_1_1_2" rowspan="1" colspan="1">CAS REGISTRY NO</th>
+                <th id="hd_h_ParenteralCephalospo.T3_1_1_1_3" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_ParenteralCephalospo.T3_1_1_1_4" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_ParenteralCephalospo.T3_1_1_1_1" rowspan="1" colspan="1">Cefazolin Sodium</td>
+                <td headers="hd_h_ParenteralCephalospo.T3_1_1_1_2" rowspan="1" colspan="1">
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://134996986">27164-46-1</ext-link>
+                </td>
+                <td headers="hd_h_ParenteralCephalospo.T3_1_1_1_3" rowspan="1" colspan="1">C14-H13-N8-Na-O4-S3<break/> C14-H13-N8-O4-S3.Na<break/> C14-H14-N8-O4-S3.Na</td>
+                <td headers="hd_h_ParenteralCephalospo.T3_1_1_1_4" rowspan="1" colspan="1">
+                  <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Cefazolin_Sodium_Structure.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait">
+                    <alt-text>Cefazolin sodium chemical structure</alt-text>
+                  </graphic>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

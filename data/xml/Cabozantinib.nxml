@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Cabozantinib" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Cabozantinib</book-part-id>
+      <title-group>
+        <title>Cabozantinib</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>4</day>
+          <month>1</month>
+          <year>2017</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Cabazitaxel" document-type="chapter">Cabazitaxel</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Caffeine" document-type="chapter">Caffeine</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Cabozantinib.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Cabozantinib.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Cabozantinib is orally available kinase inhibitor and antineoplastic agent that is used in treatment of advanced, metastatic medullary thyroid cancer and refractory renal cell carcinoma. Cabozantinib is associated with a low rate of serum enzyme elevations during treatment and has been implicated with rare instances of clinically apparent, acute liver injury, some of which have been severe.</p>
+        </sec>
+        <sec id="Cabozantinib.Background">
+          <title>Background</title>
+          <p>Cabozantinib (ka" boe zan' ti nib) is an orally available, small molecule, multi-kinase inhibitor with activity against hepatocyte growth factor receptor (MET), vascular endothelial growth factor receptor 2 (VEGFR-2), and rearranged during transfection (RET), cell surface tyrosine kinase receptors which are overexpressed in several forms of cancer. Cabozantinib has been evaluated as therapy of several forms of advanced and metastatic carcinomas and has shown efficacy in medullary thyroid and renal cell carcinoma. Cabozantinib received accelerated approval for use in the United States in 2012 for therapy of medullary thyroid cancer after failure of other therapies. Indications were expanded in 2016 to include advanced renal cell carcinoma. For therapy of medullary thyroid cancer, cabozantinib is available as capsules of 20 and 80 mg under the brand name Cometriq, and the recommended dose is 140 mg orally once daily. For treatment of advanced renal cell carcinoma, cabozantinib is available as tablets of 20, 40 and 60 mg under the brand name Cabometyx, and the recommended dose is 60 mg orally once daily. Common side effects include diarrhea, fatigue, nausea, constipation, anorexia, weight loss, hand-foot syndrome, stomatitis, hypertension, change in hair color, thrombocytopenia, neutropenia, anemia, rash and fever. Other uncommon, but potentially severe side effects include thrombotic events including myocardial infarction, stroke and arterial thromboses, osteonecrosis of the jaw, posterior leukoencephalopathy and fetal toxicity.</p>
+        </sec>
+        <sec id="Cabozantinib.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>In large clinical trials of cabozantinib, elevations in serum aminotransferase levels were common, occurring in 16% to 97% of patients. Values greater than 5 times the upper limit of normal (ULN), however, occurred in only 2% to 8% of recipients. Serum alkaline phosphatase elevations were also common and were above 3 times ULN in 3% of patients. Despite the high rate of serum enzyme elevations, cases of clinically apparent liver injury including acute liver failure were not reported in the preregistration trials of cabozantinib. Since the approval of cabozantinib, there have been no published case reports of hepatotoxicity attributed to its use. Serum ALT, AST and alkaline phosphatase elevations are listed as adverse reactions in the product label for cabozantinib, and cholestatic hepatitis is mentioned as a rare occurrence, but monitoring of serum enzymes during treatment is not specifically recommended.</p>
+          <p>Likelihood score: E* (Unproven but suspected rare cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Cabozantinib.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The mechanisms of liver injury accounting for serum enzyme elevations during cabozantinib therapy are not known, but may be a direct effect of inhibition of cellular kinases by this multi-specific tyrosine kinase inhibitor. Cabozantinib is metabolized in the liver, predominantly by the cytochrome P 450 system and especially by CYP 3A4. Cabozantinib is susceptible to drug-drug interactions and the effects of CYP 3A4 inhibitors and inducers.</p>
+        </sec>
+        <sec id="Cabozantinib.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>Serum aminotransferase elevations above 5 times the upper limit of normal (if confirmed) should lead to dose reduction or temporary cessation. Clinically apparent liver injury should prompt immediate interruption of cabozantinib therapy. There is little information on cross reactivity in risk for hepatic injury between cabozantinib and other protein kinase inhibitors.</p>
+          <p>Drug Class: <related-object source-id="livertox" document-id="AntineoplasticAgents">Antineoplastic Agents</related-object>, <related-object source-id="livertox" document-id="ProteinKinaseInhibit">Protein Kinase Inhibitors</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Cabozantinib.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <boxed-text position="anchor" id="Cabozantinib.BPI" orientation="portrait">
+          <p>
+            <bold>REPRESENTATIVE TRADE NAMES</bold>
+          </p>
+          <p>Cabozantinib &#x02013; Cometriq&#x000ae;, Cabometyx&#x000ae;</p>
+          <p>
+            <bold>DRUG CLASS</bold>
+          </p>
+          <p>Antineoplastic Agents</p>
+          <p>
+            <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Cabozantinib">COMPLETE LABELING</ext-link>
+          </p>
+          <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+        </boxed-text>
+      </sec>
+      <sec id="Cabozantinib.CHEMICAL_FORMULA_AND_STRUCT">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Cabozantinib.T1" position="anchor" orientation="portrait">
+          <table>
+            <thead>
+              <tr>
+                <th id="hd_h_Cabozantinib.T1_1_1_1_1" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Cabozantinib.T1_1_1_1_2" rowspan="1" colspan="1">CAS REGISTRY NUMBER</th>
+                <th id="hd_h_Cabozantinib.T1_1_1_1_3" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Cabozantinib.T1_1_1_1_4" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Cabozantinib.T1_1_1_1_1" rowspan="1" colspan="1">Cabozantinib</td>
+                <td headers="hd_h_Cabozantinib.T1_1_1_1_2" rowspan="1" colspan="1">
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135267839">849217-68-1</ext-link>
+                </td>
+                <td headers="hd_h_Cabozantinib.T1_1_1_1_3" rowspan="1" colspan="1">C28-H24-F-N3-O5</td>
+                <td headers="hd_h_Cabozantinib.T1_1_1_1_4" rowspan="1" colspan="1">
+                  <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Cabozantinib_Structure.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait">
+                    <alt-text>Cabozantinib Chemical Structure</alt-text>
+                  </graphic>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Cabozantinib.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 04 January 2017</p>
+        <ref-list id="Cabozantinib.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Cabozantinib.R1">
+            <mixed-citation publication-type="other">Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999.<annotation><p><italic toggle="yes">(Review of hepatotoxicity published in 1999 before the availability of proteasome inhibitors such as cabozantinib).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Cabozantinib.R2">
+            <mixed-citation publication-type="other">DeLeve LD. Erlotinib. Cancer chemotherapy. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013, pp. 556.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of cancer chemotherapeutic agents; cabozantinib is not discussed).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Cabozantinib.R3">
+            <mixed-citation publication-type="other">Chabner BA, Barnes J, Neal J, Olson E, Mujagic H, Sequist L, Wilson W, et al. Targeted therapies: tyrosine kinase inhibitors, monoclonal antibodies, and cytokines. In, Brunton LL, Chabner BA, Knollman BC, eds. Goodman &#x00026; Gilman's the pharmacological basis of therapeutics. 12th ed. New York: McGraw-Hill, 2011, pp. 1731-54.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Cabozantinib.R4">
+            <mixed-citation publication-type="journal">Elisei R, Schlumberger MJ, M&#x000fc;ller SP, Sch&#x000f6;ffski P, Brose MS, Shah MH, Licitra L, et al. Cabozantinib in progressive medullary thyroid cancer. J Clin Oncol 2013; 31 (29): 3639-46. <annotation><p><italic toggle="yes">(Among 320 patients with progressive, metastatic medullary thyroid cancer treated with cabozantinib or placebo, progression-free survival increased from 4 to 11 months with cabozantinib, but adverse side effects were common and sometimes severe including diarrhea, fatigue and hand-foot syndrome, and ALT elevations occurred in 86% of treated with 41% of controls, and above 5 times ULN occurred in 6% vs 2%, although there were no instances of "drug-induced severe liver injury").</italic></p></annotation><pub-id pub-id-type="pmid">24002501</pub-id></mixed-citation>
+          </ref>
+          <ref id="Cabozantinib.R5">
+            <mixed-citation publication-type="journal">Chalasani N, Bonkovsky HL, Fontana R, Lee W, Stolz A, Talwalkar J, Reddy KR, et al.; United States Drug Induced Liver Injury Network. Features and outcomes of 899 patients with drug-induced liver injury: The DILIN Prospective Study. Gastroenterology 2015; 148: 1340-52.e7. <annotation><p><italic toggle="yes">(Among 899 cases of drug induced liver injury enrolled in a US prospective study between 2004 and 2013, 49 [5.5%] were attributed to antineoplastic agents, of which 9 [1%] were tyrosine kinase inhibitors including imatinib [5], lapatinib [2], cediranib, and regorafenib [1 each], but none were attributed to cabozantinib).</italic></p></annotation><pub-id pub-id-type="pmid">25754159</pub-id></mixed-citation>
+          </ref>
+          <ref id="Cabozantinib.R6">
+            <mixed-citation publication-type="journal">Choueiri TK, Escudier B, Powles T, Mainwaring PN, Rini BI, Donskov H, Hammers TE, et al.; METEOR Investigators. Cabozantinib versus everolimus in advanced renal-cell carcinoma. N Engl J Med 2015; 373: 1814-23. <annotation><p><italic toggle="yes">(Among 658 patients with progressive, metastatic renal cell carcinoma treated with cabozantinib [60 mg] vs everolimus [10 mg] daily, progression-free and overall survival were greater with cabozantinib, with which side effects were frequent including moderate-to-severe diarrhea, fatigue and hand-foot syndrome with ALT elevations in 16% vs 2% which were above 5 times ULN in 6% vs &#x0003c;1%; no mention of clinically apparent liver injury or serious liver related adverse events).</italic></p></annotation><pub-id pub-id-type="pmid">26406150</pub-id></mixed-citation>
+          </ref>
+          <ref id="Cabozantinib.R7">
+            <mixed-citation publication-type="journal">Choueiri TK, Escudier B, Powles T, Tannir NM, Mainwaring PN, Rini BI, Hammers HJ, et al.; METEOR investigators. Cabozantinib versus everolimus in advanced renal cell carcinoma (METEOR): final results from a randomised, open-label, phase 3 trial. Lancet Oncol 2016 Jul; 17 (7): 917-27. <annotation><p><italic toggle="yes">(Among 658 patients with advanced renal cell carcinoma treated with cabozantinib [60 mg] or everolimus [10 mg] once daily, overall survival was greater with cabozantinib [21.4 vs 18.8 months] and moderate-to-severe side effects of cabozantinib included hypertension, diarrhea, nausea, fatigue, anorexia and hand-foot syndrome, while ALT elevations occurred in 14% of patients and were above 5 times ULN in 2.4%).</italic></p></annotation><pub-id pub-id-type="pmid">27279544</pub-id></mixed-citation>
+          </ref>
+          <ref id="Cabozantinib.R8">
+            <mixed-citation publication-type="journal">Neal JW, Dahlberg SE, Wakelee HA, Aisner SC, Bowden M, Huang Y, Carbone DP, et al.; ECOG-ACRIN 1512 Investigators. Erlotinib, cabozantinib, or erlotinib plus cabozantinib as second-line or third-line treatment of patients with EGFR wild-type advanced non-small-cell lung cancer (ECOG-ACRIN 1512): a randomised, controlled, open-label, multicentre, phase 2 trial. Lancet Oncol 2016; 17: 1661-71. <annotation><p><italic toggle="yes">(Among 119 patients with advanced non-small cell lung cancer treated with cabozantinib or erlotinib or both, progression-free survival was greater with cabozantinib among whom AST elevations occurred in 15%, all being less than 5 times the upper limit of normal).</italic></p></annotation><pub-id pub-id-type="pmid">27825638</pub-id></mixed-citation>
+          </ref>
+          <ref id="Cabozantinib.R9">
+            <mixed-citation publication-type="journal">Drilon A, Rekhtman N, Arcila M, Wang L, Ni A, Albano M, Van Voorthuysen M, et al. Cabozantinib in patients with advanced RET-rearranged non-small-cell lung cancer: an open-label, single-centre, phase 2, single-arm trial. Lancet Oncol 2016; 17: 1653-60. <annotation><p><italic toggle="yes">(Among 26 patients with non-small cell lung cancer and RET rearrangement treated with cabozantinib [60 mg once daily], partial responses occurred in 7 patients, almost all patients had side effects, most commonly diarrhea, hand-foot syndrome, fatigue and ALT elevations [97%] which were above 5 times ULN in 8%; 19 patients [73%] required dose reductions, one [4%] for ALT elevations).</italic></p></annotation><pub-id pub-id-type="pmid">27825636</pub-id></mixed-citation>
+          </ref>
+          <ref id="Cabozantinib.R10">
+            <mixed-citation publication-type="journal">In brief: Cabozantinib (Cabometyx) for advanced renal cell carcinoma. Med Lett Drugs Ther 2016; 58 (1499): e97. <annotation><p><italic toggle="yes">(Concise review of the mechanism of action, clinical efficacy, safety, and costs of cabozantinib shortly after its approval for renal cell carcinoma, does not mention ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">27403787</pub-id></mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec id="Cabozantinib.OTHER_REFERENCE_LINKS" sec-type="link-group">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=(Cabozantinib/AE)+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D%3A%222999/12/31%22%5BEDat%5D)">Recent References on Cabozantinib: from PubMed.gov</ext-link>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Cabozantinib">Trials on Cabozantinib: from ClinicalTrials.gov</ext-link>
+            </p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

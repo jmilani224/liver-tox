@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Anticholinergics" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Anticholinergics</book-part-id>
+      <title-group>
+        <title>Anticholinergic Agents</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>7</day>
+          <month>7</month>
+          <year>2017</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Anti-AsthmaDrugs" document-type="chapter">Antiasthmatic Agents</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Anticonvulsants" document-type="chapter">Anticonvulsants</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Anticholinergics.OVERVIEW">
+        <title>OVERVIEW</title>
+        <p content-type="pubmed-excerpt">Anticholinergics are agents that decrease or block the actions of acetylcholine on its parasympathetic nervous system receptors on smooth muscle cells, glands and the central nervous system. Cholinergic receptors are usually categorized as nicotinic or muscarinic. Anticholinergics often demonstrate differential antagonism for different receptors types and subtypes, accounting in part for their variety of actions and clinical usefulness for different conditions.</p>
+        <p content-type="pubmed-excerpt">The anticholinergics in clinical use include natural, semisynthetic and synthetic compounds that demonstrate a multitude of actions on smooth muscle cells and the parasympathetic nervous system. Anticholinergics have antisecretory activities and decrease nasal and bronchial secretions, salivation, lacrimation, sweating and gastric acid production, and can be used to decrease secretions in allergic and inflammatory diseases. Anticholinergics relax smooth muscle in the gastrointestinal tract, bladder and lung and can be used for gastrointestinal, urological or respiratory conditions associated with spasm and dysmotility. Some anticholinergics have antiemetic properties and are used to prevent nausea and vomiting from motion sickness or during the perioperative period. Anticholinergics increase heart rate and can be used to treat bradycardia. They are also used to reverse cholinergic overstimulation caused by cholinesterase inhibitors and neuromuscular blockers in anesthesia.</p>
+        <p content-type="pubmed-excerpt">The common side effects of anticholinergic agents are largely those of parasympathetic stimulation and include dryness of the mouth and eyes, decreased sweating and hyperthermia, headache, visual blurring, constipation, urinary retention, impotence, tachycardia and palpitations, anxiety, restlessness and in some instances agitation and delusions. Anticholinergics rarely cause liver injury. Their relative safety probably relates to their use in low doses for short periods of time only. Most anticholinergics are metabolized in the liver via the cytochrome P450 system.</p>
+        <p>Specific anticholinergic agents in clinical use are listed below with common brand name(s), year of approval in the United States, and major use (G=gastrointestinal, N=nausea and motion sickness, R=respiratory, U=urological). General references to the safety and hepatotoxicity of anticholinergics are given at the end of this overview section and are not repeated in the individual drug descriptions.</p>
+        <p>Anticholinergics used in Parkinson&#x02019;s disease include benztropine (Cogentin: 1954), biperiden (Akineton: 1959) and trihexyphenidyl (Artane: 1949).</p>
+        <p>The natural or semisynthetic belladonna alkaloids include atropine (generic), hyoscyamine (Anaspaz: U, G) and scopolamine (Scopace, Transderm Scop: 1979, 2001, N).</p>
+        <p>The synthetic quaternary ammonium derivatives have a bulky ammonium side chain that makes them less likely to cross membranes, including the blood brain barrier, and therefore less likely to have central nervous system effects. Anticholinergic quaternary ammonium derivatives include aclidinium (Tudorza Pressair: 2012, R), clinidium (Quarzan: now withdrawn), darifenacin (Enablex: 2004, U), flavoxate (Urispas: 1970, U), glycopyrrolate (Robinul: 1961, G), ipratropium (Atrovent: 1986, R), mepenzolate (Cantil: 1956, G), methscopolamine (generic), propantheline (Pro-Banthine: 1953, G) and tiotropium (Tiova: R).</p>
+        <p>The synthetic tertiary anticholinergics include dicyclomine (Bentyl: 1996, G), fesoterodine (Toviaz: 2008, U), homatropine (generic), oxybutynin (Ditropan: 1975, U), solifenacin (VESIcare: 2004, U), tolterodine (Detrol: 1998, U), and trospium (Sanctura: 2004, U).</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>
+              <related-object source-id="livertox" document-id="Aclidinium">Aclidinium</related-object>
+            </p>
+          </list-item>
+          <list-item>
+            <p><related-object source-id="livertox" document-id="Atropine_Homatropine">Atropine</related-object>, <related-object source-id="livertox" document-id="Atropine_Homatropine">Homatropine</related-object></p>
+          </list-item>
+          <list-item>
+            <p>
+              <related-object source-id="livertox" document-id="Benztropine">Benztropine</related-object>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <related-object source-id="livertox" document-id="Biperiden">Biperiden</related-object>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <related-object source-id="livertox" document-id="Darifenacin">Darifenacin</related-object>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <related-object source-id="livertox" document-id="Dicyclomine">Dicyclomine</related-object>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <related-object source-id="livertox" document-id="Fesoterodine">Fesoterodine</related-object>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <related-object source-id="livertox" document-id="Flavoxate">Flavoxate</related-object>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <related-object source-id="livertox" document-id="Glycopyrrolate">Glycopyrrolate</related-object>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <related-object source-id="livertox" document-id="Hyoscyamine">Hyoscyamine</related-object>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <related-object source-id="livertox" document-id="Ipratropium">Ipratropium</related-object>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <related-object source-id="livertox" document-id="Mepenzolate">Mepenzolate</related-object>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <related-object source-id="livertox" document-id="ScopolamineMethscop">Methscopolamine</related-object>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <related-object source-id="livertox" document-id="Oxybutynin">Oxybutynin</related-object>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <related-object source-id="livertox" document-id="Propantheline">Propantheline</related-object>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <related-object source-id="livertox" document-id="Revefenacin">Revefenacin</related-object>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <related-object source-id="livertox" document-id="ScopolamineMethscop">Scopolamine</related-object>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <related-object source-id="livertox" document-id="Solifenacin">Solifenacin</related-object>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <related-object source-id="livertox" document-id="Tiotropium">Tiotropium</related-object>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <related-object source-id="livertox" document-id="Tolterodine">Tolterodine</related-object>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <related-object source-id="livertox" document-id="Trihexyphenidyl">Trihexyphenidyl</related-object>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <related-object source-id="livertox" document-id="Trospium">Trospium</related-object>
+            </p>
+          </list-item>
+        </list>
+      </sec>
+      <sec id="Anticholinergics.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 07 July 2017</p>
+        <ref-list id="Anticholinergics.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Anticholinergics.R1">
+            <mixed-citation publication-type="other">Zimmerman HJ. H1 Receptor antagonists. Miscellaneous drugs and diagnostic chemicals. In, Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999, pp. 717-8.<annotation><p><italic toggle="yes">(Single author review of hepatotoxicity published in 1999; among anticholinergic drugs for Parkinsonism, trihexyphenidyl was suspected in two cases of acute liver failure; other anticholinergic agents are not mentioned).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Anticholinergics.R2">
+            <mixed-citation publication-type="journal">Chan TY, Tang CH, Critchley JA. Poisoning due to an over-the-counter hypnotic, Sleep-Qik (hyoscine, cyproheptadine, valerian). Postgrad Med J 1995; 71: 227-8. <annotation><p><italic toggle="yes">(Among 23 patients with overdose of a combination of scopolamine, cyproheptadine and valerian, the major symptoms were drowsiness and confusion; no patient developed liver injury or ALT elevations and all recovered within 1-6 days).</italic></p></annotation><pub-id pub-id-type="pmid">7784284</pub-id></mixed-citation>
+          </ref>
+          <ref id="Anticholinergics.R3">
+            <mixed-citation publication-type="journal">Stutts JT, Washington K, Barnard JA. Cholestatic jaundice with skin desquamation in a 12-year-old girl. J Pediatr 1999; 134: 649-53. <annotation><p><italic toggle="yes">(12 year old girl developed severe rash two days after starting "Donnatal" [phenobarbital and belladonna alkaloids], with subsequent progressive cholestatic jaundice [bilirubin 5.4 rising to 28.0 mg/dL, ALT 363 U/L, Alk P 144 rising to 1743 U/L], multiorgan failure and death 90 days after presentation).</italic></p></annotation><pub-id pub-id-type="pmid">10228305</pub-id></mixed-citation>
+          </ref>
+          <ref id="Anticholinergics.R4">
+            <mixed-citation publication-type="journal">Taylor J, Kotch A, Rice K, Ghafouri M, Kurland CL, Fagan NM, Witek TJ Jr; Ipratropium Bromide HFA Study Group. Ipratropium bromide hydrofluoroalkane inhalation aerosol is safe and effective in patients with COPD. Chest 2001; 120: 1253-61. <annotation><p><italic toggle="yes">(In a controlled trial of 12 weeks of treatment with two formulations of ipratropium by inhaler vs placebo in 507 patients with COPD, side effects were similar among groups and "there were no clinically significant changes from baseline in mean laboratory values").</italic></p></annotation><pub-id pub-id-type="pmid">11591569</pub-id></mixed-citation>
+          </ref>
+          <ref id="Anticholinergics.R5">
+            <mixed-citation publication-type="journal">Kranke P, Morin AM, Roewer N, Wulf H, Eberhart LH. The efficacy and safety of transdermal scopolamine for the prevention of postoperative nausea and vomiting: a quantitative systematic review. Anesth Analg 2002; 95: 133-43. <annotation><p><italic toggle="yes">(Systematic review of safety and efficacy of transdermal scopolamine reported most common side effects to be visual disturbances and dry mouth; no mention of hepatotoxicity). </italic></p></annotation><pub-id pub-id-type="pmid">12088957</pub-id></mixed-citation>
+          </ref>
+          <ref id="Anticholinergics.R6">
+            <mixed-citation publication-type="journal">Schlienger RG, Keller MJ, Kr&#x000e4;henb&#x000fc;hl S. Tolterodine-associated acute mixed liver injury. Ann Pharmacother 2002; 36 (5): 817-9. <annotation><p><italic toggle="yes">(81 year old woman developed fatigue and nausea 18 days after starting tolterodine [bilirubin 2.4 mg/dL, ALT 479 U/L, Alk P 389 U/L, eosinophils 8%], resolving within 4 weeks of stopping).</italic></p></annotation><pub-id pub-id-type="pmid">11978158</pub-id></mixed-citation>
+          </ref>
+          <ref id="Anticholinergics.R7">
+            <mixed-citation publication-type="journal">Russo MW, Galanko JA, Shrestha R, Fried MW, Watkins P. Liver transplantation for acute liver failure from drug-induced liver injury in the United States. Liver Transpl 2004; 10: 1018-23. <annotation><p><italic toggle="yes">(Among ~50,000 liver transplants done in the United States between 1990 and 2002, 270 [0.5%] were done for drug induced acute liver failure, but none were attributed to anticholinergic agents).</italic></p></annotation><pub-id pub-id-type="pmid">15390328</pub-id></mixed-citation>
+          </ref>
+          <ref id="Anticholinergics.R8">
+            <mixed-citation publication-type="journal">Singh-Franco D, Machado C, Tuteja S, Zapantis A. Trospium chloride for the treatment of overactive bladder with urge incontinence. Clin Ther 2005; 27: 511-30. <annotation><p><italic toggle="yes">(Systematic review of efficacy and safety of trospium found major side effects to be dry mouth, constipation and gastrointestinal upset; rare, postmarketing adverse events included Stevens Johnson syndrome, but no mention of hepatotoxicity or ALT elevations).</italic></p></annotation><pub-id pub-id-type="pmid">15978301</pub-id></mixed-citation>
+          </ref>
+          <ref id="Anticholinergics.R9">
+            <mixed-citation publication-type="journal">Zinner N, Tuttle J, Marks L. Efficacy and tolerability of darifenacin, a muscarinic M3 selective receptor antagonist (M3 SRA), compared with oxybutynin in the treatment of patients with overactive bladder. World J Urol 2005; 23: 248-52. <annotation><p><italic toggle="yes">(Trial comparing darifenacin with oxybutynin in 76 patients with overactive bladder found similar rates of response but less dry mouth with darifenacin; no mention of hepatotoxicity or ALT elevations).</italic></p></annotation><pub-id pub-id-type="pmid">16096831</pub-id></mixed-citation>
+          </ref>
+          <ref id="Anticholinergics.R10">
+            <mixed-citation publication-type="journal">Armstrong RB, Dmochowski RR, Sand PK, Macdiarmid S. Safety and tolerability of extended-release oxybutynin once daily in urinary incontinence: combined results from two phase 4 controlled clinical trials. Int Urol Nephrol 2007; 39: 1069-77. <annotation><p><italic toggle="yes">(Combined results from two trials in 1168 patients with urinary incontinence comparing oxybutynin and tolterodine found most common side effects to be gastrointestinal upset [~40%], dry mouth [~30%], constipation [~7%] and diarrhea [~7%]; no mention of hepatotoxicity or ALT elevations).</italic></p></annotation><pub-id pub-id-type="pmid">17333521</pub-id></mixed-citation>
+          </ref>
+          <ref id="Anticholinergics.R11">
+            <mixed-citation publication-type="journal">Novara G, Galfano A, Secco S, D'Elia C, Cavalleri S, Ficarra V, Artibani W. A systematic review and meta-analysis of randomized controlled trials with antimuscarinic drugs for overactive bladder. Eur Urol 2008; 54: 740-63. <annotation><p><italic toggle="yes">(Systematic review of efficacy and safety of drugs for overactive bladder including tolterodine, propiverine, solifenacin, darifenacin, fesoterodine and oxybutynin; common side effects included dry mouth and constipation; hepatotoxicity and ALT elevations were not mentioned).</italic></p></annotation><pub-id pub-id-type="pmid">18632201</pub-id></mixed-citation>
+          </ref>
+          <ref id="Anticholinergics.R12">
+            <mixed-citation publication-type="journal">Chalasani N, Fontana RJ, Bonkovsky HL, Watkins PB, Davern T, Serrano J, Yang H, Rochon J; Drug Induced Liver Injury Network (DILIN). Causes, clinical features, and outcomes from a prospective study of drug-induced liver injury in the United States. Gastroenterology 2008; 135: 1924-34. <annotation><p><italic toggle="yes">(Among 300 cases of drug induced liver disease in the US collected between 2004 and 2008, none were attributed to anticholinergics).</italic></p></annotation><pub-id pub-id-type="pmid">18955056</pub-id></mixed-citation>
+          </ref>
+          <ref id="Anticholinergics.R13">
+            <mixed-citation publication-type="journal">Biastre K, Burnakis T. Trospium chloride treatment of overactive bladder. Ann Pharmacother 2009; 43: 283-95. <annotation><p><italic toggle="yes">(Review of pharmacology, metabolism, efficacy and safety of trospium; common side effects were dry mouth [22%] and constipation [9%]; no mention of hepatotoxicity or ALT elevations).</italic></p></annotation><pub-id pub-id-type="pmid">19193592</pub-id></mixed-citation>
+          </ref>
+          <ref id="Anticholinergics.R14">
+            <mixed-citation publication-type="journal">Herschorn S, Stothers L, Carlson K, Egerdie B, Gajewski JB, Pommerville P, Schulz J, et al. Tolerability of 5 mg solifenacin once daily versus 5 mg oxybutynin immediate release 3 times daily: results of the VECTOR trial. J Urol 2010; 183: 1892-8. <annotation><p><italic toggle="yes">(Among 132 patients treated with solifenacin or oxybutynin for 8 weeks, dry mouth was less common with solifenacin; hepatic side effects and ALT values were not reported).</italic></p></annotation><pub-id pub-id-type="pmid">20303119</pub-id></mixed-citation>
+          </ref>
+          <ref id="Anticholinergics.R15">
+            <mixed-citation publication-type="journal">Apfel CC, Zhang K, George E, Shi S, Jalota L, Hornuss C, Fero KE, et al. Transdermal scopolamine for the prevention of postoperative nausea and vomiting: a systematic review and meta-analysis. Clin Ther 2010; 32: 1987-2002. <annotation><p><italic toggle="yes">(Review of safety and efficacy of transdermal scopolamine; no mention of hepatotoxicity or ALT elevations).</italic></p></annotation><pub-id pub-id-type="pmid">21118734</pub-id></mixed-citation>
+          </ref>
+          <ref id="Anticholinergics.R16">
+            <mixed-citation publication-type="journal">Reuben A, Koch DG, Lee WM; Acute Liver Failure Study Group. Drug-induced acute liver failure: results of a U.S. multicenter, prospective study. Hepatology 2010; 52: 2065-76. <annotation><p><italic toggle="yes">(Among 1198 patients with acute liver failure enrolled in a US prospective study between 1998 and 2007, 133 were attributed to drug induced liver injury, but none were attributed to anticholinergics).</italic></p></annotation><pub-id pub-id-type="pmid">20949552</pub-id></mixed-citation>
+          </ref>
+          <ref id="Anticholinergics.R17">
+            <mixed-citation publication-type="journal">Ferrajolo C, Capuano A, Verhamme KM, Schuemie M, Rossi F, Stricker BH, Sturkenboom MC. Drug-induced hepatic injury in children: a case/non-case study of suspected adverse drug reactions in VigiBase. Br J Clin Pharmacol 2010; 70: 721-8. <annotation><p><italic toggle="yes">(Among 624,673 adverse event reports in children between 2000 and 2006 in the WHO VigiBase, 1% were hepatic, but no anticholinergic was listed among the 41 most commonly implicated agents).</italic></p></annotation><pub-id pub-id-type="pmid">21039766</pub-id></mixed-citation>
+          </ref>
+          <ref id="Anticholinergics.R18">
+            <mixed-citation publication-type="journal">Shamliyan T, Wyman JF, Ramakrishnan R, Sainfort F, Kane RL. Benefits and harms of pharmacologic treatment for urinary incontinence in women: a systematic review. Ann Intern Med 2012; 156: 861-74. <annotation><p><italic toggle="yes">(Systematic review of the safety and efficacy of drugs used for urinary incontinence including fesoterodine, tolterodine, oxybutynin, solifenacin and trospium; most had modest effectiveness; hepatotoxicity was not mentioned).</italic></p></annotation><pub-id pub-id-type="pmid">22711079</pub-id></mixed-citation>
+          </ref>
+          <ref id="Anticholinergics.R19">
+            <mixed-citation publication-type="journal">Jones PW, Singh D, Bateman ED, Agusti A, Lamarca R, de Miquel G, Segarra R, et al. Efficacy and safety of twice-daily aclidinium bromide in COPD patients: The ATTAIN study. Eur Respir J 2012; 40: 830-6. <annotation><p><italic toggle="yes">(Among 828 patients with COPD treated with aclidinium by inhaler vs placebo for 24 weeks, side effects were similar among the three groups and "there were no clinically relevant changes from baseline in laboratory parameters" in any group).</italic></p></annotation><pub-id pub-id-type="pmid">22441743</pub-id></mixed-citation>
+          </ref>
+          <ref id="Anticholinergics.R20">
+            <mixed-citation publication-type="journal">Keating GM. Tiotropium bromide inhalation powder: a review of its use in the management of chronic obstructive pulmonary disease. Drugs 2012; 72: 273-300. <annotation><p><italic toggle="yes">(Review of pharmacology, efficacy and safety of tiotropium by inhaler in COPD from 30 clinical trials in 19,545 patients; while anticholinergic side effects occurred, they were uncommon; ALT elevations and clinically apparent liver injury were not mentioned).</italic></p></annotation><pub-id pub-id-type="pmid">22217233</pub-id></mixed-citation>
+          </ref>
+          <ref id="Anticholinergics.R21">
+            <mixed-citation publication-type="journal">Cardozo L, Hall T, Ryan J, Ebel Bitoun C, Kausar I, Darekar A, Wagg A. Safety and efficacy of flexible-dose fesoterodine in British subjects with overactive bladder: insights into factors associated with dose escalation. Int Urogynecol J 2012; 23: 1581-90. <annotation><p><italic toggle="yes">(Among 331 adults with overactive bladder treated with fesoterodine for 12 weeks, 30% complained of dry mouth and 9% of constipation; no mention of jaundice, ALT elevations or hepatic side effects).</italic></p></annotation><pub-id pub-id-type="pmid">22576329</pub-id></mixed-citation>
+          </ref>
+          <ref id="Anticholinergics.R22">
+            <mixed-citation publication-type="journal">Dell'utri C, Digesu GA, Bhide A, Khullar V. Fesoterodine in randomized clinical trials: an updated systematic clinical review of efficacy and safety. Int Urogynecol J 2012; 23: 1337-44. <annotation><p><italic toggle="yes">(Systematic review of the safety and efficacy of fesoterodine from 7 controlled trials of 8-12 weeks of treatment in more than 6000 patients; "No clinically relevant changes in vital signs, laboratory or electrocardiogram parameters occurred in any of the studies").</italic></p></annotation><pub-id pub-id-type="pmid">22411206</pub-id></mixed-citation>
+          </ref>
+          <ref id="Anticholinergics.R23">
+            <mixed-citation publication-type="journal">Jara M, Wentworth C 3rd, Lanes S. A new user cohort study comparing the safety of long-acting inhaled bronchodilators in COPD. BMJ Open 2012; 2. pii: e000841. <annotation><p><italic toggle="yes">(Population based analysis of severe adverse events in patients taking tiotropium vs long acting bronchodilators for COPD found slight increase in risk of cardiovascular events with inhaled anticholinergics; no mention of liver related adverse events).</italic></p></annotation><pub-id pub-id-type="pmid">22619266</pub-id></mixed-citation>
+          </ref>
+          <ref id="Anticholinergics.R24">
+            <mixed-citation publication-type="journal">Hern&#x000e1;ndez N, Bessone F, S&#x000e1;nchez A, di Pace M, Brahm J, Zapata R, A Chirino R, et al. Profile of idiosyncratic drug induced liver injury in Latin America: an analysis of published reports. Ann Hepatol 2014; 13: 231-9. <annotation><p><italic toggle="yes">(Among 176 reports of drug induced liver injury from Latin America published between 1996 and 2012, none were attributed to an anticholinergic agent).</italic></p></annotation><pub-id pub-id-type="pmid">24552865</pub-id></mixed-citation>
+          </ref>
+          <ref id="Anticholinergics.R25">
+            <mixed-citation publication-type="journal">Chalasani N, Bonkovsky HL, Fontana R, Lee W, Stolz A, Talwalkar J, Reddy KR, et al.; United States Drug Induced Liver Injury Network. Features and outcomes of 899 patients with drug-induced liver injury: The DILIN Prospective Study. Gastroenterology 2015; 148: 1340-52.e7. <annotation><p><italic toggle="yes">(Among 899 cases of drug induced liver injury enrolled in a US prospective study between 2004 and 2013, none were attributed to an anticholergic agent).</italic></p></annotation><pub-id pub-id-type="pmid">25754159</pub-id></mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

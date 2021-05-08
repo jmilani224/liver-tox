@@ -1,0 +1,483 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Hydroxycut" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Hydroxycut</book-part-id>
+      <title-group>
+        <title>Hydroxycut</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>12</day>
+          <month>4</month>
+          <year>2018</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Hydroxychloroquine" document-type="chapter">Hydroxychloroquine</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Hydroxyurea" document-type="chapter">Hydroxyurea</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Hydroxycut.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Hydroxycut.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Hydroxycut is the commercial name a variety of multi-ingredient nutritional supplements (MINS) marketed for weight loss, body building and &#x0201c;fat burning&#x0201d;. In 2004, Hydroxycut products containing ephedra were withdrawn from use in the United States because of cardiovascular risks and in 2009 because of hepatotoxicity. Nevertheless, Hydroxycut products with different ingredients are still commercially available and have continued to be implicated in cases of clinically apparent acute liver injury.</p>
+        </sec>
+        <sec id="Hydroxycut.Background">
+          <title>Background</title>
+          <p>Hydroxycut is the proprietary name of a series of multi-ingredient nutritional supplements that are typically marketed as weight loss, body building, &#x0201c;fat burning&#x0201d; and performance enhancement aids. Initial ingredients in the products included caffeine and ephedra which in animal studies led to weight loss. In 2004, the FDA banned the use of ephedra in nutritional supplements and the composition of Hydroxycut was altered, with removal of ephedra. The products were often labelled as &#x0201c;ephedra-free&#x0201d;. Ingredients varied in different forms of the Hydroxycut products, but they generally included caffeine, green tea extract and proprietary mixtures of botanicals of undeclared concentration, source and purity. Hydroxycut products continued to be implicated in rare cases of acute liver injury. In 2009, after a review and identification of 23 cases of liver injury linked to Hydroxycut exposure, including one death, the FDA recalled all Hydroxycut products and mandated removal of products already in distribution. However, nutritional supplements under the name Hydroxycut continued to be marketed, but with different formulations. While reported cases of liver injury due to Hydroxycut decreased, they continued to appear. At present, several products labelled as Hydroxycut are available and still widely used. The table below lists several of the products with their full names and ingredients as listed on the product labels (reviewed: 02.24.2016).</p>
+          <table-wrap id="Hydroxycut.T1" position="anchor" orientation="portrait">
+            <caption>
+              <p>Selected Hydroxycut Products (April 2018)</p>
+            </caption>
+            <table>
+              <thead>
+                <tr>
+                  <th id="hd_h_Hydroxycut.T1_1_1_1_1" rowspan="1" colspan="1">Product Name</th>
+                  <th id="hd_h_Hydroxycut.T1_1_1_1_2" rowspan="1" colspan="1">Condition</th>
+                  <th id="hd_h_Hydroxycut.T1_1_1_1_3" rowspan="1" colspan="1">Major Listed Ingredients</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td headers="hd_h_Hydroxycut.T1_1_1_1_1" rowspan="1" colspan="1">Hydroxycut Hard Core Elite [Muscle Tech]</td>
+                  <td headers="hd_h_Hydroxycut.T1_1_1_1_2" rowspan="1" colspan="1">Weight loss, fat burning, enhanced energy and mental focus</td>
+                  <td headers="hd_h_Hydroxycut.T1_1_1_1_3" rowspan="1" colspan="1">Caffeine [270 mg], L-threanine [100 mg], Yohimbe extract [56.3 mg], Coleus forskohlii extract [100 mg], Green coffee extract [Coffea canephora robusta seed: 200 mg], Cocoa extract [100 mg: supplying theobromine], Yohimbe extract [56.3 mg]</td>
+                </tr>
+                <tr>
+                  <td headers="hd_h_Hydroxycut.T1_1_1_1_1" rowspan="1" colspan="1">Hydroxycut Hardcore CLA Elite [Muscle Tech]</td>
+                  <td headers="hd_h_Hydroxycut.T1_1_1_1_2" rowspan="1" colspan="1">Weight loss, fat burning, enhanced energy and mental focus</td>
+                  <td headers="hd_h_Hydroxycut.T1_1_1_1_3" rowspan="1" colspan="1">Conjugated linoleic acid [CLA: 1000 mg], L-carnitine [250 mg], Garcinia indica extract [250 mg], Robusta coffee bean extract [200 mg], Raspberry ketone [125 mg}</td>
+                </tr>
+                <tr>
+                  <td headers="hd_h_Hydroxycut.T1_1_1_1_1" rowspan="1" colspan="1">Pro Clinical Hydroxycut Lose Weight</td>
+                  <td headers="hd_h_Hydroxycut.T1_1_1_1_2" rowspan="1" colspan="1">Weight loss</td>
+                  <td headers="hd_h_Hydroxycut.T1_1_1_1_3" rowspan="1" colspan="1">Calcium (145 mg), Robusta coffee bean extract (C. canephora robusta), Papaya, Blackberry, Saffron extract, Caffeine (200 mg), Maqui (Aristotella chilensis), Amia extract (Phyllanthus)</td>
+                </tr>
+                <tr>
+                  <td headers="hd_h_Hydroxycut.T1_1_1_1_1" rowspan="1" colspan="1">Pro Clinical Hydroxycut Gummies</td>
+                  <td headers="hd_h_Hydroxycut.T1_1_1_1_2" rowspan="1" colspan="1">Weight loss</td>
+                  <td headers="hd_h_Hydroxycut.T1_1_1_1_3" rowspan="1" colspan="1">Thiamine (1.5 mg), Riboflavin (1.7 mg), Vitamis B6 (1 mg) and B12 (1.2 mcg), Folic acid (400 mcg), Pantothenic acid (10 mg), Robusta coffee extract (200 mg).</td>
+                </tr>
+                <tr>
+                  <td headers="hd_h_Hydroxycut.T1_1_1_1_1" rowspan="1" colspan="1">Pro Clinical Hydroxycut Caffeine Free</td>
+                  <td headers="hd_h_Hydroxycut.T1_1_1_1_2" rowspan="1" colspan="1">Weight loss</td>
+                  <td headers="hd_h_Hydroxycut.T1_1_1_1_3" rowspan="1" colspan="1">Calcium [150 mg], Robusta coffee extract, papaya, maqui, blackberry, amla extract, saffron extract</td>
+                </tr>
+                <tr>
+                  <td headers="hd_h_Hydroxycut.T1_1_1_1_1" rowspan="1" colspan="1">Pro Clinical Hydroxycut Instant Drink Mix</td>
+                  <td headers="hd_h_Hydroxycut.T1_1_1_1_2" rowspan="1" colspan="1">Weight loss</td>
+                  <td headers="hd_h_Hydroxycut.T1_1_1_1_3" rowspan="1" colspan="1">Hydroxycut Blend [340 mg] with Robusta coffee extract, papaya, blackbery and saffron extract; and HydroxyBoost with caffeine [135 mg], Maqui and Amla extract</td>
+                </tr>
+                <tr>
+                  <td headers="hd_h_Hydroxycut.T1_1_1_1_1" rowspan="1" colspan="1">Hydroxycut Max for Women</td>
+                  <td headers="hd_h_Hydroxycut.T1_1_1_1_2" rowspan="1" colspan="1">Weight loss</td>
+                  <td headers="hd_h_Hydroxycut.T1_1_1_1_3" rowspan="1" colspan="1">Folic acid (200 mcg), Biotin (300 mcg), Iron (2 mg) Caffeine [225 mg], Mango, Kiwi, Avocado oil, Robusta coffee extract, hydrolyzed collage, silicon dioxide</td>
+                </tr>
+                <tr>
+                  <td headers="hd_h_Hydroxycut.T1_1_1_1_1" rowspan="1" colspan="1">Hydroxycut Platinum</td>
+                  <td headers="hd_h_Hydroxycut.T1_1_1_1_2" rowspan="1" colspan="1">Weight loss</td>
+                  <td headers="hd_h_Hydroxycut.T1_1_1_1_3" rowspan="1" colspan="1">Green coffee bean extract [200 mg], Red mango extract, white kidney bean extract, Ashwagandha extract, Bacillus coagulans, Caffeine [200 mg], Choline, L-theanine, Huperzine-A, Cherry stem, Lemon and Tangerine concentrates, Vitamins A, B6, B12, C, D, E and K, Folic acid, Riboflavin, Niacin, Biotin, Iron, Iodine, Pantothenic acid, Zinc, Selenium Copper and Chromium</td>
+                </tr>
+                <tr>
+                  <td headers="hd_h_Hydroxycut.T1_1_1_1_1" rowspan="1" colspan="1">Hydroxycut Black</td>
+                  <td headers="hd_h_Hydroxycut.T1_1_1_1_2" rowspan="1" colspan="1">Weight loss</td>
+                  <td headers="hd_h_Hydroxycut.T1_1_1_1_3" rowspan="1" colspan="1">Caffeine (200 mg), Robusta coffee bean extract (C. canephora robusta: 200 mg), Alpha lipoic acid (150 mg), Yohimbe extract, Black caraway extract, Purslane extract, Arugula extract, Chicory extract</td>
+                </tr>
+                <tr>
+                  <td headers="hd_h_Hydroxycut.T1_1_1_1_1" rowspan="1" colspan="1">Hydroxycut Max!</td>
+                  <td headers="hd_h_Hydroxycut.T1_1_1_1_2" rowspan="1" colspan="1">Weight loss</td>
+                  <td headers="hd_h_Hydroxycut.T1_1_1_1_3" rowspan="1" colspan="1">Folic acid (200 mcg), Biotin (300 mg), Iron (2 mg), Caffeine (225 mg), Mango, Kiwi, Avocado oil, Robusta coffee extract, hydrolyzed collagen</td>
+                </tr>
+              </tbody>
+            </table>
+          </table-wrap>
+        </sec>
+        <sec id="Hydroxycut.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>Hydroxycut has been associated with at least 50 instances of clinically apparent acute liver injury, but the specific Hydroxycut product implicated in different cases has varied and the specific ingredients responsible for liver injury remain unclear. In reported cases, the onset of injury was generally within 2 to 12 weeks of starting regular use. The typical presenting symptoms were fatigue, nausea, and abdominal pain followed by dark urine and jaundice. The pattern of liver injury was hepatocellular with serum aminotransferase levels as high as several thousand U/L, while alkaline phosphatase levels tended to be normal or minimally elevated (less than 3 times ULN). Liver biopsies showed an acute hepatitis-like picture, and severe cases were associated with confluent, submassive or massive necrosis. Immunoallergic and features were not common although autoantibodies were detected in a proportion of cases. The mortality rate overall was approximately 10% among cases with jaundice. In nonfatal cases, symptoms resolved within 1 to 8 weeks and laboratory tests return to normal within two to three months. The phenotype associated with Hydroxycut products was clearly an acute, self-limited viral hepatitis-like syndrome. Nevertheless, rare instances of cholestatic or mixed hepatitis with prolonged jaundice have also been reported in patients taking Hydroxycut products.</p>
+          <p>Likelihood score: B (likely cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Hydroxycut.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The cause of acute liver injury associated with Hydroxycut products was attributed to ephedra in the past and more recently to green tea extract (Camellia sinensis). Indeed, the clinical features of cases resemble those associated with the liver injury associated with green tea extracts. Green tea is rich in catechins, antioxidants that are oxidized by the fermentation processes that yield black tea. The most active catechin is epigallocatechin 3-gallate (EGCG), which is believed to be responsible for the antioxidant activity of green tea extract. In high doses, catechins and specifically EGCG causes acute hepatocellular injury in mice and rats, but the equivalent dose in humans (30-90 mcg/kg) is considerably higher than is usually administered in typical weight loss products (3-12 mg/kg). However, environmental and host factors may alter susceptibility to catechin injury, such as nutritional status, obesity, fasting and antioxidant status including hepatic glutathionine levels. This explanation of liver injury, however, does not explain recent cases of liver injury attributed to Hydroxycut cases, as the product now does not generally contain green tea extract (at least according to the product labels).</p>
+        </sec>
+        <sec id="Hydroxycut.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>The acute hepatic injury associated with Hydroxycut exposure is usually self-limiting and resolves within 1 to 3 months. There is no evidence that corticosteroids are beneficial. Fatal cases of liver injury have been reported with Hydroxycut use. There is little information or cross reactivity to other weight loss products, but avoidance of green tea extract containing supplements is prudent. It is important to report cases of liver injury associated with HDS use and it is helpful to retrieve the actual product being used to verify the name, manufacturer and lot number as well as for possible future toxicologic analysis.</p>
+          <p>Drug Class: <related-object source-id="livertox" document-id="HerbalDietarySuppl">Herbal and Dietary Supplements</related-object>, Nutritional Supplements, Multi-Ingredient</p>
+        </sec>
+      </sec>
+      <sec id="Hydroxycut.CASE_REPORT_Hydroxycut__Green">
+        <title>CASE REPORT</title>
+        <sec id="Hydroxycut.Case_1._27_year_old_man_with_">
+          <title>Case 1. 27 year old man with hepatitis attributed to Hydroxycut.</title>
+          <p>[Modified from Case 1: Stevens T, Qadri A, Zein NN. Two patients with acute liver injury associated with use of the herbal weight-loss supplement Hydroxycut. Ann Intern Med 2005; 142: 477-8. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/pubmed/15767636">PubMed Citation</ext-link>]</p>
+          <p>A 27 year old man developed fatigue and jaundice 4 to 5 weeks after starting Hydroxycut (9 tablets per day) for weight loss. He denied previous liver disease, alcohol abuse, recent travel or risk factors for viral hepatitis. He denied taking any other medications or herbal preparations. Laboratory tests showed serum bilirubin of 7.8 mg/dL and marked elevations in serum aminotransferase levels (ALT 3131 U/L, AST 1808 U/L), with minimal increases in alkaline phosphatase (171 U/L) (Table). Liver tests worsened for a day and then rapidly improved.</p>
+          <sec id="Hydroxycut.Key_Points">
+            <title>Key Points</title>
+            <table-wrap id="Hydroxycut.T2" position="anchor" orientation="portrait">
+              <table>
+                <tbody>
+                  <tr>
+                    <td rowspan="1" colspan="1">Medication:</td>
+                    <td rowspan="1" colspan="1">Hydroxycut (1.8 grams C. sinensis extract per day)</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Pattern:</td>
+                    <td rowspan="1" colspan="1">Hepatocellular (R=54)</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Severity:</td>
+                    <td rowspan="1" colspan="1">3+ (jaundice, hospitalization)</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Latency:</td>
+                    <td rowspan="1" colspan="1">4-5 weeks</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Recovery:</td>
+                    <td rowspan="1" colspan="1">1-2 months</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Other medications:</td>
+                    <td rowspan="1" colspan="1">None</td>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Hydroxycut.Laboratory_Values">
+            <title>Laboratory Values</title>
+            <table-wrap id="Hydroxycut.T3" position="anchor" orientation="portrait">
+              <table>
+                <thead>
+                  <tr>
+                    <th id="hd_h_Hydroxycut.T3_1_1_1_1" rowspan="1" colspan="1">Time After Starting</th>
+                    <th id="hd_h_Hydroxycut.T3_1_1_1_2" rowspan="1" colspan="1">Time After Stopping</th>
+                    <th id="hd_h_Hydroxycut.T3_1_1_1_3" rowspan="1" colspan="1">ALT (U/L)</th>
+                    <th id="hd_h_Hydroxycut.T3_1_1_1_4" rowspan="1" colspan="1">Alk P (U/L)</th>
+                    <th id="hd_h_Hydroxycut.T3_1_1_1_5" rowspan="1" colspan="1">Bilirubin (mg/dL)</th>
+                    <th id="hd_h_Hydroxycut.T3_1_1_1_6" rowspan="1" colspan="1">Other</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td headers="hd_h_Hydroxycut.T3_1_1_1_1" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Hydroxycut.T3_1_1_1_2 hd_h_Hydroxycut.T3_1_1_1_3 hd_h_Hydroxycut.T3_1_1_1_4 hd_h_Hydroxycut.T3_1_1_1_5 hd_h_Hydroxycut.T3_1_1_1_6" colspan="5" rowspan="1">Started Hydroxycut (1.86 g green tea extract daily)</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Hydroxycut.T3_1_1_1_1" rowspan="1" colspan="1">5 weeks</td>
+                    <td headers="hd_h_Hydroxycut.T3_1_1_1_2" rowspan="1" colspan="1">0</td>
+                    <td headers="hd_h_Hydroxycut.T3_1_1_1_3" rowspan="1" colspan="1">3131</td>
+                    <td headers="hd_h_Hydroxycut.T3_1_1_1_4" rowspan="1" colspan="1">171</td>
+                    <td headers="hd_h_Hydroxycut.T3_1_1_1_5" rowspan="1" colspan="1">7.8</td>
+                    <td headers="hd_h_Hydroxycut.T3_1_1_1_6" rowspan="1" colspan="1">Admission</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Hydroxycut.T3_1_1_1_1" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Hydroxycut.T3_1_1_1_2" rowspan="1" colspan="1">2 days</td>
+                    <td headers="hd_h_Hydroxycut.T3_1_1_1_3" rowspan="1" colspan="1">3962</td>
+                    <td headers="hd_h_Hydroxycut.T3_1_1_1_4" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Hydroxycut.T3_1_1_1_5" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Hydroxycut.T3_1_1_1_6" rowspan="1" colspan="1">Peak values</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Hydroxycut.T3_1_1_1_1" rowspan="1" colspan="1">9 weeks</td>
+                    <td headers="hd_h_Hydroxycut.T3_1_1_1_2" rowspan="1" colspan="1">4 weeks</td>
+                    <td headers="hd_h_Hydroxycut.T3_1_1_1_3" rowspan="1" colspan="1">304</td>
+                    <td headers="hd_h_Hydroxycut.T3_1_1_1_4" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Hydroxycut.T3_1_1_1_5" rowspan="1" colspan="1">1.3</td>
+                    <td headers="hd_h_Hydroxycut.T3_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Hydroxycut.T3_1_1_1_1 hd_h_Hydroxycut.T3_1_1_1_2" colspan="2" rowspan="1">
+                      <bold>Normal Values</bold>
+                    </td>
+                    <td headers="hd_h_Hydroxycut.T3_1_1_1_3" rowspan="1" colspan="1">
+                      <bold>&#x0003c;40</bold>
+                    </td>
+                    <td headers="hd_h_Hydroxycut.T3_1_1_1_4" rowspan="1" colspan="1">
+                      <bold>&#x0003c;150</bold>
+                    </td>
+                    <td headers="hd_h_Hydroxycut.T3_1_1_1_5" rowspan="1" colspan="1">
+                      <bold>&#x0003c;1.2</bold>
+                    </td>
+                    <td headers="hd_h_Hydroxycut.T3_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Hydroxycut.Comment">
+            <title>Comment</title>
+            <p>Green tea hepatotoxicity typically presents with jaundice and an acute viral hepatitis-like syndrome, and a markedly hepatocellular pattern of serum enzyme elevations and rapid improvement upon stopping. Hydroxycut contains high concentrations of green tea extract, although formulations frequently change. Because Hydroxycut, like many dietary supplements, is a brand of many products with many ingredients, it is difficult to implicate a specific ingredient of the product as the cause for liver injury. Other listed components of Hydroxycut products currently include calcium, chromium, potassium Garcinia cambogia, Gymnema sylvestre leaf extract, glucomannan, alpha-lipoic acid, willow bark extract, L-carnitine, caffeine, guarana extract, gelatin, silica and cellulose. The product implicated in this report from 2005, however, may have had other components including ephedra and green tea.</p>
+          </sec>
+        </sec>
+      </sec>
+      <sec id="Hydroxycut.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <boxed-text position="anchor" id="Hydroxycut.BPI" orientation="portrait">
+          <p>
+            <bold>REPRESENTATIVE TRADE NAMES</bold>
+          </p>
+          <p>Hydroxycut&#x000ae;</p>
+          <p>
+            <bold>DRUG CLASS</bold>
+          </p>
+          <p>Herbal and Dietary Supplements</p>
+          <p>
+            <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Hydroxycut">COMPLETE LABELING</ext-link>
+          </p>
+          <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+        </boxed-text>
+      </sec>
+      <sec id="Hydroxycut.CHEMICAL_FORMULAS_AND_STRUCTU">
+        <title>CHEMICAL FORMULAS AND STRUCTURES</title>
+        <table-wrap id="Hydroxycut.T4" position="anchor" orientation="portrait">
+          <table>
+            <thead>
+              <tr>
+                <th id="hd_h_Hydroxycut.T4_1_1_1_1" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Hydroxycut.T4_1_1_1_2" rowspan="1" colspan="1">CAS REGISTRY NUMBER</th>
+                <th id="hd_h_Hydroxycut.T4_1_1_1_3" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Hydroxycut.T4_1_1_1_4" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Hydroxycut.T4_1_1_1_1" rowspan="1" colspan="1">EGCG</td>
+                <td headers="hd_h_Hydroxycut.T4_1_1_1_2" rowspan="1" colspan="1">
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135021682">989-51-5</ext-link>
+                </td>
+                <td headers="hd_h_Hydroxycut.T4_1_1_1_3" rowspan="1" colspan="1">C22-H18-O11</td>
+                <td headers="hd_h_Hydroxycut.T4_1_1_1_4" rowspan="1" colspan="1">
+                  <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ECGC_structure.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait">
+                    <alt-text>ECGC chemical structure</alt-text>
+                  </graphic>
+                </td>
+              </tr>
+              <tr>
+                <td headers="hd_h_Hydroxycut.T4_1_1_1_1" rowspan="1" colspan="1">Ephedra sinica</td>
+                <td headers="hd_h_Hydroxycut.T4_1_1_1_2" rowspan="1" colspan="1">OM54525000</td>
+                <td headers="hd_h_Hydroxycut.T4_1_1_1_3" rowspan="1" colspan="1">Unspecified</td>
+                <td headers="hd_h_Hydroxycut.T4_1_1_1_4" rowspan="1" colspan="1">Unspecified</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Hydroxycut.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 12 April 2018</p>
+        <ref-list id="Hydroxycut.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Hydroxycut.R1">
+            <mixed-citation publication-type="other">Zimmerman HJ. Zimmerman HJ. Unconventional drugs. Miscellaneous drugs and diagnostic chemicals. In, Zimmerman, HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999: pp. 731-4.<annotation><p><italic toggle="yes">(Expert review of hepatotoxicity published in 1999; Hydroxycut is not discussed).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Hydroxycut.R2">
+            <mixed-citation publication-type="other">Seeff L, Stickel F, Navarro VJ. Hepatotoxicity of herbals and dietary supplements. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013, pp. 631-58.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of herbal and dietary supplements [HDS]; mentions that Hydroxycut has been implicated in cases of acute liver injury some of which were severe and even fatal).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Hydroxycut.R3">
+            <mixed-citation publication-type="other">Ma Huang. Ephedra sinica. In, PDR for Herbal Medicines. 4th ed. Montvale, New Jersey: Thomson Healthcare Inc. 2007: pp. 543-52.<annotation><p><italic toggle="yes">(Compilation of short monographs on herbal medications and dietary supplements).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Hydroxycut.R4">
+            <mixed-citation publication-type="other">Green tea. In, PDR for Herbal Medicines. 4th ed. Montvale, New Jersey: Thomson Healthcare Inc. 2007: pp. 414-422.<annotation><p><italic toggle="yes">(Compilation of short monographs on herbal medications and dietary supplements).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Hydroxycut.R5">
+            <mixed-citation publication-type="journal">Haller CA, Benowitz NL. Adverse cardiovascular and central nervous system events associated with dietary supplements containing Ephedra alkaloids. N Engl J Med 2000; 343: 1833-8. <annotation><p><italic toggle="yes">(Systematic review of 140 reports of adverse events due to ephedra products submitted to the FDA over a 2 year period, including hypertension, palpitations, arrhythmias, myocardial infarction, seizures and stroke, 10 were fatal and 13 led to disability; no mention of hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">11117974</pub-id></mixed-citation>
+          </ref>
+          <ref id="Hydroxycut.R6">
+            <mixed-citation publication-type="journal">Abourashed EA, El-Alfy AT, Khan IA, Walker L. Ephedra in perspective &#x02013; a current review. Phytother Res 2003; 17: 703-12. <annotation><p><italic toggle="yes">(Review of history, botany, chemistry, pharmacology, clinical efficacy and safety of ephedra; by the year 2000, the FDA had received 1000 injury reports, often attributed to misuse, abuse or mislabeling of the product; only one report of hepatitis).</italic></p></annotation><pub-id pub-id-type="pmid">12916063</pub-id></mixed-citation>
+          </ref>
+          <ref id="Hydroxycut.R7">
+            <mixed-citation publication-type="journal">Russo MW, Galanko JA, Shrestha R, Fried MW, Watkins P. Liver transplantation for acute liver failure from drug-induced liver injury in the United States. Liver Transpl 2004; 10: 1018-23. <annotation><p><italic toggle="yes">(Among ~50,000 liver transplants reported to UNOS between 1990 and 2002, 270 [0.5%] were done for drug induced acute liver failure, including 7 [5%] for herbal medications, one due to chaparral and one to kava; Ma Huang, ephedra and green tea not mentioned).</italic></p></annotation><pub-id pub-id-type="pmid">15390328</pub-id></mixed-citation>
+          </ref>
+          <ref id="Hydroxycut.R8">
+            <mixed-citation publication-type="journal">Nelson R. FDA issues alert on Ephedra supplements in the U.S.A. Lancet 2004; 363: 135. <annotation><p><italic toggle="yes">(Report on FDA ruling that ephedrine alkaloids present an unreasonable risk of injury, after review of ~155 deaths blamed on ephedra).</italic></p></annotation><pub-id pub-id-type="pmid">14733193</pub-id></mixed-citation>
+          </ref>
+          <ref id="Hydroxycut.R9">
+            <mixed-citation publication-type="journal">Stevens T, Qadri A, Zein NN. Two patients with acute liver injury associated with use of the herbal weight-loss supplement Hydroxycut. Ann Intern Med 2005; 142: 477-8. <annotation><p><italic toggle="yes">(27 and 30 year old men developed jaundice 2 and 5 weeks after starting Hydroxycut [bilirubin 7.8 and 7.8 mg/dL, ALT 3131 and 45 U/L, Alk P 171 and 530 U/L], resolving in 1-2 months: Case 1).</italic></p></annotation><pub-id pub-id-type="pmid">15767636</pub-id></mixed-citation>
+          </ref>
+          <ref id="Hydroxycut.R10">
+            <mixed-citation publication-type="journal">Jones FJ, Andrews AH. Acute liver injury associated with the herbal supplement hydroxycut in a soldier deployed to Iraq. Am J Gastroenterol 2007; 102: 2357-8. <annotation><p><italic toggle="yes">(19 year old male US Army soldier in Iraq developed jaundice 4 months after starting Hydroxycut for weight loss [bilirubin 11.7 mg/dL, ALT 1143 U/L, Alk P 153 U/L], resolving in 4 months of stopping).</italic></p></annotation><pub-id pub-id-type="pmid">17897352</pub-id></mixed-citation>
+          </ref>
+          <ref id="Hydroxycut.R11">
+            <mixed-citation publication-type="journal">Dara L, Hewett J, Lim JK. Hydroxycut hepatotoxicity: a case series and review of liver toxicity from herbal weight loss supplements. World J Gastroenterol 2008; 14: 6999-7004. <annotation><p><italic toggle="yes">(Two women ages 33 and 40 years with onset of symptoms 1 and 4 weeks after starting Hydroxycut [bilirubin 0.7 and 20.9 mg/dL, ALT 1150 and 934 U/L, Alk P 299 and 112 U/L], resolving rapidly, ingredients including green tea but not ephedra; review of liver injury due to weight loss supplements including Ma Huang, Lipokinetix, Kava, green tea, Shou Wu Pian, germander and usnic acid).</italic></p></annotation><pub-id pub-id-type="pmid">19058338</pub-id></mixed-citation>
+          </ref>
+          <ref id="Hydroxycut.R12">
+            <mixed-citation publication-type="journal">Garc&#x000ed;a-Cort&#x000e9;s M, Borraz Y, Lucena MI, Pel&#x000e1;ez G, Salmer&#x000f3;n J, Diago M, Mart&#x000ed;nez-Sierra MC, et al. [Liver injury induced by &#x0201c;natural remedies&#x0201d;: an analysis of cases submitted to the Spanish Liver Toxicity Registry]. Rev Esp Enferm Dig 2008; 100: 688-95. Spanish. <annotation><p><italic toggle="yes">(Among 521 cases of drug induced liver injury submitted to Spanish registry, 13 [2%] were due to herbals, but none were attributed to a Hydroxycut product, green tea, ephedra or Ma Huang).</italic></p></annotation><pub-id pub-id-type="pmid">19159172</pub-id></mixed-citation>
+          </ref>
+          <ref id="Hydroxycut.R13">
+            <mixed-citation publication-type="journal">Chalasani N, Fontana RJ, Bonkovsky HL, Watkins PB, Davern T, Serrano J, Yang H, Rochon J; Drug Induced Liver Injury Network (DILIN). Causes, clinical features, and outcomes from a prospective study of drug-induced liver injury in the United States. Gastroenterology 2008; 135: 1924-34. <annotation><p><italic toggle="yes">(Among 300 cases of drug induced liver disease in the US collected between 2004 and 2008, 9% of cases were attributed to herbal medications including at least one case attributed to a Hydroxycut weight loss product, but details were not provided).</italic></p></annotation><pub-id pub-id-type="pmid">18955056</pub-id></mixed-citation>
+          </ref>
+          <ref id="Hydroxycut.R14">
+            <mixed-citation publication-type="journal">Shim M, Saab S. Severe hepatotoxicity due to Hydroxycut: a case report. Dig Dis Sci 2009; 54: 406-8. <annotation><p><italic toggle="yes">(28 year old man developed jaundice 3 months after starting Hydroxycut [containing green tea extract] for weight loss [bilirubin 18.1 mg/dL, ALT 2272 U/L, Alk P 152 U/L, ANA 1:40], with rapid improvement on stopping).</italic></p></annotation><pub-id pub-id-type="pmid">18661239</pub-id></mixed-citation>
+          </ref>
+          <ref id="Hydroxycut.R15">
+            <mixed-citation publication-type="journal">Navarro VJ. Herbal and dietary supplement hepatotoxicity. Semin Liver Dis 2009; 29: 373-82. <annotation><p><italic toggle="yes">(Overview of the regulatory environment, clinical patterns, and future directions in research on HDS with specific discussion of Hydroxycut and traditional Chinese herbal medicines).</italic></p></annotation><pub-id pub-id-type="pmid">19826971</pub-id></mixed-citation>
+          </ref>
+          <ref id="Hydroxycut.R16">
+            <mixed-citation publication-type="journal">Chen GC, Ramanathan VS, Law D, Funchain P, Chen GC, French S, Shlopov B, et al. Acute liver injury induced by weight-loss herbal supplements. World J Hepatol 2010; 2: 410-5. <annotation><p><italic toggle="yes">(Three women, ages 31, 37 and 53 years, taking Hydroxycut [n=1] or Herbalife [n=2] weight loss formulas developed jaundice 3, 4 and 12 months after starting product [bilirubin 15.3, 29.9, and 18.2 mg/dL, ALT 1227, 2068 and 983 U/L, Alk P 268, 185 and 292 U/L], resolving within 2-3 months of stopping).</italic></p></annotation><pub-id pub-id-type="pmid">21173910</pub-id></mixed-citation>
+          </ref>
+          <ref id="Hydroxycut.R17">
+            <mixed-citation publication-type="journal">Fong TL, Klontz KC, Canas-Coto A, Casper SJ, Durazo FA, Davern TJ 2nd, Hayashi P, et al. Hepatotoxicity due to Hydroxycut: a case series. Am J Gastroenterol 2010; 105: 1561-6. <annotation><p><italic toggle="yes">(Details of 17 US cases of hepatotoxicity due to Hydroxycut in the US reported to the FDA between 2002 and 2009; latency to onset 2-12 weeks [2 outliers at 1 and 2 years], hepatocellular pattern of injury, often severe, 4 were fatal or led to liver transplantation).</italic></p></annotation><pub-id pub-id-type="pmid">20104221</pub-id></mixed-citation>
+          </ref>
+          <ref id="Hydroxycut.R18">
+            <mixed-citation publication-type="journal">Reuben A, Koch DG, Lee WM; Acute Liver Failure Study Group. Drug-induced acute liver failure: results of a U.S. multicenter, prospective study. Hepatology 2010; 52: 2065-76. <annotation><p><italic toggle="yes">(Among 1198 patients with acute liver failure enrolled in a US prospective study between 1998 and 2007, 133 [11%] were attributed to drug induced liver injury, of which 12 [9%] were due to herbals including usnic acid [2], thermoslim [1], Ma Huang [1], horny goat weed [1], black cohosh [1], Hydroxycut [1] and unspecified herbals [4]).</italic></p></annotation><pub-id pub-id-type="pmid">20949552</pub-id></mixed-citation>
+          </ref>
+          <ref id="Hydroxycut.R19">
+            <mixed-citation publication-type="journal">Sharma T, Wong L, Tsai N, Wong RD. Hydroxycut&#x000ae; (herbal weight loss supplement) induced hepatotoxicity: a case report and review of literature. Hawaii Med J 2010; 69: 188-90. <annotation><p><italic toggle="yes">(19 year old man developed fever, rash, fatigue and then jaundice 1 week after starting Hydroxycut [bilirubin 7.3 mg/dL, ALT 81 U/L, Alk P 298 U/L, protime 16.7 sec], biopsy showed scant necrosis, recovery within 14 weeks of stopping).</italic></p></annotation><pub-id pub-id-type="pmid">20845283</pub-id></mixed-citation>
+          </ref>
+          <ref id="Hydroxycut.R20">
+            <mixed-citation publication-type="journal">Rashid NN, Grant J. Hydroxycut hepatotoxicity. Med J Aust 2010; 192: 173-4. <annotation><p><italic toggle="yes">(23 year old woman developed jaundice approximately 8 weeks after starting Hydroxycut [bilirubin 6.6 mg/dL, ALT 2950 U/L, Alk P 121 U/L], resolving within 4 weeks of stopping).</italic></p></annotation><pub-id pub-id-type="pmid">20121691</pub-id></mixed-citation>
+          </ref>
+          <ref id="Hydroxycut.R21">
+            <mixed-citation publication-type="journal">Harvey KJ. Hydroxycut hepatotoxicity. Med J Aust 2010; 192: 669-70. <annotation><p><italic toggle="yes">(Letter in response to Rashid [2010] stating that Hydroxycut preparations in Australia continue to have the same ingredients that led to its withdrawal in the US, including green tea extract).</italic></p></annotation><pub-id pub-id-type="pmid">20528725</pub-id></mixed-citation>
+          </ref>
+          <ref id="Hydroxycut.R22">
+            <mixed-citation publication-type="journal">Molleston JP, Fontana RJ, Lopez MJ, Kleiner DE, Gu J, Chalasani N; Drug-induced Liver Injury Network. Characteristics of idiosyncratic drug-induced liver injury in children: results from the DILIN prospective study. J Pediatr Gastroenterol Nutr 2011; 53: 182-9. <annotation><p><italic toggle="yes">(Among 30 children with suspected drug induced liver injury, only one case was attributed to an herbal which was a Hydroxycut weight loss product).</italic></p></annotation><pub-id pub-id-type="pmid">21788760</pub-id></mixed-citation>
+          </ref>
+          <ref id="Hydroxycut.R23">
+            <mixed-citation publication-type="journal">Stickel F, Kessebohm K, Weimann R, Seitz HK. Review of liver injury associated with dietary supplements. Liver Int 2011; 31: 595-605. <annotation><p><italic toggle="yes">(Review of current understanding of liver injury from herbals and dietary supplements focusing upon Herbalife and Hydroxycut products, green tea, usnic acid, noni juice, Chinese herbs, vitamin A and anabolic steroids).</italic></p></annotation><pub-id pub-id-type="pmid">21457433</pub-id></mixed-citation>
+          </ref>
+          <ref id="Hydroxycut.R24">
+            <mixed-citation publication-type="journal">Larrey D, Faure S. Herbal medicine hepatotoxicity: a new step with development of specific biomarkers. J Hepatol 2011; 54: 599-601. <annotation><p><italic toggle="yes">(Editorial on the problem of hepatotoxicity of herbal medications, the difficulties of causality assessment, variability of the products, possibly of contamination, lack of rigorous regulations and need for biomarkers for hepatic injury).</italic></p></annotation><pub-id pub-id-type="pmid">21167851</pub-id></mixed-citation>
+          </ref>
+          <ref id="Hydroxycut.R25">
+            <mixed-citation publication-type="journal">Teschke R, Wolff A, Frenzel C, Schulze J, Eickhoff A. Herbal hepatotoxicity: a tabular compilation of reported cases. Liver Int 2012; 32: 1543-56. <annotation><p><italic toggle="yes">(A systematic compilation of all publications on the hepatotoxicity of specific herbals identified 185 publications on 60 different herbs, herbal drugs and supplements including 3 publications on Ma Huang, 1 on ephedra species and 6 on Hydroxycut).</italic></p></annotation><pub-id pub-id-type="pmid">22928722</pub-id></mixed-citation>
+          </ref>
+          <ref id="Hydroxycut.R26">
+            <mixed-citation publication-type="journal">Senadhi V, Arora D, Arora M, Marsh F. A rare cause of drug-induced hepatitis in an immunocompromised patient and the role of glutathione. World J Hepatol 2012; 4: 248-51. <annotation><p><italic toggle="yes">(26 year old man with HIV infection developed jaundice shortly after increasing his intake of herbal pills from 24 to 48 per day [bilirubin 10.4 mg/dL), ALT 1648 U/L, Alk P 154 U/L, INR normal], resolving within 3 weeks of stopping herbals).</italic></p></annotation><pub-id pub-id-type="pmid">22993667</pub-id></mixed-citation>
+          </ref>
+          <ref id="Hydroxycut.R27">
+            <mixed-citation publication-type="journal">Bunchorntavakul C, Reddy KR. Review article: herbal and dietary supplement hepatotoxicity. Aliment Pharmacol Ther 2013; 37: 3-17. <annotation><p><italic toggle="yes">(Systematic review of literature on HDS associated liver injury, discusses individual botanicals as well as the multi-ingredient products of Herbalife and Hydroxycut that have been linked to cases of clinically apparent liver injury that is usually hepatocellular in pattern and can be severe).</italic></p></annotation><pub-id pub-id-type="pmid">23121117</pub-id></mixed-citation>
+          </ref>
+          <ref id="Hydroxycut.R28">
+            <mixed-citation publication-type="journal">Bj&#x000f6;rnsson ES, Bergmann OM, Bj&#x000f6;rnsson HK, Kvaran RB, Olafsson S. Incidence, presentation and outcomes in patients with drug-induced liver injury in the general population of Iceland. Gastroenterology 2013; 144: 1419-25. <annotation><p><italic toggle="yes">(In a population based study of drug induced liver injury from Iceland, 96 cases were identified over a 2 year period [2010-12], including 15 attributed to herbals or dietary supplements, but none to Ephedra, Ma Huang or a Hydroxycut product).</italic></p></annotation><pub-id pub-id-type="pmid">23419359</pub-id></mixed-citation>
+          </ref>
+          <ref id="Hydroxycut.R29">
+            <mixed-citation publication-type="journal">Teschke R, Schulze J, Schwarzenboeck A, Eickhoff A, Frenzel C. Herbal hepatotoxicity: suspected cases assessed for alternative causes. Eur J Gastroenterol Hepatol 2013; 25: 1093-8. <annotation><p><italic toggle="yes">(Review of the literature of case series of suspected HDS related liver injury found evidence of other explanations for the liver injury in 19 of 23 publications involving 278 of 573 patients [49%] and that these other diagnoses weakened the causality assessment in most instances).</italic></p></annotation><pub-id pub-id-type="pmid">23510966</pub-id></mixed-citation>
+          </ref>
+          <ref id="Hydroxycut.R30">
+            <mixed-citation publication-type="journal">Licata A, Macaluso FS, Crax&#x000ec; A. Herbal hepatotoxicity: a hidden epidemic. Intern Emerg Med 2013; 8: 13-22. <annotation><p><italic toggle="yes">(Review and commentary on herbal hepatotoxicity discusses pyrrolizidine alkaloids, green tea, Echinacea, kava, usnic acid, ephedra and products made by Herbalife, Hydroxycut and LipoKinetix).</italic></p></annotation><pub-id pub-id-type="pmid">22477279</pub-id></mixed-citation>
+          </ref>
+          <ref id="Hydroxycut.R31">
+            <mixed-citation publication-type="journal">Navarro VJ, Seeff LB. Liver injury induced by herbal complementary and alternative medicine. Clin Liver Dis 2013; 17: 715-35. <annotation><p><italic toggle="yes">(Review of HDS induced liver injury including regulatory problems, difficulties in diagnosis and assessing causality; mentions that Hydroxycut products have been implicated in causing an acute hepatitis like injury, but protracted cholestatic cases have been described as well).</italic></p></annotation><pub-id pub-id-type="pmid">24099027</pub-id></mixed-citation>
+          </ref>
+          <ref id="Hydroxycut.R32">
+            <mixed-citation publication-type="journal">Navarro VJ, Barnhart H, Bonkovsky HL, Davern T, Fontana RJ, Grant L, Reddy KR, et al. Liver injury from herbals and dietary supplements in the U.S. Drug-Induced Liver Injury Network. Hepatology 2014; 60:1399-408. <annotation><p><italic toggle="yes">(Among 130 cases of HDS associated liver injury enrolled in a US prospective study between 2004 and 2013, Hydroxycut was implicated in 5 cases of the 85 nonanabolic steroid cases [6%]).</italic></p></annotation><pub-id pub-id-type="pmid">25043597</pub-id></mixed-citation>
+          </ref>
+          <ref id="Hydroxycut.R33">
+            <mixed-citation publication-type="journal">Rossi S, Navarro VJ. Herbs and liver injury: a clinical perspective. Clin Gastroenterol Hepatol 2014; 12: 1069-76. <annotation><p><italic toggle="yes">(Review of HDS induced liver injury including regulatory problems, difficulties in diagnosis and assessing causality; mentions that Hydroxycut products were first implicated in hepatotoxicity in 2005 and that cases of liver injury continued to occur even after removal of ephedra in 2009 which led to an FDA warning letter).</italic></p></annotation><pub-id pub-id-type="pmid">23924877</pub-id></mixed-citation>
+          </ref>
+          <ref id="Hydroxycut.R34">
+            <mixed-citation publication-type="journal">Navarro VJ, Lucena MI. Hepatotoxicity induced by herbal and dietary supplements. Semin Liver Dis 2014; 34: 172-93. <annotation><p><italic toggle="yes">(Review of HDS induced liver injury including regulatory problems, difficulties in diagnosis and assessing causality; mentions Hydroxycut and Herbalife as multi-ingredient supplements implicated in rare instances of severe, acute liver injury).</italic></p></annotation><pub-id pub-id-type="pmid">24879982</pub-id></mixed-citation>
+          </ref>
+          <ref id="Hydroxycut.R35">
+            <mixed-citation publication-type="journal">Kaswala D, Shah S, Patel N, Raisoni S, Swaminathan S. Hydroxycut-induced Liver Toxicity. Ann Med Health Sci Res 2014; 4: 143-5. <annotation><p><italic toggle="yes">(27 year old man developed fever and jaundice while taking HDS products including a Hydroxycut product for weight loss [bilirubin 14.7 mg/dL, ALT 5100 U/L, Alk P 99 U/L], with improvement on stopping but no long term follow up).</italic></p></annotation><pub-id pub-id-type="pmid">24669349</pub-id></mixed-citation>
+          </ref>
+          <ref id="Hydroxycut.R36">
+            <mixed-citation publication-type="journal">Seeff LB, Bonkovsky HL, Navarro VJ, Wang G. Herbal products and the liver: a review of adverse effects and mechanisms. Gastroenterology 2015; 148: 517-532. <annotation><p><italic toggle="yes">(Extensive review of possible beneficial as well as harmful effects of herbal products on the liver mentions that multi-ingredient supplements have been implicated in many cases of liver injury including proprietary agents marketed under the names Herbalife, Hydroxycut and OxyELITE Pro).</italic></p></annotation><pub-id pub-id-type="pmid">25500423</pub-id></mixed-citation>
+          </ref>
+          <ref id="Hydroxycut.R37">
+            <mixed-citation publication-type="journal">Stickel F, Shouval D. Hepatotoxicity of herbal and dietary supplements: an update. Arch Toxicol 2015; 89: 851-65. <annotation><p><italic toggle="yes">(Extensive review of liver injury due to HDS mentions that Hydroxycut products have been associated with both hepatocellular and cholestatic injury).</italic></p></annotation><pub-id pub-id-type="pmid">25680499</pub-id></mixed-citation>
+          </ref>
+          <ref id="Hydroxycut.R38">
+            <mixed-citation publication-type="journal">Araujo JL, Worman HJ. Acute liver injury associated with a newer formulation of the herbal weight loss supplement Hydroxycut. BMJ Case Rep 2015; 2015. <annotation><p><italic toggle="yes">(41 year old man developed jaundice 8 weeks after starting Hydroxycut &#x0201c;SX-7 Clean Sensory formulation&#x0201d; [bilirubin 8.3 mg/dL, ALT 6,218 U/L, Alk P 109 U/L, INR 5.0], with transient hepatic encephalopathy but subsequent complete resolution within 3 months of stopping).</italic></p></annotation><pub-id pub-id-type="pmid">25948859</pub-id></mixed-citation>
+          </ref>
+          <ref id="Hydroxycut.R39">
+            <mixed-citation publication-type="journal">Haimowitz S, Hsieh J, Shcherba M, Averbukh Y. Liver failure after Hydroxycut&#x02122; use in a patient with undiagnosed hereditary coproporphyria. J Gen Intern Med 2015; 30: 856-9. <annotation><p><italic toggle="yes">(23 year old man developed rash [&#x0201c;photosensitive&#x0201d;], fever and jaundice several months after starting Hydroxycut for weight loss [bilirubin 24.4 mg/dL, ALT 92 U/L, Alk P 91 U/L, INR 1.5] and had a prolonged and complicated course during which the diagnosis of hereditary coproporphyria was made, possibly explaining at least some of the clinical features).</italic></p></annotation><pub-id pub-id-type="pmid">25666208</pub-id></mixed-citation>
+          </ref>
+          <ref id="Hydroxycut.R40">
+            <mixed-citation publication-type="journal">Chalasani N, Bonkovsky HL, Fontana R, Lee W, Stolz A, Talwalkar J, Reddy KR, et al.; United States Drug Induced Liver Injury Network. Features and outcomes of 899 patients with drug-induced liver injury: The DILIN Prospective Study. Gastroenterology 2015; 148: 1340-52. <annotation><p><italic toggle="yes">(Among 899 cases of drug induced liver injury enrolled in a prospective database between 2004 and 2012, HDS were implicated in 145 [16%] of which 5 were attributed to Hydroxycut [Navarro. Hepatology 2014]).</italic></p></annotation><pub-id pub-id-type="pmid">25754159</pub-id></mixed-citation>
+          </ref>
+          <ref id="Hydroxycut.R41">
+            <mixed-citation publication-type="journal">Zheng EX, Navarro VJ. Liver injury from herbal, dietary, and weight loss supplements: a review. J Clin Transl Hepatol 2015; 3: 93-8. <annotation><p><italic toggle="yes">(Review of literature on liver injury due to HDS products used for weight loss, focusing upon the case series of liver injury attributed to Herbalife, Hydroxycut and OxyELITE Pro products which was predominantly hepatocellular (acute hepatitis-like) and had a significant mortality rate).</italic></p></annotation><pub-id pub-id-type="pmid">26357638</pub-id></mixed-citation>
+          </ref>
+          <ref id="Hydroxycut.R42">
+            <mixed-citation publication-type="journal">Garc&#x000ed;a-Cort&#x000e9;s M, Robles-D&#x000ed;az M, Ortega-Alonso A, Medina-Caliz I, Andrade RJ. Hepatotoxicity by Dietary Supplements: A tabular listing and clinical characteristics. Int J Mol Sci 2016; 17(4). pii: E537. <annotation><p><italic toggle="yes">(Listing of published cases of liver injury from HDS products including 11 reports describing a total of 57 cases attributed to Herbalife products published between 2004 and 2015).</italic></p></annotation><pub-id pub-id-type="pmid">27070596</pub-id></mixed-citation>
+          </ref>
+          <ref id="Hydroxycut.R43">
+            <mixed-citation publication-type="journal">
+              <annotation>
+                <p>
+                  <italic toggle="yes">Avigan MI, Mozersky RP, Seeff LB. Scientific and regulatory perspectives in herbal and dietary supplement associated hepatotoxicity in the United States. Int J Mol Sci 2016; 17: 331. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/pubmed/26950122">PubMed Citation</ext-link> (Overview of the US regulations regarding herbal and dietary supplements and role of FDA, Department of Agriculture, Federal Trade Commission and Office of Dietary Supplements of the NIH in assessment of safety of HDS products including actions taken against Hydroxycut, Lipokinetix and OxyELITE Pro when reports of liver injury appeared in postmarketing phase).</italic>
+                </p>
+              </annotation>
+            </mixed-citation>
+          </ref>
+          <ref id="Hydroxycut.R44">
+            <mixed-citation publication-type="journal">
+              <annotation>
+                <p>
+                  <italic toggle="yes">Marcus DM. Dietary supplements: What's in a name? What's in the bottle? Drug Test Anal 2016; 8 (3-4): 410-2. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/pubmed/27072845">PubMed Citation</ext-link> (Commentary on regulation of HDS products concludes: "the marketing of botanical supplements is based on unfounded claims that they are safe and effective", and "there is no reason to take herbal medicines whose composition and benefits are unknown and whose risks are evident").</italic>
+                </p>
+              </annotation>
+            </mixed-citation>
+          </ref>
+          <ref id="Hydroxycut.R45">
+            <mixed-citation publication-type="journal">Brown AC. An overview of herb and dietary supplement efficacy, safety and government regulations in the United States with suggested improvements. Part 1 of 5 series. Food Chem Toxicol 2017; 107 (Pt A): 449-71. <annotation><p><italic toggle="yes">(Summary of the US regulations on safety and efficacy of herbal and dietary supplements).</italic></p></annotation><pub-id pub-id-type="pmid">27818322</pub-id></mixed-citation>
+          </ref>
+          <ref id="Hydroxycut.R46">
+            <mixed-citation publication-type="journal">Brown AC. Liver toxicity related to herbs and dietary supplements: Online table of case reports. Part 2 of 5 series. Food Chem Toxicol 2017; 107 (Pt A): 472-501. <annotation><p><italic toggle="yes"> (Description of an online compendium of cases of liver toxicity attributed to HDS products, lists at least 46 published cases of green tea associated liver injury and concludes that green tea may warrant a warning label).</italic></p></annotation><pub-id pub-id-type="pmid">27402097</pub-id></mixed-citation>
+          </ref>
+          <ref id="Hydroxycut.R47">
+            <mixed-citation publication-type="journal">Wong LL, Lacar L, Roytman M, Orloff SL. Urgent liver transplantation for dietary supplements: an under-recognized problem. Transplant Proc 2017; 49: 322-5. <annotation><p><italic toggle="yes">(Among 2048 adult liver transplants recipients enrolled in the Scientific Registry of Transplant Recipients [SRTR] between 2003 and 2015, 625 were done for acute hepatic necrosis due to drug induced liver injury, half being due to acetaminophen and the 4th most frequent cause [n=21] being HDS products).</italic></p></annotation><pub-id pub-id-type="pmid">28219592</pub-id></mixed-citation>
+          </ref>
+          <ref id="Hydroxycut.R48">
+            <mixed-citation publication-type="journal">de Boer YS, Sherker AH. Herbal and dietary supplement-induced liver injury. Clin Liver Dis 2017; 21: 135-49. <annotation><p><italic toggle="yes"> (Review of the frequency, clinical features, patterns of injury and outcomes of HDS hepatotoxicity with specific mention of anabolic steroids, black cohosh, germander, green tea, kava, pyrrolizidine alkaloids and proprietary multiingredient nutrition supplements [MINS] such as Hydroxycut products).</italic></p></annotation><pub-id pub-id-type="pmid">27842768</pub-id></mixed-citation>
+          </ref>
+          <ref id="Hydroxycut.R49">
+            <mixed-citation publication-type="journal">Vega M, Verma M, Beswick D, Bey S, Hossack J, Merriman N, Shah A, et al; Drug Induced Liver Injury Network (DILIN). The incidence of drug- and herbal and dietary supplement-induced liver injury: preliminary findings from gastroenterologist-based surveillance in the population of the State of Delaware. Drug Saf 2017; 40: 783-7. <annotation><p><italic toggle="yes">(A prospective, population based registry of cases of drug induced liver injury occurring in Delaware during 2014, identified 20 cases [2.7 per 100,000] overall, including 6 due to HDS products, all of which were proprietary multiingredient supplements, but none were Hydroxycut products).</italic></p></annotation><pub-id pub-id-type="pmid">28555362</pub-id></mixed-citation>
+          </ref>
+          <ref id="Hydroxycut.R50">
+            <mixed-citation publication-type="journal">Navarro VJ, Khan I, Bj&#x000f6;rnsson E, Seeff LB, Serrano J, Hoofnagle JH. Liver injury from herbal and dietary supplements. Hepatology 2017; 65: 363-73. <annotation><p><italic toggle="yes"> (Review of the problems of liver injury and HDS products and challenges for future research concludes that stronger regulations are needed to address the increasing number of cases of HDS induced liver injury, particularly those linked to use of multiingredient dietary supplements such as Hydroxycut products).</italic></p></annotation><pub-id pub-id-type="pmid">27677775</pub-id></mixed-citation>
+          </ref>
+          <ref id="Hydroxycut.R51">
+            <mixed-citation publication-type="journal">Adike A, Smith ML, Chervenak A, Vargas HE. Hydroxycut-related vanishing bile duct syndrome. Clin Gastroenterol Hepatol 2017; 15: 142-4. <annotation><p><italic toggle="yes">(49 year old woman developed jaundice 4 weeks after starting Hydroxycut for weight loss [bilirubin 6.9 mg/dL, ALT 115 U/L, Alk P 299 U/L], which improved after stopping but was followed by persistent Alk P elevations [237 to 253 U/L] without jaundice while liver biopsy showed bile duct loss).</italic></p></annotation><pub-id pub-id-type="pmid">27151488</pub-id></mixed-citation>
+          </ref>
+          <ref id="Hydroxycut.R52">
+            <mixed-citation publication-type="journal">Hu J, Webster D, Cao J, Shao A. The safety of green tea and green tea extracts consumption in adults - results of a systematic review. Regul Toxicol Pharmacol 2018 Mar 23. [Epub ahead of print] <annotation><p><italic toggle="yes">(Extensive review of published toxicology of green tea concludes that hepatotoxicity may occur with high doses, the safe level in adults being 338 mg of EGCG daily when taken as pills or powder and 704 mg daily in tea preparations in beverage form).</italic></p></annotation><pub-id pub-id-type="pmid">29580974</pub-id></mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec id="Hydroxycut.OTHER_REFERENCE_LINKS" sec-type="link-group">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=(Hydroxycut/AE)+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D%3A%222999/12/31%22%5BEDat%5D)">Recent References on Hydroxycut: from PubMed.gov</ext-link>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Hydroxycut">Trials on Hydroxycut: from ClinicalTrials.gov</ext-link>
+            </p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

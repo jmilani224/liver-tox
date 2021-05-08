@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Anticoagulants" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Anticoagulants</book-part-id>
+      <title-group>
+        <title>Antithrombotic Agents</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>25</day>
+          <month>9</month>
+          <year>2020</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="AntirheumaticAgents" document-type="chapter">Antirheumatic Agents</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="AntithymocyteGlobuli" document-type="chapter">Antithymocyte Globulin</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Anticoagulants.OVERVIEW">
+        <title>OVERVIEW</title>
+        <p content-type="pubmed-excerpt">Antithrombotic agents are separated into those drugs that decrease the synthesis of coagulation factors or interrupt the coagulation cascade (anticoagulants) and those that inhibit platelet function (antiplatelet agents). A third class of agents are the thrombolytic drugs which act to promote dissolution of thromboses after they have formed. The antithrombotic agents are rare causes of clinically apparent acute liver injury.</p>
+        <p content-type="pubmed-excerpt"><bold>Anticoagulants</bold> are used largely for the prevention and treatment of venous thromboses, although they have some activity against arterial thromboses. Their major clinical use is prevention and treatment of deep vein thrombosis in high risk persons (such as after hip or knee replacement surgery or with prolonged immobilization), prevention and treatment of pulmonary embolism, and prevention of arterial embolism in patients with atrial fibrillation.</p>
+        <p content-type="pubmed-excerpt">The anticoagulant agents in clinical use and their year of approval include heparin and its low molecular weight derivatives dalteparin (Fragmin: 1994), enoxaparin (Lovenox: 1993), and tinzaparin (Innohep: 2000); direct thrombin inhibitors such as dabigatran (Pradaxa: 2010) and desirudin (Iprivask: 2003); factor Xa inhibitors such as fondaparinux (Arixtra: 2001), rivaroxaban (Xarelto: 2011), apixaban (Eliquis: 2012) and edoxaban (Savaysa: 2015); and warfarin (Coumadin: 1967), a vitamin K antagonist. Each of the following anticoagulants is discussed individually with accompanying references.</p>
+        <list list-type="bullet">
+          <list-item>
+            <p><related-object link-type="booklink" source-id="livertox" document-id="Dabigatran" document-type="chapter">Dabigatran</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Desirudin" document-type="chapter">Desirudin</related-object></p>
+          </list-item>
+          <list-item>
+            <p><related-object link-type="booklink" source-id="livertox" document-id="Apixaban" document-type="chapter">Apixaban</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Betrixaban" document-type="chapter">Betrixaban</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Edoxaban" document-type="chapter">Edoxaban</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Fondaparinux" document-type="chapter">Fondaparinux</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Rivaroxaban" document-type="chapter">Rivaroxaban</related-object></p>
+          </list-item>
+          <list-item>
+            <p><related-object link-type="booklink" source-id="livertox" document-id="Heparins" document-type="chapter">Heparins</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Heparin" document-type="chapter">Heparin</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="LMW-Heparins" document-type="chapter">Dalteparin</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="LMW-Heparins" document-type="chapter">Enoxaparin</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="LMW-Heparins" document-type="chapter">Tinzaparin</related-object></p>
+          </list-item>
+          <list-item>
+            <p>
+              <related-object link-type="booklink" source-id="livertox" document-id="Warfarin" document-type="chapter">Warfarin</related-object>
+            </p>
+          </list-item>
+        </list>
+        <p><bold>Antiplatelet agents</bold> are effective for the prevention and treatment of arterial thromboses (which are platelet rich). Aspirin is an irreversible inhibitor of cyclooxygenase 1, which blocks platelet activation and aggregation for the life of the platelet. Aspirin is commonly used for treatment and prevention of coronary, cerebrovascular and other arterial thromboses (myocardial infarction, stroke, peripheral vascular disease). Dipyridamole increases cyclic adenosine monophosphate (cAMP) levels in platelets by blocking adenosine uptake or inhibiting phosphodiesterases which metabolize cAMP. The increased cAMP levels result in inhibition of platelet aggregation. Dipyridamole is used with or without aspirin for secondary prevention of myocardial infarction or stroke. The thienopyridines, ticlopidine, clopidogrel and prasugrel, inhibit the major adenosine diphosphate receptor (also known as the purinergic receptor, P2Y-12) on platelets which blocks their activation and aggregation. These agents are used for secondary prevention of coronary and cerebrovascular thrombosis. Ticagrelor is a non-thienopyridine platelet aggregation inhibitor with activity similar to the thienopyridines. Ticagrelor is used with aspirin (&#x0003c;100 mg daily) as secondary prevention of arterial thrombosis with acute coronary syndrome. Cangrelor is a platelet aggregation inhibitor similar to ticagrelor which is administered intravenously and has a rapid onset of action and rapid half-life, making it an appropriate as therapy of acute cardiovascular events. Vorapaxar is a inhibitor of the protease-activated receptor 1 (PAR-1) found on platelets that inhibits platelet aggregation and is used to reduct the risk of atherosclerotic events in high risk patients. Finally, the glycoprotein IIb/IIIa receptor blockers have an immediate effect in preventing platelet aggregation, blocking the action of fibrinogen and von Willebrand factor on these platelet receptors; these agents are administered intravenously and are used to attain immediate platelet inhibition in acute coronary syndrome or percutaneous coronary artery intervention. Because of their restricted use, the glycoprotein IIb/IIIa receptor inhibitors are not discussed individually in LiverTox. They have not been convincingly linked to instances of clinically apparent acute liver injury.</p>
+        <p>The antiplatelet drugs in current use and their year of approval include aspirin; dipyridamole (Persantine: 1961); the thienopyridine inhibitors of P2Y-12 including ticlopidine (Ticid: 1991), clopidogrel (Plavix: 1997), and prasugrel (Effient: 2009); the non-thienopyridine P2Y-12 inhibitors ticagrelor (Brilinta: 2011) and cangrelor (Kenreal: 2015); an inhibitor of PAR-1 vorapaxar (Zontivity: 2014); and the intravenously administered glycoprotein IIb/IIIa receptor blockers including abciximab (ReoPro: 1994) and eptifibatide (Integrilin: 1998). Each of the following antiplatelet agents is discussed individually with accompanying references.</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>
+              <related-object link-type="booklink" source-id="livertox" document-id="Aspirin" document-type="chapter">Aspirin</related-object>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <related-object link-type="booklink" source-id="livertox" document-id="Cangrelor" document-type="chapter">Cangrelor</related-object>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <related-object link-type="booklink" source-id="livertox" document-id="Clopidogrel" document-type="chapter">Clopidogrel</related-object>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <related-object link-type="booklink" source-id="livertox" document-id="Dipyridamole" document-type="chapter">Dipyridamole</related-object>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <related-object link-type="booklink" source-id="livertox" document-id="Prasugrel" document-type="chapter">Prasugrel</related-object>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <related-object link-type="booklink" source-id="livertox" document-id="Ticagrelor" document-type="chapter">Ticagrelor</related-object>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <related-object link-type="booklink" source-id="livertox" document-id="Ticlopidine" document-type="chapter">Ticlopidine</related-object>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <related-object link-type="booklink" source-id="livertox" document-id="Vorapaxar" document-type="chapter">Vorapaxar</related-object>
+            </p>
+          </list-item>
+        </list>
+        <p><bold>Thrombolytic drugs</bold> include tissue plasminogen activators (tPA: alteplase, reteplase and tenecteplase), anistreplase, streptokinase and urokinase. These agents are administered intravenously immediately or soon after after arterial or venous thromboses or emboli. These agents have not been definitely linked to instances of acute liver injury. Because of their highly restricted use, they are not discussed in LiverTox.</p>
+        <p><bold>Other antithrombotic agents</bold> include <related-object link-type="booklink" source-id="livertox" document-id="Defibrotide" document-type="chapter">defibrotide</related-object>, which is a complex mixture of single stranded polydeoxyribonucleotides derived from porcine intestinal mucosa that has antithrombotic and profibrinolytic activity and is used in the treatment of severe sinusoidal obstruction syndrome after hematopoietic cell transplantation. Finally, <related-object link-type="booklink" source-id="livertox" document-id="Anagrelide" document-type="chapter">anagrelide</related-object> is an antithrombotic agent that inhibits the production of platelets, thereby reducing platelet counts, which is used to treat essential thrombocytosis and other causes of thombocythemia associated with an increased rate of arterial or venous thromboses.</p>
+      </sec>
+      <sec id="Anticoagulants.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 25 September 2020</p>
+        <ref-list id="Anticoagulants.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Anticoagulants.REF.zimmerman.1999">
+            <mixed-citation publication-type="book">Zimmerman HJ. Platelet aggregation inhibitors. Drugs used in cardiovascular disease. In, Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999, pp. 641-3.<annotation><p><italic toggle="yes">(Textbook of hepatotoxicity published in 1999).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Anticoagulants.REF.de_marzio.2013">
+            <mixed-citation publication-type="book">De Marzio DH, Navarro VJ. Hepatotoxicity of cardiovascular and antidiabetic drugs: antihypertensives. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013, p. 528.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of anticoagulant and antiplatelet drugs published in 2013).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Anticoagulants.REF.hogg.2018">
+            <mixed-citation publication-type="book">Hogg K, Weitz JI. Blood coagulation and anticoagulant, fibrinolytic, and antiplatelet drugs. In, Brunton LL, Hilal-Dandan R, Knollman BC, eds. Goodman &#x00026; Gilman's the pharmacological basis of therapeutics. 13th ed. New York: McGraw-Hill, 2018, pp. 849-76.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Anticoagulants.REF.chalasani.2015.1340">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Chalasani</surname>
+                  <given-names>N</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Bonkovsky</surname>
+                  <given-names>HL</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Fontana</surname>
+                  <given-names>R</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Lee</surname>
+                  <given-names>W</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Stolz</surname>
+                  <given-names>A</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Talwalkar</surname>
+                  <given-names>J</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Reddy</surname>
+                  <given-names>KR</given-names>
+                </name>
+                <etal/>
+              </person-group>
+              <article-title>United States Drug Induced Liver Injury Network. Features and outcomes of 899 patients with drug-induced liver injury: The DILIN Prospective Study.</article-title>
+              <source>Gastroenterology</source>
+              <year>2015</year>
+              <volume>148</volume>
+              <fpage>1340</fpage>
+              <lpage>52.e7</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Among 899 cases of drug induced liver injury enrolled in a US prospective study between 2004 and 2013, two were attributed to antithrombotic agents, one to prasugrel and one to dalteparin; none were due to ticagrelor).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">25754159</pub-id>
+            </element-citation>
+          </ref>
+        </ref-list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

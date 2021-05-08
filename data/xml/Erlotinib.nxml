@@ -1,0 +1,577 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Erlotinib" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Erlotinib</book-part-id>
+      <title-group>
+        <title>Erlotinib</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>28</day>
+          <month>6</month>
+          <year>2018</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Eribulin" document-type="chapter">Eribulin</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Ertapenem" document-type="chapter">Ertapenem</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Erlotinib.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Erlotinib.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Erlotinib is a tyrosine kinase receptor inhibitor that is used in the therapy of advanced or metastatic pancreatic or non-small cell lung cancer. Erlotinib therapy is associated with transient elevations in serum aminotransferase levels during therapy and rare instances of clinically apparent acute liver injury.</p>
+        </sec>
+        <sec id="Erlotinib.Background">
+          <title>Background</title>
+          <p>Erlotinib (er loe' ti nib) is a selective inhibitor of several tyrosine kinase receptors which are associated with tumor growth and angiogenesis. The tyrosine kinase receptors are often mutated and over expressed in tumor tissue and cause unregulated cell growth and proliferation. Erlotinib is one of several tyrosine kinase inhibitors that have been introduced into cancer chemotherapy and are specially directed at molecular abnormalities that occur in cancer cells. Inhibition of the receptor can lead to reversal of progression of the cancer, although clinical responses are sometimes limited by the development of tumor resistance caused by further mutations in the receptor gene. Erlotinib has special activity against the human epidermal growth factor (EGF) tyrosine kinase receptors HER-1 and EGFR which are found in several forms of cancer. Erlotinib received approval for use in the United States in 2004. Current indications are for locally advanced, unresectable or metastatic pancreatic cancer in combination with gemcitabine and for locally advanced or metastatic non-small-cell lung cancer as a first line treatment in patients with specific, erlotinib sensitive mutations in EGFR or after failure of at least one chemotherapy regimen. Erlotinib is available in tablets of 25, 100 and 150 mg under the brand name Tarceva, and the typical dose is either 100 mg (pancreatic cancer) or 150 mg (lung cancer) once daily by mouth, continued until disease progresses or intolerable toxicity occurs. Side effects include fatigue, rash, diarrhea, anorexia, skin discoloration, hand-foot syndrome, edema, muscle cramps, arthralgias, headache, abdominal discomfort, anemia, cough, and pruritus. Uncommon, but potentially severe side effects include heart failure, interstitial lung disease, gastrointestinal perforation, pancreatitis, renal failure, severe skin reactions and embryo-fetal toxicity.</p>
+        </sec>
+        <sec id="Erlotinib.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>Elevations in serum aminotransferase levels are common during erlotinib therapy of pancreatic and lung cancers, and values above 5 times the upper limit of normal occur in at least 10% of patients. Similar rates of ALT elevations, however, can occur with comparable antineoplastic regimens. The abnormalities are usually asymptomatic and self-limited, but may require dose adjustment or discontinuation (Case 1). In addition, there have been rare reports of clinically apparent liver injury attributed to erlotinib therapy. The time to onset is typically within days or weeks of starting therapy, and the liver injury can be severe, there being at least a dozen fatal instances reported in the literature. The onset of injury can be abrupt and the pattern of serum enzyme elevations is usually hepatocellular (Case 2). Immunoallergic features (rash, fever and eosinophilia) are not common and autoantibody formation has not been reported. Routine monitoring of liver tests during therapy is recommended. The rate of clinically significant liver injury and hepatic failure is increased in patients with preexisting cirrhosis or hepatic impairment due to liver tumor burden.</p>
+          <p>Likelihood score: B (likely but uncommon cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Erlotinib.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The abrupt and severe nature of the clinically apparent liver injury attributed to erlotinib suggests that it is immunologically mediated. In contrast, the transient serum enzyme elevations that occur during therapy may have a different cause and be the result of direct toxicity. Erlotinib is metabolized in the liver through the cytochrome P450 system (largely CYP 3A4).</p>
+        </sec>
+        <sec id="Erlotinib.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>Liver injury due to erlotinib varies in severity from minor, transient serum enzyme elevations to acute symptomatic hepatitis and acute liver failure. Monitoring of routine liver tests before starting and at regular intervals during erlotinib therapy is recommended. Serum aminotransferase elevations above 5 times the upper limit of normal (if confirmed) should lead to temporary discontinuation, which should be permanent if laboratory values do not improve significantly or resolve within 3 weeks. Restarting therapy is usually, but not always followed by recurrence of the serum enzyme elevations. There appears to be partial cross sensitivity to liver injury among similar tyrosine kinase receptor inhibitors and, in some situations, switching to another with careful monitoring may be appropriate. Cases of acute liver failure have occurred in patients receiving erlotinib and are challenging as these patients rarely qualify for liver transplantation. Patients with acute liver failure due to erlotinib have been treated with corticosteroids, but there benefit remains unproven. In using this medication, other potentially hepatotoxic agents should be avoided (such as high doses of acetaminophen).</p>
+          <p>Drug Class: <related-object source-id="livertox" document-id="AntineoplasticAgents">Antineoplastic Agents</related-object>, <related-object source-id="livertox" document-id="ProteinKinaseInhibit">Protein Kinase Inhibitors</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Erlotinib.CASE_REPORTS">
+        <title>CASE REPORTS</title>
+        <sec id="Erlotinib.Case_1._Serum_enzyme_elevation">
+          <title>Case 1. Serum enzyme elevations due to erlotinib therapy.</title>
+          <p>[Modified from: Saif MW. Erlotinib-induced acute hepatitis in a patient with pancreatic cancer. Clin Adv Hematol Oncol 2008; 6: 191-9. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/pubmed/18391918">PubMed Citation</ext-link>]</p>
+          <p>A 52 year old man with locally advanced pancreatic cancer developed rising serum enzyme elevations 7 weeks after starting erlotinib therapy. He had presented initially with jaundice and was found to have a mass in the head of the pancreas that was shown to be adenocarcinoma by thin needle aspiration. He was treated initially with biliary stenting followed by gemcitabine, oxaliplatin and external beam radiation. Because of unresectability and oxaliplatin induced neuropathy, he was then treated with gemcitabine and erlotinib. His baseline liver tests were mildly abnormal and he was monitored carefully during erlotinib therapy. Seven weeks after stating erlotinib, serum ALT and alkaline phosphatase levels began to rise (Table). He was maintained on erlotinib and gemcitabine and monitored more carefully. Eleven weeks into treatment, however, serum enzymes had risen to more than 5 times the upper limit of the normal range. Tests for hepatitis A, B and C were negative and he was taking no other medications. Abdominal imaging showed no interval change in the pancreatic mass and no evidence of extrahepatic obstruction. Erlotinib was stopped and he was maintained on gemcitabine alone. Liver enzymes decreased to baseline values within the following 8 weeks.</p>
+          <sec id="Erlotinib.Key_Points1">
+            <title>Key Points</title>
+            <table-wrap id="Erlotinib.T1" position="anchor" orientation="portrait">
+              <table>
+                <thead>
+                  <tr>
+                    <th id="hd_h_Erlotinib.T1_1_1_1_1" rowspan="1" colspan="1">Medication:</th>
+                    <td rowspan="1" colspan="1">Erlotinib (100 mg daily)</td>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <th headers="hd_h_Erlotinib.T1_1_1_1_1" id="hd_b_Erlotinib.T1_1_1_1_1" rowspan="1" colspan="1">Pattern:</th>
+                    <td headers="hd_b_Erlotinib.T1_1_1_1_1" rowspan="1" colspan="1">Cholestatic (R=1.9)</td>
+                  </tr>
+                  <tr>
+                    <th headers="hd_h_Erlotinib.T1_1_1_1_1" id="hd_b_Erlotinib.T1_1_1_2_1" rowspan="1" colspan="1">Severity:</th>
+                    <td headers="hd_b_Erlotinib.T1_1_1_2_1" rowspan="1" colspan="1">1+ (serum enzyme elevations only)</td>
+                  </tr>
+                  <tr>
+                    <th headers="hd_h_Erlotinib.T1_1_1_1_1" id="hd_b_Erlotinib.T1_1_1_3_1" rowspan="1" colspan="1">Latency:</th>
+                    <td headers="hd_b_Erlotinib.T1_1_1_3_1" rowspan="1" colspan="1">7-13 weeks</td>
+                  </tr>
+                  <tr>
+                    <th headers="hd_h_Erlotinib.T1_1_1_1_1" id="hd_b_Erlotinib.T1_1_1_4_1" rowspan="1" colspan="1">Recovery:</th>
+                    <td headers="hd_b_Erlotinib.T1_1_1_4_1" rowspan="1" colspan="1">8 weeks</td>
+                  </tr>
+                  <tr>
+                    <th headers="hd_h_Erlotinib.T1_1_1_1_1" id="hd_b_Erlotinib.T1_1_1_5_1" rowspan="1" colspan="1">Other medications:</th>
+                    <td headers="hd_b_Erlotinib.T1_1_1_5_1" rowspan="1" colspan="1">Gemcitabine</td>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Erlotinib.Laboratory_Values1">
+            <title>Laboratory Values</title>
+            <table-wrap id="Erlotinib.T2" position="anchor" orientation="portrait">
+              <table>
+                <thead>
+                  <tr>
+                    <th id="hd_h_Erlotinib.T2_1_1_1_1" rowspan="1" colspan="1">Time After Starting</th>
+                    <th id="hd_h_Erlotinib.T2_1_1_1_2" rowspan="1" colspan="1">Time After Stopping</th>
+                    <th id="hd_h_Erlotinib.T2_1_1_1_3" rowspan="1" colspan="1">ALT (U/L)</th>
+                    <th id="hd_h_Erlotinib.T2_1_1_1_4" rowspan="1" colspan="1">Alk P (U/L)</th>
+                    <th id="hd_h_Erlotinib.T2_1_1_1_5" rowspan="1" colspan="1">Bilirubin (mg/dL)</th>
+                    <th id="hd_h_Erlotinib.T2_1_1_1_6" rowspan="1" colspan="1">Other</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td headers="hd_h_Erlotinib.T2_1_1_1_1" rowspan="1" colspan="1">- 6 months</td>
+                    <td headers="hd_h_Erlotinib.T2_1_1_1_2" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Erlotinib.T2_1_1_1_3" rowspan="1" colspan="1">39</td>
+                    <td headers="hd_h_Erlotinib.T2_1_1_1_4" rowspan="1" colspan="1">85</td>
+                    <td headers="hd_h_Erlotinib.T2_1_1_1_5" rowspan="1" colspan="1">0.5</td>
+                    <td headers="hd_h_Erlotinib.T2_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Erlotinib.T2_1_1_1_1" rowspan="1" colspan="1">0</td>
+                    <td headers="hd_h_Erlotinib.T2_1_1_1_2" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Erlotinib.T2_1_1_1_3" rowspan="1" colspan="1">53</td>
+                    <td headers="hd_h_Erlotinib.T2_1_1_1_4" rowspan="1" colspan="1">176</td>
+                    <td headers="hd_h_Erlotinib.T2_1_1_1_5" rowspan="1" colspan="1">0.5</td>
+                    <td headers="hd_h_Erlotinib.T2_1_1_1_6" rowspan="1" colspan="1">Erlotinib started</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Erlotinib.T2_1_1_1_1" rowspan="1" colspan="1">4 weeks</td>
+                    <td headers="hd_h_Erlotinib.T2_1_1_1_2" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Erlotinib.T2_1_1_1_3" rowspan="1" colspan="1">41</td>
+                    <td headers="hd_h_Erlotinib.T2_1_1_1_4" rowspan="1" colspan="1">144</td>
+                    <td headers="hd_h_Erlotinib.T2_1_1_1_5" rowspan="1" colspan="1">0.3</td>
+                    <td headers="hd_h_Erlotinib.T2_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Erlotinib.T2_1_1_1_1" rowspan="1" colspan="1">6 weeks</td>
+                    <td headers="hd_h_Erlotinib.T2_1_1_1_2" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Erlotinib.T2_1_1_1_3" rowspan="1" colspan="1">76</td>
+                    <td headers="hd_h_Erlotinib.T2_1_1_1_4" rowspan="1" colspan="1">145</td>
+                    <td headers="hd_h_Erlotinib.T2_1_1_1_5" rowspan="1" colspan="1">0.5</td>
+                    <td headers="hd_h_Erlotinib.T2_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Erlotinib.T2_1_1_1_1" rowspan="1" colspan="1">9 weeks</td>
+                    <td headers="hd_h_Erlotinib.T2_1_1_1_2" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Erlotinib.T2_1_1_1_3" rowspan="1" colspan="1">70</td>
+                    <td headers="hd_h_Erlotinib.T2_1_1_1_4" rowspan="1" colspan="1">162</td>
+                    <td headers="hd_h_Erlotinib.T2_1_1_1_5" rowspan="1" colspan="1">0.4</td>
+                    <td headers="hd_h_Erlotinib.T2_1_1_1_6" rowspan="1" colspan="1">CT scan: no change</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Erlotinib.T2_1_1_1_1" rowspan="1" colspan="1">11 weeks</td>
+                    <td headers="hd_h_Erlotinib.T2_1_1_1_2" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Erlotinib.T2_1_1_1_3" rowspan="1" colspan="1">131</td>
+                    <td headers="hd_h_Erlotinib.T2_1_1_1_4" rowspan="1" colspan="1">283</td>
+                    <td headers="hd_h_Erlotinib.T2_1_1_1_5" rowspan="1" colspan="1">0.3</td>
+                    <td headers="hd_h_Erlotinib.T2_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Erlotinib.T2_1_1_1_1" rowspan="1" colspan="1">13 weeks</td>
+                    <td headers="hd_h_Erlotinib.T2_1_1_1_2" rowspan="1" colspan="1">0</td>
+                    <td headers="hd_h_Erlotinib.T2_1_1_1_3" rowspan="1" colspan="1">193</td>
+                    <td headers="hd_h_Erlotinib.T2_1_1_1_4" rowspan="1" colspan="1">376</td>
+                    <td headers="hd_h_Erlotinib.T2_1_1_1_5" rowspan="1" colspan="1">0.7</td>
+                    <td headers="hd_h_Erlotinib.T2_1_1_1_6" rowspan="1" colspan="1">Erlotinib stopped</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Erlotinib.T2_1_1_1_1" rowspan="1" colspan="1">14 weeks</td>
+                    <td headers="hd_h_Erlotinib.T2_1_1_1_2" rowspan="1" colspan="1">1 weeks</td>
+                    <td headers="hd_h_Erlotinib.T2_1_1_1_3" rowspan="1" colspan="1">199</td>
+                    <td headers="hd_h_Erlotinib.T2_1_1_1_4" rowspan="1" colspan="1">346</td>
+                    <td headers="hd_h_Erlotinib.T2_1_1_1_5" rowspan="1" colspan="1">0.3</td>
+                    <td headers="hd_h_Erlotinib.T2_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Erlotinib.T2_1_1_1_1" rowspan="1" colspan="1">15 weeks</td>
+                    <td headers="hd_h_Erlotinib.T2_1_1_1_2" rowspan="1" colspan="1">2 weeks</td>
+                    <td headers="hd_h_Erlotinib.T2_1_1_1_3" rowspan="1" colspan="1">288</td>
+                    <td headers="hd_h_Erlotinib.T2_1_1_1_4" rowspan="1" colspan="1">491</td>
+                    <td headers="hd_h_Erlotinib.T2_1_1_1_5" rowspan="1" colspan="1">0.4</td>
+                    <td headers="hd_h_Erlotinib.T2_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Erlotinib.T2_1_1_1_1" rowspan="1" colspan="1">16 weeks</td>
+                    <td headers="hd_h_Erlotinib.T2_1_1_1_2" rowspan="1" colspan="1">3 weeks</td>
+                    <td headers="hd_h_Erlotinib.T2_1_1_1_3" rowspan="1" colspan="1">157</td>
+                    <td headers="hd_h_Erlotinib.T2_1_1_1_4" rowspan="1" colspan="1">444</td>
+                    <td headers="hd_h_Erlotinib.T2_1_1_1_5" rowspan="1" colspan="1">0.2</td>
+                    <td headers="hd_h_Erlotinib.T2_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Erlotinib.T2_1_1_1_1" rowspan="1" colspan="1">19 weeks</td>
+                    <td headers="hd_h_Erlotinib.T2_1_1_1_2" rowspan="1" colspan="1">6 weeks</td>
+                    <td headers="hd_h_Erlotinib.T2_1_1_1_3" rowspan="1" colspan="1">85</td>
+                    <td headers="hd_h_Erlotinib.T2_1_1_1_4" rowspan="1" colspan="1">259</td>
+                    <td headers="hd_h_Erlotinib.T2_1_1_1_5" rowspan="1" colspan="1">0.3</td>
+                    <td headers="hd_h_Erlotinib.T2_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Erlotinib.T2_1_1_1_1" rowspan="1" colspan="1">22 weeks</td>
+                    <td headers="hd_h_Erlotinib.T2_1_1_1_2" rowspan="1" colspan="1">9 weeks</td>
+                    <td headers="hd_h_Erlotinib.T2_1_1_1_3" rowspan="1" colspan="1">62</td>
+                    <td headers="hd_h_Erlotinib.T2_1_1_1_4" rowspan="1" colspan="1">176</td>
+                    <td headers="hd_h_Erlotinib.T2_1_1_1_5" rowspan="1" colspan="1">0.4</td>
+                    <td headers="hd_h_Erlotinib.T2_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Erlotinib.T2_1_1_1_1 hd_h_Erlotinib.T2_1_1_1_2" colspan="2" rowspan="1">
+                      <bold>Normal Values</bold>
+                    </td>
+                    <td headers="hd_h_Erlotinib.T2_1_1_1_3" rowspan="1" colspan="1">
+                      <bold>&#x0003c;35</bold>
+                    </td>
+                    <td headers="hd_h_Erlotinib.T2_1_1_1_4" rowspan="1" colspan="1">
+                      <bold>&#x0003c;130</bold>
+                    </td>
+                    <td headers="hd_h_Erlotinib.T2_1_1_1_5" rowspan="1" colspan="1">
+                      <bold>&#x0003c;1.2</bold>
+                    </td>
+                    <td headers="hd_h_Erlotinib.T2_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Erlotinib.Comment1">
+            <title>Comment</title>
+            <p>The patient developed gradual increases in serum aminotransferase and alkaline phosphatase levels while being treated with erlotinib, and therapy was discontinued when ALT levels reached 5 times the upper limit of the normal range (considered Grade 3 toxicity). The severity of the liver injury, however, should be considered mild, as there was no jaundice and apparently no symptoms of hepatic injury. Because the patient had pancreatic cancer, the abnormalities could have indicated progressive malignant disease, particularly because of the cholestatic pattern of the enzymes and their gradual rise. However, imaging showed no evidence of an increase in the size of the pancreatic mass or evidence of biliary obstruction, and the abnormalities resolved once erlotinib was stopped. Grade 3 elevations in serum ALT levels occur in 5% to 10% of patients treated with erlotinib and gemcitabine, and this rate is only slightly higher than occurs with gemcitabine alone.</p>
+          </sec>
+        </sec>
+        <sec id="Erlotinib.Case_2._Acute_liver_failure_an">
+          <title>Case 2. Acute liver failure and death due to erlotinib therapy.</title>
+          <p>[Modified from: Liu W, Makrauer FL, Qamar AA, J&#x000e4;nne PA, Odze RD. Fulminant hepatic failure secondary to erlotinib. Clin Gastroenterol Hepatol 2007; 5: 917-20. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/pubmed/17625975">PubMed Citation</ext-link>]</p>
+          <p>A 57 year old woman with metastatic non-small cell lung cancer and mutation of the EGFR gene in tumor tissue was treated with erlotinib (150 mg daily) and developed an acne-form skin rash 2 weeks later. The rash worsened and laboratory tests showed mild elevations in serum enzymes (ALT 80 U/L with normal AST and serum bilirubin). Because of the rash and stomatitis, erlotinib was stopped. The rash and mouth ulcers resolved rapidly and 2 weeks later erlotinib was restarted; however, 10 days later she developed anorexia and jaundice. She denied fever, chills, rash or abdominal pain. She had no history of liver disease, was not taking other medications, had no risk factors for viral hepatitis and was known to have had normal liver tests in the past (Table). On examination, she was jaundiced and appeared chronically ill. Laboratory tests showed a serum bilirubin of 13.6 mg/dL with marked elevations in serum ALT [2021 U/L] and AST [1476 U/L] and minor elevations in alkaline phosphatase [304 U/L]. Erlotinib was discontinued and she was admitted for management. Liver ultrasound and computerized tomography showed a small amount of ascites, but no evidence of hepatic masses or extrahepatic obstruction. A liver biopsy showed submassive hepatic necrosis with marked portal inflammation and ductular proliferation. Tests for hepatitis A, B and C and Epstein Barr virus infection were negative as were routine autoantibodies. Over the next few days, she experienced worsening jaundice, further prolongation of prothrombin time, hepatic encephalopathy and hepatorenal syndrome, and died on the 11th hospital day. Autopsy was refused.</p>
+          <sec id="Erlotinib.Key_Points2">
+            <title>Key Points</title>
+            <table-wrap id="Erlotinib.T3" position="anchor" orientation="portrait">
+              <table>
+                <thead>
+                  <tr>
+                    <th id="hd_h_Erlotinib.T3_1_1_1_1" rowspan="1" colspan="1">Medication:</th>
+                    <td rowspan="1" colspan="1">Erlotinib (100 mg daily)</td>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <th headers="hd_h_Erlotinib.T3_1_1_1_1" id="hd_b_Erlotinib.T3_1_1_1_1" rowspan="1" colspan="1">Pattern:</th>
+                    <td headers="hd_b_Erlotinib.T3_1_1_1_1" rowspan="1" colspan="1">Hepatocellular (R=15)</td>
+                  </tr>
+                  <tr>
+                    <th headers="hd_h_Erlotinib.T3_1_1_1_1" id="hd_b_Erlotinib.T3_1_1_2_1" rowspan="1" colspan="1">Severity:</th>
+                    <td headers="hd_b_Erlotinib.T3_1_1_2_1" rowspan="1" colspan="1">5+ (acute liver failure and death)</td>
+                  </tr>
+                  <tr>
+                    <th headers="hd_h_Erlotinib.T3_1_1_1_1" id="hd_b_Erlotinib.T3_1_1_3_1" rowspan="1" colspan="1">Latency:</th>
+                    <td headers="hd_b_Erlotinib.T3_1_1_3_1" rowspan="1" colspan="1">11 days after restarting</td>
+                  </tr>
+                  <tr>
+                    <th headers="hd_h_Erlotinib.T3_1_1_1_1" id="hd_b_Erlotinib.T3_1_1_4_1" rowspan="1" colspan="1">Recovery:</th>
+                    <td headers="hd_b_Erlotinib.T3_1_1_4_1" rowspan="1" colspan="1">None</td>
+                  </tr>
+                  <tr>
+                    <th headers="hd_h_Erlotinib.T3_1_1_1_1" id="hd_b_Erlotinib.T3_1_1_5_1" rowspan="1" colspan="1">Other medications:</th>
+                    <td headers="hd_b_Erlotinib.T3_1_1_5_1" rowspan="1" colspan="1">Budesonide nasal spray and flunisolide inhaler</td>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Erlotinib.Laboratory_Values2">
+            <title>Laboratory Values</title>
+            <table-wrap id="Erlotinib.T4" position="anchor" orientation="portrait">
+              <table>
+                <thead>
+                  <tr>
+                    <th id="hd_h_Erlotinib.T4_1_1_1_1" rowspan="1" colspan="1">Time After Starting</th>
+                    <th id="hd_h_Erlotinib.T4_1_1_1_2" rowspan="1" colspan="1">Time After Stopping</th>
+                    <th id="hd_h_Erlotinib.T4_1_1_1_3" rowspan="1" colspan="1">ALT (U/L)</th>
+                    <th id="hd_h_Erlotinib.T4_1_1_1_4" rowspan="1" colspan="1">Alk P (U/L)</th>
+                    <th id="hd_h_Erlotinib.T4_1_1_1_5" rowspan="1" colspan="1">Bilirubin (mg/dL)</th>
+                    <th id="hd_h_Erlotinib.T4_1_1_1_6" rowspan="1" colspan="1">Other</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td headers="hd_h_Erlotinib.T4_1_1_1_1" rowspan="1" colspan="1">- 3 months</td>
+                    <td headers="hd_h_Erlotinib.T4_1_1_1_2" rowspan="1" colspan="1">Pre</td>
+                    <td headers="hd_h_Erlotinib.T4_1_1_1_3" rowspan="1" colspan="1">19</td>
+                    <td headers="hd_h_Erlotinib.T4_1_1_1_4" rowspan="1" colspan="1">89</td>
+                    <td headers="hd_h_Erlotinib.T4_1_1_1_5" rowspan="1" colspan="1">0.6</td>
+                    <td headers="hd_h_Erlotinib.T4_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Erlotinib.T4_1_1_1_1" rowspan="1" colspan="1">0</td>
+                    <td headers="hd_h_Erlotinib.T4_1_1_1_2" rowspan="1" colspan="1">0</td>
+                    <td headers="hd_h_Erlotinib.T4_1_1_1_3" rowspan="1" colspan="1">30</td>
+                    <td headers="hd_h_Erlotinib.T4_1_1_1_4" rowspan="1" colspan="1">99</td>
+                    <td headers="hd_h_Erlotinib.T4_1_1_1_5" rowspan="1" colspan="1">0.5</td>
+                    <td headers="hd_h_Erlotinib.T4_1_1_1_6" rowspan="1" colspan="1">Erlotinib started</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Erlotinib.T4_1_1_1_1" rowspan="1" colspan="1">2 weeks</td>
+                    <td headers="hd_h_Erlotinib.T4_1_1_1_2" rowspan="1" colspan="1">0</td>
+                    <td headers="hd_h_Erlotinib.T4_1_1_1_3" rowspan="1" colspan="1">82</td>
+                    <td headers="hd_h_Erlotinib.T4_1_1_1_4" rowspan="1" colspan="1">119</td>
+                    <td headers="hd_h_Erlotinib.T4_1_1_1_5" rowspan="1" colspan="1">0.6</td>
+                    <td headers="hd_h_Erlotinib.T4_1_1_1_6" rowspan="1" colspan="1">Skin rash</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Erlotinib.T4_1_1_1_1" rowspan="1" colspan="1">4 weeks</td>
+                    <td headers="hd_h_Erlotinib.T4_1_1_1_2" rowspan="1" colspan="1">0</td>
+                    <td headers="hd_h_Erlotinib.T4_1_1_1_3" rowspan="1" colspan="1">57</td>
+                    <td headers="hd_h_Erlotinib.T4_1_1_1_4" rowspan="1" colspan="1">69</td>
+                    <td headers="hd_h_Erlotinib.T4_1_1_1_5" rowspan="1" colspan="1">1.9</td>
+                    <td headers="hd_h_Erlotinib.T4_1_1_1_6" rowspan="1" colspan="1">Erlotinib stopped</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Erlotinib.T4_1_1_1_1 hd_h_Erlotinib.T4_1_1_1_2 hd_h_Erlotinib.T4_1_1_1_3 hd_h_Erlotinib.T4_1_1_1_4 hd_h_Erlotinib.T4_1_1_1_5 hd_h_Erlotinib.T4_1_1_1_6" colspan="6" rowspan="1">Erlotinib restarted 2 weeks after discontinuation, and 1 week after resolution of rash</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Erlotinib.T4_1_1_1_1" rowspan="1" colspan="1">11 days</td>
+                    <td headers="hd_h_Erlotinib.T4_1_1_1_2" rowspan="1" colspan="1">0</td>
+                    <td headers="hd_h_Erlotinib.T4_1_1_1_3" rowspan="1" colspan="1">2021</td>
+                    <td headers="hd_h_Erlotinib.T4_1_1_1_4" rowspan="1" colspan="1">304</td>
+                    <td headers="hd_h_Erlotinib.T4_1_1_1_5" rowspan="1" colspan="1">13.6</td>
+                    <td headers="hd_h_Erlotinib.T4_1_1_1_6" rowspan="1" colspan="1">INR=2.0, Erlotinib stopped</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Erlotinib.T4_1_1_1_1" rowspan="1" colspan="1">14 days</td>
+                    <td headers="hd_h_Erlotinib.T4_1_1_1_2" rowspan="1" colspan="1">2 days</td>
+                    <td headers="hd_h_Erlotinib.T4_1_1_1_3" rowspan="1" colspan="1">2037</td>
+                    <td headers="hd_h_Erlotinib.T4_1_1_1_4" rowspan="1" colspan="1">174</td>
+                    <td headers="hd_h_Erlotinib.T4_1_1_1_5" rowspan="1" colspan="1">18.1</td>
+                    <td headers="hd_h_Erlotinib.T4_1_1_1_6" rowspan="1" colspan="1">Liver biopsy</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Erlotinib.T4_1_1_1_1" rowspan="1" colspan="1">17 days</td>
+                    <td headers="hd_h_Erlotinib.T4_1_1_1_2" rowspan="1" colspan="1">5 days</td>
+                    <td headers="hd_h_Erlotinib.T4_1_1_1_3" rowspan="1" colspan="1">857</td>
+                    <td headers="hd_h_Erlotinib.T4_1_1_1_4" rowspan="1" colspan="1">137</td>
+                    <td headers="hd_h_Erlotinib.T4_1_1_1_5" rowspan="1" colspan="1">24.1</td>
+                    <td headers="hd_h_Erlotinib.T4_1_1_1_6" rowspan="1" colspan="1">INR=3.4</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Erlotinib.T4_1_1_1_1" rowspan="1" colspan="1">22 days</td>
+                    <td headers="hd_h_Erlotinib.T4_1_1_1_2" rowspan="1" colspan="1">10 days</td>
+                    <td headers="hd_h_Erlotinib.T4_1_1_1_3" rowspan="1" colspan="1">437</td>
+                    <td headers="hd_h_Erlotinib.T4_1_1_1_4" rowspan="1" colspan="1">145</td>
+                    <td headers="hd_h_Erlotinib.T4_1_1_1_5" rowspan="1" colspan="1">28.4</td>
+                    <td headers="hd_h_Erlotinib.T4_1_1_1_6" rowspan="1" colspan="1">INR=9.0, creatinine 5.0 mg/dL</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Erlotinib.T4_1_1_1_1" rowspan="1" colspan="1">23 days</td>
+                    <td headers="hd_h_Erlotinib.T4_1_1_1_2" rowspan="1" colspan="1">11 days</td>
+                    <td headers="hd_h_Erlotinib.T4_1_1_1_3 hd_h_Erlotinib.T4_1_1_1_4 hd_h_Erlotinib.T4_1_1_1_5 hd_h_Erlotinib.T4_1_1_1_6" colspan="4" rowspan="1">Patient died of multiorgan failure</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Erlotinib.T4_1_1_1_1 hd_h_Erlotinib.T4_1_1_1_2" colspan="2" rowspan="1">
+                      <bold>Normal Values</bold>
+                    </td>
+                    <td headers="hd_h_Erlotinib.T4_1_1_1_3" rowspan="1" colspan="1">
+                      <bold>&#x0003c;52</bold>
+                    </td>
+                    <td headers="hd_h_Erlotinib.T4_1_1_1_4" rowspan="1" colspan="1">
+                      <bold>&#x0003c;118</bold>
+                    </td>
+                    <td headers="hd_h_Erlotinib.T4_1_1_1_5" rowspan="1" colspan="1">
+                      <bold>&#x0003c;1.2</bold>
+                    </td>
+                    <td headers="hd_h_Erlotinib.T4_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Erlotinib.Comment2">
+            <title>Comment</title>
+            <p>Several instances of acute liver failure have been reported in patients treated with erlotinib for non-small cell lung cancer. The onset was abrupt, within days of starting or restarting therapy. The liver disease was rapidly progressive with coagulopathy, hepatic encephalopathy, renal insufficiency and death from multiorgan failure within 1 to 2 weeks of presentation, despite prompt discontinuation of the erlotinib. Liver histology in this case demonstrated a severe acute hepatitis with submassive necrosis. The cause of the injury is unknown, but the rapidity of onset suggests immune factors. Cases of acute hepatitis and acute liver failure were not reported in the preregistration clinical trials of erlotinib that included several thousand patients. Thus, hepatic failure is rare and most likely to occur with rechallenge or if serum enzyme levels are not being monitored.</p>
+          </sec>
+        </sec>
+      </sec>
+      <sec id="Erlotinib.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <boxed-text position="anchor" id="Erlotinib.BPI" orientation="portrait">
+          <p>
+            <bold> REPRESENTATIVE TRADE NAMES</bold>
+          </p>
+          <p>Erlotinib &#x02013; Tarceva&#x000ae;</p>
+          <p>
+            <bold>DRUG CLASS</bold>
+          </p>
+          <p>Antineoplastic Agents</p>
+          <p>
+            <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Erlotinib">COMPLETE LABELING</ext-link>
+          </p>
+          <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+        </boxed-text>
+      </sec>
+      <sec id="Erlotinib.CHEMICAL_FORMULA_AND_STRUCTURE">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Erlotinib.T5" position="anchor" orientation="portrait">
+          <table>
+            <thead>
+              <tr>
+                <th id="hd_h_Erlotinib.T5_1_1_1_1" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Erlotinib.T5_1_1_1_2" rowspan="1" colspan="1">CAS REGISTRY NUMBER</th>
+                <th id="hd_h_Erlotinib.T5_1_1_1_3" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Erlotinib.T5_1_1_1_4" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Erlotinib.T5_1_1_1_1" rowspan="1" colspan="1">Erlotinib</td>
+                <td headers="hd_h_Erlotinib.T5_1_1_1_2" rowspan="1" colspan="1">
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135156083">183321-74-6</ext-link>
+                </td>
+                <td headers="hd_h_Erlotinib.T5_1_1_1_3" rowspan="1" colspan="1">C22-H23-N3-O4</td>
+                <td headers="hd_h_Erlotinib.T5_1_1_1_4" rowspan="1" colspan="1">
+                  <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Erlotinib_Structure.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait">
+                    <alt-text>Erlotinib Chemical Structure</alt-text>
+                  </graphic>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Erlotinib.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 28 June 2018</p>
+        <ref-list id="Erlotinib.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Erlotinib.R1">
+            <mixed-citation publication-type="other">Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999.<annotation><p><italic toggle="yes">(Review of hepatotoxicity published in 1999 before the availability of tyrosine kinase receptor inhibitors).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Erlotinib.R2">
+            <mixed-citation publication-type="other">DeLeve LD. Erlotinib. Cancer chemotherapy. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013, pp. 556.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of cancer chemotherapeutic agents published mentions that erlotinib has been linked to several cases of clinically apparent liver injury, 2 of which were fatal).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Erlotinib.R3">
+            <mixed-citation publication-type="other">Chabner BA, Barnes J, Neal J, Olson E, Mujagic H, Sequist L, Wilson W, et al. Targeted therapies: tyrosine kinase inhibitors, monoclonal antibodies, and cytokines. In, Brunton LL, Chabner BA, Knollman BC, eds. Goodman &#x00026; Gilman's the pharmacological basis of therapeutics. 12th ed. New York: McGraw-Hill, 2011, pp. 1731-54.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Erlotinib.R4">
+            <mixed-citation publication-type="journal">Moore MJ, Goldstein D, Hamm J, Figer A, Hecht JR, Gallinger S, Au HJ, et al.; National Cancer Institute of Canada Clinical Trials Group. Erlotinib plus gemcitabine compared with gemcitabine alone in patients with advanced pancreatic cancer: a phase III trial of the National Cancer Institute of Canada Clinical Trials Group. J Clin Oncol 2007; 25: 1960-6. <annotation><p><italic toggle="yes">(Among 569 patients with advanced pancreatic cancer randomized to receive gemcitabine alone vs its combination with erlotinib, AST elevations above 5 times ULN occurred in 11% on the combination vs 8% on gemcitabine alone).</italic></p></annotation><pub-id pub-id-type="pmid">17452677</pub-id></mixed-citation>
+          </ref>
+          <ref id="Erlotinib.R5">
+            <mixed-citation publication-type="journal">Shepherd FA, Rodrigues Pereira J, Ciuleanu T, Tan EH, Hirsh V, Thongprasert S, et al.; National Cancer Institute of Canada Clinical Trials Group. Erlotinib in previously treated non-small-cell lung cancer. N Engl J Med 2005; 353: 123-32. <annotation><p><italic toggle="yes">(Among 731 previously treated patients with non-small cell lung cancer treated with erlotinib or placebo, 5% stopped therapy because of side effects, but none because of hepatotoxicity; rates of ALT elevations not mentioned).</italic></p></annotation><pub-id pub-id-type="pmid">16014882</pub-id></mixed-citation>
+          </ref>
+          <ref id="Erlotinib.R6">
+            <mixed-citation publication-type="journal">Ramanarayanan J, Scarpace SL. Acute drug induced hepatitis due to erlotinib. JOP 2007; 8: 39-43. <annotation><p><italic toggle="yes">(70 year old man with metastatic pancreatic cancer developed ALT elevations 2 weeks after starting erlotinib [ALT peak 580 U/L, Alk P 618 U/L], the ALT levels falling upon stopping therapy, but Alk P rising further).</italic></p></annotation><pub-id pub-id-type="pmid">17228132</pub-id></mixed-citation>
+          </ref>
+          <ref id="Erlotinib.R7">
+            <mixed-citation publication-type="journal">Kulke MH, Blaszkowsky LS, Ryan DP, Clark JW, Meyerhardt JA, Zhu AX, Enzinger PC, et al. Capecitabine plus erlotinib in gemcitabine-refractory advanced pancreatic cancer. J Clin Oncol 2007; 25: 4787-92. <annotation><p><italic toggle="yes">(30 patients with refractory metastatic pancreatic cancer were treated with capecitabine and erlotinib; mild AST elevations occurred in 2 patients [7%]).</italic></p></annotation><pub-id pub-id-type="pmid">17947726</pub-id></mixed-citation>
+          </ref>
+          <ref id="Erlotinib.R8">
+            <mixed-citation publication-type="journal">Liu W, Makrauer FL, Qamar AA, J&#x000e4;nne PA, Odze RD. Fulminant hepatic failure secondary to erlotinib. Clin Gastroenterol Hepatol 2007; 5: 917-20. <annotation><p><italic toggle="yes">(67 year old woman with non-small cell lung cancer developed mild ALT elevations and rash 4 weeks after starting erlotinib which resolved upon stopping, but 10 days after restarting she became jaundiced [bilirubin 13.6 mg/dL, ALT 2021 U/L, Alk P 304 U/L] and developed hepatic failure and died 11 days later: Case 2).</italic></p></annotation><pub-id pub-id-type="pmid">17625975</pub-id></mixed-citation>
+          </ref>
+          <ref id="Erlotinib.R9">
+            <mixed-citation publication-type="journal">Thomas MB, Chadha R, Glover K, Wang X, Morris J, Brown T, Rashid A, et al. Phase 2 study of erlotinib in patients with unresectable hepatocellular carcinoma. Cancer 2007; 110: 1059-67. <annotation><p><italic toggle="yes">(40 patients with unresectable hepatocellular carcinoma were treated with 1 to 16 28-day courses of erlotinib; AST elevations occurred in 7 patients [18%], but were above 5 times ULN in only 1 [2.5%]).</italic></p></annotation><pub-id pub-id-type="pmid">17623837</pub-id></mixed-citation>
+          </ref>
+          <ref id="Erlotinib.R10">
+            <mixed-citation publication-type="journal">Saif MW. Erlotinib-induced acute hepatitis in a patient with pancreatic cancer. Clin Adv Hematol Oncol 2008; 6: 191-9. <annotation><p><italic toggle="yes">(52 year old man with advanced pancreatic cancer developed rising levels of ALT and Alk P 7 weeks after starting erlotinib, with peak levels at week 10 [bilirubin 0.7 mg/dL, ALT 193 U/L, Alk P 376 U/L], which fell to baseline two months after stopping: Case 1).</italic></p></annotation><pub-id pub-id-type="pmid">18391918</pub-id></mixed-citation>
+          </ref>
+          <ref id="Erlotinib.R11">
+            <mixed-citation publication-type="journal">Saif MW. Hepatic failure and hepatorenal syndrome secondary to erlotinib. Safety reminder. JOP 2008; 9: 748-52. <annotation><p><italic toggle="yes">(Review of the hepatotoxicity of erlotinib and its use in patients with preexisting liver dysfunction).</italic></p></annotation><pub-id pub-id-type="pmid">18981559</pub-id></mixed-citation>
+          </ref>
+          <ref id="Erlotinib.R12">
+            <mixed-citation publication-type="journal">Ramanarayanan J, Krishnan GS. Review: hepatotoxicity and EGFR inhibition. Clin Adv Hematol Oncol 2008; 6: 200-1. <annotation><p><italic toggle="yes">(Review of hepatotoxicity of EGF receptor tyrosine kinase inhibitors focusing upon erlotinib and gefitinib).</italic></p></annotation><pub-id pub-id-type="pmid">18391919</pub-id></mixed-citation>
+          </ref>
+          <ref id="Erlotinib.R13">
+            <mixed-citation publication-type="journal">Pellegrinotti M, Fimognari FL, Franco A, Repetto L, Pastorelli R. Erlotinib-induced hepatitis complicated by fatal lactic acidosis in an elderly man with lung cancer. Ann Pharmacother 2009; 43: 542-5. <annotation><p><italic toggle="yes">(77 year old man with non-small cell lung cancer developed shortness of breath and delirium 12 days after starting erlotinib [bilirubin 1.0 mg/dL, ALT 1299 U/L, LDH 5990 U/L, creatinine 4.4 mg/dL], with lactic acidosis [pH 7.1] and rapid demise within hours of presentation).</italic></p></annotation><pub-id pub-id-type="pmid">19261961</pub-id></mixed-citation>
+          </ref>
+          <ref id="Erlotinib.R14">
+            <mixed-citation publication-type="journal">Huang YS, An SJ, Chen ZH, Wu YL. Three cases of severe hepatic impairment caused by erlotinib. Br J Clin Pharmacol 2009; 68: 464-7. <annotation><p><italic toggle="yes">(Three men, ages 31, 58 and 72 years, with non-small cell lung cancer developed hepatotoxicity after 2 to 7 days of erlotinib therapy [bilirubin 1.4, 6.7 and 0.9 mg/dL, ALT 896, 745 and 1412 U/L, Alk P not given], all dying of hepatic failure within 2-14 days of presentation).</italic></p></annotation><pub-id pub-id-type="pmid">19740406</pub-id></mixed-citation>
+          </ref>
+          <ref id="Erlotinib.R15">
+            <mixed-citation publication-type="journal">Erlotinib: potentially fatal in cases of liver failure: a contraindication. Prescrire Int 2009; 18: 167. <annotation><p><italic toggle="yes">(Short discussion of report of 15 cases of liver failure in patients taking erlotinib, many had preexisting liver involvement due to cancer).</italic></p></annotation><pub-id pub-id-type="pmid">19746532</pub-id></mixed-citation>
+          </ref>
+          <ref id="Erlotinib.R16">
+            <mixed-citation publication-type="journal">Schacher-Kaufmann S, Pless M. Acute Fatal Liver Toxicity under Erlotinib. Case Rep Oncol 2010; 3: 182-8. <annotation><p><italic toggle="yes">(53 year old with non-small cell lung cancer developed anorexia within 9 days, abdominal pain and fever after 17 days at which point erlotinib was stopped, but she then developed jaundice [bilirubin 4.7 mg/dL, ALT 884 U/L, Alk P 814 U/L] and progressive liver failure with thrombotic microangiopathy, dying 2 weeks after stopping erlotinib).</italic></p></annotation><pub-id pub-id-type="pmid">20740194</pub-id></mixed-citation>
+          </ref>
+          <ref id="Erlotinib.R17">
+            <mixed-citation publication-type="journal">Steins M, Thomas M, Geissler M. Erlotinib. Recent Results Cancer Res 2010; 184: 21-31. <annotation><p><italic toggle="yes">(Review of development, mechanism of action, efficacy and safety of erlotinib in pancreatic, liver and non-small cell lung cancer; class specific adverse effects of EGFR inhibitors include xerosis, acneiform eruptions, eczema and diarrhea; rarely these agents cause interstitial lung disease and hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">20072828</pub-id></mixed-citation>
+          </ref>
+          <ref id="Erlotinib.R18">
+            <mixed-citation publication-type="journal">Ohashi Y, Suzuki K, Sakurai M, Ishikawa H, Onishi T, Nakagaki S, Kato T, et al. [Safety analysis of eight patients treated with erlotinib after severe gefitinib-induced liver injury]. Gan To Kagaku Ryoho 2010; 37: 1307-11. Japanese. <annotation><p><italic toggle="yes">(Abstract only: only one of 8 patients with severe gefitinib hepatotoxicity developed liver injury when switched to erlotinib, whereas the liver injury usually recurred upon restarting gefitinib, even at lower doses).</italic></p></annotation><pub-id pub-id-type="pmid">20647715</pub-id></mixed-citation>
+          </ref>
+          <ref id="Erlotinib.R19">
+            <mixed-citation publication-type="journal">Takeda M, Okamoto I, Fukuoka M, Nakagawa K. Successful treatment with erlotinib after gefitinib-related severe hepatotoxicity. J Clin Oncol 2010; 28: e273-4. <annotation><p><italic toggle="yes">(66 year old woman with lung cancer developed ALT elevations after 36 weeks of treatment with gefitinib [ALT peak ~1011 U/L], resolving within 8 weeks of stopping and not recurring on starting erlotinib).</italic></p></annotation><pub-id pub-id-type="pmid">20385983</pub-id></mixed-citation>
+          </ref>
+          <ref id="Erlotinib.R20">
+            <mixed-citation publication-type="journal">Kim ST, Lee J, Kim JH, Won YW, Sun JM, Yun J, Park YH, et al. Comparison of gefitinib versus erlotinib in patients with non-small cell lung cancer who failed previous chemotherapy. Cancer 2010; 116: 3025-33. <annotation><p><italic toggle="yes">(Retrospective analysis of 467 patients with non-small cell lung cancer treated with either gefitinib or erlotinib found similar rates of clinical response; no discussion of adverse events).</italic></p></annotation><pub-id pub-id-type="pmid">20564408</pub-id></mixed-citation>
+          </ref>
+          <ref id="Erlotinib.R21">
+            <mixed-citation publication-type="journal">Ku GY, Chopra A, de Lima Lopes G Jr. Successful treatment of two lung cancer patients with erlotinib following gefitinib-induced hepatotoxicity. Lung Cancer 2010; 70: 223-5. <annotation><p><italic toggle="yes">(Two men, ages 52 and 88 years, with non-small cell lung cancer developed serum ALT elevations 4 and 6 weeks after starting gefitinib [bilirubin normal, peak ALT 354 and 297 U/L], resolving rapidly on stopping and not recurring when switched to erlotinib).</italic></p></annotation><pub-id pub-id-type="pmid">20817304</pub-id></mixed-citation>
+          </ref>
+          <ref id="Erlotinib.R22">
+            <mixed-citation publication-type="journal">Gunturu KS, Abu-Khalaf M, Saif MW. Hepatic failure and hepatorenal syndrome secondary to erlotinib: a possible etiology of complications in a patient with pancreatic cancer. JOP 2010; 11: 484-5. <annotation><p><italic toggle="yes">(39 year old man with advanced pancreatic cancer developed weakness and rash after 3 days of erlotinib therapy [bilirubin 4.0 rising to 17.2 mg/dL, ALT 489 U/L], rapidly progressing to liver failure associated with diffuse liver metastases and malignant ascites).</italic></p></annotation><pub-id pub-id-type="pmid">20818124</pub-id></mixed-citation>
+          </ref>
+          <ref id="Erlotinib.R23">
+            <mixed-citation publication-type="journal">Nakatomi K, Nakamura Y, Tetsuya I, Kohno S. Treatment with gefitinib after erlotinib-induced liver injury: a case report. J Med Case Reports 2011; 5: 593. <annotation><p><italic toggle="yes">(31 year old woman with metastatic lung cancer developed enyzme elevations 4 weeks after starting erlotinib [peak ALT 3130 U/L] that fell to normal within 3 weeks of stopping, and did not rise again when she was started on gefitinib).</italic></p></annotation><pub-id pub-id-type="pmid">22188652</pub-id></mixed-citation>
+          </ref>
+          <ref id="Erlotinib.R24">
+            <mixed-citation publication-type="journal">Lai YC, Lin PC, Lai JI, Hsu SY, Kuo LC, Chang SC, Wang WS. Successful treatment of erlotinib-induced acute hepatitis and acute interstitial pneumonitis with high-dose corticosteroid: a case report and literature review. Int J Clin Pharmacol Ther 2011; 49: 461-6. <annotation><p><italic toggle="yes">(74 year old man developed interstitial pneumonitis and mild serum enzyme elevations 1 month after starting erlotinib [ALT 116 U/L], both of which improved within days on high dose corticosteroids).</italic></p></annotation><pub-id pub-id-type="pmid">21726497</pub-id></mixed-citation>
+          </ref>
+          <ref id="Erlotinib.R25">
+            <mixed-citation publication-type="journal">Kijima T, Shimizu T, Nonen S, Furukawa M, Otani Y, Minami T, Takahashi R, et al. Safe and successful treatment with erlotinib after gefitinib-induced hepatotoxicity: difference in metabolism as a possible mechanism. J Clin Oncol 2011; 29: e588-90. <annotation><p><italic toggle="yes">(Two women, ages 67 and 83 years, with lung cancer developed elevated aminotransferase levels 4 and 8 weeks after starting gefitinib [peak ALT 731 and ~450 U/L, bilirubin and Alk P not given], which resolved upon stopping, recurred on restarting, but did not recur when erlotinib was used).</italic></p></annotation><pub-id pub-id-type="pmid">21502555</pub-id></mixed-citation>
+          </ref>
+          <ref id="Erlotinib.R26">
+            <mixed-citation publication-type="journal">Kunimasa K, Yoshioka H, Iwasaku M, Nishiyama A, Korogi Y, Masuda G, Takaiwa T, et al. Successful treatment of non-small cell lung cancer with gefitinib after severe erlotinib-related hepatotoxicity. Intern Med 2012; 51: 431-4. <annotation><p><italic toggle="yes">(64 year old woman with non-small cell lung cancer developed abnormal liver tests 5 weeks after starting erlotinib [bilirubin normal, ALT 129, Alk P 819 U/L], which improved on stopping, but recurred on restarting, but did not recur upon switching to gefinitib).</italic></p></annotation><pub-id pub-id-type="pmid">22333382</pub-id></mixed-citation>
+          </ref>
+          <ref id="Erlotinib.R27">
+            <mixed-citation publication-type="journal">Yang ZY, Yuan JQ, Di MY, Zheng DY, Chen JZ, Ding H, Wu XY, et al. Gemcitabine plus erlotinib for advanced pancreatic cancer: a systematic review with meta-analysis. PLoS One 2013; 8: e57528. <annotation><p><italic toggle="yes"> (Review of literature on efficacy and safety of the combination of erlotinib and gemcitabine for advanced pancreatic cancer; the addition of erlotinib was associated with a prolongation of survival by 0.3 months and the adverse event rate was high "but not surprising"; no mention of hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">23472089</pub-id></mixed-citation>
+          </ref>
+          <ref id="Erlotinib.R28">
+            <mixed-citation publication-type="journal">Kitade H, Yamada T, Igarashi S, Hokkoku K, Mori M, Shintaku K, Sagawa M, et al. [Efficacy of low-dose erlotinib against gefitinib-induced hepatotoxicity in a patient with lung adenocarcinoma harboring EGFR mutations]. Gan To Kagaku Ryoho 2013; 40: 79-81. <annotation><p><italic toggle="yes">(80 year old woman developed ALT elevations [3 times ULN] on gefitinib, which resolved on stopping and did not recur on erlotinib [for 3 years]).</italic></p></annotation><pub-id pub-id-type="pmid">23306923</pub-id></mixed-citation>
+          </ref>
+          <ref id="Erlotinib.R29">
+            <mixed-citation publication-type="journal">Takimoto T, Kijima T, Otani Y, Nonen S, Namba Y, Mori M, Yokota S, et al. Polymorphisms of CYP2D6 gene and gefitinib-induced hepatotoxicity. Clin Lung Cancer 2013; 14: 502-7. <annotation><p><italic toggle="yes">(Distribution of polymorphisms of CYP 2D6 gene were similar in 55 patients who developed ALT elevations during gefitinib therapy as found in the general Japanese population; 17 patients were switched to erlotinib and did not have recurrence of injury).</italic></p></annotation><pub-id pub-id-type="pmid">23664723</pub-id></mixed-citation>
+          </ref>
+          <ref id="Erlotinib.R30">
+            <mixed-citation publication-type="journal">Yoshida T, Yamada K, Azuma K, Kawahara A, Abe H, Hattori S, Yamashita F, et al. Comparison of adverse events and efficacy between gefitinib and erlotinib in patients with non-small-cell lung cancer: a retrospective analysis. Med Oncol 2013; 30: 349. <annotation><p><italic toggle="yes">(Comparison of side effects in 107 patients with non-small cell lung cancer treated with gefitinib and 35 with erlotinib found "liver dysfunction" more frequent with gefitinib than erlotinib [13% vs 6%], whereas overall adverse events leading to drug discontinuation were less common [13% vs 26%]). </italic></p></annotation><pub-id pub-id-type="pmid">23263831</pub-id></mixed-citation>
+          </ref>
+          <ref id="Erlotinib.R31">
+            <mixed-citation publication-type="journal">Yonesaka K, Suzumura T, Tsukuda H, Hasegawa Y, Ozaki T, Sugiura T, Fukuoka M. Erlotinib is a well-tolerated alternate treatment for non-small cell lung cancer in cases of gefitinib-induced hepatotoxicity. Anticancer Res 2014; 34: 5211-5. <annotation><p><italic toggle="yes">(Among 25 patients with advanced NSCLC treated with gefitinib, 7 developed ALT elevations above 5 times ULN, all of whom then tolerated erlotinib [for 1 month to several years] with no or only minor enzyme elevations).</italic></p></annotation><pub-id pub-id-type="pmid">25202117</pub-id></mixed-citation>
+          </ref>
+          <ref id="Erlotinib.R32">
+            <mixed-citation publication-type="journal">Durand M, Logerot S, Fonrose X, Schir E. [Treatment with erlotinib after gefitinib induced hepatotoxicity: literature review and case report]. Therapie 2014; 69: 163-8. French. <annotation><p><italic toggle="yes"> (Patient with NSCLC developed marked ALT elevations on gefinitib therapy with positive rechallenge, who nevertheless subsequently tolerated erlotinib without recurrence: Abstract only).</italic></p></annotation><pub-id pub-id-type="pmid">24926635</pub-id></mixed-citation>
+          </ref>
+          <ref id="Erlotinib.R33">
+            <mixed-citation publication-type="journal">Chalasani N, Bonkovsky HL, Fontana R, Lee W, Stolz A, Talwalkar J, Reddy KR, et al.; United States Drug Induced Liver Injury Network. Features and outcomes of 899 patients with drug-induced liver injury: The DILIN Prospective Study. Gastroenterology 2015; 148: 1340-52.e7. <annotation><p><italic toggle="yes">(Among 899 cases of drug induced liver injury enrolled in a US prospective study between 2004 and 2013, 49 were attributed to antineoplastic agents [5.5%], 9 of which were attributed to kinase inhibitors [imatinib=5, lapatinib=2, regorafenib=1], but none to erlotinib).</italic></p></annotation><pub-id pub-id-type="pmid">25754159</pub-id></mixed-citation>
+          </ref>
+          <ref id="Erlotinib.R34">
+            <mixed-citation publication-type="journal">Bui N, Wong-Sefidan I. Reactivation of hepatitis B virus after withdrawal of erlotinib. Curr Oncol 2015; 22: 430-2. <annotation><p><italic toggle="yes"> (62 year old woman with metastatic adenocarcinoma of the lung developed severe diarrhea and dehydration 4 weeks after starting erlotinib, which was stopped and one week later she was found to have de novo serum enzyme elevations [ALT 267, Alk P 448 U/L, bilirubin not given], at which time HBsAg was detetctable without HBeAg in serum with HBV DNA level of 307 IU/mL; later tolerating restarting erlotinib while being treated for hepatitis B with entecavir).</italic></p></annotation><pub-id pub-id-type="pmid">26715877</pub-id></mixed-citation>
+          </ref>
+          <ref id="Erlotinib.R35">
+            <mixed-citation publication-type="journal">Zenke Y, Umemura S, Sugiyama E, Kirita K, Matsumoto S, Yoh K, Niho S, et al. Successful treatment with afatinib after grade 3 hepatotoxicity induced by both gefitinib and erlotinib in EGFR mutation-positive non-small cell lung cancer. Lung Cancer 2016; 99: 1-3. <annotation><p><italic toggle="yes">(57 year old man with NSCLC developed ALT elevations 7 weeks after starting gefinitib [bilirubin 2.0 mg/dL, ALT peak 594 U/L], which resolved upon stopping but he then developed worsening jaundice within a week of starting erlotinib [bilirubin 5.4 mg/dL, ALT normal], and he later tolerated afatinib; genetic testing revealed Gilbert syndrome and "poor metabolizer" phenotype of CYP 3A5).</italic></p></annotation><pub-id pub-id-type="pmid">27565905</pub-id></mixed-citation>
+          </ref>
+          <ref id="Erlotinib.R36">
+            <mixed-citation publication-type="journal">Ueda H, Hayashi H, Kudo K, Takeda M, Nakagawa K. Successful treatment with afatinib after gefitinib- and erlotinib-induced hepatotoxicity. Invest New Drugs 2016; 34: 797-9. <annotation><p><italic toggle="yes">(67 year old woman with metastatic NSCLC developed ALT elevations 16 weeks after starting gefitinib [ALT 223 U/L] which improved upon stopping, recurred with restarting gefitinib and later recurred 10 weeks after starting erlotinib [ALT 262 U/L), which improved on stopping but recurred even with lower doses, but subsequent ALT levels remained normal on switching to afatinib).</italic></p></annotation><pub-id pub-id-type="pmid">27550238</pub-id></mixed-citation>
+          </ref>
+          <ref id="Erlotinib.R37">
+            <mixed-citation publication-type="journal">Toba H, Sakiyama S, Takizawa H, Tangoku A. Safe and successful treatment with afatinib in three postoperative non-small cell lung cancer patients with recurrences following gefitinib/erlotinib-induced hepatotoxicity. J Med Invest 2016; 63 (1-2): 149-51. <annotation><p><italic toggle="yes">(Two women and one man, ages 63 to 73 years with NSCLC developed ALT elevations 4-8 weeks after starting gefitinib [which recurred in one 6 weeks after switching to erlotinib], but all three tolerated long term afatinib [7 months] without recurrence of enzyme elevations).</italic></p></annotation><pub-id pub-id-type="pmid">27040072</pub-id></mixed-citation>
+          </ref>
+          <ref id="Erlotinib.R38">
+            <mixed-citation publication-type="journal">Bunchorntavakul C, Reddy KR. Drug hepatotoxicity: newer agents. Clin Liver Dis 2017; 21: 115-34. <annotation><p><italic toggle="yes">(Review of the hepatotoxicity of recently approved medications including the tyrosine kinase inhibitors and erlotinib which has been linked to serum enzyme elevations above 5 times ULN in 10-14% of patients and to individual cases of severe hepatotoxicity, some of which have been fatal).</italic></p></annotation><pub-id pub-id-type="pmid">27842767</pub-id></mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec id="Erlotinib.OTHER_REFERENCE_LINKS" sec-type="link-group">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=(Erlotinib/AE)+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D%3A%222999/12/31%22%5BEDat%5D)">Recent References on Erlotinib: from PubMed.gov</ext-link>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Erlotinib">Trials on Erlotinib: from ClinicalTrials.gov</ext-link>
+            </p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

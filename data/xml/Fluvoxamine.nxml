@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Fluvoxamine" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Fluvoxamine</book-part-id>
+      <title-group>
+        <title>Fluvoxamine</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>2</day>
+          <month>2</month>
+          <year>2018</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Fluvastatin" document-type="chapter">Fluvastatin</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="FolicAcid" document-type="chapter">Folic Acid</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Fluvoxamine.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Fluvoxamine.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Fluvoxamine is a selective serotonin reuptake inhibitor (SSRI) used in the therapy of obsessive-compulsive disorder. Fluvoxamine therapy can be associated with transient asymptomatic elevations in serum aminotransferase levels and has been linked to rare instances of clinically apparent acute liver injury.</p>
+        </sec>
+        <sec id="Fluvoxamine.Background">
+          <title>Background</title>
+          <p>Fluvoxamine (floo vox' a meen) is a selective serotonin reuptake inhibitor (SSRI) that was developed largely for use in obsessive-compulsive disorder. Fluvoxamine acts by blocking the reuptake of serotonin in CNS synaptic clefts, thus increasing serotonin levels in the brain which is associated with its psychiatric effects. Fluvoxamine was approved for use in obsessive-compulsive disorder in 1994 in the United States and is used in both adults and children above the age of 8 years. It is also used for social anxiety disorder, but not specifically for depression or bipolar disorders. Fluvoxamine is available as tablets of 25, 50 and 100 mg in multiple generic forms and under the brand name of Luvox. Extended release forms are also available in doses of 100 and 150 mg. The recommended dosage in adults is 50 mg once daily, increasing to a maximum of 300 mg. The dosage in children is 25 mg daily, increasing to a maximum of 200 to 300 mg based upon age below or above 11 years. Common side effects are drowsiness, dyspepsia, nausea, headache, increased sweating, increased appetite, weight gain and sexual dysfunction.</p>
+        </sec>
+        <sec id="Fluvoxamine.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>Liver test abnormalities have been reported to occur in up to 1% patients on fluvoxamine, but elevations are usually modest and usually do not require dose modification or discontinuation. A few instances of acute, clinically apparent episodes of liver injury with marked liver enzyme elevations with no or minimal jaundice have been reported in patients on fluvoxamine. The onset of injury was within a few days of starting therapy and the pattern of serum enzyme elevations was hepatocellular or mixed. Autoimmune (autoantibodies) and immunoallergic features (rash, fever, eosinophilia) were not mentioned. Too few cases have been reported to characterize the clinical features of the liver injury in any detail.</p>
+          <p>Likelihood score: D (possible rare cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Fluvoxamine.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The mechanism by which fluvoxamine causes liver injury is not known. Fluvoxamine is extensively metabolized by the liver, mainly via the cytochrome P450 system, and hepatotoxicity may be mediated by toxic intermediates of their metabolism. In addition, fluvoxamine inhibits several CYP enzymes and has signficant drug-drug interactions.</p>
+        </sec>
+        <sec id="Fluvoxamine.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>The serum aminotransferase elevations that occur on fluvoxamine therapy are usually self-limited and do not require dose modification or discontinuation of therapy. No instances of acute liver failure or chronic liver injury have been attributed to fluvoxamine therapy. Restarting fluvoxamine has been reported to cause a rapid recurrence of injury and should be avoided. Persons with intolerance to fluvoxamine may have similar reactions to other SSRIs, and careful monitoring is warranted if other such agents are used.</p>
+          <p>Drug Class: <related-object source-id="livertox" document-id="Antidepressants">Antidepressant Agents</related-object></p>
+          <p>Other Drugs in the Subclass, SNRIs/SSRIs: <related-object source-id="livertox" document-id="CitalopramEscitalopr">Citalopram</related-object>, <related-object source-id="livertox" document-id="CitalopramEscitalopr">Escitalopram</related-object>, <related-object source-id="livertox" document-id="Duloxetine">Duloxetine</related-object>, <related-object source-id="livertox" document-id="Fluoxetine">Fluoxetine</related-object>, <related-object source-id="livertox" document-id="MilnacipranLevomilna">Levomilnacipran</related-object>, <related-object source-id="livertox" document-id="Paroxetine">Paroxetine</related-object>, <related-object source-id="livertox" document-id="Sertraline">Sertraline</related-object>, <related-object source-id="livertox" document-id="Venlafaxine">Venlafaxine</related-object>, <related-object source-id="livertox" document-id="Vilazodone">Vilazodone</related-object>, <related-object source-id="livertox" document-id="Vortioxetine">Vortioxetine</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Fluvoxamine.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <boxed-text position="anchor" id="Fluvoxamine.BPI" orientation="portrait">
+          <p>
+            <bold>REPRESENTATIVE TRADE NAMES</bold>
+          </p>
+          <p>Fluvoxamine &#x02013; Generic, Luvox&#x000ae;</p>
+          <p>
+            <bold>DRUG CLASS</bold>
+          </p>
+          <p>Antidepressant Agents</p>
+          <p>
+            <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=fluvoxamine">COMPLETE LABELING</ext-link>
+          </p>
+          <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+        </boxed-text>
+      </sec>
+      <sec id="Fluvoxamine.CHEMICAL_FORMULA_AND_STRUCTU">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Fluvoxamine.T1" position="anchor" orientation="portrait">
+          <table>
+            <thead>
+              <tr>
+                <th id="hd_h_Fluvoxamine.T1_1_1_1_1" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Fluvoxamine.T1_1_1_1_2" rowspan="1" colspan="1">CAS REGISTRY NUMBER</th>
+                <th id="hd_h_Fluvoxamine.T1_1_1_1_3" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Fluvoxamine.T1_1_1_1_4" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Fluvoxamine.T1_1_1_1_1" rowspan="1" colspan="1">Fluvoxamine</td>
+                <td headers="hd_h_Fluvoxamine.T1_1_1_1_2" rowspan="1" colspan="1">
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135004455">54739-18-3</ext-link>
+                </td>
+                <td headers="hd_h_Fluvoxamine.T1_1_1_1_3" rowspan="1" colspan="1">C15-H21-F3-N2-O2</td>
+                <td headers="hd_h_Fluvoxamine.T1_1_1_1_4" rowspan="1" colspan="1">
+                  <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Fluvoxamine.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait">
+                    <alt-text>Image of Fluvoxamine Chemical Structure</alt-text>
+                  </graphic>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Fluvoxamine.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 02 February 2018</p>
+        <ref-list id="Fluvoxamine.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Fluvoxamine.R1">
+            <mixed-citation publication-type="other">Zimmerman HJ. Tricyclic antidepressants. In, Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999, pp. 493-8.<annotation><p><italic toggle="yes">(Expert review of hepatotoxicity published in 1999 discusses several antidepressants including SSRIs but not fluvoxamine).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Fluvoxamine.R2">
+            <mixed-citation publication-type="other">Larrey D, Ripault MP. Hepatotoxicity of psychotropic drugs and drugs of abuse. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013, pp. 443-62.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of antidepressants mentions that clinically apparent liver injury from fluvoxamine is rare and the clinical picture is usually hepatocellular).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Fluvoxamine.R3">
+            <mixed-citation publication-type="other">O'Donnell JM, Shelton RC. Drug therapy for depression and anxiety disorders. In, Brunton LL, Chabner BA, Knollman BC, eds. Goodman &#x00026; Gilman&#x02019;s the pharmacological basis of therapeutics. 12th ed. New York: McGraw-Hill, 2011, pp. 397-416.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Fluvoxamine.R4">
+            <mixed-citation publication-type="journal">Lam KS, Blanchi A, Chavaillon JM. [Hepatitis probably secondary to the massive ingestion of fluvoxamine]. Gastroenterol Clin Biol 1988; 12: 398-9. <annotation><p><italic toggle="yes">(63 year old woman took an overdose of fluvoxamine [~1500 mg] and within 24 hours had elevations in ALT [1059 U/L], Alk P [668 U/L] and bilirubin [1.4 mg/dL], which remained high for more than a month).</italic></p></annotation><pub-id pub-id-type="pmid">3133277</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fluvoxamine.R5">
+            <mixed-citation publication-type="journal">Mourilhe P, Stokes PE. Risks and benefits of selective serotonin reuptake inhibitors in the treatment of depression. Drug Saf 1998; 18: 57-82. <annotation><p><italic toggle="yes">(Review of pharmacology, efficacy and safety of SSRIs; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">9466088</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fluvoxamine.R6">
+            <mixed-citation publication-type="journal">Grohmann R, R&#x000fc;ther E, Engel RR, Hippius H. Assessment of adverse drug reactions in psychiatric inpatients with the AMSP drug safety program: methods and first results for tricyclic antidepressants and SSRI. Pharmacopsychiatry 1999; 32: 21-8. <annotation><p><italic toggle="yes">(Analysis of reporting of adverse events among inpatients in 29 German hospitals between 1993 to 1997; 896 severe adverse events were reported among 48,564 patients [1.8%], both total and hepatic events were more common with tricyclics than SSRIs).</italic></p></annotation><pub-id pub-id-type="pmid">10071179</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fluvoxamine.R7">
+            <mixed-citation publication-type="journal">Carvajal Garc&#x000ed;a-Pando A, Garc&#x000ed;a del Pozo J, S&#x000e1;nchez AS, Velasco MA, Rueda de Castro AM, Lucena MI. Hepatotoxicity associated with the new antidepressants. J Clin Psychiatry 2002; 63: 135-7. <annotation><p><italic toggle="yes">(Analysis of cases of hepatotoxicity from antidepressants in Spanish Pharmacovigilance System from 1989-1999, identified 99 cases; among SSRIs, 26 were due to fluoxetine, 14 paroxetine, 6 fluvoxamine, 5 sertraline, 3 venlafaxine and 2 citalopram; among tricyclics, 16 clomipramine 7 amitriptyline, 6 imipramine; among miscellaneous, 3 nefazodone and 1 trazodone; but all similar in rate of occurrence estimated to be 1-3 per 100,000 patient-years of exposure, except for nefazodone=29/100,000).</italic></p></annotation><pub-id pub-id-type="pmid">11874214</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fluvoxamine.R8">
+            <mixed-citation publication-type="journal">Lucena M, Carvajal A, Andrade R, Velasco A. Antidepressant-induced hepatotoxicity. Expert Opin Drug Saf 2003; 2: 249-62. <italic toggle="yes">(Review of hepatotoxicity of antidepressants; antidepressant use has increased markedly between 1992 and 2002, accounting</italic><annotation><p><italic toggle="yes">for 5% of cases of hepatotoxicity; SSRIs are less likely to cause injury than tricyclics and MAO inhibitors; range of presentations, typically self-limited and rapid recovery; no hallmarks of hypersensitivity).</italic></p></annotation><pub-id pub-id-type="pmid">12904104</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fluvoxamine.R9">
+            <mixed-citation publication-type="journal">Spigset O, H&#x000e4;gg S, Bate A. Hepatic injury and pancreatitis during treatment with serotonin reuptake inhibitors: data from the World Health Organization (WHO) database of adverse drug reactions. Int Clin Psychopharmacol 2003; 18: 157-61. <annotation><p><italic toggle="yes">(Among 27,542 reports of hepatic injury in WHO database, 786 were related to SSRIs [3%], including citalopram 42, fluoxetine 222, fluvoxamine 54, paroxetine 191, sertraline 112, nefazodone 91 and venlafaxine 74; only nefazodone had an excess of hepatic reports in relationship to total reports).</italic></p></annotation><pub-id pub-id-type="pmid">12702895</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fluvoxamine.R10">
+            <mixed-citation publication-type="journal">Degner D, Grohmann R, Kropp S, R&#x000fc;ther E, Bender S, Engel RR, Schmidt LG. Severe adverse drug reactions of antidepressants: results of the German multicenter drug surveillance program AMSP. Pharmacopsychiatry 2004; 37 Suppl 1: S39-45. <annotation><p><italic toggle="yes">(Analysis of adverse drug reactions reported from 1993-2000 in 35 psychiatric hospitals; 0.7% of SSRI recipients had a severe adverse event; hepatic in 0.05%).</italic></p></annotation><pub-id pub-id-type="pmid">5052513</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fluvoxamine.R11">
+            <mixed-citation publication-type="journal">Solomons K, Gooch S, Wong A. Toxicity with selective serotonin reuptake inhibitors. Am J Psychiatry 2005; 162: 1225. <annotation><p><italic toggle="yes">(38 year old woman developed abdominal pain and ALT elevations [378 U/L] without jaundice 9 days after starting fluvoxamine; had a positive rechallenge and recurrence with citalopram [ALT 379 within 4 days], and positive rechallenge with citalopram again 1 year later).</italic></p></annotation><pub-id pub-id-type="pmid">15930079</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fluvoxamine.R12">
+            <mixed-citation publication-type="other">Pinzani V, Peyriere H, Hillaire-Buys D, Pageaux GP, Blayac BP, Larrey D. Specific serotonin recapture inhibitor (SSRI) antidepressants: hepatoxicity assessment in a large cohort in France. J Hepatol 2006; 44: S256.<annotation><p><italic toggle="yes">(Abstract, not in PubMed; Analysis of French Pharmacovigilance data on SSRIs found 63 cases of hepatotoxicity from paroxetine, 45 fluoxetine, 30 citalopram, 18 sertraline, and 2 fluvoxamine).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Fluvoxamine.R13">
+            <mixed-citation publication-type="journal">Sabat&#x000e9; M, Ib&#x000e1;&#x000f1;ez L, P&#x000e9;rez E, Vidal X, Buti M, Xiol X, Mas A, et al. Risk of acute liver injury associated with the use of drugs: a multicentre population survey. Aliment Pharmacol Ther 2007; 25: 1401-9. <annotation><p><italic toggle="yes">(Among 126 cases of drug induced liver injury seen in Spain between 1993-2000, 3 were attributed to paroxetine and 3 to fluoxetine with a relative risk of injury to rate of use in the population of 3.0 and 1.8, respectively).</italic></p></annotation><pub-id pub-id-type="pmid">17539979</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fluvoxamine.R14">
+            <mixed-citation publication-type="journal">DeSanty KP, Amabile CM. Antidepressant-induced liver injury. Ann Pharmacother 2007; 41: 1201-11. <annotation><p><italic toggle="yes">(Review of drug induced liver injury and reports of injury from MAO inhibitors, SSRIs, tricyclics and atypical agents).</italic></p></annotation><pub-id pub-id-type="pmid">17609231</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fluvoxamine.R15">
+            <mixed-citation publication-type="journal">Chalasani N, Fontana RJ, Bonkovsky HL, Watkins PB, Davern T, Serrano J, Yang H, Rochon J; Drug Induced Liver Injury Network (DILIN). Causes, clinical features, and outcomes from a prospective study of drug-induced liver injury in the United States. Gastroenterology 2008; 135: 1924-34. <annotation><p><italic toggle="yes"> (Among 300 cases of drug induced liver disease in the US collected from 2004 to 2008, 6 were attributed to duloxetine, 3 to atomoxetine, 2 to fluoxetine, 2 to bupropion, and 1 to sertraline as single agents; no case attributed to fluvoxamine).</italic></p></annotation><pub-id pub-id-type="pmid">18955056</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fluvoxamine.R16">
+            <mixed-citation publication-type="journal">Reuben A, Koch DG, Lee WM; Acute Liver Failure Study Group. Drug-induced acute liver failure: results of a U.S. multicenter, prospective study. Hepatology 2010; 52: 2065-76. <annotation><p><italic toggle="yes">(Among 1198 patients with acute liver failure enrolled in a US prospective study between 1998 and 2007, 133 were attributed to drug induced liver injury, including 1 due to fluoxetine and 1 to venalaxine but none to fluvoxamine).</italic></p></annotation><pub-id pub-id-type="pmid">20949552</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fluvoxamine.R17">
+            <mixed-citation publication-type="journal">Molleston JP, Fontana RJ, Lopez MJ, Kleiner DE, Gu J, Chalasani N: Drug-induced Liver Injury Network. Characteristics of idiosyncratic drug-induced liver injury in children: results from the DILIN prospective study. J Pediatr Gastroenterol Nutr 2011; 53: 182-9. <annotation><p><italic toggle="yes">(Among 30 children with suspected drug induced liver injury, half [n=15] were due to antimicrobials [minocycline 4, INH 3, azithromycin 3] and the rest largely due to CNS agents and anticonvulsants; one case was attributed to amitriptyline, but no other antidepressant was listed).</italic></p></annotation><pub-id pub-id-type="pmid">21788760</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fluvoxamine.R18">
+            <mixed-citation publication-type="journal">Park SH, Ishino R. Liver injury associated with antidepressants. Curr Drug Saf 2013; 8: 207-23. <annotation><p><italic toggle="yes"> (Review of antidepressant induced liver injury).</italic></p></annotation><pub-id pub-id-type="pmid">23914755</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fluvoxamine.R19">
+            <mixed-citation publication-type="journal">Bj&#x000f6;rnsson ES, Bergmann OM, Bj&#x000f6;rnsson HK, Kvaran RB, Olafsson S. Incidence, presentation and outcomes in patients with drug-induced liver iInjury in the general population of Iceland. Gastroenterology 2013; 144: 1419-25. <annotation><p><italic toggle="yes">(In a population based study of drug induced liver injury from Iceland, 96 cases were identified over a 2 year period, none of which were attributed to fluvoxamine or other SSRIs, despite the fact that 5 SSRIs ranked among the top 30 most frequently prescribed drugs in Iceland).</italic></p></annotation><pub-id pub-id-type="pmid">23419359</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fluvoxamine.R20">
+            <mixed-citation publication-type="journal">Voican CS, Corruble E, Naveau S, Perlemuter G. Antidepressant-induced liver injury: a review for clinicians. Am J Psychiatry 2014; 171: 404-15. <annotation><p><italic toggle="yes"> (Review of antidepressant induced liver injury mentions a single, anicteric case of liver injury attributed to fluvoxamine [Solomons 2005]).</italic></p></annotation><pub-id pub-id-type="pmid">24362450</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fluvoxamine.R21">
+            <mixed-citation publication-type="journal">Hern&#x000e1;ndez N, Bessone F, S&#x000e1;nchez A, di Pace M, Brahm J, Zapata R, A Chirino R, et al. Profile of idiosyncratic drug induced liver injury in Latin America. An analysis of published reports. Ann Hepatol 2014; 13: 231-9. <annotation><p><italic toggle="yes">(Systematic review of literature of drug induced liver injury in Latin American countries published from 1996 to 2012 identified 176 cases, but none were attributed to fluvoxamine).</italic></p></annotation><pub-id pub-id-type="pmid">24552865</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fluvoxamine.R22">
+            <mixed-citation publication-type="journal">Chalasani N, Bonkovsky HL, Fontana R, Lee W, Stolz A, Talwalkar J, Reddy KR, et al.; United States Drug Induced Liver Injury Network. Features and outcomes of 899 patients with drug-induced liver injury: The DILIN Prospective Study. Gastroenterology 2015; 148: 1340-52.e7. <annotation><p><italic toggle="yes">(Among 899 cases of drug induced liver injury enrolled in a US prospective study between 2004 and 2013, 20 cases [2%] were attributed to antidepressants, but none to fluvoxamine).</italic></p></annotation><pub-id pub-id-type="pmid">25754159</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fluvoxamine.R23">
+            <mixed-citation publication-type="journal">Bunchorntavakul C, Reddy KR. Drug hepatotoxicity: newer agents. Clin Liver Dis 2017; 21: 115-34. <annotation><p><italic toggle="yes"> (Review of newly approved agents that have been linked to liver injury, mentions that fluvoxamine has a lower risk of hepatotoxicity than tricylcic or SNRIs and that it has not been linked to cases of acute liver failure).</italic></p></annotation><pub-id pub-id-type="pmid">27842767</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fluvoxamine.R24">
+            <mixed-citation publication-type="journal">Friedrich ME, Akimova E, Huf W, Konstantinidis A, Papageorgiou K, Winkler D, Toto S, et al. Drug-induced liver injury during antidepressant treatment: results of AMSP, a drug surveillance program. Int J Neuropsychopharmacol 2016; 19. pii: pyv126. <annotation><p><italic toggle="yes"> (Monitoring of 184,234 inpatients in 80 psychiatric hospitals for liver injury during antidepressant treatment identified 149 cases including 2 among 3991 fluvoxamine treated subjects [0.05%], a rate similar to other SSRIs and SNRIs; no cases resulted in acute liver failure or death from liver disease).</italic></p></annotation><pub-id pub-id-type="pmid">26721950</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fluvoxamine.R25">
+            <mixed-citation publication-type="journal">Ferrajolo C, Scavone C, Donati M, Bortolami O, Stoppa G, Motola D, Vannacci A, et al.; DILI-IT Study Group. Antidepressant-induced acute liver injury: a case-control study in an Italian inpatient population. Drug Saf 2018; 41: 95-102. <annotation><p><italic toggle="yes">(Among 179 cases of hospitalizations for unexplained acute liver injury enrolled in a prospective study between 2010 and 2014, 17 had been exposed to antidepressants, but none specifically to fluvoxamine).</italic></p></annotation><pub-id pub-id-type="pmid">28770534</pub-id></mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec id="Fluvoxamine.OTHER_REFERENCE_LINKS" sec-type="link-group">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=(fluvoxamine)+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D%3A%222999/12/31%22%5BEDat%5D)">Recent References on Fluvoxamine: from PubMed.gov</ext-link>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=fluvoxamine">Trials on Fluvoxamine: from ClinicalTrials.gov</ext-link>
+            </p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

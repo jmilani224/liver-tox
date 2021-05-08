@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Ibalizumab" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Ibalizumab</book-part-id>
+      <title-group>
+        <title>Ibalizumab</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>8</day>
+          <month>8</month>
+          <year>2018</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Hyssop" document-type="chapter">Hyssop</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Ibrutinib" document-type="chapter">Ibrutinib</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Ibalizumab.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Ibalizumab.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Ibalizumab is a humanized monoclonal antibody to CD4, the cell surface receptor for the HIV-1 envelope glycoprotein (gp120), which is used to treat patients with multidrug resistant HIV-1 infection. Ibalizumab therapy has not been associated with serum enzyme elevations or to instances of clinically apparent drug induced liver injury.</p>
+        </sec>
+        <sec id="Ibalizumab.Background">
+          <title>Background</title>
+          <p>Ibalizumab (eye' ba liz' ue mab) is a recombinant humanized monoclonal antibody to CD4, the cell surface receptor for the HIV-1 envelope glycoprotein 120 (gp120). Ibalizumab does not block the binding of gp120 to CD4 but rather inhibits the conformation changes in the CD4/gp120 complex that allows binding to a second cellular receptor, chemokine-receptor-4 (CXCR4), thus inhibiting HIV replication. Clinical trials of ibalizumab in heavily treatment-experienced HIV-positive patients with multidrug resistance have shown that it decreased HIV RNA levels and resulted in full suppression in over half of patients. Ibalizumab was approved for use in the United States in 2018 for therapy (in combination with other antiretroviral agents) of patients with multidrug resistant HIV-1 infection. Ibalizumab is available in solution in single dose vials of 200 mg/1.33 mL under the brand name Trogarzo. Ibalizumab is administered as an intravenous infusion. The recommended dose is an initial loading dose of 2,000 mg followed by a maintenance dose of 800 mg every 2 weeks. Side effects are generally mild and include injection site reactions, diarrhea, dizziness, nausea and rash. Rare but potentially severe adverse events include hypersensitivity reactions and immune reconstitution syndrome.</p>
+        </sec>
+        <sec id="Ibalizumab.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>The prelicensure clinical trials of ibalizumab included a limited number of patients, many of whom had other serious comorbidities including cirrhosis and chronic hepatitis B and C. In these trials, serum aminotransferase elevations occurred in 14% to 25% of patients, but the abnormalities were generally mild and self-limited and often attributable to other underlying conditions. Serum bilirubin levels were elevated above 2.5 mg/dL in 5% of patients, but no patient developed both serum aminotransferase and bilirubin elevations or clinically apparent liver injury. There were no serious hepatic adverse events or deaths that were attributed to ibalizumab therapy. Since approval, there have been no published reports of clinically apparent acute liver injury attributed to ibalizumab, but it has had limited general use.</p>
+          <p>Likelihood score: E (unlikely cause of clinically apparent liver injury, but data on safety are limited).</p>
+        </sec>
+        <sec id="Ibalizumab.Mechanism_of_Liver_Injury">
+          <title>Mechanism of Liver Injury</title>
+          <p>Ibalizumab is a human monoclonal antibody and is unlikely to be inherently hepatotoxic. Recombinant proteins are often metabolized in the cells on which they act but are also metabolized in the liver, largely to small peptides and amino acids which may be reused to synthesize proteins and are unlikely to be toxic or immunogenic. Ibalizumab therapy does not appear to affect other CD4 receptor functions.</p>
+          <p>Drug Class: <related-object source-id="livertox" document-id="AntiviralAgents">Antiviral Agents</related-object>; <related-object source-id="livertox" document-id="MonoclonalAntibodies">Monoclonal Antibodies</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Ibalizumab.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <boxed-text position="anchor" id="Ibalizumab.BPI" orientation="portrait">
+          <p>
+            <bold>REPRESENTATIVE TRADE NAMES</bold>
+          </p>
+          <p>Ibalizumab &#x02013; Trogarzo&#x000ae;</p>
+          <p>
+            <bold>DRUG CLASS</bold>
+          </p>
+          <p>Antiviral Agents</p>
+          <p>
+            <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Ibalizumab">COMPLETE LABELING</ext-link>
+          </p>
+          <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+        </boxed-text>
+      </sec>
+      <sec id="Ibalizumab.CHEMICAL_FORMULA_AND_STRUCTUR">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Ibalizumab.T1" position="anchor" orientation="portrait">
+          <table>
+            <thead>
+              <tr>
+                <th id="hd_h_Ibalizumab.T1_1_1_1_1" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Ibalizumab.T1_1_1_1_2" rowspan="1" colspan="1">CAS REGISTRY NUMBER</th>
+                <th id="hd_h_Ibalizumab.T1_1_1_1_3" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Ibalizumab.T1_1_1_1_4" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Ibalizumab.T1_1_1_1_1" rowspan="1" colspan="1">Ibalizumab</td>
+                <td headers="hd_h_Ibalizumab.T1_1_1_1_2" rowspan="1" colspan="1">
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135347929">680188-33-4</ext-link>
+                </td>
+                <td headers="hd_h_Ibalizumab.T1_1_1_1_3" rowspan="1" colspan="1">Monoclonal Antibody</td>
+                <td headers="hd_h_Ibalizumab.T1_1_1_1_4" rowspan="1" colspan="1">Not Available</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Ibalizumab.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 08 August 2018</p>
+        <ref-list id="Ibalizumab.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Ibalizumab.R1">
+            <mixed-citation publication-type="other">Reuben A. Hepatotoxicity of immunosuppressive drugs. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2011, pp. 569-91.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of immunosuppressive agents written before the availability of ibalizumab; "the biological immuno-suppressants are largely free from hepatotoxicity, with the exception of the TNF alpha antagonists&#x0201d;).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Ibalizumab.R2">
+            <mixed-citation publication-type="other">N&#x000fa;&#x000f1;ez M. Hepatic toxicity of antiviral agents. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013, pp. 505-18.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of antiviral agents, written before the availability of ibalizumab).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Ibalizumab.R3">
+            <mixed-citation publication-type="other">Flexner C. Antiretroviral agents and treatment of HIV infection. In, Brunton LL, Chabner BA, Knollman BC, eds. Goodman &#x00026; Gilman&#x02019;s the pharmacological basis of therapeutics. 12th ed. New York: McGraw-Hill, 2011, pp. 1623-64.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Ibalizumab.R4">
+            <mixed-citation publication-type="other">
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.accessdata.fda.gov/scripts/cder/daf/">https://www.accessdata.fda.gov/scripts/cder/daf/</ext-link>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(FDA Drug Approvals website that has product labels [package inserts], letters of approval and full FDA scientific review of the new drug application for safety and efficacy).</italic>
+                </p>
+              </annotation>
+            </mixed-citation>
+          </ref>
+          <ref id="Ibalizumab.R5">
+            <mixed-citation publication-type="other"><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://aidsinfo.nih.gov/guidelines">http://aidsinfo.nih.gov/guidelines</ext-link>.<annotation><p><italic toggle="yes">(Regularly updated clinical guidelines on the use of antiretroviral agents in HIV-1 infected adults, adolescents and children).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Ibalizumab.R6">
+            <mixed-citation publication-type="journal">Ibalizumab-uiyk (Trogarzo) for multidrug-resistant HIV. Med Lett Drugs Ther 2018; 60 (1545): 68-9. <annotation><p><italic toggle="yes">(Concise review of the mechanism of action, clinical efficacy, safety and costs of ibalizumab shortly after its approval in the US; mentions that diarrhea, dizziness, nausea and rash occurred in 5-8% of treated patients and that laboratory abnormalities included increases in serum bilirubin, but does not mention ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">29667947</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ibalizumab.R7">
+            <mixed-citation publication-type="journal">Bruno CJ, Jacobson JM. Ibalizumab: an anti-CD4 monoclonal antibody for the treatment of HIV-1 infection. J Antimicrob Chemother 2010; 65: 1839-41. <annotation><p><italic toggle="yes">(Summary of the structure, mechanism of action and results of early human trials of ibalizumab in patients with refractory HIV infection; states that it was &#x0201c;well tolerated&#x0201d;; no mention of ALT elevations or hepatotoxicity). </italic></p></annotation><pub-id pub-id-type="pmid">20639524</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ibalizumab.R8">
+            <mixed-citation publication-type="journal">Emu B, Fessel J, Schrader S, Kumar P, Richmond G, Win S, Weinheimer S, et al. Phase 3 study of ibalizumab for multidrug-resistant HIV-1. N Engl J Med 2018; 379: 645-54. <annotation><p><italic toggle="yes">(Among 40 patients with multidrug resistant HIV infection treated with infusions of ibalizumab, 83% had a decrease in HIV RNA levels, and adverse events were common, the most frequent being diarrhea but no patient developed hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">30110589</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ibalizumab.R9">
+            <mixed-citation publication-type="journal">Markham A. Ibalizumab: first global approval. Drugs. 2018; 78 (7): 781-5. <annotation><p><italic toggle="yes">(Summary of the development, pharmacology, results of clinical trials and adverse events of ibalizumab; mentions that only two severe adverse events were reported, a severe rash and a case of immune reconstitution syndrome).</italic></p></annotation><pub-id pub-id-type="pmid">29675744</pub-id></mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec id="Ibalizumab.OTHER_REFERENCE_LINKS" sec-type="link-group">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=(theophylline/AE)+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D%3A%222999/12/31%22%5BEDat%5D)">Recent References on Ibalizumab: from PubMed.gov</ext-link>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=theophylline">Trials on Ibalizumab: from ClinicalTrials.gov</ext-link>
+            </p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

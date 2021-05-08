@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Fingolimod" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Fingolimod</book-part-id>
+      <title-group>
+        <title>Fingolimod</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>6</day>
+          <month>2</month>
+          <year>2018</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Finasteride" document-type="chapter">Finasteride</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Flavocoxid" document-type="chapter">Flavocoxid</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Fingolimod.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Fingolimod.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Fingolimod is an orally available immunomodulatory drug used to treat relapsing multiple sclerosis. Fingolimod is associated with transient serum enzyme elevations during therapy, but has not been linked to instances of clinically apparent liver injury with jaundice.</p>
+        </sec>
+        <sec id="Fingolimod.Background">
+          <title>Background</title>
+          <p>Fingolimod (fin gol' i mod) is an immunomodulatory agent that is believed to act by inhibition of sphingosine-1-phosphate receptors. Fingolimod is a derivative of myriocin, a metabolite of the fungus Isaria sinclairii and is a structural analogue of sphingosine. Once phosphorylated intracellularly, fingolimod acts as a sphingosine-1-phosphate receptor antagonist which renders T and B cells insensitive to signals necessary for egress from lymphoid tissue. In animal models of multiple sclerosis, fingolimod resulted in reduced recirculation of autoaggressive lymphocytes to the central nervous system. Subsequently, in several large, randomized controlled trials, fingolimod was shown to reduce relapse rates and improve neuro-radiologic outcomes in adult patients with relapsing-remitting multiple sclerosis. Fingolimod was approved for use in relapsing multiple sclerosis in the United States in 2010 and was the first oral disease modifying agent approved in this condition. Fingolimod is available in capsules of 0.5 mg under the brand name Gilenya. The recommended dose in adults is 0.5 mg orally once daily. Common side effects are lymphopenia, headache, diarrhea, cough, rhinorrhea and back and abdominal pain. Rare, but potentially severe adverse events include viral infections, atrial arrhythmias, macular edema, progressive multifocal leukoencephalopathy (PML), posterior reversible encepalopathy syndrome (PRES), and acute hypersensitivity reactions.</p>
+        </sec>
+        <sec id="Fingolimod.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>In large randomized controlled trials of fingolimod in patients with multiple sclerosis, serum ALT elevations above 3 times ULN were reported in 8% to 13% of fingolimod compared to less than 2% of placebo recipients. The enzyme elevations were usually transient and not associated with symptoms or jaundice and required drug discontinuation in less than 1% of patients. No cases of acute hepatitis or clinically apparent liver injury were reported in the preregistration trials of fingolimod. Thus, mild-to-moderate and transient serum enzyme elevations during therapy are not uncommon, but clinically apparent liver injury with jaundice due to fingolimod must be rare, if it occurs at all.</p>
+          <p>Likelihood score: E* (suspected but unproven cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Fingolimod.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The mechanism by which fingolimod might cause liver injury is not known. It is extensively metabolized by liver via the cytochrome P450 system, predominantly CYP 4F2, but drug-drug interactions are not common.</p>
+        </sec>
+        <sec id="Fingolimod.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>While chronic therapy with fingolimod can be associated with mild-to-moderate serum aminotransferase elevations, it has not been linked to cases of clinically apparent liver injury. Because of the frequency of enzyme elevations detected during therapy, the product label for fingolimod recommends obtaining baseline routine liver tests before initiation of treatment. There is no known cross sensitivity of the hepatic injury from fingolimod with other agents used to treat multiple sclerosis.</p>
+          <p>Drug Class: <related-object source-id="livertox" document-id="MultipleSclerosisAge">Multiple Sclerosis Agents</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Fingolimod.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <boxed-text position="anchor" id="Fingolimod.BPI" orientation="portrait">
+          <p>
+            <bold>REPRESENTATIVE TRADE NAMES</bold>
+          </p>
+          <p>Fingolimod &#x02013; Generic, Gilenya&#x000ae;</p>
+          <p>
+            <bold>DRUG CLASS</bold>
+          </p>
+          <p>Multiple Sclerosis Agents</p>
+          <p>
+            <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Fingolimod">COMPLETE LABELING</ext-link>
+          </p>
+          <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+        </boxed-text>
+      </sec>
+      <sec id="Fingolimod.CHEMICAL_FORMULA_AND_STRUCTUR">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Fingolimod.T1" position="anchor" orientation="portrait">
+          <table>
+            <thead>
+              <tr>
+                <th id="hd_h_Fingolimod.T1_1_1_1_1" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Fingolimod.T1_1_1_1_2" rowspan="1" colspan="1">CAS REGISTRY NO.</th>
+                <th id="hd_h_Fingolimod.T1_1_1_1_3" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Fingolimod.T1_1_1_1_4" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Fingolimod.T1_1_1_1_1" rowspan="1" colspan="1">Fingolimod</td>
+                <td headers="hd_h_Fingolimod.T1_1_1_1_2" rowspan="1" colspan="1">
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135204658">162359-55-9</ext-link>
+                </td>
+                <td headers="hd_h_Fingolimod.T1_1_1_1_3" rowspan="1" colspan="1">C19-H33-N-O2</td>
+                <td headers="hd_h_Fingolimod.T1_1_1_1_4" rowspan="1" colspan="1">
+                  <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Fingolimod_structure.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait">
+                    <alt-text>Fingolimod chemical structure</alt-text>
+                  </graphic>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Fingolimod.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 06 February 2018</p>
+        <ref-list id="Fingolimod.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Fingolimod.R1">
+            <mixed-citation publication-type="other">Zimmerman HJ. Oncotherapeutic and immunosuppressive agents. In, Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999, pp. 697-8.<annotation><p><italic toggle="yes">(Expert review of hepatotoxicity published in 1999 before the availability of fingolimod).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Fingolimod.R2">
+            <mixed-citation publication-type="other">Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013.<annotation><p><italic toggle="yes">(Multi-authored textbook of hepatotoxicity published in 2013 does not discuss the drugs for multiple sclerosis).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Fingolimod.R3">
+            <mixed-citation publication-type="other">Krensky AM, Bennett WM, Vincenti F. A case study: immunotherapy for multiple sclerosis. In, Brunton LL, Chabner BA, Knollman BC, eds. Goodman &#x00026; Gilman's the pharmacological basis of therapeutics. 12th ed. New York: McGraw-Hill, 2011, pp. 1025-7.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Fingolimod.R4">
+            <mixed-citation publication-type="journal">Kappos L, Radue EW, O'Connor P, Polman C, Hohlfeld R, Calabresi P, Selmaj K, et al; FREEDOMS Study Group. A placebo-controlled trial of oral fingolimod in relapsing multiple sclerosis. N Engl J Med 2010; 362: 387-401. <annotation><p><italic toggle="yes">(Among 1272 patients with relapsing multiple sclerosis treated with fingolimod [0.5 or 1.25 mg daily] or placebo for 24 months, 8.5-12.5% of fingolimod, but only 1.7% of placebo recipients developed ALT elevations above 3 times ULN, and ALT levels fell to normal with or without discontinuation, and serum bilirubin levels did not change).</italic></p></annotation><pub-id pub-id-type="pmid">20089952</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fingolimod.R5">
+            <mixed-citation publication-type="journal">Cohen JA, Barkhof F, Comi G, Hartung HP, Khatri BO, Montalban X, Pelletier J, et al; TRANSFORMS Study Group. Oral fingolimod or intramuscular interferon for relapsing multiple sclerosis. N Engl J Med 2010; 362: 402-15. <annotation><p><italic toggle="yes">(Among 1280 patients with relapsing multiple sclerosis treated with fingolimod [0.5 or 1.25 mg daily] or interferon beta [30 mg weekly] for 12 months, relapse rates were lower, but ALT elevations above 3 times ULN were more common with fingolimod [7% and 8%] than interferon beta [2%], although there were no clinically apparent episodes of liver injury).</italic></p></annotation><pub-id pub-id-type="pmid">20089954</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fingolimod.R6">
+            <mixed-citation publication-type="journal">Oral fingolimod(gilenya) for multiple sclerosis. Med Lett Drugs Ther 2010; 52 (1353-1354): 98-9. <annotation><p><italic toggle="yes">(Concise review of mechanism of action, efficacy, safety and costs of fingolimod shortly after is approval for use for multiple sclerosis in the US, mentions that common side effects are headache, cough, diarrhea, back pain and aminotransferase elevations; no mention of clinically apparent liver injury).</italic></p></annotation><pub-id pub-id-type="pmid">21344782</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fingolimod.R7">
+            <mixed-citation publication-type="journal">Gold R. Oral therapies for multiple sclerosis: a review of agents in phase III development or recently approved. CNS Drugs 2011; 25: 37-52. <annotation><p><italic toggle="yes">(Review of oral medications for multiple sclerosis under development including dimethyl fumarate [BG-12], fingolimod, teriflunomide, laquinimod and cladribine).</italic></p></annotation><pub-id pub-id-type="pmid">21128693</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fingolimod.R8">
+            <mixed-citation publication-type="journal">Killestein J, Rudick RA, Polman CH. Oral treatment for multiple sclerosis. Lancet Neurol 2011; 10: 1026-34. <annotation><p><italic toggle="yes">(Review of the clinical usefulness and safety of 5 new oral therapies for relapsing multiple sclerosis mentions that liver enzyme elevations can occur with teriflunomide and fingolimod therapy).</italic></p></annotation><pub-id pub-id-type="pmid">22014437</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fingolimod.R9">
+            <mixed-citation publication-type="journal">New drugs for relapsing multiple sclerosis. Med Lett Drugs Ther 2012; 54 (1403): 89-91. <annotation><p><italic toggle="yes">(Concise review of efficacy, safety and costs of new disease modifying drugs for multiple sclerosis lists side effects in a table including "transaminase elevations" for interferon beta, fingolimod and teriflunomide and "hepatotoxicity" for natalizumab, but not for glatiramer or mitoxantrone).</italic></p></annotation><pub-id pub-id-type="pmid">23183318</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fingolimod.R10">
+            <mixed-citation publication-type="journal">Oh J, O'Connor PW. Safety, Tolerability, and Efficacy of Oral Therapies for Relapsing-Remitting Multiple Sclerosis. CNS Drugs 2013; 27: 591-609. <annotation><p><italic toggle="yes">(Review of efficacy and safety or oral agents for multiple sclerosis, including fingolimod, teriflunomide, dimethyl fumarate, laquinimod and cladribine, none of which have raised major issues of hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">23801528</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fingolimod.R11">
+            <mixed-citation publication-type="journal">Pawate S, Bagnato F. Newer agents in the treatment of multiple sclerosis. Neurologist 2015; 19: 104-17. <annotation><p><italic toggle="yes">(Summary of the efficacy and safety of new drugs for multiple sclerosis mentions that fingolimod, laquinimod and teriflunomide have been associated with serum enzyme elevations during treatment, but no specifics given).</italic></p></annotation><pub-id pub-id-type="pmid">25888198</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fingolimod.R12">
+            <mixed-citation publication-type="journal">Kappos L, Cohen J, Collins W, de Vera A, Zhang-Auberson L, Ritter S, von Rosenstiel P, et al. Fingolimod in relapsing multiple sclerosis: an integrated analysis of safety findings. Mult Scler Rel Disorders 2014; 3: 494-504. <annotation><p><italic toggle="yes">(Analysis of safety findings in multiple phase 2 and 3 studies of fingolimod for multiple sclerosis involving 3553 patients in 4 trials and subsequent 24 month extension studies; ALT elevations above 3 times ULN occurred in 8.5-12.5% of fingolimod vs 1.7% of placebo recipients and were greater than 10 times ULN in 0.2-0.4% [vs 0%], but "there were no cases of severe drug-induced hepatotoxicity during clinical trials or in the post-marketing setting").</italic></p></annotation><pub-id pub-id-type="pmid">25877062</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fingolimod.R13">
+            <mixed-citation publication-type="journal">Ward MD, Jones DE, Goldman MD. Overview and safety of fingolimod hydrochloride use in patients with multiple sclerosis. Expert Opin Drug Safety 2014; 13: 98-998. <annotation><p><italic toggle="yes">(Review of efficacy and safety of fingolimod from multiple phase 2 and 3 trials in multiple sclerosis lists elevated liver tests as occurring in 15.8% of fingolimod vs 5% of placebo recipients in one trial and 6.5% vs 1.9% in a second, but that the elevations "resolved spontaneously with or without discontinuation").</italic></p></annotation><pub-id pub-id-type="pmid">24935480</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fingolimod.R14">
+            <mixed-citation publication-type="journal">Kappos L, O.Connor P, Radue E-W, Polman C, Hohlfeld R, Selmaj K, Ritter S, et al. Long-term effects of fingolimod in multiple sclerosis: the randomized FREEDOMS extension trial. Neurology 2015; 84: 1582-91. <annotation><p><italic toggle="yes">(Among 920 patients with multiple sclerosis enrolled in an extension study of fingolimod [0.5 vs 1.25 mg daily], beneficial effects were sustained and no new safety concerns arose, serum enzyme elevations occurring in 13% and 19% of subjects during the first and 7% and 8% during the second year of fingolimod therapy).</italic></p></annotation><pub-id pub-id-type="pmid">26111826</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fingolimod.R15">
+            <mixed-citation publication-type="journal">English C, Aloi JJ. New FDA-approved disease-modifying therapies for multiple sclerosis. Clin Ther 2015; 37: 691-715. <annotation><p><italic toggle="yes">(Systematic review of efficacy and safety of the newer disease modifying therapies of multiple sclerosis lists ALT elevations as adverse events associated with fingolimod, teriflunomide and dimethyl fumarate, but not peginterferon beta or alemtuzumab).</italic></p></annotation><pub-id pub-id-type="pmid">25846320</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fingolimod.R16">
+            <mixed-citation publication-type="journal">Chalasani N, Bonkovsky HL, Fontana R, Lee W, Stolz A, Talwalkar J, Reddy KR, et al.; United States Drug Induced Liver Injury Network. Features and outcomes of 899 patients with drug-induced liver injury: The DILIN Prospective Study. Gastroenterology 2015; 148: 1340-1352. <annotation><p><italic toggle="yes">(Among 899 cases of drug induced liver injury enrolled in a US prospective study between 2004 and 2013, 7 [0.8%] were attributed to interferon beta, but none were linked to fingolimod or other drugs used for multiple sclerosis).</italic></p></annotation><pub-id pub-id-type="pmid">25754159</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fingolimod.R17">
+            <mixed-citation publication-type="journal">Feinstein A, Freeman J, Lo AC. Treatment of progressive multiple sclerosis: what works, what does not, and what is needed. Lancet Neurol 2015; 14: 194-207. <annotation><p><italic toggle="yes">(Commentary on management of progressive multiple sclerosis in which most of the new, disease modifying agents have little effect, mentions that major attention should be paid to management and relief of symptoms such as fatigue, bladder dysfunction, spasticity, pain, depression and cognitive dysfunction; no discussion of liver related adverse effects). </italic></p></annotation><pub-id pub-id-type="pmid">25772898</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fingolimod.R18">
+            <mixed-citation publication-type="journal">Yamout BI, Zeineddine MM, Tamim H, Khoury SJ. Safety and efficacy of fingolimod in clinical practice: The experience of an academic center in the Middle East. J Neuroimmunol 2015; 289: 93-7. <annotation><p><italic toggle="yes">(Among 122 patients with multiple sclerosis treated with fingolimod at a Lebanese referral center between 2011 and 2015, adverse events included ALT or AST elevations in 25% of patients which were above 3 times ULN in 4%, but did not result in clinically apparent liver injury or require drug discontinuation).</italic></p></annotation><pub-id pub-id-type="pmid">26616877</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fingolimod.R19">
+            <mixed-citation publication-type="journal">Memon A, Miranda J. Hepatitis E virus infection in a patient with suspected drug-induced liver injury. BMJ Case Rep 2017; 2017. pii: bcr2016218387. <annotation><p><italic toggle="yes">(58 year old Irish woman with multiple sclerosis developed hepatitis 3 months after switching from interferon beta to fingolimod [peak bilirubin 16.1 mg/dL, ALT 2722 U/L, Alk P 158 U/L], subsequently found to be unrelated to fingolimod and due to acute hepatitis E).</italic></p></annotation><pub-id pub-id-type="pmid">28143860</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fingolimod.R20">
+            <mixed-citation publication-type="journal">Rojas JI, Patrucco L, Miguez J, Cristiano E. Real-world safety and patient profile of fingolimod in relapsing-remitting multiple sclerosis: a prospective analysis in Buenos Aires, Argentina. Clin Neuropharmacol 2017; 40: 251-4. <annotation><p><italic toggle="yes"> (Among 145 Argentinian adults with multiple sclerosis treated with fingolimod for an average of 2 years, 11 [8%] had ALT elevations during therapy but all were transient and benign, and none developed symptoms or jaundice).</italic></p></annotation><pub-id pub-id-type="pmid">28976408</pub-id></mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec id="Fingolimod.OTHER_REFERENCE_LINKS" sec-type="link-group">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=Fingolimod+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D%3A%222999/12/31%22%5BEDat%5D)">Recent References on Fingolimod: from PubMed.gov</ext-link>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Fingolimod">Trials on Fingolimod: from ClinicalTrials.gov</ext-link>
+            </p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Mepolizumab" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Mepolizumab</book-part-id>
+      <title-group>
+        <title>Mepolizumab</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>11</day>
+          <month>4</month>
+          <year>2016</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Meperidine" document-type="chapter">Meperidine</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Meprobamate" document-type="chapter">Meprobamate</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Mepolizumab.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Mepolizumab.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Mepolizumab is a humanized monoclonal antibody to interleukin-5 (IL-5) which leads to a decrease in production and maturation of eosinophils and results in a reduction in allergic symptoms of asthma and hypereosinophilic syndromes. Mepolizumab has not been associated with serum enzyme elevations during therapy or to instances of clinically apparent drug induced liver injury.</p>
+        </sec>
+        <sec id="Mepolizumab.Background">
+          <title>Background</title>
+          <p>Mepolizumab (me" poe liz' ue mab) is a recombinant, fully humanized monoclonal antibody to IL-5 which binds to the circulating cytokine and blocks its ability to cause maturation and proliferation of eosinophils. IL-5 is a cytokine growth and stimulating factor which has a selective role in recruiting eosinophils from the bone marrow and promoting their differentiation, activation and survival. Mepolizumab lowers eosinophil counts in patients with hypereosinophilia and also in normal, healthy controls. Therapy with mepolizumab has been shown to reduce the requirement for inhaled corticosteroids and lower the frequency of exacerbations of eosinophilic asthma and other conditions associated with severe hypereosinophilia. Mepolizumab was approved for use in the United States in 2015 for therapy of patients with severe eosinophilic asthma resistant to standard therapy with inhaled corticosteroids. Mepolizumab is available as a sterile powder for reconstitution in single use vials of 100 mg under the brand name Nucala. The recommended dose is 100 mg subcutaneously every 4 weeks. Side effects are not common, but can include injection site reactions, headache, back pain, fatigue, nausea and nasopharyngitis. Rarely, mepolizumab can cause hypersensitivity reactions, but these are usually not severe.</p>
+        </sec>
+        <sec id="Mepolizumab.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>In large clinical trials, mepolizumab was not associated with changes in serum aminotransferase levels during therapy, and rates of most adverse reactions were similar in patients who received placebo injections or standard care. There have been no published reports of clinically apparent acute liver injury attributed to mepolizumab therapy. Thus, liver injury from mepolizumab must be very rare, if it occurs at all.</p>
+          <p>Likelihood score: E (unlikely cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Mepolizumab.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>Mepolizumab is a humanized monoclonal antibody and is unlikely to be inherently hepatotoxic. Recombinant proteins are often metabolized in the cells on which they act but are also metabolized in the liver, largely to small peptides and amino acids which may be reused to synthesize proteins and are unlikely to be toxic or immunogenic. Mepolizumab lowers serum eosinophil counts, which seems to have no adverse effects on the liver and does not result in significant immunosuppression.</p>
+          <p>Drug Class: <related-object source-id="livertox" document-id="Anti-AsthmaDrugs">Antiasthmatic Agents</related-object>, <related-object source-id="livertox" document-id="MonoclonalAntibodies">Monoclonal Antibodies</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Mepolizumab.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <boxed-text position="anchor" id="Mepolizumab.BPI" orientation="portrait">
+          <p>
+            <bold>REPRESENTATIVE TRADE NAMES</bold>
+          </p>
+          <p>Mepolizumab &#x02013; Nucala&#x000ae;</p>
+          <p>
+            <bold>DRUG CLASS</bold>
+          </p>
+          <p>Antiasthmatic Agents</p>
+          <p>
+            <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Mepolizumab">COMPLETE LABELING</ext-link>
+          </p>
+          <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+        </boxed-text>
+      </sec>
+      <sec id="Mepolizumab.CHEMICAL_FORMULA_AND_STRUCTU">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Mepolizumab.T1" position="anchor" orientation="portrait">
+          <table>
+            <thead>
+              <tr>
+                <th id="hd_h_Mepolizumab.T1_1_1_1_1" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Mepolizumab.T1_1_1_1_2" rowspan="1" colspan="1">CAS REGISTRY NO.</th>
+                <th id="hd_h_Mepolizumab.T1_1_1_1_3" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Mepolizumab.T1_1_1_1_4" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Mepolizumab.T1_1_1_1_1" rowspan="1" colspan="1">Mepolizumab</td>
+                <td headers="hd_h_Mepolizumab.T1_1_1_1_2" rowspan="1" colspan="1">
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135278932">196078-29-2</ext-link>
+                </td>
+                <td headers="hd_h_Mepolizumab.T1_1_1_1_3" rowspan="1" colspan="1">Monoclonal Antibody</td>
+                <td headers="hd_h_Mepolizumab.T1_1_1_1_4" rowspan="1" colspan="1">Not Available</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Mepolizumab.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 11 April 2016</p>
+        <ref-list id="Mepolizumab.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Mepolizumab.R1">
+            <mixed-citation publication-type="other">Zimmerman HJ. Drugs used to treat rheumatic and musculospastic disease. In, Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999, pp. 517-54.<annotation><p><italic toggle="yes">(Expert review of hepatotoxicity published in 1999, well before the availability of most monoclonal antibody therapies).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Mepolizumab.R2">
+            <mixed-citation publication-type="other">Reuben A. Hepatotoxicity of immunosuppressive drugs. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2011, pp. 569-91.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of immunosuppressive agents; "the biological immuno-suppressants are largely free from hepatotoxicity, with the exception of the TNF alpha antagonists"; mepolizumab is not specifically mentioned).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Mepolizumab.R3">
+            <mixed-citation publication-type="other">Barnes PJ. Pulmonary pharmacology. In, Brunton LL, Chabner BA, Knollman BC, eds. Goodman &#x00026; Gilman's the pharmacological basis of therapeutics. 12th ed. New York: McGraw-Hill, 2011, pp. 1031-65.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Mepolizumab.R4">
+            <mixed-citation publication-type="journal">Rothenberg ME, Klion AD, Roufosse FE, Kahn JE, Weller PF, Simon HU, Schwartz LB, et al.; Mepolizumab HES Study Group. Treatment of patients with the hypereosinophilic syndrome with mepolizumab. N Engl J Med 2008; 358: 1215-28. <annotation><p><italic toggle="yes">(Among 84 patients with hypereosinophilic syndromes treated with mepolizumab or placebo intravenously every 4 weeks for 32 weeks, reduction in daily corticosteroid dose was more frequent with treatment and side effects were similar; while there were &#x0201c;no clinically relevant trends&#x0201d; in laboratory tests, one mepolizumab treated subject developed &#x0201c;hepatitis&#x0201d; but no details given).</italic></p></annotation><pub-id pub-id-type="pmid">18344568</pub-id></mixed-citation>
+          </ref>
+          <ref id="Mepolizumab.R5">
+            <mixed-citation publication-type="journal">Haldar P, Brightling CE, Hargadon B, Gupta S, Monteiro W, Sousa A, Marshall RP, et al. Mepolizumab and exacerbations of refractory eosinophilic asthma. N Engl J Med 2009; 360: 973-84. <annotation><p><italic toggle="yes">(Among 61 patients with refractory eosinophilic asthma treated with iv mepolizumab or placebo every 4 weeks for one year, severe exacerbations of asthma were less with mepolizumab [2.0 vs 3.4 per subject] and side effects besides hospitalization for asthma were uncommon; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Mepolizumab.R6">
+            <mixed-citation publication-type="journal">Straumann A, Conus S, Grzonka P, Kita H, Kephart G, Bussmann C, Beglinger C, et al. Anti-interleukin-5 antibody treatment (mepolizumab) in active eosinophilic oesophagitis: a randomised, placebo-controlled, double-blind trial. Gut 2010; 59: 21-30. <annotation><p><italic toggle="yes">(Among 11 adults with eosinophilic esophagitis who were treated with iv mepolizumab or placebo twice at one week intervals, eosinophils decreased in esophageal biopsies on mepolizumab, and there were no serious adverse events).</italic></p></annotation><pub-id pub-id-type="pmid">19828470</pub-id></mixed-citation>
+          </ref>
+          <ref id="Mepolizumab.R7">
+            <mixed-citation publication-type="journal">Pavord ID, Korn S, Howarth P, Bleecker ER, Buhl R, Keene ON, Ortega H, et al. Mepolizumab for severe eosinophilic asthma (DREAM): a multicentre, double-blind, placebo-controlled trial. Lancet 2012; 380 (9842): 651-9. <annotation><p><italic toggle="yes">(Among 621 patients with severe eosinophilic asthma treated with iv mepolizumab [75, 250 or 750 mg] or placebo every 4 weeks for 1 year, exacerbations of asthma were less with mepolizumab [1.2 vs 2.4 per year] and adverse events were similar; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">22901886</pub-id></mixed-citation>
+          </ref>
+          <ref id="Mepolizumab.R8">
+            <mixed-citation publication-type="journal">Roufosse FE, Kahn JE, Gleich GJ, Schwartz LB, Singh AD, Rosenwasser LJ, Denburg JA, et al. Long-term safety of mepolizumab for the treatment of hypereosinophilic syndromes. J Allergy Clin Immunol 2013; 131: 461-7. <annotation><p><italic toggle="yes">(Among 78 patients with hypereosinophilic syndromes treated with mepolizumab for up to 6 years, median prednisone dose fell to zero and there were no hepatic related adverse events or mention of ALT elevations).</italic></p></annotation><pub-id pub-id-type="pmid">23040887</pub-id></mixed-citation>
+          </ref>
+          <ref id="Mepolizumab.R9">
+            <mixed-citation publication-type="journal">Drugs for asthma and COPD. Treat Guidel Med Lett 2013; 11 (132): 75-86. <annotation><p><italic toggle="yes">(Concise summary of guidelines for therapy of asthma mentions that omalizumab [monoclonal antibody to IgE] is approved for use in severe, persistent asthma; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">23896773</pub-id></mixed-citation>
+          </ref>
+          <ref id="Mepolizumab.R10">
+            <mixed-citation publication-type="journal">Bel EH, Wenzel SE, Thompson PJ, Prazma CM, Keene ON, Yancey SW, Ortega HG, et al.; SIRIUS Investigators. Oral glucocorticoid-sparing effect of mepolizumab in eosinophilic asthma. N Engl J Med 2014; 371: 1189-97. <annotation><p><italic toggle="yes">(Among 135 patients with severe asthma treated with iv mepolizumab or placebo every 4 weeks for 20 weeks, the average daily corticosteroid dose was less and exacerbations of asthma fewer among mepolizumab treated subjects and side effect rates were similar; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">25199060</pub-id></mixed-citation>
+          </ref>
+          <ref id="Mepolizumab.R11">
+            <mixed-citation publication-type="journal">Haldar P, Brightling CE, Singapuri A, Hargadon B, Gupta S, Monteiro W, Bradding P, et al. Outcomes after cessation of mepolizumab therapy in severe eosinophilic asthma: a 12-month follow-up analysis. J Allergy Clin Immunol 2014; 133: 921-3. <annotation><p><italic toggle="yes">(Among 27 patients with eosinophilic asthma who were withdrawn from mepolizumab therapy after one year, exacerbations of asthma were similar to rates of non-treated subjects).</italic></p></annotation><pub-id pub-id-type="pmid">24418480</pub-id></mixed-citation>
+          </ref>
+          <ref id="Mepolizumab.R12">
+            <mixed-citation publication-type="journal">Ortega HG, Liu MC, Pavord ID, Brusselle GG, FitzGerald JM, Chetta A, Humbert M, et al.; MENSA Investigators. Mepolizumab treatment in patients with severe eosinophilic asthma. N Engl J Med 2014; 371: 1198-207. <annotation><p><italic toggle="yes">(Among 576 patients with severe eosinophilic asthma treated with mepolizumab [75 mg iv or 100 mg sc] or placebo every 4 weeks for 32 weeks, rates of exacerbation were less with mepolizumab [0.83 to 0.93 yearly] vs placebo [1.7 yearly] and side effects were similar; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">25199059</pub-id></mixed-citation>
+          </ref>
+          <ref id="Mepolizumab.R13">
+            <mixed-citation publication-type="journal">Mepolizumab (Nucala) for severe eosinophilic asthma. Med Lett Drugs Ther 2016; 58 (1486): 11-2. <annotation><p><italic toggle="yes">(Concise summary of the mechanism of action, clinical efficacy, safety and costs of mepolizumab shortly after its approval in the US for eosinophilic asthma, mentions side effects of headache, back pain, fatigue and infusion site reactions, but does not mention ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">26761344</pub-id></mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec id="Mepolizumab.OTHER_REFERENCE_LINKS" sec-type="link-group">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=Mepolizumab+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D%3A%222999/12/31%22%5BEDat%5D)">Recent References on Mepolizumab: from PubMed.gov</ext-link>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Mepolizumab">Trials on Mepolizumab: from ClinicalTrials.gov</ext-link>
+            </p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

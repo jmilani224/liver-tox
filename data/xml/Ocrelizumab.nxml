@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Ocrelizumab" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Ocrelizumab</book-part-id>
+      <title-group>
+        <title>Ocrelizumab</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>16</day>
+          <month>12</month>
+          <year>2019</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="ObeticholicAcid" document-type="chapter">Obeticholic Acid</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Octreotide" document-type="chapter">Octreotide</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Ocrelizumab.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Ocrelizumab.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Ocrelizumab is a humanized monoclonal antibody to CD20 which is used as therapy of multiple sclerosis. Ocrelizumab has not been associated with serum enzyme elevations during therapy nor with instances of idiosyncratic liver injury, but has been linked to cases of reactivation of hepatitis B in susceptible patients.</p>
+        </sec>
+        <sec id="Ocrelizumab.Background">
+          <title>Background</title>
+          <p>Ocrelizumab (ok" re liz' ue mab) is a humanized IgG1 monoclonal antibody to CD20, a cell surface antigen found on pre-B cells, mature B cells and memory B cells. Engagement of CD20 causes cell lysis resulting in B cell depletion which may be beneficial in autoimmune conditions mediated by autoantibodies. Ocrelizumab like rituximab is directed against CD20 but has a broader reactivity and is a humanized monoclonal, unlike rituximab that is a mouse-human chimeric molecule. Ocrelizumab was found to be beneficial in multiple sclerosis, decreasing rates of relapse as well as slowing progression. Ocrelizumab was approved for use in the United States in 2017 for both progressive and relapsing multiple sclerosis. Ocrelizumab is under evaluation in other autoimmune and malignant conditions but is not approved for these uses. Ocrelizumab is available in liquid solution in single use vials of 300 mg (30 mg/mL) under the brand name Ocrevus. The recommended dose is 600 mg intravenously every 6 months, the initial dose being given as two separate infusions of 300 mg 2 weeks apart. Pretreatment with corticosteroids and antihistamines is recommended with each infusion. Treatment results in a rapid decline in circulating B cells and decrease in immunoglobulin levels, effects that persist for 6 to 18 months. Common adverse events include infusion reactions, cough, diarrhea, skin rash and infections, particularly herpes simplex. Rare but potentially serious adverse events include reactivation of hepatitis B, increased risk of malignancy and progressive multifocal leukoencephalopathy (PMLE).</p>
+        </sec>
+        <sec id="Ocrelizumab.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>Mild-to-moderate serum aminotransferase elevations were reported to occur in 1% to 2% of patients during ocrelizumab therapy. The elevations, however, were self-limited and resolved even with continuing cyclic therapy and were no more frequent than occurred with placebo. Neither during premarketing evaluation nor subsequently have there been case reports of clinically apparent, acute liver injury with symptoms or jaundice linked to ocrelizumab therapy, but experience with its use has been limited.</p>
+          <p>Monoclonal antibodies against CD20 similar to ocrelizumab such as rituximab and ofatumumab have been implicated in cases of reactivation of hepatitis B some of which have been severe and even fatal. HBV reactivation typically occurs in patients with preexisting HBsAg and relatively inactive disease, but in some instances, it occurs in patients with anti-HBc without HBsAg. Reactivation causes acute hepatocellular injury that can be severe and lead to acute liver failure and death or need for emergency liver transplantation. Since the approval and more widespread use of ocrelizumab, isolated instances of reactivation of hepatitis B have been reported, both in patients with preexisting HBsAg in serum (HBsAg carriers) and those with anti-HBc without HBsAg (serologic pattern associated with recovery from HBV infection). For these reasons, patients who are to receive ocrelizumab should be screened for HBsAg and anti-HBc before starting therapy. Those with markers of HBV infection should either be given prophylaxis against (using oral antiviral agents with activity against HBV) or monitored carefully for HBV DNA in serum and initiated on therapy if levels become detectable or rise significantly.</p>
+          <p>Likelihood score: D (rare cause of clinically apparent liver injury, probably related to reactivation of hepatitis B).</p>
+        </sec>
+        <sec id="Ocrelizumab.Mechanism_of_Liver_Injury">
+          <title>Mechanism of Liver Injury</title>
+          <p>The mechanism of liver injury in reactivation of hepatitis B appears to be a brisk immunological response to newly expressed viral antigens following profound immune suppression and gradual recovery. Injury generally arises between courses of monoclonal anti-CD20 therapy and may be delayed.</p>
+        </sec>
+        <sec id="Ocrelizumab.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>Guidelines for management of patients who are to receive ocrelizumab recommend routine screening for hepatitis B before starting treatment. Screening should include tests for HBsAg and anti-HBc (and perhaps also anti-HBs as this may help in management). Prophylaxis with a potent oral, antiviral agent effective against hepatitis B is recommended for persons who have HBsAg in serum and is suggested for those with anti-HBc without HBsAg. An alternative approach which is perhaps more appropriate for ocrelizumab is careful monitoring for HBV DNA during therapy and early institution of antiviral therapy if levels rise. At present, hepatitis B is considered a relative contraindication to the use of ocrelizumab in multiple sclerosis.</p>
+          <p>Drug Class: <related-object link-type="booklink" source-id="livertox" document-id="MultipleSclerosisAge" document-type="chapter">Multiple Sclerosis Agents</related-object>; <related-object link-type="booklink" source-id="livertox" document-id="MonoclonalAntibodies" document-type="chapter">Monoclonal Antibodies</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Ocrelizumab.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <p>
+          <bold>REPRESENTATIVE TRADE NAMES</bold>
+        </p>
+        <p>Ocrelizumab &#x02013; Ocrevus&#x000ae;</p>
+        <p>
+          <bold>DRUG CLASS</bold>
+        </p>
+        <p>Multiple Sclerosis Agents</p>
+        <p>
+          <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Ocrelizumab">COMPLETE LABELING</ext-link>
+        </p>
+        <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+      </sec>
+      <sec id="Ocrelizumab.CHEMICAL_FORMULA_AND_STRUCTU">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Ocrelizumab.Tc" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th id="hd_h_Ocrelizumab.Tc_1_1_1_1" valign="top" align="left" scope="col" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Ocrelizumab.Tc_1_1_1_2" valign="top" align="left" scope="col" rowspan="1" colspan="1">CAS REGISTRY NUMBER</th>
+                <th id="hd_h_Ocrelizumab.Tc_1_1_1_3" valign="top" align="left" scope="col" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Ocrelizumab.Tc_1_1_1_4" valign="top" align="left" scope="col" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Ocrelizumab.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Ocrelizumab</td>
+                <td headers="hd_h_Ocrelizumab.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135357140">637334-45-3</ext-link>
+                </td>
+                <td headers="hd_h_Ocrelizumab.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">Monoclonal Antibody</td>
+                <td headers="hd_h_Ocrelizumab.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">Not Available</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Ocrelizumab.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 12 December 2019</p>
+        <ref-list id="Ocrelizumab.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Ocrelizumab.REF.reuben.2011">
+            <mixed-citation publication-type="book">Reuben A. Hepatotoxicity of immunosuppressive drugs. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2011, pp. 569-91.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of immunosuppressive agents; does not mention ocrelizumab specifically but discussed the problems of reactivation of hepatitis B and states that "the biological immunosuppressants are largely free from hepatotoxicity, with the exception of the TNF alpha antagonists").</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Ocrelizumab.REF2">
+            <mixed-citation publication-type="web">
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.accessdata.fda.gov/scripts/cder/daf/">https://www.accessdata.fda.gov/scripts/cder/daf/</ext-link>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(FDA Drug Approvals website that has product labels [package inserts], letters of approval and full FDA scientific review of the new drug application for safety and efficacy).</italic>
+                </p>
+              </annotation>
+            </mixed-citation>
+          </ref>
+          <ref id="Ocrelizumab.REF.stohl.2012">
+            <mixed-citation publication-type="other">Stohl W, Gomez-Reino J, Olech E, Dudler J, Fleischmann RM, Zerbini CA, Ashrafzadeh A, et al. Safety and efficacy of ocrelizumab in combination with methotrexate in MTX-naive subjects with rheumatoid arthritis: the phase III FILM trial. Ann Rheum Dis 2012; 71: 1289-96. 22307942<annotation><p><italic toggle="yes">(Among 613 patients with rheumatoid arthritis treated with methotrexate with or without ocrelizumab [200 or 500 mg] for 52 weeks, clinical improvement was greater in the high dose group while adverse event rates were similar except for a high rate of serious infections that led to early discontinuation of the study; no mention of ALT elevations or hepatotoxicity, while none of 67 patients with anti-HBc developed evidence of HBV reactivation).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Ocrelizumab.REF.mysler.2013">
+            <mixed-citation publication-type="other">Mysler EF, Spindler AJ, Guzman R, Bijl M, Jayne D, Furie RA, Houssiau FA, et al. Efficacy and safety of ocrelizumab in active proliferative lupus nephritis: results from a randomized, double-blind, phase III study. Arthritis Rheum 2013; 65: 2368-79. 23740801<annotation><p><italic toggle="yes">(Among 378 patients with lupus nephritis treated with ocrelizumab [400 and 1000 mg doses] vs placebo for 48 weeks, overall renal response rates were minimally higher with ocrelizumab; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Ocrelizumab.REF.emery.2014">
+            <mixed-citation publication-type="other">Emery P, Rigby W, Tak PP, D&#x000f6;rner T, Olech E, Martin C, Millar L, et al. Safety with ocrelizumab in rheumatoid arthritis: results from the ocrelizumab phase III program. PLoS One 2014; 9: e87379. 24498318<annotation><p><italic toggle="yes">(Among 2759 patients with rheumatoid arthritis treated with ocrelizumab [400 or 1000 mg] or placebo at baseline and 24 weeks, detailed safety analysis showed similar adverse events except for higher rates of serious infections with ocrelizumab, including one case of reactivation of HBV in patient who was initially anti-HBc positive but HBsAg and HBV DNA negative; &#x0201c;approximately 300 patients with this serologic status&#x0201d; were enrolled but no other cases of HBV reactivation were observed).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Ocrelizumab.REF.montalban.2017">
+            <mixed-citation publication-type="other">Montalban X, Hauser SL, Kappos L, Arnold DL, Bar-Or A, Comi G, de Seze J, et al.; ORATORIO Clinical Investigators. Ocrelizumab versus placebo in primary progressive multiple sclerosis. N Engl J Med 2017; 376: 209-20. 28002688<annotation><p><italic toggle="yes">(Among 732 patients with progressive multiple sclerosis treated with ocrelizumab vs placebo, progression in disability over 12 weeks was less with ocrelizumab [33% vs 39%] while side effects that were more common with ocrelizumab were infusion reactions [40% vs 26%], upper respiratory infections [11% vs 6%], oral herpes [2.3% vs 0.9%] and neoplasms [2.3% vs 0.8%]; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Ocrelizumab.REF.hauser.2017">
+            <mixed-citation publication-type="other">Hauser SL, Bar-Or A, Comi G, Giovannoni G, Hartung HP, Hemmer B, Lublin F, et al.; OPERA I and OPERA II Clinical Investigators. Ocrelizumab versus interferon beta-1a in relapsing multiple sclerosis. N Engl J Med 2017; 376: 221-34. 28002679<annotation><p><italic toggle="yes">(Among 1646 patients with relapsing multiple sclerosis treated with ocrelizumab vs interferon beta for 96 weeks in two clinical trials, relapse rates were 46-47% lower in ocrelizumab treated groups while overall and serious adverse event rates were similar including serious infections and herpes simplex; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Ocrelizumab.REF.hauser.2017_1">
+            <mixed-citation publication-type="other">Hauser SL, Belachew S, Kappos L. Ocrelizumab in primary progressive and relapsing multiple sclerosis. N Engl J Med 2017; 376: 1694. 28445661<annotation><p><italic toggle="yes">(In a reply to a letter to the editor concerning Montalan [2017] and Hauser [2017], the authors explain that patients with HBsAg or anti-HBc with HBV DNA in serum were excluded from enrollment and those with anti-HBc alone were screened for HBV DNA at 12 week intervals, but do not mention whether instances of reactivation occurred).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Ocrelizumab.REF.frampton.2017">
+            <mixed-citation publication-type="other">Frampton JE. Ocrelizumab: first global approval. Drugs 2017; 77: 1035-41. 28523586<annotation><p><italic toggle="yes">(Review of the development, mechanism of action, pharmacology, clinical efficacy and safety of ocrelizumab as therapy of multiple sclerosis, including a discussion of common adverse events such as infusion reactions and laboratory abnormalities of IgG, IgA and IgM and immunogenicity and serious adverse events such as infections and possibility of increased risk of malignancies, but does not mention ALT elevations, hepatotoxicity or reactivation of hepatitis B).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Ocrelizumab.REF10">
+            <mixed-citation publication-type="other">Ocrelizumab (Ocrevus) for MS. Med Lett Drugs Ther 2017; 59 (1523): 98-101. 28609424<annotation><p><italic toggle="yes">(Concise review of the standard therapy of multiple sclerosis and the mechanism of action, clinical efficacy, safety and costs of ocrelizumab shortly after its approval in the US mentions that agents with similar mechanism of action can cause reactivation of HBV).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Ocrelizumab.REF.ciardi.2018">
+            <mixed-citation publication-type="other">Ciardi MR, Iannetta M, Zingaropoli MA, Salpini R, Aragri M, Annecca R, Pontecorvo S, et al. Reactivation of hepatitis B virus with immune-escape mutations after ocrelizumab treatment for multiple sclerosis. Open Forum Infect Dis 2018; 6(1): ofy356. 30697576<annotation><p><italic toggle="yes">(60 year old man with MS and anti-HBc without HBsAg or HBV DNA in serum developed mild and asymptomatic reactivation of HBV 6 weeks after starting ocrelizumab [HBV DNA rising from undetectable to 184 IU/mL, ALT normal, HBsAg negative], HBV DNA returning to negative upon starting entecavir).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Ocrelizumab.REF.nicolini.2019">
+            <mixed-citation publication-type="other">Nicolini LA, Canepa P, Caligiuri P, Mikulska M, Novi G, Viscoli C, Uccelli A. Fulminant hepatitis associated with echovirus 25 during treatment with ocrelizumab for multiple sclerosis. JAMA Neurol 2019; 76: 866-7. 30958517<annotation><p><italic toggle="yes">(44 year old woman with MS developed fever, diarrhea and rash followed by severe hepatitis [bilirubin initially normal and rising to 4 mg/dL, ALT 6241 U/L, INR 2.95, HBsAg and HBV DNA negative] leading to emergency liver transplantation, serum later found to harbor enterovirus 25 RNA).</italic></p></annotation></mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec sec-type="link-group" id="Ocrelizumab.OTHER_REFERENCE_LINKS">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <label>1</label>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=(Ocrelizumab/AE)+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D:%222999/12/31%22%5BEDat%5D)">Recent References on Ocrelizumab: from PubMed.gov</ext-link>
+            </p>
+          </list-item>
+          <list-item>
+            <label>2</label>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Ocrelizumab">Trials on Ocrelizumab: from ClinicalTrials.gov</ext-link>
+            </p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

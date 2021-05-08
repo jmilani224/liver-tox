@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Migalastat" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Migalastat</book-part-id>
+      <title-group>
+        <title>Migalastat</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>11</day>
+          <month>4</month>
+          <year>2019</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Mifepristone" document-type="chapter">Mifepristone</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Miglitol" document-type="chapter">Miglitol</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Migalastat.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Migalastat.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Migalastat is pharmacologic chaperone of alpha-galactosidase the intrahepatic enzyme that is deficient in Fabry disease. Clinical experience with migalastat is limited, but it not been linked to serum enzyme elevations during therapy or to instances of clinically apparent acute liver injury.</p>
+        </sec>
+        <sec id="Migalastat.Background">
+          <title>Background</title>
+          <p>Migalastat (me' gal a stat) is a small molecule chaperone of alpha-galactosidase A (GLA) the enzyme that is deficient in Fabry disease. The enzyme deficiency results in the intra-lysosomal accumulation of glycosphingolipids in multiple cell types including endothelial, renal and nerve cells, causing damage to kidneys, heart, brain, gastrointestinal tract and peripheral nerves. The disease has an X-linked inheritance, but both males and females can be affected, and the frequency and severity of clinical features vary greatly, apparently dependent upon the amount of residual GLA enzyme activity. In severe cases, the disease presents in childhood with abdominal pain, diarrhea and peripheral neuropathy followed by renal dysfunction that progresses to end stage renal disease in adulthood. Other complications include cardiovascular and cerebrovascular complications including arrhythmias, myocardial infarction, transient ischemic attacks and stoke. Disease severity correlates with amount of accumulation of GLA substrate in affected tissue. Migalastat is a small molecule chaperone which increases GLA activity in cells by directing the enzyme to the proper location in lysosomes. However, only a proportion of patients with Fabry disease have a beneficial response to migalastat, which generally correlates with specific mutations in the GLA gene that can be shown to be responsive to migalastat in vitro as well as in vivo. In several clinical trials, therapy with migalastat was associated with decrease in substrate accumulation in kidney tissue in subjects with gene mutations that could be shown to be amenable to migalastat in vitro. Responses to migalastat were greatest in patients with severe disease, but improvements were measured by changes in substrate accumulation and not by improvement in clinical symptoms or disease outcomes. Migalastat was given accelerated approval in 2018 as oral therapy of Fabry disease in patients who have a variant of the GLA gene that is amenable to its effects. Migalastat is available in tablets of 123 mg under the brand name Galafold. The recommended dose regimen is 123 mg every other day at the same time of day. Side effects are not common but can include headache, upper respiratory symptoms, urinary tract infection, nausea and fever.</p>
+        </sec>
+        <sec id="Migalastat.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>In placebo-controlled trials, liver test abnormalities were rare and no more common with migalastat than with placebo treatment. What abnormalities occurred were mild and resolved spontaneously without need for dose interruption. During these premarketing clinical trials and since its more widespread clinical availability, no instances of acute liver injury with jaundice have been reported attributable to migalastat. However, the total clinical experience with its use has been limited.</p>
+          <p>Likelihood score: E (unlikely cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Migalastat.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The mechanism by which migalastat might cause serum aminotransferase elevations or liver injury is not known. Migalastat is extensively metabolized by the liver via the cytochrome P450 system (predominantly CYP 2D6 and 3A) and is susceptible to drug-drug interactions with agents that induce or inhibit these enzymes.</p>
+        </sec>
+        <sec id="Migalastat.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>The serum aminotransferase elevations that occur on migalastat therapy are usually self-limited and do not require dose modification or discontinuation of therapy. No instances of severe hepatitis, acute liver failure or vanishing bile duct syndrome due to migalastat have been reported.</p>
+          <p>Drug Class: Genetic Disorder Agents</p>
+        </sec>
+      </sec>
+      <sec id="Migalastat.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <boxed-text position="anchor" id="Migalastat.BPI" orientation="portrait">
+          <p>
+            <bold>REPRESENTATIVE TRADE NAMES</bold>
+          </p>
+          <p>Migalastat &#x02013; Galafold&#x000ae;</p>
+          <p>
+            <bold>DRUG CLASS</bold>
+          </p>
+          <p>Genetic Disorder Agents</p>
+          <p>
+            <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Migalastat">COMPLETE LABELING</ext-link>
+          </p>
+          <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+        </boxed-text>
+      </sec>
+      <sec id="Migalastat.CHEMICAL_FORMULA_AND_STRUCTUR">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Migalastat.T1" position="anchor" orientation="portrait">
+          <table>
+            <thead>
+              <tr>
+                <th id="hd_h_Migalastat.T1_1_1_1_1" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Migalastat.T1_1_1_1_2" rowspan="1" colspan="1">CAS REGISTRY NO.</th>
+                <th id="hd_h_Migalastat.T1_1_1_1_3" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Migalastat.T1_1_1_1_4" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Migalastat.T1_1_1_1_1" rowspan="1" colspan="1">Migalastat</td>
+                <td headers="hd_h_Migalastat.T1_1_1_1_2" rowspan="1" colspan="1">
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135154287">108147-54-2</ext-link>
+                </td>
+                <td headers="hd_h_Migalastat.T1_1_1_1_3" rowspan="1" colspan="1">C6-H13-N-O4</td>
+                <td headers="hd_h_Migalastat.T1_1_1_1_4" rowspan="1" colspan="1">
+                  <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Migalastat_structure.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait">
+                    <alt-text>Migalastat Chemical Structure</alt-text>
+                  </graphic>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Migalastat.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 11 April 2019</p>
+        <ref-list id="Migalastat.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Migalastat.R1">
+            <mixed-citation publication-type="journal">Ferri L, Guido C, la Marca G, Malvagia S, Cavicchi C, Fiumara A, Barone R, et al. Fabry disease: polymorphic haplotypes and a novel missense mutation in the GLA gene. Clin Genet 2012; 81: 224-33. <annotation><p><italic toggle="yes">(Review of Fabry disease, an X-linked lysosomal storage disorder caused by deficiency in alpha-galactosidase A [CLA] with a wide spectrum of clinical manifestations and variable mutations in the GLA gene, some of which are responsive to pharmacological chaperone migalastat).</italic></p></annotation><pub-id pub-id-type="pmid">21517827</pub-id></mixed-citation>
+          </ref>
+          <ref id="Migalastat.R2">
+            <mixed-citation publication-type="other">
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.accessdata.fda.gov/scripts/cder/daf/">https://www.accessdata.fda.gov/scripts/cder/daf/</ext-link>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(FDA Drug Approvals website that has product labels [package inserts], letters of approval and full FDA scientific review of the new drug application for safety and efficacy; mentions that there were no serious adverse events or clinically significant changes in laboratory values).</italic>
+                </p>
+              </annotation>
+            </mixed-citation>
+          </ref>
+          <ref id="Migalastat.R3">
+            <mixed-citation publication-type="journal">Germain DP, Hughes DA, Nicholls K, Bichet DG, Giugliani R, Wilcox WR, Feliciani C, et al. Treatment of Fabry's disease with the pharmacologic chaperone migalastat. N Engl J Med 2016; 375: 545-55. <annotation><p><italic toggle="yes">(Among 67 patients with Fabry disease treated with migalastat or placebo for 6 months, response rates, defined as amount of GLA substrate inclusions in kidney biopsies, were not significantly greater with migalastat [41% vs 28%] and adverse event rates were similar and there were no "clinically relevant" changes in laboratory test measurements).</italic></p></annotation><pub-id pub-id-type="pmid">27509102</pub-id></mixed-citation>
+          </ref>
+          <ref id="Migalastat.R4">
+            <mixed-citation publication-type="journal">Markham A. Migalastat: first global approval. Drugs 2016; 76: 1147-52. <annotation><p><italic toggle="yes">(Review of the mechanism of action, history of development, pharmacology, clinical efficacy and safety of migalastat soon after its approval by the European Union; discusses adverse events of headache but does not mention ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">27351440</pub-id></mixed-citation>
+          </ref>
+          <ref id="Migalastat.R5">
+            <mixed-citation publication-type="journal">Hughes DA, Nicholls K, Shankar SP, Sunder-Plassmann G, Koeller D, Nedd K, Vockley G, et al. Oral pharmacological chaperone migalastat compared with enzyme replacement therapy in Fabry disease: 18-month results from the randomised phase III ATTRACT study. J Med Genet 2017; 54: 288-96. <annotation><p><italic toggle="yes">(Among 53 adults with Fabry disease on enzyme replacement therapy (ERT) with amenable GLA mutations, those switched to migalastat had similar changes in renal and cardiac function as those maintained on ERT; furthermore, adverse event rates were similar, and there were "no clinically relevant treatment group differences" in laboratory test results).</italic></p></annotation><pub-id pub-id-type="pmid">27834756</pub-id></mixed-citation>
+          </ref>
+          <ref id="Migalastat.R6">
+            <mixed-citation publication-type="journal">M&#x000fc;ntze J, Gensler D, Maniuc O, Liu D, Cairns T, Oder D, Hu K, et al. Oral chaperone therapy migalastat for treating Fabry disease: enzymatic response and serum biomarker changes after 1 year. Clin Pharmacol Ther 2018 Dec 3. [Epub ahead of print] <annotation><p><italic toggle="yes">(Among 14 patients with Fabry disease treated for at last one year, there were significant increases in plasma GLA levels and improvements in cardiac mass index, but worsening of renal function; adverse events not mentioned).</italic></p></annotation><pub-id pub-id-type="pmid">30506669</pub-id></mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec id="Migalastat.OTHER_REFERENCE_LINKS" sec-type="link-group">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=Migalastat+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D%3A%222999/12/31%22%5BEDat%5D)">Recent References on Migalastat: from PubMed.gov</ext-link>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Migalastat">Trials on Migalastat: from ClinicalTrials.gov</ext-link>
+            </p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

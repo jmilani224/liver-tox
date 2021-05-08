@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="SubstanceAbuseTreatm" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">SubstanceAbuseTreatm</book-part-id>
+      <title-group>
+        <title>Substance Abuse Treatment Agents</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>20</day>
+          <month>5</month>
+          <year>2014</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Streptozocin" document-type="chapter">Streptozocin</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Succimer" document-type="chapter">Succimer</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="SubstanceAbuseTreatm.OVERVIEW">
+        <title>OVERVIEW</title>
+        <p content-type="pubmed-excerpt">The Substance Abuse Treatment Agents are used in combination with structured relapse prevention interventions to treat alcohol, opiate, nicotine and other drug dependencies. These agents are usually not effective on their own and are considered adjunctive therapy to multidisciplinary substance abuse treatment.</p>
+        <p content-type="pubmed-excerpt">The substance abuse treatment agents are generally classified based upon the specific dependency or abuse. Thus, drugs used for maintenance of alcohol withdrawal include disulfiram, acamprosate and naltrexone. Agents used for opiate withdrawal include buprenorphine, methadone and naltrexone. Agents for smoking cessation include nicotine and varenicline. The agents can also be classified as deterents (disulfiram, naltrexone), neurotransmitter analogues (acamprosate, varenicline), and agents that block withdrawal symptoms (buprenorphine, methadone, nicotine). Disulfiram has been linked to many cases of acute liver injury, some of which are severe and even fatal. The other substance abuse treatment agents have little or no hepatoxic potential unless taken in an overdose (buprenorphine).</p>
+        <p content-type="pubmed-excerpt">The Substance Abuse Treatment Agents in clinical use include the following:</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>
+              <related-object source-id="livertox" document-id="Acamprosate">Acamprosate</related-object>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <related-object source-id="livertox" document-id="Buprenorphine">Buprenorphine</related-object>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <related-object source-id="livertox" document-id="Disulfiram">Disulfiram</related-object>
+            </p>
+          </list-item>
+          <list-item>
+            <p>Methadone</p>
+          </list-item>
+          <list-item>
+            <p>
+              <related-object source-id="livertox" document-id="Nalmefene">Nalmefene</related-object>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <related-object source-id="livertox" document-id="Naloxegol">Naloxegol</related-object>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <related-object source-id="livertox" document-id="Naloxone">Naloxone</related-object>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <related-object source-id="livertox" document-id="Naltrexone">Naltrexone</related-object>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <related-object source-id="livertox" document-id="Nicotine">Nicotine</related-object>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <related-object source-id="livertox" document-id="Varenicline">Varenicline</related-object>
+            </p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

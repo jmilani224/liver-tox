@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Delavirdine" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Delavirdine</book-part-id>
+      <title-group>
+        <title>Delavirdine</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>27</day>
+          <month>12</month>
+          <year>2017</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Delafloxacin" document-type="chapter">Delafloxacin</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Demeclocycline" document-type="chapter">Demeclocycline</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Delavirdine.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Delavirdine.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Delavirdine is a nonnucleoside reverse transcriptase inhibitor used in combination with other agents in the therapy of human immunodeficiency virus (HIV) infection and the acquired immunodeficiency syndrome (AIDS). Delavirdine is associated with a low rate of transient serum aminotransferase elevations during therapy and is a rare cause of clinically apparent acute liver injury.</p>
+        </sec>
+        <sec id="Delavirdine.Background">
+          <title>Background</title>
+          <p>Delavirdine (del a' vir deen) is an antiretroviral agent that acts by noncompetitive binding to and inhibition of the HIV reverse transcriptase. Delavirdine is a nonnucleoside reverse transcriptase inhibitor and is similar to nevirapine, efavirenz, etravirine and rilpivirine in its mechanism of action, but shares minimal structural features with the other antiviral agents in this class. Delavirdine in combination with other antiretroviral agents lowers HIV RNA levels and delays onset of AIDS related complications. Delavirdine was approved by the FDA in 1998 and current indications are for the treatment of HIV infection in combination with other HIV medications. Delavirdine is available under the brand name Rescriptor in tablets of 100 and 200 mg. The recommended dose of delavirdine is 400 mg orally three times daily. Because of its requirement for thrice daily dosing, delavirdine is not widely used. Common side effects include fatigue, dizziness, headache, and skin rashes.</p>
+        </sec>
+        <sec id="Delavirdine.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>Serum aminotransferase elevations occur in 25% or more of patients on delavirdine therapy, but rise above 5 times the upper limit of normal in 4% or less; this rate is higher in patients who have chronic hepatitis C coinfection. Clinically apparent hepatotoxicity due to delavirdine must be rare, as individual case reports of hepatitis or jaundice have not been published. Nevertheless, cases of hepatitis, jaundice and hepatic failure have been reported to the sponsor and are mentioned in the product label. The liver injury may be immunoallergic and similar in pattern to that attributed to nevirapine and efavirenz. In immunoallergic hepatitis due to nonnucleoside reverse transcriptase inhibitors, injury usually arises within 1 to 8 weeks of starting therapy. Signs of hypersensitivity are common including rash, fever, and eosinophilia and sometimes facial edema, lymphadenoapthy and lymphocytosis. The serum enzyme pattern can be cholestatic, hepatocellular or mixed. Recovery is rapid upon stopping therapy.</p>
+          <p>Likelihood score: E* (unproven but suspected cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Delavirdine.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>Hepatotoxicity from delavirdine is rare, but is likely due to hypersensitivity. Delavirdine is a substrate for and an inhibitor of the cytochrome P450 enzyme, CYP 3A4 and can cause significant drug-drug interactions.</p>
+        </sec>
+        <sec id="Delavirdine.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>The severity of the liver injury due to delavirdine can range from mild and transient enzyme elevations to acute hepatitis with jaundice. Description of cases with acute liver failure leading to liver transplantation or death have not been reported in association with delavirdine. In immunoallergic forms of acute liver injury, rechallenge may lead to recurrence and should be avoided. Despite the similarity in causing immunoallergic hepatitis, there does not seem to be cross sensitivity to the hepatic injury with nevirapine or other nonnucleoside reverse transcriptase inhibitors, although there may be cross reactivity in occurrence of rash.</p>
+          <p>Drug Class: <related-object source-id="livertox" document-id="AntiviralAgents">Antiviral Agents</related-object>, Antiretroviral Agents</p>
+          <p>Other Drugs in the Subclass, Nonnucleoside Reverse Transcriptase Inhibitors: <related-object source-id="livertox" document-id="Doravirine">Doravirine</related-object>, <related-object source-id="livertox" document-id="Efavirenz">Efavirenz</related-object>, <related-object source-id="livertox" document-id="Etravirine">Etravirine</related-object>, <related-object source-id="livertox" document-id="Nevirapine">Nevirapine</related-object>, <related-object source-id="livertox" document-id="Rilpivirine">Rilpivirine</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Delavirdine.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <boxed-text position="anchor" id="Delavirdine.BPI" orientation="portrait">
+          <p>
+            <bold> REPRESENTATIVE TRADE NAMES</bold>
+          </p>
+          <p>Delavirdine &#x02013; Rescriptor&#x000ae;</p>
+          <p>
+            <bold>DRUG CLASS</bold>
+          </p>
+          <p>Antiviral Agents</p>
+          <p>
+            <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=delavirdine">COMPLETE LABELING</ext-link>
+          </p>
+          <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+        </boxed-text>
+      </sec>
+      <sec id="Delavirdine.CHEMICAL_FORMULA_AND_STRUCTU">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Delavirdine.T1" position="anchor" orientation="portrait">
+          <table>
+            <thead>
+              <tr>
+                <th id="hd_h_Delavirdine.T1_1_1_1_1" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Delavirdine.T1_1_1_1_2" rowspan="1" colspan="1">CAS REGISTRY NUMBER</th>
+                <th id="hd_h_Delavirdine.T1_1_1_1_3" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Delavirdine.T1_1_1_1_4" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Delavirdine.T1_1_1_1_1" rowspan="1" colspan="1">Delavirdine</td>
+                <td headers="hd_h_Delavirdine.T1_1_1_1_2" rowspan="1" colspan="1">
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135016998">147221-93-0</ext-link>
+                </td>
+                <td headers="hd_h_Delavirdine.T1_1_1_1_3" rowspan="1" colspan="1">C22-H28-N6-O3-S.C-H4-O3-S</td>
+                <td headers="hd_h_Delavirdine.T1_1_1_1_4" rowspan="1" colspan="1">
+                  <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Delavirdine_Structure.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait">
+                    <alt-text>Delavirdine Chemical Structure</alt-text>
+                  </graphic>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Delavirdine.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 27 December 2017</p>
+        <ref-list id="Delavirdine.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Delavirdine.R1">
+            <mixed-citation publication-type="other">N&#x000fa;&#x000f1;ez M. Hepatotoxicity of antiviral agents. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013, pp. 505-18.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of antiviral agents; delavirdine is listed as possibly causing hypersensivity reactions with hepatic dysfunction and significant elevations in serum enzymes in ~6% of patients).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Delavirdine.R2">
+            <mixed-citation publication-type="other">Flexner C. Antiretroviral agents and treatment of HIV infection. In, Brunton LL, Chabner BA, Knollman BC, eds. Goodman &#x00026; Gilman&#x02019;s the pharmacological basis of therapeutics. 12th ed. New York: McGraw-Hill, 2011, pp. 1623-64.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Delavirdine.R3">
+            <mixed-citation publication-type="other">http://aidsinfo.nih.gov/guidelines.<annotation><p><italic toggle="yes">(Regularly updated guidelines on therapy of HIV infection in adults, adolescents and children).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Delavirdine.R4">
+            <mixed-citation publication-type="journal">Davey RT Jr, Chaitt DG, Reed GF, Freimuth WW, Herpin BR, Metcalf JA, Eastman PS, et al. Randomized, controlled phase I/II, trial of combination therapy with delavirdine (U-90152S) and conventional nucleosides in human immunodeficiency virus type 1-infected patients. Antimicrob Agents Chemother 1996; 40: 1657-64. <annotation><p><italic toggle="yes">(Phase 2 trial of delavirdine in 85 patients with HIV infection receiving 1 or 2 other agents; rash arose in 44%, mildly pruritic, often confluent arising after 2-18 days, resolving even with continuation; AST elevations occurred in 63-80% of patients, but rose above 5 times ULN in only 5 [6%]; no mention of hepatitis).</italic></p></annotation><pub-id pub-id-type="pmid">8807058</pub-id></mixed-citation>
+          </ref>
+          <ref id="Delavirdine.R5">
+            <mixed-citation publication-type="journal">Freimuth WW. Delavirdine mesylate, a potent non-nucleoside HIV-1 reverse transcriptase inhibitor. Adv Exp Med Biol 1996; 394: 279-89. <annotation><p><italic toggle="yes">(Review of delavirdine, a second generation nonnucleoside reverse transcriptase inhibitor; active in vitro and synergistic with other antiretrovirals; some cross resistance with nevirapine resistant mutations, considerable variability in plasma levels, perhaps due to P450 CYP 3A interactions inhibiting its own metabolism; adverse events include skin rash [38-44%], headache [24%], nausea [15%] and fatigue [14%]. Rash typically occurs between days 7 and 15 and can resolve despite continuation; no discussion of hepatic side effects).</italic></p></annotation><pub-id pub-id-type="pmid">8815692</pub-id></mixed-citation>
+          </ref>
+          <ref id="Delavirdine.R6">
+            <mixed-citation publication-type="journal">Havlir DV, Lange JM. New antiretrovirals and new combinations. AIDS 1998; 12 Suppl A: S165-74. <annotation><p><italic toggle="yes">(Review of new agents, including nelfinavir, nevirapine, delaviridine, efavirenz and abacavir; most significant toxicities discussed include diarrhea for nelfinavir, rash and hepatitis for nevirapine, rash for delavirdine).</italic></p></annotation><pub-id pub-id-type="pmid">9632999</pub-id></mixed-citation>
+          </ref>
+          <ref id="Delavirdine.R7">
+            <mixed-citation publication-type="journal">Been-Tiktak AM, Boucher CA, Brun-Vezinet F, Joly V, Mulder JW, Jost J, Cooper DA, et al. Efficacy and safety of combination therapy with delavirdine and zidovudine: a European/ Australian phase II trial. Int J Antimicrob Agents 1999; 11: 13-21. <annotation><p><italic toggle="yes">(89 patients with HIV infection on zidovudine were randomized to receive placebo or 3 doses of delavirdine for 12 weeks with open label continuation beyond; skin rash occurred in 52% leading to withdrawal in 21%; ALT elevations &#x0003e;5 times normal in 2%).</italic></p></annotation><pub-id pub-id-type="pmid">10075273</pub-id></mixed-citation>
+          </ref>
+          <ref id="Delavirdine.R8">
+            <mixed-citation publication-type="journal">Mills G, Morgan J, Hales G, Smith D. Acute hypersensitivity with delavirdine. Antivir Ther 1999; 4: 51. <annotation><p><italic toggle="yes">(30 year old man with HIV infection developed progressively confluent rash within 3 days of starting regimen including delavirdine; stopping one week later led to rapid improvement, but rechallenge caused anaphylactic reaction within 3 hours and recurrent rash; no liver test results reported).</italic></p></annotation><pub-id pub-id-type="pmid">10682129</pub-id></mixed-citation>
+          </ref>
+          <ref id="Delavirdine.R9">
+            <mixed-citation publication-type="journal">Friedland GH, Pollard R, Griffith B, Hughes M, Morse G, Bassett R, Freimuth W, et al. Efficacy and safety of delavirdine mesylate with zidovudine and didanosine compared with two-drug combinations of these agents in persons with HIV disease with CD4 counts of 100 to 500 cells/mm<sup>3</sup> (ACTG 261). ACTG 261 Team. J Acquir Immune Defic Syndr 1999; 21: 281-92. <annotation><p><italic toggle="yes">(Phase 2 trial of delavirdine with either zidovudine or didanosine or both in 549 patients with HIV infection for up to 48 weeks; side effects of skin rash [23-33%] and gastrointestinal complaints were more frequent with delavirdine treatment; no mention of ALT abnormalities).</italic></p></annotation><pub-id pub-id-type="pmid">10428106</pub-id></mixed-citation>
+          </ref>
+          <ref id="Delavirdine.R10">
+            <mixed-citation publication-type="journal">Sulkowski MS, Thomas DL, Chaisson RE, Moore RD. Hepatotoxicity associated with antiretroviral therapy in adults infected with human immunodeficiency virus and the role of hepatitis C or B virus infection. JAMA 2000; 283: 74-80. <annotation><p><italic toggle="yes">(Among 298 patients with HIV infection, ALT elevations above 5 times ULN occurred in 10.4% per year during antiretroviral treatment; factors associated with ALT elevations included ritonavir [27.3%] and coinfection with either HCV or HBV; ALT with bilirubin elevations occurred in 3 patients; 2 on indinavir and all 3 with coinfection).</italic></p></annotation><pub-id pub-id-type="pmid">10632283</pub-id></mixed-citation>
+          </ref>
+          <ref id="Delavirdine.R11">
+            <mixed-citation publication-type="journal">Velasco M, Guijarro C. Elevated liver enzymes following initiation of antiretroviral therapy. JAMA 2000; 283: 2526-7. <annotation><p><italic toggle="yes">(Letter in response to Sulkowski et al. [JAMA 2000] pointing out that antiretroviral therapy can cause immune reconstitution and flares of hepatitis B or C, which may be misdiagnosed as hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">10815112</pub-id></mixed-citation>
+          </ref>
+          <ref id="Delavirdine.R12">
+            <mixed-citation publication-type="journal">Sulkowski MS, Thomas DL, Chaisson RE, Moore RD. Elevated liver enzymes following initiation of antiretroviral therapy JAMA 2000; 283: 2526-7. <annotation><p><italic toggle="yes">(Reply to Velasco and Guijarro pointing at that the majority of the ALT elevations described could not be attributed to immune reconstitution).</italic></p></annotation><pub-id pub-id-type="pmid">10815113</pub-id></mixed-citation>
+          </ref>
+          <ref id="Delavirdine.R13">
+            <mixed-citation publication-type="journal">Scott LJ, Perry CM. Delavirdine: a review of its use in HIV infection. Drugs 2000; 60: 1411-44. <annotation><p><italic toggle="yes">(Review of structure, mechanism of action, pharmacology, in vitro and in vivo activity, clinical efficacy, antiviral resistance and tolerability of delavirdine; rash occurs in 18-50% of patients, usually within 7-15 days of starting, requiring discontinuation in only 15% of cases, resolving rapidly, rarely severe, but Stevens-Johnson syndrome has been reported; analysis of 8 trials suggests that liver toxicity is no higher with delavirdine than comparative agents; hepatitis in 0.24% and liver failure in 0.11% of 5330 patients).</italic></p></annotation><pub-id pub-id-type="pmid">11152019</pub-id></mixed-citation>
+          </ref>
+          <ref id="Delavirdine.R14">
+            <mixed-citation publication-type="journal">Gangar M, Arias G, O'Brien JG, Kemper CA. Frequency of cutaneous reactions on rechallenge with nevirapine and delavirdine. Ann Pharmacother 2000; 34: 839-42. <annotation><p><italic toggle="yes">(Retrospective review of 89 patients with HIV infection on either nevirapine or delavirdine; skin rash arose in 40% of delavirdine vs 36% of nevirapine recipients; cross reactivity frequent; no mention of hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">10928391</pub-id></mixed-citation>
+          </ref>
+          <ref id="Delavirdine.R15">
+            <mixed-citation publication-type="journal">Reisler K. High hepatotoxicity rate seen among HAART patients. AIDS Alert 2001; 16: 118-9. <annotation><p><italic toggle="yes">(News report on abstract: study of 10,011 patients in 21 clinical trials with HIV infection, showing that ALT elevations above 5 times normal occur in 6.2% of patients on highly active antiretroviral therapy; 10.8% with efavirenz, 8.9% with nevirapine and 3.6% with delavirdine in short term studies).</italic></p></annotation><pub-id pub-id-type="pmid">11547496</pub-id></mixed-citation>
+          </ref>
+          <ref id="Delavirdine.R16">
+            <mixed-citation publication-type="journal">Palmon R, Koo BC, Shoultz DA, Dieterich DT. Lack of hepatotoxicity associated with nonnucleoside reverse transcriptase inhibitors. J Acquir Immune Defic Syndr 2002; 29: 340-5. <annotation><p><italic toggle="yes">(Retrospective analysis of 272 patients [40 on delavirdine] who received nonnucleoside reverse transcriptase inhibitors for HIV infection; ~30% on delavirdine developed an ALT elevation, but none had ALT elevations above 5 times normal; frequency of follow up was not defined. Literature review cites that 3.8-6.7% of patients on delavirdine had ALT elevations above 5 times normal).</italic></p></annotation><pub-id pub-id-type="pmid">11917237</pub-id></mixed-citation>
+          </ref>
+          <ref id="Delavirdine.R17">
+            <mixed-citation publication-type="journal">Dybul M, Fauci AS, Bartlett JG, Kaplan JE, Pau AK; Panel on Clinical Practices for the Treatment of HIV. Guidelines for using antiretroviral agents among HIV-infected adults and adolescents. Recommendations of the Panel on Clinical Practices for Treatment of HIV. MMWR Recomm Rep 2002; 51 (RR-7): 1-55. <annotation><p><italic toggle="yes">(Recommendations on use of antiretroviral agents for HIV infection including indications, efficacy, need for monitoring and side effects including hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">12027060</pub-id></mixed-citation>
+          </ref>
+          <ref id="Delavirdine.R18">
+            <mixed-citation publication-type="journal">Kontorinis N, Dieterich D. Hepatotoxicity of antiretroviral therapy. AIDS Rev 2003; 5: 36-43. <annotation><p><italic toggle="yes">(Review and definition of hepatotoxicity in antiretroviral studies; grade 1=1.5-3, grade 2=3.1-5, grade 3=5.1-10 and grade 4=&#x0003e;10 times ULN or baseline ALT values).</italic></p></annotation><pub-id pub-id-type="pmid">12875106</pub-id></mixed-citation>
+          </ref>
+          <ref id="Delavirdine.R19">
+            <mixed-citation publication-type="journal">Ogedegbe AO, Sulkowski MS. Antiretroviral-associated liver injury. Clin Liver Dis 2003; 7: 475-99. <annotation><p><italic toggle="yes">(Review of hepatotoxicity of antiretrovirals; ALT elevations above 5 times ULN reported in 7% with zidovudine, 16% didanosine, 9-13% stavudine, &#x0003c;1% lamivudine, tenofovir and abacavir, 3-10% protease inhibitors, 10% nevirapine and 8% efavirenz; recommends monitoring at 4 weeks and then every 12 weeks, monitoring more closely if ALT levels are elevated and stopping if ALT levels are above 10 times ULN or if symptoms of liver injury are present).</italic></p></annotation><pub-id pub-id-type="pmid">12879995</pub-id></mixed-citation>
+          </ref>
+          <ref id="Delavirdine.R20">
+            <mixed-citation publication-type="journal">Ofotokun I, Pomeroy C. Sex differences in adverse reactions to antiretroviral drugs. Top HIV Med 2003; 11: 55-9. <annotation><p><italic toggle="yes">(Review of sex differences in adverse events; higher frequency of mitochondrial toxicity and hypersensitivity in women than men).</italic></p></annotation><pub-id pub-id-type="pmid">12717043</pub-id></mixed-citation>
+          </ref>
+          <ref id="Delavirdine.R21">
+            <mixed-citation publication-type="journal">Dieterich DT, Robinson PA, Love J, Stern JO. Drug-induced liver injury associated with the use of nonnucleoside reverse-transcriptase inhibitors. Clin Infect Dis 2004; 38 Suppl 2: S80-9. <annotation><p><italic toggle="yes">(Review of hepatotoxicity of nonnucleoside reverse transcriptase inhibitors; rate of ALT elevations above 5 times ULN is ~6% at 6 weeks, but thereafter is similar in nevirapine and placebo recipients raising questions regarding the causality of late elevations; in metaanalysis of 21 studies, ALT elevations above 5 times normal occurred in 10.8% on efavirenz, 8.9% on nevirapine and only 3.6% on delaviridine; about half of elevations associated with symptoms).</italic></p></annotation><pub-id pub-id-type="pmid">14986279</pub-id></mixed-citation>
+          </ref>
+          <ref id="Delavirdine.R22">
+            <mixed-citation publication-type="journal">Te HS. Cholestasis in HIV-infected patients. Clin Liver Dis 2004; 8: 213-28, viii-ix. <annotation><p><italic toggle="yes">(Review of causes of cholestasis in HIV infected patients, including cholestasis caused by nonnucleoside reverse transcriptase inhibitors).</italic></p></annotation><pub-id pub-id-type="pmid">15062202</pub-id></mixed-citation>
+          </ref>
+          <ref id="Delavirdine.R23">
+            <mixed-citation publication-type="journal">Abrescia N, D&#x02019;Abbraccio M, Figoni M, Busto A, Maddaloni A, De Marco M. Hepatotoxicity of antiretroviral drugs. Curr Pharm Des 2005; 11: 3697-710. <annotation><p><italic toggle="yes">(Review of hepatotoxicity of antiretrovirals; major syndrome with nonnucleoside reverse transcriptase inhibitors is hypersensitivity).</italic></p></annotation><pub-id pub-id-type="pmid">16305505</pub-id></mixed-citation>
+          </ref>
+          <ref id="Delavirdine.R24">
+            <mixed-citation publication-type="journal">N&#x000fa;&#x000f1;ez M, Soriano V. Hepatotoxicity of antiretrovirals: incidence, mechanisms and management. Drug Saf 2005; 28: 53-66. <annotation><p><italic toggle="yes">(Review of liver toxicity of antiretrovirals).</italic></p></annotation><pub-id pub-id-type="pmid">15649105</pub-id></mixed-citation>
+          </ref>
+          <ref id="Delavirdine.R25">
+            <mixed-citation publication-type="journal">Torti C, Lapadula G, Casari S, Puoti M, Nelson M, Quiros-Roldan E, Bella D, et al.; EPOKA-MASTER Study Group. Incidence and risk factors for liver enzyme elevation during highly active antiretroviral therapy in HIV-HCV co-infected patients: results from the Italian EPOKA-MASTER Cohort. BMC Infect Dis 2005; 5: 58. <annotation><p><italic toggle="yes">(Among 1038 HIV-HCV coinfected patients starting antiretroviral therapy, the risk of ALT elevations above 5 times ULN was 17.1/100 patient years in treatment na&#x000ef;ve and 8.2 in treatment experienced groups; risk factors being baseline ALT levels and use of nonnucleoside reverse transcriptase inhibitors).</italic></p></annotation><pub-id pub-id-type="pmid">16018804</pub-id></mixed-citation>
+          </ref>
+          <ref id="Delavirdine.R26">
+            <mixed-citation publication-type="journal">Bourli&#x000e8;re M, Duclos-Vall&#x000e9;e JC, Pol S. [Liver and antiretrovirals: hepatotoxicity, steatosis and monitoring of patients with liver disease] Gastroenterol Clin Biol 2007; 31: 895-905. French. <annotation><p><italic toggle="yes">(Review of hepatotoxicity of antiretrovirals in French discussing patterns of hypersensitivity [nevirapine and abacavir], mitochondrial toxicity [zalcitabine, didanosine, stavudine and zidovudine], steatohepatitis [protease inhibitors with lipodystrophy], immune restoration [in patients with HIV-HBV or &#x02013;HCV coinfection]; recommendations for management focusing on prevention and monitoring).</italic></p></annotation><pub-id pub-id-type="pmid">18166875</pub-id></mixed-citation>
+          </ref>
+          <ref id="Delavirdine.R27">
+            <mixed-citation publication-type="journal">Labarga P, Soriano V, Vispo ME, Pinilla J, Martin-Carbonero L, Castellares C, Casado R, et al. Hepatotoxicity of antiretroviral drugs is reduced after successful treatment of chronic hepatitis C in HIV-infected patients. J Infect Dis 2007; 196: 670-6. <annotation><p><italic toggle="yes">(Among 133 patients with HIV-HCV coinfection who were treated with interferon or peginterferon, 33% had a sustained response and subsequent yearly rate of hepatic events was higher among nonresponders [12.9%] than responders [3.1%]; also more common with receipt of di-deoxynucleosides).</italic></p></annotation><pub-id pub-id-type="pmid">17674307</pub-id></mixed-citation>
+          </ref>
+          <ref id="Delavirdine.R28">
+            <mixed-citation publication-type="journal">Jain MK. Drug-induced liver injury associated with HIV medications. Clin Liver Dis 2007; 11: 615-39, vii-viii. <annotation><p><italic toggle="yes">(Review of hepatotoxicity of antiretroviral medications; ALT elevations occur in 2-18% of patients, but often resolve spontaneously even without dose modification; classes of injury include hypersensitivity [nevirapine, efavirenz, abacavir], mitochondrial injury [stavudine, didanosine, zidovudine], flares of hepatitis B [lamivudine, emtricitabine, tenofovir], flares of hepatitis C [any potent regimen], idiosyncratic injury [ritonavir, nevirapine, efavirenz], cholestatic hepatitis [many agents]).</italic></p></annotation><pub-id pub-id-type="pmid">17723923</pub-id></mixed-citation>
+          </ref>
+          <ref id="Delavirdine.R29">
+            <mixed-citation publication-type="journal">Esser S, Helbig D, Hillen U, Dissemond J, Grabbe S. Side effects of HIV therapy. J Dtsch Dermatol Ges 2007; 5: 745-54. <annotation><p><italic toggle="yes">(Review of side effects of antiretroviral agents focusing on immune reconstitution syndrome, lipodystrophy, cutaneous skin reactions, hypersensitivity reactions [abacavir, nevirapine], hyperbilirubinemia [indinavir, atazanavir], local reactions [enfuvirtide], and hyperpigmentation [zidovudine, emtricitabine]).</italic></p></annotation><pub-id pub-id-type="pmid">17760894</pub-id></mixed-citation>
+          </ref>
+          <ref id="Delavirdine.R30">
+            <mixed-citation publication-type="journal">Rivero A, Mira JA, Pineda JA. Liver toxicity induced by non-nucleoside reverse transcriptase inhibitors. J Antimicrob Chemother 2007; 59: 342-6. <annotation><p><italic toggle="yes">(Review of liver toxicity of nevirapine and efavirenz, ALT elevations above 5 times ULN reported in 1-8% of efavirenz compared to 4-16% of nevirapine recipients; no mention of delavirdine).</italic></p></annotation><pub-id pub-id-type="pmid">17255142</pub-id></mixed-citation>
+          </ref>
+          <ref id="Delavirdine.R31">
+            <mixed-citation publication-type="journal">Mussi-Pinhata MM, Rego MA, Freimanis L, Kakehasi FM, Machado DM, Cardoso EM, Read JS; NISDI Perinatal Protocol Study Group. Maternal antiretrovirals and hepatic enzyme, hematologic abnormalities among human immunodeficiency virus type 1-uninfected infants: the NISDI perinatal study. Pediatr Infect Dis J 2007; 26: 1032-7. <annotation><p><italic toggle="yes">(Liver enzyme elevations in newborns of HIV infected mothers on various antiretroviral regimens; infants whose mothers received protease inhibitors were more likely to have ALT elevations [odds ratio 1.9], similarly for nonnucleoside reverse transcriptase inhibitors [odds ratio 2.4]; most elevations were mild and self-limited).</italic></p></annotation><pub-id pub-id-type="pmid">17984811</pub-id></mixed-citation>
+          </ref>
+          <ref id="Delavirdine.R32">
+            <mixed-citation publication-type="journal">Bae WH, Wester C, Smeaton LM, Shapiro RL, Lockman S, Onyait K, Thior I, et al. Hematologic and hepatic toxicities associated with antenatal and postnatal exposure to maternal highly active antiretroviral therapy among infants. AIDS 2008; 22: 1633-40. <annotation><p><italic toggle="yes">(Prospective monitoring found that only 1 of 69 infants born to antiretroviral treated mothers and none of 109 infants born to drug therapy unexposed mothers with HIV infection developed ALT elevations above 5 times ULN during the first 7 months of life).</italic></p></annotation><pub-id pub-id-type="pmid">18670224</pub-id></mixed-citation>
+          </ref>
+          <ref id="Delavirdine.R33">
+            <mixed-citation publication-type="journal">Soriano V, Puoti M, Garcia-Gasc&#x000f3; P, Rockstroh JK, Benhamou Y, Barreiro P, McGovern B. Antiretroviral drugs and liver injury. AIDS 2008; 22: 1-13. <annotation><p><italic toggle="yes">(Review of hepatotoxicity of antiretroviral drugs with recommendations on management, recommends stopping therapy if symptoms arise, with overt jaundice [direct bilirubin], evidence of mitochondrial toxicity, ALT above 10 times ULN, ALT at lower levels if newly marketed agent; problematic agents include didanosine, stavudine and zidovudine; nevirapine and efavirenz, full dose ritonavir and tipranavir).</italic></p></annotation><pub-id pub-id-type="pmid">18090386</pub-id></mixed-citation>
+          </ref>
+          <ref id="Delavirdine.R34">
+            <mixed-citation publication-type="journal">Hammer SM, Eron JJ Jr, Reiss P, Schooley RT, Thompson MA, Walmsley S, Cahn P, et al.; International AIDS Society-USA. Antiretroviral treatment of adult HIV infection: 2008 recommendations of the International AIDS Society-USA panel. JAMA 2008; 300: 555-70. <annotation><p><italic toggle="yes">(Recommendations on use of antiviral therapy in adults with HIV infection including use of recently approved agents: raltegravir, maraviroc and etravirine).</italic></p></annotation><pub-id pub-id-type="pmid">18677028</pub-id></mixed-citation>
+          </ref>
+          <ref id="Delavirdine.R35">
+            <mixed-citation publication-type="journal">Usach I, Melis V, Peris JE. Non-nucleoside reverse transcriptase inhibitors: a review on pharmacokinetics, pharmacodynamics, safety and tolerability. J Int AIDS Soc 2013; 16: 1-14. <annotation><p><italic toggle="yes">(Review of nonnucleoside reverse transcriptase inhibitors mentions that delavirdine has extensive hepatic metabolism and its major side effect is skin rash, which is usually transient, but can be severe and lead to Stevens Johnson syndrome; no discussion of hepatotoxicity or ALT elevations).</italic></p></annotation><pub-id pub-id-type="pmid">24008177</pub-id></mixed-citation>
+          </ref>
+          <ref id="Delavirdine.R36">
+            <mixed-citation publication-type="journal">Chalasani N, Bonkovsky HL, Fontana R, Lee W, Stolz A, Talwalkar J, Reddy KR, et al.; United States Drug Induced Liver Injury Network. Features and outcomes of 899 patients with drug-induced liver injury: The DILIN Prospective Study. Gastroenterology 2015; 148: 1340-52.e7. <annotation><p><italic toggle="yes">(Among 899 cases of drug induced liver injury enrolled in a US prospective study between 2004 and 2013, 12 cases [1.3%] were attributed to antiretroviral medications, inluding 5 due to non-nucleoside reverse transcriptase inhibitors such as nevirapine [2], efavirenz [2] and etravirine [1], but not delavirdine).</italic></p></annotation><pub-id pub-id-type="pmid">25754159</pub-id></mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec id="Delavirdine.OTHER_REFERENCE_LINKS" sec-type="link-group">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=(Delavirdine/AE)+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D%3A%222999/12/31%22%5BEDat%5D)">Recent References on Delavirdine: from PubMed.gov</ext-link>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Delavirdine">Trials on Delavirdine: from ClinicalTrials.gov</ext-link>
+            </p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

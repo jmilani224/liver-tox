@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Estazolam" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Estazolam</book-part-id>
+      <title-group>
+        <title>Estazolam</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>24</day>
+          <month>1</month>
+          <year>2017</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Esmolol" document-type="chapter">Esmolol</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Estrogens" document-type="chapter">Estrogens and Oral Contraceptives</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Estazolam.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Estazolam.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Estazolam is an orally available benzodiazepine used to treat insomnia. As with most benzodiazepines, estazolam therapy has not associated with serum aminotransferase or alkaline phosphatase elevations, and clinically apparent liver injury from estazolam has not been reported and must be very rare, if it occurs at all.</p>
+        </sec>
+        <sec id="Estazolam.Background">
+          <title>Background</title>
+          <p>Estazolam (es taz' oh lam) is a benzodiazepine used as a sleeping aid in the therapy of insomnia. The antianxiety (anxiolytic) and soporific activity of the benzodiazepines is mediated by their ability to enhance gamma-aminobutyric acid (GABA) mediated inhibition of synaptic transmission through binding to the GABA A receptor. Estazolam was approved in the United States in 1990 for the short term management of insomnia. Estazolam is available in tablets of 1 and 2 mg in several generic forms and formerly under the brand name ProSom. The recommended initial oral dose for adults is 1 mg at bedtime, which can be increased to 2 mg nightly, but is not recommended as chronic therapy. The most common side effects of estazolam are dose related and include daytime drowsiness, lethargy, ataxia, dysarthria and dizziness. Tolerance develops to these side effects, but tolerance may also develop to the effects on insomnia.</p>
+        </sec>
+        <sec id="Estazolam.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>Estazolam, as with other benzodiazepines, is rarely associated with serum ALT elevations, and clinically apparent liver injury from estazolam is extremely rare, if it occurs at all. There have been no case reports of symptomatic, acute liver injury from estazolam. Cases of clinically apparent hepatitis have been reported with other benzodiazepines including alprazolam, chlordiazepoxide, clonazepam, diazepam, flurazepam and triazolam. The clinical pattern of acute liver injury from benzodiazepines is typically cholestatic and mild-to-moderate in severity with a latency of 1 to 6 months. Fever and rash have not been described nor has autoantibody formation.</p>
+          <p>Likelihood score: E (Unlikely cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Estazolam.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>Estazolam is metabolized by the liver to inactive metabolites and excreted in the urine. Liver injury from benzodiazepines is probably due to the toxic effects of a rarely produced intermediate metabolite.</p>
+        </sec>
+        <sec id="Estazolam.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>The case reports of hepatic injury due to benzodiazepines were followed by prompt and complete recovery upon stopping the medication, without evidence of residual or chronic injury. No cases of acute liver failure or chronic liver injury due to estazolam have been described. There is no information about cross reactivity with other benzodiazepines, but some degree of cross sensitivity may occur.</p>
+          <p>Drug Class: <related-object source-id="livertox" document-id="Sedatives_Hypnotics">Sedatives and Hypnotics</related-object>, <related-object source-id="livertox" document-id="BenzodiazepineDrugs">Benzodiazepines</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Estazolam.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <boxed-text position="anchor" id="Estazolam.BPI" orientation="portrait">
+          <p>
+            <bold>REPRESENTATIVE TRADE NAMES</bold>
+          </p>
+          <p>Estazolam &#x02013; Generic, ProSom&#x000ae;</p>
+          <p>
+            <bold>DRUG CLASS</bold>
+          </p>
+          <p>Sedatives and Hypnotics</p>
+          <p>
+            <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=estazolam">COMPLETE LABELING</ext-link>
+          </p>
+          <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+        </boxed-text>
+      </sec>
+      <sec id="Estazolam.CHEMICAL_FORMULA_AND_STRUCTURE">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Estazolam.T1" position="anchor" orientation="portrait">
+          <table>
+            <thead>
+              <tr>
+                <th id="hd_h_Estazolam.T1_1_1_1_1" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Estazolam.T1_1_1_1_2" rowspan="1" colspan="1">CAS REGISTRY NUMBER</th>
+                <th id="hd_h_Estazolam.T1_1_1_1_3" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Estazolam.T1_1_1_1_4" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Estazolam.T1_1_1_1_1" rowspan="1" colspan="1">Estazolam</td>
+                <td headers="hd_h_Estazolam.T1_1_1_1_2" rowspan="1" colspan="1">
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://134997768">29975-16-4</ext-link>
+                </td>
+                <td headers="hd_h_Estazolam.T1_1_1_1_3" rowspan="1" colspan="1">C16-H11-Cl-N4</td>
+                <td headers="hd_h_Estazolam.T1_1_1_1_4" rowspan="1" colspan="1">
+                  <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Estazolam_Structure.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait">
+                    <alt-text>Chemical Structure for Estazolam</alt-text>
+                  </graphic>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Estazolam.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 24 January 2017</p>
+        <ref-list id="Estazolam.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Estazolam.R1">
+            <mixed-citation publication-type="other">Zimmerman HJ. Benzodiazepines. Psychotropic and anticonvulsant agents. In, Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999, pp. 491-3.<annotation><p><italic toggle="yes">(Expert review of benzodiazepines and liver injury published in 1999; mentions rare instances of cholestatic hepatitis have been reported due to alprazolam, chlordiazepoxide, diazepam, flurazepam, and triazolam, and hepatocellular injury with clorazepate and clotiazepam, but no reports of hepatic injury with lorazepam, oxazepam or temazepam).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Estazolam.R2">
+            <mixed-citation publication-type="other">Larrey D, Ripault MP. Benzodiazepines. Hepatotoxicity of psychotropic drugs and drugs of abuse. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013, p. 455.<annotation><p><italic toggle="yes">(Review of drug induced liver injury due to psychotropic drugs; rare instances of acute liver injury [usually cholestatic] have been reported with alprazolam, chlordiazepoxide, diazepam, flurazepam and triazolam; a hepatitis-like pattern has been reported with clonazepam and clorazepate; no mention of estazolam).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Estazolam.R3">
+            <mixed-citation publication-type="other">Mihic SJ, Harris RA. Hypnotics and sedatives. In, Brunton LL, Chabner BA, Knollman BC, eds. Goodman &#x00026; Gilman&#x02019;s the pharmacological basis of therapeutics. 12th ed. New York: McGraw-Hill, 2011, pp. 457-80.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Estazolam.R4">
+            <mixed-citation publication-type="journal">Davion T, Capron-Chivrac D, Andrejak M, Capron JP. [Hepatitis due to antiepileptic agents] Gastroenterol Clin Biol 1985; 9: 117-26. <annotation><p><italic toggle="yes">(Review of hepatotoxicity of anticonvulsants; among benzodiazepines, cases of cholestatic hepatitis have been linked to chlordiazepoxide and diazepam, but liver injury from this class of drugs is exceptionally rare).</italic></p></annotation><pub-id pub-id-type="pmid">3920108</pub-id></mixed-citation>
+          </ref>
+          <ref id="Estazolam.R5">
+            <mixed-citation publication-type="journal">Lewis JH, Zimmerman HJ. Drug- and chemical-induced cholestasis. Clin Liver Dis 1999; 3: 433-64, vii. Erratum in: Clin Liver Dis 1999; 3: 917. <annotation><p><italic toggle="yes">(Review of drug induced cholestatic syndromes, listing many causes including chlordiazepoxide and flurazepam; &#x0201c;Benzodiazepines may cause cholestatic injury, although this is rare&#x0201d;).</italic></p></annotation><pub-id pub-id-type="pmid">11291233</pub-id></mixed-citation>
+          </ref>
+          <ref id="Estazolam.R6">
+            <mixed-citation publication-type="journal">Sabat&#x000e9; M, Ib&#x000e1;&#x000f1;ez L, P&#x000e9;rez E, Vidal X, Buti M, Xiol X, Mas A, et al. Risk of acute liver injury associated with the use of drugs: a multicentre population survey. Aliment Pharmacol Ther 2007; 25: 1401-9. <annotation><p><italic toggle="yes">(Among 126 cases of drug induced liver injury seen in Spain between 1993-2000, 20 were attributed to benzodiazepines including 5 for clorazepate, 5 alprazolam, 6 lorazepam and 4 diazepam, but compared to controls, relative risk of injury was increased only for clorazepate [8.3: estimated frequency 3.4 per 100,000 person-year exposures]).</italic></p></annotation><pub-id pub-id-type="pmid">17539979</pub-id></mixed-citation>
+          </ref>
+          <ref id="Estazolam.R7">
+            <mixed-citation publication-type="journal">Chalasani N, Fontana RJ, Bonkovsky HL, Watkins PB, Davern T, Serrano J, Yang H, Rochon J; Drug Induced Liver Injury Network (DILIN). Causes, clinical features, and outcomes from a prospective study of drug-induced liver injury in the United States. Gastroenterology 2008; 135: 1924-34. <annotation><p><italic toggle="yes">(Among 300 cases of drug induced liver disease in the US collected from 2004 to 2008, none were attributed to a benzodiazepine).</italic></p></annotation><pub-id pub-id-type="pmid">18955056</pub-id></mixed-citation>
+          </ref>
+          <ref id="Estazolam.R8">
+            <mixed-citation publication-type="journal">Bj&#x000f6;rnsson E. Hepatotoxicity associated with antiepileptic drugs. Acta Neurol Scand 2008; 118: 281-90. <annotation><p><italic toggle="yes">(Review of hepatotoxicity of all anticonvulsants focusing upon phenytoin, valproate, carbamazepine; &#x0201c;Furthermore, hepatoxicity has not been convincingly shown to be associated with the use of benzodiazepines&#x0201d;).</italic></p></annotation><pub-id pub-id-type="pmid">18341684</pub-id></mixed-citation>
+          </ref>
+          <ref id="Estazolam.R9">
+            <mixed-citation publication-type="journal">Bj&#x000f6;rnsson ES, Bergmann OM, Bj&#x000f6;rnsson HK, Kvaran RB, Olafsson S. Incidence, presentation and outcomes in patients with drug-induced liver injury in the general population of Iceland. Gastroenterology 2013; 144: 1419-25. <annotation><p><italic toggle="yes">(In a population based study of drug induced liver injury from Iceland, 96 cases were identified over a 2 year period, but none were attributed to estazolam or any other benzodiazepine, despite millions of prescriptions filled yearly).</italic></p></annotation><pub-id pub-id-type="pmid">23419359</pub-id></mixed-citation>
+          </ref>
+          <ref id="Estazolam.R10">
+            <mixed-citation publication-type="journal">Hern&#x000e1;ndez N, Bessone F, S&#x000e1;nchez A, di Pace M, Brahm J, Zapata R, A Chirino R, et al. Profile of idiosyncratic drug induced liver injury in Latin America. An analysis of published reports. Ann Hepatol 2014; 13: 231-9. <annotation><p><italic toggle="yes">(Systematic review of literature on drug induced liver injury in Latin American countries published from 1996 to 2012 identified 176 cases, none of which were attributed to a benzodiazepine).</italic></p></annotation><pub-id pub-id-type="pmid">24552865</pub-id></mixed-citation>
+          </ref>
+          <ref id="Estazolam.R11">
+            <mixed-citation publication-type="journal">Chalasani N, Bonkovsky HL, Fontana R, Lee W, Stolz A, Talwalkar J, Reddy KR, et al.; United States Drug Induced Liver Injury Network. Features and outcomes of 899 patients with drug-induced liver injury: The DILIN Prospective Study. Gastroenterology 2015; 148: 1340-1352.e7. <annotation><p><italic toggle="yes">(Among 899 cases of drug induced liver injury enrolled in a US prospective study between 2004 and 2013, no cases were attributed to estazolam or any other benzodiazepine).</italic></p></annotation><pub-id pub-id-type="pmid">25754159</pub-id></mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec id="Estazolam.OTHER_REFERENCE_LINKS" sec-type="link-group">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=(Estazolam/AE)+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D%3A%222999/12/31%22%5BEDat%5D)">Recent References on Estazolam: from PubMed.gov</ext-link>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Estazolam">Trials on Estazolam: from ClinicalTrials.gov</ext-link>
+            </p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

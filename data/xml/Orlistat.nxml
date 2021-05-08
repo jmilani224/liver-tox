@@ -1,0 +1,1663 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Orlistat" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Orlistat</book-part-id>
+      <title-group>
+        <title>Orlistat</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>4</day>
+          <month>6</month>
+          <year>2020</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="OrganicNitrates" document-type="chapter">Organic Nitrates</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Orphenadrine" document-type="chapter">Orphenadrine</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Orlistat.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Orlistat.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Orlistat is an inhibitor of pancreatic and gastric lipase and a commonly used weight loss agent that is available both by prescription and over-the-counter. Orlistat has been linked to rare instances of acute liver injury, some of which have been severe.</p>
+        </sec>
+        <sec id="Orlistat.Background">
+          <title>Background</title>
+          <p>Orlistat (or' li stat) is a tetrahydrolipstatin, a saturated derivative of lipstatin which is a potent natural inhibitor of gastric and pancreatic lipase. Orlistat when taken with meals inhibits the digestion of dietary fats and prevents their absorption, thus reducing caloric intake. When used in conjunction with caloric restriction and exercise, orlistat improves weight loss. Orlistat was approved for use in the United States in 1999, and an over-the-counter formulation of the drug was approved in 2007. Orlistat is available by prescription as capsules of 120 mg in generic forms and under the trade name Xenical and over-the-counter as capsules of 60 mg under the trade name Alli. The usual dose is one capsule three times daily before meals. Orlistat is minimally, if at all, absorbed, and its side effects are largely due to its effect on fat absorption including abdominal discomfort, bloating, gaseousness, diarrhea, fecal leakage and steatorrhea (oily stools and fat-soluble vitamin malabsorption). Symptoms are particularly prominent if orlistat is given before a high fat meal and they tend to lessen with more prolonged therapy (perhaps due to its adverse effects, leading to a lower fat diet).</p>
+        </sec>
+        <sec id="Orlistat.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>Orlistat acts my binding pancreatic and gastric lipase in the intestinal tract. Systemic absorption is not needed for its effect. Indeed, little of orally administered orlistat is absorbed (1% to 3%) and plasma levels are usually undetectable or less than 4 ng/mL (too little to inhibit serum lipase activities). Thus, systemic side effects of orlistat were not expected. In large clinical trials, serum liver test abnormalities were no more common with orlistat than with placebo therapy. Nevertheless, there have been several case reports of clinically apparent acute liver injury attributed to orlistat and in 2010 the FDA announced safety concerns regarding hepatotoxicity. The onset of injury in published cases was between 2 to 12 weeks of starting orlistat. The usual pattern of serum enzyme elevations was hepatocellular and some cases were severe with signs of hepatic failure and progression to death or need for liver transplantation. Features of hypersensitivity were not prominent and autoimmune markers were absent. None of the published cases included results of rechallenge. Thus, despite the number of published case reports, the hepatotoxicity of orlistat remains controversial and far from proven.</p>
+          <p>Likelihood score: C (probable rare cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Orlistat.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The mechanism by which orlistat causes liver injury is not known. Because only small amounts of orlistat are absorbed, hypersensitivity is likely the mechanism by which the liver is damaged. However, typical features of hypersensitivity have not been prominent in case reports.</p>
+        </sec>
+        <sec id="Orlistat.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>The liver injury that occurs during orlistat therapy ranges in severity from minor serum aminotransferase elevations to acute symptomatic hepatitis to severe acute liver failure that can be fatal or require emergency liver transplantation. There is no known therapy for orlistat induced liver injury. Recurrence of injury upon rechallenge has not been reported, but patients with clinically apparent liver injury attributed to orlistat should be instructed to avoid future exposures including to the widely available over-the-counter forms.</p>
+          <p>Drug Class: <related-object link-type="booklink" source-id="livertox" document-id="WeightLossAgents" document-type="chapter">Weight Loss Agents</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Orlistat.CASE_REPORT">
+        <title>CASE REPORT</title>
+        <sec id="Orlistat.Case_1_Acute_liver_failure_in_a">
+          <title>Case 1. Acute liver failure in a patient on orlistat for weight loss.(<xref ref-type="bibr" rid="Orlistat.REF.1">1</xref>)</title>
+          <p>A 35 year old woman developed abnormal liver tests 3 weeks after starting orlistat for weight loss. Initially, she was asymptomatic. She had no history of alcohol abuse or risk factors for viral hepatitis and was taking no other medications. She had been treated with other weight loss agents in the past, and serum enzymes had been tested on several occasions and were always normal. Physical examination was normal without jaundice, fever, rash or abdominal tenderness. Orlistat was discontinued. Two weeks later she became symptomatic with jaundice and serum enzymes had risen markedly (Table). She was admitted and monitored closely. Tests for hepatitis A, B and C were negative and serum autoantibodies were not present. Her prothrombin index fell progressively and she developed hyponatremia, ascites and encephalopathy. She referred for and underwent successful liver transplantation 4 weeks after onset. The liver explant showed massive hepatic necrosis.</p>
+          <sec id="Orlistat.Key_Points">
+            <title>Key Points</title>
+            <table-wrap id="Orlistat.Tc" orientation="portrait" position="anchor">
+              <table frame="hsides" rules="groups">
+                <tbody>
+                  <tr>
+                    <th id="hd_b_Orlistat.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Medication:</th>
+                    <td headers="hd_b_Orlistat.Tc_1_1_1_1" valign="top" align="left" rowspan="1" colspan="1">Orlistat (120 mg three times daily)</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Orlistat.Tc_1_1_2_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Pattern:</th>
+                    <td headers="hd_b_Orlistat.Tc_1_1_2_1" valign="top" align="left" rowspan="1" colspan="1">Hepatocellular</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Orlistat.Tc_1_1_3_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Severity:</th>
+                    <td headers="hd_b_Orlistat.Tc_1_1_3_1" valign="top" align="left" rowspan="1" colspan="1">5+ (acute liver failure and transplantation)</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Orlistat.Tc_1_1_4_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Latency:</th>
+                    <td headers="hd_b_Orlistat.Tc_1_1_4_1" valign="top" align="left" rowspan="1" colspan="1">3 weeks</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Orlistat.Tc_1_1_5_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Recovery:</th>
+                    <td headers="hd_b_Orlistat.Tc_1_1_5_1" valign="top" align="left" rowspan="1" colspan="1">None</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Orlistat.Tc_1_1_6_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Other medications:</th>
+                    <td headers="hd_b_Orlistat.Tc_1_1_6_1" valign="top" align="left" rowspan="1" colspan="1">None</td>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Orlistat.Laboratory_Values">
+            <title>Laboratory Values</title>
+            <table-wrap id="Orlistat.Td" orientation="portrait" position="anchor">
+              <table frame="hsides" rules="groups">
+                <thead>
+                  <tr>
+                    <th id="hd_h_Orlistat.Td_1_1_1_1" valign="top" align="center" scope="col" rowspan="1" colspan="1">Time After<break/>Starting</th>
+                    <th id="hd_h_Orlistat.Td_1_1_1_2" valign="top" align="center" scope="col" rowspan="1" colspan="1">Time After<break/>Stopping</th>
+                    <th id="hd_h_Orlistat.Td_1_1_1_3" valign="top" align="center" scope="col" rowspan="1" colspan="1">ALT<break/>(U/L)</th>
+                    <th id="hd_h_Orlistat.Td_1_1_1_4" valign="top" align="center" scope="col" rowspan="1" colspan="1">GGT<break/>(U/L)</th>
+                    <th id="hd_h_Orlistat.Td_1_1_1_5" valign="top" align="center" scope="col" rowspan="1" colspan="1">Bilirubin<break/>(mg/dL)</th>
+                    <th id="hd_h_Orlistat.Td_1_1_1_6" valign="top" align="center" scope="col" rowspan="1" colspan="1">Other</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td headers="hd_h_Orlistat.Td_1_1_1_1" valign="top" align="center" scope="row" rowspan="1" colspan="1">Pre</td>
+                    <td headers="hd_h_Orlistat.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Orlistat.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">Normal</td>
+                    <td headers="hd_h_Orlistat.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">Normal</td>
+                    <td headers="hd_h_Orlistat.Td_1_1_1_5" valign="top" align="left" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Orlistat.Td_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Orlistat.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Orlistat.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Orlistat.Td_1_1_1_3 hd_h_Orlistat.Td_1_1_1_4 hd_h_Orlistat.Td_1_1_1_5 hd_h_Orlistat.Td_1_1_1_6" colspan="4" valign="top" align="center" rowspan="1">Orlistat (120 mg three times daily) given for 3 weeks</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Orlistat.Td_1_1_1_1" valign="top" align="center" scope="row" rowspan="1" colspan="1">3 weeks</td>
+                    <td headers="hd_h_Orlistat.Td_1_1_1_2" valign="top" align="center" rowspan="1" colspan="1">0</td>
+                    <td headers="hd_h_Orlistat.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">1016</td>
+                    <td headers="hd_h_Orlistat.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">215</td>
+                    <td headers="hd_h_Orlistat.Td_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">1.0</td>
+                    <td headers="hd_h_Orlistat.Td_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Orlistat.Td_1_1_1_1" valign="top" align="center" scope="row" rowspan="1" colspan="1">5 weeks</td>
+                    <td headers="hd_h_Orlistat.Td_1_1_1_2" valign="top" align="center" rowspan="1" colspan="1">2 weeks</td>
+                    <td headers="hd_h_Orlistat.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">1548</td>
+                    <td headers="hd_h_Orlistat.Td_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Orlistat.Td_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">5.1</td>
+                    <td headers="hd_h_Orlistat.Td_1_1_1_6" valign="top" align="center" rowspan="1" colspan="1">Prothrombin index: 45%</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Orlistat.Td_1_1_1_1" valign="top" align="center" scope="row" rowspan="1" colspan="1">6 weeks</td>
+                    <td headers="hd_h_Orlistat.Td_1_1_1_2" valign="top" align="center" rowspan="1" colspan="1">3 weeks</td>
+                    <td headers="hd_h_Orlistat.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">1500</td>
+                    <td headers="hd_h_Orlistat.Td_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Orlistat.Td_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">9.5</td>
+                    <td headers="hd_h_Orlistat.Td_1_1_1_6" valign="top" align="center" rowspan="1" colspan="1">Prothrombin index: 30%</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Orlistat.Td_1_1_1_1" valign="top" align="center" scope="row" rowspan="1" colspan="1">7 weeks</td>
+                    <td headers="hd_h_Orlistat.Td_1_1_1_2" valign="top" align="center" rowspan="1" colspan="1">4 weeks</td>
+                    <td headers="hd_h_Orlistat.Td_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Orlistat.Td_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Orlistat.Td_1_1_1_5" valign="top" align="left" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Orlistat.Td_1_1_1_6" valign="top" align="center" rowspan="1" colspan="1">Prothrombin index: 17%</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Orlistat.Td_1_1_1_1" valign="top" align="center" scope="row" rowspan="1" colspan="1">7 weeks</td>
+                    <td headers="hd_h_Orlistat.Td_1_1_1_2" valign="top" align="center" rowspan="1" colspan="1">4 weeks</td>
+                    <td headers="hd_h_Orlistat.Td_1_1_1_3 hd_h_Orlistat.Td_1_1_1_4 hd_h_Orlistat.Td_1_1_1_5 hd_h_Orlistat.Td_1_1_1_6" colspan="4" valign="top" align="center" rowspan="1">Emergency liver transplantation</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Orlistat.Td_1_1_1_1 hd_h_Orlistat.Td_1_1_1_2" colspan="2" valign="top" align="center" scope="row" rowspan="1">
+                      <bold>Normal Values</bold>
+                    </td>
+                    <td headers="hd_h_Orlistat.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">
+                      <bold>&#x0003c;40</bold>
+                    </td>
+                    <td headers="hd_h_Orlistat.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">
+                      <bold>&#x0003c;45</bold>
+                    </td>
+                    <td headers="hd_h_Orlistat.Td_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">
+                      <bold>&#x0003c;1.2</bold>
+                    </td>
+                    <td headers="hd_h_Orlistat.Td_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Orlistat.Comment">
+            <title>Comment</title>
+            <p>This initial report of severe hepatotoxicity from orlistat was met with some skepticism despite the relationship between time of starting the medication and onset of injury and the absence of other potential causes. Against the diagnosis of orlistat induced liver injury was the lack of improvement with stopping. However, the only other alternative diagnosis is idiopathic acute liver failure, another diagnosis of exclusion. The rapidity of onset and severe course suggest hypersensitivity as a cause, but there was no rash or fever and no mention of eosinophilia. Subsequently, several other similar cases attributed to orlistat use have been described.</p>
+          </sec>
+        </sec>
+      </sec>
+      <sec id="Orlistat.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <p>
+          <bold>REPRESENTATIVE TRADE NAMES</bold>
+        </p>
+        <p>Orlistat &#x02013; Generic, Alli&#x000ae;, Xenical&#x000ae;</p>
+        <p>
+          <bold>DRUG CLASS</bold>
+        </p>
+        <p>Weight Loss Agents</p>
+        <p>
+          <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=orlistat">COMPLETE LABELING</ext-link>
+        </p>
+        <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+      </sec>
+      <sec id="Orlistat.CHEMICAL_FORMULA_AND_STRUCTURE">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Orlistat.Te" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <tbody>
+              <tr>
+                <th id="hd_b_Orlistat.Te_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_b_Orlistat.Te_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">CAS REGISTRY NUMBER</th>
+                <th id="hd_b_Orlistat.Te_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_b_Orlistat.Te_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+              <tr>
+                <td headers="hd_b_Orlistat.Te_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Orlistat</td>
+                <td headers="hd_b_Orlistat.Te_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135027708">96829-58-2</ext-link>
+                </td>
+                <td headers="hd_b_Orlistat.Te_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">C29-H53-N-O5</td>
+                <td headers="hd_b_Orlistat.Te_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">
+                  <related-object link-type="ext-image-back-link" source-id="pubchem" document-id="135027708" document-id-type="sid" document-type="summary" object-id="135027708" object-id-type="sid" object-type="image"/>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Orlistat.CITED_REFERENCE">
+        <title>CITED REFERENCE</title>
+        <ref-list id="Orlistat.CITED_REFERENCE.reflist0">
+          <ref id="Orlistat.REF.1">
+            <label>1</label>
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Montero</surname>
+                  <given-names>JL</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Muntan&#x000e9;</surname>
+                  <given-names>J</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Fraga</surname>
+                  <given-names>E</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Delgado</surname>
+                  <given-names>M</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Cost&#x000e1;n</surname>
+                  <given-names>G</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Serrano</surname>
+                  <given-names>M</given-names>
+                </name>
+                <etal/>
+              </person-group>
+              <article-title>Orlistat associated subacute hepatic failure.</article-title>
+              <source>J Hepatol</source>
+              <year>2001</year>
+              <volume>34</volume>
+              <fpage>173</fpage>
+              <pub-id pub-id-type="pmid">11211898</pub-id>
+            </element-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec id="Orlistat.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 06 June 2020</p>
+        <ref-list id="Orlistat.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Orlistat.REF.zimmerman.1999">
+            <mixed-citation publication-type="book">Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999, pp. 483-91.<annotation><p><italic toggle="yes">(Expert review of hepatotoxicity published in 1999; orlistat is not discussed).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Orlistat.REF.zhi.1995.1103">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Zhi</surname>
+                  <given-names>J</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Melia</surname>
+                  <given-names>AT</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Eggers</surname>
+                  <given-names>H</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Joly</surname>
+                  <given-names>R</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Patel</surname>
+                  <given-names>IH</given-names>
+                </name>
+              </person-group>
+              <article-title>Review of limited systemic absorption of orlistat, a lipase inhibitor, in healthy human volunteers.</article-title>
+              <source>J Clin Pharmacol</source>
+              <year>1995</year>
+              <volume>35</volume>
+              <fpage>1103</fpage>
+              <lpage>8</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Pharmacokinetic studies found low levels of orlistat [&#x0003c;4 ng/mL] in plasma of healthy volunteers after oral administration; 97-100% of orally administered radiolabeled orlistat is recovered in the feces, 0-3% in urine).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">8626884</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Orlistat.REF.sj_str_m.1998.167">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Sj&#x000f6;str&#x000f6;m</surname>
+                  <given-names>L</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Rissanen</surname>
+                  <given-names>A</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Andersen</surname>
+                  <given-names>T</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Boldrin</surname>
+                  <given-names>M</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Golay</surname>
+                  <given-names>A</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Koppeschaar</surname>
+                  <given-names>HP</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Krempf</surname>
+                  <given-names>M</given-names>
+                </name>
+              </person-group>
+              <article-title>Randomised placebo-controlled trial of orlistat for weight loss and prevention of weight regain in obese patients. European Multicentre Orlistat Study Group.</article-title>
+              <source>Lancet</source>
+              <year>1998</year>
+              <volume>352</volume>
+              <fpage>167</fpage>
+              <lpage>72</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Controlled trial of orlistat vs placebo in 688 obese patients found increased weight loss in orlistat treated patients at one and two years; &#x0201c;no clinically or statistically significant changes in the mean values of any laboratory measurements during the study, and the frequency of laboratory abnormalities was evenly distributed&#x02026;&#x0201d;).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">9683204</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Orlistat.REF.zhi.1999.41">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Zhi</surname>
+                  <given-names>J</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Mulligan</surname>
+                  <given-names>TE</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Hauptman</surname>
+                  <given-names>JB</given-names>
+                </name>
+              </person-group>
+              <article-title>Long-term systemic exposure of orlistat, a lipase inhibitor, and its metabolites in obese patients.</article-title>
+              <source>J Clin Pharmacol</source>
+              <year>1999</year>
+              <volume>39</volume>
+              <fpage>41</fpage>
+              <lpage>6</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Monitoring plasma orlistat levels in 5 clinical studies found detectable levels in 29% of patients receiving 120 mg thrice daily, but all levels were less than 5 ng/mL).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">9987699</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Orlistat.REF.finer.2000.306">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Finer</surname>
+                  <given-names>N</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>James</surname>
+                  <given-names>WP</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Kopelman</surname>
+                  <given-names>PG</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Lean</surname>
+                  <given-names>ME</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Williams</surname>
+                  <given-names>G</given-names>
+                </name>
+              </person-group>
+              <article-title>One-year treatment of obesity: a randomized, double-blind, placebo-controlled, multicentre study of orlistat, a gastrointestinal lipase inhibitor.</article-title>
+              <source>Int J Obes Relat Metab Disord</source>
+              <year>2000</year>
+              <volume>24</volume>
+              <fpage>306</fpage>
+              <lpage>13</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Controlled trial of orlistat vs placebo for one year in 228 obese patients found greater weight loss with orlistat [8.5% vs 5.4%]; side effects were similar in the two groups, except for gastrointestinal effects; no mention of ALT elevations or liver related adverse events).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">10757623</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Orlistat.REF.montero.2001.173">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Montero</surname>
+                  <given-names>JL</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Muntan&#x000e9;</surname>
+                  <given-names>J</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Fraga</surname>
+                  <given-names>E</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Delgado</surname>
+                  <given-names>M</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Cost&#x000e1;n</surname>
+                  <given-names>G</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Serrano</surname>
+                  <given-names>M</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Padillo</surname>
+                  <given-names>J</given-names>
+                </name>
+                <etal/>
+              </person-group>
+              <article-title>Orlistat associated subacute hepatic failure.</article-title>
+              <source>J Hepatol</source>
+              <year>2001</year>
+              <volume>34</volume>
+              <fpage>173</fpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(35 year old woman developed elevated liver enzymes 3 weeks after starting orlistat [bilirubin 1 mg/dL, ALT 1016 U/L], with progressive worsening, jaundice and coagulopathy undergoing liver transplantation one month later; the explant showed massive necrosis: Case 1).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">11211898</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Orlistat.REF.kim.2002.317">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Kim</surname>
+                  <given-names>DH</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Lee</surname>
+                  <given-names>EH</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Hwang</surname>
+                  <given-names>JC</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Jeung</surname>
+                  <given-names>JH</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Kim</surname>
+                  <given-names>DY</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Cheong</surname>
+                  <given-names>JY</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Cho</surname>
+                  <given-names>SW</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Kim</surname>
+                  <given-names>YB</given-names>
+                </name>
+              </person-group>
+              <comment>[A case of acute cholestatic hepatitis associated with Orlistat]</comment>
+              <source>Taehan Kan Hakhoe Chi</source>
+              <year>2002</year>
+              <volume>8</volume>
+              <issue>3</issue>
+              <fpage>317</fpage>
+              <lpage>20</lpage>
+              <comment>Korean.</comment>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(33 year old woman developed jaundice without fever or rash 2 months after starting orlistat [bilirubin 20.1 mg/dL; ALT 251 U/L, Alk P 110 U/L], ultimately being treated with prednisone and hospitalized for 24 days, but with subsequent resolution).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">12499790</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Orlistat.REF.haddock.2002.262">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Haddock</surname>
+                  <given-names>CK</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Poston</surname>
+                  <given-names>WS</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Dill</surname>
+                  <given-names>PL</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Foreyt</surname>
+                  <given-names>JP</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Ericsson</surname>
+                  <given-names>M</given-names>
+                </name>
+              </person-group>
+              <article-title>Pharmacotherapy for obesity: a quantitative analysis of four decades of published randomized clinical trials.</article-title>
+              <source>Int J Obes Relat Metab Disord</source>
+              <year>2002</year>
+              <volume>26</volume>
+              <fpage>262</fpage>
+              <lpage>73</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Metaanalysis of published studies of antiobesity medications; orlistat has been studied in 6 controlled trials published between 1995-99; no discussion of side effects).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">11850760</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Orlistat.REF.kelley.2002.1033">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Kelley</surname>
+                  <given-names>DE</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Bray</surname>
+                  <given-names>GA</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Pi-Sunyer</surname>
+                  <given-names>FX</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Klein</surname>
+                  <given-names>S</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Hill</surname>
+                  <given-names>J</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Miles</surname>
+                  <given-names>J</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Hollander</surname>
+                  <given-names>P</given-names>
+                </name>
+              </person-group>
+              <article-title>Clinical efficacy of orlistat therapy in overweight and obese patients with insulin-treated type 2 diabetes: A 1-year randomized controlled trial.</article-title>
+              <source>Diabetes Care</source>
+              <year>2002</year>
+              <volume>25</volume>
+              <fpage>1033</fpage>
+              <lpage>41</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Control trial of orlistat vs placebo in 550 obese patients with diabetes found greater weight loss with orlistat [3.9% vs 1.3%]; gastrointestinal side effects were frequent, but &#x0201c;the incidence of adverse events related to other organ systems was similar in placebo- and orlistat-treated subjects&#x0201d;).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">12032111</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Orlistat.REF.sabuncu.2003.189">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Sabuncu</surname>
+                  <given-names>T</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Nazligul</surname>
+                  <given-names>Y</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Karaoglanoglu</surname>
+                  <given-names>M</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Ucar</surname>
+                  <given-names>E</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Kilic</surname>
+                  <given-names>FB</given-names>
+                </name>
+              </person-group>
+              <article-title>The effects of sibutramine and orlistat on the ultrasonographic findings, insulin resistance and liver enzyme levels in obese patients with non-alcoholic steatohepatitis.</article-title>
+              <source>Rom J Gastroenterol</source>
+              <year>2003</year>
+              <volume>12</volume>
+              <fpage>189</fpage>
+              <lpage>92</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Trial of 6-month course of sibutramine [n=13] vs orlistat [n=12] in 25 obese patients with nonalcoholic steatohepatitis; both agents were associated with weight loss and improvements in hepatic fat and ALT levels [79 to 32 U/L], but slight increase in Alk P [~175 to ~196 U/L]; no patient stopped therapy because of side effects).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">14502318</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Orlistat.REF.halpern.2003.180">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Halpern</surname>
+                  <given-names>A</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Mancini</surname>
+                  <given-names>MC</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Suplicy</surname>
+                  <given-names>H</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Zanella</surname>
+                  <given-names>MT</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Repetto</surname>
+                  <given-names>G</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Gross</surname>
+                  <given-names>J</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Jadzinsky</surname>
+                  <given-names>M</given-names>
+                </name>
+                <etal/>
+              </person-group>
+              <article-title>Latin-American trial of orlistat for weight loss and improvement in glycaemic profile in obese diabetic patients.</article-title>
+              <source>Diabetes Obes Metab</source>
+              <year>2003</year>
+              <volume>5</volume>
+              <fpage>180</fpage>
+              <lpage>8</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Controlled trial of orlistat vs placebo in 338 obese patients found greater weight loss at 24 weeks [4.7% vs 3.0%]; no liver related severe adverse events occurred, and &#x0201c;Non-clinically or statistically significant abnormalities in laboratory measurements occurred sporadically in both treatment groups&#x0201d;, ALT and AST being measured every 8 weeks).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">12681025</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Orlistat.REF.torgerson.2004.155">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Torgerson</surname>
+                  <given-names>JS</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Hauptman</surname>
+                  <given-names>J</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Boldrin</surname>
+                  <given-names>MN</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Sj&#x000f6;str&#x000f6;m</surname>
+                  <given-names>L</given-names>
+                </name>
+              </person-group>
+              <article-title>XENical in the prevention of diabetes in obese subjects (XENDOS) study: a randomized study of orlistat as an adjunct to lifestyle changes for the prevention of type 2 diabetes in obese patients.</article-title>
+              <source>Diabetes Care</source>
+              <year>2004</year>
+              <volume>27</volume>
+              <fpage>155</fpage>
+              <lpage>61</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(4 year controlled trial of orlistat vs placebo in 3,305 obese patients without diabetes found greater sustained weight loss with orlistat [5.8 vs 3.0 kg]; gastrointestinal side effects were more common with orlistat, but serious adverse events were similar; no mention of ALT elevations or liver related events).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">14693982</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Orlistat.REF.li.2005.532">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Li</surname>
+                  <given-names>Z</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Maglione</surname>
+                  <given-names>M</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Tu</surname>
+                  <given-names>W</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Mojica</surname>
+                  <given-names>W</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Arterburn</surname>
+                  <given-names>D</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Shugarman</surname>
+                  <given-names>LR</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Hilton</surname>
+                  <given-names>L</given-names>
+                </name>
+                <etal/>
+              </person-group>
+              <article-title>Meta-analysis: pharmacologic treatment of obesity.</article-title>
+              <source>Ann Intern Med</source>
+              <year>2005</year>
+              <volume>142</volume>
+              <fpage>532</fpage>
+              <lpage>46</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Systematic review of efficacy and safety of medications for obesity; in 29 published studies, orlistat therapy was associated with a significant, but modest increase in weight loss; side effects included flatulence, bloating, diarrhea, abdominal pain and dyspepsia; no serious adverse events related to drug reported).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">15809465</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Orlistat.REF.thurairajah.2005.1437">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Thurairajah</surname>
+                  <given-names>PH</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Syn</surname>
+                  <given-names>WK</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Neil</surname>
+                  <given-names>DA</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Stell</surname>
+                  <given-names>D</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Haydon</surname>
+                  <given-names>G</given-names>
+                </name>
+              </person-group>
+              <article-title>Orlistat (Xenical)-induced subacute liver failure.</article-title>
+              <source>Eur J Gastroenterol Hepatol</source>
+              <year>2005</year>
+              <volume>17</volume>
+              <fpage>1437</fpage>
+              <lpage>8</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(57 year old woman developed jaundice 10 weeks after starting orlistat [bilirubin 8.1 rising to 39 mg/dL, AST 1505 U/L, Alk P 215 U/L], with progressive hepatic failure over next 3 months leading to liver transplantation; explants showing massive necrosis).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">16292105</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Orlistat.REF.umemura.2006.e7">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Umemura</surname>
+                  <given-names>T</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Ichigo</surname>
+                  <given-names>T</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Matsumoto</surname>
+                  <given-names>A</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Kiyosawa</surname>
+                  <given-names>K</given-names>
+                </name>
+              </person-group>
+              <article-title>Severe hepatic injury caused by orlistat.</article-title>
+              <source>Am J Med</source>
+              <year>2006</year>
+              <volume>119</volume>
+              <elocation-id>e7</elocation-id>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(15 year old Thai female took orlistat for 7 days and 7 days later developed nausea and abdominal pain [bilirubin 1.3 mg/dL, ALT 9976 U/L, eosinophils 7%], with resolution within 1 month).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">16887401</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Orlistat.REF.chalasani.2008.1924">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Chalasani</surname>
+                  <given-names>N</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Fontana</surname>
+                  <given-names>RJ</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Bonkovsky</surname>
+                  <given-names>HL</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Watkins</surname>
+                  <given-names>PB</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Davern</surname>
+                  <given-names>T</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Serrano</surname>
+                  <given-names>J</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Yang</surname>
+                  <given-names>H</given-names>
+                </name>
+                <etal/>
+                <collab>Drug Induced Liver Injury Network (DILIN)</collab>
+              </person-group>
+              <article-title>Causes, clinical features, and outcomes from a prospective study of drug-induced liver injury in the United States.</article-title>
+              <source>Gastroenterology</source>
+              <year>2008</year>
+              <volume>135</volume>
+              <fpage>1924</fpage>
+              <lpage>34</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Among 300 cases of drug induced liver disease in the US collected between 2004 and 2008, none were attributed to orlistat or other agents used for weight loss).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">18955056</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Orlistat.REF.filippatos.2008.53">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Filippatos</surname>
+                  <given-names>TD</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Derdemezis</surname>
+                  <given-names>CS</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Gazi</surname>
+                  <given-names>IF</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Nakou</surname>
+                  <given-names>ES</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Mikhailidis</surname>
+                  <given-names>DP</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Elisaf</surname>
+                  <given-names>MS</given-names>
+                </name>
+              </person-group>
+              <article-title>Orlistat-associated adverse effects and drug interactions: a critical review.</article-title>
+              <source>Drug Saf</source>
+              <year>2008</year>
+              <volume>31</volume>
+              <fpage>53</fpage>
+              <lpage>65</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Review of the safety and adverse side effects of orlistat mentions that at least five cases of severe acute liver injury have been reported in patients taking orlistat).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">18095746</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Orlistat.REF19">
+            <mixed-citation publication-type="web">FDA. Information on Orlistat. 2010. Available at: <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.fda.gov/drugs/postmarket-drug-safety-information-patients-and-providers/fda-drug-safety-communication-completed-safety-review-xenicalalli-orlistat-and-severe-liver-injury">https://www.fda.gov/drugs/postmarket-drug-safety-information-patients-and-providers/fda-drug-safety-communication-completed-safety-review-xenicalalli-orlistat-and-severe-liver-injury</ext-link>.<annotation><p><italic toggle="yes">(Safety review of orlistat and severe liver injury mentions that there were no signals of severe liver injury in the preclinical and clinical trials of orlistat, but that 12 cases of severe liver injury were reported after its marketing; "At this time, a cause and effect relationship of severe liver injury with orlistat use has not been established").</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Orlistat.REF.reuben.2010.2065">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Reuben</surname>
+                  <given-names>A</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Koch</surname>
+                  <given-names>DG</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Lee</surname>
+                  <given-names>WM</given-names>
+                </name>
+                <collab>Acute Liver Failure Study Group</collab>
+              </person-group>
+              <article-title>Drug-induced acute liver failure: results of a U.S. multicenter, prospective study.</article-title>
+              <source>Hepatology</source>
+              <year>2010</year>
+              <volume>52</volume>
+              <fpage>2065</fpage>
+              <lpage>76</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Among 1198 patients with acute liver failure enrolled in a US prospective study between 1998 and 2007, 133 were attributed to drug induced liver injury, but none were attributed to orlistat or other weight loss agents).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">20949552</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Orlistat.REF.athyros.2011.796">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Athyros</surname>
+                  <given-names>VG</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Giouleme</surname>
+                  <given-names>O</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Ganotakis</surname>
+                  <given-names>ES</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Elisaf</surname>
+                  <given-names>M</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Tziomalos</surname>
+                  <given-names>K</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Vassiliadis</surname>
+                  <given-names>T</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Liberopoulos</surname>
+                  <given-names>EN</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Theocharidou</surname>
+                  <given-names>E</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Karagiannis</surname>
+                  <given-names>A</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Mikhailidis</surname>
+                  <given-names>DP</given-names>
+                </name>
+              </person-group>
+              <article-title>Safety and impact on cardiovascular events of long-term multifactorial treatment in patients with metabolic syndrome and abnormal liver function tests: a post hoc analysis of the randomised ATTEMPT study.</article-title>
+              <source>Arch Med Sci</source>
+              <year>2011</year>
+              <volume>7</volume>
+              <fpage>796</fpage>
+              <lpage>805</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Open label study of multifactorial interventions [which included orlistat for obesity] enrolled 326 patients with ALT elevations and ultrasound evidence of fatty liver; ALT levels improved in most patients and "there were no major side-effects").</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">22291824</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Orlistat.REF.jain.2011.99">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Jain</surname>
+                  <given-names>SS</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Ramanand</surname>
+                  <given-names>SJ</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Ramanand</surname>
+                  <given-names>JB</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Akat</surname>
+                  <given-names>PB</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Patwardhan</surname>
+                  <given-names>MH</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Joshi</surname>
+                  <given-names>SR</given-names>
+                </name>
+              </person-group>
+              <article-title>Evaluation of efficacy and safety of orlistat in obese patients.</article-title>
+              <source>Indian J Endocrinol Metab</source>
+              <year>2011</year>
+              <volume>15</volume>
+              <fpage>99</fpage>
+              <lpage>104</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Controlled trial of orlistat vs placebo for 24 weeks in 80 obese patients; serum ALT and AST values did not change between the beginning and the end of the study).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">21731866</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Orlistat.REF23">
+            <element-citation publication-type="journal">
+              <article-title>Diet, drugs and surgery for weight loss.</article-title>
+              <source>Treat Guidel Med Lett</source>
+              <year>2011</year>
+              <volume>9</volume>
+              <issue>104</issue>
+              <fpage>17</fpage>
+              <lpage>22</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Concise summary of treatment recommendations for weight loss mentions that orlistat is modestly effective in increasing weight loss and rare cases of severe liver injury have been reported with its use).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">21436767</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Orlistat.REF.morris.2012.485">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Morris</surname>
+                  <given-names>M</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Lane</surname>
+                  <given-names>P</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Lee</surname>
+                  <given-names>K</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Parks</surname>
+                  <given-names>D</given-names>
+                </name>
+              </person-group>
+              <article-title>An integrated analysis of liver safety data from orlistat clinical trials.</article-title>
+              <source>Obes Facts</source>
+              <year>2012</year>
+              <volume>5</volume>
+              <fpage>485</fpage>
+              <lpage>94</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Analysis of ALT elevations in controlled trials of orlistat in over 10,000 subjects, found slightly higher rates of ALT elevations with orlistat [7.4%] than placebo [6.9%], perhaps due to a greater frequency of measurement and lower drop-out rates with orlistat; combined elevations of ALT and bilirubin were rare [n=17] and rates were lower in orlistat [0.13%] than placebo [0.23%] treated subjects).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">22854341</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Orlistat.REF.derosa.2012.459">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Derosa</surname>
+                  <given-names>G</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Maffioli</surname>
+                  <given-names>P.</given-names>
+                </name>
+              </person-group>
+              <article-title>Anti-obesity drugs: a review about their effects and their safety.</article-title>
+              <source>Expert Opin Drug Saf</source>
+              <year>2012</year>
+              <volume>11</volume>
+              <fpage>459</fpage>
+              <lpage>71</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Review of safety and efficacy of weight loss agents in recent use; no discussion of hepatotoxicity or ALT elevations, but concludes that "Orlistat is a good choice for the treatment of obesity, because of its safety...").</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">22439841</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Orlistat.REF.kang.2012.13">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Kang</surname>
+                  <given-names>JG</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Park</surname>
+                  <given-names>CY</given-names>
+                </name>
+              </person-group>
+              <article-title>Anti-obesity drugs: a review about their effects and safety.</article-title>
+              <source>Diabetes Metab J</source>
+              <year>2012</year>
+              <volume>36</volume>
+              <fpage>13</fpage>
+              <lpage>25</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Review of the safety and efficacy of current and potentially future medications for obesity; mentions previous FDA review of liver injury and orlistat which identified 32 reports of severe liver injury including 6 cases of acute liver failure).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">22363917</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Orlistat.REF.ara.2012.iii">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Ara</surname>
+                  <given-names>R</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Blake</surname>
+                  <given-names>L</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Gray</surname>
+                  <given-names>L</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Hern&#x000e1;ndez</surname>
+                  <given-names>M</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Crowther</surname>
+                  <given-names>M</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Dunkley</surname>
+                  <given-names>A</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Warren</surname>
+                  <given-names>F</given-names>
+                </name>
+                <etal/>
+              </person-group>
+              <article-title>What is the clinical effectiveness and cost-effectiveness of using drugs in treating obese patients in primary care? A systematic review.</article-title>
+              <source>Health Technol Assess</source>
+              <year>2012</year>
+              <volume>16</volume>
+              <fpage>iii</fpage>
+              <lpage>xiv</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Systematic review of the literature on weight loss agents analyzed 94 studies involving 24,808 subjects and concluded that all active treatments were effective in reducing weight and BMI and all were cost effective; no discussion of hepatotoxicity).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">22340890</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Orlistat.REF.douglas.2013.f1936">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Douglas</surname>
+                  <given-names>IJ</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Langham</surname>
+                  <given-names>J</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Bhaskaran</surname>
+                  <given-names>K</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Brauer</surname>
+                  <given-names>R</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Smeeth</surname>
+                  <given-names>L</given-names>
+                </name>
+              </person-group>
+              <article-title>Orlistat and the risk of acute liver injury: self controlled case series study in UK Clinical Practice Research Datalink.</article-title>
+              <source>BMJ</source>
+              <year>2013</year>
+              <volume>346</volume>
+              <fpage>f1936</fpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Among 94,695 patients receiving orlistat who were registered in the UK Clinical Practice Research Database, there was no evidence of an increased risk of liver injury during treatment).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">23585064</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Orlistat.REF.wilding.2013.f2777">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Wilding</surname>
+                  <given-names>J.</given-names>
+                </name>
+              </person-group>
+              <article-title>Orlistat: should we worry about liver inflammation?</article-title>
+              <source>BMJ</source>
+              <year>2013</year>
+              <volume>346</volume>
+              <fpage>f2777</fpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Editorial in response to Douglas [2013] mentions that there have been 21 reports of severe liver injury attributed to orlistat, but that more than 50 million persons worldwide have been exposed to the agent).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">23633008</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Orlistat.REF.bj_rnsson.2013.1419">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Bj&#x000f6;rnsson</surname>
+                  <given-names>ES</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Bergmann</surname>
+                  <given-names>OM</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Bj&#x000f6;rnsson</surname>
+                  <given-names>HK</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Kvaran</surname>
+                  <given-names>RB</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Olafsson</surname>
+                  <given-names>S</given-names>
+                </name>
+              </person-group>
+              <article-title>Incidence, presentation and outcomes in patients with drug-induced liver injury in the general population of Iceland.</article-title>
+              <source>Gastroenterology</source>
+              <year>2013</year>
+              <volume>144</volume>
+              <fpage>1419</fpage>
+              <lpage>25</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Population based prospective analysis of cases of drug induced liver injury seen over a two year period in Iceland identified 96 cases, none of which were attributed to orlistat or other weight loss agents).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">23419359</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Orlistat.REF.hern_ndez.2014.231">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Hern&#x000e1;ndez</surname>
+                  <given-names>N</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Bessone</surname>
+                  <given-names>F</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>S&#x000e1;nchez</surname>
+                  <given-names>A</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>di Pace</surname>
+                  <given-names>M</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Brahm</surname>
+                  <given-names>J</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Zapata</surname>
+                  <given-names>R, A</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Chirino</surname>
+                  <given-names>R</given-names>
+                </name>
+                <etal/>
+              </person-group>
+              <article-title>Profile of idiosyncratic drug induced liver injury in Latin America. An analysis of published reports.</article-title>
+              <source>Ann Hepatol</source>
+              <year>2014</year>
+              <volume>13</volume>
+              <fpage>231</fpage>
+              <lpage>9</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Systematic review of literature of drug induced liver injury in Latin American countries published from 1996-2012 identified 176 cases, none of which were attributed to orlistat or other weight loss agents).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">24552865</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Orlistat.REF.yanovski.2014.74">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Yanovski</surname>
+                  <given-names>SZ</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Yanovski</surname>
+                  <given-names>JA</given-names>
+                </name>
+              </person-group>
+              <article-title>Long-term drug treatment for obesity: a systematic and clinical review.</article-title>
+              <source>JAMA</source>
+              <year>2014</year>
+              <volume>311</volume>
+              <fpage>74</fpage>
+              <lpage>86</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Systematic review of the literature on the efficacy of long term use of drugs for obesity that were FDA approved [at the time of the analysis] mentions that phentermine, diethylpropion and phendimetrazine are approved for short term use only, but that orlistat, lorcaserin and phentermine/topiramate are approved for long term use although their efficacy is modest; no discussion of hepatotoxicity).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">24231879</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Orlistat.REF.halpern.2015.305">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Halpern</surname>
+                  <given-names>B</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Halpern</surname>
+                  <given-names>A.</given-names>
+                </name>
+              </person-group>
+              <article-title>Safety assessment of FDA-approved (orlistat and lorcaserin) anti-obesity medications.</article-title>
+              <source>Expert Opin Drug Saf</source>
+              <year>2015</year>
+              <volume>14</volume>
+              <fpage>305</fpage>
+              <lpage>15</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Review of the safety of orlistat and lorcaserin discusses the issue of hepatotoxicity concludes that &#x0201c;there is no convincing evidence that orlistat is associated with any liver abnormality, despite FDA&#x02019;s alert, based upon post-marketing surveillance and individual case reports which are subject to several biases&#x0201d;).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">25563411</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Orlistat.REF.chalasani.2015.1340">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Chalasani</surname>
+                  <given-names>N</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Bonkovsky</surname>
+                  <given-names>HL</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Fontana</surname>
+                  <given-names>R</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Lee</surname>
+                  <given-names>W</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Stolz</surname>
+                  <given-names>A</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Talwalkar</surname>
+                  <given-names>J</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Reddy</surname>
+                  <given-names>KR</given-names>
+                </name>
+                <etal/>
+                <collab>United States Drug Induced Liver Injury Network</collab>
+              </person-group>
+              <article-title>Features and outcomes of 899 patients with drug-induced liver injury: The DILIN Prospective Study.</article-title>
+              <source>Gastroenterology</source>
+              <year>2015</year>
+              <volume>148</volume>
+              <fpage>1340</fpage>
+              <lpage>52.e7</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Among 899 cases of drug induced liver injury enrolled in a US prospective study between 2004 and 2013, none of the cases were attributed to orlistat although in two instances of liver injury considered only possibly due to a medication, orlistat was one of the listed possible causes).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">25754159</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Orlistat.REF.hodkinson.2016">
+            <mixed-citation publication-type="other">Hodkinson A, Gamble C, Smith CT. Reporting of harms outcomes: a comparison of journal publications with unpublished clinical study reports of orlistat trials. Trials 2016; 17: 207.<annotation><p><italic toggle="yes">(Comparison of data on adverse events in publications vs. clinical study reports from the pharmaceutical sponsor from five studies of orlistat found underreporting of serious adverse events in publications, but most were judged to be unrelated and none were episodes of acute liver injury).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Orlistat.REF.aagaard.2016.1742">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Aagaard</surname>
+                  <given-names>L</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Hallgreen</surname>
+                  <given-names>CE</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Hansen</surname>
+                  <given-names>EH</given-names>
+                </name>
+              </person-group>
+              <article-title>Serious adverse events reported for antiobesity medicines: postmarketing experiences from the EU adverse event reporting system EudraVigilance.</article-title>
+              <source>Int J Obes (Lond)</source>
+              <year>2016</year>
+              <volume>40</volume>
+              <issue>11</issue>
+              <fpage>1742</fpage>
+              <lpage>7</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Analysis of adverse event reports from antiobesity medications to the European pharmacovigilance database [EudraVigilance] between 2007 and 2013 identified 4941 reports detailing 13,957 individual adverse events, 90% serious, 37% attributed to orlistat including 204 hepatobiliary events and 28 deaths; no details provided).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">27478924</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Orlistat.REF37">
+            <element-citation publication-type="journal">
+              <article-title>Diet, drugs, devices, and surgery for weight management.</article-title>
+              <source>Med Lett Drugs Ther</source>
+              <year>2018</year>
+              <volume>60</volume>
+              <issue>1548</issue>
+              <fpage>91</fpage>
+              <lpage>8</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Concise review of the medical and surgical therapies for obesity mentions that orlistat is modestly effective in inducing weight loss and that &#x0201c;severe liver injury has been reported rarely, but no cause-and-effect relationship has been established).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">29913463</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Orlistat.REF.saunders.2018.135">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Saunders</surname>
+                  <given-names>KH</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Umashanker</surname>
+                  <given-names>D</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Igel</surname>
+                  <given-names>LI</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Kumar</surname>
+                  <given-names>RB</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Aronne</surname>
+                  <given-names>LJ</given-names>
+                </name>
+              </person-group>
+              <article-title>Obesity pharmacotherapy.</article-title>
+              <source>Med Clin North Am</source>
+              <year>2018</year>
+              <volume>102</volume>
+              <fpage>135</fpage>
+              <lpage>48</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Review of the pharmacotherapy of obesity focusing upon the 6 most commonly used medications, discusses the common side effects of orlistat including fecal urgency, oily stool and fecal incontinence, but does not discuss hepatotoxicity).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">29156182</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Orlistat.REF.shirai.2019.86">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Shirai</surname>
+                  <given-names>K</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Fujita</surname>
+                  <given-names>T</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Tanaka</surname>
+                  <given-names>M</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Fujii</surname>
+                  <given-names>Y</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Shimomasuda</surname>
+                  <given-names>M</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Sakai</surname>
+                  <given-names>S</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Samukawa</surname>
+                  <given-names>Y</given-names>
+                </name>
+              </person-group>
+              <article-title>Efficacy and safety of lipase inhibitor orlistat in Japanese with excessive visceral fat accumulation: 24-week, double-blind, randomized, placebo-controlled study.</article-title>
+              <source>Adv Ther</source>
+              <year>2019</year>
+              <volume>36</volume>
+              <fpage>86</fpage>
+              <lpage>100</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Among 200 Japanese obese adults treated with orlistat [60 mg] or placebo 3 times daily for 24 weeks, weight loss was greater with orlistat [-2.8% vs -1.2%] and there were no serious adverse events, although 2 patients taking orlistat had liver test abnormalities during treatment [no details provided]).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">30535651</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Orlistat.REF.khalil.2020.691">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Khalil</surname>
+                  <given-names>H</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Ellwood</surname>
+                  <given-names>L</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Lord</surname>
+                  <given-names>H</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Fernandez</surname>
+                  <given-names>R</given-names>
+                </name>
+              </person-group>
+              <article-title>Pharmacological treatment for obesity in adults: an umbrella review.</article-title>
+              <source>Ann Pharmacother</source>
+              <year>2020</year>
+              <volume>54</volume>
+              <fpage>691</fpage>
+              <lpage>705</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(An &#x0201c;umbrella&#x0201d; review of systematic reviews of pharmacological therapy of obesity identified 9 reviews on 3 agents [orlistat, liraglutide and naltrexone-bupropion] and concluded that all three were more effective than placebo, but that there was little evidence that one was superior to the others in causing weight loss; only the common minor side effects of orlistat were discussed).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">31958967</pub-id>
+            </element-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec sec-type="link-group" id="Orlistat.OTHER_REFERENCE_LINKS">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <label>1</label>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=Orlistat+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D:%222999/12/31%22%5BEDat%5D)">Recent References on Orlistat: from PubMed.gov</ext-link>
+            </p>
+          </list-item>
+          <list-item>
+            <label>2</label>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Orlistat">Trials on Orlistat: from ClinicalTrials.gov</ext-link>
+            </p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="AromataseInhibitors" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">AromataseInhibitors</book-part-id>
+      <title-group>
+        <title>Aromatase Inhibitors</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>27</day>
+          <month>7</month>
+          <year>2017</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Aripiprazole" document-type="chapter">Aripiprazole</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Arsenic" document-type="chapter">Arsenic</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="AromataseInhibitors.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="AromataseInhibitors.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>The aromatase inhibitors block estrogen synthesis and are used as therapy of estrogen receptor positive breast cancer, usually after resection and as a first line treatment or after failure of tamoxifen (another antiestrogen that acts by blocking the estrogen receptor). The aromatase inhibitors include anastrozole, letrozole and exemestane, some of which have been implicated in causing rare instances of clinically apparent liver injury.</p>
+        </sec>
+        <sec id="AromataseInhibitors.Background">
+          <title>Background</title>
+          <p>Aromatase is the enzyme responsible for the conversion of testosterone to estrone (E1) and androstenedione to estradiol (E2). Highest levels of aromatase are found in the ovary and placenta, which are the major sources of estrogen in premenopausal women. However, aromatase is also found in other tissues, such as liver, kidney, adrenals, brain, muscle and subcutaneous fat where it is also active in producing estrogens, although at low levels. These tissues are the major source of estrogen after menopause or oopherectomy. Inhibitors of aromatase were developed to block the synthesis of estrogen in the peripheral tissues and, thus, as antiestrogen therapy of estrogen receptor positive breast cancer in postmenopausal women. The first aromatase inhibitor used in clinical medicine was aminoglutethimide, which was initially developed as an anticonvulsant, but later found to inhibit adrenocorticoid steroid synthesis.</p>
+          <p>More specific aromatase inhibitors with antiestrogen effects only were subsequently developed, the current agents being considered third generation inhibitors. These inhibitors include anastrozole and letrozole which are nonsteroidal, and exemestane which is a steroidal aromatase inhibitor. These agents have little or no effect on adrenal glucocorticoid or mineralocorticoid synthesis. The commercial names and year of approval in the United States are: letrozole (Femara, 1995), anastrozole (Arimidex, 1997), and exemestane (Aromasin, 1999). All three agents are now available in generic forms as well. They are used largely as adjuvant therapy in postmenopausal women with estrogen sensitive breast cancer, generally given in daily oral doses for up to five years. All three agents are associated with a low rate of serum enzyme elevations during therapy and to rare instances of clinically apparent. self-limited acute liver injury, most frequently with anastrozole and exemestane.</p>
+          <p>The three aromatase inhibitors are discussed separately, and references to their hepatotoxicity and safety are given in each section. A few general references are provided at the end of this Overview section. The following links are to individual drug records.</p>
+          <p>Aromatase Inhibitors:</p>
+          <list list-type="bullet">
+            <list-item>
+              <p>
+                <related-object source-id="livertox" document-id="Anastrozole">Anastrozole</related-object>
+              </p>
+            </list-item>
+            <list-item>
+              <p>
+                <related-object source-id="livertox" document-id="Exemestane">Exemestane</related-object>
+              </p>
+            </list-item>
+            <list-item>
+              <p>
+                <related-object source-id="livertox" document-id="Letrozole">Letrozole</related-object>
+              </p>
+            </list-item>
+          </list>
+          <p>Drug Class: <related-object source-id="livertox" document-id="AntineoplasticAgents">Antineoplastic Agents</related-object> (Antiestrogens [includes <related-object source-id="livertox" document-id="Tamoxifen">Tamoxifen</related-object>])</p>
+        </sec>
+      </sec>
+      <sec id="AromataseInhibitors.CHEMICAL_FORMULAS_AN">
+        <title>CHEMICAL FORMULAS AND STRUCTURES</title>
+        <table-wrap id="AromataseInhibitors.T1" position="anchor" orientation="portrait">
+          <table>
+            <tbody>
+              <tr>
+                <th id="hd_b_AromataseInhibitors.T1_1_1_1_1" align="center" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_b_AromataseInhibitors.T1_1_1_1_2" align="center" rowspan="1" colspan="1">CAS REGISTRY NUMBER</th>
+                <th id="hd_b_AromataseInhibitors.T1_1_1_1_3" align="center" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_b_AromataseInhibitors.T1_1_1_1_4" align="center" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+              <tr>
+                <td headers="hd_b_AromataseInhibitors.T1_1_1_1_1" valign="middle" align="center" rowspan="1" colspan="1">Anastrozole</td>
+                <td headers="hd_b_AromataseInhibitors.T1_1_1_1_2" valign="middle" align="center" rowspan="1" colspan="1">
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135018130">120511-73-1</ext-link>
+                </td>
+                <td headers="hd_b_AromataseInhibitors.T1_1_1_1_3" valign="middle" align="center" rowspan="1" colspan="1">C17-H19-N5</td>
+                <td headers="hd_b_AromataseInhibitors.T1_1_1_1_4" valign="middle" align="center" rowspan="1" colspan="1">
+                  <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Anastrozole_Structure_000.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait">
+                    <alt-text>Anastrozole Chemical Structure</alt-text>
+                  </graphic>
+                </td>
+              </tr>
+              <tr>
+                <td headers="hd_b_AromataseInhibitors.T1_1_1_1_1" valign="middle" align="center" rowspan="1" colspan="1">Exemestane</td>
+                <td headers="hd_b_AromataseInhibitors.T1_1_1_1_2" valign="middle" align="center" rowspan="1" colspan="1">
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135260226">107868-30-4</ext-link>
+                </td>
+                <td headers="hd_b_AromataseInhibitors.T1_1_1_1_3" valign="middle" align="center" rowspan="1" colspan="1">C20-H24-O2</td>
+                <td headers="hd_b_AromataseInhibitors.T1_1_1_1_4" valign="middle" align="center" rowspan="1" colspan="1">
+                  <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Exemestane_Structure_000.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait">
+                    <alt-text>Exemestane Chemical Structure</alt-text>
+                  </graphic>
+                </td>
+              </tr>
+              <tr>
+                <td headers="hd_b_AromataseInhibitors.T1_1_1_1_1" valign="middle" align="center" rowspan="1" colspan="1">Letrozole</td>
+                <td headers="hd_b_AromataseInhibitors.T1_1_1_1_2" valign="middle" align="center" rowspan="1" colspan="1">
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135028595">112809-51-5</ext-link>
+                </td>
+                <td headers="hd_b_AromataseInhibitors.T1_1_1_1_3" valign="middle" align="center" rowspan="1" colspan="1">C17-H11-N5</td>
+                <td headers="hd_b_AromataseInhibitors.T1_1_1_1_4" valign="middle" align="center" rowspan="1" colspan="1">
+                  <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Letrozole_Structure_000.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait">
+                    <alt-text>Letrozole Chemical Structure</alt-text>
+                  </graphic>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="AromataseInhibitors.ANNOTATED_BIBLIOGRAP">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 27 July 2017</p>
+        <ref-list id="AromataseInhibitors.ANNOTATED_BIBLIOGRAP.reflist0">
+          <ref id="AromataseInhibitors.R1">
+            <mixed-citation publication-type="other">Zimmerman HJ. Unconventional drugs. Miscellaneous drugs and diagnostic chemicals. In, Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999, pp. 731-4.<annotation><p><italic toggle="yes">(Expert review of hepatotoxicity published in 1999, before the availability of aromatase inhibitors).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="AromataseInhibitors.R2">
+            <mixed-citation publication-type="other">Chitturi S, Farrell GC. Estrogen receptor antagonists. Adverse effects of hormones and hormone antagonists on the liver. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013, pp. 610-2.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of tamoxifen mentions that nonalcoholic fatty liver disease is the most common form of liver injury due to tamoxifen which has also been reported to cause peliosis hepatis, acute hepatitis, submassive hepatic necrosis and liver cancer).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="AromataseInhibitors.R3">
+            <mixed-citation publication-type="other">Moy B, Lee RJ, Smith M. Anti-estrogen therapy. Natural products in cancer chemotherapy. In, Brunton LL, Chabner BA, Knollman BC, eds. Goodman &#x00026; Gilman&#x02019;s the pharmacological basis of therapeutics. 12th ed. New York: McGraw-Hill, 2011, pp. 1756-9.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="AromataseInhibitors.R4">
+            <mixed-citation publication-type="journal">L&#x000f8;nning PE. Pharmacology and clinical experience with exemestane. Exp Opin Invest Drugs 2000; 9: 1897-905. <annotation><p><italic toggle="yes">(Review of pharmacology, clinical efficacy and safety of exemestane, mentions a low rate of toxicity, side effects being largely due to the antiestrogen activity).</italic></p></annotation><pub-id pub-id-type="pmid">11060785</pub-id></mixed-citation>
+          </ref>
+          <ref id="AromataseInhibitors.R5">
+            <mixed-citation publication-type="journal">Paridaens R, Dirix L, Lohrisch C, Beex L, Nooij M, Cameron D, Biganzoli L, et al.; European Organization for the Research and Treatment of Cancer (EORTC) - Investigational Drug Branch for Breast Cancer (IDBBC). Mature results of a randomized phase II multicenter study of exemestane versus tamoxifen as first-line hormone therapy for postmenopausal women with metastatic breast cancer. Ann Oncol 2003; 14: 1391-8. <annotation><p><italic toggle="yes">(Among 122 postmenopausal women with breast cancer [estrogen receptor positive] randomized to tamoxifen versus exemestane, ALT or AST elevations occurred in equal numbers of both groups [37%], but were &#x0003e;5 times ULN in 3% of tamoxifen versus 11% of exemestane recipients; no clinically apparent liver injury reported).</italic></p></annotation><pub-id pub-id-type="pmid">12954578</pub-id></mixed-citation>
+          </ref>
+          <ref id="AromataseInhibitors.R6">
+            <mixed-citation publication-type="journal">Paridaens RJ, Dirix LY, Beex LV, Nooij M, Cameron DA, Cufer T, Piccart MJ, et al. Phase III study comparing exemestane with tamoxifen as first-line hormonal treatment of metastatic breast cancer in postmenopausal women: the European Organisation for Research and Treatment of Cancer Breast Cancer Cooperative Group. J Clin Oncol 2008; 26: 4883-90. <annotation><p><italic toggle="yes">(Among 371 women with breast cancer in a prospective controlled trial, ALT elevations above 5 times ULN occurred in 8% on exemestane versus 4% on tamoxifen, but no serious adverse events were attributed to either drug).</italic></p></annotation><pub-id pub-id-type="pmid">18794551</pub-id></mixed-citation>
+          </ref>
+          <ref id="AromataseInhibitors.R7">
+            <mixed-citation publication-type="journal">Monnier A. Long-term efficacy and safety of letrozole for the adjuvant treatment of early breast cancer in postmenopausal women: a review. Ther Clin Risk Manag 2009; 5: 725-38. <annotation><p><italic toggle="yes">(Review of the long term efficacy and safety of letrozole; no mention of ALT changes or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">19774214</pub-id></mixed-citation>
+          </ref>
+          <ref id="AromataseInhibitors.R8">
+            <mixed-citation publication-type="journal">Reuben A, Koch DG, Lee WM; Acute Liver Failure Study Group. Drug-induced acute liver failure: results of a U.S. multicenter, prospective study. Hepatology 2010; 52: 2065-76. <annotation><p><italic toggle="yes">(Among 1198 patients with acute liver failure enrolled in a US prospective study between 1998 and 2007, 133 were attributed to drug induced liver injury, but none were attributed to antiestrogens).</italic></p></annotation><pub-id pub-id-type="pmid">20949552</pub-id></mixed-citation>
+          </ref>
+          <ref id="AromataseInhibitors.R9">
+            <mixed-citation publication-type="journal">Rabaglio M, Ruepp B; Soft/Text/Perche Steering Committee. Death due to liver failure during endocrine therapy for premenopausal breast cancer. Acta Oncol 2010; 49: 874-6. <annotation><p><italic toggle="yes">(Among 4500 women enrolled in endocrine therapy of premenopausal breast cancer, 2 developed acute liver failure, one on tamoxifen and one exemestane; 50 year old woman developed jaundice 2 years after starting exemestane [bilirubin 23.2 mg/dL, ALT 182 U/L, Alk P 382 U/L], with progressive liver failure and death, injury being attributed to concurrent alcoholism).</italic></p></annotation><pub-id pub-id-type="pmid">20482225</pub-id></mixed-citation>
+          </ref>
+          <ref id="AromataseInhibitors.R10">
+            <mixed-citation publication-type="journal">Dowsett M, Cuzick J, Ingle J, Coates A, Forbes J, Bliss J, Buyse M, et al. Meta-analysis of breast cancer outcomes in adjuvant trials of aromatase inhibitors versus tamoxifen. J Clin Oncol 2010; 28: 509-18. <annotation><p><italic toggle="yes">(Metaanalysis of trials comparing aromatase inhibitors to tamoxifen as adjuvant therapy of breast cancer in postmenopausal women; no discussion of hepatotoxicity or rates of ALT elevations).</italic></p></annotation><pub-id pub-id-type="pmid">19949017</pub-id></mixed-citation>
+          </ref>
+          <ref id="AromataseInhibitors.R11">
+            <mixed-citation publication-type="journal">Aromatase inhibitors for adjuvant treatment of postmenopausal breast cancer. Med Lett Drugs Ther 2011 13; 53 (1366): 47-8. <annotation><p><italic toggle="yes">(Concise review of the aromatase inhibitors and their role in therapy of breast cancer in postmenopausal women; no discussion of adverse events).</italic></p></annotation><pub-id pub-id-type="pmid">21659970</pub-id></mixed-citation>
+          </ref>
+          <ref id="AromataseInhibitors.R12">
+            <mixed-citation publication-type="journal">Barnadas A, Estevez LG, Lluch-Hernandez A, Rodriguez-Lescure A, Rodriguez-Sanchez C, Sanchez-Rovira P. An overview of letrozole in postmenopausal women with hormone-responsive breast cancer. Adv Ther 2011; 28: 1045-58. <annotation><p><italic toggle="yes">(Review of the literature on the role of letrozole in postmenopausal women with breast cancer; no discussion of ALT changes or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">22068628</pub-id></mixed-citation>
+          </ref>
+          <ref id="AromataseInhibitors.R13">
+            <mixed-citation publication-type="journal">Regan MM, Neven P, Giobbie-Hurder A, Goldhirsch A, Ejlertsen B, Mauriac L, Forbes JF, et al.; BIG 1-98 Collaborative Group; International Breast Cancer Study Group(IBCSG). Assessment of letrozole and tamoxifen alone and in sequence for postmenopausal women with steroid hormone receptor-positive breast cancer: the BIG 1-98 randomised clinical trial at 8.1 years median follow-up. Lancet Oncol 2011; 12: 1101-8. <annotation><p><italic toggle="yes">(Randomized controlled trial of primary therapy with tamoxifen vs letrozole in 8010 women with breast cancer with an average follow up of 8.1 years showed improved survival with letrozole; no discussion of adverse events, ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">22018631</pub-id></mixed-citation>
+          </ref>
+          <ref id="AromataseInhibitors.R14">
+            <mixed-citation publication-type="journal">Goss PE, Ingle JN, Pritchard KI, Ellis MJ, Sledge GW, Budd GT, Rabaglio M, et al. Exemestane versus anastrozole in postmenopausal women with early breast cancer: NCIC CTG MA.27--a randomized controlled phase III trial. J Clin Oncol 2013; 31: 1398-404. <annotation><p><italic toggle="yes">(Among 7576 women with early breast cancer randomized to anastrozole or exemestane for 5 years, event free survival was the same while mild bilirubin and ALT elevations were more common with exemestane [1.6% and 1.4%] than anastrozole [0.6% and 0.6%]; no mention of instances of clinically apparent liver injury).</italic></p></annotation><pub-id pub-id-type="pmid">23358971</pub-id></mixed-citation>
+          </ref>
+          <ref id="AromataseInhibitors.R15">
+            <mixed-citation publication-type="journal">Chalasani N, Bonkovsky HL, Fontana R, Lee W, Stolz A, Talwalkar J, Reddy KR, et al.; United States Drug Induced Liver Injury Network. Features and outcomes of 899 patients with drug-induced liver injury: the DILIN prospective study. Gastroenterology 2015; 148: 1340-52. <annotation><p><italic toggle="yes">(Among 899 cases of drug induced liver injury seen over a ten year period at 8 US medical centers, 7 were attributed to antiestrogens used in cancer chemotherapy including 4 to tamoxifen, 2 exemestane and 1 letrozole, but none were attributed to anastrozole). </italic></p></annotation><pub-id pub-id-type="pmid">25754159</pub-id></mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

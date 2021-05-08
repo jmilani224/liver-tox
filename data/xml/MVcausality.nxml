@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="MVcausality" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">MVcausality</book-part-id>
+      <title-group>
+        <title>Maria and Victorino (M &#x00026; V) System of Causality Assessment in Drug Induced Liver Injury</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>4</day>
+          <month>5</month>
+          <year>2019</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="causalityassess" document-type="chapter">Causality Assessment Tools</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Narajo" document-type="chapter">Adverse Drug Reaction Probability Scale (Naranjo) in Drug Induced Liver Injury</related-object>
+    </book-part-meta>
+    <body>
+      <p>The M &#x00026; V System of assessment of causality in drug induced liver injury was developed by Drs. V.A.J. Maria and R.M.M. Victorino (Faculty of Medicine, Lisbon, Portugal) in an attempt to improve upon the RUCAM system, by addition of other clinical elements and by simplifying and changing the relative weight of elements in the assessment of causality. The major addition of the M &#x00026; V scoring system compared to RUCAM was the inclusion of points for extrahepatic manifestations of drug induced liver injury.</p>
+      <p>The M &#x00026; V system consists of five components with scores given in seven areas.</p>
+      <p><bold>Component I</bold> deals with the temporal relationship between drug intake and the clinical onset and course of liver injury. Three scores (areas IA, IB, and IC) are applied based upon temporal relationships.</p>
+      <list list-type="alpha-upper">
+        <list-item>
+          <label>A</label>
+          <p><bold>Time of onset</bold> of first clinical or laboratory manifestation. Three points are given if onset is 4 days to 8 weeks (or &#x0003c;4 days for reexposure) after starting the medication, whereas 1 point is given for all other times (&#x0003c;4 days or more than 8 weeks). The scores are the same for cholestatic and mixed injury as for hepatocellular forms of injury. Thus, the time to onset scoring is simpler in the M &#x00026; V than the RUCAM scoring and there are slightly narrower ranges for the higher scores (4 days to 8 weeks compared with 5 to 90 days).</p>
+        </list-item>
+        <list-item>
+          <label>B</label>
+          <p><bold>Time from withdrawal</bold> of the drug until onset of manifestations. For patients in whom the liver injury arises after the drug is stopped, 3 points are given for 0 to 7 days, no points for 8 to 15 days, and -3 points for more than 15 days (except for drugs that have prolonged persistence in the body after withdrawal, amiodarone being mentioned as an example). The limits of time from withdrawal to onset of injury are narrower in the M &#x00026; V system (0 to 7 days) than the RUCAM system (0 to 15 days for hepatocellular, and 0 to 30 days for mixed and cholestatic injury), and the scoring has a wider range (+3, 0, or -3) compared to the RUCAM system (none or +1 points). As with the RUCAM system, it is not clear whether points should be given for both IA and IB, or whether they are mutually exclusive.</p>
+        </list-item>
+        <list-item>
+          <label>C</label>
+          <p><bold>Time from withdrawal</bold> of the drug until normalization of laboratory values. The course of injury in the M &#x00026; V system is defined by withdrawal of the drug rather than peak values as is used in the RUCAM system. Normalization is defined as &#x0003c; twice the upper limit of normal. Three points are given if this is &#x0003c;6 months in cholestatic and mixed forms of injury and if &#x0003c;2 months in hepatocellular forms of liver injury. No points are given if the time to normalization is &#x0003e;2 months for hepatocellular or &#x0003e;6 months for mixed or cholestatic forms of injury. Thus, the scoring for course of the injury is only 0 and 3+ in the M &#x00026; V system compared to -2, 0, 1+, 2+ or 3+ in the RUCAM system. The scoring and calculation is far simpler in the M &#x00026; V than the RUCAM system (which requires calculation of a 50% drop in values over 8, 30 or 180 days). On the other hand, the use of &#x0201c;months&#x0201d; and &#x0201c;weeks&#x0201d; as opposed to always using &#x0201c;days&#x0201d; (as in the RUCAM) system is a possible source of confusion (for instance, does 8 weeks constitute 56 days or 60 days and is it the same as 2 months?).</p>
+        </list-item>
+      </list>
+      <p><bold>Component II</bold> deals with the exclusion of other causes of liver injury. The causes that require exclusion are viral hepatitis (HAV, HBV, HCV, CMV and EBV), alcoholic liver disease, biliary obstruction, preexisting liver disease, and &#x0201c;other&#x0201d; with mention of pregnancy or acute hypotension. Three points are given if all five are excluded, no points are given if there is &#x0201c;partial&#x0201d; exclusion, -1 point if there is another possible alternative cause, and -3 points if another probable cause is detected. This system is somewhat more complex than the RUCAM system and does not allow for lack of exclusion of an unlikely cause (EBV or CMV infection, or absence of a test for IgM anti-HAV) nor the diagnosis of drug induced liver injury in a patient with preexisting liver disease.</p>
+      <p><bold>Component III</bold> deals with extrahepatic manifestations which are defined by rash, fever, arthralgias, eosinophilia (&#x0003e;6%) and cytopenia (anemia, agranulocytosis, thrombocytopenia). This area is given considerable weight in the M &#x00026; V system, but is not used in the RUCAM system. This area applies largely to immunoallergic forms of drug induced liver injury. Three points are given if there are four or more extrahepatic manifestations, 2 points if there are two or three, 1 point if there is one, and no points if there are no such manifestations. The definition of these manifestations is only vaguely given. Thus, the amount of fever and its documentation, what constitutes a relevant rash, and what represents anemia or thrombocytopenia are not clearly defined.</p>
+      <p><bold>Component IV</bold> relates to rechallenge, either intentional or accidental. Three points are given for a positive rechallenge and no points for a negative or no rechallenge. This scoring is simpler in the M &#x00026; V than the RUCAM system. A positive rechallenge is defined by a rise of at least twice the upper limit of normal for ALT or alkaline phosphatase, but the timing and degree of rechallenge (dose and duration) are not provided.</p>
+      <p><bold>Component V</bold> relates to previous reports in the literature of cases due to the drug. Two points are given if there are case reports of liver injury due to this drug in the literature; no points are given in the absence of reports in the literature and the drug has been marketed for 5 years or less; and &#x02013;3 points given if there are no reports in the literature and the drug has been marketed for more than 5 years. This scoring is simpler in the M &#x00026; V than the RUCAM system, but both are limited by the demands of knowing whether there is at least one case report of injury due to the medication. Most medications are implicated in least one case report of drug induced liver injury, but some of these are of dubious quality or are unconvincing. Thus, drugs such as atropine, theophylline and gentamicin which have been widely used for many years have been linked to liver injury in at least one case report, but in most cases these reports were not particularly convincing, particularly in view of the frequency of their use.</p>
+      <p>The M &#x00026; V system does not include scores for risk factors such as age, alcohol use and pregnancy, which are used in the RUCAM system. The M &#x00026; V system also does not include elements of subtracting points for other medications, whether they are hepatotoxins or not as is done in the RUCAM system. If more than one drug is under suspicion, the M &#x00026; V system calls for calculation of a score for each drug, and the one with the higher score is considered the most likely involved.</p>
+      <p>Scores in the M &#x00026; V system range from &#x02013;6 to 20, with scores of &#x0003c;6 being considered excluded, 6 to 9 unlikely, 10 to 13 possible, 14 to 17 probable, and &#x0003e;17 definite. These terms for levels of causality are slightly different than used in the RUCAM system, which includes only excluded, unlikely, possible, probable, and highly probable. In direct comparisons, &#x0201c;highly probable&#x0201d; in the RUCAM system is usually interpreted as equivalent to &#x0201c;definite&#x0201d; in the M &#x00026; V system.</p>
+      <p>In the initial description of the M &#x00026; V system, a high degree of correlation was found compared with &#x0201c;expert opinion&#x0201d;, the agreement in 50 cases of drug induced liver injury (some of which were described as &#x0201c;fictitious&#x0201d;) being 84% with a kappa value of 0.90. However, in separate analyses done on 215 cases of drug hepatotoxicity, the M &#x00026; V system was found to be less reliable than the RUCAM system, with absolute agreement between the two scales in only 18% of cases. Cases rated as definite using the M &#x00026; V system were largely those with a positive rechallenge. The absence of a classification of definite for cases without a rechallenge was considered consistent with the literature and expert opinion about causality.</p>
+      <p>The identification of elements used in the M &#x00026; V system and their relative weights were assigned, based upon expert opinion of the authors and not by prospective evaluation using different elements and different cut points and weights. A similar criticism can be made about the RUCAM system, but the numbers of experts and degree of validation was greater in that consensus panel developed system.</p>
+      <sec id="MVcausality.M__V_Causality_Assessment_Sc">
+        <title>M &#x00026; V Causality Assessment Scale</title>
+        <p><inline-supplementary-material xmlns:xlink="http://www.w3.org/1999/xlink" xlink:title="media" xlink:href="MVassessment.pdf" content-type="local-data">M &#x00026; V Causality Assessment Worksheet</inline-supplementary-material> (PDF &#x02013; 100 KB)</p>
+        <table-wrap id="MVcausality.Tc" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th id="hd_h_MVcausality.Tc_1_1_1_1" valign="top" align="left" scope="col" rowspan="1" colspan="1">
+                  <list list-type="roman-upper">
+                    <list-item>
+                      <label>I</label>
+                      <p>Temporal Relationship Between Drug Intake and Onset of Clinical Picture</p>
+                    </list-item>
+                  </list>
+                </th>
+                <th id="hd_h_MVcausality.Tc_1_1_1_2" valign="top" align="left" scope="col" rowspan="1" colspan="1">Score</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_MVcausality.Tc_1_1_1_1" valign="top" align="left" scope="col" rowspan="1" colspan="1">
+                  <list list-type="alpha-upper">
+                    <list-item>
+                      <label>A</label>
+                      <p>Time from drug intake until the onset of the first clinical or laboratory manifestations</p>
+                    </list-item>
+                  </list>
+                </td>
+                <td headers="hd_h_MVcausality.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1"/>
+              </tr>
+              <tr>
+                <td headers="hd_h_MVcausality.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">
+                  <list list-type="alpha-lower">
+                    <list-item>
+                      <label>a</label>
+                      <p>4 days to 8 weeks (or less than 4 days in cases of reexposure</p>
+                    </list-item>
+                  </list>
+                </td>
+                <td headers="hd_h_MVcausality.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">3</td>
+              </tr>
+              <tr>
+                <td headers="hd_h_MVcausality.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">b. Less than 4 days or more than 8 weeks</td>
+                <td headers="hd_h_MVcausality.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">1</td>
+              </tr>
+              <tr>
+                <td headers="hd_h_MVcausality.Tc_1_1_1_1" valign="top" align="left" scope="col" rowspan="1" colspan="1">B. Time from withdrawal of the drug until the onset of manifestations</td>
+                <td headers="hd_h_MVcausality.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1"/>
+              </tr>
+              <tr>
+                <td headers="hd_h_MVcausality.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">
+                  <list list-type="alpha-lower">
+                    <list-item>
+                      <label>a</label>
+                      <p>0 to 7 days</p>
+                    </list-item>
+                  </list>
+                </td>
+                <td headers="hd_h_MVcausality.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">3</td>
+              </tr>
+              <tr>
+                <td headers="hd_h_MVcausality.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">b. 8 to 15 days</td>
+                <td headers="hd_h_MVcausality.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">0</td>
+              </tr>
+              <tr>
+                <td headers="hd_h_MVcausality.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">c. More than 15 days*</td>
+                <td headers="hd_h_MVcausality.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">-3</td>
+              </tr>
+              <tr>
+                <td headers="hd_h_MVcausality.Tc_1_1_1_1" valign="top" align="left" scope="col" rowspan="1" colspan="1">C. Time from withdrawal of the drug until normalization of laboratory values**</td>
+                <td headers="hd_h_MVcausality.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1"/>
+              </tr>
+              <tr>
+                <td headers="hd_h_MVcausality.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1"><list list-type="alpha-lower"><list-item><label>a</label><p>Less than 6 months (cholestatic or mixed patterns) or 2 months</p></list-item></list>
+(hepatocellular)</td>
+                <td headers="hd_h_MVcausality.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">3</td>
+              </tr>
+              <tr>
+                <td headers="hd_h_MVcausality.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">b. More than 6 months (cholestatic or mixed) or 2 months<break/>(hepatocellular)</td>
+                <td headers="hd_h_MVcausality.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">0</td>
+              </tr>
+              <tr>
+                <th headers="hd_h_MVcausality.Tc_1_1_1_1" id="hd_b_MVcausality.Tc_1_1_11_1" scope="col" valign="top" align="left" rowspan="1" colspan="1">II. Exclusion of Alternative Causes</th>
+                <th headers="hd_h_MVcausality.Tc_1_1_1_2" id="hd_b_MVcausality.Tc_1_1_11_2" scope="col" valign="top" align="left" rowspan="1" colspan="1"/>
+              </tr>
+              <tr>
+                <td headers="hd_h_MVcausality.Tc_1_1_1_1 hd_b_MVcausality.Tc_1_1_11_1" valign="top" align="left" scope="col" rowspan="1" colspan="1">Viral hepatitis (HAV, HBV, HCV, CMV, EBV), alcoholic liver disease, biliary tree obstruction, preexisting liver disease, other (pregnancy, acute hypotension)***</td>
+                <td headers="hd_h_MVcausality.Tc_1_1_1_2 hd_b_MVcausality.Tc_1_1_11_2" valign="top" align="left" rowspan="1" colspan="1"/>
+              </tr>
+              <tr>
+                <td headers="hd_h_MVcausality.Tc_1_1_1_1 hd_b_MVcausality.Tc_1_1_11_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Complete exclusion</td>
+                <td headers="hd_h_MVcausality.Tc_1_1_1_2 hd_b_MVcausality.Tc_1_1_11_2" valign="top" align="left" rowspan="1" colspan="1">3</td>
+              </tr>
+              <tr>
+                <td headers="hd_h_MVcausality.Tc_1_1_1_1 hd_b_MVcausality.Tc_1_1_11_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Partial exclusion</td>
+                <td headers="hd_h_MVcausality.Tc_1_1_1_2 hd_b_MVcausality.Tc_1_1_11_2" valign="top" align="left" rowspan="1" colspan="1">0</td>
+              </tr>
+              <tr>
+                <td headers="hd_h_MVcausality.Tc_1_1_1_1 hd_b_MVcausality.Tc_1_1_11_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Possible alternative cause detected</td>
+                <td headers="hd_h_MVcausality.Tc_1_1_1_2 hd_b_MVcausality.Tc_1_1_11_2" valign="top" align="left" rowspan="1" colspan="1">-1</td>
+              </tr>
+              <tr>
+                <td headers="hd_h_MVcausality.Tc_1_1_1_1 hd_b_MVcausality.Tc_1_1_11_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Probable alternative cause detected</td>
+                <td headers="hd_h_MVcausality.Tc_1_1_1_2 hd_b_MVcausality.Tc_1_1_11_2" valign="top" align="left" rowspan="1" colspan="1">-3</td>
+              </tr>
+              <tr>
+                <th headers="hd_h_MVcausality.Tc_1_1_1_1" id="hd_b_MVcausality.Tc_1_1_17_1" scope="col" valign="top" align="left" rowspan="1" colspan="1">III. Extrahepatic Manifestations</th>
+                <th headers="hd_h_MVcausality.Tc_1_1_1_2" id="hd_b_MVcausality.Tc_1_1_17_2" scope="col" valign="top" align="left" rowspan="1" colspan="1"/>
+              </tr>
+              <tr>
+                <td headers="hd_h_MVcausality.Tc_1_1_1_1 hd_b_MVcausality.Tc_1_1_17_1" valign="top" align="left" scope="col" rowspan="1" colspan="1">Rash, fever, arthralgias, eosinophilia (&#x0003e;6%), cytopenia</td>
+                <td headers="hd_h_MVcausality.Tc_1_1_1_2 hd_b_MVcausality.Tc_1_1_17_2" valign="top" align="left" rowspan="1" colspan="1"/>
+              </tr>
+              <tr>
+                <td headers="hd_h_MVcausality.Tc_1_1_1_1 hd_b_MVcausality.Tc_1_1_17_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">4 or more</td>
+                <td headers="hd_h_MVcausality.Tc_1_1_1_2 hd_b_MVcausality.Tc_1_1_17_2" valign="top" align="left" rowspan="1" colspan="1">3</td>
+              </tr>
+              <tr>
+                <td headers="hd_h_MVcausality.Tc_1_1_1_1 hd_b_MVcausality.Tc_1_1_17_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">2 or 3</td>
+                <td headers="hd_h_MVcausality.Tc_1_1_1_2 hd_b_MVcausality.Tc_1_1_17_2" valign="top" align="left" rowspan="1" colspan="1">2</td>
+              </tr>
+              <tr>
+                <td headers="hd_h_MVcausality.Tc_1_1_1_1 hd_b_MVcausality.Tc_1_1_17_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">1</td>
+                <td headers="hd_h_MVcausality.Tc_1_1_1_2 hd_b_MVcausality.Tc_1_1_17_2" valign="top" align="left" rowspan="1" colspan="1">1</td>
+              </tr>
+              <tr>
+                <td headers="hd_h_MVcausality.Tc_1_1_1_1 hd_b_MVcausality.Tc_1_1_17_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">None</td>
+                <td headers="hd_h_MVcausality.Tc_1_1_1_2 hd_b_MVcausality.Tc_1_1_17_2" valign="top" align="left" rowspan="1" colspan="1">0</td>
+              </tr>
+              <tr>
+                <th headers="hd_h_MVcausality.Tc_1_1_1_1" id="hd_b_MVcausality.Tc_1_1_23_1" scope="col" valign="top" align="left" rowspan="1" colspan="1">IV. Intentional or Accidental Reexposure to the Drug</th>
+                <th headers="hd_h_MVcausality.Tc_1_1_1_2" id="hd_b_MVcausality.Tc_1_1_23_2" scope="col" valign="top" align="left" rowspan="1" colspan="1"/>
+              </tr>
+              <tr>
+                <td headers="hd_h_MVcausality.Tc_1_1_1_1 hd_b_MVcausality.Tc_1_1_23_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Positive rechallenge test</td>
+                <td headers="hd_h_MVcausality.Tc_1_1_1_2 hd_b_MVcausality.Tc_1_1_23_2" valign="top" align="left" rowspan="1" colspan="1">3</td>
+              </tr>
+              <tr>
+                <td headers="hd_h_MVcausality.Tc_1_1_1_1 hd_b_MVcausality.Tc_1_1_23_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Negative or absent rechallenge test</td>
+                <td headers="hd_h_MVcausality.Tc_1_1_1_2 hd_b_MVcausality.Tc_1_1_23_2" valign="top" align="left" rowspan="1" colspan="1">0</td>
+              </tr>
+              <tr>
+                <th headers="hd_h_MVcausality.Tc_1_1_1_1" id="hd_b_MVcausality.Tc_1_1_26_1" scope="col" valign="top" align="left" rowspan="1" colspan="1">V. Previous Report in the Literature of Cases of DILI Associated with Drug</th>
+                <th headers="hd_h_MVcausality.Tc_1_1_1_2" id="hd_b_MVcausality.Tc_1_1_26_2" scope="col" valign="top" align="left" rowspan="1" colspan="1"/>
+              </tr>
+              <tr>
+                <td headers="hd_h_MVcausality.Tc_1_1_1_1 hd_b_MVcausality.Tc_1_1_26_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Yes</td>
+                <td headers="hd_h_MVcausality.Tc_1_1_1_2 hd_b_MVcausality.Tc_1_1_26_2" valign="top" align="left" rowspan="1" colspan="1">2</td>
+              </tr>
+              <tr>
+                <td headers="hd_h_MVcausality.Tc_1_1_1_1 hd_b_MVcausality.Tc_1_1_26_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">No (drugs marketed for up to 5 years)</td>
+                <td headers="hd_h_MVcausality.Tc_1_1_1_2 hd_b_MVcausality.Tc_1_1_26_2" valign="top" align="left" rowspan="1" colspan="1">0</td>
+              </tr>
+              <tr>
+                <td headers="hd_h_MVcausality.Tc_1_1_1_1 hd_b_MVcausality.Tc_1_1_26_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">No (drugs marketed for more than 5 years)</td>
+                <td headers="hd_h_MVcausality.Tc_1_1_1_2 hd_b_MVcausality.Tc_1_1_26_2" valign="top" align="left" rowspan="1" colspan="1">-3</td>
+              </tr>
+            </tbody>
+          </table>
+          <table-wrap-foot>
+            <fn id="MVcausality.TF.c.1">
+              <label>* </label>
+              <p>Except cases of prolonged persistence of the drug in the body after drug withdrawal (e.g., amiodarone).</p>
+            </fn>
+            <fn id="MVcausality.TF.c.2">
+              <label>**</label>
+              <p>Normalization = decrease to values below two times the upper limit of normal values.</p>
+            </fn>
+            <fn id="MVcausality.TF.c.3">
+              <label>***</label>
+              <p>Use the exclusion criteria considered appropriate in each case.</p>
+            </fn>
+          </table-wrap-foot>
+        </table-wrap>
+      </sec>
+      <sec id="MVcausality.References">
+        <title>References</title>
+        <ref-list id="MVcausality.References.reflist0">
+          <ref id="MVcausality.REF.maria.1997.664">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Maria</surname>
+                  <given-names>VAJ</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Victorino</surname>
+                  <given-names>RMM</given-names>
+                </name>
+              </person-group>
+              <article-title>Development and validation of a clinical scale for the diagnosis of drug-induced hepatitis.</article-title>
+              <source>Hepatology</source>
+              <year>1997</year>
+              <volume>26</volume>
+              <fpage>664</fpage>
+              <lpage>9</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Original description of the M &#x00026; V system for assessing drug induced liver injury, including temporal components [time to onset 1 or 3, time from withdrawal -3, 0, or 3, time to recovery 0 or 3, exclusion of other causes -3 to 3, extrahepatic manifestations 0 to 3, rechallenge 0 or 3, and previous reports -3, 0, 2]; testing on 50 cases by 3 experts, agreed with expert opinion in 84%, kappa=0.9).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">9303497</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="MVcausality.REF.danan.1993.1323">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Danan</surname>
+                  <given-names>G</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Benichou</surname>
+                  <given-names>C</given-names>
+                </name>
+              </person-group>
+              <article-title>Causality assessment of adverse reactions to drugs-I. A novel method based on the conclusions of International Consesnsu Meetings: application to drug-induced liver injuries.</article-title>
+              <source>J Clin Epidemiol</source>
+              <year>1993</year>
+              <volume>46</volume>
+              <fpage>1323</fpage>
+              <lpage>30</lpage>
+              <annotation>
+                <p><italic toggle="yes">(Description of the RUCAM System, based upon the results of consensus meetings of experts organized by Roussel Uclaf Pharmaceuticals on adverse events, liver events being representative; experts included Drs. Benhamou, Bircher, Dana, Maddrey, Neuberger, Orlani, Tygstrup and Zimmerman. R values were used to define cholestatic, hepatocellular and mixed injury. Time to onset given only 1+ or 2+, course given range of -3 to +3, risk factors 2 points [age, alcohol, pregnancy], other causes to exclude included drugs and other diseases, previous knowledge of toxicity 0, 1+ and 2+, and rechallenge result -3 to +3. A discrepancy exists between Figures 1 and 2</italic>
+<italic toggle="yes">regarding criterion 1 [0 to 3+ vs 1+ or 2+]. Using RUCAM, scores usually agreed, differing in more than 1 point in only 16%)</italic><italic toggle="yes">.</italic></p>
+              </annotation>
+              <pub-id pub-id-type="pmid">8229110</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="MVcausality.REF.benichou.1993.1331">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Benichou</surname>
+                  <given-names>C</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Danan</surname>
+                  <given-names>G</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Flahault</surname>
+                  <given-names>A</given-names>
+                </name>
+              </person-group>
+              <article-title>Causality assessment of adverse reactions to drugs-II. An original model for validation of drug causality assessment methods: case reports with positive rechallenge.</article-title>
+              <source>J Clin Epidemiol</source>
+              <year>1993</year>
+              <volume>46</volume>
+              <fpage>1331</fpage>
+              <lpage>6</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Results of using RUCAM on 77 case reports, single agent being implicated in 49; scores ranged from -5 to +13 [potential -5 to +14]; authors introduced the terms &#x0201c;excluded&#x0201d; for scores of &#x0003c; 0, &#x0201c;unlikely&#x0201d; for 1 to 2, &#x0201c;possible&#x0201d; for 3 to 5, &#x0201c;probable&#x0201d; for 6 to 8, and &#x0201c;highly probable&#x0201d; for &#x0003e;8).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">8229111</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="MVcausality.REF.lucena.2001.123">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Lucena</surname>
+                  <given-names>MI</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Camargo</surname>
+                  <given-names>R</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Andrade</surname>
+                  <given-names>RJ</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Perez-Sanchez</surname>
+                  <given-names>CJ</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Sanchez De La Cuesta</surname>
+                  <given-names>F</given-names>
+                </name>
+              </person-group>
+              <article-title>Comparison of two clinical scales for causality assessment in hepatotoxicity.</article-title>
+              <source>Hepatology</source>
+              <year>2001</year>
+              <volume>33</volume>
+              <fpage>123</fpage>
+              <lpage>30</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Comparison of RUCAM to M &#x00026; V instruments on 215 cases of Spanish registry; the authors found many discrepancies between the two systems, with RUCAM being more discriminating and reliable than M &#x00026; V).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">11124828</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="MVcausality.REF.aithal.1999.731">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Aithal</surname>
+                  <given-names>PG</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Day</surname>
+                  <given-names>CP</given-names>
+                </name>
+              </person-group>
+              <article-title>The natural history of histologically proved drug induced liver disease.</article-title>
+              <source>Gut</source>
+              <year>1999</year>
+              <volume>44</volume>
+              <fpage>731</fpage>
+              <lpage>5</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Cohort of patients with drug induced liver injury identified in hospital records between 1978-96, and asked to return in follow up 1 to 19 years later; 13 of 33 [39%] had liver test abnormalities and 3 found to have significant abnormalities on liver biopsy; cases were categorized as likely or unlikely using a score of 11 in the M &#x00026; V system).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">10205214</pub-id>
+            </element-citation>
+          </ref>
+        </ref-list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Febuxostat" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Febuxostat</book-part-id>
+      <title-group>
+        <title>Febuxostat</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>29</day>
+          <month>1</month>
+          <year>2018</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Famotidine" document-type="chapter">Famotidine</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Felbamate" document-type="chapter">Felbamate</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Febuxostat.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Febuxostat.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Febuxostat is a newly introduced nonpurine xanthine oxidase inhibitor used for the treatment of gout. Chronic febuxostat therapy has been associated with minor serum aminotransferase elevations, but has yet to be linked to cases of clinically apparent acute liver injury.</p>
+        </sec>
+        <sec id="Febuxostat.Background">
+          <title>Background</title>
+          <p>Febuxostat (fe bux' oh stat) is a nonpurine inhibitor of xanthine oxidase that shares no structural homology to allopurinol or to hypoxanthine. Therapy with febuxostat leads to lowering of serum uric acid levels within a few weeks, and chronic therapy has been shown to decrease uric acid levels into target levels of &#x0003c;6 mg/dL and to decrease acute gouty attacks. Febuxostat was approved for use in Europe in 2008 and in the United States in 2009. Current indications include therapy and prevention of gout, uric acid nephropathy, and the hyperuricemia caused by malignancy and anticancer therapy. Febuxostat is not recommended as therapy of asymptomatic hyperuricemia. Febuxostat is available in tablets of 40 and 80 mg under the brand names of Uloric and Adenuric. The recommended initial dose for therapy of gout is 40 mg daily, which can be increased to 80 mg daily to achieve uric acid levels below 6 mg/dL. Common side effects include nausea, diarrhea, dizziness and precipitation of acute gout for which reason it is often given in combination with colchicine for the first few months of treatment.</p>
+        </sec>
+        <sec id="Febuxostat.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>Liver test abnormalities have been reported to occur in 2% to 13% (average ~3.5%) of patients receiving febuxostat, but the levels are generally mild-to-moderate and self-limited. The height, nature and timing of these abnormalities have not been described. However, liver test elevations were the major reason for febuxostat discontinuation for adverse events (~2%) in clinical trials, despite the fact that no cases of jaundice or acute hepatitis were reported. Since its approval and more wide-scale use, there have been several individual case reports of liver injury attributed to febuxostat. Most cases have been marked by serum aminotransferase elevations without jaundice arising within days of starting febuxostat, including enzyme elevations in the setting of DRESS syndrome. At least one instance of a mixed-cholestatic hepatitis without immunoallergic features, arising after several months of treatment has been described. The product label for febuxostat lists hepatic steatosis, hepatitis and hepatomegaly as potential side effects. Furthermore, several cases of acute liver failure during febuxostat therapy have been reported to pharmacovigilance databases. Another unrelated, nonpurine xanthine oxidase inhibitor (benzbromarone) was not approved for use in the United States because of its potential for hepatic toxicity.</p>
+          <p>Likelihood score: C (probable rare cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Febuxostat.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The mechanism of febuxostat hepatotoxicity is believed to be due to its hepatic metabolism, the major pathway being glucuronidation with minor metabolism via the CYP 450 system.</p>
+        </sec>
+        <sec id="Febuxostat.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>The minor liver test abnormalities are reported to be self-limited, resolving with stopping the drug and, in many instances, resolving rapidly even with drug continuation. No instances of acute liver failure or chronic liver injury have been reported due to febuxostat, but the clinical experience with this agent is limited.</p>
+          <p>Drug Class: <related-object source-id="livertox" document-id="AntiGoutAgents">Antigout Agents</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Febuxostat.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <boxed-text position="anchor" id="Febuxostat.BPI" orientation="portrait">
+          <p>
+            <bold>REPRESENTATIVE TRADE NAMES</bold>
+          </p>
+          <p>Febuxostat &#x02013; Uloric&#x000ae;</p>
+          <p>
+            <bold>DRUG CLASS</bold>
+          </p>
+          <p>Antigout Agents/Gout Suppressants</p>
+          <p>
+            <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=febuxostat">COMPLETE LABELING</ext-link>
+          </p>
+          <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+        </boxed-text>
+      </sec>
+      <sec id="Febuxostat.CHEMICAL_FORMULA_AND_STRUCTUR">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Febuxostat.T1" position="anchor" orientation="portrait">
+          <table>
+            <thead>
+              <tr>
+                <th id="hd_h_Febuxostat.T1_1_1_1_1" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Febuxostat.T1_1_1_1_2" rowspan="1" colspan="1">CAS REGISTRY NO</th>
+                <th id="hd_h_Febuxostat.T1_1_1_1_3" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Febuxostat.T1_1_1_1_4" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Febuxostat.T1_1_1_1_1" rowspan="1" colspan="1">Febuxostat</td>
+                <td headers="hd_h_Febuxostat.T1_1_1_1_2" rowspan="1" colspan="1">
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135089359">144060-53-7</ext-link>
+                </td>
+                <td headers="hd_h_Febuxostat.T1_1_1_1_3" rowspan="1" colspan="1">C16-H16-N2-O3-S</td>
+                <td headers="hd_h_Febuxostat.T1_1_1_1_4" rowspan="1" colspan="1">
+                  <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Febuxostat_Structure.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait">
+                    <alt-text>Febuxostat chemical structure</alt-text>
+                  </graphic>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Febuxostat.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 29 January 2018</p>
+        <ref-list id="Febuxostat.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Febuxostat.R1">
+            <mixed-citation publication-type="other">Grosser T, Smyth E, FitzGerald GA. Pharmacology of gout. In, Brunton LL, Chabner BA, Knollman BC, eds. Goodman &#x00026; Gilman's the pharmacological basis of therapeutics. 12th ed. New York: McGraw-Hill, 2011, pp. 994-1004.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Febuxostat.R2">
+            <mixed-citation publication-type="journal">Becker MA, Schumacher HR Jr, Wortmann RL, MacDonald PA, Palo WA, Eustace D, Vernillet L, Joseph-Ridge N. Febuxostat compared with allopurinol in patients with hyperuricemia and gout. N Engl J Med 2005; 353: 2450-61. <annotation><p><italic toggle="yes">(762 patients at 112 North American centers received either allopurinol [300 mg/day] or febuxostat [80, 120 or 240 mg/day] for 52 weeks; reduction of uric acid to &#x0003c;6 mg/dL achieved in 53-62% of febuxostat- vs 21% of allopurinol-treated patients; rates of acute gout were similar; liver test abnormalities occurred in 4-5% of febuxostat vs 4% of allopurinol recipients; most common cause of discontinuation [2.3%]).</italic></p></annotation><pub-id pub-id-type="pmid">16339094</pub-id></mixed-citation>
+          </ref>
+          <ref id="Febuxostat.R3">
+            <mixed-citation publication-type="journal">Becker MA, Schumacher HR, Wortmann RL, MacDonald PA, Palo WA, Eustace D, Vernillet L, Joseph-Ridge N. Febuxostat, a novel nonpurine selective inhibitor of xanthine oxidase. A twenty-eight-day, multicenter, phase II randomized, double-blind, placebo-controlled, dose-response clinical trial examining safety and efficacy in patients with gout. Arthr Rheum 2005; 52: 916-23. <annotation><p><italic toggle="yes">(153 patients were randomized to febuxostat [40, 80 or 120 mg/day] or placebo for 28 days; fall of uric acid to &#x0003c;6 mg/dL occurred in 56-94% of treated but none on placebo; abnormal liver tests arose in 9.5% of febuxostat, but none of placebo-recipients).</italic></p></annotation><pub-id pub-id-type="pmid">15751090</pub-id></mixed-citation>
+          </ref>
+          <ref id="Febuxostat.R4">
+            <mixed-citation publication-type="journal">Bruce SP. Febuxostat: a selective xanthine oxidase inhibitor for the treatment of hyperuricemia and gout. Ann Pharmacother 2006; 40: 2187-94. <annotation><p><italic toggle="yes">(Review of pharmacology, mechanisms of action, clinical efficacy and side effects of febuxostat; liver test abnormalities occur in 7.5-13.5% of patients on febuxostat compared to 0% on placebo).</italic></p></annotation><pub-id pub-id-type="pmid">17132810</pub-id></mixed-citation>
+          </ref>
+          <ref id="Febuxostat.R5">
+            <mixed-citation publication-type="journal">Yu KH. Febuxostat: a novel non-purine selective inhibitor of xanthine oxidase for the treatment of hyperuricemia in gout. Recent Pat Inflamm Allergy Drug Discov 2007; 1: 69-75. <annotation><p><italic toggle="yes">(Critical review of literature on febuxostat).</italic></p></annotation><pub-id pub-id-type="pmid">19075968</pub-id></mixed-citation>
+          </ref>
+          <ref id="Febuxostat.R6">
+            <mixed-citation publication-type="journal">Schumacher HR Jr, Becker MA, Wortmann RL, MacDonald PA, Hunt B, Streit J, Lademacher C, Joseph-Ridge N. Effects of febuxostat versus allopurinol and placebo in reducing serum urate in subjects with hyperuricemia and gout: a 28-week, phase III, randomized, double- blind, parallel-group trial. Arthritis Rheum 2008; 59: 1540-8. <annotation><p><italic toggle="yes">(1072 patients with gout randomized to febuxostat, allopurinol or placebo and treated for 28 weeks; abnormal liver tests [&#x0003e;1.5 times ULN] occurred in 4-6% on febuxostat, 2% placebo, and 6% allopurinol).</italic></p></annotation><pub-id pub-id-type="pmid">18975369</pub-id></mixed-citation>
+          </ref>
+          <ref id="Febuxostat.R7">
+            <mixed-citation publication-type="journal">Hair PI, McCormack PL, Keating GM. Febuxostat. Drugs 2008; 68: 1865-74. <annotation><p><italic toggle="yes">(Review of mechanism of action, pharmacokinetics, tolerability and efficacy of febuxostat; in pooled analyses, liver test elevations occurred in 3.5% of febuxostat treated [80 mg/day] leading to withdrawal in 2%, compared to 4.2% rate of liver test elevations and 0.5% withdrawals with allopurinol [300 mg/day]).</italic></p></annotation><pub-id pub-id-type="pmid">18729537</pub-id></mixed-citation>
+          </ref>
+          <ref id="Febuxostat.R8">
+            <mixed-citation publication-type="journal">Pascual E, Sivera F, Yasothan U, Kirkpatrick P. Febuxostat. Nat Rev Drug Discov 2009; 8: 191-2. <annotation><p><italic toggle="yes">(Brief review of febuxostat therapy in gout).</italic></p></annotation><pub-id pub-id-type="pmid">19247302</pub-id></mixed-citation>
+          </ref>
+          <ref id="Febuxostat.R9">
+            <mixed-citation publication-type="journal">Schumacher HR Jr, Becker MA, Lloyd E, MacDonald PA, Lademacher C. Febuxostat in the treatment of gout: 5-yr findings of the FOCUS efficacy and safety study. Rheumatology (Oxford) 2009; 48:188-94. <annotation><p><italic toggle="yes">(Open label extension of phase 2 study [Becker 2005], of 116 patients with dose adjustment of 40-120 mg/day; gradual decrease in episodes of acute gout from 25/month to none, but also gradual increasing drop out rate [to 58 patients at 5 years]; liver test abnormalities in 13%, requiring discontinuation in 3%, no hepatitis or jaundice reported).</italic></p></annotation><pub-id pub-id-type="pmid">19141576</pub-id></mixed-citation>
+          </ref>
+          <ref id="Febuxostat.R10">
+            <mixed-citation publication-type="journal">Becker MA, Schumacher HR, Macdonald PA, Lloyd E, Lademacher C. Clinical efficacy and safety of successful longterm urate lowering with febuxostat or allopurinol in subjects with gout. J Rheumatol 2009; 36; 1273-82. <annotation><p><italic toggle="yes">(1086 subjects enrolled in extension study of febuxostat or allopurinol for 31-40 months; ALT elevations ultimately required withdrawal in 9 of 801 patients [1.1%] on febuxostat [80 mg/day], two episodes of jaundice, but both thought to be due to unrelated biliary disease--stone and bile duct cancer).</italic></p></annotation><pub-id pub-id-type="pmid">19286847</pub-id></mixed-citation>
+          </ref>
+          <ref id="Febuxostat.R11">
+            <mixed-citation publication-type="journal">Becker MA, MacDonald PA, Hunt B, Gunawardhana L. Treating hyperuricemia of gout: safety and efficacy of febuxostat and allopurinol in older versus younger subjects. Nucleosides Nucleotides Nucleic Acids 2011; 30: 1011-7. <annotation><p><italic toggle="yes">(Reanalysis of a 6 month trial of febuxostat comparing 374 older [&#x0003e;65 years of age] to 1895 younger patients found ALT elevations were less common among older than younger patients [10% vs 3% were &#x0003e;2 times, 3% vs 1% &#x0003e;3 times ULN], and no patient developed jaundice in association with ALT elevations).</italic></p></annotation><pub-id pub-id-type="pmid">22132950</pub-id></mixed-citation>
+          </ref>
+          <ref id="Febuxostat.R12">
+            <mixed-citation publication-type="journal">Gray CL, Walters-Smith NE. Febuxostat for treatment of chronic gout. Am J Health Syst Pharm 2011; 68: 389-98. <annotation><p><italic toggle="yes">(Review of structure, mechanism of action, pharmacology, clinical efficacy and safety of febuxostat; the most commmon adverse event leading to discontinuation was ALT elevations, which occurred in 6.6% of recipients).</italic></p></annotation><pub-id pub-id-type="pmid">21330679</pub-id></mixed-citation>
+          </ref>
+          <ref id="Febuxostat.R13">
+            <mixed-citation publication-type="journal">Faruque LI, Ehteshami-Afshar A, Wiebe N, Tjosvold L, Homik J, Tonelli M. A systematic review and meta-analysis on the safety and efficacy of febuxostat versus allopurinol in chronic gout. Semin Arthritis Rheum 2013; 43: 367-75. <annotation><p><italic toggle="yes"> (Review of efficacy and safety of febuxostat in comparison to allopurinol concludes that there is no evidence to justify the routine use of febuxostat at present; no discussion of hepatotoxicity or ALT elevations). </italic></p></annotation><pub-id pub-id-type="pmid">24326033</pub-id></mixed-citation>
+          </ref>
+          <ref id="Febuxostat.R14">
+            <mixed-citation publication-type="journal">Febuxostat: hepatic failure. Prescrire Int 2013; 22: 297. <annotation><p><italic toggle="yes">(News report mentions that 13 reports of acute liver failure during febuxostat therapy have been reported to the European pharmacovigilance databse, 6 of which were fatal).</italic></p></annotation><pub-id pub-id-type="pmid">24600733</pub-id></mixed-citation>
+          </ref>
+          <ref id="Febuxostat.R15">
+            <mixed-citation publication-type="journal">Huang X, Du H, Gu J, Zhao D, Jiang L, Li X, Zuo X, et al. An allopurinol-controlled, multicenter, randomized, double-blind, parallel between-group, comparative study of febuxostat in Chinese patients with gout and hyperuricemia. Int J Rheum Dis 2014; 17: 679-86. <annotation><p><italic toggle="yes">(Trial of two doses of febuxostat vs allopurinol in 512 Chinese patients with gout found similar rates of side effects, liver test abnormalities arising in 3.5% of allopurinol and 2.9% and 1.2% of febuxostat treated subjects; no mention of clinically apparent liver injury).</italic></p></annotation><pub-id pub-id-type="pmid">24467549</pub-id></mixed-citation>
+          </ref>
+          <ref id="Febuxostat.R16">
+            <mixed-citation publication-type="journal">Ito K, Ueda Y, Miyazawa H, Kaku Y, Hirai K, Hoshino T, Nabata A, et al. Acute severe liver dysfunction induced by febuxostat in a patient undergoing hemodialysis. CEN Case Rep 2014; 3: 158-61. <annotation><p><italic toggle="yes">(58 year old man with type 2 dfiabetes and chronic renal failure developed marked serum enzyme elevations within 2 days of starting hemodialysis and switching from allopurinol to febuxostat [ALT rising from 13 to 1134 U/L, Alk P and bilirubin normal], abnormalities resolving within 2 weeks of stopping).</italic></p></annotation><pub-id pub-id-type="pmid">28509193</pub-id></mixed-citation>
+          </ref>
+          <ref id="Febuxostat.R17">
+            <mixed-citation publication-type="journal">Chou HY, Chen CB, Cheng CY, Chen YA, Ng CY, Kuo KL, Chen WL, Chen CH. Febuxostat-associated drug reaction with eosinophilia and systemic symptoms (DRESS). J Clin Pharm Ther 2015; 40: 689-92. <annotation><p><italic toggle="yes"> (81 year old Taiwanese man developed fever, severe rash, lymphadenopathy and facial edema without eosinophilia 2 days after starting febuxostat [ALT 66 rising to 210 U/L, bilirubin normal], resolving within 3 weeks of stopping).</italic></p></annotation><pub-id pub-id-type="pmid">26365588</pub-id></mixed-citation>
+          </ref>
+          <ref id="Febuxostat.R18">
+            <mixed-citation publication-type="journal">Chalasani N, Bonkovsky HL, Fontana R, Lee W, Stolz A, Talwalkar J, Reddy KR, et al.; United States Drug Induced Liver Injury Network. Features and outcomes of 899 patients with drug-induced liver injury: The DILIN Prospective Study. Gastroenterology 2015; 148: 1340-52.e7. <annotation><p><italic toggle="yes">(Among 899 cases of drug induced liver injury enrolled in a US prospective study between 2004 and 2013, 8 [0.9%] were attributed to agents used to treat gout, including 7 to allopurinol and 1 to febuxostat [Bohm 2016]).</italic></p></annotation><pub-id pub-id-type="pmid">25754159</pub-id></mixed-citation>
+          </ref>
+          <ref id="Febuxostat.R19">
+            <mixed-citation publication-type="journal">Bohm M, Vuppalanchi R, Chalasani N; Drug-Induced Liver Injury Network (DILIN). Febuxostat-induced acute liver injury. Hepatology 2016; 63: 1047-9. <annotation><p><italic toggle="yes"> (34 year old man with gout developed jaundice 2 months after adding febuxostat to a regimen of allopurinol and colchicine [bilirubin 8.3 mg/dL, ALT 148 U/L, Alk P 201 U/L] with persistence of injury for over a month at the time of a normal ERCP, but then resolution within 3 weeks of stopping febuxostat).</italic></p></annotation><pub-id pub-id-type="pmid">26679098</pub-id></mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec id="Febuxostat.OTHER_REFERENCE_LINKS" sec-type="link-group">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=Febuxostat+AND+Human%5BMH%5D+AND+(drug-induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI+OR+hepatitis,+toxic%5BMH%5D)+AND+(%222008/1/1%22%5BEDat%5D%3A%222999/12/31%22%5BEDat%5D)">Recent References on Febuxostat: from PubMed.gov</ext-link>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Febuxostat">: from ClinicalTrials.gov</ext-link>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Febuxostat">Trials on Febuxostat: from ClinicalTrials.gov</ext-link>
+            </p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

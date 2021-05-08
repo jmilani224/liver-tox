@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Bortezomib" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Bortezomib</book-part-id>
+      <title-group>
+        <title>Bortezomib</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>30</day>
+          <month>9</month>
+          <year>2017</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Boceprevir" document-type="chapter">Boceprevir</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Bosentan" document-type="chapter">Bosentan</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Bortezomib.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Bortezomib.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Bortezomib is a proteasome inhibitor and antineoplastic agent that is used in treatment of refractory multiple myeloma and certain lymphomas. Bortezomib is associated with a low rate of serum enzyme elevations during treatment and to rare instances of clinically apparent, acute liver injury.</p>
+        </sec>
+        <sec id="Bortezomib.Background">
+          <title>Background</title>
+          <p>Bortezomib (bor tez&#x02019; oh mib) is an orally available, small molecule inhibitor of the 26S proteasome, the intracellular complex that degrades proteins involved in cell signaling and cell cycle regulation. Blocking proteasome activity prevents activation of factors involved in cell growth and resistance to chemotherapy induced apoptosis, leading to cancer cell death. Preclinical studies in vitro and in vivo suggested that bortezomib had activity against several hematologic malignancies. Clinical trials of bortezomib in patients with multiple myeloma showed improvements in progression free survival. Bortezomib received approval for use in the United States in 2003 for therapy of multiple myeloma and mantle cell lymphoma when given in combination with other chemotherapeutic agents. Bortezomib is available in powdered form in vials of 3.5 mg under the brand name Velcade. The typical starting dose is 1.3 mg/m<sup>2</sup> intravenously or subcutaneously given once or twice weekly, usually in combination with other agents such as melphalan and prednisone. The recommended dosage and dose regimen varies by indication, tolerance and hepatic function. Common side effects include nausea, diarrhea, constipation, anorexia, fatigue, thrombocytopenia, neutropenia, anemia peripheral neuropathy, rash and fever. Uncommon, but potentially severe side effects include peripheral neuropathy, cardiac and pulmonary toxicity, bone marrow suppression and tumor lysis syndrome.</p>
+        </sec>
+        <sec id="Bortezomib.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>In large clinical trials of bortezomib, elevations in serum aminotransferase levels were common, occurring in ~10% of patients. However, values greater than 5 times the upper limit of normal (ULN) were rare, occurring in &#x0003c;1% of recipients. Cases of clinically apparent liver injury including acute liver failure have been reported in patients receiving bortezomib; however, in many instances multiple concomitant medications were being taken and the specific role of bortezomib in causing the liver injury was not always clear. The onset of injury was typically during the first cycle of therapy and usually, but not always recurred with retreatment. Cases characterized by acute hepatic necrosis and others by cholestatic hepatitis have been published, some of which were fatal. Hepatotoxici15ty is listed as a warning in the product label for bortezomib and monitoring of serum enzymes during treatment is recommended.</p>
+          <p>Bortezomib is typically given with other chemotherapeutic agents including cyclophosphamide and dexamethasone which can cause reactivation of hepatitis B. However, there have been no reports of reactivation of hepatitis B specifically attributable to bortezomib alone.</p>
+          <p>Likelihood score: C (probable cause of clinically apparent drug induced liver injury).</p>
+        </sec>
+        <sec id="Bortezomib.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The mechanisms of liver injury accounting for serum enzyme elevations and hepatic toxicity during bortezomib therapy are not known. Bortezomib is metabolized in the liver largely through the CYP 3A4 pathway and liver injury may be related to production of a toxic intermediate. Bortezomib is susceptible to drug-drug interactions with agents that inhibit or induce hepatic CYP 3A4 activity.</p>
+        </sec>
+        <sec id="Bortezomib.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>Serum aminotransferase elevations above 5 times the upper limit of normal (if confirmed) should lead to dose reduction or temporary cessation. Clinically apparent liver injury should prompt immediate interruption of bortezomib therapy. Cases of hepatic failure attributed to bortezomib have been described, but no instance of chronic hepatitis or vanishing bile duct syndrome. There is little information on cross reactivity in risk for hepatic injury between bortezomib and other cancer chemotherapeutic agents, including the tyrosine kinase inhibitors and other proteasome inhibitors such as carfilzomib, but, because of the differences in chemical structure, there is little reason to suggest that there might be.</p>
+          <p>Drug Class: <related-object source-id="livertox" document-id="AntineoplasticAgents">Antineoplastic Agents</related-object>, <related-object source-id="livertox" document-id="ProteinKinaseInhibit">Protein Kinase Inhibitors</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Bortezomib.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <boxed-text position="anchor" id="Bortezomib.BPI" orientation="portrait">
+          <p>
+            <bold>REPRESENTATIVE TRADE NAMES</bold>
+          </p>
+          <p>Bortezomib &#x02013; Velcade&#x000ae;</p>
+          <p>
+            <bold>DRUG CLASS</bold>
+          </p>
+          <p>Antineoplastic Agents</p>
+          <p>
+            <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?label=all&#x00026;query=Bortezomib">COMPLETE LABELING</ext-link>
+          </p>
+          <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+        </boxed-text>
+      </sec>
+      <sec id="Bortezomib.CHEMICAL_FORMULA_AND_STRUCTUR">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Bortezomib.T1" position="anchor" orientation="portrait">
+          <table>
+            <thead>
+              <tr>
+                <th id="hd_h_Bortezomib.T1_1_1_1_1" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Bortezomib.T1_1_1_1_2" rowspan="1" colspan="1">CAS REGISTRY NO.</th>
+                <th id="hd_h_Bortezomib.T1_1_1_1_3" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Bortezomib.T1_1_1_1_4" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Bortezomib.T1_1_1_1_1" rowspan="1" colspan="1">Bortezomib</td>
+                <td headers="hd_h_Bortezomib.T1_1_1_1_2" rowspan="1" colspan="1">
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135051251">179324-69-7</ext-link>
+                </td>
+                <td headers="hd_h_Bortezomib.T1_1_1_1_3" rowspan="1" colspan="1">C19-H25-B-N4-O4</td>
+                <td headers="hd_h_Bortezomib.T1_1_1_1_4" rowspan="1" colspan="1">
+                  <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Bortezomib_structure.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait">
+                    <alt-text>Bortezomib chemical structure</alt-text>
+                  </graphic>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Bortezomib.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 30 September 2017</p>
+        <ref-list id="Bortezomib.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Bortezomib.R1">
+            <mixed-citation publication-type="other">Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999.<annotation><p><italic toggle="yes">(Review of hepatotoxicity published in 1999 before the availability of proteasome inhibitors such as bortezomib).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Bortezomib.R2">
+            <mixed-citation publication-type="other">DeLeve LD. Erlotinib. Cancer chemotherapy. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013, pp. 556.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of cancer chemotherapeutic agents published; bortezomib is listed as being implicated in causing hepatocellular injury).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Bortezomib.R3">
+            <mixed-citation publication-type="other">Chabner BA, Barnes J, Neal J, Olson E, Mujagic H, Sequist L, Wilson W, et al. Targeted therapies: tyrosine kinase inhibitors, monoclonal antibodies, and cytokines. In, Brunton LL, Chabner BA, Knollman BC, eds. Goodman &#x00026; Gilman's the pharmacological basis of therapeutics. 12th ed. New York: McGraw-Hill, 2011, pp. 1731-54.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Bortezomib.R4">
+            <mixed-citation publication-type="journal">Richardson PG, Barlogie B, Berenson J, Singhal S, Jagannath S, Irwin D, Rajkumar SV, et al. A phase 2 study of bortezomib in relapsed, refractory myeloma. N Engl J Med 2003; 348: 2609-17. <annotation><p><italic toggle="yes">(Among 193 patients with refractory multiple myeloma treated with bortezomib in cycles for up to 24 weeks, a clinical response occurred in 35% of patients and common side effects were nausea, diarrhea, fatigue, thrombocytopenia and neuropathy; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">12826635</pub-id></mixed-citation>
+          </ref>
+          <ref id="Bortezomib.R5">
+            <mixed-citation publication-type="journal">Bortezomib (Velcade) for multiple myeloma. Med Lett Drugs Ther 2003; 45 (1161): 57-8. <annotation><p><italic toggle="yes">(Concise review of mechanism of action, efficacy, safety and cost of bortezomib shortly after its approval for use in the US; does not mention hepatotoxicity or serum enzyme elevations).</italic></p></annotation><pub-id pub-id-type="pmid">12865865</pub-id></mixed-citation>
+          </ref>
+          <ref id="Bortezomib.R6">
+            <mixed-citation publication-type="journal">Rosi&#x000f1;ol L, Montoto S, Cibeira MT, Blad&#x000e9;. Bortezomib-induced severe hepatitis in multiple myeloma: a case report. Arch Intern Med 2005; 165: 464-5. <annotation><p><italic toggle="yes">(68 year old man with advanced refractory multiple myeloma developed septic shock on the 6th day of cycle 1 of therapy, with subsequent increase in liver enzymes [ALT 2865 U/L, LDH 6448 U/L] followed by rapid recovery, but recurrence with two subsequent cycles [peak bilirubin 2.8 mg/dL, ALT 2750 U/L, LDH 6129 U/L] and rapid recovery each time).</italic></p></annotation><pub-id pub-id-type="pmid">15738379</pub-id></mixed-citation>
+          </ref>
+          <ref id="Bortezomib.R7">
+            <mixed-citation publication-type="journal">Richardson PG, Sonneveld P, Schuster MW, Irwin D, Stadtmauer EA, Facon T, Harousseau JL, et al.; Assessment of Proteasome Inhibition for Extending Remissions (APEX) Investigators. Bortezomib or high-dose dexamethasone for relapsed multiple myeloma. N Engl J Med 2005; 352: 2487-98. <annotation><p><italic toggle="yes">(Among 669 patients with refractory multiple myeloma treated with multiple cycles of bortezomib or dexamethasone, response rates and survival were greater with bortezomib; common side effects were diarrhea, nausea, fatigue, constipation, peripheral neuropathy and thrombocytopenia; no mention of hepatotoxicity or ALT elevations).</italic></p></annotation><pub-id pub-id-type="pmid">15958804</pub-id></mixed-citation>
+          </ref>
+          <ref id="Bortezomib.R8">
+            <mixed-citation publication-type="journal">Cornelis T, Beckers EA, Driessen AL, van der Sande FM, Koek GH. Bortezomib-associated fatal liver failure in a haemodialysis patient with multiple myeloma. Clin Toxicol (Phila) 2012; 50: 444-5. <annotation><p><italic toggle="yes">(70 year old man with renal failure on hemodialysis and multiple myeloma developed jaundice ten days after the first dose of bortezomib and dexamethasone [bilirubin 8.0 mg/dL, ALT 114 U/L, Alk P 461 U/L], with progression to hepatic failure and death 2 months later).</italic></p></annotation><pub-id pub-id-type="pmid">22462599</pub-id></mixed-citation>
+          </ref>
+          <ref id="Bortezomib.R9">
+            <mixed-citation publication-type="journal">Paudice N, Farsetti S, Caroti L, Bandini S, Ciuti G, Tempestini A, Perfetto F, et al. [Severe recurrent intrahepatic cholestasis in systemic AL amyloidosis without obvious liver involvement: unexplained hepatic toxicity or a case of misdiagnosed liver amyloidosis?]. G Ital Nefrol 2012 Jan-Feb; 29 (1): 92-7. Italian. <annotation><p><italic toggle="yes">(50 year old woman with renal failure, multiple myeloma and amyloidosis developed jaundice 10 days after starting bortezomib and dexamethasone, which resolved despite continuing bortezomib, but recurred after stopping and was suspected to be due to amyloidosis).</italic></p></annotation><pub-id pub-id-type="pmid">22388910</pub-id></mixed-citation>
+          </ref>
+          <ref id="Bortezomib.R10">
+            <mixed-citation publication-type="journal">Kim GP, Mahoney MR, Szydlo D, Mok TS, Marshke R, Holen K, Picus J, et al. An international, multicenter phase II trial of bortezomib in patients with hepatocellular carcinoma. Invest New Drugs 2012; 30: 387-94. <annotation><p><italic toggle="yes">(Among 35 patients with hepatocellular carcinoma treated with 1 to 12 cycles of bortezomib, the confirmed response rate was only 4% and toxicity was common; ALT elevations above 5 times ULN occurred in 2 patients and one died to hepatic failure).</italic></p></annotation><pub-id pub-id-type="pmid">20839030</pub-id></mixed-citation>
+          </ref>
+          <ref id="Bortezomib.R11">
+            <mixed-citation publication-type="journal">Laubach J, Hideshima T, Richardson P, Anderson K. Clinical translation in multiple myeloma: from bench to bedside. Semin Oncol 2013; 40: 549-53. <annotation><p><italic toggle="yes">(Review of recent development of new agents to treat multiple myeloma, including bortezomib which showed activity against myeloma cell lines and was then evaluated clinically). </italic></p></annotation><pub-id pub-id-type="pmid">24135399</pub-id></mixed-citation>
+          </ref>
+          <ref id="Bortezomib.R12">
+            <mixed-citation publication-type="journal">Wang H, Guan F, Chen D, Dou QP, Yang H. An analysis of the safety profile of proteasome inhibitors for treating various cancers. Expert Opin Drug Saf 2014: 13: 1043-54. <annotation><p><italic toggle="yes">(Review of efficacy and safety of bortezomib and several second generation proteasome inhibitors including carfilzomib, marizomib, ixazomib and oprozomib; no discussion of hepatotoxicity or serum enzyme elevations).</italic></p></annotation><pub-id pub-id-type="pmid">25005844</pub-id></mixed-citation>
+          </ref>
+          <ref id="Bortezomib.R13">
+            <mixed-citation publication-type="journal">Till BG, Li H, Bernstein SH, Fisher RI, Burack WR, Rimsza LM, Floyd JD, DaSilva MA, et al. Phase II trial of R-CHOP plus bortezomib induction therapy followed by bortezomib maintenance for newly diagnosed mantle cell lymphoma: SWOG S0601. Br J Haematol 2016; 172: 208-18. <annotation><p><italic toggle="yes"> (Among 65 patients with mantle cell lymphoma treated with 6 cycles of CHOP with bortezomib followed by bortezomib maintenance, during which adverse events included neuropathy in 72% of patients; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">26492567</pub-id></mixed-citation>
+          </ref>
+          <ref id="Bortezomib.R14">
+            <mixed-citation publication-type="journal">Lu J, Chen WM, Geng CY, Durie BG, Huang XJ. Efficacy and safety of bortezomib in multiple myeloma patients with hepatitis B: a multicenter retrospective study. Chin Med J (Engl) 2016; 129: 274-8. <annotation><p><italic toggle="yes">(Retrospective review of outcome of bortezomib therapy in 25 HBsAg-positive patients with multiple myeloma [20 treated with nucleoside analogues for HBV] found no evidence of reactivation, ALT and HBV DNA levels remaining normal or negative).</italic></p></annotation><pub-id pub-id-type="pmid">26831227</pub-id></mixed-citation>
+          </ref>
+          <ref id="Bortezomib.R15">
+            <mixed-citation publication-type="journal">Jain A, Malhotra P, Suri V, Varma S, Das A, Mitra S. Cholestasis in a patient of multiple myeloma: a rare occurrence of bortezomib induced liver injury. Indian J Hematol Blood Transfus 2016; 32 (Suppl 1): 181-3. <annotation><p><italic toggle="yes"> (A 54 year old man with multiple myeloma developed jaundice a few days into a second 4-week cycle of cyclosphosphamide, dexamethasone and bortezomib [bilirubin 15.5 mg/dL, ALT 367 U/L, Alk P 2456 U/L], recovering in 4 weeks and later tolerating cyclophosphamide and thalidomide).</italic></p></annotation><pub-id pub-id-type="pmid">27408386</pub-id></mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec id="Bortezomib.OTHER_REFERENCE_LINKS" sec-type="link-group">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=Bortezomib+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D%3A%222999/12/31%22%5BEDat%5D)">Recent References on Bortezomib: from PubMed.gov</ext-link>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Bortezomib">Trials on Bortezomib: from ClinicalTrials.gov</ext-link>
+            </p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

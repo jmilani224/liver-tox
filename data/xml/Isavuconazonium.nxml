@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Isavuconazonium" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Isavuconazonium</book-part-id>
+      <title-group>
+        <title>Isavuconazonium</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>27</day>
+          <month>4</month>
+          <year>2018</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Iron" document-type="chapter">Iron</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Isocarboxazid" document-type="chapter">Isocarboxazid</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Isavuconazonium.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Isavuconazonium.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Isavuconazonium is a triazole antifungal agent used primarily in the treatment of invasive aspergillosis and mucormycosis infections. Isavuconazonium is associated with a low rate of transient and asymptomatic serum aminotransferase elevations during therapy, but has not been linked to instances of clinically apparent acute drug induced liver injury.</p>
+        </sec>
+        <sec id="Isavuconazonium.Background">
+          <title>Background</title>
+          <p>Isavuconazonium (eye" sa vue koe" na zoe' nee um) is a synthetic triazole and prodrug of isavuconazole, the active moiety. Similar to other triazoles, such as voriconazole and itraconazole, isavuconazole is believed to act through inhibition of the fungal 14&#x003b1;-ergosterol demethylase that is responsible for converting lanosterol to ergosterol, which blocks fungal cell membrane synthesis. Isavuconazonium has a broad spectrum of activity particularly against many aspergillus, candida and mucormycosis species. Isavuconazonium was approved for use in the United States in 2016. Current indications include treatment of invasive aspergillosis and mucormycosis infections in adults. It is under active evaluation as therapy of invasive candida infections. Isavuconazonium is available as capsules of 186 mg and as powder for reconstitution in single use vials of 372 mg under the brand name Cresemba. The recommended regimen is 372 mg every 8 hours for 2 days, and then 372 mg daily until cure or clearance of the fungal infection. Isavuconazonium is typically given intravenously for the first few days and then in oral forms, the recommended total daily dose being the same. Common side effects include nausea, diarrhea, headache, constipation, cough, dyspnea, peripheral edema and back pain. Intravenous administration can also be accompanied by hypotension, chills, dizziness and hypesthesia.</p>
+        </sec>
+        <sec id="Isavuconazonium.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>Transient elevations in serum aminotransferase levels occur in 1% to 5% of patients on isavuconazonium. These elevations are usually asymptomatic and self-limited, but occasional patients require discontinuation of isavuconazonium because of ALT elevations. Clinically apparent hepatotoxicity has not been reported with isavuconazonium, but it has had limited general use. Other triazoles, such as fluconazole and voriconazole that have been available for more than a decade and have had wide scale use, have been associated with rare instances of clinically apparent liver injury. The injury arises within the first few months of therapy and the pattern of serum enzyme elevations has been variable from cholestatic to hepatocellular. Several cases of acute liver failure attributed to other triazoles have been reported. Immunoallergic features and autoantibodies are uncommon. Recovery upon stopping therapy generally takes 6 to 10 weeks but, in some cases, the time to complete resolution may be prolonged.</p>
+          <p>Likelihood score: E* (unproven but suspected cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Isavuconazonium.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The cause of clinically apparent hepatotoxicity from isavuconazonium is unknown; however, it may have some correlation with its ability to alter human sterol synthesis. Because isavuconazonium is a substrate for several P450 enzymes (CYP 3A4 and 3A5), it has the potential to cause significant drug-drug interactions, including elevations in plasma levels of other medications that are metabolized by these P450 enzymes, sometimes resulting in toxicity.</p>
+        </sec>
+        <sec id="Isavuconazonium.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>The serum enzyme elevations attributed to isavuconazonium therapy are usually mild and transient and rarely require dose adjustment or discontinuation. Cases of clinically apparent liver injury have not been reported with isavuconazonium, but have been observed with other structurally similar antifungal triazoles. There is no information on cross reactivity of hepatic injury between isavuconazonium and other antifungal azoles. While a few reports suggest that there is little cross reactivity, use of isavuconazonium in patients with a history of acute liver injury from another azole should be started with caution and with appropriate monitoring.</p>
+          <p>Drug Class: <related-object source-id="livertox" document-id="AntifungalAgents">Antifungal Agents</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Isavuconazonium.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <boxed-text position="anchor" id="Isavuconazonium.BPI" orientation="portrait">
+          <p>
+            <bold>REPRESENTATIVE TRADE NAMES</bold>
+          </p>
+          <p>Isavuconazonium &#x02013; Cresemba&#x000ae;</p>
+          <p>
+            <bold>DRUG CLASS</bold>
+          </p>
+          <p>Antifungal Agents</p>
+          <p>
+            <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Isavuconazonium">COMPLETE LABELING</ext-link>
+          </p>
+          <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+        </boxed-text>
+      </sec>
+      <sec id="Isavuconazonium.CHEMICAL_FORMULA_AND_STR">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Isavuconazonium.T1" position="anchor" orientation="portrait">
+          <table>
+            <thead>
+              <tr>
+                <th id="hd_h_Isavuconazonium.T1_1_1_1_1" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Isavuconazonium.T1_1_1_1_2" rowspan="1" colspan="1">CAS REGISTRY NO.</th>
+                <th id="hd_h_Isavuconazonium.T1_1_1_1_3" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Isavuconazonium.T1_1_1_1_4" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Isavuconazonium.T1_1_1_1_1" rowspan="1" colspan="1">Isavuconazonium</td>
+                <td headers="hd_h_Isavuconazonium.T1_1_1_1_2" rowspan="1" colspan="1">
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://163642577">742049-41-8</ext-link>
+                </td>
+                <td headers="hd_h_Isavuconazonium.T1_1_1_1_3" rowspan="1" colspan="1">C35-H35-F2-N8-O5-S</td>
+                <td headers="hd_h_Isavuconazonium.T1_1_1_1_4" rowspan="1" colspan="1">
+                  <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Isavuconazonium_structure.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait">
+                    <alt-text>Isavuconazonium chemical structure</alt-text>
+                  </graphic>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Isavuconazonium.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 27 April 2018</p>
+        <ref-list id="Isavuconazonium.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Isavuconazonium.R1">
+            <mixed-citation publication-type="other">Zimmerman HJ. Antifungal agents. In, Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999, pp. 609-11.<annotation><p><italic toggle="yes">(Expert review of hepatotoxicity of antifungal agents published in 1999 before the availability of isavuconazonium).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Isavuconazonium.R2">
+            <mixed-citation publication-type="other">Moseley RH. Antifungal agents. Antibacterial and antifungal agents. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013, pp. 470-81.<annotation><p><italic toggle="yes"> (Review of hepatotoxicity of antifungal agents; no mention of isavuconazonium).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Isavuconazonium.R3">
+            <mixed-citation publication-type="other">Bennett JE. Antimicrobial agents: antifungal agents. In, Brunton LL, Chabner BA, Knollman BC, eds. Goodman &#x00026; Gilman&#x02019;s the pharmacological basis of therapeutics. 12th ed. New York: McGraw-Hill, 2011, pp. 1571-92.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Isavuconazonium.R4">
+            <mixed-citation publication-type="journal">Fischer MA, Winkelmayer WC, Rubin RH, Avorn J. The hepatotoxicity of antifungal medications in bone marrow transplant recipients. Clin Infect Dis 2005; 41: 301-7. <annotation><p><italic toggle="yes">(Among 587 patients undergoing bone marrow transplantation, 123 had evidence of liver injury after transplant; case control analysis found increased rate of liver injury associated with fluconazole and amphotericin; ketoconazole, itraconazole, voriconazole and isavuconazonium were infrequently or not used and could not be evaluated).</italic></p></annotation><pub-id pub-id-type="pmid">16007524</pub-id></mixed-citation>
+          </ref>
+          <ref id="Isavuconazonium.R5">
+            <mixed-citation publication-type="journal">Wingard J, Leather H. Hepatotoxicity associated with antifungal therapy after bone marrow transplantation. Clin Infect Dis 2005; 41: 308-10. <annotation><p><italic toggle="yes">(Editorial in response to the article by Fisher et al. [2005]; discusses the difficulties of detection, diagnosis, attribution and management of liver test abnormalities after bone marrow transplantation).</italic></p></annotation><pub-id pub-id-type="pmid">16007525</pub-id></mixed-citation>
+          </ref>
+          <ref id="Isavuconazonium.R6">
+            <mixed-citation publication-type="journal">Song J, Deresinski S. Hepatotoxicity of antifungal agents. Curr Opin Investig Drugs 2005; 6: 170-7. <annotation><p><italic toggle="yes">(Extensive review of hepatotoxicity from antifungals; pooled data on 2090 patients treated with voriconazole found ALT elevations in 11-19%, discontinuation for ALT elevations in 1%; in addition, 19 cases [0.9%] of hepatic failure have been reported in patients receiving voriconazole in clinical trials).</italic></p></annotation><pub-id pub-id-type="pmid">15751740</pub-id></mixed-citation>
+          </ref>
+          <ref id="Isavuconazonium.R7">
+            <mixed-citation publication-type="journal">Girois SB, Chapuis F, Decullier E, Revol BG. Adverse effects of antifungal therapies in invasive fungal infections: review and meta-analysis. Eur J Clin Microbiol Infect Dis 2006; 25: 138-49. <annotation><p><italic toggle="yes">(Systematic review of adverse effects of antifungal therapy in 54 studies with 9228 patients; hepatotoxicity reported in 14.1-18.6% on amphotericin, 1.9% on fluconazole, and 31.6% on itraconazole, but great variation in definitions and intensity of monitoring; voriconazole and isavuconazonium are not discussed).</italic></p></annotation><pub-id pub-id-type="pmid">16622909</pub-id></mixed-citation>
+          </ref>
+          <ref id="Isavuconazonium.R8">
+            <mixed-citation publication-type="journal">Wang JL, Chang CH, Young-Xu Y, Chan KA. Systematic review and meta-analysis of the tolerability and hepatotoxicity of antifungals in empirical and definitive therapy for invasive fungal infection. Antimicrob Agents Chemother 2010; 54: 2409-19. <annotation><p><italic toggle="yes">(Systematic review of 39 controlled trials of antifungal agents in more than 8000 patients, found liver enzyme elevations in 19.7% of patients on voriconazole, but few patients had to stop therapy for this reason; rate for itraconazole was 18.9%, fluconazole 10%; isavuconazonium is not mentioned).</italic></p></annotation><pub-id pub-id-type="pmid">20308378</pub-id></mixed-citation>
+          </ref>
+          <ref id="Isavuconazonium.R9">
+            <mixed-citation publication-type="journal">Reuben A, Koch DG, Lee WM; Acute Liver Failure Study Group. Drug-induced acute liver failure: results of a U.S. multicenter, prospective study. Hepatology 2010; 52: 2065-76. <annotation><p><italic toggle="yes">(Among 1198 patients with acute liver failure enrolled in a US prospective study between 1998 and 2007, 133 were attributed to drug induced liver injury, including 6 due to antifungal agents including 3 due to terbinafine, 2 to ketoconazole and one to itraconazole, but none to isavuconazonium).</italic></p></annotation><pub-id pub-id-type="pmid">20949552</pub-id></mixed-citation>
+          </ref>
+          <ref id="Isavuconazonium.R10">
+            <mixed-citation publication-type="journal">Antifungal drugs. Treat Guidel Med Lett 2012; 10: 61-8. <annotation><p><italic toggle="yes">(Concise summary of therapy of fungal infections with recommendations on agents, dosage and duration of treatment and safety published before the availability of isavuconazonium).</italic></p></annotation><pub-id pub-id-type="pmid">22825657</pub-id></mixed-citation>
+          </ref>
+          <ref id="Isavuconazonium.R11">
+            <mixed-citation publication-type="journal">Bj&#x000f6;rnsson ES, Bergmann OM, Bj&#x000f6;rnsson HK, Kvaran RB, Olafsson S. Incidence, presentation and outcomes in patients with drug-induced liver injury in the General population of Iceland. Gastroenterology 2013; 144: 1419-25. <annotation><p><italic toggle="yes">(In a population based study of drug induced liver injury from Iceland, 96 cases were identified over a 2 year period, but none were attributed to antifungal agents).</italic></p></annotation><pub-id pub-id-type="pmid">23419359</pub-id></mixed-citation>
+          </ref>
+          <ref id="Isavuconazonium.R12">
+            <mixed-citation publication-type="journal">Kao WY, Su CW, Huang YS, Chou YC, Chen YC, Chung WH, Hou MC, et al. Risk of oral anti-fungal agent-induced liver injury in Taiwanese. Br J Clin Pharmacol 2014; 77: 180-9. <annotation><p><italic toggle="yes">(Analysis of Taiwan National Health Insurance database from 2002-2008 identified 52 patients with drug induced liver injury among 90,847 users of oral antifungal agents, including 28 [54%] due to ketoconazole, 12 fluconazole, 8 griseofulvin, 3 itraconazole, 2 terbinafine, but isavuconazonium was not included in the analysis).</italic></p></annotation><pub-id pub-id-type="pmid">23750489</pub-id></mixed-citation>
+          </ref>
+          <ref id="Isavuconazonium.R13">
+            <mixed-citation publication-type="journal">Chalasani N, Bonkovsky HL, Fontana R, Lee W, Stolz A, Talwalkar J, Reddy KR, et al.; United States Drug Induced Liver Injury Network. Features and outcomes of 899 patients with drug-induced liver injury: The DILIN Prospective Study. Gastroenterology 2015; 148: 1340-52. <annotation><p><italic toggle="yes">(Among 899 cases of drug induced liver injury enrolled in a US prospective study between 2004 and 2013, 14 were attributed to antifungal agents, including 6 to triazoles but none to isavuconazonium).</italic></p></annotation><pub-id pub-id-type="pmid">25754159</pub-id></mixed-citation>
+          </ref>
+          <ref id="Isavuconazonium.R14">
+            <mixed-citation publication-type="journal">Rybak JM, Marx KR, Nishimoto AT, Rogers PD. Isavuconazole: pharmacology, pharmacodynamics, and current clinical experience with a new triazole antifungal agent. Pharmacotherapy 2015; 35: 1037-51. <annotation><p><italic toggle="yes">(Review of the pharmacology, clinical efficacy and safety of isavuconazonium).</italic></p></annotation><pub-id pub-id-type="pmid">26598096</pub-id></mixed-citation>
+          </ref>
+          <ref id="Isavuconazonium.R15">
+            <mixed-citation publication-type="journal">Miceli MH, Kauffman CA. Isavuconazole: A new broad-spectrum triazole antifungal agent. Clin Infect Dis 2015; 61: 1558-65. <annotation><p><italic toggle="yes">(Review of the structure, mechanism of action, clinical efficacy and safety of isavuconazonium, mentions that the most frequent side effects are nausea, vomiting, diarrhea, headache, rash and liver enzyme elevations).</italic></p></annotation><pub-id pub-id-type="pmid">26179012</pub-id></mixed-citation>
+          </ref>
+          <ref id="Isavuconazonium.R16">
+            <mixed-citation publication-type="journal">Maertens JA, Raad II, Marr KA, Patterson TF, Kontoyiannis DP, Cornely OA, Bow EJ, et al. Isavuconazole versus voriconazole for primary treatment of invasive mould disease caused by Aspergillus and other filamentous fungi (SECURE): a phase 3, randomised-controlled, non-inferiority trial. Lancet 2016; 387 (10020): 760-9. <annotation><p><italic toggle="yes">(Among 527 patients at 102 centers worldwide with invasive aspergillosis treated with isavuconazonium or voriconazole for variable periods, all-cause mortality was similar [19% vs 20%] as were cure rates [35% vs 36%] and total adverse events, but hepatobiliary disorders were less common with isavuconazonium [9% vs 16%] which were considered drug related in 2% vs 10%; details not provided; ALT elevations occurred in 5.1% vs 6.6%).</italic></p></annotation><pub-id pub-id-type="pmid">26684607</pub-id></mixed-citation>
+          </ref>
+          <ref id="Isavuconazonium.R17">
+            <mixed-citation publication-type="journal">Marty FM, Ostrosky-Zeichner L, Cornely OA, Mullane KM, Perfect JR, Thompson GR 3rd, Alangaden GJ, et al.; VITAL and FungiScope Mucormycosis Investigators. Isavuconazole treatment for mucormycosis: a single-arm open-label trial and case-control analysis. Lancet Infect Dis 2016; 16: 828-37. <annotation><p><italic toggle="yes">(Among 37 patients with invasive mucormycosis treated with isavuconazonium for an average of 84 days, partial responses occurred in 8%, stable disease in 43% and 35% died, one from acute hepatic failure, although no specifics were provided).</italic></p></annotation><pub-id pub-id-type="pmid">26969258</pub-id></mixed-citation>
+          </ref>
+          <ref id="Isavuconazonium.R18">
+            <mixed-citation publication-type="journal">Isavuconazonium sulfate (Cresemba)--a new antifungal. Med Lett Drugs Ther 2016; 58 (1490): 37-8. <annotation><p><italic toggle="yes">(Concise review of the mechanism of action, clinical efficacy, safety and costs of isavuconazonium mentions that aminotransferase elevations commonly occur on treatment).</italic></p></annotation><pub-id pub-id-type="pmid">26963156</pub-id></mixed-citation>
+          </ref>
+          <ref id="Isavuconazonium.R19">
+            <mixed-citation publication-type="journal">Lo Re V 3rd, Carbonari DM, Lewis JD, Forde KA, Goldberg DS, Reddy KR, Haynes K, et al. Oral azole antifungal medications and risk of acute liver injury, overall and by chronic liver disease status. Am J Med 2016; 129: 283-91. <annotation><p><italic toggle="yes"> (Among 195,334 persons treated with oral azole antifungal agents analyzed from a Kaiser Permanente clinical database, the incidence of ALT or AST elevations above 200 U/L ranged from 1.3 to 19% and severe acute liver injury from none to 9.3%, highest rates associated with posaconazole and vorconazole; one death was reported which was attributed to ketoconazole; no mention of isovuconazonium).</italic></p></annotation><pub-id pub-id-type="pmid">26597673</pub-id></mixed-citation>
+          </ref>
+          <ref id="Isavuconazonium.R20">
+            <mixed-citation publication-type="journal">Kyriakidis I, Tragiannidis A, Munchen S, Groll AH. Clinical hepatotoxicity associated with antifungal agents. Expert Opin Drug Saf 2017; 16: 149-65. <annotation><p><italic toggle="yes">(Review of the hepatotoxicity of antifungal agents states that all antifungal agents may cause hepatic toxicity, but mentions that isovuconazonium appears to have less potential for hepatic toxicity relative to other triazoles).</italic></p></annotation><pub-id pub-id-type="pmid">27927037</pub-id></mixed-citation>
+          </ref>
+          <ref id="Isavuconazonium.R21">
+            <mixed-citation publication-type="journal">Murrell D, Bossaer JB, Carico R, Harirforoosh S, Cluck D. Isavuconazonium sulfate: a triazole prodrug for invasive fungal infections. Int J Pharm Pract 2017; 25: 18-30. <annotation><p><italic toggle="yes">(Review of the mechanism of action, pharmacokinetics, clinical efficacy and safety of isavuconazonium, mentions that in clinical trials serum enzyme elevations aroise in 1.6 to 2.3% of cases and were occasionally accompanied by bilirubin elevations, but these episodes were no more common with isovuconazonium than with comparator arms and rarely necessitated drug discontinuation).</italic></p></annotation><pub-id pub-id-type="pmid">27569742</pub-id></mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec id="Isavuconazonium.OTHER_REFERENCE_LINKS" sec-type="link-group">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=Isavuconazonium+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D%3A%222999/12/31%22%5BEDat%5D)">Recent References on Isavuconazonium: from PubMed.gov</ext-link>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Isavuconazonium">Trials on Isavuconazonium: from ClinicalTrials.gov</ext-link>
+            </p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

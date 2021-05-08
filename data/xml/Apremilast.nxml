@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Apremilast" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Apremilast</book-part-id>
+      <title-group>
+        <title>Apremilast</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>25</day>
+          <month>7</month>
+          <year>2017</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Apomorphine" document-type="chapter">Apomorphine</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Aprepitant" document-type="chapter">Aprepitant</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Apremilast.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Apremilast.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Apremilast is an orally available, small molecule inhibitor of phosphodiesterase-4 (PDE-4) and an immunomodulating agent that is used for treatment of refractory psoriatic arthritis. Apremilast has been linked to a low rate of serum enzyme elevations during therapy, but has not been implicated in cases of clinically apparent acute liver injury.</p>
+        </sec>
+        <sec id="Apremilast.Background">
+          <title>Background</title>
+          <p>Apremilast (a pre' mi last) is a small molecule inhibitor of the enzyme phosphodiesterase-4 (PDE-4) that is responsible for the degradation of cyclic adenosine monophosphate (cAMP), thereby blocking an important step in the inflammatory signaling of immune effector cells including T lymphocytes, monocytes and macrophages. Apremilast therapy has been shown to decrease the level of circulating proinflammatory cytokines and to improve symptoms in cases of psoriatic arthritis that have not responded to conventional therapies. Apremilast was approved as oral therapy of active psoriatic arthritis and for moderate-to-severe plaque psoriasis in the United States in 2014. It has been used experimentally and off-label to treat scalp and nail psoriasis and is under evaluation as therapy of other chronic inflammatory conditions. Apremilast is available in tablets of 10, 20 and 30 mg under the brand name Otezla. The recommended initial dose is 10 mg twice daily, which can be increased based upon tolerance to the recommended maintenance dose of 30 mg twice daily. Side effects include diarrhea, nausea, weight loss and headache which generally arise during the first few weeks of treatment and improve thereafter. Rare, but potentially severe adverse events include reactivation of tuberculosis, depression, severe infections and increased risk of malignancy.</p>
+        </sec>
+        <sec id="Apremilast.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>In multiple, large scale randomized controlled trials of apremilast in psoriasis and psoriatic arthritis, serum enzyme elevations were no more frequent among recipients of apremilast than placebo treatment. In these studies, serum ALT values rose above 150 U/L (3 to 4 times ULN) in 0.4% of apremilast- compared to 0.2% of placebo-recipients, and no patient developed clinically apparent liver injury with jaundice. Since approval there have been no published reports of hepatotoxicity attributed to apremilast, but it has had limited clinical use. Because apremilast is immunosuppressive, it may cause reactivation of viral infections including hepatitis B, but such cases have not been reported.</p>
+          <p>Likelihood score: E (unlikely cause of clinically apparent liver injury, but experience with its use is limited).</p>
+        </sec>
+        <sec id="Apremilast.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The mechanism by which apremilast might cause serum aminotransferase elevations or liver injury is not known. It is extensively metabolized by the liver predominantly by the cytochrome P450 system and is susceptible to drug-drug interactions with agents that induce or inhibit CYP 3A4 activity.</p>
+          <p>Drug Class: Dermatologic Agents, <related-object source-id="livertox" document-id="PsoriasisDrugs">Psoriasis Agents</related-object></p>
+          <p>Other drugs used to treat psoriasis: <related-object source-id="livertox" document-id="Acitretin">acitretin</related-object>, <related-object source-id="livertox" document-id="Methotrexate">methotrexate</related-object>, <related-object source-id="livertox" document-id="TNFAntagonists">tumor necrosis factor (TNF)-inhibitors</related-object>, <related-object source-id="livertox" document-id="Secukinumab">secukinumab</related-object>, <related-object source-id="livertox" document-id="Ustekinumab">ustekinumab</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Apremilast.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <boxed-text position="anchor" id="Apremilast.BPI" orientation="portrait">
+          <p>
+            <bold> REPRESENTATIVE TRADE NAMES</bold>
+          </p>
+          <p>Apremilast &#x02013; Otezla&#x000ae;</p>
+          <p>
+            <bold>DRUG CLASS</bold>
+          </p>
+          <p>Dermatologic Agents, Psoriasis Agents</p>
+          <p>
+            <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Apremilast">COMPLETE LABELING</ext-link>
+          </p>
+          <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+        </boxed-text>
+      </sec>
+      <sec id="Apremilast.CHEMICAL_FORMULA_AND_STRUCTUR">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Apremilast.T1" position="anchor" orientation="portrait">
+          <table>
+            <thead>
+              <tr>
+                <th id="hd_h_Apremilast.T1_1_1_1_1" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Apremilast.T1_1_1_1_2" rowspan="1" colspan="1">CAS REGISTRY NUMBER</th>
+                <th id="hd_h_Apremilast.T1_1_1_1_3" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Apremilast.T1_1_1_1_4" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Apremilast.T1_1_1_1_1" rowspan="1" colspan="1">Apremilast</td>
+                <td headers="hd_h_Apremilast.T1_1_1_1_2" rowspan="1" colspan="1">
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135195808">608141-41-9</ext-link>
+                </td>
+                <td headers="hd_h_Apremilast.T1_1_1_1_3" rowspan="1" colspan="1">C22-H24-N2-O7-S</td>
+                <td headers="hd_h_Apremilast.T1_1_1_1_4" rowspan="1" colspan="1">
+                  <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Apremilast_structure.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait">
+                    <alt-text>Apremilast structure</alt-text>
+                  </graphic>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Apremilast.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 25 July 2017</p>
+        <ref-list id="Apremilast.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Apremilast.R1">
+            <mixed-citation publication-type="other">Zimmerman HJ. Hepatotoxicity. The adverse effects of drugs and other chemicals upon the liver. 2nd edition. Philadelphia: Lippincott, 1999.<annotation><p><italic toggle="yes">(Textbook of drug induced liver injury published in 1999 before the availability of apremilast).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Apremilast.R2">
+            <mixed-citation publication-type="journal">Samrao A, Berry TM, Goreshi R, Simpson EL. A pilot study of an oral phosphodiesterase inhibitor (apremilast) for atopic dermatitis in adults. Arch Dermatol 2012; 148: 890-7. <annotation><p><italic toggle="yes">(Among 16 patients with atopic dermatitis treated with apremilast [20 or 30 mg twice daily] for 6 months, symptom scores were improved and common side effects included nausea [33% and 90%] which was usually mild and decreased with continued therapy; no mention of ALT elevations or hepatotoxicity; one patient developed herpes zoster).</italic></p></annotation><pub-id pub-id-type="pmid">22508772</pub-id></mixed-citation>
+          </ref>
+          <ref id="Apremilast.R3">
+            <mixed-citation publication-type="journal">Papp K, Cather JC, Rosoph L, Sofen H, Langley RG, Matheson RT, Hu C, et al. Efficacy of apremilast in the treatment of moderate to severe psoriasis: a randomised controlled trial. Lancet 2012; 380 (9843): 738-46. <annotation><p><italic toggle="yes">(Among 352 patients with psoriasis treated with 3 doses of apremilast or placebo twice daily, response rates at 16 weeks were higher with apremilast in higher doses [10 mg 11%, 20 mg 29%, 30 mg 41%] than placebo [6%] and adverse events included nausea [11-18% vs 8%], diarrhea [7-14% vs 5%], and headache [6-10% vs 6%] and &#x0201c;no apparent safety concerns&#x0201d; were raised from routine and hepatic chemistry testing).</italic></p></annotation><pub-id pub-id-type="pmid">22748702</pub-id></mixed-citation>
+          </ref>
+          <ref id="Apremilast.R4">
+            <mixed-citation publication-type="journal">Schett G, Wollenhaupt J, Papp K, Joos R, Rodrigues JF, Vessey AR, Hu C, et al. Oral apremilast in the treatment of active psoriatic arthritis: results of a multicenter, randomized, double-blind, placebo-controlled study. Arthritis Rheum 2012; 64: 3156-67. <annotation><p><italic toggle="yes">(Among 204 patients with psoriatic arthritis treated with apremilast [20 mg twice daily or 40 mg once daily] or placebo for 12-24 weeks, clinical responses were more frequent with active drug [44% and 36%] than placebo [12%] and side effects included diarrhea, headache, nausea and fatigue which were greater with once daily dosing; one patient developed ALT elevations above 3 times ULN which resolved with lowering the dose, and there were no cases of liver related serious adverse events or clinically apparent liver injury with jaundice).</italic></p></annotation><pub-id pub-id-type="pmid">22806399</pub-id></mixed-citation>
+          </ref>
+          <ref id="Apremilast.R5">
+            <mixed-citation publication-type="journal">Pathan E, Abraham S, Van Rossen E, Withrington R, Keat A, Charles PJ, Paterson E, et al. Efficacy and safety of apremilast, an oral phosphodiesterase 4 inhibitor, in ankylosing spondylitis. Ann Rheum Dis 2013; 72: 1475-80. <annotation><p><italic toggle="yes">(Among 38 patients with ankylosing spondylitis treated with apremilast [30 mg twice daily] or placebo twice daily for 12 weeks, rates of clinical improvement did not differ between groups; side effects include loose stools and headaches, and there were no serious adverse events and no mention of ALT elevations).</italic></p></annotation><pub-id pub-id-type="pmid">22984171</pub-id></mixed-citation>
+          </ref>
+          <ref id="Apremilast.R6">
+            <mixed-citation publication-type="journal">Papp KA, Kaufmann R, Tha&#x000e7;i D, Hu C, Sutherland D, Rohane P. Efficacy and safety of apremilast in subjects with moderate to severe plaque psoriasis: results from a phase II, multicenter, randomized, double-blind, placebo-controlled, parallel-group, dose-comparison study. J Eur Acad Dermatol Venereol 2013; 27: e376-83. <annotation><p><italic toggle="yes">(Among 259 patients with plaque psoriasis treated with apremilast [20 mg] once or twice daily or placebo for 12 weeks, clinical responses were achieved in 24% of apremilast vs 10% of placebo recipients and side effects included nausea, diarrhea and headache; one patient on placebo and one on apremilast developed transient serum enzyme elevations but there were no hepatic related serious adverse events).</italic></p></annotation><pub-id pub-id-type="pmid">23030767</pub-id></mixed-citation>
+          </ref>
+          <ref id="Apremilast.R7">
+            <mixed-citation publication-type="journal">Kavanaugh A, Mease PJ, Gomez-Reino JJ, Adebajo AO, Wollenhaupt J, Gladman DD, Lespessailles E, et al. Treatment of psoriatic arthritis in a phase 3 randomised, placebo-controlled trial with apremilast, an oral phosphodiesterase 4 inhibitor. Ann Rheum Dis 2014; 73: 1020-6. <annotation><p><italic toggle="yes">(Among 504 patients with psoriatic arthritis treated with apremilast [20 or 30 mg] or placebo twice daily for 24 weeks, clinical responses at 16 weeks were more frequent with apremilast [31% and 40%] than placebo [19%], while ALT elevations occurred in 8% of apremilast- vs 13% of placebo-treated subjects).</italic></p></annotation><pub-id pub-id-type="pmid">24595547</pub-id></mixed-citation>
+          </ref>
+          <ref id="Apremilast.R8">
+            <mixed-citation publication-type="journal">Apremilast (Otezla) for psoriatic arthritis. Med Lett Drugs Ther 2014; 56 (1443): 41-2. <annotation><p><italic toggle="yes">(Concise review of the mechanism of action, clinical efficacy, safety and costs of apremilast shortly after its approval in the US as therapy of psoriatic arthritis, mentions adverse events of diarrhea, nausea and headache, but does not mention ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">24869713</pub-id></mixed-citation>
+          </ref>
+          <ref id="Apremilast.R9">
+            <mixed-citation publication-type="journal">Drugs for psoriasis. Med Lett Drugs Ther 2015; 57 (1470): 81-4. <annotation><p><italic toggle="yes">(Concise review of drugs for psoriasis including systemic therapies such as methotrexate, cyclosporine, acitretin, apremilast, tofacitinib and biologics such as TNF inhibitors, ustekinumab and secukinumab).</italic></p></annotation><pub-id pub-id-type="pmid">26035746</pub-id></mixed-citation>
+          </ref>
+          <ref id="Apremilast.R10">
+            <mixed-citation publication-type="journal">Drugs for psoriatic arthritis. Med Lett Drugs Ther 2015; 57 (1470): e88-92. <annotation><p><italic toggle="yes">(Concise review of drugs for psoriatic arthritis including NSAIDs, corticosteroids, methotrexate, leflunomide, sulfasalazine, cyclosporine, apremilast and several biologics such as TNF inhibitors, ustekinumab and secukinumab).</italic></p></annotation><pub-id pub-id-type="pmid">26035749</pub-id></mixed-citation>
+          </ref>
+          <ref id="Apremilast.R11">
+            <mixed-citation publication-type="journal">Kavanaugh A, Mease PJ, Gomez-Reino JJ, Adebajo AO, Wollenhaupt J, Gladman DD, Hochfeld M, et al. Long term (52-week) results of a phase III randomized, controlled trial of apremilast in patients with psoriatic arthritis. J Rheumatol 2015; 42: 479-88. <annotation><p><italic toggle="yes">(504 patients with psoriatic arthritis were treated with apremilast [20 or 30 mg] or placebo twice daily for 16 weeks and then re-randomized if not responding; among patients who finished 52 weeks on drug, side effects included diarrhea, nausea and headache; during the first 16 weeks of treatment, any elevation in ALT occurred in 8% of patients on apremilast vs 13% on placebo, while elevations above 150 U/L occurred in 0.3% on apremilast vs none [of 167] on placeb).</italic></p></annotation><pub-id pub-id-type="pmid">25593233</pub-id></mixed-citation>
+          </ref>
+          <ref id="Apremilast.R12">
+            <mixed-citation publication-type="journal">Paul C, Cather J, Gooderham M, Poulin Y, Mrowietz U, Ferrandiz C, Crowley J, et al. Efficacy and safety of apremilast, an oral phosphodiesterase 4 inhibitor, in patients with moderate-to-severe plaque psoriasis over 52 weeks: a phase III, randomized controlled trial (ESTEEM 2). Br J Dermatol 2015; 173: 1387-99. <annotation><p><italic toggle="yes">(Among 411 patients with plaque psoriasis treated with apremilast [30 mg] or placebo twice daily for 52 weeks, clinical responses at 16 weeks were more frequent with apremilast than placebo [29% vs 6%], and marked laboratory abnormalities were uncommon and similar in frequency in both groups, while clinical chemistry abnormalities &#x0201c;were transient and resolved with continued treatment&#x0201d;).</italic></p></annotation><pub-id pub-id-type="pmid">26357944</pub-id></mixed-citation>
+          </ref>
+          <ref id="Apremilast.R13">
+            <mixed-citation publication-type="journal">Papp K, Reich K, Leonardi CL, Kircik L, Chimenti S, Langley RG, Hu C, et al. Apremilast, an oral phosphodiesterase 4 (PDE4) inhibitor, in patients with moderate to severe plaque psoriasis: Results of a phase III, randomized, controlled trial (Efficacy and Safety Trial Evaluating the Effects of Apremilast in Psoriasis [ESTEEM] 1). J Am Acad Dermatol 2015; 73: 37-49. <annotation><p><italic toggle="yes">(Among 844 patients with plaque psoriasis treated with apremilast [30 mg] or placebo twice daily, clinical responses at 16 weeks were more frequent with apremilast than placebo [33% vs 15%], while serum ALT elevations above 3 times ULN occurred in 0.2% vs 0.4%, and there were no liver related serious adverse events).</italic></p></annotation><pub-id pub-id-type="pmid">26089047</pub-id></mixed-citation>
+          </ref>
+          <ref id="Apremilast.R14">
+            <mixed-citation publication-type="journal">Genovese MC, Jarosova K, Cie&#x0015b;lak D, Alper J, Kivitz A, Hough DR, Maes P, et al. Apremilast in Patients with active rheumatoid arthritis: a phase II, multicenter, randomized, double-blind, placebo-controlled, parallel-group study. Arthritis Rheumatol 2015; 67: 1703-10. <annotation><p><italic toggle="yes">(Among 237 patients with rheumatoid arthritis with an inadequate response to methotrexate who were treated with apremilast [20 or 30 mg] or placebo twice daily for at least 16 weeks, clinical response rates were similar in all groups while gastrointestinal side effects were more common with apremilast; there were no liver related serious adverse events and no &#x0201c;clinical meaningful changes &#x02026; in clinical chemistry variables&#x0201d;).</italic></p></annotation><pub-id pub-id-type="pmid">25779750</pub-id></mixed-citation>
+          </ref>
+          <ref id="Apremilast.R15">
+            <mixed-citation publication-type="journal">Busa S, Kavanaugh A. Drug safety evaluation of apremilast for treating psoriatic arthritis. Expert Opin Drug Saf 2015; 14: 979-85. <annotation><p><italic toggle="yes">(Review of the mechanism of action, clinical efficacy and safety of apremilast in psoriatic arthritis focuses upon gastrointestinal adverse events, depression and weight loss, but mentions that &#x0201c;abnormalities in laboratory parameters were infrequent, mostly transient and comparable across treatment groups&#x0201d;).</italic></p></annotation><pub-id pub-id-type="pmid">25827658</pub-id></mixed-citation>
+          </ref>
+          <ref id="Apremilast.R16">
+            <mixed-citation publication-type="journal">Haber SL, Hamilton S, Bank M, Leong SY, Pierce E. Apremilast: A Novel Drug for Treatment of Psoriasis and Psoriatic Arthritis. Ann Pharmacother 2016; 50: 282-90. <annotation><p><italic toggle="yes">(Systematic review of mechanism of action, clinical efficacy and safety of apremilast in severe psoriasis and psoriatic arthritis, mentions that the common side effects [diarrhea, nausea and headache] tend to occur in the first 2 weeks and resolve with time without dose modification and that severe adverse events, including ALT elevations, can occur but are usually transient and self-limited).</italic></p></annotation><pub-id pub-id-type="pmid">26783350</pub-id></mixed-citation>
+          </ref>
+          <ref id="Apremilast.R17">
+            <mixed-citation publication-type="journal">Rich P, Gooderham M, Bachelez H, Goncalves J, Day RM, Chen R, Crowley J. Apremilast, an oral phosphodiesterase 4 inhibitor, in patients with difficult-to-treat nail and scalp psoriasis: Results of 2 phase III randomized, controlled trials (ESTEEM 1 and ESTEEM 2). J Am Acad Dermatol 2016; 74: 134-42. <annotation><p><italic toggle="yes">(Among 1255 patients with nail or scalp psoriasis treated with apremilast [30 mg] or placebo twice daily for 16 weeks, psoriasis severity index scores improvement more on apremilast; no mention of adverse events).</italic></p></annotation><pub-id pub-id-type="pmid">26549249</pub-id></mixed-citation>
+          </ref>
+          <ref id="Apremilast.R18">
+            <mixed-citation publication-type="journal">Edwards CJ, Blanco FJ, Crowley J, Birbara CA, Jaworski J, Aelion J, Stevens RM, et al. Apremilast, an oral phosphodiesterase 4 inhibitor, in patients with psoriatic arthritis and current skin involvement: a phase III, randomised, controlled trial (PALACE 3). Ann Rheum Dis 2016; 75: 1065-73. <annotation><p><italic toggle="yes">(Among 505 patients with psoriatic arthritis treated with apremilast [20 or 30 mg] or placebo twice daily, clinical responses at 16 weeks were more frequent with drug [28-41%] than placebo [18%]; side effects were mild and included ALT elevations above 150 U/L in 0.5% vs 0%).</italic></p></annotation><pub-id pub-id-type="pmid">26792812</pub-id></mixed-citation>
+          </ref>
+          <ref id="Apremilast.R19">
+            <mixed-citation publication-type="journal">Bissonnette R, Pariser DM, Wasel NR, Goncalves J, Day RM, Chen R, Sebastian M. Apremilast, an oral phosphodiesterase-4 inhibitor, in the treatment of palmoplantar psoriasis: Results of a pooled analysis from phase II PSOR-005 and phase III Efficacy and Safety Trial Evaluating the Effects of Apremilast in Psoriasis (ESTEEM) clinical trials in patients with moderate to severe psoriasis. J Am Acad Dermatol 2016; 75: 99-105. <annotation><p><italic toggle="yes">(A pooled analysis of 2 trials of apremilast [30 mg] vs placebo twice daily in patients with palmoplantar psoriasis for 16 weeks, there was a higher rate of response with apremilast than placebo [48% vs 27%] and common side effects included diarrhea [19% vs 6%], nausea [16% vs 6%], and headache [15% vs 3%]; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">27021239</pub-id></mixed-citation>
+          </ref>
+          <ref id="Apremilast.R20">
+            <mixed-citation publication-type="journal">Cutolo M, Myerson GE, Fleischmann RM, Liot&#x000e9; F, D&#x000ed;az-Gonz&#x000e1;lez F, Van den Bosch F, Marzo-Ortega H, et al. A phase III, randomized, controlled trial of apremilast in patients with psoriatic arthritis: results of the PALACE 2 trial. J Rheumatol 2016; 43: 1724-34. <annotation><p><italic toggle="yes">(Among 484 patients with psoriatic arthritis treated with apremilast [20 or 30 mg] or placebo twice daily for up to 52 weeks, clinical responses by week 16 occurred in 32-37% of apremilast recipients vs 19% of placebo recipients, while ALT elevations above 150 U/L occurred in 0.7% vs 0.8% and there were no liver related serious adverse events).</italic></p></annotation><pub-id pub-id-type="pmid">27422893</pub-id></mixed-citation>
+          </ref>
+          <ref id="Apremilast.R21">
+            <mixed-citation publication-type="journal">Reich K, Gooderham M, Green L, Bewley A, Zhang Z, Khanskaya I, Day RM, et al. The efficacy and safety of apremilast, etanercept, and placebo, in patients with moderate to severe plaque psoriasis: 52-week results from a phase 3b, randomized, placebo-controlled trial (LIBERATE). J Eur Acad Dermatol Venereol 2016 Oct 21. <annotation><p><italic toggle="yes">(Among 250 patients with moderate to severe plaque psoriasis treated with apremilast [30 mg] or placebo twice daily or etanercept weekly, clinical responses at week 16 occurred in 40% on apremilast, 47% of etanercept and 12% on placebo; side effects of apremilast included nausea, diarrhea and headache while elevations of serum ALT above 3 times ULN occurred in 1.2% on apremilast and 1.2% on placebo, but none of etanercept).</italic></p></annotation><pub-id pub-id-type="pmid">27768242</pub-id></mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec id="Apremilast.OTHER_REFERENCE_LINKS" sec-type="link-group">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=(Apremilast)+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D%3A%222999/12/31%22%5BEDat%5D)">Recent References on Apremilast: from PubMed.gov</ext-link>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Apremilast">: from ClinicalTrials.gov</ext-link>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Apremilast">Trials on Apremilast: from ClinicalTrials.gov</ext-link>
+            </p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

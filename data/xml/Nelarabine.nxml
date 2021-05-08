@@ -1,0 +1,573 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Nelarabine" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Nelarabine</book-part-id>
+      <title-group>
+        <title>Nelarabine</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>1</day>
+          <month>5</month>
+          <year>2020</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Nefazodone" document-type="chapter">Nefazodone</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Nelfinavir" document-type="chapter">Nelfinavir</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Nelarabine.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Nelarabine.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Nelarabine is a purine analogue and antineoplastic agent used in the therapy of T cell lymphoblastic leukemia or lymphoma. Nelarabine is associated with a low rate of transient serum enzyme elevations during therapy and has been linked to rare instances of clinically apparent acute liver injury with jaundice.</p>
+        </sec>
+        <sec id="Nelarabine.Background">
+          <title>Background</title>
+          <p>Nelarabine (ne lar' a been) is a purine analogue that is used in the treatment of T cell leukemia or lymphoma. Nelarabine is arabinosyl derivative of deoxyguanosine (2-amino-9-beta-D-arabinofuranosyl-6-methoxy-9-H-guanine) that, after removal of the methoxy group by adenosine deaminase in serum, is taken up and converted intracellularly to the active triphosphate, which is believed to compete with guanine triphosphate for use by DNA polymerase leading to inhibition of DNA synthesis. It has selective activity against T lymphocytes and was found to have activity against acute T cell malignancies. Nelarabine was approved for use as an antineoplastic agent in the United States in 2005. Current indications are therapy of acute T cell lymphoblastic leukemia and T cell lymphoblastic lymphoma after failure of prior therapies. Nelarabine is available as a solution for injection under the trade name Arranon. The typical adult dose is 1500 mg/m<sup>2</sup> intravenously on days 1, 3 and 5 of 21-day cycles. Common side effects include bone marrow suppression, nausea, vomiting, anorexia, diarrhea, headache, fatigue, mucositis and skin rash. The major dose limiting side effects of nelarabine are neurologic, including somnolence, headache, dizziness, ataxia, delirium, seizures, neuropathy and Guillain Barre syndrome. The neurologic toxicities can be severe and some are not reversible on stopping nelarabine as is stressed by the boxed warning in the product label.</p>
+        </sec>
+        <sec id="Nelarabine.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>In clinical trials, serum enzymes elevations occurred in a small proportion of patients treated with nelarabine when given as sole therapy for refractory or relapsed acute leukemia. These elevations are generally mild-to-moderate, transient and asymptomatic. Elevations of aminotransferase levels above 5 times the upper limit of normal are reported in 4% of patients with leukemia receiving nelarabine. The elevations rarely require dose adjustment or delay in therapy. Cases of clinically apparent liver injury due to nelarabine have been reported to occur, but few details are available. A single case report of clinically apparent liver injury attributed to nelarabine has been published with rapid onset of jaundice during a second course of nelarabine, a hepatocellular pattern of enzyme elevations, no immunoallergic or autoimmune features and a rapid improvement upon stopping.</p>
+          <p>Likelihood score: E* (unproven but suspected cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Nelarabine.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>Hepatotoxicity from nelarabine is likely due to direct toxicity as is typical for other purine analogues.</p>
+        </sec>
+        <sec id="Nelarabine.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>The severity of the liver injury linked to nelarabine therapy is generally self-limited and mild and resolves with stopping therapy. There is little evidence of cross sensitivity to liver injury among the various antineoplastic or antiviral purine analogues.</p>
+          <p>Drug Class: <related-object link-type="booklink" source-id="livertox" document-id="AntineoplasticAgents" document-type="chapter">Antineoplastic Agents</related-object>, Antimetabolites</p>
+          <p>Other Drugs in the Subclass, <related-object link-type="booklink" source-id="livertox" document-id="PurineAnalogues" document-type="chapter">Purine Analogues</related-object>: <related-object link-type="booklink" source-id="livertox" document-id="Azathioprine" document-type="chapter">Azathioprine</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Cladribine" document-type="chapter">Cladribine</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Clofarabine" document-type="chapter">Clofarabine</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Fludarabine" document-type="chapter">Fludarabine</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Mercaptopurine" document-type="chapter">Mercaptopurine</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Pentostatin" document-type="chapter">Pentostatin</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Thioguanine" document-type="chapter">Thioguanine</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Nelarabine.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <p>
+          <bold>REPRESENTATIVE TRADE NAMES</bold>
+        </p>
+        <p>Nelarabine &#x02013; Generic, Arranon&#x000ae;</p>
+        <p>
+          <bold>DRUG CLASS</bold>
+        </p>
+        <p>Antineoplastic Agents</p>
+        <p>
+          <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=fffa5d75-0dba-4ad7-a252-5f60fa28489a">COMPLETE LABELING</ext-link>
+        </p>
+        <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+      </sec>
+      <sec id="Nelarabine.CHEMICAL_FORMULA_AND_STRUCTUR">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Nelarabine.Tc" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <tbody>
+              <tr>
+                <th id="hd_b_Nelarabine.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_b_Nelarabine.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">CAS REGISTRY NUMBER</th>
+                <th id="hd_b_Nelarabine.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_b_Nelarabine.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+              <tr>
+                <td headers="hd_b_Nelarabine.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Nelarabine</td>
+                <td headers="hd_b_Nelarabine.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135108408">121032-29-9</ext-link>
+                </td>
+                <td headers="hd_b_Nelarabine.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">C11-H15-N5-O5</td>
+                <td headers="hd_b_Nelarabine.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">
+                  <related-object link-type="ext-image-back-link" source-id="pubchem" document-id="135108408" document-id-type="sid" document-type="summary" object-id="135108408" object-id-type="sid" object-type="image"/>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Nelarabine.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 01 May 2020</p>
+        <p>Abbreviations: ALL, acute lymphocyte leukemia; HCT, hematopoietic cell transplantation.</p>
+        <ref-list id="Nelarabine.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Nelarabine.REF.zimmerman.1999">
+            <mixed-citation publication-type="book">Zimmerman HJ. Oncotherapeutic and immunosuppressive agents. In, Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999, pp. 673-708.<annotation><p><italic toggle="yes">(Expert review of hepatotoxicity of cancer chemotherapeutic agents published in 1999 discusses the purine analogues pentostatin, cladribine and fludarabine but not clofarabine or nelarabine).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Nelarabine.REF.deleve.2013">
+            <mixed-citation publication-type="book">DeLeve LD. Cancer chemotherapy. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013, p. 541-68.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of hepatotoxicity of anticancer agents does not discuss nelarabine).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Nelarabine.REF.chabner.2011">
+            <mixed-citation publication-type="book">Chabner BA, Bertino J, Cleary J, Ortiz T, Lane A, Supko JG, Ryan DP. Purine analogs. Cytotoxic agents. Chemotherapy of neoplastic diseases. In, Brunton LL, Chabner BA, Knollman BC, eds. Goodman &#x00026; Gilman's the pharmacological basis of therapeutics. 12th ed. New York: McGraw-Hill, 2011, pp. 1701-5.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Nelarabine.REF.kisor.2005.1056">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Kisor</surname>
+                  <given-names>DF</given-names>
+                </name>
+              </person-group>
+              <article-title>Nelarabine: a nucleoside analog with efficacy in T-cell and other leukemias.</article-title>
+              <source>Ann Pharmacother</source>
+              <year>2005</year>
+              <volume>39</volume>
+              <fpage>1056</fpage>
+              <lpage>63</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Analysis of structure, mechanism of action, pharmacokinetics, efficacy and safety of nelarabine in T cell malignancies mentions that the dose limiting toxicity is neurological; no discussion of hepatotoxicity).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">15870141</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Nelarabine.REF.gandhi.2006.584">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Gandhi</surname>
+                  <given-names>V</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Plunkett</surname>
+                  <given-names>W.</given-names>
+                </name>
+              </person-group>
+              <article-title>Clofarabine and nelarabine: two new purine nucleoside analogs.</article-title>
+              <source>Curr Opin Oncol</source>
+              <year>2006</year>
+              <volume>18</volume>
+              <fpage>584</fpage>
+              <lpage>90</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Review of clofarabine and nelarabine, both of which had been recently approved for use in ALL and T cell leukemia or lymphoma, dose limiting toxicities being hepatic for clofarabine, neurologic for nelarabine).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">16988579</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Nelarabine.REF.czuczman.2007.97">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Czuczman</surname>
+                  <given-names>MS</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Porcu</surname>
+                  <given-names>P</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Johnson</surname>
+                  <given-names>J</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Niedzwiecki</surname>
+                  <given-names>D</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Kelly</surname>
+                  <given-names>M</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Hsi</surname>
+                  <given-names>ED</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Cook</surname>
+                  <given-names>JR</given-names>
+                </name>
+                <etal/>
+              </person-group>
+              <article-title>Cancer and Leukemia Group B. Results of a phase II study of 506U78 in cutaneous T-cell lymphoma and peripheral T-cell lymphoma: CALGB 59901.</article-title>
+              <source>Leuk Lymphoma</source>
+              <year>2007</year>
+              <volume>48</volume>
+              <fpage>97</fpage>
+              <lpage>103</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Among 18 adults with T cell lymphomas treated with nelarabine, none had ALT or AST elevations during therapy, but neurologic toxicity was common [33%] and dose limiting).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">17325852</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Nelarabine.REF.buie.2007.1887">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Buie</surname>
+                  <given-names>LW</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Epstein</surname>
+                  <given-names>SS</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Lindley</surname>
+                  <given-names>CM</given-names>
+                </name>
+              </person-group>
+              <article-title>Nelarabine: a novel purine antimetabolite antineoplastic agent.</article-title>
+              <source>Clin Ther</source>
+              <year>2007</year>
+              <volume>29</volume>
+              <fpage>1887</fpage>
+              <lpage>99</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Review of the structure, mechanism of action, pharmacokinetics, clinical efficacy and safety of nelarabine encountered in preapproval trials; discusses the neurologic and hematologic, but not hepatic toxicities of nelarabine).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">18035189</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Nelarabine.REF.cohen.2008.709">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Cohen</surname>
+                  <given-names>MH</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Johnson</surname>
+                  <given-names>JR</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Justice</surname>
+                  <given-names>R</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Pazdur</surname>
+                  <given-names>R</given-names>
+                </name>
+              </person-group>
+              <article-title>FDA drug approval summary: nelarabine (Arranon) for the treatment of T-cell lymphoblastic leukemia/lymphoma.</article-title>
+              <source>Oncologist</source>
+              <year>2008</year>
+              <volume>13</volume>
+              <fpage>709</fpage>
+              <lpage>14</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Summary of the evidence for efficacy and safety of nelarabine in T cell leukemia and lymphoma which led to its approval in refractory or relapsed cases; the major dose limiting toxicity was neurologic, elevations of ALT levels above 5 times the ULN occurred in 4% of patients; no mention of clinically apparent liver injury).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">18586926</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Nelarabine.REF.iino.2009.49">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Iino</surname>
+                  <given-names>M.</given-names>
+                </name>
+              </person-group>
+              <comment>[Severe liver injury following nelarabine chemotherapy for T-cell lymphoblastic lymphoma]</comment>
+              <source>Rinsho Ketsueki</source>
+              <year>2009</year>
+              <volume>50</volume>
+              <fpage>49</fpage>
+              <lpage>51</lpage>
+              <comment>Japanese.</comment>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(41 year old man with T cell lymphoma after HCT developed liver test abnormalities at the end of a second course of nelarabine [peak bilirubin 17.7 mg/dL, ALT 2149 U/L, Alk P 704 U/L], resolving within 1 month of stopping with prednisolone and ursodiol treatment).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">19225230</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Nelarabine.REF.commander.2010.345">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Commander</surname>
+                  <given-names>LA</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Seif</surname>
+                  <given-names>AE</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Insogna</surname>
+                  <given-names>IG</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Rheingold</surname>
+                  <given-names>SR</given-names>
+                </name>
+              </person-group>
+              <article-title>Salvage therapy with nelarabine, etoposide, and cyclophosphamide in relapsed/refractory paediatric T-cell lymphoblastic leukaemia and lymphoma.</article-title>
+              <source>Br J Haematol</source>
+              <year>2010</year>
+              <volume>150</volume>
+              <fpage>345</fpage>
+              <lpage>51</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Among 7 children with T cell leukemia treated with nelarabine in combination with etoposide and cyclophosphamide, 6 developed neurological toxicities, mostly pain, headache, somnolence, dizziness, neuropathy, tremor and ataxia; no mention of ALT elevations or hepatotoxicity).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">20528871</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Nelarabine.REF.dunsmore.2012.2753">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Dunsmore</surname>
+                  <given-names>KP</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Devidas</surname>
+                  <given-names>M</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Linda</surname>
+                  <given-names>SB</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Borowitz</surname>
+                  <given-names>MJ</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Winick</surname>
+                  <given-names>N</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Hunger</surname>
+                  <given-names>SP</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Carroll</surname>
+                  <given-names>WL</given-names>
+                </name>
+                <etal/>
+              </person-group>
+              <article-title>Pilot study of nelarabine in combination with intensive chemotherapy in high-risk T-cell acute lymphoblastic leukemia: a report from the Children's Oncology Group.</article-title>
+              <source>J Clin Oncol</source>
+              <year>2012</year>
+              <volume>30</volume>
+              <fpage>2753</fpage>
+              <lpage>9</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Among 92 children with T cell leukemia, 72 received nelarabine in addition of standard therapy; ALT and AST elevations occurred in 44% on nelarabine and in 56% who were not; neurologic side effects were more common with nelarabine, 11 developing neuropathy, 4 seizures and 1 a Guillain Barre-like syndrome).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">22734022</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Nelarabine.REF.winter.2015.1176">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Winter</surname>
+                  <given-names>SS</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Dunsmore</surname>
+                  <given-names>KP</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Devidas</surname>
+                  <given-names>M</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Eisenberg</surname>
+                  <given-names>N</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Asselin</surname>
+                  <given-names>BL</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Wood</surname>
+                  <given-names>BL</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Leonard Rn</surname>
+                  <given-names>MS</given-names>
+                </name>
+                <etal/>
+              </person-group>
+              <article-title>Safe integration of nelarabine into intensive chemotherapy in newly diagnosed T-cell acute lymphoblastic leukemia: Children's Oncology Group Study AALL0434.</article-title>
+              <source>Pediatr Blood Cancer</source>
+              <year>2015</year>
+              <volume>62</volume>
+              <fpage>1176</fpage>
+              <lpage>83</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Among 94 patients with acute T-cell leukemia or lymphoma treated with standard chemotherapy [usually methotrexate and pegaspargase] with or without nelarabine, rates of neuropathy were similar with or without nelarabine; no mention of ALT elevations or hepatotoxicity).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">25755211</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Nelarabine.REF.zwaan.2017.284">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Zwaan</surname>
+                  <given-names>CM</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Kowalczyk</surname>
+                  <given-names>J</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Schmitt</surname>
+                  <given-names>C</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Bielorai</surname>
+                  <given-names>B</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Russo</surname>
+                  <given-names>MW</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Woessner</surname>
+                  <given-names>M</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Ranganathan</surname>
+                  <given-names>S</given-names>
+                </name>
+                <etal/>
+              </person-group>
+              <article-title>Safety and efficacy of nelarabine in children and young adults with relapsed or refractory T-lineage acute lymphoblastic leukaemia or T-lineage lymphoblastic lymphoma: results of a phase 4 study.</article-title>
+              <source>Br J Haematol</source>
+              <year>2017</year>
+              <volume>179</volume>
+              <fpage>284</fpage>
+              <lpage>93</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Among 28 children or young adults with acute T cell leukemia or lymphoma treated with 1-5 cycles of nelarabine, median survival was 6.5 months and adverse events were common, with 5 cases of neurologic adverse events but ALT elevations above 5 times the ULN in only one patient).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">28771663</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Nelarabine.REF.kadia.2017.1">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Kadia</surname>
+                  <given-names>TM</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Gandhi</surname>
+                  <given-names>V</given-names>
+                </name>
+              </person-group>
+              <article-title>Nelarabine in the treatment of pediatric and adult patients with T-cell acute lymphoblastic leukemia and lymphoma.</article-title>
+              <source>Expert Rev Hematol</source>
+              <year>2017</year>
+              <volume>10</volume>
+              <fpage>1</fpage>
+              <lpage>8</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Review of the published literature on the efficacy and safety of nelarabine as therapy of acute T-cell leukemia and lymphoma, mentions the hematologic and neurologic toxicities which are frequent and are dose related; no mention of ALT elevations or hepatotoxicity).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">27869523</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Nelarabine.REF.abaza.2018.91">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Abaza</surname>
+                  <given-names>Y, M</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Kantarjian</surname>
+                  <given-names>H</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Faderl</surname>
+                  <given-names>S</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Jabbour</surname>
+                  <given-names>E</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Jain</surname>
+                  <given-names>N</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Thomas</surname>
+                  <given-names>D</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Kadia</surname>
+                  <given-names>T</given-names>
+                </name>
+                <etal/>
+              </person-group>
+              <article-title>Hyper-CVAD plus nelarabine in newly diagnosed adult T-cell acute lymphoblastic leukemia and T-lymphoblastic lymphoma.</article-title>
+              <source>Am J Hematol</source>
+              <year>2018</year>
+              <volume>93</volume>
+              <fpage>91</fpage>
+              <lpage>9</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Among 67 patients with acute T-cell leukemia or lymphoma treated with hyper-CVAD and nelarabine, the response rate was 96% and 3 year survival 66%, while adverse events occurred in all patients and were grade 3 or above in 91% with ALT elevations arising in 91% which were above 5 times ULN in 27%; no mention of clinically apparent hepatic adverse events).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">29047158</pub-id>
+            </element-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec sec-type="link-group" id="Nelarabine.OTHER_REFERENCE_LINKS">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <label>1</label>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=(Nelarabine/AE)+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D:%222999/12/31%22%5BEDat%5D)">Recent References on Nelarabine: from PubMed.gov</ext-link>
+            </p>
+          </list-item>
+          <list-item>
+            <label>2</label>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Nelarabine">Trials on Nelarabine: from ClinicalTrials.gov</ext-link>
+            </p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

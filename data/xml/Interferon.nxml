@@ -1,0 +1,761 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Interferon" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Interferon</book-part-id>
+      <title-group>
+        <title>Beta Interferon</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>4</day>
+          <month>5</month>
+          <year>2018</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Betablockers" document-type="chapter">Beta Adrenergic Blocking Agents</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Beta2AdrenergicAgoni" document-type="chapter">Beta-2 Adrenergic Agonists</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Interferon.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Interferon.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Interferon beta (&#x000df;-1a and &#x000df;-1b) is a cytokine and belongs to a group of naturally occurring proteins which interact with cell surface receptors to produce intracellular antiviral, anti-proliferative, and immuno-modulatory effects. Interferon beta is used commonly to prevent relapses in multiple sclerosis. Interferon beta is a well known cause of mild hepatic injury that occasionally can lead to severe liver injury with jaundice.</p>
+        </sec>
+        <sec id="Interferon.Background">
+          <title>Background</title>
+          <p>Interferon (in" ter feer' on) beta is a type I interferon produced by fibroblasts and macrophages in response to viral infection and antigenic stimuli. Interferon beta is structurally and antigenically distinct from interferon alfa, but they share the same cell surface receptors. Despite having a common receptor, the two interferons have different intracellular effects, acting through related but different pathways to trigger changes in gene expression that modulate inate and adaptive immune responses and antiviral pathways. Interferon beta was developed largely as an immunomodulatory agent and showed evidence of benefit in relapsing multiple sclerosis for which it was first approved for use in the United States in 1993. Its major indication is to reduce the frequency of clinical exacerbations. Currently, five forms of interferon beta are available:</p>
+          <list list-type="bullet">
+            <list-item>
+              <p>Betaseron &#x02013; interferon &#x000df;-1b, subcutaneous injection (250 mcg) every other day. Approved 1993.</p>
+            </list-item>
+            <list-item>
+              <p>Extavia &#x02013; interferon &#x000df;-1b, subcutaneous injection (250 mcg) every other day. Approved 1993</p>
+            </list-item>
+            <list-item>
+              <p>Avonex &#x02013; interferon &#x000df;-1a, intramuscular injection (30 mcg) once weekly. Approved 1996.</p>
+            </list-item>
+            <list-item>
+              <p>Rebif &#x02013; interferon &#x000df;-1a, subcutaneous injection (8.8 mcg, 22 mcg, 44 mcg) thrice weekly. Approved 2003.</p>
+            </list-item>
+            <list-item>
+              <p>Plegridy &#x02013; peginterferon &#x000df;-1a, subcutaneous injection (63, 94, 125 mcg) every 14 days. Approved 2014.</p>
+            </list-item>
+          </list>
+          <p>The various forms of beta interferon are provided as a lyophilized powder for reconstition or as a solution in single dose vials or in preflilled syringes, pens or autoinjectors. All five forms of beta interferon are produced by recombinant DNA techniques. They differ in specific activity and pharmacokinetics and thus are used in different doses and regimens. Peginterferon &#x000df;-1a consists of recombinant beta interferon covalently linked to polyethylene glycol which makes it a larger protein molecule with a longer half-life and duration of action. Therapy is routinely given long term. Typical side effects include fatigue, muscle aches, headache, depression, fever and mild bone marrow suppression. Severe adverse events reported with use of beta interferon include hypersensitivity reactions, thrombotic microangiopathy, severe depression, suicidal thoughts and behaviors and autoimmune disorders.</p>
+        </sec>
+        <sec id="Interferon.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>All five forms of interferon beta have been shown to cause hepatic injury, although most cases are asymptomatic and mild. The typical presentation is transient and mild elevations in serum aminotransferase levels occurring 3 to 12 months after starting therapy. Serum alkaline phosphatase levels are usually normal or minimally elevated, and symptoms and jaundice are rare. In prospective studies in which routine testing was applied, 20% to 40% of patients experienced at least one elevation in serum aminotransferase levels above 3 times the upper limit of normal. Elevations above 5 times the upper limit of normal occur in 2% to 5% of recipients. This effect may be dose related and is more common when it is given daily or several times a week (compared to once weekly). Persistent ALT elevations suggestive of chronic hepatitis can occur and may require discontinuation of treatment (Case 1).</p>
+          <p>Liver injury with jaundice is rare (&#x0003c;1:1000 treated patient), but can be severe (Case 2) and even fatal (Case 3). In these rare cases, jaundice and symptoms usually appear 2 to 12 months after starting therapy, but the latency to onset is extremely variable and acute injury can arise after years of treatment. The liver injury is typically mild, but it can lead to prolonged jaundice or to acute liver failure. The clinical pattern is usually hepatocellular and resembles acute viral hepatitis or chronic hepatitis with an acute exacerbation. Fever, rash and eosinophilia are not common. Autoimmune features are somewhat common, but may relate more to the underlying multiple sclerosis rather than drug induced liver disease. Most reported cases have occurred in women. Rechallenge should be avoided in cases with jaundice.</p>
+          <p>Likelihood score: A (well known cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Interferon.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The cause of hepatic injury from interferon beta is not known. The asymptomatic elevations in serum enzymes may be dose related. The cases with acute jaundice are occasionally associated with autoimmune features and may represent a triggering of an underlying autoimmune diathesis.</p>
+        </sec>
+        <sec id="Interferon.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>The liver injury caused by interferon beta ranges from mild and transient serum enzyme elevations to clinically apparent liver injury with jaundice to rare instances of acute liver failure. In most cases, the injury usually resolves with discontinuation, sometimes with a delay of one to two weeks. Fatal cases have been reported. Rechallenge should be avoided in patients with jaundice, but may be tried cautiously in patients with serum enzyme elevations only; in this case, switching from one form of interferon beta to another (1a vs 1b) might be appropriate, although cross reactivity has been reported. The product label for beta interferons recommend monitoring for liver test abnormaliteis and stopping therapy promptly if symptoms or jaundice arise.</p>
+          <p>Drug Class: Cytokine/Biologic Response Modifier, <related-object source-id="livertox" document-id="MultipleSclerosisAge">Multiple Sclerosis Agents</related-object>; Hepatitis C Drugs</p>
+        </sec>
+      </sec>
+      <sec id="Interferon.CASE_REPORTS">
+        <title>CASE REPORTS</title>
+        <sec id="Interferon.Case_1._Asymptomatic_aminotra">
+          <title>Case 1. Asymptomatic aminotransferase elevations during interferon beta therapy.</title>
+          <p>[Case 2 from: Fontana RJ, Hayashi P, Bonkovsky HL, Kleiner DE, Kochhar S, Gu J, Ghabril M. Presentation and Outcomes with Clinically Apparent Interferon Beta Hepatotoxicity. Dig Dis Sci 2013; 58: 1766-75. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/pubmed/23377559">PubMed Citation</ext-link>]</p>
+          <p>A 38 year old woman with multiple sclerosis was treated with interferon beta on several occasions during two of which she had asymptomatic serum aminotransferase elevations. Because of a relapse in her neurologic disease, she was retreated with interferon beta (&#x000df;-1b: Betaseron) 250 mcg weekly by subcutaneous injection. Serum enzymes were measured semi-annually and were mildly abnormal at 6 and more markedly elevated at 18 months. Interferon beta was stopped and enzyme levels decreased. However, she had a severe relapse in disease and was restarted on beta interferon with careful monitoring. Within two weeks, serum enzymes had risen and treatment was stopped again. Tests for hepatitis A, B and C and autoantibodies were negative, and CT scan of the abdomen showed no abnormalities. Because of persistence in enzyme elevations for 2 months, a liver biopsy was done which was read as normal. Other medications were continued, including gabapentin for neuropathy, bupropion for depression, nitrofurantoin for urinary tract infections and lansaprazole for reflux. In follow up one year later, serum enzyme tests had returned to pretreatment levels.</p>
+          <sec id="Interferon.Key_Points1">
+            <title>Key Points</title>
+            <table-wrap id="Interferon.T1" position="anchor" orientation="portrait">
+              <table>
+                <tbody>
+                  <tr>
+                    <td rowspan="1" colspan="1">Medication:</td>
+                    <td rowspan="1" colspan="1">Interferon &#x000df;-1b (250 mcg thrice weekly)</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Pattern:</td>
+                    <td rowspan="1" colspan="1">Mixed (R=3.1)</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Severity:</td>
+                    <td rowspan="1" colspan="1">1+ (enzyme elevations without jaundice)</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Latency:</td>
+                    <td rowspan="1" colspan="1">Initially 6 months, 11 days with reexposure</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Recovery:</td>
+                    <td rowspan="1" colspan="1">Delayed, but complete</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Other medications:</td>
+                    <td rowspan="1" colspan="1">Gabapentin, bupropion, nitrofurantoin, lansprazole</td>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Interferon.Laboratory_Values1">
+            <title>Laboratory Values</title>
+            <table-wrap id="Interferon.T2" position="anchor" orientation="portrait">
+              <table>
+                <thead>
+                  <tr>
+                    <th id="hd_h_Interferon.T2_1_1_1_1" rowspan="1" colspan="1">Time Since Starting</th>
+                    <th id="hd_h_Interferon.T2_1_1_1_2" rowspan="1" colspan="1">ALT<break/> (U/L)</th>
+                    <th id="hd_h_Interferon.T2_1_1_1_3" rowspan="1" colspan="1">Alk P<break/> (U/L)</th>
+                    <th id="hd_h_Interferon.T2_1_1_1_4" rowspan="1" colspan="1">Bilirubin <break/> (mg/dL)</th>
+                    <th id="hd_h_Interferon.T2_1_1_1_5" rowspan="1" colspan="1">Other</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td headers="hd_h_Interferon.T2_1_1_1_1" rowspan="1" colspan="1">Pre</td>
+                    <td headers="hd_h_Interferon.T2_1_1_1_2" rowspan="1" colspan="1">35</td>
+                    <td headers="hd_h_Interferon.T2_1_1_1_3" rowspan="1" colspan="1">147</td>
+                    <td headers="hd_h_Interferon.T2_1_1_1_4" rowspan="1" colspan="1">0.2</td>
+                    <td headers="hd_h_Interferon.T2_1_1_1_5" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Interferon.T2_1_1_1_1 hd_h_Interferon.T2_1_1_1_2 hd_h_Interferon.T2_1_1_1_3 hd_h_Interferon.T2_1_1_1_4 hd_h_Interferon.T2_1_1_1_5" colspan="5" rowspan="1">Interferon beta started</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Interferon.T2_1_1_1_1" rowspan="1" colspan="1">6 months</td>
+                    <td headers="hd_h_Interferon.T2_1_1_1_2" rowspan="1" colspan="1">103</td>
+                    <td headers="hd_h_Interferon.T2_1_1_1_3" rowspan="1" colspan="1">236</td>
+                    <td headers="hd_h_Interferon.T2_1_1_1_4" rowspan="1" colspan="1">0.2</td>
+                    <td headers="hd_h_Interferon.T2_1_1_1_5" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Interferon.T2_1_1_1_1" rowspan="1" colspan="1">18 months</td>
+                    <td headers="hd_h_Interferon.T2_1_1_1_2" rowspan="1" colspan="1">310</td>
+                    <td headers="hd_h_Interferon.T2_1_1_1_3" rowspan="1" colspan="1">254</td>
+                    <td headers="hd_h_Interferon.T2_1_1_1_4" rowspan="1" colspan="1">0.4</td>
+                    <td headers="hd_h_Interferon.T2_1_1_1_5" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Interferon.T2_1_1_1_1 hd_h_Interferon.T2_1_1_1_2 hd_h_Interferon.T2_1_1_1_3 hd_h_Interferon.T2_1_1_1_4 hd_h_Interferon.T2_1_1_1_5" colspan="5" rowspan="1">Interferon beta stopped</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Interferon.T2_1_1_1_1" rowspan="1" colspan="1">Pre</td>
+                    <td headers="hd_h_Interferon.T2_1_1_1_2" rowspan="1" colspan="1">40</td>
+                    <td headers="hd_h_Interferon.T2_1_1_1_3" rowspan="1" colspan="1">118</td>
+                    <td headers="hd_h_Interferon.T2_1_1_1_4" rowspan="1" colspan="1">0.3</td>
+                    <td headers="hd_h_Interferon.T2_1_1_1_5" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Interferon.T2_1_1_1_1 hd_h_Interferon.T2_1_1_1_2 hd_h_Interferon.T2_1_1_1_3 hd_h_Interferon.T2_1_1_1_4 hd_h_Interferon.T2_1_1_1_5" colspan="5" rowspan="1">Interferon beta restarted</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Interferon.T2_1_1_1_1" rowspan="1" colspan="1">11 days</td>
+                    <td headers="hd_h_Interferon.T2_1_1_1_2" rowspan="1" colspan="1">366</td>
+                    <td headers="hd_h_Interferon.T2_1_1_1_3" rowspan="1" colspan="1">322</td>
+                    <td headers="hd_h_Interferon.T2_1_1_1_4" rowspan="1" colspan="1">0.4</td>
+                    <td headers="hd_h_Interferon.T2_1_1_1_5" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Interferon.T2_1_1_1_1 hd_h_Interferon.T2_1_1_1_2 hd_h_Interferon.T2_1_1_1_3 hd_h_Interferon.T2_1_1_1_4 hd_h_Interferon.T2_1_1_1_5" colspan="5" rowspan="1">Interferon beta stopped</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Interferon.T2_1_1_1_1" rowspan="1" colspan="1">1 month</td>
+                    <td headers="hd_h_Interferon.T2_1_1_1_2" rowspan="1" colspan="1">134</td>
+                    <td headers="hd_h_Interferon.T2_1_1_1_3" rowspan="1" colspan="1">332</td>
+                    <td headers="hd_h_Interferon.T2_1_1_1_4" rowspan="1" colspan="1">0.3</td>
+                    <td headers="hd_h_Interferon.T2_1_1_1_5" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Interferon.T2_1_1_1_1" rowspan="1" colspan="1">2 month</td>
+                    <td headers="hd_h_Interferon.T2_1_1_1_2" rowspan="1" colspan="1">263</td>
+                    <td headers="hd_h_Interferon.T2_1_1_1_3" rowspan="1" colspan="1">276</td>
+                    <td headers="hd_h_Interferon.T2_1_1_1_4" rowspan="1" colspan="1">0.3</td>
+                    <td headers="hd_h_Interferon.T2_1_1_1_5" rowspan="1" colspan="1">Liver biopsy normal</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Interferon.T2_1_1_1_1" rowspan="1" colspan="1">1 year later</td>
+                    <td headers="hd_h_Interferon.T2_1_1_1_2" rowspan="1" colspan="1">38</td>
+                    <td headers="hd_h_Interferon.T2_1_1_1_3" rowspan="1" colspan="1">153</td>
+                    <td headers="hd_h_Interferon.T2_1_1_1_4" rowspan="1" colspan="1">0.2</td>
+                    <td headers="hd_h_Interferon.T2_1_1_1_5" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Interferon.T2_1_1_1_1" rowspan="1" colspan="1">
+                      <bold>Normal Values</bold>
+                    </td>
+                    <td headers="hd_h_Interferon.T2_1_1_1_2" rowspan="1" colspan="1">
+                      <bold>&#x0003c;45</bold>
+                    </td>
+                    <td headers="hd_h_Interferon.T2_1_1_1_3" rowspan="1" colspan="1">
+                      <bold>&#x0003c;130</bold>
+                    </td>
+                    <td headers="hd_h_Interferon.T2_1_1_1_4" rowspan="1" colspan="1">
+                      <bold>&#x0003c;1.2</bold>
+                    </td>
+                    <td headers="hd_h_Interferon.T2_1_1_1_5" rowspan="1" colspan="1"/>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Interferon.Comment1">
+            <title>Comment</title>
+            <p>This patient with multiple sclerosis developed recurrent asymptomatic serum enzyme elevations during several courses of interferon beta therapy. The alkaline phosphatase elevations were somewhat atypical for beta interferon induced liver injury, but mild elevations were present even before interferon was given. The patient was taking several other medications which can induce liver injury, but the liver abnormalities resolved despite continuation of these drugs. The liver biopsy indicated that there was no underlying chronic liver disease and that the drug induced liver injury was mild and not causing permanent injury or fibrosis. In cases such as this, retreatment with interferon beta might be considered if other options for management are exhausted. Careful monitoring of ALT and bilirubin levels is appropriate with discontinuation of interferon if ALT levels rise to above 10-fold elevated or either symptoms or jaundice arises. Switching from one form of interferon beta to another can be considered, but is unlikely to result in a different outcome. Use of a lower dose may also be appropriate.</p>
+          </sec>
+        </sec>
+        <sec id="Interferon.Case_2._Acute_hepatocellular_">
+          <title>Case 2. Acute hepatocellular injury with jaundice attributed to interferon beta.</title>
+          <p>[Case 6 from: Fontana RJ, Hayashi P, Bonkovsky HL, Kleiner DE, Kochhar S, Gu J, Ghabril M. Presentation and Outcomes with Clinically Apparent Interferon Beta Hepatotoxicity. Dig Dis Sci 2013; 58: 1766-75. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/pubmed/23377559">PubMed Citation</ext-link>]</p>
+          <p>A 46 year old woman with multiple sclerosis was started on interferon beta (&#x000df;-1a) in a dose of 30 mcg once weekly. After 3 months, serum aminotransferase levels were found to be elevated, and the medication was stopped. Two weeks later, she developed jaundice and underwent further evaluation. Tests for autoimmune liver disease and viral hepatitis were negative. Ultrasound of the liver was normal. A liver biopsy demonstrated changes suggestive of acute hepatitis with moderate inflammation and early fibrosis. She remained minimally symptomatic and was not hospitalized. Her other medications for hypertension were continued. Serum aminotransferase levels and jaundice resolved slowly, but all tests were normal in follow up 5 months later.</p>
+          <sec id="Interferon.Key_Points2">
+            <title>Key Points</title>
+            <table-wrap id="Interferon.T3" position="anchor" orientation="portrait">
+              <table>
+                <tbody>
+                  <tr>
+                    <td rowspan="1" colspan="1">Medication:</td>
+                    <td rowspan="1" colspan="1">Interferon &#x000df;-1a (30 mcg intramuscularly once weekly)</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Pattern:</td>
+                    <td rowspan="1" colspan="1">Hepatocellular (R=27)</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Severity:</td>
+                    <td rowspan="1" colspan="1">2+ (jaundice, not hospitalized)</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Latency:</td>
+                    <td rowspan="1" colspan="1">3 months</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Recovery:</td>
+                    <td rowspan="1" colspan="1">Complete, 4-5 months after stopping</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Other medications:</td>
+                    <td rowspan="1" colspan="1">Hydrochlorothiazide, bisoprolol, zolpidem</td>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Interferon.Laboratory_Values2">
+            <title>Laboratory Values</title>
+            <table-wrap id="Interferon.T4" position="anchor" orientation="portrait">
+              <table>
+                <thead>
+                  <tr>
+                    <th id="hd_h_Interferon.T4_1_1_1_1" rowspan="1" colspan="1">Days After Starting</th>
+                    <th id="hd_h_Interferon.T4_1_1_1_2" rowspan="1" colspan="1">Days After Stopping</th>
+                    <th id="hd_h_Interferon.T4_1_1_1_3" rowspan="1" colspan="1">ALT (U/L)</th>
+                    <th id="hd_h_Interferon.T4_1_1_1_4" rowspan="1" colspan="1">Alk P (U/L)</th>
+                    <th id="hd_h_Interferon.T4_1_1_1_5" rowspan="1" colspan="1">Bilirubin (mg/dL)</th>
+                    <th id="hd_h_Interferon.T4_1_1_1_6" rowspan="1" colspan="1">Other</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td headers="hd_h_Interferon.T4_1_1_1_1" rowspan="1" colspan="1">Pre</td>
+                    <td headers="hd_h_Interferon.T4_1_1_1_2" rowspan="1" colspan="1">Pre</td>
+                    <td headers="hd_h_Interferon.T4_1_1_1_3" rowspan="1" colspan="1">9</td>
+                    <td headers="hd_h_Interferon.T4_1_1_1_4" rowspan="1" colspan="1">50</td>
+                    <td headers="hd_h_Interferon.T4_1_1_1_5" rowspan="1" colspan="1">0.5</td>
+                    <td headers="hd_h_Interferon.T4_1_1_1_6" rowspan="1" colspan="1">Baseline</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Interferon.T4_1_1_1_1" rowspan="1" colspan="1">0</td>
+                    <td headers="hd_h_Interferon.T4_1_1_1_2" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Interferon.T4_1_1_1_3 hd_h_Interferon.T4_1_1_1_4 hd_h_Interferon.T4_1_1_1_5 hd_h_Interferon.T4_1_1_1_6" colspan="4" rowspan="1">Interferon beta started</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Interferon.T4_1_1_1_1" rowspan="1" colspan="1">100</td>
+                    <td headers="hd_h_Interferon.T4_1_1_1_2" rowspan="1" colspan="1">0</td>
+                    <td headers="hd_h_Interferon.T4_1_1_1_3" rowspan="1" colspan="1">850</td>
+                    <td headers="hd_h_Interferon.T4_1_1_1_4" rowspan="1" colspan="1">91</td>
+                    <td headers="hd_h_Interferon.T4_1_1_1_5" rowspan="1" colspan="1">0.7</td>
+                    <td headers="hd_h_Interferon.T4_1_1_1_6" rowspan="1" colspan="1">Routine testing</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Interferon.T4_1_1_1_1" rowspan="1" colspan="1">103</td>
+                    <td headers="hd_h_Interferon.T4_1_1_1_2" rowspan="1" colspan="1">0</td>
+                    <td headers="hd_h_Interferon.T4_1_1_1_3 hd_h_Interferon.T4_1_1_1_4 hd_h_Interferon.T4_1_1_1_5 hd_h_Interferon.T4_1_1_1_6" colspan="4" rowspan="1">Interferon beta stopped</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Interferon.T4_1_1_1_1" rowspan="1" colspan="1">117</td>
+                    <td headers="hd_h_Interferon.T4_1_1_1_2" rowspan="1" colspan="1">14</td>
+                    <td headers="hd_h_Interferon.T4_1_1_1_3" rowspan="1" colspan="1">1484</td>
+                    <td headers="hd_h_Interferon.T4_1_1_1_4" rowspan="1" colspan="1">150</td>
+                    <td headers="hd_h_Interferon.T4_1_1_1_5" rowspan="1" colspan="1">3.3</td>
+                    <td headers="hd_h_Interferon.T4_1_1_1_6" rowspan="1" colspan="1">Jaundice</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Interferon.T4_1_1_1_1" rowspan="1" colspan="1">122</td>
+                    <td headers="hd_h_Interferon.T4_1_1_1_2" rowspan="1" colspan="1">18</td>
+                    <td headers="hd_h_Interferon.T4_1_1_1_3" rowspan="1" colspan="1">1150</td>
+                    <td headers="hd_h_Interferon.T4_1_1_1_4" rowspan="1" colspan="1">144</td>
+                    <td headers="hd_h_Interferon.T4_1_1_1_5" rowspan="1" colspan="1">3.9</td>
+                    <td headers="hd_h_Interferon.T4_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Interferon.T4_1_1_1_1" rowspan="1" colspan="1">174</td>
+                    <td headers="hd_h_Interferon.T4_1_1_1_2" rowspan="1" colspan="1">71</td>
+                    <td headers="hd_h_Interferon.T4_1_1_1_3" rowspan="1" colspan="1">792</td>
+                    <td headers="hd_h_Interferon.T4_1_1_1_4" rowspan="1" colspan="1">173</td>
+                    <td headers="hd_h_Interferon.T4_1_1_1_5" rowspan="1" colspan="1">2.7</td>
+                    <td headers="hd_h_Interferon.T4_1_1_1_6" rowspan="1" colspan="1">Liver biopsy</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Interferon.T4_1_1_1_1" rowspan="1" colspan="1">240</td>
+                    <td headers="hd_h_Interferon.T4_1_1_1_2" rowspan="1" colspan="1">137</td>
+                    <td headers="hd_h_Interferon.T4_1_1_1_3" rowspan="1" colspan="1">18</td>
+                    <td headers="hd_h_Interferon.T4_1_1_1_4" rowspan="1" colspan="1">100</td>
+                    <td headers="hd_h_Interferon.T4_1_1_1_5" rowspan="1" colspan="1">0.5</td>
+                    <td headers="hd_h_Interferon.T4_1_1_1_6" rowspan="1" colspan="1">Follow up</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Interferon.T4_1_1_1_1 hd_h_Interferon.T4_1_1_1_2" colspan="2" rowspan="1">
+                      <bold>Normal Values</bold>
+                    </td>
+                    <td headers="hd_h_Interferon.T4_1_1_1_3" rowspan="1" colspan="1">
+                      <bold>&#x0003c;42</bold>
+                    </td>
+                    <td headers="hd_h_Interferon.T4_1_1_1_4" rowspan="1" colspan="1">
+                      <bold>&#x0003c;115</bold>
+                    </td>
+                    <td headers="hd_h_Interferon.T4_1_1_1_5" rowspan="1" colspan="1">
+                      <bold>&#x0003c;1.2</bold>
+                    </td>
+                    <td headers="hd_h_Interferon.T4_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Interferon.Comment2">
+            <title>Comment</title>
+            <p>In this lady, routine laboratory surveillance identified marked elevations in serum ALT levels approximately 3 months after starting therapy with interferon beta for multiple sclerosis. Interferon was stopped promptly, but liver test abnormalities continued to worsen for the next two weeks and she developed jaundice and mild symptoms of liver disease. Clinical history, laboratory tests, imaging studies and liver biopsy revealed no other cause for acute liver injury and the abnormalities resolved completely after treatment was stopped. This case was reviewed by an expert panel and judged as definite hepatotoxicity due to interferon beta with an acute self-limited course of mild-to-moderate (2+) severity. This patient should be cautioned against further exposure to interferon beta.</p>
+          </sec>
+        </sec>
+        <sec id="Interferon.Case_3._Acute_liver_failure_a">
+          <title>Case 3. Acute liver failure arising during interferon beta therapy of multiple sclerosis.</title>
+          <p>[Case 8 from: Fontana RJ, Hayashi P, Bonkovsky HL, Kleiner DE, Kochhar S, Gu J, Ghabril M. Presentation and Outcomes with Clinically Apparent Interferon Beta Hepatotoxicity. Dig Dis Sci 2013; 58: 1766-75. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/pubmed/23377559">PubMed Citation</ext-link>]</p>
+          <p>A 33 year old woman with multiple sclerosis, who was unresponsive to conventional therapy, was treated with interferon &#x000df;-1a in a dose of 44 mcg subcutaneously thrice weekly. Ten months after starting therapy, she developed fatigue followed by jaundice and clay-colored stools. She was found to have anasarca and severe jaundice and was hospitalized. Tests for hepatitis A, B and C and autoantibodies were negative, except for anti-phospholipid antibody. Ultrasound of the liver and ERCP were unrevealing. Liver biopsy demonstrated massive necrosis and was consistent with severe drug induced liver injury. She continued to deteriorate and was transferred to a liver transplant center where she was placed on corticosteroids and listed for transplant. While awaiting liver transplantation, she developed sepsis followed by multiple organ failure and death.</p>
+          <sec id="Interferon.Key_Points3">
+            <title>Key Points</title>
+            <table-wrap id="Interferon.T5" position="anchor" orientation="portrait">
+              <table>
+                <tbody>
+                  <tr>
+                    <td rowspan="1" colspan="1">Medication:</td>
+                    <td rowspan="1" colspan="1">Interferon &#x000df;1a (44 mcg three times weekly)</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Pattern:</td>
+                    <td rowspan="1" colspan="1">Hepatocellular (R=24)</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Severity:</td>
+                    <td rowspan="1" colspan="1">5+ (death)</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Latency:</td>
+                    <td rowspan="1" colspan="1">10 months</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Recovery:</td>
+                    <td rowspan="1" colspan="1">Death</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Other medications:</td>
+                    <td rowspan="1" colspan="1">None</td>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Interferon.Laboratory_Values3">
+            <title>Laboratory Values</title>
+            <table-wrap id="Interferon.T6" position="anchor" orientation="portrait">
+              <table>
+                <thead>
+                  <tr>
+                    <th id="hd_h_Interferon.T6_1_1_1_1" rowspan="1" colspan="1">Time After Starting</th>
+                    <th id="hd_h_Interferon.T6_1_1_1_2" rowspan="1" colspan="1">Time After Stopping</th>
+                    <th id="hd_h_Interferon.T6_1_1_1_3" rowspan="1" colspan="1">ALT (U/L)</th>
+                    <th id="hd_h_Interferon.T6_1_1_1_4" rowspan="1" colspan="1">Alk P (U/L)</th>
+                    <th id="hd_h_Interferon.T6_1_1_1_5" rowspan="1" colspan="1">Bilirubin (mg/dL)</th>
+                    <th id="hd_h_Interferon.T6_1_1_1_6" rowspan="1" colspan="1">Other</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td headers="hd_h_Interferon.T6_1_1_1_1" rowspan="1" colspan="1">0</td>
+                    <td headers="hd_h_Interferon.T6_1_1_1_2" rowspan="1" colspan="1">Pre</td>
+                    <td headers="hd_h_Interferon.T6_1_1_1_3 hd_h_Interferon.T6_1_1_1_4 hd_h_Interferon.T6_1_1_1_5 hd_h_Interferon.T6_1_1_1_6" colspan="4" rowspan="1">Beta interferon started</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Interferon.T6_1_1_1_1" rowspan="1" colspan="1">10 months</td>
+                    <td headers="hd_h_Interferon.T6_1_1_1_2" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Interferon.T6_1_1_1_3 hd_h_Interferon.T6_1_1_1_4 hd_h_Interferon.T6_1_1_1_5 hd_h_Interferon.T6_1_1_1_6" colspan="4" rowspan="1">Jaundice, fatigue, clay colored stools</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Interferon.T6_1_1_1_1" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Interferon.T6_1_1_1_2" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Interferon.T6_1_1_1_3 hd_h_Interferon.T6_1_1_1_4 hd_h_Interferon.T6_1_1_1_5 hd_h_Interferon.T6_1_1_1_6" colspan="4" rowspan="1">Beta interferon stopped: hospitalized</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Interferon.T6_1_1_1_1" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Interferon.T6_1_1_1_2" rowspan="1" colspan="1">3 days</td>
+                    <td headers="hd_h_Interferon.T6_1_1_1_3" rowspan="1" colspan="1">1,901</td>
+                    <td headers="hd_h_Interferon.T6_1_1_1_4" rowspan="1" colspan="1">224</td>
+                    <td headers="hd_h_Interferon.T6_1_1_1_5" rowspan="1" colspan="1">4.5</td>
+                    <td headers="hd_h_Interferon.T6_1_1_1_6" rowspan="1" colspan="1">INR 1.0</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Interferon.T6_1_1_1_1" rowspan="1" colspan="1">11 months</td>
+                    <td headers="hd_h_Interferon.T6_1_1_1_2" rowspan="1" colspan="1">4 weeks</td>
+                    <td headers="hd_h_Interferon.T6_1_1_1_3" rowspan="1" colspan="1">396</td>
+                    <td headers="hd_h_Interferon.T6_1_1_1_4" rowspan="1" colspan="1">216</td>
+                    <td headers="hd_h_Interferon.T6_1_1_1_5" rowspan="1" colspan="1">25.3</td>
+                    <td headers="hd_h_Interferon.T6_1_1_1_6" rowspan="1" colspan="1">Liver Biopsy</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Interferon.T6_1_1_1_1" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Interferon.T6_1_1_1_2" rowspan="1" colspan="1">5 weeks</td>
+                    <td headers="hd_h_Interferon.T6_1_1_1_3" rowspan="1" colspan="1">374</td>
+                    <td headers="hd_h_Interferon.T6_1_1_1_4" rowspan="1" colspan="1">274</td>
+                    <td headers="hd_h_Interferon.T6_1_1_1_5" rowspan="1" colspan="1">21.1</td>
+                    <td headers="hd_h_Interferon.T6_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Interferon.T6_1_1_1_1" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Interferon.T6_1_1_1_2" rowspan="1" colspan="1">7 weeks</td>
+                    <td headers="hd_h_Interferon.T6_1_1_1_3" rowspan="1" colspan="1">329</td>
+                    <td headers="hd_h_Interferon.T6_1_1_1_4" rowspan="1" colspan="1">371</td>
+                    <td headers="hd_h_Interferon.T6_1_1_1_5" rowspan="1" colspan="1">16.6</td>
+                    <td headers="hd_h_Interferon.T6_1_1_1_6" rowspan="1" colspan="1">Transfer</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Interferon.T6_1_1_1_1" rowspan="1" colspan="1">12 months</td>
+                    <td headers="hd_h_Interferon.T6_1_1_1_2" rowspan="1" colspan="1">8 weeks</td>
+                    <td headers="hd_h_Interferon.T6_1_1_1_3" rowspan="1" colspan="1">185</td>
+                    <td headers="hd_h_Interferon.T6_1_1_1_4" rowspan="1" colspan="1">277</td>
+                    <td headers="hd_h_Interferon.T6_1_1_1_5" rowspan="1" colspan="1">14.2</td>
+                    <td headers="hd_h_Interferon.T6_1_1_1_6" rowspan="1" colspan="1">INR 2.4</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Interferon.T6_1_1_1_1" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Interferon.T6_1_1_1_2" rowspan="1" colspan="1">10 weeks</td>
+                    <td headers="hd_h_Interferon.T6_1_1_1_3" rowspan="1" colspan="1">102</td>
+                    <td headers="hd_h_Interferon.T6_1_1_1_4" rowspan="1" colspan="1">161</td>
+                    <td headers="hd_h_Interferon.T6_1_1_1_5" rowspan="1" colspan="1">19.2</td>
+                    <td headers="hd_h_Interferon.T6_1_1_1_6" rowspan="1" colspan="1">INR 2.6</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Interferon.T6_1_1_1_1" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Interferon.T6_1_1_1_2" rowspan="1" colspan="1">11 weeks</td>
+                    <td headers="hd_h_Interferon.T6_1_1_1_3" rowspan="1" colspan="1">367</td>
+                    <td headers="hd_h_Interferon.T6_1_1_1_4" rowspan="1" colspan="1">154</td>
+                    <td headers="hd_h_Interferon.T6_1_1_1_5" rowspan="1" colspan="1">23.0</td>
+                    <td headers="hd_h_Interferon.T6_1_1_1_6" rowspan="1" colspan="1">INR 3.3</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Interferon.T6_1_1_1_1" rowspan="1" colspan="1">13 months</td>
+                    <td headers="hd_h_Interferon.T6_1_1_1_2" rowspan="1" colspan="1">12 weeks</td>
+                    <td headers="hd_h_Interferon.T6_1_1_1_3" rowspan="1" colspan="1">114</td>
+                    <td headers="hd_h_Interferon.T6_1_1_1_4" rowspan="1" colspan="1">435</td>
+                    <td headers="hd_h_Interferon.T6_1_1_1_5" rowspan="1" colspan="1">27.0</td>
+                    <td headers="hd_h_Interferon.T6_1_1_1_6" rowspan="1" colspan="1">INR 4.0</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Interferon.T6_1_1_1_1" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Interferon.T6_1_1_1_2" rowspan="1" colspan="1">14 weeks</td>
+                    <td headers="hd_h_Interferon.T6_1_1_1_3 hd_h_Interferon.T6_1_1_1_4 hd_h_Interferon.T6_1_1_1_5 hd_h_Interferon.T6_1_1_1_6" colspan="4" rowspan="1">Death</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Interferon.T6_1_1_1_1 hd_h_Interferon.T6_1_1_1_2" colspan="2" rowspan="1">
+                      <bold>Normal Values</bold>
+                    </td>
+                    <td headers="hd_h_Interferon.T6_1_1_1_3" rowspan="1" colspan="1">
+                      <bold>&#x0003c;42</bold>
+                    </td>
+                    <td headers="hd_h_Interferon.T6_1_1_1_4" rowspan="1" colspan="1">
+                      <bold>&#x0003c;116</bold>
+                    </td>
+                    <td headers="hd_h_Interferon.T6_1_1_1_5" rowspan="1" colspan="1">
+                      <bold>&#x0003c;1.2</bold>
+                    </td>
+                    <td headers="hd_h_Interferon.T6_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Interferon.Comment3">
+            <title>Comment</title>
+            <p>This patient developed a severe, acute hepatitis-like clinical syndrome 10 months after starting therapy with interferon beta and died of progressive liver injury despite discontinuation of treatment as soon as jaundice was noted. Other causes of acute liver failure were excluded by history, laboratory tests, imaging and liver biopsy. While the relationship of this acute injury to interferon beta seems clear, acute liver failure in adults with multiple sclerosis can occur in the absence of an exciting factor. Use of corticosteroids in drug induced liver disease is controversial and usually limited to cases with clinical or laboratory findings suggestive of autoimmunity. In this case, anti-phospholipid antibody was considered adequate evidence. Because this patient did not undergo routine screening of serum enzymes during therapy, it is unclear whether indications for significant liver injury (marked ALT elevations) were present before the onset of jaundice and symptoms (as in Case 2).</p>
+          </sec>
+        </sec>
+      </sec>
+      <sec id="Interferon.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <boxed-text position="anchor" id="Interferon.BPI" orientation="portrait">
+          <p>
+            <bold>REPRESENTATIVE TRADE NAMES</bold>
+          </p>
+          <p>Interferon Beta-1b &#x02013; Betaseron&#x000ae; (Bayer HealthCare Pharmaceuticals)</p>
+          <p>Interferon Beta-1a &#x02013; Avonex&#x000ae; (Biogen Idec), Rebif&#x000ae; (Serono)</p>
+          <p>
+            <bold>DRUG CLASS</bold>
+          </p>
+          <p>Cytokine/Biologic Response Modifier, Multiple Sclerosis Agents</p>
+          <p>
+            <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=interferon">COMPLETE LABELING</ext-link>
+          </p>
+          <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+        </boxed-text>
+      </sec>
+      <sec id="Interferon.CHEMICAL_FORMULAS_AND_STRUCTU">
+        <title>CHEMICAL FORMULAS AND STRUCTURES</title>
+        <table-wrap id="Interferon.T7" position="anchor" orientation="portrait">
+          <table>
+            <thead>
+              <tr>
+                <th id="hd_h_Interferon.T7_1_1_1_1" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Interferon.T7_1_1_1_2" rowspan="1" colspan="1">CAS REGISTRY NO</th>
+                <th id="hd_h_Interferon.T7_1_1_1_3" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Interferon.T7_1_1_1_4" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Interferon.T7_1_1_1_1" rowspan="1" colspan="1">Interferon Beta-1a/1b</td>
+                <td headers="hd_h_Interferon.T7_1_1_1_2" rowspan="1" colspan="1">
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135339764">220581-49-7</ext-link>
+                </td>
+                <td headers="hd_h_Interferon.T7_1_1_1_3" rowspan="1" colspan="1">Not available</td>
+                <td headers="hd_h_Interferon.T7_1_1_1_4" rowspan="1" colspan="1">Not available</td>
+              </tr>
+              <tr>
+                <td headers="hd_h_Interferon.T7_1_1_1_1" rowspan="1" colspan="1">Interferon Beta-1a</td>
+                <td headers="hd_h_Interferon.T7_1_1_1_2" rowspan="1" colspan="1">
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135335764">145258-61-3</ext-link>
+                </td>
+                <td headers="hd_h_Interferon.T7_1_1_1_3" rowspan="1" colspan="1">Not available</td>
+                <td headers="hd_h_Interferon.T7_1_1_1_4" rowspan="1" colspan="1">Not available</td>
+              </tr>
+              <tr>
+                <td headers="hd_h_Interferon.T7_1_1_1_1" rowspan="1" colspan="1">Interferon Beta-1b</td>
+                <td headers="hd_h_Interferon.T7_1_1_1_2" rowspan="1" colspan="1">
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135350896">145155-23-3</ext-link>
+                </td>
+                <td headers="hd_h_Interferon.T7_1_1_1_3" rowspan="1" colspan="1">Not available</td>
+                <td headers="hd_h_Interferon.T7_1_1_1_4" rowspan="1" colspan="1">Not available</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Interferon.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 04 May 2018</p>
+        <ref-list id="Interferon.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Interferon.R1">
+            <mixed-citation publication-type="other">Zimmerman HJ. Oncotherapeutic and immunosuppressive agents. In, Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999, pp. 673-708.<annotation><p><italic toggle="yes">(Expert review of hepatotoxicity published in 1999; interferon beta is not discussed).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Interferon.R2">
+            <mixed-citation publication-type="other">Krensky AM, Bennett WM, Vincenti F. Immunosuppresants, tolerogens, and immunostimulants. In, Brunton LL, Chabner BA, Knollman BC, eds. Goodman &#x00026; Gilman's the pharmacological basis of therapeutics. 12th ed. New York: McGraw-Hill, 2011, pp. 1005-29.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics; the effects of interferon beta in multiple sclerosis may relate to their ability to inhibit proliferation of T cells, block their movement into the CNS and to cause a shift in profile from pro- to anti-inflammatory types).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Interferon.R3">
+            <mixed-citation publication-type="journal">Ravandi F, Estrov Z, Kurzrock R, Breitmeyer JB, et al. A phase I study of recombinant interferon-beta in patients with advanced malignant disease. Clin Cancer Res 1999; 5: 3990-8. <annotation><p><italic toggle="yes">(Study of 34 patients with cancer given increasing doses of interferon beta-1a for 28 days; AST elevations occurred in 85%, ALT in 55%, particularly at higher doses; no clinically apparent liver injury).</italic></p></annotation><pub-id pub-id-type="pmid">10632330</pub-id></mixed-citation>
+          </ref>
+          <ref id="Interferon.R4">
+            <mixed-citation publication-type="journal">Durelli L, Ferrero B, Oggero A, Verdun E, Bongioanni MR, Gentile E, Isoardo GL, et al. Autoimmune events during interferon beta-1b treatment for multiple sclerosis. J Neurol Sci 1999; 162: 74-83. <annotation><p><italic toggle="yes">(Monitoring for autoantibodies in 40 interferon beta-1b treated and 21 controls with multiple sclerosis; 32% of treated, but no control developed autoantibodies; usually present transiently and in low levels; 3 developed autoimmune thyroiditis).</italic></p></annotation><pub-id pub-id-type="pmid">10064173</pub-id></mixed-citation>
+          </ref>
+          <ref id="Interferon.R5">
+            <mixed-citation publication-type="journal">Arbizu T, Alvarez-Cermeno JC, Decap G, Fernandez O, Garcia Merino A, Izquierdo G, et al. Interferon beta-1b treatment in patients with relapsing--remitting multiple sclerosis under a standardized protocol in Spain. Acta Neurol Scand 2000; 102: 209-17. <annotation><p><italic toggle="yes">(Analysis of Spanish database on 1419 patients with multiple sclerosis treated with interferon beta-1b, ALT elevations occurred in 0.5%, thyroid abnormalities in 0.4%).</italic></p></annotation><pub-id pub-id-type="pmid">11071104</pub-id></mixed-citation>
+          </ref>
+          <ref id="Interferon.R6">
+            <mixed-citation publication-type="journal">Durelli L, Ferrero B, Oggero A, Verdun E, Ghezzi A, Montanari E, Zaffaroni M, et al.; Betaferon Safety Trial (BEST) Study Group. Liver and thyroid function and autoimmunity during interferon-beta 1b treatment for MS. Neurology 2001; 57: 1363-70. <annotation><p><italic toggle="yes">(Prospective study of 156 patients with multiple sclerosis treated with interferon beta-1b, found liver abnormalities in 4.6% at baseline, while 37.5% developed them on treatment; usually transient and within first 6 months; only 14% had ALT elevations &#x0003e;2 times ULN and no patient developed clinically apparent liver injury).</italic></p></annotation><pub-id pub-id-type="pmid">11673572</pub-id></mixed-citation>
+          </ref>
+          <ref id="Interferon.R7">
+            <mixed-citation publication-type="journal">Yoshida EM, Rasmussen SL, Steinbrecher UP, Erb SR, Scudamore CH, Chung SW, Oger JJ, Hashiomoto SA. Fulminant liver failure during interferon beta treatment of multiple sclerosis. Neurology 2001; 56: 1416. <annotation><p><italic toggle="yes"> (59 year old woman with multiple sclerosis developed nausea after 4 and jaundice after 6 weeks of interferon beta-1a [bilirubin 28.9 mg/dL, ALT 1360 U/L, Alk P 165 U/L, INR 8], ultimately requiring liver transplantation for acute liver failure).</italic></p></annotation><pub-id pub-id-type="pmid">11376205</pub-id></mixed-citation>
+          </ref>
+          <ref id="Interferon.R8">
+            <mixed-citation publication-type="journal">Panitch H, Goodin DS, Francis G, Chang P, Coyle PK, O'Donnor P, Monaghan E, et al; EVIDENCE Study Group. Evidence of Interferon Dose-response: European North American Comparative Efficacy; University of British Columbia MS/MRI Research Group. Randomized, comparative study of interferon beta-1a treatment regimens in MS: The EVIDENCE Trial. Neurology 2002; 59: 1496-506. <annotation><p><italic toggle="yes"> (Controlled trial of 2 regimens of interferon beta-1a in 676 patients with multiple sclerosis; ALT elevations occurred in 9-18%, but only 2% had ALT values &#x0003e;5 times ULN and none developed clinically apparent hepatitis).</italic></p></annotation><pub-id pub-id-type="pmid">12451188</pub-id></mixed-citation>
+          </ref>
+          <ref id="Interferon.R9">
+            <mixed-citation publication-type="journal">Duccini A. Autoimmune hepatitis and interferon beta-1a for multiple sclerosis. Am J Gastroenterol 2002; 97: 767-8. <annotation><p><italic toggle="yes"> (38 year old woman developed jaundice 24 months after starting interferon beta-1a [bilirubin 18.7 mg/dL, ALT 1875 U/L, Alk P 221 U/L, protime 19.3 sec, SMA 1:80], treated with prednisone and ultimately recovered).</italic></p></annotation><pub-id pub-id-type="pmid">11922585</pub-id></mixed-citation>
+          </ref>
+          <ref id="Interferon.R10">
+            <mixed-citation publication-type="journal">Tan FU, Cetinkaya H, Erden E, Ulkatan S, Aydin N. Dual benefit from intramuscular interferon-beta treatment in a patient with multiple sclerosis and chronic hepatitis-C virus infection. Hepatogastroenterology 2002; 49: 1686-7. <annotation><p><italic toggle="yes">(32 year old woman with both multiple sclerosis and hepatitis C appeared to have benefit to both conditions during interferon beta therapy).</italic></p></annotation><pub-id pub-id-type="pmid">12397766</pub-id></mixed-citation>
+          </ref>
+          <ref id="Interferon.R11">
+            <mixed-citation publication-type="journal">Francis GS, Grumser Y, Alteri E, Micaleff A, O'Brien F, Alsop J, Moraga MS, et al. Hepatic reactions during treatment of multiple sclerosis with interferon-beta-1a: incidence and clinical significance. Drug Saf 2003; 26: 815-27. <annotation><p><italic toggle="yes">(Summary analysis of 6 controlled trials of interferon beta-1a for multiple sclerosis; ALT elevations occurred in 19% of controls and 28% of once weekly and 53-67% of thrice weekly treated patients; ALT elevations were rarely persistent and required discontinuation in &#x0003c;1% of patients; elevations were more frequent among males than females and in those on NSAIDs, but rates did not vary by age, body weight or acetaminophen use; postmarketing surveillance identified 30 cases of hepatotoxicity, 50% with jaundice, 2 requiring liver transplantation).</italic></p></annotation><pub-id pub-id-type="pmid">12908850</pub-id></mixed-citation>
+          </ref>
+          <ref id="Interferon.R12">
+            <mixed-citation publication-type="journal">Leary SM, Miller DH, Stevenson VL, Brex PA, Chard DT, Thompson AJ. Interferon beta-1a in primary progressive MS: an exploratory, randomized, controlled trial. Neurology 2003; 60: 44-51. <annotation><p><italic toggle="yes">(Controlled trial of interferon beta-1a in doses of 30 vs 60 &#x000b5;g weekly for 2 years; ALT elevations &#x0003e; twice ULN occurred in 33% of those given 60 &#x000b5;g, but in none of placebo or 30 &#x000b5;g treated groups; no clinically apparent hepatitis).</italic></p></annotation><pub-id pub-id-type="pmid">12525716</pub-id></mixed-citation>
+          </ref>
+          <ref id="Interferon.R13">
+            <mixed-citation publication-type="journal">Tremlett HL, Yoshida EM, Oger J. Liver injury associated with the beta-interferons for MS: a comparison between the three products. Neurology 2004; 62: 628-31. <annotation><p><italic toggle="yes">(Population based analysis of 846 patients with multiple sclerosis treated with interferon beta-1a or -1b in British Colombia; ALT elevations occurred in 23-39% of patients, but were &#x0003e;5 times ULN in only 1-2%; 2 patients developed clinically apparent jaundice; no predictors of ALT elevations identified).</italic></p></annotation><pub-id pub-id-type="pmid">14981183</pub-id></mixed-citation>
+          </ref>
+          <ref id="Interferon.R14">
+            <mixed-citation publication-type="journal">Francis GS, Kaplowitz N, Alteri E. Liver injury associated with the beta-interferons for MS. Neurology 2004; 63: 1142-3; author reply 1142-3. <annotation><p><italic toggle="yes"> (Letter in response to Tremlett [2004] commenting upon conclusions).</italic></p></annotation><pub-id pub-id-type="pmid">15457586</pub-id></mixed-citation>
+          </ref>
+          <ref id="Interferon.R15">
+            <mixed-citation publication-type="journal">Tremlett HL, Oger J. Elevated aminotransferases during treatment with interferon-beta for multiple sclerosis: actions and outcomes. Mult Scler 2004; 10: 298-301. <annotation><p><italic toggle="yes">(Among 835 patients with multiple sclerosis treated with interferon beta, 34% developed ALT elevations and one acute liver failure [Yoshida 2001]).</italic></p></annotation><pub-id pub-id-type="pmid">15222695</pub-id></mixed-citation>
+          </ref>
+          <ref id="Interferon.R16">
+            <mixed-citation publication-type="journal">N&#x000fa;&#x000f1;ez O, de Andr&#x000e9;s C, Alvarez E, Garc&#x000ed;a-Monz&#x000f3;n C, Clemente G. [Autoimmune hepatitis in patients with a diagnosis of multiple sclerosis]. Gastroenterol Hepatol 2004; 27: 521-4. Spanish. <annotation><p><italic toggle="yes">(Two women, ages 25 and 28, with multiple sclerosis but not on interferon beta developed autoimmune hepatitis [bilirubin 3.9 and 7.5 mg/dL, ALT 1146 and 748 U/L, Alk P 151 and 231 U/L, ANA negative], one responding to corticosteroid therapy, the other progressing to hepatic failure and death).</italic></p></annotation><pub-id pub-id-type="pmid">15544737</pub-id></mixed-citation>
+          </ref>
+          <ref id="Interferon.R17">
+            <mixed-citation publication-type="journal">Russo MW, Galanko JA, Shrestha R, Fried MW, Watkins P. Liver transplantation for acute liver failure from drug-induced liver injury in the United States. Liver Transpl 2004; 10: 1018-23. <annotation><p><italic toggle="yes">(Among ~50,000 liver transplants done in the US between 1990 and 2002, 270 [0.5%] were done for drug induced acute liver failure, but no case was attributed to interferon beta).</italic></p></annotation><pub-id pub-id-type="pmid">15390328</pub-id></mixed-citation>
+          </ref>
+          <ref id="Interferon.R18">
+            <mixed-citation publication-type="journal">Wallack EM, Callon R. Liver injury associated with the beta-interferons for MS. Neurology 2004; 63: 1142-3; author reply 1142-3. Review. <annotation><p><italic toggle="yes"> (52 year old woman developed jaundice 2 weeks after starting different formulation of interferon beta-1a having tolerated other forms of interferon beta-1a and -1b for years [bilirubin 28.6 mg/dL, ANA 1:320], responding to corticosteroids).</italic></p></annotation><pub-id pub-id-type="pmid">15452330</pub-id></mixed-citation>
+          </ref>
+          <ref id="Interferon.R19">
+            <mixed-citation publication-type="journal">Gold R, Rieckmann P, Chang P, Abdalla J; PRISMS Study Group. The long-term safety and tolerability of high-dose interferon beta-1a in relapsing-remitting multiple sclerosis: 4-year data from the PRISMS study. Eur J Neurol 2005; 12: 649-56. <annotation><p><italic toggle="yes">(Controlled trial of 2 doses of interferon beta-1a vs placebo in 560 patients with multiple sclerosis for up to 4 years; ALT elevations occurred in 20-27% of interferon-treated vs 4% of placebo recipients, but was a rare reason for discontinuation).</italic></p></annotation><pub-id pub-id-type="pmid">16053475</pub-id></mixed-citation>
+          </ref>
+          <ref id="Interferon.R20">
+            <mixed-citation publication-type="journal">Pohl D, Rostasy K, Gartner J, Hanefeld F. Treatment of early onset multiple sclerosis with subcutaneous interferon beta-1a. Neurology 2005; 64: 888-90. <annotation><p><italic toggle="yes">(Trial of interferon beta-1a in 51 patients with early onset multiple sclerosis; ALT elevations occurred in 27%, usually mild and resolving spontaneously).</italic></p></annotation><pub-id pub-id-type="pmid">15753430</pub-id></mixed-citation>
+          </ref>
+          <ref id="Interferon.R21">
+            <mixed-citation publication-type="journal">Sandberg-Wollheim M, Bever C, Carter J, Farkkila M, Hurwitz B, Lapierre Y, et al.; EVIDENCE Study Group. Comparative tolerance of IFN beta-1a regimens in patients with relapsing multiple sclerosis. The EVIDENCE study. J Neurol 2005; 252: 8-13. <annotation><p><italic toggle="yes"> (Controlled trial of two dose regimens of interferon beta-1a for multiple sclerosis; ALT elevations occurred in 65% of those on 44 &#x000b5;g thrice weekly vs 41% on 30 &#x000b5;g once weekly; while ALT levels &#x0003e;5 times ULN occurred in 3.2% vs 1.8%).</italic></p></annotation><pub-id pub-id-type="pmid">15654549</pub-id></mixed-citation>
+          </ref>
+          <ref id="Interferon.R22">
+            <mixed-citation publication-type="journal">Yuce B, Gulberg V, Diebold J, Gerbes AL. Hepatitis induced by Noni juice from Morinda citrifolia: a rare cause of hepatotoxicity or the tip of the iceberg? Digestion 2006; 73 (2-3): 167-70. <annotation><p><italic toggle="yes">(24 year old woman with multiple sclerosis developed jaundice 10 weeks after starting interferon beta-1a [bilirubin 5.25 mg/dL, ALT 1538 U/L], with worsening over the following week; patient then found to be taking "noni" juice and upon stopping began to improve).</italic></p></annotation><pub-id pub-id-type="pmid">16837801</pub-id></mixed-citation>
+          </ref>
+          <ref id="Interferon.R23">
+            <mixed-citation publication-type="journal">West BJ. Hepatotoxicity from interferon-beta, not noni juice. Digestion 2006; 74: 47-8. <annotation><p><italic toggle="yes">(Letter in response to Yuce [2006] suggesting that interferon beta rather than noni juice was the cause of the liver injury).</italic></p></annotation><pub-id pub-id-type="pmid">17068398</pub-id></mixed-citation>
+          </ref>
+          <ref id="Interferon.R24">
+            <mixed-citation publication-type="journal">Byrnes V, Afdhal N, Challies T, Greenstein PE. Drug induced liver injury secondary to interferon-beta (IFN-&#x000df;) in multiple sclerosis. Ann Hepatol 2006; 5: 56-9. <annotation><p><italic toggle="yes">(Three cases of interferon beta hepatotoxicity with autoimmune features; 37 year old with multiple sclerosis developed jaundice and pruritus 10 months after starting interferon beta-1a [bilirubin 11.9 mg/dL, ALT 1031 U/L, ANA 1:40], with resolution in 8 weeks despite continuing therapy, later developing recurrence when switched to another formulation of interferon beta, ultimately being treated successfully for autoimmune hepatitis; 37 year old developed fever and ALT elevation [230 U/L, ANA negative] within 3 weeks of starting interferon beta, values rising for 3 weeks after stopping [ALT 914 U/L], improving rapidly with prednisone therapy; 30 year old developed ALT elevations [235 U/L, ANA 1:160] 9 weeks after starting interferon beta, with ALT levels remaining high for 6 weeks after stopping).</italic></p></annotation><pub-id pub-id-type="pmid">16531969</pub-id></mixed-citation>
+          </ref>
+          <ref id="Interferon.R25">
+            <mixed-citation publication-type="journal">Pulichen M, Koteish A, DeBusk K, Calabresi PA. Unmasking of autoimmune hepatitis in a patient with MS following interferon beta therapy. Neurology 2006; 66: 1954-5. <annotation><p><italic toggle="yes">(43 year old woman developed abdominal pain 6 weeks after starting interferon beta-1a [bilirubin 0.5 mg/dL, ALT 391 U/L], with little change one and two weeks after stopping [bilirubin 1.4 and 4.2 mg/dL, ALT 864 and 1270 U/L, ANA 1:40 and SMA 1:80], treated with corticosteroids and improved, later stopping immunosuppression and tolerating glatiramer acetate therapy of multiple sclerosis).</italic></p></annotation><pub-id pub-id-type="pmid">16801674</pub-id></mixed-citation>
+          </ref>
+          <ref id="Interferon.R26">
+            <mixed-citation publication-type="journal">Bj&#x000f6;rnsson E, Olsson R. Suspected drug-induced liver fatalities reported to the WHO database. Dig Liver Dis 2006; 38: 33-8. (Survey of drug induced liver fatalities reported to WHO database between 1968-2003 revealed 4690 reports; beta interferon did not rank among the 21 drugs linked to more than 50 cases)<annotation><p><italic toggle="yes">.</italic></p></annotation><pub-id pub-id-type="pmid">16054882</pub-id></mixed-citation>
+          </ref>
+          <ref id="Interferon.R27">
+            <mixed-citation publication-type="journal">Montero JL, Cerezo A, Fraga E, Barrera P, L&#x000f3;pez-Cillero P, Cost&#x000e1;n G, Poyato A, et al. Acute liver failure in a patient with multiple sclerosis treated with interferon-beta. Mult Scler 2007; 13: 820. <annotation><p><italic toggle="yes">(39 year old woman with multiple sclerosis developed jaundice after 5 years of interferon beta [&#x003b2;-1b] therapy [bilirubin 10.4 mg/dL, ALT 1082 U/L, Alk P 176 U/L, protime 26%, ANA 1:1260], with progression to acute liver failure and transplantation on day 14 [explants showing massive necrosis]).</italic></p></annotation><pub-id pub-id-type="pmid">17613614</pub-id></mixed-citation>
+          </ref>
+          <ref id="Interferon.R28">
+            <mixed-citation publication-type="journal">Grieco A, Montalto M, Vero V, Maria Vecchio F, Gasbarrini G. Severe acute hepatitis after resumption of interferon-Beta therapy for multiple sclerosis: a word of caution. Am J Gastroenterol 2007; 102: 2606-7. (43 year old woman with multiple sclerosis developed jaundice 2 weeks after restarting interferon beta [bilirubin 12.5 mg/dL, ALT 995 U/L, Alk P 695 U/L, ANA negative], the agent having been stopped the year before because of ALT elevations [~600 U/L] after 2 years of use)<annotation><p><italic toggle="yes">.</italic></p></annotation><pub-id pub-id-type="pmid">17958769</pub-id></mixed-citation>
+          </ref>
+          <ref id="Interferon.R29">
+            <mixed-citation publication-type="journal">Behrbolm J, Neid M, Stolzel U, Wittekind C, Hauss JP, Tillmann HL. Improvement of multiple sclerosis on tacrolimus plus mycophenolate mofetil after liver transplantation. Transplant Int 2007; 20: 1077-9. <annotation><p><italic toggle="yes">(51 year old woman with multiple sclerosis developed jaundice 8 weeks after starting interferon beta [36.9 mg/dL, INR 1.7, ANA 1:160], progressing to liver failure and transplantation 3 days later; explant histology suggested autoimmune hepatitis).</italic></p></annotation><pub-id pub-id-type="pmid">17937765</pub-id></mixed-citation>
+          </ref>
+          <ref id="Interferon.R30">
+            <mixed-citation publication-type="journal">Pietrosi G, Mandala L, Vizzini GB, Gruttadauria S, Minervini MI, Burgio G, Spadaro A, et al. Fulminant hepatic failure and autoimmune disorders in patient with multiple sclerosis on interferon beta 1a: a fatal combination? Transpl Int 2008; 21: 502-4. <annotation><p><italic toggle="yes">(46 year old woman developed jaundice 2.5 years after starting interferon beta for multiple sclerosis [bilirubin 15.2 mg/dL, ALT 1232 U/L, Alk P 221 U/L, ANA negative, SMA 1:80], with progression to hepatic failure and liver transplantation, biopsy showing submassive necrosis).</italic></p></annotation><pub-id pub-id-type="pmid">18167153</pub-id></mixed-citation>
+          </ref>
+          <ref id="Interferon.R31">
+            <mixed-citation publication-type="journal">Chalasani N, Fontana RJ, Bonkovsky HL, Watkins PB, Davern T, Serrano J, Yang H, Rochon J; Drug Induced Liver Injury Network (DILIN). Causes, clinical features, and outcomes from a prospective study of drug-induced liver injury in the United States. Gastroenterology 2008; 135: 1924-34. <annotation><p><italic toggle="yes">(Among 300 cases of drug induced liver disease in the US collected from 2004 to 2008, 6 were attributed to interferon beta, ranking 5th).</italic></p></annotation><pub-id pub-id-type="pmid">18955056</pub-id></mixed-citation>
+          </ref>
+          <ref id="Interferon.R32">
+            <mixed-citation publication-type="journal">Hotermans C, Belachew S, Moonen G, Delwaide J. Severe liver dysfunction in a patient with multiple sclerosis: the guilty party is not always the disease-modifying therapy. Multiple Sclerosis 2009; 15: 1378-9. <annotation><p><italic toggle="yes">(38 year old with multiple sclerosis developed pruritus and jaundice 7 weeks after starting interferon beta-1a [bilirubin not given; ALT 1788 U/L, ANA negative], with rapid resolution; recurrence of liver injury arose 3 days after starting glatiramer acetate [ALT 749 U/L, ANA negative] and rapid resolution; both episodes were also associated with ibuprofen use).</italic></p></annotation><pub-id pub-id-type="pmid">19965562</pub-id></mixed-citation>
+          </ref>
+          <ref id="Interferon.R33">
+            <mixed-citation publication-type="journal">O'Connor P, Filippi M, Arnason B, Comi G, Cook S, Goodin D, Hartung HP, et al. 250 microg or 500 microg interferon beta-1b versus 20 mg glatiramer acetate in relapsing-remitting multiple sclerosis: a prospective, randomised, multicentre study. Lancet Neurol 2009; 8: 889-97. <annotation><p><italic toggle="yes">(Controlled trial of two doses of interferon beta-1b versus glatiramer in 2447 patients with multiple sclerosis, ALT elevations occurred in 11-16% of interferon beta and 4% of glatiramer treated subjects; no mention of clinically apparent liver injury).</italic></p></annotation><pub-id pub-id-type="pmid">19729344</pub-id></mixed-citation>
+          </ref>
+          <ref id="Interferon.R34">
+            <mixed-citation publication-type="journal">Paolicelli D, Direnzo V, Trojano M. Review of interferon beta-1b in the treatment of early and relapsing multiple sclerosis. Biologics 2009; 3: 369-76. <annotation><p><italic toggle="yes">(Review of efficacy and safety of interferon beta in multiple sclerosis; elevations in serum enzymes are more common during interferon beta than glatiramer therapy).</italic></p></annotation><pub-id pub-id-type="pmid">19707422</pub-id></mixed-citation>
+          </ref>
+          <ref id="Interferon.R35">
+            <mixed-citation publication-type="journal">Interferon beta-1b (Extavia) for multiple sclerosis. Med Lett Drugs Ther 2010; 52: 86-7. <annotation><p><italic toggle="yes">(Concise review of efficacy and safety of interferon beta-1b (Extavia) shortly after its approval in the US; mentions that hepatic enzyme elevations may occur).</italic></p></annotation><pub-id pub-id-type="pmid">21045760</pub-id></mixed-citation>
+          </ref>
+          <ref id="Interferon.R36">
+            <mixed-citation publication-type="journal">Reuben A, Koch DG, Lee WM; Acute Liver Failure Study Group. Drug-induced acute liver failure: results of a U.S. multicenter, prospective study. Hepatology 2010; 52: 2065-76. <annotation><p><italic toggle="yes">(Among 1198 patients with acute liver failure enrolled in a US prospective study between 1998 and 2007, 133 were attributed to drug induced liver injury of which one was linked to interferon beta).</italic></p></annotation><pub-id pub-id-type="pmid">20949552</pub-id></mixed-citation>
+          </ref>
+          <ref id="Interferon.R37">
+            <mixed-citation publication-type="journal">Czaja AJ. Drug-induced autoimmune-like hepatitis. Dig Dis Sci 2011; 56: 958-76. <annotation><p><italic toggle="yes">(Review of drug induced autoimmune hepatitis, the principal causes being minocycline and nitrofurantoin; other caues being methyldopa, hydralazine, statins, fibrates, diclofenac, anti-TNF agents, interferons, propylthiouracil and isoniazid).</italic></p></annotation><pub-id pub-id-type="pmid">21327704</pub-id></mixed-citation>
+          </ref>
+          <ref id="Interferon.R38">
+            <mixed-citation publication-type="journal">Chan S, Kingwell E, Oger J, Yoshida E, Tremlett H. High-dose frequency beta-interferons increase the risk of liver test abnormalities in multiple sclerosis: a longitudinal study. Mult Scler 2011; 17: 361-7. <annotation><p><italic toggle="yes">(Retrospective analysis of 802 patients with multiple sclerosis treated with interferon beta between 1995-2005; 39% had ALT elevations at least once, 13% were &#x0003e;2 times ULN, 2.1% &#x0003e;5 times ULN and 29.5% led to discontinuation; elevations were more common if interferon beta was given several times per week or daily compared to weekly).</italic></p></annotation><pub-id pub-id-type="pmid">21148660</pub-id></mixed-citation>
+          </ref>
+          <ref id="Interferon.R39">
+            <mixed-citation publication-type="journal">Tremlett H, Fu P, Yoshida E, Hashimoto S. Symptomatic liver injury (hepatotoxicity) associated with administration of complementary and alternative products (Ayurveda-AP-Mag Capsules(&#x000ae;)) in a beta-interferon-treated multiple sclerosis patient. Eur J Neurol 2011; 18: e78-9. <annotation><p><italic toggle="yes"> (38 year old woman with multiple sclerosis on long term beta interferon therapy developed pruritus and fatigue one month after starting a mixture of herbal medicines [bilirubin 1.2 mg/dL, ALT 886 U/L, Alk P 71 U/L], resolving within a month of stopping both the beta interferon and the herbals).</italic></p></annotation><pub-id pub-id-type="pmid">21658156</pub-id></mixed-citation>
+          </ref>
+          <ref id="Interferon.R40">
+            <mixed-citation publication-type="journal">Tamura S, Warabi Y, Matsubara S. Severe liver dysfunction possibly caused by the combination of interferon beta-1b therapy and melilot (sweet clover) supplement. J Clin Pharm Ther 2012; 37: 724-5. <annotation><p><italic toggle="yes"> (23 year old woman with multiple sclerosis developed ALT elevations 14 days after starting every other day beta interferon injections while also taking "sweet clover" [ALT 681 U/L, bilirubin and Alk P not given], abnormalities resolving within a month of stopping both agents and not recurring when beta interferon was restarted at a lower dose).</italic></p></annotation><pub-id pub-id-type="pmid">22642738</pub-id></mixed-citation>
+          </ref>
+          <ref id="Interferon.R41">
+            <mixed-citation publication-type="journal">Bj&#x000f6;rnsson ES, Bergmann OM, Bj&#x000f6;rnsson HK, Kvaran RB, Olafsson S. Incidence, presentation and outcomes in patients with drug-induced liver injury in the general population of Iceland. Gastroenterology 2013 ; 144: 1419-25. <annotation><p><italic toggle="yes">(In a </italic></p></annotation> population based study of drug induced liver injury from Iceland, 96 cases were identified over a 2 year period, including 1 attributed to interferon beta, out of only 145 persons receiving this medication in Iceland).<pub-id pub-id-type="pmid">23419359</pub-id></mixed-citation>
+          </ref>
+          <ref id="Interferon.R42">
+            <mixed-citation publication-type="journal">Fontana RJ, Hayashi P, Bonkovsky HL, Kleiner DE, Kochhar S, Gu J, Ghabril M. Presentation and outcomes with clinically apparent interferon beta hepatotoxicity. Dig Dis Sci 2013; 58: 1766-75. <annotation><p><italic toggle="yes">(Among 784 cases of drug induced liver injury enrolled in a prospective cohort in the US from 2004-2010, 8 [1%] were attributed to beta interferon; all 8 were women, ages 33-64 years, who had been on interferon for 3 months to 13 years and presented with a hepatocellular or mixed pattern of injury, none with autoantibodies, 4 with jaundice, 5 resolved and 1 was fatal: Cases 1, 2 and 3).</italic></p></annotation><pub-id pub-id-type="pmid">23377559</pub-id></mixed-citation>
+          </ref>
+          <ref id="Interferon.R43">
+            <mixed-citation publication-type="journal">Kowalec K, Yoshida EM, Traboulsee A, Carleton B, Tremlett H. Suspected autoimmune hepatitis and primary biliary cirrhosis unmasked by interferon-beta in a multiple sclerosis patient. Mult Scler Relat Disord 2013; 2: 57-9. <annotation><p><italic toggle="yes"> (42 year old woman developed abnormal liver tests 34 months after starting a second course of beta interferon [bilirubin 0.5 mg/dL, ALT 260 U/L, Alk P 157 U/L, ANA and AMA 1:1280], with resolution within 2 months although autoantibodies persisted).</italic></p></annotation><pub-id pub-id-type="pmid">25877455</pub-id></mixed-citation>
+          </ref>
+          <ref id="Interferon.R44">
+            <mixed-citation publication-type="journal">Kowalec K, Kingwell E, Yoshida EM, Marrie RA, Kremenchutzky M, Campbell TL, Wadelius M,et al. Characteristics associated with drug-induced liver injury from interferon beta in multiple sclerosis patients. Expert Opin Drug Saf 2014; 13: 1305-17. <annotation><p><italic toggle="yes">(Among 942 patients with relapsing multiple sclerosis treated with beta interferon in British Columbia, Canada, 18 [2%] developed ALT elevations above 5 times ULN, all within 2 years of starting but only 3 were with symptoms, none were jaundiced, and all resolved, some without discontinuing therapy).</italic></p></annotation><pub-id pub-id-type="pmid">25134421</pub-id></mixed-citation>
+          </ref>
+          <ref id="Interferon.R45">
+            <mixed-citation publication-type="journal">Kozielewicz D, Paw&#x00142;owska M. Acute liver failure and liver transplantation in a patient with multiple sclerosis treated with interferon beta. Neurol Neurochir Pol 2015; 49: 451-5. <annotation><p><italic toggle="yes">(41 year old woman with relapsing multiple sclerosis developed jaundice 4 weeks after starting beta interferon [bilirubin 17.7 mg/dL, ALT 1045 U/L, Alk P 137 U/L, INR 2.37], with progressive worsening and successful, emergency liver transplant 1 week later).</italic></p></annotation><pub-id pub-id-type="pmid">26652882</pub-id></mixed-citation>
+          </ref>
+          <ref id="Interferon.R46">
+            <mixed-citation publication-type="journal">Villamil A, Mullen E, Casciato P, Gadano A. Interferon beta 1a-induced severe autoimmune hepatitis in patients with multiple sclerosis: report of two cases and review of the literature. Ann Hepatol 2015; 14: 273-80. <annotation><p><italic toggle="yes">(2 patients with relapsing multiple sclerosis developed serious liver injury after restarting beta interferon, both recovering with corticosteroid therapy; 20 year old woman developed jaundice after 3 weeks of beta interferon and methylprednisolone [bilirubin peak 19.3 mg/dL, ALT 710 U/L, Alk P 192 U/L, ANA negative], and 47 year old man developed abnomal liver tests 1 month after restarting beta interferon [bilirubin 3.4 mg/dL, ALT 2209 U/L, Alk P 101 U/L, ANA 1:320]).</italic></p></annotation><pub-id pub-id-type="pmid">25671839</pub-id></mixed-citation>
+          </ref>
+          <ref id="Interferon.R47">
+            <mixed-citation publication-type="journal">Mishra A, Guindi M, Kandel G, Streutker CJ. Autoimmune hepatitis-like reaction developing in a patient treated with interferon-&#x003b2;1a. Histopathology 2015; 66: 605-7. <annotation><p><italic toggle="yes"> (43 year old woman with relapsing multiple sclerosis developed abnormal liver tests 3 months after starting beta interferon [bilirubin not given, ALT 408 U/L, Alk P 87 U/L, ANA negative], resolving within 7 weeks of stopping).</italic></p></annotation><pub-id pub-id-type="pmid">24796493</pub-id></mixed-citation>
+          </ref>
+          <ref id="Interferon.R48">
+            <mixed-citation publication-type="journal">Peginterferon beta-1a (Plegridy) for multiple sclerosis. Med Lett Drugs Ther 2015; 57 (1468): 67-9. <annotation><p><italic toggle="yes">(Concise review of efficacy, safety and costs of peginterferon beta-1a shortly after its approval for use in multiple sclerosis in the US, mentions that injection site reactions and influenza-like symptoms are common adverse effects, but does not mention ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">25941954</pub-id></mixed-citation>
+          </ref>
+          <ref id="Interferon.R49">
+            <mixed-citation publication-type="journal">Chalasani N, Bonkovsky HL, Fontana R, Lee W, Stolz A, Talwalkar J, Reddy KR, et al.; United States Drug Induced Liver Injury Network. Features and outcomes of 899 patients with drug-induced liver injury: The DILIN Prospective Study. Gastroenterology 2015; 148: 1340-52. <annotation><p><italic toggle="yes">(Among 899 cases of drug induced liver injury enrolled in a US prospective study between 2004 and 2013, 7 [0.8%] were attributed to interferon beta, although none of the cases were linked specifically to its pegylated formulation). </italic></p></annotation><pub-id pub-id-type="pmid">25754159</pub-id></mixed-citation>
+          </ref>
+          <ref id="Interferon.R50">
+            <mixed-citation publication-type="journal">Makioka H, Nakaya F, Ling Y, Torii S, Saida T, Kira JI. Safety and effectiveness of interferon &#x003b2;-1a intramuscular therapy: results of the postmarketing drug surveillance in Japan. Rinsho Shinkeigaku 2017; 57: 553-61. <annotation><p><italic toggle="yes">(Analysis of 1441 patients treated with interferon beta-1a in a postmarketing surveillance study from Japan found severe abnormal liver function in 10 cases [0.8%]).</italic></p></annotation><pub-id pub-id-type="pmid">28966229</pub-id></mixed-citation>
+          </ref>
+          <ref id="Interferon.R51">
+            <mixed-citation publication-type="journal">Yamazaki Y, Suzuki A, Hirayanagi K, Tsukagoshi Y, Uehara R, Horiguchi K, Ohyama T, et al. An autopsy case of fulminant hepatitis in a patient with multiple sclerosis treated by interferon-beta-1a. Intern Med 2017; 56: 1897-1901. <annotation><p><italic toggle="yes">(49 year old woman with relapsing multiple sclerosis developed jaundice 2-3 weeks after starting interferon beta [bilirubin 18.1 mg/dL, ALT 1402 U/L, Alk P 661 U/L, ANA 1:40, prothrombin index &#x0003c;10%], dying 7 days after admission).</italic></p></annotation><pub-id pub-id-type="pmid">28717089</pub-id></mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec id="Interferon.OTHER_REFERENCE_LINKS" sec-type="link-group">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=interferon+beta/AE+AND+(interferon+beta+1b+%5BNM%5D+OR+interferon+beta+1a+%5BNM%5D)+AND+Human%5BMH%5D+AND+(%20drug-induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%222007/1/1%22%5BEDat%5D%3A%222999/12/31%22%5BEDat%5D)">Recent References on Interferon beta-1a/1b: from PubMed.gov</ext-link>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=interferon+beta">Trials on Interferon beta-1a/1b: from ClinicalTrials.gov</ext-link>
+            </p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

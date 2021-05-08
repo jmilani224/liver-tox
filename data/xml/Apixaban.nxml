@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Apixaban" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Apixaban</book-part-id>
+      <title-group>
+        <title>Apixaban</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>9</day>
+          <month>2</month>
+          <year>2018</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Apalutamide" document-type="chapter">Apalutamide</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Apoaequorin" document-type="chapter">Apoaequorin</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Apixaban.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Apixaban.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Apixaban is an oral anticoagulant and direct inhibitor of factor Xa which is used to decrease the risk of venous thromboses, systemic embolization and stroke in patients with atrial fibrillation, and lower the risk of deep vein thrombosis and pulmonary embolus after knee or hip replacement surgery. Apixaban has been linked to a low rate of serum aminotransferase elevations during therapy and to rare instances of clinically apparent liver injury.</p>
+        </sec>
+        <sec id="Apixaban.Background">
+          <title>Background</title>
+          <p>Apixaban (a pix' a ban) is a direct and reversible inhibitor of factor Xa (-xaban), the rate controlling last step in the generation of thrombin, the final intermediate in blood coagulation. Inhibiting thrombin prevents the conversion of fibrinogen to fibrin and subsequent cross linking of fibrin monomers, platelet activation and amplification of coagulation. Apixaban has been shown to be as effective as warfarin and more effective than aspirin in preventing stroke and systemic embolization in patients with atrial fibrillation. Clinical trials have also shown that apixaban therapy can decrease the risk of deep vein thrombosis and pulmonary embolism in patients undergoing hip or knee replacement surgery. Apixaban was approved for use in the United States in 2012. Current indications are for prevention of stoke and systemic embolism in patients with nonvalvular atrial fibrillation, prevention of deep vein thrombosis after hip or knee replacement surgery, treatment of deep vein thrombosis and pulmonary embolism, and reduction in risk of recurrence of deep vein thrombosis or pulmonary embolism. Apixaban is available in 2.5 and 5 mg tablets under the commercial name Eliquis. The usual dose is 2.5 or 5 mg twice daily and varies somewhat by indication. Unlike warfarin, apixaban and the other oral direct thrombin and factor Xa inhibitors do not require monitoring of bleeding time or INR. Side effects are not common, but can include bleeding, headache, dizziness, fatigue, gastrointestinal upset, nausea, arthralgias and rash. Uncommon, but potentially severe adverse events include severe bleeding episodes and hypersensitivity reactions.</p>
+        </sec>
+        <sec id="Apixaban.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>Apixaban is associated with serum aminotransferase elevations greater than 3 times the upper limit of normal in 1% to 2% of treated patients. This rate is similar or lower than rates with warfarin or comparator arms. In premarketing studies, no instances of clinically apparent liver injury were reported, but subsequent to its approval and more wide scale use, several reports of mild but clinically apparent liver injury have been published. The liver injury arose within days of starting apixaban and the pattern of liver enzyme elevations was hepatocellular. Immunoallergic and autoimmune features were not present and recovery was rapid once apixaban was stopped.</p>
+          <p>Likelihood score: D (possible rare cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Apixaban.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>Apixaban is metabolized in the liver predominantly via the cytochrome P450 system, CYP 3A4, and P-glycoprotein, and potent inhibitors of CYP 3A4 (such as itraconazole, ritonavir and clarithromycin) can cause elevated levels of apixaban, while inducers of CYP 3A4 (such as rifampin or phenytoin) can lead to reduced and ineffective levels of the anticoagulant. Liver injury from apixaban may be due to production of a toxic or immunogenic intermediate.</p>
+        </sec>
+        <sec id="Apixaban.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>The severity of liver injury associated with apixaban has ranged from mild, asymptomatic and self-limited elevations in serum aminotransferases to hepatitis with mild jaundice. There have been no reports of fulminant hepatic failure attributed to apixaban or cases of chronic hepatitis or vanishing bile duct syndrome. In some instances, patients with acute liver injury due to one direct factor Xa inhibitor (rivaroxaban) have tolerated another (apixaban) without recurrence of liver abnormalities.</p>
+          <p>Drug Class: <related-object source-id="livertox" document-id="Anticoagulants">Antithrombotic Agents</related-object>, <related-object source-id="livertox" document-id="Anticoagulants">Anticoagulants</related-object></p>
+          <p>Other Drugs in the Subclass, Anticoagulants, Factor Xa Antagonists: <related-object source-id="livertox" document-id="Betrixaban">Betrixaban</related-object>, <related-object source-id="livertox" document-id="Edoxaban">Edoxaban</related-object>, <related-object source-id="livertox" document-id="Fondaparinux">Fondaparinux</related-object>, <related-object source-id="livertox" document-id="Rivaroxaban">Rivaroxaban</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Apixaban.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <boxed-text position="anchor" id="Apixaban.BPI" orientation="portrait">
+          <p>
+            <bold>REPRESENTATIVE TRADE NAMES</bold>
+          </p>
+          <p>Apixaban &#x02013; Generic, Eliquis&#x000ae;</p>
+          <p>
+            <bold>DRUG CLASS</bold>
+          </p>
+          <p>Antithrombotic Agents</p>
+          <p>
+            <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Apixaban">COMPLETE LABELING</ext-link>
+          </p>
+          <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+        </boxed-text>
+      </sec>
+      <sec id="Apixaban.CHEMICAL_FORMULA_AND_STRUCTURE">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Apixaban.T1" position="anchor" orientation="portrait">
+          <table>
+            <thead>
+              <tr>
+                <th id="hd_h_Apixaban.T1_1_1_1_1" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Apixaban.T1_1_1_1_2" rowspan="1" colspan="1">CAS REGISTRY NUMBER</th>
+                <th id="hd_h_Apixaban.T1_1_1_1_3" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Apixaban.T1_1_1_1_4" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Apixaban.T1_1_1_1_1" rowspan="1" colspan="1">Apixaban</td>
+                <td headers="hd_h_Apixaban.T1_1_1_1_2" rowspan="1" colspan="1">
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135252374">503612-47-3</ext-link>
+                </td>
+                <td headers="hd_h_Apixaban.T1_1_1_1_3" rowspan="1" colspan="1">C25-H25-N5-O4</td>
+                <td headers="hd_h_Apixaban.T1_1_1_1_4" rowspan="1" colspan="1">
+                  <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Apixaban_Structure.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait">
+                    <alt-text>Apixaban Chemical Structure</alt-text>
+                  </graphic>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Apixaban.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 09 February 2018</p>
+        <ref-list id="Apixaban.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Apixaban.R1">
+            <mixed-citation publication-type="other">Zimmerman HJ. Platelet aggregation inhibitors. Drugs used in cardiovascular disease. In, Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999, pp. 639-412.<annotation><p><italic toggle="yes">(Textbook of hepatotoxicity published in 1999 well before the availability of apixaban and the direct Factor Xa inhibitors).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Apixaban.R2">
+            <mixed-citation publication-type="other">De Marzio DH, Navarro VJ. Antiplatelet agents. Hepatotoxicity of cardiovascular and antidiabetic drugs: antihypertensives. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013, p. 527-8.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of cardiovascular drugs does not discuss the anticoagulants).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Apixaban.R3">
+            <mixed-citation publication-type="other">Weitz JI. Blood coagulation and anticoagulant, fibrinolytic, and antiplatelet drugs. In, Brunton LL, Chabner BA, Knollman BC, eds. Goodman &#x00026; Gilman's the pharmacological basis of therapeutics. 12th ed. New York: McGraw-Hill, 2011, pp. 849-76.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics). </italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Apixaban.R4">
+            <mixed-citation publication-type="journal">Reuben A, Koch DG, Lee WM; Acute Liver Failure Study Group. Drug-induced acute liver failure: results of a U.S. multicenter, prospective study. Hepatology 2010; 52: 2065-76. <annotation><p><italic toggle="yes">(Among 1198 patients with acute liver failure enrolled in a US prospective study between 1998 and 2007, 133 were attributed to drug induced liver injury, but none were due to anticoagulants).</italic></p></annotation><pub-id pub-id-type="pmid">20949552</pub-id></mixed-citation>
+          </ref>
+          <ref id="Apixaban.R5">
+            <mixed-citation publication-type="journal">Huang J, Cao Y, Liao C, Wu L, Gao F. Apixaban versus enoxaparin in patients with total knee arthroplasty. A meta-analysis of randomised trials. Thromb Haemost 2011; 105: 245-53. <annotation><p><italic toggle="yes">(Systematic review of 3 trials of apixaban versus enoxaparin in 3773 patients undergoing knee replacement surgery found lower rates of deep vein thrombosis and pulmonary embolism with apixaban than enoxaparin, and little or no difference in rates of bleeding [2.6% vs 3.4%] or rates of ALT and AST elevations above 3 times ULN [1.3% vs 1.4%]).</italic></p></annotation><pub-id pub-id-type="pmid">20941455</pub-id></mixed-citation>
+          </ref>
+          <ref id="Apixaban.R6">
+            <mixed-citation publication-type="journal">Granger CB, Alexander JH, McMurray JJ, Lopes RD, Hylek EM, Hanna M, Al-Khalidi HR, et al.; ARISTOTLE Committees and Investigators. Apixaban versus warfarin in patients with atrial fibrillation. N Engl J Med 2011; 365: 981-92. <annotation><p><italic toggle="yes">(Among 18,201 patients with atrial fibrillation enrolled in a prospective controlled trial, stroke or systemic embolization occurred in 1.3% of apixaban- vs 1.6% of the warfarin-treated patients and rates of both total and serious adverse events were similar in the two groups, ALT elevations above 3 times ULN occurring in 1.1% vs 1.0% and the combination of ALT or AST and bilirubin elevation in 0.3% vs 0.4%).</italic></p></annotation><pub-id pub-id-type="pmid">21870978</pub-id></mixed-citation>
+          </ref>
+          <ref id="Apixaban.R7">
+            <mixed-citation publication-type="journal">Connolly SJ, Eikelboom J, Joyner C, Diener HC, Hart R, Golitsyn S, Flaker G, et al; AVERROES Steering Committee and Investigators. Apixaban in patients with atrial fibrillation. N Engl J Med 2011; 364: 806-17. <annotation><p><italic toggle="yes">(Among 5599 patients with atrial fibrillation treated with apixaban or aspirin, stroke or systemic embolism occurred in 1.5% of patients per year on apixaban compared to 3.7% per year on aspirin; bleeding rates were similar and rates of ALT elevations were not reported).</italic></p></annotation><pub-id pub-id-type="pmid">21309657</pub-id></mixed-citation>
+          </ref>
+          <ref id="Apixaban.R8">
+            <mixed-citation publication-type="journal">Apixaban (Eliquis)--a new oral anticoagulant for atrial fibrillation. Med Lett Drugs Ther 2013; 55 (1409): 9-10. <annotation><p><italic toggle="yes">(Concise review of efficacy and safety of apixaban for prevention of stroke or systemic embolization in patients with nonvalvular atrial fibrillation which is equivalent or better in efficacy than warfarin with a lower rate of bleeding; no mention of hepatotoxicity or ALT elevations).</italic></p></annotation><pub-id pub-id-type="pmid">23381226</pub-id></mixed-citation>
+          </ref>
+          <ref id="Apixaban.R9">
+            <mixed-citation publication-type="journal">Caldeira D, Barra M, Santos AT, de Abreu D, Pinto FJ, Ferreira JJ, Costa J. Risk of drug-induced liver injury with the new oral anticoagulants: systematic review and meta-analysis. Heart 2014; 100: 550-6. <annotation><p><italic toggle="yes">(Systematic review of 29 controlled trials of oral anticoagulants in 152,116 patients focusing on risk of drug induced liver injury [including 7 trials with 22,992 patients on apixaban] found no increase in rate of serum ALT or AST elevations above 3 times ULN [1.0% vs 1.2%], or combined enzyme and bilirubin elevations above 2 times ULN [both 0.2%] with apixaban therapy compared to control patients on standard therapy).</italic></p></annotation><pub-id pub-id-type="pmid">24476812</pub-id></mixed-citation>
+          </ref>
+          <ref id="Apixaban.R10">
+            <mixed-citation publication-type="journal">New oral anticoagulants for acute venous thromboembolism. Med Lett Drugs Ther 2014; 56 (1433): 3-4. <annotation><p><italic toggle="yes">(Brief comparison of warfarin, rivaroxaban, apixaban and dabigatran as anticoagulants to treatment of venous thromboembolism all of which have similar efficacy, warfarin requiring regular monitoring of INR whereas the others do not). </italic></p></annotation><pub-id pub-id-type="pmid">24419296</pub-id></mixed-citation>
+          </ref>
+          <ref id="Apixaban.R11">
+            <mixed-citation publication-type="journal">Liakoni E, R&#x000e4;tz Bravo AE, Kr&#x000e4;henb&#x000fc;hl S. Hepatotoxicity of new oral anticoagulants (NOACs). Drug Saf 2015; 38: 711-20. <annotation><p><italic toggle="yes">(Systematic review of evidence of hepatotoxicity of new oral anticoagulants includiing rivaroxaban, apixaban, edoxaban and dabigatran found 22 cases of liver injury due to rivaroxaban, 2 dabigatran, 2 apixaban, but none to edoxaban). </italic></p></annotation><pub-id pub-id-type="pmid">26138527</pub-id></mixed-citation>
+          </ref>
+          <ref id="Apixaban.R12">
+            <mixed-citation publication-type="journal">Anastasia EJ, Rosenstein RS, Bergsman JA, Parra D. Use of apixaban after development of suspected rivaroxaban-induced hepatic steatosis; a case report. Blood Coagul Fibrinolysis 2015; 26: 699-702. <annotation><p><italic toggle="yes">(67 year old man developed ALT elevations 6 months after starting rivaroxaban [peak ALT 391 U/L, Alk P 120 U/L, bilirubin 1.3 mg/dL], which fell into the normal range within 2 months of switching to apixaban; ultrasound suggested fatty liver which also resolved with stopping).</italic></p></annotation><pub-id pub-id-type="pmid">26154612</pub-id></mixed-citation>
+          </ref>
+          <ref id="Apixaban.R13">
+            <mixed-citation publication-type="journal">Chalasani N, Bonkovsky HL, Fontana R, Lee W, Stolz A, Talwalkar J, Reddy KR, et al.; United States Drug Induced Liver Injury Network. Features and outcomes of 899 patients with drug-induced liver injury: The DILIN Prospective Study. Gastroenterology 2015; 148: 1340-52.e7. <annotation><p><italic toggle="yes">(Among 899 cases of drug induced liver injury enrolled in a US prospective study between 2004 and 2013, two cases were attributed to anticoagulants (prasugrel and dalteparin), but none to apixaban or other direct factor Xa antagonists).</italic></p></annotation><pub-id pub-id-type="pmid">25754159</pub-id></mixed-citation>
+          </ref>
+          <ref id="Apixaban.R14">
+            <mixed-citation publication-type="journal">Cordeanu M, Lambert A, Gaertner S, Nouri S, Mirea C, Alt-Tebacher M, Stephan D. Apixaban-induced hepatotoxicity. Int J Cardiol 2016; 204: 4-5. <annotation><p><italic toggle="yes"> (72 year old woman developed asymptomatic elevations in serum enzymes 4 days after restarting apixaban and 7 days after pacemaker implantation [bilirubin normal, ALT ~185 U/L, Alk P ~120 U/L], values returning to normal within 16 days of stopping).</italic></p></annotation><pub-id pub-id-type="pmid">26649445</pub-id></mixed-citation>
+          </ref>
+          <ref id="Apixaban.R15">
+            <mixed-citation publication-type="journal">Clarke SA, Alsaad AA, Mack A, Phillips MB. Apixaban-induced liver injury. BMJ Case Rep 2016; 1-3. <annotation><p><italic toggle="yes"> (81 year old woman with atrial fibrillation developed weakness and abdominal pain 3 days after starting apixaban [bilirubin 2.5 mg/dL, ALT 199 U/L, Alk P 72 U/L], abnormal values falling into the normal range within 7 days of stopping).</italic></p></annotation><pub-id pub-id-type="pmid">27651407</pub-id></mixed-citation>
+          </ref>
+          <ref id="Apixaban.R16">
+            <mixed-citation publication-type="journal">Alonso A, MacLehose RF, Chen LY, Bengtson LG, Chamberlain AM, Norby FL, Lutsey PL. Prospective study of oral anticoagulants and risk of liver injury in patients with atrial fibrillation. Heart 2017; 103: 834-9. <annotation><p><italic toggle="yes"> (Analysis of a database on more than 1 million patients with nonvalvular atrial fibrillation on oral anticoagulants identified 960 hospitalizations with liver injury, rates being highest for warfarin, intermediate for rivaroxaban, and lowest for apixaban and dabigatran). </italic></p></annotation><pub-id pub-id-type="pmid">28057799</pub-id></mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec id="Apixaban.OTHER_REFERENCE_LINKS" sec-type="link-group">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=(Apixaban/AE)+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D%3A%222999/12/31%22%5BEDat%5D)">Recent References on Apixaban: from PubMed.gov</ext-link>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Apixaban">Trials on Apixaban: from ClinicalTrials.gov</ext-link>
+            </p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

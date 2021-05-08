@@ -1,0 +1,617 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Zanubrutinib" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Zanubrutinib</book-part-id>
+      <title-group>
+        <title>Zanubrutinib</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>16</day>
+          <month>12</month>
+          <year>2019</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Zanamivir" document-type="chapter">Zanamivir</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Zepatier" document-type="chapter">Zepatier</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Zanubrutinib.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Zanubrutinib.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Zanubrutinib is an oral inhibitor of Bruton&#x02019;s tyrosine kinase that is used in the therapy of refractory mantle cell lymphoma. Zanubrutinib has been associated with a low rate of serum enzyme elevations during therapy, but has not been linked to cases of clinically apparent acute liver injury although it may pose a risk for reactivation of hepatitis B in susceptible patients.</p>
+        </sec>
+        <sec id="Zanubrutinib.Background">
+          <title>Background</title>
+          <p>Zanubrutinib (zan&#x0201d; ue broo&#x02019; ti nib) is an orally available, small molecule inhibitor of Bruton&#x02019;s tyrosine kinase (BTK), which is an essential component in the B cell receptor signaling pathway. Inhibition of this pathway prevents B cell activation, differentiation and proliferation. Deficiency of BTK is the cause of X linked (Bruton&#x02019;s) agammaglobulinemia, and B cell receptor signaling through BTK has been shown to be critical for proliferation and survival of malignant B lymphocytes in mantle cell lymphoma and CLL. Zanubrutinib was approved for use in the United States as therapy for refractory mantle cell lymphoma in 2019, the third small molecule Bruton&#x02019;s tyrosine kinase inhibitor to become available in the United States. It is under evaluation as therapy of other B cell malignancies. Zanubrutinib is available in capsules of 80 mg under the brand name Brukinsa. The recommended dose is 320 mg daily in one or two divided doses. Side effects are common, but usually mild-to-moderate in severity; they include myelosuppression, fatigue, diarrhea, nausea, vomiting, anorexia, constipation, cough, musculoskeletal pain, rash and fever. Uncommon, but potentially serious side effects include severe bone marrow suppression, infections, bleeding, cardiac arrhythmias, hypertension, tumor lysis syndrome and embryo-fetal toxicity.</p>
+        </sec>
+        <sec id="Zanubrutinib.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>In the prelicensure clinical trials of zanubrutinib in patients with mantle cell lymphoma, liver test abnormalities were frequent although usually mild. ALT elevations arose in 28% and bilirubin levels in 24% of subjects, but were above 5 times the upper limit of normal (ULN) in less than 1%. In these trials that enrolled over 600 patients, there were no reports of clinically apparent liver injury, early discontinuations because of liver injury or liver related deaths. Nonetheless, other Bruton&#x02019;s kinase inhibitors (ibrutinib, acalabrutinib) have been associated with rare cases of acute liver injury including acute liver failure. With those agents, the latency to onset of liver injury varied from several weeks to 9 months. The injury was typically hepatocellular and immunologic features were uncommon. While the pattern of injury was hepatocellular, the course was atypical of an acute hepatitis-like injury and more similar to acute hepatic necrosis with early onset of hepatic failure. Other Bruton&#x02019;s kinase inhibitors have also been linked to several instances of reactivation of hepatitis B that can be severe and has been linked to fatal outcomes.</p>
+          <p>Likelihood score: E* (unproven but suspected cause of clinically apparent liver injury including reactivation of hepatitis B in susceptible patients).</p>
+        </sec>
+        <sec id="Zanubrutinib.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The cause of possible liver injury from zanubrutinib is unknown, but features of the liver injury from other Bruton&#x02019;s kinase inhibitors suggest some degree of direct hepatotoxicity. In contrast, reactivation of hepatitis B from Bruton&#x02019;s kinase inhibition is likely due to the profound inhibition of B cell activity as occurs with rituximab (anti-CD20) which appears to lead to increased viral replication due to immune suppression, followed by immune recovery and acute liver injury. Zanubrutinib is metabolized in the liver via the cytochrome P450 system, largely CYP 3A4 and is susceptible to drug-drug interactions with agents that inhibit or induce this enzyme reactivity.</p>
+        </sec>
+        <sec id="Zanubrutinib.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>Serum aminotransferase elevations above 5 times the upper limit of normal (if confirmed) should lead to dose reduction or temporary cessation. In patients with clinically apparent liver injury and jaundice, restarting therapy should be done with caution. Cross sensitivity to liver injury is uncommon among the tyrosine kinase inhibitors and, in many situations, switching to another tyrosine kinase inhibitor may be appropriate. Ibrutinib and acalabrutinib have been linked to cases of reactivation of hepatitis B which can be severe. Importantly, patients who are to receive long term therapy with zanubrutinib should be screened for hepatitis B (HBsAg and anti-HBc) and, if either or both are positive, given antiviral prophylaxis against reactivation (with an oral antiviral agent with potent activity against HBV such as entecavir or tenofovir) or monitored carefully for appearance or rises in HBV DNA levels with early initiative of antiviral therapy.</p>
+          <p>Drug Class: <related-object link-type="booklink" source-id="livertox" document-id="AntineoplasticAgents" document-type="chapter">Antineoplastic Agents</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="ProteinKinaseInhibit" document-type="chapter">Protein Kinase Inhibitors</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Zanubrutinib.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <p>
+          <bold>REPRESENTATIVE TRADE NAMES</bold>
+        </p>
+        <p>Zanubrutinib &#x02013; Brukinsa&#x000ae;</p>
+        <p>
+          <bold>DRUG CLASS</bold>
+        </p>
+        <p>Antineoplastic Agents</p>
+        <p>
+          <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=3e08fe23-d70e-424c-bc51-1222e320f902">COMPLETE LABELING</ext-link>
+        </p>
+        <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+      </sec>
+      <sec id="Zanubrutinib.CHEMICAL_FORMULA_AND_STRUCT">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Zanubrutinib.Tc" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <tbody>
+              <tr>
+                <th id="hd_b_Zanubrutinib.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_b_Zanubrutinib.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">CAS REGISTRY NO.</th>
+                <th id="hd_b_Zanubrutinib.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_b_Zanubrutinib.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+              <tr>
+                <td headers="hd_b_Zanubrutinib.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Zanubrutinib</td>
+                <td headers="hd_b_Zanubrutinib.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://348351323">1691249-45-2</ext-link>
+                </td>
+                <td headers="hd_b_Zanubrutinib.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">C27-H29-N5-O3</td>
+                <td headers="hd_b_Zanubrutinib.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">
+                  <related-object link-type="ext-image-back-link" source-id="pubchem" document-id="348351323" document-id-type="sid" document-type="summary" object-id="348351323" object-id-type="sid" object-type="image"/>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Zanubrutinib.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 16 December 2019</p>
+        <ref-list id="Zanubrutinib.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Zanubrutinib.REF.zimmerman.1999">
+            <mixed-citation publication-type="book">Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999.<annotation><p><italic toggle="yes">(Review of hepatotoxicity published in 1999 before the availability of tyrosine kinase receptor inhibitors).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Zanubrutinib.REF.deleve.2013">
+            <mixed-citation publication-type="book">DeLeve LD. Kinase inhibitors. Gefitinib. Cancer chemotherapy. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013, p. 556.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of cancer chemotherapeutic agents, does not discuss the Bruton tyrosine kinase inhibitors).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Zanubrutinib.REF.wellstein.2018">
+            <mixed-citation publication-type="book">Wellstein A, Giaccone G, Atkins MB, Sausville EA. Pathway targeted therapies: monoclonal antibodies, protein kinase inhibitors, and various small molecules. In, Brunton LL Hilal-Dandan R, Knollman BC, eds. Goodman &#x00026; Gilman's the pharmacological basis of therapeutics. 13th ed. New York: McGraw-Hill, 2018, pp. 1203-36.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Zanubrutinib.REF4">
+            <mixed-citation publication-type="web">
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.accessdata.fda.gov/drugsatfda_docs/nda/2019/213217Orig1s000MultidisciplineR.pdf">https://www.accessdata.fda.gov/drugsatfda_docs/nda/2019/213217Orig1s000MultidisciplineR.pdf</ext-link>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(FDA website with product labels and initial medical review of the safety and efficacy of zanubrutinib; mentions on pages 116-117 that ALT elevations arose in 26% of patients but were above 5 times ULN in less than 1% and that no instance of severe hepatic injury was reported ).</italic>
+                </p>
+              </annotation>
+            </mixed-citation>
+          </ref>
+          <ref id="Zanubrutinib.REF.wang.2013.507">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Wang</surname>
+                  <given-names>ML</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Rule</surname>
+                  <given-names>S</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Martin</surname>
+                  <given-names>P</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Goy</surname>
+                  <given-names>A</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Auer</surname>
+                  <given-names>R</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Kahl</surname>
+                  <given-names>BS</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Jurczak</surname>
+                  <given-names>W</given-names>
+                </name>
+                <etal/>
+              </person-group>
+              <article-title>Targeting BTK with ibrutinib in relapsed or refractory mantle-cell lymphoma.</article-title>
+              <source>N Engl J Med</source>
+              <year>2013</year>
+              <volume>369</volume>
+              <fpage>507</fpage>
+              <lpage>16</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Among 111 patients with refractory mantle cell lymphoma treated with ibrutinib for 1-24 months, the objective response rate was 68% [complete in 21%]; listing of side effects does not include ALT elevations or hepatotoxicity).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">23782157</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Zanubrutinib.REF.byrd.2013.32">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Byrd</surname>
+                  <given-names>JC</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Furman</surname>
+                  <given-names>RR</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Coutre</surname>
+                  <given-names>SE</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Flinn</surname>
+                  <given-names>IW</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Burger</surname>
+                  <given-names>JA</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Blum</surname>
+                  <given-names>KA</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Grant</surname>
+                  <given-names>B</given-names>
+                </name>
+                <etal/>
+              </person-group>
+              <article-title>Targeting BTK with ibrutinib in relapsed chronic lymphocytic leukemia.</article-title>
+              <source>N Engl J Med</source>
+              <year>2013</year>
+              <volume>369</volume>
+              <fpage>32</fpage>
+              <lpage>42</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Among 85 patients with refractory CLL treated with ibrutinib as a single agent, the overall response rate was 71%; side effects included diarrhea [49%], fatigue [32%], cough [31%], arthralgias [27%], rash [27%], fever [27%], peripheral edema [21%] and hypertension [18%]; ALT elevations and hepatotoxicity were not listed or mentioned).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">23782158</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Zanubrutinib.REF.ponader.2014.1830">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Ponader</surname>
+                  <given-names>S</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Burger</surname>
+                  <given-names>JA</given-names>
+                </name>
+              </person-group>
+              <article-title>Bruton's tyrosine kinase: from X-linked agammaglobulinemia toward targeted therapy for B-cell malignancies.</article-title>
+              <source>J Clin Oncol</source>
+              <year>2014</year>
+              <volume>32</volume>
+              <fpage>1830</fpage>
+              <lpage>9</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(History of discovery of X-linked agammaglobulinemia, identification of BTK as its cause, elucidation of role of BTK in the pathway of B cell activation, and development of BTK inhibitors including ibrutinib).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">24778403</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Zanubrutinib.REF8">
+            <element-citation publication-type="journal">
+              <article-title>Ibrutinib (Imbruvica) for chronic lymphocytic leukemia.</article-title>
+              <source>Med Lett Drugs Ther</source>
+              <year>2014</year>
+              <volume>56</volume>
+              <issue>1440</issue>
+              <fpage>29</fpage>
+              <lpage>30</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Concise review of mechanism of action, efficacy, safety and cost of ibrutinib shortly after its approval for use in the US, mentions that serious adverse events include cytopenias, bleeding and infections; no mention of ALT elevations or hepatotoxicity).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">24736247</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Zanubrutinib.REF.de_j_sus_ngoma.2015.424">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>de J&#x000e9;sus Ngoma</surname>
+                  <given-names>P</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Kabamba</surname>
+                  <given-names>B</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Dahlqvist</surname>
+                  <given-names>G</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Sempoux</surname>
+                  <given-names>C</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Lanthier</surname>
+                  <given-names>N</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Shindano</surname>
+                  <given-names>T</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Van Den Neste</surname>
+                  <given-names>E</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Horsmans</surname>
+                  <given-names>Y.</given-names>
+                </name>
+              </person-group>
+              <article-title>Occult HBV reactivation induced by ibrutinib treatment: a case report.</article-title>
+              <source>Acta Gastroenterol Belg</source>
+              <year>2015</year>
+              <volume>78</volume>
+              <fpage>424</fpage>
+              <lpage>6</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(80 year old man with refractory CLL had anti-HBc in serum without HBsAg but with low levels of HBV DNA [85 IU/mL] and developed reactivation of hepatitis B 5 months after starting ibrutinib [HBV DNA 23 million IU/mL, HBsAg positive, ALT 103 U/L], responding to entecavir with decline in HBV DNA and ALT levels but remaining HBsAg positive).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">26712054</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Zanubrutinib.REF.walter.2016.411">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Walter</surname>
+                  <given-names>HS</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Rule</surname>
+                  <given-names>SA</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Dyer</surname>
+                  <given-names>MJ</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Karlin</surname>
+                  <given-names>L</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Jones</surname>
+                  <given-names>C</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Cazin</surname>
+                  <given-names>B</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Quittet</surname>
+                  <given-names>P</given-names>
+                </name>
+                <etal/>
+              </person-group>
+              <article-title>A phase 1 clinical trial of the selective BTK inhibitor ONO/GS-4059 in relapsed and refractory mature B-cell malignancies.</article-title>
+              <source>Blood</source>
+              <year>2016</year>
+              <volume>127</volume>
+              <fpage>411</fpage>
+              <lpage>9</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Among 90 patients with B-cell malignancies treated with zanubrutinib in escalating doses, response rates were highest in those with CLL [96%] and mantel cell lymphoma [92%], and adverse events included anemia [32%], thrombocytopenia [18%], diarrhea [18%], rash [18%], fever [13%], neutropenia [12%], nausea [12%] and cough [11%]; no mention of ALT elevations or hepatotoxicity).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">26542378</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Zanubrutinib.REF.nandikolla.2017.735">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Nandikolla</surname>
+                  <given-names>AG</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Derman</surname>
+                  <given-names>O</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Nautsch</surname>
+                  <given-names>D</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Liu</surname>
+                  <given-names>Q</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Massoumi</surname>
+                  <given-names>H</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Venugopal</surname>
+                  <given-names>S</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Braunschweig</surname>
+                  <given-names>I</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Janakiram</surname>
+                  <given-names>M</given-names>
+                </name>
+              </person-group>
+              <article-title>Ibrutinib-induced severe liver injury.</article-title>
+              <source>Clin Case Rep</source>
+              <year>2017</year>
+              <volume>5</volume>
+              <fpage>735</fpage>
+              <lpage>8</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(62 year old man with refractory CLL and hematopoietic cell transplant was started on ibrutinib and developed progressive liver injury [bilirubin 7.0 rising to 35.2 mg/dL, ALT 743 U/L, Alk P 486 U/L], which persisted despite stopping ibrutinib until he died of progressive disease 4 months later).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">28588800</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Zanubrutinib.REF.kahn.2018.512">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Kahn</surname>
+                  <given-names>A</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Horsley-Silva</surname>
+                  <given-names>JL</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Lam-Himlin</surname>
+                  <given-names>DM</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Reeder</surname>
+                  <given-names>CB</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Douglas</surname>
+                  <given-names>DD</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Carey</surname>
+                  <given-names>EJ</given-names>
+                </name>
+              </person-group>
+              <article-title>Ibrutinib-induced acute liver failure.</article-title>
+              <source>Leuk Lymphoma</source>
+              <year>2018</year>
+              <volume>59</volume>
+              <fpage>512</fpage>
+              <lpage>4</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(59 year old woman with Waldenstr&#x000f6;m's macroglobulinemia developed fatigue 9 months after starting ibrutinib [bilirubin 2.5 rising to 13.6 mg/dL, ALT 441 U/L, AST 2707 U/L, Alk P 159 U/L, INR 7.7, lactate 9.4 mmol/L], with slow resolution after stopping).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">28693376</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Zanubrutinib.REF.wong.2018.e155">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Wong</surname>
+                  <given-names>J</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Cher</surname>
+                  <given-names>L</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Griffiths</surname>
+                  <given-names>J</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Cohen</surname>
+                  <given-names>A</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Huang</surname>
+                  <given-names>J</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Wang</surname>
+                  <given-names>L</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Gregory</surname>
+                  <given-names>G</given-names>
+                </name>
+                <etal/>
+              </person-group>
+              <article-title>Efficacy of zanubrutinib in the treatment of Bing-Neel Syndrome.</article-title>
+              <source>HemaSphere</source>
+              <year>2018</year>
+              <volume>2</volume>
+              <elocation-id>e155</elocation-id>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(74 year old man with relapsed and refractory Waldenstr&#x000f6;m macroglobulinemia and cervical and thoracic cord tumor infiltration had a clinical response to a 15 month course of zanubrutinib; no mention of adverse reactions or hepatotoxicity).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">31723793</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Zanubrutinib.REF.guo.2019.7923">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Guo</surname>
+                  <given-names>Y</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Liu</surname>
+                  <given-names>Y</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Hu</surname>
+                  <given-names>N</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Yu</surname>
+                  <given-names>D</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Zhou</surname>
+                  <given-names>C</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Shi</surname>
+                  <given-names>G</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Zhang</surname>
+                  <given-names>B</given-names>
+                </name>
+                <etal/>
+              </person-group>
+              <article-title>Discovery of zanubrutinib (BGB-3111), a novel, potent, and selective covalent inhibitor of Bruton's tyrosine kinase.</article-title>
+              <source>J Med Chem</source>
+              <year>2019</year>
+              <volume>62</volume>
+              <fpage>7923</fpage>
+              <lpage>40</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Description of development and characterization of zanubrutinib, a second generation and more selective inhibitor of Bruton&#x02019;s tyrosine kinase than ibrutinib having less activity against other kinase families such as EGFR and Src).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">31381333</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Zanubrutinib.REF.tam.2019.851">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Tam</surname>
+                  <given-names>CS</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Trotman</surname>
+                  <given-names>J</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Opat</surname>
+                  <given-names>S</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Burger</surname>
+                  <given-names>JA</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Cull</surname>
+                  <given-names>G</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Gottlieb</surname>
+                  <given-names>D</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Harrup</surname>
+                  <given-names>R</given-names>
+                </name>
+                <etal/>
+              </person-group>
+              <article-title>Phase 1 study of the selective BTK inhibitor zanubrutinib in B-cell malignancies and safety and efficacy evaluation in CLL.</article-title>
+              <source>Blood</source>
+              <year>2019</year>
+              <volume>134</volume>
+              <fpage>851</fpage>
+              <lpage>9</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Among 89 patients with B cell malignancies treated with zanubrutinib [320 mg daily], the overall response rate was 96% and adverse events were common but generally mild-to-moderate; no mention of ALT elevations or hepatotoxicity and no liver related serious adverse events).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">31340982</pub-id>
+            </element-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec sec-type="link-group" id="Zanubrutinib.OTHER_REFERENCE_LINKS">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <label>1</label>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=Zanubrutinib%20AND%20Human%5bMH%5d%20AND%20(drug%20induced%20liver%20injury%20OR%20jaundice/CI%20OR%20bile%20duct%20diseases/CI%20OR%20liver/DE%20OR%20liver%20diseases/CI)%20AND%20(%221900%5C%5C1%5C%5C1%22%5bEDat%5d:%222999%5C%5C12%5C%5C31%22%5bEDat%5d)">Recent References on Zanubrutinib: from PubMed.gov</ext-link>
+            </p>
+          </list-item>
+          <list-item>
+            <label>2</label>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Zanubrutinib">Trials on Zanubrutinib: from ClinicalTrials.gov</ext-link>
+            </p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

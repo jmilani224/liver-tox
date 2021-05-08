@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="DrugCategory" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">DrugCategory</book-part-id>
+      <title-group>
+        <title>Categorization Of The Likelihood Of Drug Induced Liver Injury</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>4</day>
+          <month>5</month>
+          <year>2019</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Phenotypes_auto" document-type="chapter">Autoimmune Hepatitis</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Phenotypes_intro" document-type="chapter">Phenotypes Of Drug Induced Liver Injury</related-object>
+    </book-part-meta>
+    <body>
+      <p>Medications can be categorized for the likelihood that they are associated with drug induced liver injury based upon their known potential for causing such injury. This categorization is important in assessing causality and is based largely upon what has been published in the medical literature. At present there is no accepted classification of drugs based upon this likelihood.</p>
+      <p>As a part of the ongoing assessment of drug induced liver disease, the Drug-Induced Liver Injury Network (DILIN) Network has developed a five point categorization of the likelihood that a medication is associated with drug induced liver injury. This categorization is largely based upon the published literature and thus is more accurate for drugs that have been extensively used for a prolonged period and is less accurate for more recently approved medications or for drugs and herbals that have not been used widely. These categories are referred to as "Likelihood scores".</p>
+      <disp-quote>
+        <p><bold>Category A</bold> .The drug is <bold>well known</bold>, well described and well reported to cause either direct or idiosyncratic liver injury, and has a characteristic signature; more than 50 cases including case series have been described.</p>
+        <p><bold>Category B</bold>. The drug is reported and <bold>known</bold> or <bold>highly likely</bold> to cause idiosyncratic liver injury and has a characteristic signature; between 12 and 50 cases including small case series have been described.</p>
+        <p><bold>Category C</bold>. The drug is <bold>probably</bold> linked to idiosyncratic liver injury, but has been reported uncommonly and no characteristic signature has been identified; the number of identified cases is less than 12 without significant case series.</p>
+        <p><bold>Category D</bold>. Single case reports have appeared implicating the drug, but fewer than 3 cases have been reported in the literature, no characteristic signature has been identified, and the case reports may not have been very convincing. Thus, the agent can only be said to be a <bold>possible</bold> hepatotoxin and only a rare cause of liver injury.</p>
+        <p><bold>Category E</bold>. Despite extensive use, no evidence that the drug has caused liver injury. Single case reports may have been published, but they were largely unconvincing. The agent is <bold>not believed</bold> or is <bold>unlikely</bold> to cause liver injury.</p>
+        <p><bold>Category E*</bold>. The drug is suspected to be capable of causing liver injury or idiosyncratic acute liver injury but there have been no convincing cases in the medical literature. In some situations cases of acute liver injury have been reported to regulatory agencies or mentioned in large clinical studies of the drug, but the specifics and details supportive of causality assessment are not available. The agent is <bold>unproven, but suspected</bold> to cause liver injury.</p>
+        <p><bold>Category X</bold>. Finally, for medications recently introduced into or rarely used in clinical medicine, there may be inadequate information on the risks of developing liver injury to place it in any of the five categories, and the category is characterized as &#x0201c;<bold>unknown</bold>.&#x0201d;</p>
+        <p>Finally, some agents cause liver injury but only when given in high doses as might occur with a drug overdose. These agents are usually direct toxins. Some do not cause liver injury at normal or therapeutic doses but are quite toxic in overdoses, examples being aspirin, acetaminophen, niacin and vitamin A. These agents are categorized using [HD] after the category of A, B, C or D.</p>
+        <p>A complete listing of all drugs discussed in LiverTox with their "Likelihood score" is being prepared.</p>
+      </disp-quote>
+    </body>
+  </book-part>
+</book-part-wrapper>

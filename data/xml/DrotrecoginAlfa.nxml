@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="DrotrecoginAlfa" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">DrotrecoginAlfa</book-part-id>
+      <title-group>
+        <title>Drotrecogin alfa</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>8</day>
+          <month>1</month>
+          <year>2018</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Dronedarone" document-type="chapter">Dronedarone</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Droxidopa" document-type="chapter">Droxidopa</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="DrotrecoginAlfa.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="DrotrecoginAlfa.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Drotrecogin alfa is a recombinant form of activated human protein C which was previously used to treat patients with severe sepsis and organ failure. Drotrecogin alfa was typically given to critically ill patients in whom severe adverse events were common, but it was never linked to an increase in significant serum enzyme elevations during therapy or to instances of clinically apparent liver injury.</p>
+        </sec>
+        <sec id="DrotrecoginAlfa.Background">
+          <title>Background</title>
+          <p>Drotrecogin (droe" tre koe' jin) alfa is a recombinant form of activated human protein C, which is believed to intervene in multiple sites in the systemic response to infection and to be deficient in some patients with severe septicemia. Protein C is a serine protease that has antithrombotic, antiinflammatory and profibrinolytic properties which may play a role in limiting the injurious effects of the severe systemic response to septicemia. Administration of drotrecogin alfa in patients with severe sepsis and organ failure was initially reported to improve outcomes, decreasing 28 day mortality. However, subsequent large, randomized controlled trials found no evidence for its efficacy in severe sepsis. Drotrecogin alfa was approved in the United States for use in severe sepsis with acute organ failure and high risk of death in 2001. After postmarketing studies demonstrated that it had little or no effect on mortality, it was withdrawn by the sponsor in 2011. Drotrecogin alfa was previously available in single use vials of 5 and 20 mg under the brand name Xigris. The recommended dose was 24 &#x000b5;g/kg per hour for 96 hours. Side effects were difficult to attribute to the therapy because the drug was used only in critically ill patients, in whom severe adverse events were common and expected. Adverse events thought to be due to the drotrecogin alfa infusions included bleeding which could be severe, but was rarely fatal.</p>
+        </sec>
+        <sec id="DrotrecoginAlfa.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>In preregistration studies of drotrecogin alfa, no mention was made of serum enzyme elevations or episodes of clinically apparent liver injury. However, patients treated were critically ill and sepsis on its own commonly causes serum enzyme elevations and jaundice. After approval and more widespread use of drotrecogin alfa, there were no published reports of hepatotoxicity associated with its use. The withdrawal of drotrecogin alfa in 2011 was based upon its relative lack of efficacy rather than safety.</p>
+          <p>Likelihood score: E (unlikely cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="DrotrecoginAlfa.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The mechanism by which drotrecogin alfa might cause serum aminotransferase elevations or liver injury is not known. It is a recombinant glycoprotein with the same amino acid sequence as the human protein and thus unlikely to be intrinsically toxic or immunogenic. Allergic reactions and development of antibodies to human protein C were not reported.</p>
+          <p>Drug Class: <related-object source-id="livertox" document-id="Anticoagulants">Antithrombotic Agents</related-object>, Agents for Sepsis</p>
+        </sec>
+      </sec>
+      <sec id="DrotrecoginAlfa.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <boxed-text position="anchor" id="DrotrecoginAlfa.BPI" orientation="portrait">
+          <p>
+            <bold>REPRESENTATIVE TRADE NAMES</bold>
+          </p>
+          <p>Drotrecogin alfa &#x02013; Xigris&#x000ae;</p>
+          <p>
+            <bold>DRUG CLASS</bold>
+          </p>
+          <p>Agents for Sepsis</p>
+          <p>
+            <bold>COMPLETE LABELING</bold>
+          </p>
+          <p>Product Withdrawn from Market</p>
+        </boxed-text>
+      </sec>
+      <sec id="DrotrecoginAlfa.CHEMICAL_FORMULA_AND_STR">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="DrotrecoginAlfa.T1" position="anchor" orientation="portrait">
+          <table>
+            <thead>
+              <tr>
+                <th id="hd_h_DrotrecoginAlfa.T1_1_1_1_1" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_DrotrecoginAlfa.T1_1_1_1_2" rowspan="1" colspan="1">CAS REGISTRY NUMBER</th>
+                <th id="hd_h_DrotrecoginAlfa.T1_1_1_1_3" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_DrotrecoginAlfa.T1_1_1_1_4" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_DrotrecoginAlfa.T1_1_1_1_1" rowspan="1" colspan="1">Drotrecogin alfa</td>
+                <td headers="hd_h_DrotrecoginAlfa.T1_1_1_1_2" rowspan="1" colspan="1">
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135353175">98530-76-8</ext-link>
+                </td>
+                <td headers="hd_h_DrotrecoginAlfa.T1_1_1_1_3" rowspan="1" colspan="1">Unspecified</td>
+                <td headers="hd_h_DrotrecoginAlfa.T1_1_1_1_4" rowspan="1" colspan="1">Not Available</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="DrotrecoginAlfa.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 08 January 2018</p>
+        <ref-list id="DrotrecoginAlfa.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="DrotrecoginAlfa.R1">
+            <mixed-citation publication-type="journal">Bernard GR, Vincent JL, Laterre PF, LaRosa SP, Dhainaut JF, Lopez-Rodriguez A, Steingrub JS, et al.; Recombinant human protein C Worldwide Evaluation in Severe Sepsis (PROWESS) study group. Efficacy and safety of recombinant human activated protein C for severe sepsis. N Engl J Med 2001; 344: 699-709. <annotation><p><italic toggle="yes">(Among 1690 patients with severe sepsis with organ failure who were treated with drotrecogin alfa or placebo infusions for 96 hours, 28 day all-cause mortality was lower with drotrecogin than placebo [24.7% vs 30.8%]; important side effects included serious bleeding episodes [3.5% vs 2.0%], but "there were no other safety concerns...on the basis of assessments of organ dysfunction, vital signs, serum chemical data, or hematologic data").</italic></p></annotation><pub-id pub-id-type="pmid">11236773</pub-id></mixed-citation>
+          </ref>
+          <ref id="DrotrecoginAlfa.R2">
+            <mixed-citation publication-type="journal">Bernard GR, Margolis BD, Shanies HM, Ely EW, Wheeler AP, Levy H, Wong K, Wright TJ; Extended Evaluation of Recombinant Human Activated Protein C United States Investigators. Extended evaluation of recombinant human activated protein C United States Trial (ENHANCE US): a single-arm, phase 3B, multicenter study of drotrecogin alfa (activated) in severe sepsis. Chest 2004; 125: 2206-16. <annotation><p><italic toggle="yes">(Among 273 adults with severe sepsis with organ failure treated with drotrecogin alfa infusions, the 28 day mortality rate was 26.4% and serious bleeding episodes [the only serious adverse event attributed to drug] occurred in 4%; no mention of serum enzyme elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">15189943</pub-id></mixed-citation>
+          </ref>
+          <ref id="DrotrecoginAlfa.R3">
+            <mixed-citation publication-type="journal">Abraham E, Laterre PF, Garg R, Levy H, Talwar D, Trzaskoma BL, Fran&#x000e7;ois B, et al; Administration of Drotrecogin Alfa (Activated) in Early Stage Severe Sepsis (ADDRESS) Study Group. Drotrecogin alfa (activated) for adults with severe sepsis and a low risk of death. N Engl J Med 2005; 353: 1332-41. <annotation><p><italic toggle="yes">(Among 2613 patients with severe sepsis but a "low risk of death" who were treated with drotrecogin alfa or placebo infusions for 96 hours, 28 day mortality was similar in both groups [18.5% vs 17%] while serious bleeding episodes were more frequent with drotrecogin [2.4% vs 1.2%]; no mention or serum enzyme elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">16192478</pub-id></mixed-citation>
+          </ref>
+          <ref id="DrotrecoginAlfa.R4">
+            <mixed-citation publication-type="journal">Payen D, Sundin DP, Nelson DR, Williams MD. Analysis of efficacy and safety of drotrecogin alfa (activated) in surgical patients, using an international integrated database. Surgery 2007; 142: 426-7. <annotation><p><italic toggle="yes">(Among 1659 patients with severe sepsis following surgery who participated in 5 clinical studies of drotrecogin alfa vs placebo, serious bleeding episodes were more common with drotrecogin than placebo [4.9% vs 0.5%], but were rarely fatal).</italic></p></annotation><pub-id pub-id-type="pmid">17723900</pub-id></mixed-citation>
+          </ref>
+          <ref id="DrotrecoginAlfa.R5">
+            <mixed-citation publication-type="journal">Laterre PF, Abraham E, Janes JM, Trzaskoma BL, Correll NL, Booth FV. ADDRESS (ADministration of DRotrecogin alfa [activated] in Early stage Severe Sepsis) long-term follow-up: one-year safety and efficacy evaluation. Crit Care Med 2007; 35: 1457-63. <annotation><p><italic toggle="yes">(Among 2640 patients who received drotrecogin alfa or placebo infusions for an episode of "early stage" severe sepsis with organ failure [Abraham 2005], one year follow up was available on 2376 at which time mortality rates were similar [34.2% vs 34%]).</italic></p></annotation><pub-id pub-id-type="pmid">17452935</pub-id></mixed-citation>
+          </ref>
+          <ref id="DrotrecoginAlfa.R6">
+            <mixed-citation publication-type="journal">Payen D, Sablotzki A, Barie PS, Ramsay G, Lowry S, Williams M, Sarwat S, et al. International integrated database for the evaluation of severe sepsis and drotrecogin alfa (activated) therapy: analysis of efficacy and safety data in a large surgical cohort. Surgery 2007; 141: 548-61. <annotation><p><italic toggle="yes">(Retrospective analysis using a large integrated database on patients with severe sepsis after surgery who received drotrecogin alfa found that serious adverse events were more common with drotrecogin than placebo [7.5% vs 6.3%] as were severe bleeding episodes [4.9% vs 0.5%]; no mention of liver related adverse events).</italic></p></annotation><pub-id pub-id-type="pmid">17431957</pub-id></mixed-citation>
+          </ref>
+          <ref id="DrotrecoginAlfa.R7">
+            <mixed-citation publication-type="journal">Nadel S, Goldstein B, Williams MD, Dalton H, Peters M, Macias WL, Abd-Allah SA, et al.; REsearching severe Sepsis and Organ dysfunction in children: a gLobal perspective (RESOLVE) study group. Drotrecogin alfa (activated) in children with severe sepsis: a multicentre phase III randomised controlled trial. Lancet 2007; 369 (9564): 836-43. <annotation><p><italic toggle="yes">(Among 477 children with severe sepsis and organ failure treated with infusions of drotrecogin alfa vs placebo for 96 hours, 28 day mortality [17.2% vs 17.5%] and rates of severe bleeding [6.7% vs 6.8%] were similar and "the overall safety profile [was] acceptable"; no mention of serum enzyme elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">17350452</pub-id></mixed-citation>
+          </ref>
+          <ref id="DrotrecoginAlfa.R8">
+            <mixed-citation publication-type="journal">Dhainaut JF; INDEPTH Clinical Evaluation Committee. International integrated database for the evaluation of severe sepsis (INDEPTH): clinical evaluation committee report on the safety of drotrecogin alfa (activated) therapy. Curr Med Res Opin 2008; 24: 1187-97. <annotation><p><italic toggle="yes">(Among 4459 patients with severe sepsis enrolled in studies of drotrecogin alfa vs placebo and analyzed in an integrated database, total serious adverse event rates were similar [13.2% vs 13.8%], while serious bleeding episodes more frequent with drotrecogin than placebo [5.6% vs 2.0%] and arterial thrombotic events less common with drotrecogin [1.8% vs 2.9%]).</italic></p></annotation><pub-id pub-id-type="pmid">18348744</pub-id></mixed-citation>
+          </ref>
+          <ref id="DrotrecoginAlfa.R9">
+            <mixed-citation publication-type="journal">Woodward B, Cartwright M. Safety of drotrecogin alfa (activated) in severe sepsis: data from adult clinical trials and observational studies. J Crit Care 2009; 24: 595-602. <annotation><p><italic toggle="yes">(Review of safety analyses of 2 controlled and 4 open label trials of drotrecogin alfa in severe sepsis from the sponsor focuses upon serious bleeding episodes and does not discuss serum enzyme elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">19327331</pub-id></mixed-citation>
+          </ref>
+          <ref id="DrotrecoginAlfa.R10">
+            <mixed-citation publication-type="journal">Poole D, Bertolini G, Garattini S. Errors in the approval process and post-marketing evaluation of drotrecogin alfa (activated) for the treatment of severe sepsis. Lancet Infect Dis 2009; 9: 67-72. <annotation><p><italic toggle="yes">(Analysis of the approval of drotrecogin alfa in the US and Europe points out that the approval was based upon analysis of subgroups of patients in the initial single trial in patients with severe sepsis and organ failure).</italic></p></annotation><pub-id pub-id-type="pmid">19095197</pub-id></mixed-citation>
+          </ref>
+          <ref id="DrotrecoginAlfa.R11">
+            <mixed-citation publication-type="journal">Steingrub JS, Cheatham ML, Woodward B, Wang HT, Effron MB; XEUS Investigators. A prospective, observational study of Xigris Use in the United States (XEUS). J Crit Care 2010; 25: 660. <annotation><p><italic toggle="yes">(Among 548 adults with severe sepsis treated with drotrecogin alfa in clinical practices, 28 day mortality was 36.7% and the rate of serious bleeding episodes 3.1%; no mention of serum enzyme elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">20435433</pub-id></mixed-citation>
+          </ref>
+          <ref id="DrotrecoginAlfa.R12">
+            <mixed-citation publication-type="journal">Kalil AC, LaRosa SP. Effectiveness and safety of drotrecogin alfa (activated) for severe sepsis: a meta-analysis and metaregression. Lancet Infect Dis 2012; 12: 678-86. <annotation><p><italic toggle="yes">(Systematic review of literature [9 controlled trials and 20 open label studies] on drotrecogin alfa therapy of severe sepsis concludes that drotrecogin treatment was associated with a reduction in hospital mortality).</italic></p></annotation><pub-id pub-id-type="pmid">22809883</pub-id></mixed-citation>
+          </ref>
+          <ref id="DrotrecoginAlfa.R13">
+            <mixed-citation publication-type="journal">Ranieri VM, Thompson BT, Barie PS, Dhainaut JF, Douglas IS, Finfer S, G&#x000e5;rdlund B, et al; PROWESS-SHOCK Study Group. Drotrecogin alfa (activated) in adults with septic shock. N Engl J Med 2012; 366: 2055-64. <annotation><p><italic toggle="yes">(Among 1697 patients with septic shock treated with drotrecogin alfa or placebo infusions for 96 hours, 28 day mortality was similar in both groups [26.4% vs 24.7%], while serious adverse events were more frequent with drotrecogin [14.3% vs 11.5%] as was serious bleeding [8.6% vs 4.8%]; rates of hepatic failure were similar in both groups).</italic></p></annotation><pub-id pub-id-type="pmid">22616830</pub-id></mixed-citation>
+          </ref>
+          <ref id="DrotrecoginAlfa.R14">
+            <mixed-citation publication-type="journal">Holder AL, Huang DT. A dream deferred: the rise and fall of recombinant activated protein C. Crit Care 2013; 17: 309. <annotation><p><italic toggle="yes">(Commentary on Ranieri [2012] concludes that "drotrecogin should no longer be recommended in sepsis guidelines as a standard of care").</italic></p></annotation><pub-id pub-id-type="pmid">23509922</pub-id></mixed-citation>
+          </ref>
+          <ref id="DrotrecoginAlfa.R15">
+            <mixed-citation publication-type="journal">Annane D, Timsit JF, Megarbane B, Martin C, Misset B, Mourvillier B, Siami S, et al.; APROCCHSS Trial Investigators. Recombinant human activated protein C for adults with septic shock: a randomized controlled trial. Am J Respir Crit Care Med 2013; 187: 1091-7. <annotation><p><italic toggle="yes">(Among 411 patients with septic shock treated with drotrecogin alfa, corticosteroids, both or placebos, 90 day mortality was the same for the regimens with or without drotrecogin [47.6% vs 46.3%] as were the rates of serious adverse events [53.8% vs 54.7%] and serious bleeding [12,5% vs 14.3%]; no mention of serum enzyme elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">23525934</pub-id></mixed-citation>
+          </ref>
+          <ref id="DrotrecoginAlfa.R16">
+            <mixed-citation publication-type="journal">Miranda CJ, Mason JM, Babu BI, Sheen AJ, Eddleston JM, Parker MJ, Pemberton P, Siriwardena AK. Twenty-four hour infusion of human recombinant activated protein C (Xigris) early in severe acute pancreatitis: The XIG-AP 1 trial. Pancreatology 2015; 15: 635-41. <annotation><p><italic toggle="yes">(Among 19 patients with severe acute pancreatitis treated with drotrecogin alfa infusions for 24 hours, 28 day mortality was slightly but not significantly higher than that of historical controls [11% vs 5%] and treated patients had no serious bleeding episodes; no mention of serum enzyme elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">26547592</pub-id></mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec id="DrotrecoginAlfa.OTHER_REFERENCE_LINKS" sec-type="link-group">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=(Drotrecogin+alfa/AE)+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D%3A%222999/12/31%22%5BEDat%5D)">Recent References on Drotrecogin alfa: from PubMed.gov</ext-link>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Drotrecogin+alfa">Trials on Drotrecogin alfa: from ClinicalTrials.gov</ext-link>
+            </p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

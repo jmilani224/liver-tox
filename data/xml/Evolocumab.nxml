@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Evolocumab" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Evolocumab</book-part-id>
+      <title-group>
+        <title>Evolocumab</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>19</day>
+          <month>2</month>
+          <year>2018</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Everolimus" document-type="chapter">Everolimus</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Exemestane" document-type="chapter">Exemestane</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Evolocumab.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Evolocumab.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Evolocumab is a human monoclonal antibody to PCSK9 (proprotein convertase subtilisin/kexin type 9), a circulating protein that modulates the activity of the LDL cholesterol receptor in the liver. The monoclonal antibody lowers serum LDL cholesterol and is used to treat severe hypercholesterolemia. Evolocumab therapy has been associated with a low rate of serum aminotransferase elevations and has yet to be linked to instances of clinically apparent acute liver injury.</p>
+        </sec>
+        <sec id="Evolocumab.Background">
+          <title>Background</title>
+          <p>Evolocumab (e" voe lok' ue mab) is a human IgG1 monoclonal antibody to proprotein convertase subtilisin/kexin type 9 (PCSK9), a serine protease that decreases the activity of the LDL cholesterol receptor in the liver. Inhibition of PCSK9 increases the low density lipoprotein (LDL) cholesterol receptor, leading to an increased uptake of LDL particles and a decrease in serum LDL cholesterol. Patients with a genetic deficiency in PCSK9 have low levels of LDL cholesterol, and inhibition of the protein activity with monoclonal antibody leads to a marked lowering of LDL cholesterol. In several controlled trials, evolocumab was shown to lower LDL cholesterol in persons with heterozygosity for familial hypercholesterolemia and in persons at risk for atherosclerosis who have been unable to achieve adequate cholesterol lowering with standard lipid lowering agents (statins). Evolocumab was approved for use in the United States in 2015. The current indications are limited to patients with severe hypercholesterolemia who are heterozygous for familial hypercholesterolemia or who have had clinical complications of atherosclerosis and an inadequate response to standard therapies. Evolocumab should be given in combination with advice on diet and exercise and in combination with oral lipid lowering agents such as statins. Evolocumab is available in solution in single use syringes or auto injectors of 140 mg/mL under the brand name Repatha. The recommended dose is 140 mg administered subcutaneously every 2 weeks or 420 mg (3 injections) every 4 weeks. Side effects are not frequent and generally mild, and include injection site reactions, nasopharyngitis, upper respiratory tract infection, headache, myalgia and back pain. Rare, but potentially serious side effects may include hypersensitivity reactions and neurocognitive problems.</p>
+        </sec>
+        <sec id="Evolocumab.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>In premarketing studies, liver test abnormalities were uncommon in patients taking evolocumab and occurred at rates similar to those in patients receiving placebo injections or standard of care. Serum ALT or AST values greater than 3 times the upper limit of normal (ULN) occurred in 0.4% to 1.8% of persons on evolocumab vs 0.6% to 1.6% of those on placebo. No instances of acute, clinically apparent liver injury attributed to evolocumab were reported. However, evolocumab has had limited use and has been available commercially for a short time only.</p>
+          <p>Likelihood score: E (unlikely cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Evolocumab.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>Evolocumab is a human monoclonal antibody and is metabolized in many tissues to polypeptides and amino acids which are unlikely to be toxic. Monoclonal antibody therapy sometimes causes immune mediated liver injury, but such events have not been described in evolocumab. There appears to be no adverse consequences of inhibition of PCSK9 signalling in the liver.</p>
+        </sec>
+        <sec id="Evolocumab.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>Therapy with evolocumab and other monoclonal antibodies to PCSK9 have been well tolerated with rates of adverse events similar to those with placebo or comparator treatments. Local injection site reactions occur with these agents, but are generally mild and improve with continued therapy. Monoclonal antibodies to PCSK9 has not been linked to significant elevations in serum enzymes or bilirubin or to clinically apparent liver injury. Patients who develop serum aminotransferase elevations above 3 times the upper limit of normal should be evaluated for other causes of liver injury including drug-induced injury from another antilipemic agent.</p>
+          <p>Drug Class: <related-object source-id="livertox" document-id="Lipid-LoweringAgents">Antilipemic Agents</related-object>; <related-object source-id="livertox" document-id="MonoclonalAntibodies">Monoclonal Antibodies</related-object>, Anti-PCSK9</p>
+          <p>Other Drugs in the Class: <related-object source-id="livertox" document-id="Alirocumab">Alirocumab</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Evolocumab.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <boxed-text position="anchor" id="Evolocumab.BPI" orientation="portrait">
+          <p>
+            <bold>REPRESENTATIVE TRADE NAMES</bold>
+          </p>
+          <p>Evolocumab &#x02013; Repatha&#x000ae;</p>
+          <p>
+            <bold>DRUG CLASS</bold>
+          </p>
+          <p>Antilipemic Agents</p>
+          <p>
+            <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Evolocumab">COMPLETE LABELING</ext-link>
+          </p>
+          <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+        </boxed-text>
+      </sec>
+      <sec id="Evolocumab.CHEMICAL_FORMULA_AND_STRUCTUR">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Evolocumab.T1" position="anchor" orientation="portrait">
+          <table>
+            <thead>
+              <tr>
+                <th id="hd_h_Evolocumab.T1_1_1_1_1" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Evolocumab.T1_1_1_1_2" rowspan="1" colspan="1">CAS REGISTRY NO.</th>
+                <th id="hd_h_Evolocumab.T1_1_1_1_3" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Evolocumab.T1_1_1_1_4" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Evolocumab.T1_1_1_1_1" rowspan="1" colspan="1">Evolocumab</td>
+                <td headers="hd_h_Evolocumab.T1_1_1_1_2" rowspan="1" colspan="1">
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://381126776">1256937-27-5</ext-link>
+                </td>
+                <td headers="hd_h_Evolocumab.T1_1_1_1_3" rowspan="1" colspan="1">Monoclonal Antibody</td>
+                <td headers="hd_h_Evolocumab.T1_1_1_1_4" rowspan="1" colspan="1">Not Available</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Evolocumab.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 19 February 2018</p>
+        <ref-list id="Evolocumab.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Evolocumab.R1">
+            <mixed-citation publication-type="other">Zimmerman HJ. Drugs used in the treatment of hypercholesterolemia and hyperlipidemia. In, Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999, pp. 660-2.<annotation><p><italic toggle="yes">(Expert review of hepatotoxicity of lipid lowering drugs published in 1999; before the availability of evolocumab).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Evolocumab.R2">
+            <mixed-citation publication-type="other">Halegoua-De Marzio D, Navarro VJ. Lipid-regulating agents. Hepatotoxicity of cardiovascular and antidiabetic drugs. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 2nd ed. New York: Informa Healthcare USA, 2007, pp. 5268.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of lipid lowering drugs before the availability of evolocumab).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Evolocumab.R3">
+            <mixed-citation publication-type="other">Bersot TP. Drug therapy for hypercholesterolemia and dyslipidemia. In, Brunton LL, Lazo JS, Parker KL, eds. Goodman &#x00026; Gilman&#x02019;s the pharmacological basis of therapeutics. 11th ed. New York: McGraw-Hill, 2006, pp. 877-908.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Evolocumab.R4">
+            <mixed-citation publication-type="journal">Robinson JG, Nedergaard BS, Rogers WJ, Fialkow J, Neutel JM, Ramstad D, Somaratne R, et al.; LAPLACE-2 Investigators. Effect of evolocumab or ezetimibe added to moderate- or high-intensity statin therapy on LDL-C lowering in patients with hypercholesterolemia: the LAPLACE-2 randomized clinical trial. JAMA 2014; 311: 1870-82. <annotation><p><italic toggle="yes">(Among 2067 patients with hypercholesterolemia treated with 1 of 24 regimens of statins, ezetimibe and evolocumab for 12 weeks, LDL cholesterol levels were lowest in patients receiving evolocumab and ALT or AST elevations were uncommon, occurring in 1.1% of 558 on statins alone, 1.4% of 221 on statins and ezetimibe, and 0.4% of 1117 on statins and evolocumab).</italic></p></annotation><pub-id pub-id-type="pmid">24825642</pub-id></mixed-citation>
+          </ref>
+          <ref id="Evolocumab.R5">
+            <mixed-citation publication-type="journal">Stroes E, Colquhoun D, Sullivan D, Civeira F, Rosenson RS, Watts GF, Bruckert E, et al.; GAUSS-2 Investigators. Anti-PCSK9 antibody effectively lowers cholesterol in patients with statin intolerance: the GAUSS-2 randomized, placebo-controlled phase 3 clinical trial of evolocumab. J Am Coll Cardiol 2014; 63: 2541-8. <annotation><p><italic toggle="yes">(Among 307 patients with hypercholesterolemia on no or low doses of statins treated with evolocumab [420 mg every 4 weeks or 140 mg every 2 weeks] or ezetimibe [10 mg daily] for 12 weeks, decreases in LDL cholesterol were greater with evolocumab [53-56%] than ezetimibe [37-39%], and no patient in either group developed ALT or AST elevations above 3 times ULN).</italic></p></annotation><pub-id pub-id-type="pmid">24694531</pub-id></mixed-citation>
+          </ref>
+          <ref id="Evolocumab.R6">
+            <mixed-citation publication-type="journal">Koren MJ, Lundqvist P, Bolognese M, Neutel JM, Monsalvo ML, Yang J, Kim JB, et al.; MENDEL-2 Investigators. Anti-PCSK9 monotherapy for hypercholesterolemia: the MENDEL-2 randomized, controlled phase III clinical trial of evolocumab. J Am Coll Cardiol 2014; 63: 2531-40. <annotation><p><italic toggle="yes">(Among 614 patients with hypercholesterolemia on no lipid lowering therapy who were treated with evolocumab [140 mg every 2 or 420 mg every 4 weeks] vs ezetimibe vs placebo, serum LDL-cholesterol levels decreased by 55-57% with evolocumab in comparison to placebo, and adverse events were similar among the 3 groups, ALT or AST elevations above 3 times ULN occurring in 3-4% on placebo, 0-1% on ezetimibe and 0-2% on evolocumab; one evolocumab treated subject stopped therapy because of creatine kinase and aminotransferase elevations with prompt resolution).</italic></p></annotation><pub-id pub-id-type="pmid">24691094</pub-id></mixed-citation>
+          </ref>
+          <ref id="Evolocumab.R7">
+            <mixed-citation publication-type="journal">Blom DJ, Hala T, Bolognese M, Lillestol MJ, Toth PD, Burgess L, Ceska R, et al.; DESCARTES Investigators. A 52-week placebo-controlled trial of evolocumab in hyperlipidemia. N Engl J Med 2014; 370: 1809-19. <annotation><p><italic toggle="yes">(After a run-in period of statin therapy, 901 patients with hypercholesterolemia were treated with either evolocumab [420 mg every 4 weeks] or placebo for 52 weeks; serum LDL cholesterol levels decreased by an average of 50-60% in evolocumab treated subjects and adverse events were similar to those with placebo, ALT or AST elevations above 3 times ULN occurring in 0.8% vs 1.0%).</italic></p></annotation><pub-id pub-id-type="pmid">24678979</pub-id></mixed-citation>
+          </ref>
+          <ref id="Evolocumab.R8">
+            <mixed-citation publication-type="journal">Stein EA, Giugliano RP, Koren MJ, Raal FJ, Roth EM, D, et al.; PROFICIO Investigators. Efficacy and safety of evolocumab (AMG 145), a fully human monoclonal antibody to PCSK9, in hyperlipidaemic patients on various background lipid therapies: pooled analysis of 1359 patients in four phase 2 trials. Eur Heart J 2014; 35: 2249-59. <annotation><p><italic toggle="yes">(Among 1359 patients treated in four phase 2 controlled trials of evolocumab, pooled safety analyses found similar rates of adverse events in evolocumab vs placebo treated subjects and ALT or AST elevations above 3 times ULN in 0.4% vs 0.6%).</italic></p></annotation><pub-id pub-id-type="pmid">24598985</pub-id></mixed-citation>
+          </ref>
+          <ref id="Evolocumab.R9">
+            <mixed-citation publication-type="journal">Koren MJ, Giugliano RP, Raal FJ, Sullivan D, Bolognese M, Langslet G, Civeira F, et al.; OSLER Investigators. Efficacy and safety of longer-term administration of evolocumab (AMG 145) in patients with hypercholesterolemia: 52-week results from the Open-Label Study of Long-Term Evaluation Against LDL-C (OSLER) randomized trial. Circulation 2014; 129: 234-43. <annotation><p><italic toggle="yes">(Among 1104 patients with hypercholesterolemia enrolled in an extension open label trial of evolocumab [420 mg every 4 weeks] versus standard of care for 52 weeks, serum LDL cholesterol levels decreased by an average of 50% on evolocumab, while adverse events were generally mild-to-moderate, ALT or AST levels above 3 times ULN occurring in 1.8% vs 1.6% and above 5 times ULN in 0.5% vs 0.3%).</italic></p></annotation><pub-id pub-id-type="pmid">24255061</pub-id></mixed-citation>
+          </ref>
+          <ref id="Evolocumab.R10">
+            <mixed-citation publication-type="journal">Chalasani N, Bonkovsky HL, Fontana R, Lee W, Stolz A, Talwalkar J, Reddy KR, et al.; United States Drug Induced Liver Injury Network. Features and outcomes of 899 patients with drug-induced liver injury: The DILIN Prospective Study. Gastroenterology 2015; 148: 1340-52. <annotation><p><italic toggle="yes">(Among 899 cases of drug induced liver injury enrolled in a US prospective study between 2004 and 2013, 41 cases [5.4%] were attributed to lipid lowering agents including 31 to statins, 5 to niacin and 5 to fibrates, but none to evolocumab or alirocumab).</italic></p></annotation><pub-id pub-id-type="pmid">25754159</pub-id></mixed-citation>
+          </ref>
+          <ref id="Evolocumab.R11">
+            <mixed-citation publication-type="journal">Sabatine MS, Giugliano RP, Wiviott SD, Raal FJ, Blom DJ, Robinson J, Ballantyne CM, et al.; Open-Label Study of Long-Term Evaluation against LDL Cholesterol (OSLER) Investigators. Efficacy and safety of evolocumab in reducing lipids and cardiovascular events. N Engl J Med 2015; 372: 1500-9. <annotation><p><italic toggle="yes">(Among 4465 patients enrolled in two open label extension studies and treated with evolocumab [140 mg every 2 or 420 mg every 4 weeks] vs standard of care, side effects were similar in the two groups, but neurocognitive events were more frequent with evolocumab [0.9% vs 0.3%], whereas rates of ALT or AST elevations above 3 times ULN were similar [1.0% vs 1.2%]).</italic></p></annotation><pub-id pub-id-type="pmid">25773607</pub-id></mixed-citation>
+          </ref>
+          <ref id="Evolocumab.R12">
+            <mixed-citation publication-type="journal">Raal FJ, Honarpour N, Blom DJ, Hovingh GK, Xu F, Scott R, Wasserman SM, et al.; TESLA Investigators. Inhibition of PCSK9 with evolocumab in homozygous familial hypercholesterolaemia (TESLA Part B): a randomised, double-blind, placebo-controlled trial. Lancet 2015; 385 (9965): 341-50. <annotation><p><italic toggle="yes">(Among 49 patients who were homozygous for familial hypercholesterolemia and were treated with evolocumab [420 mg every 4 weeks] or placebo injections for 12 weeks, LDL cholesterol levels decreased more with the monoclonal antibody [by 31%] and adverse events were similar in the two groups, with 2 of 33 evolocumab and 1 of 16 placebo recipients developing ALT or AST elevations above 3 times ULN, but none requiring drug discontinuation).</italic></p></annotation><pub-id pub-id-type="pmid">25282520</pub-id></mixed-citation>
+          </ref>
+          <ref id="Evolocumab.R13">
+            <mixed-citation publication-type="journal">Raal FJ, Stein EA, Dufour R, Turner T, Civeira F, Burgess L, Langslet G, et al.; RUTHERFORD-2 Investigators. PCSK9 inhibition with evolocumab (AMG 145) in heterozygous familial hypercholesterolaemia (RUTHERFORD-2): a randomised, double-blind, placebo-controlled trial. Lancet 2015; 385 (9965): 331-40. <annotation><p><italic toggle="yes">(Among 331 patients heterozygous for familial hypercholesterolemia who were inadequately controlled with standard therapy and treated with either evolocumab [140 mg every 2 or 420 mg every 4 weeks] or placebo injections for 12 weeks, side effects were similar in the two groups and no patient developed ALT or AST elevations above 3 times ULN).</italic></p></annotation><pub-id pub-id-type="pmid">25282519</pub-id></mixed-citation>
+          </ref>
+          <ref id="Evolocumab.R14">
+            <mixed-citation publication-type="journal">Navarese EP, Kolodziejczak M, Schulze V, Gurbel PA, Tantry U, Lin Y, Brockmeyer M, et al. Effects of proprotein convertase subtilisin/kexin type 9 antibodies in adults with hypercholesterolemia: a systematic review and meta-analysis. Ann Intern Med 2015; 163: 40-51. <annotation><p><italic toggle="yes">(Systematic review of the literature on efficacy and safety of anti-PCSK9 monoclonal antibody therapy [both alirocumab and evolocumab] in patients with hypercholesterolemia concludes that these agents are safe and effective, leading to marked reductions in LDL cholesterol without increasing serious adverse events; does not discuss ALT elevations or hepatotoxicity). </italic></p></annotation><pub-id pub-id-type="pmid">25915661</pub-id></mixed-citation>
+          </ref>
+          <ref id="Evolocumab.R15">
+            <mixed-citation publication-type="journal">Evolocumab (Repatha)--a second PCSK9 inhibitor to lower LDL-Cholesterol. Med Lett Drugs Ther 2015; 57 (1479): 140-1. <annotation><p><italic toggle="yes"> (Concise review of the mechanism of action, clinical efficacy, safety and costs of evolocumab shortly after its approval for use in the US; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">26445204</pub-id></mixed-citation>
+          </ref>
+          <ref id="Evolocumab.R16">
+            <mixed-citation publication-type="journal">Nicholls SJ, Puri R, Anderson T, Ballantyne CM, Cho L, Kastelein JJ, Koenig W, et al. Effect of evolocumab on progression of coronary disease in statin-treated patients: the GLAGOV randomized clinical trial. JAMA 2016; 316: 2373-84. <annotation><p><italic toggle="yes">(Among 968 patients with coronary artery disease treated with injections of evolocumab or placebo for 78 weeks, percent atheroma values measured angiographically improved in evolocumab- but not placebo-treated subjects, and ALT or AST elevations above 3 times ULN were rare [0.5% vs 0.5%], and there were no liver related serious adverse events in either group).</italic></p></annotation><pub-id pub-id-type="pmid">27846344</pub-id></mixed-citation>
+          </ref>
+          <ref id="Evolocumab.R17">
+            <mixed-citation publication-type="journal">Hovingh GK, Raal FJ, Dent R, Stefanutti C, Descamps O, Masana L, Lira A, et al. Long-term safety, tolerability, and efficacy of evolocumab in patients with heterozygous familial hypercholesterolemia. J Clin Lipidol 2017; 11: 1448-57. <annotation><p><italic toggle="yes">(Among 440 patients treated with evolocumab or placebo for 52 weeks following two controlled trials [Raal 2015], LDL-cholesterol levels decreased by 54% vs a 2% increase with placebo while ALT elevations above 3 times ULN occured in 3% on evolocumab vs none on placebo, no patient required early discontinuation because of a liver related adverse events).</italic></p></annotation><pub-id pub-id-type="pmid">29066265</pub-id></mixed-citation>
+          </ref>
+          <ref id="Evolocumab.R18">
+            <mixed-citation publication-type="journal">Orringer CE, Jacobson TA, Saseen JJ, Brown AS, Gotto AM, Ross JL, Underberg JA. Update on the use of PCSK9 inhibitors in adults: Recommendations from an Expert Panel of the National Lipid Association. J Clin Lipidol 2017; 11: 880-90. <annotation><p><italic toggle="yes">(Revised recommendations on the use of monoclonal anti-PCSK9 therapies by an expert panel suggesting their use in all patients at high or moderate risk for atherosclerotic cardiovascular disease who have intolerance or inadequate control of cholesterol levels using maximal doses of conventional agents).</italic></p></annotation><pub-id pub-id-type="pmid">28532784</pub-id></mixed-citation>
+          </ref>
+          <ref id="Evolocumab.R19">
+            <mixed-citation publication-type="journal">Toth PP, Descamps O, Genest J, Sattar N, Preiss D, Dent R, Djedjos C, et al.; PROFICIO Investigators. Pooled safety analysis of evolocumab in over 6000 patients from double-blind and open-label extension studies. Circulation 2017; 135: 1819-31. <annotation><p><italic toggle="yes">(Among 6026 patients in 12 controlled clinical trials of evolocumab including 4465 treated for at least 12 months, total and serious adverse event rates were similar with evolocumab as in standard of care arms; ALT or AST elevations above 3 times ULN occurring in 1.0% vs 1.2% and above 5 times ULN in 0.3% vs 0.2%).</italic></p></annotation><pub-id pub-id-type="pmid">28249876</pub-id></mixed-citation>
+          </ref>
+          <ref id="Evolocumab.R20">
+            <mixed-citation publication-type="journal">Gibbs JP, Slatter JG, Egbuna O, Geller M, Hamilton L, Dias CS, Xu RY, et al. Evaluation of evolocumab (AMG 145), a fully human anti-PCSK9 IgG2 monoclonal antibody, in subjects with hepatic impairment. J Clin Pharmacol 2017; 57: 513-23. <annotation><p><italic toggle="yes"> (Pharmacokinetic studies using single doses of evolocumab done in healthy controls and subjects with Child-Pugh Class A or B cirrhosis [8 per group] indicated that dose adjustments are not needed in patients with mild-to-moderate hepatic dysfunction and that decrease in LDL-cholesterol levels were similar in all groups).</italic></p></annotation><pub-id pub-id-type="pmid">27667740</pub-id></mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec id="Evolocumab.OTHER_REFERENCE_LINKS" sec-type="link-group">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=Evolocumab+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D%3A%222999/12/31%22%5BEDat%5D)">Recent References on Evolocumab: from PubMed.gov</ext-link>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Evolocumab">Trials on Evolocumab: from ClinicalTrials.gov</ext-link>
+            </p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

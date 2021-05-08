@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="HematologicGrowthFac" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">HematologicGrowthFac</book-part-id>
+      <title-group>
+        <title>Hematologic Growth Factors</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>16</day>
+          <month>8</month>
+          <year>2016</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Halothane" document-type="chapter">Halothane</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Heparin" document-type="chapter">Heparin</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="HematologicGrowthFac.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="HematologicGrowthFac.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>The hematologic growth factors (also called stimulating factors) are polypeptides that interact with cell surface receptors on hematologic progenitor cells causing their activation, proliferation and differentiation into mature circulating cells such as red blood cells, white blood cells, neutrophils, monocytes, macrophages and platelets. Several recombinant hematologic growth factors or agonists for their receptors have been produced that are useful in treating anemia, neutropenia and thrombocytopenia, particularly in patients with end stage renal disease or aplastic anemia or who have received cancer chemotherapy or a hematopoietic cell transplant. Most of the hematologic growth factors are recombinant polypeptides and have not been implicated in causing serum aminotransferase elevations or clinically apparent liver injury. A small molecule agonist of the thrombopoietin receptor (eltrombopag), however, has been linked to serum enzyme elevations during therapy, although not specifically to clinically apparent liver injury with jaundice.</p>
+          <p><bold>Erythropoiesis stimulating agents</bold> include epoetin (e poe&#x02019; e tin), which is a recombinant form of erythropoietin, the 165 amino acid glycoprotein that induces red blood cell production from progenitors in the bone marrow. Erythropoietin is made in the kidneys and acts on progenitor erythroblasts through the erythropoietin receptor to cause proliferation and maturation into red cells. The major stimulus to erythropoietin synthesis is tissue hypoxia, but other factors modulate the response. Deficiency of erythropoietin is common in end stage renal disease and may also be present in premature infants and in patients with malignancies, chronic inflammation and cancer chemotherapy. Recombinant epoetin became available in the 1980&#x02019;s and was shown to raise hemoglobin and hematocrit levels in patients with end stage renal disease on hemodialysis, as well as in patients receiving cancer chemotherapy and patients with AIDS on drugs that cause anemia. Epoetin alfa was approved for use to treat anemia in patients with renal disease and receiving cancer chemotherapy in 1989 and is now widely used. Indications have broadened to include reduction of allogeneic red cell transfusion in patients undergoing elective surgery and it is used off-label for other forms of anemia associated with relative erythropoietin deficiency. Longer acting formulations are also available including darbepoetin and peginesatide.</p>
+          <p><bold>Colony stimulating factors</bold> increase white blood counts including neutrophils and macrophages/monocytes, and include granulocyte stimulating factor (G-CSF) and granulocyte-macrophage stimulating factor (GM-CSF). Human G-CSF is a 175 amino acid protein that induces the proliferation and maturation of neutrophils and is produced by multiple cell types including monocytes, fibroblasts, macrophages and stromal cells. It acts on specific receptors found on neutrophil progenitors. Human G-CSF is a 127 amino acid glycoprotein that acts upon both progenitors of both neutrophils and macrophages or monocytes. Recombinant forms of G-CSF (filgrastim and pegfilgrastim) and GM-CSF (sargramostim) have been developed and are approved for use in patients with malignancies after chemotherapy induced neutropenia and to support patients undergoing hematopoietic cell transplantation.</p>
+          <p><bold>Thrombopoietin</bold> is a 332 amino acid protein that acts on its receptors on megakaryocytes to stimulate their proliferation and differentiation resulting in increases in circulating platelet counts. Recombinant forms of human thrombopoietin were found to be effective in raising platelet counts, but resulted in induction of neutralizing antibody in a proportion of patients which led to severe thrombocytopenia. For this reason, further development of recombinant thrombopoietin as a therapeutic agent was abandoned. Subsequently, a small molecule agonist of the thrombopoietin receptor was identified (eltrombopag) and shown to be effective in raising platelet counts in patients with idiopathic thrombocytopenic purpura (ITP), as well as in patients with aplastic anemia and patients with cirrhosis undergoing interferon-based therapy. In addition, a recombinant molecule of 4 copies of a small peptide that binds the thrombopoietin receptor fused to a copy of the human IgG1 heavy chain (romiplostim) was developed that has agonist activity to the receptor, despite lack of homology to thrombopoietin. Administration of romiplostim causes maturation of megakaryocytes and increased synthesis and release of platelets without inducing neutralizing antibody.</p>
+          <p>Background descriptions of the hematologic growth factors in current clinical use, their potential hepatotoxicity, mechanisms of liver injury and management along with pertinent references on safety are provided separately in LiverTox in the following Subclass records.</p>
+          <p>Drug Class: Hematologic Growth Factors</p>
+          <p>Drugs in the Subclass, <related-object source-id="livertox" document-id="ColonyStimulatingFac">Colony Stimulating Factors</related-object>: Granulocyte Colony Stimulating Factors (G-CSF: <related-object source-id="livertox" document-id="ColonyStimulatingFac">Filgrastim</related-object> and <related-object source-id="livertox" document-id="ColonyStimulatingFac">Pegfilgrastim</related-object>), Granulocyte-Macrophage Colony Stimulating Factors (GM-CSF: <related-object source-id="livertox" document-id="ColonyStimulatingFac">Sargramostim)</related-object></p>
+          <p>Drugs in the Subclass, <related-object source-id="livertox" document-id="ErythropoiesisStimul">Erythropoiesis Stimulating Agents</related-object>: <related-object source-id="livertox" document-id="ErythropoiesisStimul">Epoetin</related-object>, <related-object source-id="livertox" document-id="ErythropoiesisStimul">Darbepoetin</related-object>, <related-object source-id="livertox" document-id="ErythropoiesisStimul">Peginesatide</related-object></p>
+          <p>Drugs in the Subclass, <related-object source-id="livertox" document-id="ThrombopoietinRecept">Thrombopoietin Receptor Agonists</related-object> and Thrombopoiesis Stimulators: <related-object source-id="livertox" document-id="ThrombopoietinRecept">Avatrombopag</related-object>, <related-object source-id="livertox" document-id="ThrombopoietinRecept">Eltrombopag</related-object>, <related-object source-id="livertox" document-id="Fostamatinib">Fostamatinib</related-object>, <related-object source-id="livertox" document-id="ThrombopoietinRecept">Lusutrombopag</related-object>, <related-object source-id="livertox" document-id="ThrombopoietinRecept">Romiplostim</related-object>, <related-object source-id="livertox" document-id="Oprelvekin">Oprelvekin IL-11</related-object></p>
+        </sec>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

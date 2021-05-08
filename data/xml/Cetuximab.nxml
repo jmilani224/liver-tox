@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Cetuximab" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Cetuximab</book-part-id>
+      <title-group>
+        <title>Cetuximab</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>3</day>
+          <month>10</month>
+          <year>2017</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Cetirizine_Levocetir" document-type="chapter">Cetirizine</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Cevimeline" document-type="chapter">Cevimeline</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Cetuximab.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Cetuximab.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Cetuximab is a chimeric mouse-human monoclonal antibody to the human epidermal growth factor (EGF) receptor which is used in the treatment of metastatic colon and head and neck cancers. Cetuximab has been linked to mild and transient serum enzyme elevations during therapy, but has not been implicated in cases of clinically apparent acute liver injury.</p>
+        </sec>
+        <sec id="Cetuximab.Background">
+          <title>Background</title>
+          <p>Cetuximab (se tux&#x02019; i mab) is a chimeric mouse-human monoclonal IgG1 kappa antibody to the human epidermal growth factor (EGF) receptor which is present on many normal cell types and is overexpressed in several forms of cancer. Cetuximab has been shown to prolong survival in patients with EGF receptor expressing and wild type KRAS expressing colorectal cancer. Cetuximab has also been shown to be effective in patients with squamous cell carcinoma of the head and neck. Cetuximab was approved for use the United States in 2004 and current indications include metastatic colorectal and head and neck cancer usually in combination with other antineoplastic agents or radiation therapy. Cetuximab is available in liquid solution of 100 and 200 mg in single dose vials (2 mg/mL) under the brand name Erbitux. The recommended regimen is 400 mg/m<sup>2</sup> by intravenous infusion initially and 250 mg/m<sup>2</sup> weekly thereafter. Common side effects include infusion reactions (premedication with antihistamines is recommended), chills, fever, acne, skin rash, fatigue, headache and diarrhea. Less common but potentially serious side effects include severe cutaneous reactions, infections, acute renal failure, pulmonary embolus and cardiopulmonary arrest.</p>
+        </sec>
+        <sec id="Cetuximab.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>Publications on the large scale trials of cetuximab, rates of ALT elevations and clinically apparent liver injury were usually not mentioned. In a study of squamous cell carcinoma of the head and neck, some degree of ALT elevation was reported in 45% of persons receiving cetuximab and radiation therapy versus 22% of those receiving radiation alone, but elevations above 5 times the ULN were rare (2% vs 1%). During the initial clinical trials and subsequent to its approval and more wide scale use, there have been no published reports of cetuximab hepatotoxicity.</p>
+          <p>Likelihood score: E (unlikely cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Cetuximab.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The cause of the serum enzyme elevations during cetuximab therapy is not known. However, the human EGF receptor is present on many cells and some of the adverse events, including mild liver injury, may be due to a direct effect of the monoclonal antibody on cells that express EGF receptors.</p>
+        </sec>
+        <sec id="Cetuximab.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>The serum aminotransferase elevations that occur on cetuximab therapy are generally transient, mild and asymptomatic and do not require dose modification or delay in therapy. Elevations above 5 times the upper limit of normal should lead to more careful monitoring and discontinuation or delay in therapy until levels return to normal or near normal levels. There is no information on cross reactivity of liver injury among the different monoclonal antibodies. Panitumumab is another monoclonal antibody to EGFR that is approved for use in the United States for metastatic colorectal cancer. Panitumumab is a human monoclonal IgG2 antibody and has a similar profile of side effects to cetuximab, except for a lower rate of infusion reactions.</p>
+          <p>Drug Class: <related-object source-id="livertox" document-id="AntineoplasticAgents">Antineoplastic Agents</related-object>, <related-object source-id="livertox" document-id="MonoclonalAntibodies">Monoclonal Antibodies</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Cetuximab.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <boxed-text position="anchor" id="Cetuximab.BPI" orientation="portrait">
+          <p>
+            <bold>REPRESENTATIVE TRADE NAMES</bold>
+          </p>
+          <p>Cetuximab &#x02013; Erbitux&#x000ae;</p>
+          <p>
+            <bold>DRUG CLASS</bold>
+          </p>
+          <p>Antineoplastic Agents</p>
+          <p>
+            <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?label=all&#x00026;query=Cetuximab">COMPLETE LABELING</ext-link>
+          </p>
+          <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+        </boxed-text>
+      </sec>
+      <sec id="Cetuximab.CHEMICAL_FORMULA_AND_STRUCTURE">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Cetuximab.T1" position="anchor" orientation="portrait">
+          <table>
+            <thead>
+              <tr>
+                <th id="hd_h_Cetuximab.T1_1_1_1_1" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Cetuximab.T1_1_1_1_2" rowspan="1" colspan="1">CAS REGISTRY NO.</th>
+                <th id="hd_h_Cetuximab.T1_1_1_1_3" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Cetuximab.T1_1_1_1_4" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Cetuximab.T1_1_1_1_1" rowspan="1" colspan="1">Cetuximab</td>
+                <td headers="hd_h_Cetuximab.T1_1_1_1_2" rowspan="1" colspan="1">
+                  <bold>
+                    <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135293496">205923-56-4</ext-link>
+                  </bold>
+                </td>
+                <td headers="hd_h_Cetuximab.T1_1_1_1_3" rowspan="1" colspan="1">Monoclonal Antibody</td>
+                <td headers="hd_h_Cetuximab.T1_1_1_1_4" rowspan="1" colspan="1">Not Available</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Cetuximab.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 03 October 2017</p>
+        <ref-list id="Cetuximab.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Cetuximab.R1">
+            <mixed-citation publication-type="other">Reuben A. Hepatotoxicity of immunosuppressive drugs. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2011, pp. 569-91.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of immunosuppressive agents mentions rituximab and problems of reactivation of hepatitis B, but also states that "the biological immunosuppressants are largely free from hepatotoxicity, with the exception of the TNF alpha antagonists").</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Cetuximab.R2">
+            <mixed-citation publication-type="other">Chabner BA, Barnes J, Neal J, Olson E, Mujagiv H, Sequist L, Wilson W, et al. Targeted therapies: tyrosine kinase inhibitors, monoclonal antibodies, and cytokines. In, Brunton LL, Chabner BA, Knollman BC, eds. Goodman &#x00026; Gilman's the pharmacological basis of therapeutics. 12th ed. New York: McGraw-Hill, 2011, pp. 1731-53.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Cetuximab.R3">
+            <mixed-citation publication-type="journal">Two new drugs for colon cancer. Med Lett Drugs Ther 2004; 46 (1184):46-8. <annotation><p><italic toggle="yes">(Concise review of mechanism of action, clinical efficacy, and cost of bevacizumab and cetuximab, two antineoplastic monoclonal antibodies, shortly after their approval in the US; adverse effects of cetuximab include acne [which is common and can be severe], infusion reactions, asthenia, diarrhea, nausea, vomiting and abdominal pain and rarely interstitial pneumonitis; no mention of hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">15184808</pub-id></mixed-citation>
+          </ref>
+          <ref id="Cetuximab.R4">
+            <mixed-citation publication-type="journal">Cunningham D, Humblet Y, Siena S, Khayat D, Bleiberg H, Santoro A, Bets D, et al. Cetuximab monotherapy and cetuximab plus irinotecan in irinotecan-refractory metastatic colorectal cancer. N Engl J Med 2004; 351 337-45. <annotation><p><italic toggle="yes">(Among 329 patients with metastatic colorectal cancer treated with cetuximab and irinotecan or cetuximab alone, side effects included acne like rash [89%], but no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">15269313</pub-id></mixed-citation>
+          </ref>
+          <ref id="Cetuximab.R5">
+            <mixed-citation publication-type="journal">Saltz LB, Meropol NJ, Loehrer PJ Sr, Needle MN, Kopit J, Mayer RJ. Phase II trial of cetuximab in patients with refractory colorectal cancer that expresses the epidermal growth factor receptor. J Clin Oncol. 2004; 22 (7): 1201-8. <annotation><p><italic toggle="yes">(Among 57 patients with EGFR expressing, metastatic refractory colorectal cancer treated with cetuximab, common adverse events included acne-like skin rash [86%], fatigue [56%] and allergic reactions; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">14993230</pub-id></mixed-citation>
+          </ref>
+          <ref id="Cetuximab.R6">
+            <mixed-citation publication-type="journal">Vermorken JB, Trigo J, Hitt R, Koralewski P, Diaz-Rubio E, Rolland F, Knecht R, et al. Open-label, uncontrolled, multicenter phase II study to evaluate the efficacy and toxicity of cetuximab as a single agent in patients with recurrent and/or metastatic squamous cell carcinoma of the head and neck who failed to respond to platinum-based therapy. J Clin Oncol 2007; 25: 2171-7. <annotation><p><italic toggle="yes">(Among 103 patients with metastatic or recurrent head and neck cancer treated with cetuximab, adverse events included rash, acne and fatigue, and there were 6 infusion related reactions, including one death; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">17538161</pub-id></mixed-citation>
+          </ref>
+          <ref id="Cetuximab.R7">
+            <mixed-citation publication-type="journal">Pinto C, Di Fabio F, Siena S, Cascinu S, Rojas Llimpe FL, Ceccarelli C, Mutri V, et al. Phase II study of cetuximab in combination with FOLFIRI in patients with untreated advanced gastric or gastroesophageal junction adenocarcinoma (FOLCETUX study). Ann Oncol 2007; 18: 510-7. <annotation><p><italic toggle="yes">(Among 38 patients with advanced gastric carcinoma who received FOLFIRI chemotherapy and intravenous cetuximab [weekly], adverse events include in acne in 31 [82%], hypomagnesemia in 13 [34%], and elevated ALT levels in 10 [26%] which were above 5 times ULN in 2 [5%]).</italic></p></annotation><pub-id pub-id-type="pmid">17164226</pub-id></mixed-citation>
+          </ref>
+          <ref id="Cetuximab.R8">
+            <mixed-citation publication-type="journal">Lenz HJ, Van Cutsem E, Khambata-Ford S, Mayer RJ, Gold P, Stella P, Mirtsching B, et al. Multicenter phase II and translational study of cetuximab in metastatic colorectal carcinoma refractory to irinotecan, oxaliplatin, and fluoropyrimidines. J Clin Oncol 2006; 24: 4914-21. <annotation><p><italic toggle="yes">(Among 346 patients with metastatic, advanced colorectal cancer treated with cetuximab, adverse events included rash [90%], fatigue [20%], headache [20%], diarrhea [13%], nausea [12%] and hypersensitivity reactions [7%]; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">17050875</pub-id></mixed-citation>
+          </ref>
+          <ref id="Cetuximab.R9">
+            <mixed-citation publication-type="journal">Cleary JM, Tanabe KT, Lauwers GY, Zhu AX. Hepatic toxicities associated with the use of preoperative systemic therapy in patients with metastatic colorectal adenocarcinoma to the liver. Oncologist 2009; 14: 1095-105. <annotation><p><italic toggle="yes">(Review of toxicities of preoperative chemotherapy for metastatic colorectal cancer including steatohepatitis after irinotecan [4-20%] and sinusoidal dilatation after oxaliplatin [10-78%]; the effects of cetuximab on the liver are not well described, but there is little to suggest that it interferes with hepatic regeneration).</italic></p></annotation><pub-id pub-id-type="pmid">19880627</pub-id></mixed-citation>
+          </ref>
+          <ref id="Cetuximab.R10">
+            <mixed-citation publication-type="journal">Nie F, Shen J, Tong JL, Xu XT, Zhu MM, Ran ZH. Meta-analysis: the efficacy and safety of monoclonal antibody targeted to epidermal growth factor receptor in the treatment of patients with metastatic colorectal cancer. J Dig Dis 2009; 10: 247-57 <annotation><p><italic toggle="yes">(Systematic review of efficacy and safety of monoclonal antibodies to EGFR in metastatic colorectal cancer; summarized 7 randomized trials with 4186 patients using cetuximab or panitumumab, reported similar rates of response and adverse events with the two agents; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">19906103</pub-id></mixed-citation>
+          </ref>
+          <ref id="Cetuximab.R11">
+            <mixed-citation publication-type="journal">Ettinger DS. Emerging profile of cetuximab in non-small cell lung cancer. Lung Cancer 2010; 68: 332-7. <annotation><p><italic toggle="yes">(Review of the efficacy of cetuximab in non-small cell cancer does not mention ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">19783064</pub-id></mixed-citation>
+          </ref>
+          <ref id="Cetuximab.R12">
+            <mixed-citation publication-type="journal">Baumgaertner I, Ratziu V, Vaillant JC, Hannoun L, Poynard T, Andr&#x000e9;. [Hepatotoxicity of metastatic colorectal cancer chemotherapy: systematic review]. Bull Cancer 2010; 97 (5): 559-69. <annotation><p><italic toggle="yes">(Review of the hepatotoxicity of agents used for metastatic colorectal cancer mentions that the anti-EGFR monoclonal antibodies have not been reported to cause liver injury).</italic></p></annotation><pub-id pub-id-type="pmid">20167564</pub-id></mixed-citation>
+          </ref>
+          <ref id="Cetuximab.R13">
+            <mixed-citation publication-type="journal">Pessaux P, Panaro F, Casnedi S, Zeca I, Marzano E, Bachellier P, Jaeck D, Chenard MP. Targeted molecular therapies(cetuximab and bevacizumab) do not induce additional hepatotoxicity: preliminary results of a case-control study. Eur J Surg Oncol 2010; 36: 575-82. <annotation><p><italic toggle="yes">(Among 36 patients with colorectal cancer undergoing hepatic resection after chemotherapy, steatohepatitis was less frequent in 21 patients who received bevacizumab than matched controls [5% vs 33%], and sinusoidal obstruction syndrome was less frequent in 15 patients given cetuximab than controls [0% vs 33%]).</italic></p></annotation><pub-id pub-id-type="pmid">20452168</pub-id></mixed-citation>
+          </ref>
+          <ref id="Cetuximab.R14">
+            <mixed-citation publication-type="journal">Pessaux P, Marzano E, Casnedi S, Bachellier P, Jaeck D, Chenard MP. Histological and immediate postoperative outcome after preoperative cetuximab: case-matched control study. World J Surg 2010; 34: 2765-72. <annotation><p><italic toggle="yes">(Among 26 patients with metastatic colorectal cancer undergoing preoperative chemotherapy who also received cetuximab, serum enzyme and bilirubin elevations were similar to 26 matched control patients and liver histology showed no differences in rates of steatohepatitis, sinusoidal obstruction syndrome or fibrosis).</italic></p></annotation><pub-id pub-id-type="pmid">20652697</pub-id></mixed-citation>
+          </ref>
+          <ref id="Cetuximab.R15">
+            <mixed-citation publication-type="journal">Tveit KM, Guren T, Glimelius B, Pfeiffer P, Sorbye H, Pyrhonen S, Sigurdsson F, et al. Phase III trial of cetuximab with continuous or intermittent fluorouracil, leucovorin, and oxaliplatin (Nordic FLOX) versus FLOX alone in first-line treatment of metastatic colorectal cancer: the NORDIC-VII study. J Clin Oncol 2012; 30: 1755-62. <annotation><p><italic toggle="yes">(Among 571 patients with metastatic colorectal cancer treated with continuous or intermittent fluorouracil, leucovorin and oxaliplatin, progression free and overall survival were similar with or without added cetuximab, and adverse events were similar except for rash [22% and 29% vs 1%]; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">22473155</pub-id></mixed-citation>
+          </ref>
+          <ref id="Cetuximab.R16">
+            <mixed-citation publication-type="journal">Stremitzer S, Sebio A, Stintzing S, Lenz HJ. Panitumumab safety for treating colorectal cancer. Expert Opin Drug Saf 2014; 13: 843-51. <annotation><p><italic toggle="yes">(Review of mechanism of action and safety of panitumumab therapy of metastatic colorectal cancer discusses skin toxicity, hypomagnesemia, diarrhea and infusion reactions [which are less with panitumumab than cetuximab], but not hepatotoxicity or ALT elevations).</italic></p></annotation><pub-id pub-id-type="pmid">24766434</pub-id></mixed-citation>
+          </ref>
+          <ref id="Cetuximab.R17">
+            <mixed-citation publication-type="journal">Pujol JL, Pirker R, Lynch TJ, Butts CA, Rosell R, Shepherd FA, Vansteenkiste J, et al. Meta-analysis of individual patient data from randomized trials of chemotherapy plus cetuximab as first-line treatment for advanced non-small cell lung cancer. Lung Cancer 2014; 83: 211-8. <annotation><p><italic toggle="yes">(In a metaanalysis of results on 1970 patients from 4 controlled trials of cetuximab, severe adverse events that were more common with cetuximab were acne like rash, leucopenia, febrile neutropenia, septic events, fatigue, diarrhea and infusion reactions; no mention of ALT elevations or hepatotoxicity). </italic></p></annotation><pub-id pub-id-type="pmid">24332319</pub-id></mixed-citation>
+          </ref>
+          <ref id="Cetuximab.R18">
+            <mixed-citation publication-type="journal">Satoh T, Gemma A, Kudoh S, Sakai F, Yamaguchi K, Watanabe T, Ishiguro M, et al. Incidence and clinical features of drug-induced lung injury in patients with advanced colorectal cancer receiving cetuximab: results of a prospective multicenter registry. Jpn J Clin Oncol 2014; 44: 1032-9. <annotation><p><italic toggle="yes">(Among 2006 Japanese adults with colorectal cancer treated with cetuximab, 24 developed drug induced lung injury, but no mention of concurrent liver injury or ALT elevations).</italic></p></annotation><pub-id pub-id-type="pmid">25210144</pub-id></mixed-citation>
+          </ref>
+          <ref id="Cetuximab.R19">
+            <mixed-citation publication-type="journal">Chalasani N, Bonkovsky HL, Fontana R, Lee W, Stolz A, Talwalkar J, Reddy KR, et al.; United States Drug Induced Liver Injury Network. Features and outcomes of 899 patients with drug-induced liver injury: the DILIN prospective study. Gastroenterology 2015; 148: 1340-52.e7. <annotation><p><italic toggle="yes">(Among 899 cases of drug induced liver injury enrolled in a US prospective study between 2004 and 2013, 49 were attributed to antineoplastic agents, but none to cetuximab).</italic></p></annotation><pub-id pub-id-type="pmid">25754159</pub-id></mixed-citation>
+          </ref>
+          <ref id="Cetuximab.R20">
+            <mixed-citation publication-type="journal">Enzinger PC, Burtness BA, Niedzwiecki D, Ye X, Douglas K, Ilson DH, Villaflor VM, et al. CALGB 80403 (Alliance)/E1206: a randomized phase II study of three chemotherapy regimens plus cetuximab in metastatic esophageal and gastroesophageal junction cancers. J Clin Oncol 2016; 34: 2736-42. <annotation><p><italic toggle="yes">(Among 245 patients with metastatic esophageal cancers treated with cetuximab and one of 3 chemotherapeutic regimens, adverse events were common, but there were no hepatic related deaths).</italic></p></annotation><pub-id pub-id-type="pmid">27382098</pub-id></mixed-citation>
+          </ref>
+          <ref id="Cetuximab.R21">
+            <mixed-citation publication-type="journal">Bossi P, Miceli R, Locati LD, Ferrari D, Vecchio S, Moretti G, Denaro N, et al. A randomized, phase 2 study of cetuximab plus cisplatin with or without paclitaxel for the first-line treatment of patients with recurrent and/or metastatic squamous cell carcinoma of the head and neck. Ann Oncol 2017; 28 (11): 2820-6. <annotation><p><italic toggle="yes">(Among 201 patients with recurrent or metastatic head and neck cancer treated with cetuximab and cisplatin with or without paclitaxel, the medial progression-free and overall survival were similar, and ALT or AST elevations above 5 times ULN occurred in 4.4% vs 5.0%).</italic></p></annotation><pub-id pub-id-type="pmid">28950305</pub-id></mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec id="Cetuximab.OTHER_REFERENCE_LINKS" sec-type="link-group">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=Cetuximab+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D%3A%222999/12/31%22%5BEDat%5D)">Recent References on Cetuximab: from PubMed.gov</ext-link>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Cetuximab">Trials on Cetuximab: from ClinicalTrials.gov</ext-link>
+            </p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="MetiglinideAnalogues" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">MetiglinideAnalogues</book-part-id>
+      <title-group>
+        <title>Metiglinide Analogues</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>21</day>
+          <month>5</month>
+          <year>2018</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Methylphenidate" document-type="chapter">Methylphenidate</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Metoclopramide" document-type="chapter">Metoclopramide</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="MetiglinideAnalogues.OVERVIEW">
+        <title>OVERVIEW</title>
+        <p content-type="pubmed-excerpt">Metiglinide analogues are insulin secretagogues that are structurally unrelated to the sulfonylureas, but share a similar mechanism of action. These compounds are named for the initial, prototype molecule, metiglinide, found to have a sulfonylurea-like effect in stimulating the pancreatic beta cell to secret insulin. Metiglinides have been found to improve postprandial hyperglycemia in diabetic patients and to improve glycemic control and hemoglobin A1c levels. Two metiglinides have been approved for use in the United States: repaglinide in 1997 and nateglinide in 2000. Both are now available generically as well as under the initial brand names of Prandin and Starlix. These agents are generally used in combination with other oral hypoglycemic agents and, because they rely upon stimulation of beta cells, are useful only in type 2 diabetes. Repaglinide and nateglinide are generally well tolerated. Common side effects include diarrhea, nausea, dizziness, headache, malaise and hypoglycemia. Repaglinide has been implicated in several instances of clinically apparent liver injury which have been reported in the literature. Nateglinide has been available for a shorter period of time and, while not the subject of published cases, is said to have been linked to cases of hepatitis and jaundice in the product label.</p>
+        <p content-type="pubmed-excerpt">References to the safety and potential hepatic injury associated with these agents are given together after this introductory section.</p>
+        <p content-type="pubmed-excerpt">The following links are to individual drug records.</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>
+              <related-object source-id="livertox" document-id="Nateglinide">Nateglinide</related-object>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <related-object source-id="livertox" document-id="Repaglinide">Repaglinide</related-object>
+            </p>
+          </list-item>
+        </list>
+        <p>Drug Class: <related-object source-id="livertox" document-id="Antidiabetic">Antidiabetic Agents</related-object></p>
+      </sec>
+      <sec id="MetiglinideAnalogues.ANNOTATED_BIBLIOGRA">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 21 May 2018</p>
+        <ref-list id="MetiglinideAnalogues.ANNOTATED_BIBLIOGRA.reflist0">
+          <ref id="MetiglinideAnalogues.R1">
+            <mixed-citation publication-type="other">Zimmerman HJ. Oral hypoglycemic agents and other diabetes therapy. In, Zimmerman, HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott,1999: pp. 575-9.<annotation><p><italic toggle="yes">(Textbook of hepatotoxicity published in 1999; does not mention nateglinide or repaglinide).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="MetiglinideAnalogues.R2">
+            <mixed-citation publication-type="other">De Marzio DH, Navarro VJ. Alpha-glucosidase inhibitors. Hepatotoxicity of cardiovascular and antidiabetic drugs. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013, pp. 529-30. (Review of hepatotoxicity of drugs for diabetes mentions that<annotation><p><italic toggle="yes">repaglinide has been implicated in two cases of cholestatic hepatitis, but nateglinide has yet to be linked to hepatic injury).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="MetiglinideAnalogues.R3">
+            <mixed-citation publication-type="other">Powers AC, D'Alessio D. Therapy of diabetes. Endocrine pancreas and pharmacotherapy of diabetes mellitus and hypoglycemia. In, Brunton LL, Chabner BA, Knollman BC, eds. Goodman &#x00026; Gilman&#x02019;s the pharmacological basis of therapeutics. 12th ed. New York: McGraw-Hill, 2011, pp. 1248-67.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="MetiglinideAnalogues.R4">
+            <mixed-citation publication-type="other">Davis SN. Insulin, oral hypoglycemic agents, and the pharmacology of the endocrine pancreas. In, Brunton LL, Lazo JS, Parker KL, eds. Goodman &#x00026; Gilman's the pharmacological basis of therapeutics. 11th ed. New York: McGraw-Hill, 2006, pp. 1613-88.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="MetiglinideAnalogues.R5">
+            <mixed-citation publication-type="journal">Schatz H. Preclinical and clinical studies on safety and tolerability of repaglinide. Exp Clin Endocrinol Diabetes 1999; 107 Suppl 4: S144-8. <annotation><p><italic toggle="yes">(In premarketing studies of repaglinide representing at least 1200 patient years, no serious hepatic events arose, allergic reactions were rare, and there were "no clinically relevant changes in liver enzymes").</italic></p></annotation><pub-id pub-id-type="pmid">10522841</pub-id></mixed-citation>
+          </ref>
+          <ref id="MetiglinideAnalogues.R6">
+            <mixed-citation publication-type="journal">Marbury T, Huang WC, Strange P, Lebovitz H. Repaglinide versus glyburide: a one-year comparison trial. Diabetes Res Clin Pract 1999; 43: 155-66. <annotation><p><italic toggle="yes">(Among 575 patients with type 2 diabetes randomized to receive repaglinide or glyburide for up to 1 year, adverse events were similar with both drugs; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">10369424</pub-id></mixed-citation>
+          </ref>
+          <ref id="MetiglinideAnalogues.R7">
+            <mixed-citation publication-type="journal">Wolffenbuttel BH, Landgraf R. A 1-year multicenter randomized double-blind comparison of repaglinide and glyburide for the treatment of type 2 diabetes. Dutch and German Repaglinide Study Group. Diabetes Care 1999; 22: 463-7. <annotation><p><italic toggle="yes">(Controlled trial of repaglinide vs glyburide in 424 patients with diabetes treated for 1 year; minor hypoglycemic episodes occurred in 9% of both groups; no mention of changes in ALT or liver toxicity).</italic></p></annotation><pub-id pub-id-type="pmid">10097930</pub-id></mixed-citation>
+          </ref>
+          <ref id="MetiglinideAnalogues.R8">
+            <mixed-citation publication-type="journal">Hanefeld M, Bouter KP, Dickinson S, Guitard C. Rapid and short-acting mealtime insulin secretion with nateglinide controls both prandial and mean glycemia. Diabetes Care 2000; 23: 202-7. <annotation><p><italic toggle="yes">(Controlled trial of 4 doses of nateglinide vs placebo for 12 weeks in 289 patients with diabetes showing improvements in postprandial glucose and insulin levels; one patient on nateglinide had elevations in ALT and GGT that resolved promptly on stopping).</italic></p></annotation><pub-id pub-id-type="pmid">10868832</pub-id></mixed-citation>
+          </ref>
+          <ref id="MetiglinideAnalogues.R9">
+            <mixed-citation publication-type="journal">Jovanovic L, Dailey G 3rd, Huang WC, Strange P, Goldstein BJ. Repaglinide in type 2 diabetes: a 24-week, fixed-dose efficacy and safety study. J Clin Pharmacol 2000; 40: 49-57. <annotation><p><italic toggle="yes">(Controlled trial of 24 weeks of repaglinide vs placebo in 361 patients with diabetes; side effects included headache, diarrhea, nausea and hypoglycemia; no hepatic side effects mentioned).</italic></p></annotation><pub-id pub-id-type="pmid">10631622</pub-id></mixed-citation>
+          </ref>
+          <ref id="MetiglinideAnalogues.R10">
+            <mixed-citation publication-type="journal">Madsbad S, Kilhovd B, Lager I, Mustajoki P, Dejgaard A; Scandinavian Repaglinide Group. Comparison between repaglinide and glipizide in Type 2 diabetes mellitus: a 1-year multicentre study. Diabet Med 2001; 18: 395-401. <annotation><p><italic toggle="yes">(Controlled trial of 1 year course of repaglinide vs glipizide in 256 patients with diabetes; mean serum Alk P and AST levels decreased in the repaglinide and increased in the glipizide treated groups; no clinically apparent liver injury).</italic></p></annotation><pub-id pub-id-type="pmid">11472451</pub-id></mixed-citation>
+          </ref>
+          <ref id="MetiglinideAnalogues.R11">
+            <mixed-citation publication-type="journal">Halas CJ. Nateglinide. Am J Health Syst Pharm 2001; 58: 1200-5. <annotation><p><italic toggle="yes">(Review of the pharmacology, clinical efficacy and safety of nateglinide; side effects are usually mild to moderate; one patient developed elevations in serum liver enzymes which returned to normal upon stopping).</italic></p></annotation><pub-id pub-id-type="pmid">11449877</pub-id></mixed-citation>
+          </ref>
+          <ref id="MetiglinideAnalogues.R12">
+            <mixed-citation publication-type="journal">Chitturi S, George J. Hepatotoxicity of commonly used drugs: nonsteroidal anti-inflammatory drugs, antihypertensives, antidiabetic agents, anticonvulsants, lipid-lowering agents, psychotropic drugs. Semin Liver Dis 2002; 22: 169-83. <annotation><p><italic toggle="yes">(Overview of hepatotoxicity of antidiabetic medications; the metiglinides are not discussed).</italic></p></annotation><pub-id pub-id-type="pmid">12016548</pub-id></mixed-citation>
+          </ref>
+          <ref id="MetiglinideAnalogues.R13">
+            <mixed-citation publication-type="journal">Schatz H, Schoppel K, Lehwalder D, Schandry R. Efficacy, tolerability and safety of nateglinide in combination with metformin. Results from a study under general practice conditions. Exp Clin Endocrinol Diabetes 2003; 111: 262-6. <annotation><p><italic toggle="yes">(Postmarketing surveillance study of addition of nateglinide to standard diabetes therapy in 11,476 patients; adverse events were reported in 2.9%, no serious liver complications reported).</italic></p></annotation><pub-id pub-id-type="pmid">12951631</pub-id></mixed-citation>
+          </ref>
+          <ref id="MetiglinideAnalogues.R14">
+            <mixed-citation publication-type="journal">Rosenstock J, Hassman DR, Madder RD, Brazinsky SA, Farrell J, Khutoryansky N, Hale PM; Repaglinide Versus Nateglinide Comparison Study Group. Repaglinide versus nateglinide monotherapy: a randomized, multicenter study. Diabetes Care 2004; 27: 1265-70. <annotation><p><italic toggle="yes">(Controlled trial of 16 weeks of repaglinide vs nateglinide in 150 patients with diabetes; there were "no notable differences in the patterns of adverse events for the two treatment groups").</italic></p></annotation><pub-id pub-id-type="pmid">15161773</pub-id></mixed-citation>
+          </ref>
+          <ref id="MetiglinideAnalogues.R15">
+            <mixed-citation publication-type="journal">Nan DN, Hern&#x000e1;ndez JL, Fern&#x000e1;ndez-Ayala M, Carrascosa M. Acute hepatotoxicity caused by repaglinide. Ann Intern Med 2004; 141: 823. <annotation><p><italic toggle="yes">(70 year old man developed jaundice 2 weeks after starting repaglinide [bilirubin 13.2 mg/dL, ALT 115 U/L, Alk P 506 U/L, no eosinophilia], resolving within 2 months of stopping).</italic></p></annotation><pub-id pub-id-type="pmid">15545689</pub-id></mixed-citation>
+          </ref>
+          <ref id="MetiglinideAnalogues.R16">
+            <mixed-citation publication-type="journal">L&#x000f3;pez-Garc&#x000ed;a F, Borr&#x000e1;s J, Verd&#x000fa; C, Salazar VR, Ruiz JA, Sales J, Lucena MI, et al. Cholestatic hepatitis associated with repaglinide. Diabetes Care 2005; 28: 752-3. <annotation><p><italic toggle="yes">(72 year old man developed jaundice and itching 6 weeks after starting repaglinide [bilirubin 12.2 mg/dL, ALT 183 U/L, Alk P 307 U/L], resolving within 4 weeks of stopping).</italic></p></annotation><pub-id pub-id-type="pmid">15735221</pub-id></mixed-citation>
+          </ref>
+          <ref id="MetiglinideAnalogues.R17">
+            <mixed-citation publication-type="journal">Morita Y, Ueno T, Sasaki N, Tateishi Y, Nagata E, Kage M, Sata M. Nateglinide is useful for nonalcoholic steatohepatitis(NASH) patients with type 2 diabetes. Hepatogastroenterology 2005; 52: 338-43. <annotation><p><italic toggle="yes">(Ten patients with diabetes and nonalcoholic steatohepatitis were treated with nateglinide [270 mg/day] or followed on no treatment for 20 weeks; serum ALT levels decreased [31 to 23 U/L] and histology improved significantly in nateglinide treated patients; control subjects also improved, but not significantly).</italic></p></annotation><pub-id pub-id-type="pmid">16201069</pub-id></mixed-citation>
+          </ref>
+          <ref id="MetiglinideAnalogues.R18">
+            <mixed-citation publication-type="journal">Gerich J, Raskin P, Jean-Louis L, Purkayastha D, Baron MA. PRESERVE-beta: two-year efficacy and safety of initial combination therapy with nateglinide or glyburide plus metformin. Diabetes Care 2005; 28: 2093-9. <annotation><p><italic toggle="yes">(Controlled trial of two years of nateglinide vs glyburide added to metformin in 428 patients with diabetes; two arms had similar glycemic control and similar rates of side effects and no liver related adverse events reported).</italic></p></annotation><pub-id pub-id-type="pmid">16123472</pub-id></mixed-citation>
+          </ref>
+          <ref id="MetiglinideAnalogues.R19">
+            <mixed-citation publication-type="journal">Papa G, Fedele V, Rizzo MR, Fioravanti M, Leotta C, Solerte SB, Purrello F, et al. Safety of type 2 diabetes treatment with repaglinide compared with glibenclamide in elderly people: A randomized, open-label, two-period, cross-over trial. Diabetes Care 2006; 29: 1918-20. <annotation><p><italic toggle="yes">(Controlled trial of 24 weeks of repaglinide vs glyburide in 88 elderly patients with diabetes; "there were no significant changes between treatments for other clinical and laboratory parameters").</italic></p></annotation><pub-id pub-id-type="pmid">16873803</pub-id></mixed-citation>
+          </ref>
+          <ref id="MetiglinideAnalogues.R20">
+            <mixed-citation publication-type="journal">Marshall V, Wilton L, Shakir S. Safety profile of repaglinide as used in general practice in England: results of a prescription-event monitoring study. Acta Diabetol 2006; 43: 6-13. <annotation><p><italic toggle="yes">(Postmarketing survey of adverse events occurring in 6651 patients treated with repaglinide by general practitioners in the UK; most common side effects reported were diarrhea, abdominal pain, nausea, headache and dizziness; 5 instances of elevated liver enzymes, but no jaundice or clinical apparent liver injury reported).</italic></p></annotation><pub-id pub-id-type="pmid">16710643</pub-id></mixed-citation>
+          </ref>
+          <ref id="MetiglinideAnalogues.R21">
+            <mixed-citation publication-type="journal">Twaites B, Wilton LV, Layton D, Shakir SA. Safety of nateglinide as used in general practice in England: results of a prescription-event monitoring study. Acta Diabetol 2007; 44: 233-9. <annotation><p><italic toggle="yes">(Postmarketing survey of adverse events occurring in 5950 patients treated with nateglinide by general practitioners in the UK; most common side effects were nausea, malaise, diarrhea, hypoglycemia and dizziness; 3 instances of abnormal liver tests, but no clinically apparent liver injury reported).</italic></p></annotation><pub-id pub-id-type="pmid">17874223</pub-id></mixed-citation>
+          </ref>
+          <ref id="MetiglinideAnalogues.R22">
+            <mixed-citation publication-type="journal">Bolen S, Feldman L, Vassy J, Wilson L, Yeh HC, Marinopoulos S, Wiley C, et al. Systematic review: comparative effectiveness and safety of oral medications for type 2 diabetes mellitus. Ann Intern Med 2007; 147: 386-99. <annotation><p><italic toggle="yes">(Systematic review of results from 216 published trials of oral antidiabetic medications; ALT elevations found in &#x0003c;1% of patients receiving metformin, sulfonylureas and metiglinides; "liver failure was so rare that agents could not be compared").</italic></p></annotation><pub-id pub-id-type="pmid">17638715</pub-id></mixed-citation>
+          </ref>
+          <ref id="MetiglinideAnalogues.R23">
+            <mixed-citation publication-type="journal">Chalasani N, Fontana RJ, Bonkovsky HL, Watkins PB, Davern T, Serrano J, Yang H, Rochon J; Drug Induced Liver Injury Network (DILIN). Causes, clinical features, and outcomes from a prospective study of drug-induced liver injury in the United States. Gastroenterology 2008; 135: 1924-34. <annotation><p><italic toggle="yes">(Among 300 cases of drug induced liver injury in the US collected from 2004 to 2008, none were attributed to nateglinide or repaglinide).</italic></p></annotation><pub-id pub-id-type="pmid">18955056</pub-id></mixed-citation>
+          </ref>
+          <ref id="MetiglinideAnalogues.R24">
+            <mixed-citation publication-type="journal">Jaiswal S, Mehta R, Musuku M, Tran L, McNamee W Jr. Repaglinide induced acute hepatotoxicity. JNMA J Nepal Med Assoc 2009; 48: 162-4. <annotation><p><italic toggle="yes">(78 year old woman developed nausea and abdominal pain 1 month after starting repaglinide [bilirubin 1.6 mg/dL, ALT 582 U/L, Alk P 210 U/L], resolving within a few weeks of stopping).</italic></p></annotation><pub-id pub-id-type="pmid">20387361</pub-id></mixed-citation>
+          </ref>
+          <ref id="MetiglinideAnalogues.R25">
+            <mixed-citation publication-type="journal">Drugs for type 2 diabetes. Treat Guidel Med Lett 2011; 9 (108): 47-54. <annotation><p><italic toggle="yes">(Concise overview of the medications used to treat type 2 diabetes; no discussion of hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">21778966</pub-id></mixed-citation>
+          </ref>
+          <ref id="MetiglinideAnalogues.R26">
+            <mixed-citation publication-type="journal">Drugs for type 2 diabetes. Treat Guidel Med Lett 2014; 12 (139): 17-24. <annotation><p><italic toggle="yes">(Concise review of current therapy of type 2 diabetes; no discussion of hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">24566424</pub-id></mixed-citation>
+          </ref>
+          <ref id="MetiglinideAnalogues.R27">
+            <mixed-citation publication-type="journal">Chalasani N, Bonkovsky HL, Fontana R, Lee W, Stolz A, Talwalkar J, Reddy KR, et al.; United States Drug Induced Liver Injury Network. Features and outcomes of 899 patients with drug-induced liver injury: the DILIN Prospective Study. Gastroenterology 2015; 148: 1340-52. <annotation><p><italic toggle="yes">(Among 899 cases of drug induced liver injury in the US collected between 2004 and 2012, 4 [0.5%] cases were attributed to drugs used for diabetes [metformin, glyburide, sitagliptin], but no cases were attributed to nateglinide or repaglinide).</italic></p></annotation><pub-id pub-id-type="pmid">25754159</pub-id></mixed-citation>
+          </ref>
+          <ref id="MetiglinideAnalogues.R28">
+            <mixed-citation publication-type="journal">Drugs for type 2 diabetes. Med Lett Drugs Ther 2017; 59 (1512): 9-18. <annotation><p><italic toggle="yes">(Concise summary of the mechanisms of action, efficacy, safety and costs of currently available drugs for type 2 diabetes; mentions that serum enzyme elevations can occur with acarbose therapy and that hepatitis and liver failure have been described with thiazolidinedione and DDP-4 inhibitor therapy; no mention of liver injury from nateglinide or repaglinide).</italic></p></annotation><pub-id pub-id-type="pmid">28076339</pub-id></mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

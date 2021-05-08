@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Vemurafenib" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Vemurafenib</book-part-id>
+      <title-group>
+        <title>Vemurafenib</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>28</day>
+          <month>6</month>
+          <year>2018</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Vedolizumab" document-type="chapter">Vedolizumab</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Venetoclax" document-type="chapter">Venetoclax</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Vemurafenib.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Vemurafenib.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Vemurafenib is a selective inhibitor of BRAF kinase that is used in the therapy of patients with metastatic and advanced malignant melanoma. Vemurafenib therapy is commonly associated with transient elevations in serum aminotransferase during therapy and has been linked to rare, but occasionally severe cases of clinically apparent acute liver injury.</p>
+        </sec>
+        <sec id="Vemurafenib.Background">
+          <title>Background</title>
+          <p>Vemurafenib (vem&#x02019; ue raf&#x0201d; e nib) is an orally available inhibitor of mutated forms of BRAF, a serine/threonine kinase that is a component of the mitogen-activated pathway (MAP) kinases which are important intracellular signals involved in control of cell growth and proliferation. BRAF kinase is an early step in the cascade of MAP kinases (RAS-RAF-MEK-ERK) and is frequently mutated in malignant conditions, including at least half of cases of melanoma. Vemurafenib was shown to be active against the V600E mutants of BRAF in vitro and in animal models. Furthermore, in clinical trials vemurafenib therapy was associated with an improvement in overall survival in patients with metastatic malignant melanoma with V600E mutations. Vemurafenib was approved for use in the United States in 2011 and current indications are for unresectable or metastatic melanoma with the BRAF V600E mutation and Langerhans-cell histiocytosis with BRAF V600 mutations. Vemurafenib is available in tablets of 240 mg under the brand name Zelboraf. The typical dose is 960 mg (4 tablets) twice daily. Common side effects include fatigue, nausea, arthralgias, rash, alopecia, photosensitivity, pruritus, and skin papilloma. Uncommon, but potentially severe side effects include severe skin and hypersensitivity reactions (including Stevens Johnson syndrome), cutaneous squamous cell carcinoma, ocular toxicity, and prolonged QTc intervals.</p>
+        </sec>
+        <sec id="Vemurafenib.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>In large clinical trials of vemurafenib, abnormalities in routine liver tests were common and serum aminotransferase elevations occurred in up to one third of patients. ALT and AST values greater than 5 times the upper limit of normal (ULN) occurred in 3% of patients, and rare instances of clinically apparent liver injury were reported, but the clinical features of the injury have not been described. The onset of liver test abnormalities was typically within 3 to 6 weeks of starting vemurafenib, and the abnormalities resolved rapidly either spontaneously or with temporary drug discontinuation. Vermurafenib has also been linked to instances of drug related rash with eosinophilia and systemic manifestations (DRESS) as well as Stevens Johnson syndrome, both of which can be accompanied by liver dysfunction and in some cases jaundice with clinically apparent liver injury.</p>
+          <p>Likelihood score: E* (unproven but suspected cause of clinically apparent liver injury.</p>
+        </sec>
+        <sec id="Vemurafenib.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The mechanism of injury accounting for serum enzyme elevations during vemurafenib therapy is not known. Vemurafenib is metabolized in the liver largely through the CYP 1A2 pathway and liver injury may be related to production of a toxic intermediate. The rare cases of liver injury accompanying severe skin reactions are likely related to hypersensitivity. Vemurafenib is susceptible to drug-drug interactions with agents that inhibit or induce hepatic CYP 1A2 activity.</p>
+        </sec>
+        <sec id="Vemurafenib.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>In using kinase inhibitors in the therapy of cancer, monitoring of routine liver tests before starting and during therapy is warranted. Serum aminotransferase elevations above 5 times the upper limit of normal (if confirmed) or any elevations accompanied by jaundice or symptoms should lead to temporary cessation. Restarting vemurafenib after temporary cessation should be done with caution and only after the liver test abnormalities have resolved or improved significantly. There does not appear to be cross reactivity in risk for hepatic injury between vemurafenib and other kinase inhibitors and, in some situations, switching to another BRAF inhibitor may be appropriate.</p>
+          <p>Drug Class: <related-object source-id="livertox" document-id="AntineoplasticAgents">Antineoplastic Agents</related-object>, <related-object source-id="livertox" document-id="ProteinKinaseInhibit">Protein Kinase Inhibitors</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Vemurafenib.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <boxed-text position="anchor" id="Vemurafenib.BPI" orientation="portrait">
+          <p>
+            <bold>REPRESENTATIVE TRADE NAMES</bold>
+          </p>
+          <p>Vemurafenib &#x02013; Zelboraf&#x000ae;</p>
+          <p>
+            <bold>DRUG CLASS</bold>
+          </p>
+          <p>Antineoplastic Agents</p>
+          <p>
+            <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?label=all&#x00026;query=Vemurafenib">COMPLETE LABELING</ext-link>
+          </p>
+          <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+        </boxed-text>
+      </sec>
+      <sec id="Vemurafenib.CHEMICAL_FORMULA_AND_STRUCTU">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Vemurafenib.T1" position="anchor" orientation="portrait">
+          <table>
+            <thead>
+              <tr>
+                <th id="hd_h_Vemurafenib.T1_1_1_1_1" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Vemurafenib.T1_1_1_1_2" rowspan="1" colspan="1">CAS REGISTRY NO.</th>
+                <th id="hd_h_Vemurafenib.T1_1_1_1_3" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Vemurafenib.T1_1_1_1_4" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Vemurafenib.T1_1_1_1_1" rowspan="1" colspan="1">Vemurafenib</td>
+                <td headers="hd_h_Vemurafenib.T1_1_1_1_2" rowspan="1" colspan="1">
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135267495">918504-65-1</ext-link>
+                </td>
+                <td headers="hd_h_Vemurafenib.T1_1_1_1_3" rowspan="1" colspan="1">C23-H18 Cl-F2-N3-O3-S</td>
+                <td headers="hd_h_Vemurafenib.T1_1_1_1_4" rowspan="1" colspan="1">
+                  <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Vemurafenib_structure.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait">
+                    <alt-text>Vemurafenib chemical structure</alt-text>
+                  </graphic>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Vemurafenib.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 28 June 2018</p>
+        <ref-list id="Vemurafenib.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Vemurafenib.R1">
+            <mixed-citation publication-type="other">Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999.<annotation><p><italic toggle="yes">(Review of hepatotoxicity published in 1999 before the availability of kinase inhibitors such as vemurafenib).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Vemurafenib.R2">
+            <mixed-citation publication-type="other">DeLeve LD. Cancer chemotherapy. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013, pp. 556.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of cancer chemotherapeutic agents discusses several kinase inhibitors including imatinib, gefitinib, erlotinib and crizotinib, but not vemurafenib).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Vemurafenib.R3">
+            <mixed-citation publication-type="other">Chabner BA, Barnes J, Neal J, Olson E, Mujagic H, Sequist L, Wilson W, et al. Targeted therapies: tyrosine kinase inhibitors, monoclonal antibodies, and cytokines. In, Brunton LL, Chabner BA, Knollman BC, eds. Goodman &#x00026; Gilman's the pharmacological basis of therapeutics. 12th ed. New York: McGraw-Hill, 2011, pp. 1731-54.<annotation><p><italic toggle="yes"> (Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Vemurafenib.R4">
+            <mixed-citation publication-type="journal">Flaherty KT, Puzanov I, Kim KB, Ribas A, McArthur GA, Sosman JA, O'Dwyer PJ, Lee RJ, et al. Inhibition of mutated, activated BRAF in metastatic melanoma. N Engl J Med 2010; 363: 809-19. <annotation><p><italic toggle="yes">(Among 87 patients with metastatic melanoma treated with escalating doses of vemurafenib, objective responses occurred at doses at or above 240 mg twice daily in patients with the BRAF V600E mutation, and adverse events included squamous cell carcinoma [21%], arthralgias, rash, nausea, photosensitivity and fatigue; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">20818844</pub-id></mixed-citation>
+          </ref>
+          <ref id="Vemurafenib.R5">
+            <mixed-citation publication-type="journal">Vemurafenib (Zelboraf) for metastatic melanoma. Med Lett Drugs Ther 2011; 53 (1374): 77-8. <annotation><p><italic toggle="yes">(Concise description of mechanism of action, efficacy, safety and costs of vemurafenib for metastatic melanoma, does not mention ALT elevations or hepatotoxicity, but does mention Stevens Johnson syndrome, toxic epidermal necrolysis and anaphylaxis).</italic></p></annotation><pub-id pub-id-type="pmid">21959356</pub-id></mixed-citation>
+          </ref>
+          <ref id="Vemurafenib.R6">
+            <mixed-citation publication-type="journal">Chapman PB, Hauschild A, Robert C, Haanen JB, Ascierto P, Larkin J, Dummer R, et al.; BRIM-3 Study Group. Improved survival with vemurafenib in melanoma with BRAF V600E mutation. N Engl J Med 2011; 364: 2507-16. <annotation><p><italic toggle="yes">(Among 675 patients with metastatic melanoma and the BRAF V600E mutation, overall survival was greater with vemurafenib than dacarbazine treatment [84% vs 64% at 6 months], and the most common adverse events were skin toxicity, arthralgias and fatigue; Alk P elevations occurred in 7% of vemurafenib treated patients; rates of ALT elevations and hepatotoxicity were not provided).</italic></p></annotation><pub-id pub-id-type="pmid">21639808</pub-id></mixed-citation>
+          </ref>
+          <ref id="Vemurafenib.R7">
+            <mixed-citation publication-type="journal">Sosman JA, Kim KB, Schuchter L, Gonzalez R, Pavlick AC, Weber JS, McArthur GA, et al. Survival in BRAF V600-mutant advanced melanoma treated with vemurafenib. N Engl J Med 2012; 366: 707-14. <annotation><p><italic toggle="yes">(Among 132 patients with advanced melanoma with BRAF V600 mutations and previous treatment treated with vemurafenib, confirmed responses occurred in 53% and common side effects included arthralgia, rash, photosensitivity and fatigue, and elevated liver enzymes were reported in 17% of patients and were severe in 4 [3%] which led to drug discontinuation in some, but did not result in deaths).</italic></p></annotation><pub-id pub-id-type="pmid">22356324</pub-id></mixed-citation>
+          </ref>
+          <ref id="Vemurafenib.R8">
+            <mixed-citation publication-type="journal">Wenk KS, Pichard DC, Nasabzadeh T, Jang S, Venna SS. Vemurafenib-induced DRESS. JAMA Dermatol 2013; 149: 1242-3. <annotation><p><italic toggle="yes">(80 year old woman with melanoma developed generalized fever and skin rash 3 weeks after starting vemurafenib [eosinophils 26%, ALT 132 U/L, bilirubin and Alk P not given], resolving within 6 weeks on corticosteroids).</italic></p></annotation><pub-id pub-id-type="pmid">23986488</pub-id></mixed-citation>
+          </ref>
+          <ref id="Vemurafenib.R9">
+            <mixed-citation publication-type="journal">Tsai KY, Nowroozi S, Kim KB. Drug safety evaluation of vemurafenib in the treatment of melanoma. Expert Opin Drug Saf 2013; 12: 767-75. <annotation><p><italic toggle="yes">(Review of safety of vemurafenib focusing on skin toxicity and secondary malignancies, mentions that grade 3 liver test abnormalities are reported in 0-6% of treated patients).</italic></p></annotation><pub-id pub-id-type="pmid">23800008</pub-id></mixed-citation>
+          </ref>
+          <ref id="Vemurafenib.R10">
+            <mixed-citation publication-type="journal">Anker CJ, Ribas A, Grossmann AH, Chen X, Narra KK, Akerley W, Andtbacka RH, et al. Severe liver and skin toxicity after radiation and vemurafenib in metastatic melanoma. J Clin Oncol 2013; 31: e283-7. <annotation><p><italic toggle="yes">(15 year old girl with melanoma metastatic to brain, bone and liver developed fatal intrahepatic hemorrhage after vemurafenib and radiation therapy, and was found to have melanoma lined cysts with hemorrhage and acute hepatic necrosis on autopsy).</italic></p></annotation><pub-id pub-id-type="pmid">23650406</pub-id></mixed-citation>
+          </ref>
+          <ref id="Vemurafenib.R11">
+            <mixed-citation publication-type="journal">Ribas A, Hodi FS, Callahan M, Konto C, Wolchok J. Hepatotoxicity with combination of vemurafenib and ipilimumab. N Engl J Med 2013; 368: 1365-6. <annotation><p><italic toggle="yes">(In a pilot study of the combination of vemurafenib and ipilimumab in 10 patients with metastatic melanoma, serum ALT or AST elevations &#x02265;5 times ULN arose within 13-36 days of starting therapy in 6 patients, all of which were asymptomatic and reversible, which resolved within 4-12 days with corticosteroid therapy, recurring in one patient on restarting ipilimumab).</italic></p></annotation><pub-id pub-id-type="pmid">23550685</pub-id></mixed-citation>
+          </ref>
+          <ref id="Vemurafenib.R12">
+            <mixed-citation publication-type="journal">da Rocha Dias S, Salmonson T, van Zwieten-Boot B, Jonsson B, Marchetti S, Schellens JH, Giuliani R, et al. The European Medicines Agency review of vemurafenib(Zelboraf&#x000ae;) for the treatment of adult patients with BRAF V600 mutation-positive unresectable or metastatic melanoma with BRAF V600 mutations: summary of the scientific assessment of the Committee for Medicinal Products for Human Use. Eur J Cancer 2013; 49: 1654-61. <annotation><p><italic toggle="yes">(Report of regulatory review of vemurafenib including data on clinical safety in 866 patients, mentions one case of Stevens Johnson syndrome and that liver test abnormalities occurred in 18% of patients, usually arising after 3-6 weeks and usually mild [&#x0003c; grade 3]).</italic></p></annotation><pub-id pub-id-type="pmid">23481513</pub-id></mixed-citation>
+          </ref>
+          <ref id="Vemurafenib.R13">
+            <mixed-citation publication-type="journal">Muluneh B, Buie LW, Collichio F. Vemurafenib-associated pancreatitis: case report. Pharmacotherapy 2013; 33: e43-4. <annotation><p><italic toggle="yes">(49 year old man developed epigastric pain 2 weeks after starting vemurafenib for metastatic melanoma [lipase 1544 U/L, no other laboratory results provided], which resolved upon stopping and recurred within two days of restarting vemurafenib).</italic></p></annotation><pub-id pub-id-type="pmid">23436544</pub-id></mixed-citation>
+          </ref>
+          <ref id="Vemurafenib.R14">
+            <mixed-citation publication-type="journal">Degen A, V&#x000f6;lker B, Kapp A, Gutzmer R. Erythema nodosum in a patient undergoing vemurafenib therapy for metastatic melanoma. Eur J Dermatol 2013; 23: 118. <pub-id pub-id-type="pmid">23419281</pub-id></mixed-citation>
+          </ref>
+          <ref id="Vemurafenib.R15">
+            <mixed-citation publication-type="journal">Spraggs CF, Xu CF, Hunt CM. Genetic characterization to improve interpretation and clinical management of hepatotoxicity caused by tyrosine kinase inhibitors. Pharmacogenomics 2013; 14: 541-54. <annotation><p><italic toggle="yes">(Review of genetic associations of serum ALT and bilirubin elevations during therapy with tyrosine kinase inhibitors, focusing on lapatinib and pazopanib).</italic></p></annotation><pub-id pub-id-type="pmid">23556451</pub-id></mixed-citation>
+          </ref>
+          <ref id="Vemurafenib.R16">
+            <mixed-citation publication-type="journal">Shah RR, Morganroth J, Shah DR. Hepatotoxicity of tyrosine kinase inhibitors: clinical and regulatory perspectives. Drug Saf 2013; 36: 491-503. <annotation><p><italic toggle="yes">(Review of the hepatotoxicity of 18 tyrosine kinase inhibitors approved for use in cancer in the US as of 2013; aminotransferase elevations occurred in 35-38% of patients in registration trials of vemurafenib, were above 5 times ULN in 3% and cases of clinically apparent liver injury, but not hepatic failure, have been reported).</italic></p></annotation><pub-id pub-id-type="pmid">23620168</pub-id></mixed-citation>
+          </ref>
+          <ref id="Vemurafenib.R17">
+            <mixed-citation publication-type="journal">Larkin J, Del Vecchio M, Ascierto PA, Krajsova I, Schachter J, Neyns B, Espinosa E, et al. Vemurafenib in patients with BRAF (V600) mutated metastatic melanoma: an open-label, multicentre, safety study. Lancet Oncol 2014; 15: 436-44. <annotation><p><italic toggle="yes">(Among 3222 patients with metastatic melanoma with BRAF V600 mutations enrolled in an open label safety study of vemurafenib, liver test abnormalities arose in 13% [&#x02265;grade 3 in 5%], including ALT elevations in 2.9% [&#x02265;5 times ULN in 1.6%] and Alk P elevations in 3.1% [&#x02265;3 times ULN in 1.1%], but no deaths were attributed to hepatic failure).</italic></p></annotation><pub-id pub-id-type="pmid">24582505</pub-id></mixed-citation>
+          </ref>
+          <ref id="Vemurafenib.R18">
+            <mixed-citation publication-type="journal">McArthur GA, Chapman PB, Robert C, Larkin J, Haanen JB, Dummer R, Ribas A, et al. Safety and efficacy of vemurafenib in BRAF (V600E) and BRAF (V600K) mutation-positive melanoma (BRIM-3): extended follow-up of a phase 3, randomised, open-label study. Lancet Oncol 2014; 15: 323-32. <annotation><p><italic toggle="yes">(Among 675 patients with metastatic melanoma with BRAF V600 mutations, median overall survival was longer in those treated with vemurafenib than dacarbazine [36.5 vs 9.7 months], and 31% on vemurafenib developed abnormal liver tests [which were &#x02265;grade 3 in 11%] compared to 6% [with 2% &#x02265;grade 3] on dacarbazine). </italic></p></annotation><pub-id pub-id-type="pmid">24508103</pub-id></mixed-citation>
+          </ref>
+          <ref id="Vemurafenib.R19">
+            <mixed-citation publication-type="journal">Hyman DM, Puzanov I, Subbiah V, Faris JE, Chau I, Blay JY, Wolf J, et al. Vemurafenib in Multiple nonmelanoma cancers with BRAF V600 mutations. N Engl J Med 2015; 373: 726-36. <annotation><p><italic toggle="yes">(Among 122 patients with various non-melanoma cancers with BRAF-V600 mutation treated with vemurafenib, the overall response rate was 42% with best results in Langerhans-cell histiocytosis and adverse events were frequent including rash [68%], fatigue [56%] and arthralgia [40%]; no mention or listing for ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">26287849</pub-id></mixed-citation>
+          </ref>
+          <ref id="Vemurafenib.R20">
+            <mixed-citation publication-type="journal">Chalasani N, Bonkovsky HL, Fontana R, Lee W, Stolz A, Talwalkar J, Reddy KR, et al.; United States Drug Induced Liver Injury Network. Features and outcomes of 899 patients with drug-induced liver injury: The DILIN Prospective Study. Gastroenterology 2015; 148: 1340-52.e7. <annotation><p><italic toggle="yes">(Among 899 cases of drug induced liver injury enrolled in a US prospective study between 2004 and 2013, 49 [6%] were attributed to antineoplastic agents including 9 to kinase inhibitors including imatinib, lapatinib and regorafinib but not vemurafenib).</italic></p></annotation><pub-id pub-id-type="pmid">25754159</pub-id></mixed-citation>
+          </ref>
+          <ref id="Vemurafenib.R21">
+            <mixed-citation publication-type="journal">Arance AM, Berrocal A, Lopez-Martin JA, de la Cruz-Merino L, Soriano V, Mart&#x000ed;n Algarra S, Alonso L, et al. Safety of vemurafenib in patients with BRAF (V600) mutated metastatic melanoma: the Spanish experience. Clin Transl Oncol 2016; 18: 1147-57. <annotation><p><italic toggle="yes">(Among 301 Spanish patients with metastatic melanoma and BRAF-V600 mutations treated with vemurafenib, the overal response rate was 28% and adverse events were frequent [99%] including "liver function abnormalities" in 11% which were above 5 times ULN in 5%, but there were no liver related severe adverse events or deaths).</italic></p></annotation><pub-id pub-id-type="pmid">26983408</pub-id></mixed-citation>
+          </ref>
+          <ref id="Vemurafenib.R22">
+            <mixed-citation publication-type="journal">Ascierto PA, McArthur GA, Dr&#x000e9;no B, Atkinson V, Liszkay G, Di Giacomo AM, Mandal&#x000e0; M, et al. Cobimetinib combined with vemurafenib in advanced BRAF(V600)-mutant melanoma (coBRIM): updated efficacy results from a randomised, double-blind,phase 3 trial. Lancet Oncol 2016; 17: 1248-60. <annotation><p><italic toggle="yes">(Among 495 patients with advanced melanoma and BRAF-V600 mutations treated with vemurafenib with or without cobimetinib, progression free survival was better with the combination [12 vs 7 months] as were severe adverse events [37% vs 28%] including photosensitivity [34% vs 20%], serous retinopathy [27% vs 4%], left ventricular dysfunction [11% vs 5%] and discontinuations for liver test abnormalities [2% vs &#x0003c;1%], but no deaths were attributed to liver failure).</italic></p></annotation><pub-id pub-id-type="pmid">27480103</pub-id></mixed-citation>
+          </ref>
+          <ref id="Vemurafenib.R23">
+            <mixed-citation publication-type="journal">Blank CU, Larkin J, Arance AM, Hauschild A, Queirolo P, Del Vecchio M, Ascierto PA, et al. Open-label, multicentre safety study of vemurafenib in 3219 patients with BRAF (V600) mutation-positive metastatic melanoma: 2-year follow-up data and long-term responders' analysis. Eur J Cancer 2017; 79: 176-84. <annotation><p><italic toggle="yes">(Among 3219 patients with advanced melanoma and BRAF-V600 mutations treated with vemurafenib in an open label safety study with median follow up of 32 months, adverse events were frequent including arthralgia [37%], alopecia [25%], squamous cell skin cancer [8%] while hepatotoxicity was reported in only 8 patients [0.2%], drug induced liver injury in 3 [&#x0003c;0.1%] and liver failure in 1 [&#x0003c;0.1%]).</italic></p></annotation><pub-id pub-id-type="pmid">28501764</pub-id></mixed-citation>
+          </ref>
+          <ref id="Vemurafenib.R24">
+            <mixed-citation publication-type="journal">Uhara H, Kiyohara Y, Tsuda A, Takata M, Yamazaki N. Characteristics of adverse drug reactions in a vemurafenib early post-marketing phase vigilance study in Japan. Clin Transl Oncol 2018; 20: 169-75. <annotation><p><italic toggle="yes">(Among 95 Japanese patients with metastatic melanoma treated with vemurafenib in a postmarketing study, adverse events included "hepatic function abnormal" in 2, both of which were "non-serious"; 13 subjects developed serious adverse events, none of which were liver related but 7 were skin reactions including one case of Stevens Johnson syndrome).</italic></p></annotation><pub-id pub-id-type="pmid">28674996</pub-id></mixed-citation>
+          </ref>
+          <ref id="Vemurafenib.R25">
+            <mixed-citation publication-type="journal">Chapman PB, Robert C, Larkin J, Haanen JB, Ribas A, Hogg D, Hamid O, et al. Vemurafenib in patients with BRAFV600 mutation-positive metastatic melanoma: final overall survival results of the randomized BRIM-3 study. Ann Oncol 2017; 28: 2581-7. <annotation><p><italic toggle="yes">(Among 675 patients with metastatic melanoma and BRAF- V600 mutations treated with vemurafenib or dacarbazine, median overall survival was longer for vemurafenib [14 vs 10 months] and adverse events included one case of acute hepatitis and one of Stevens Johnson syndrome, but details were not provided).</italic></p></annotation><pub-id pub-id-type="pmid">28961848</pub-id></mixed-citation>
+          </ref>
+          <ref id="Vemurafenib.R26">
+            <mixed-citation publication-type="journal">Diamond EL, Subbiah V, Lockhart AC, Blay JY, Puzanov I, Chau I, Raje NS, et al. Vemurafenib for BRAF V600-mutant Erdheim-Chester Disease and Langerhans cell histiocytosis: analysis of data from the histology-independent, phase 2, open-label VE-BASKET Study. JAMA Oncol 2018; 4: 384-8. <annotation><p><italic toggle="yes">(Among 26 patients with Langerhans-cell histiocytosis treated with vemurafenib, the overall response rate was 62% and overall survival was 96% at two years; adverse events arose in all patients and led to dicontinuation in 8 [31%]; ALT elevations and hepatotoxicity not listed among adverse events occurring in at least 20% of patients).</italic></p></annotation><pub-id pub-id-type="pmid">29188284</pub-id></mixed-citation>
+          </ref>
+          <ref id="Vemurafenib.R27">
+            <mixed-citation publication-type="journal">Bunchorntavakul C, Reddy KR. Drug hepatotoxicity: newer agents. Clin Liver Dis 2017; 21: 115-34. <annotation><p><italic toggle="yes">(Review of the hepatotoxicity of recently approved medications including the tyrosine kinase inhibitors, including vemurafenib which has been linked to a high rate of ALT elevations [35-38%] and to cases of severe [but not fatal] hepatotoxicity typically within 3 to 6 months of starting therapy).</italic></p></annotation><pub-id pub-id-type="pmid">27842767</pub-id></mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec id="Vemurafenib.OTHER_REFERENCE_LINKS" sec-type="link-group">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=Vemurafenib+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D%3A%222999/12/31%22%5BEDat%5D)">Recent References on Vemurafenib: from PubMed.gov</ext-link>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Vemurafenib">Trials on Vemurafenib: from ClinicalTrials.gov</ext-link>
+            </p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Tigecycline" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Tigecycline</book-part-id>
+      <title-group>
+        <title>Tigecycline</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>23</day>
+          <month>1</month>
+          <year>2019</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Ticlopidine" document-type="chapter">Ticlopidine</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Tildrakizumab" document-type="chapter">Tildrakizumab</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Tigecycline.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Tigecycline.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Tigecycline is a parenteral glycycline antibiotic used for treatment of serious infections due to susceptible organisms. Tigecycline therapy is sometimes accompanied by minor aminotransferase elevations, but has not been definitely associated with clinically apparent liver injury with jaundice.</p>
+        </sec>
+        <sec id="Tigecycline.Background">
+          <title>Background</title>
+          <p>Tigecycline (tye" ge sye' kleen) is new generation of tetracycline, known as a glycycline. Like other tetracyclines, tigecycline is a broad spectrum bacteriostatic agent that acts by binding to bacterial ribosomes inhibiting protein synthesis. Tigecycline has activity against both gram-positive and gram-negative bacteria and, importantly, it also has activity against many multidrug resistant organisms. Tigecycline was approved for use in the United States in 2005. Current indications inlcude treatment of community acquired pneumonia and complicated skin, tissue and intra-abdominal infections due to sensitive organisms. Tigecycline is available in vials of 50 mg for parenteral use under the brand name Tygacil. The recommended dose is 100 mg intravenously initially, followed by 50 mg every 12 hours for 5 to 14 days depending on the severity and site of the infection. A reduced dosage is recommended for patients with severe underlying liver disease. Because of its broad spectrum of activity, tigecycline is often reserved for patients with serious multidrug resistant infections and is recommended only for strongly suspected or proven susceptible bacteria. In 2010 an FDA analysis of randomized controlled trials suggested that tigecycline was associated with a higher mortality than comparator antibiotics. Several subsequent systematic reviews have reached conflicting conclusions. The higher mortality rate associated with tigecycline therapy does not seem to be due to adverse events, but rather lower success or cure rates. The most frequent side effects of tigecycline are diarrhea, nausea and vomiting.</p>
+        </sec>
+        <sec id="Tigecycline.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>Tigecycline is reported to cause mild, transient elevations in serum aminotransferase levels in 2% to 5% of recipients, rates similar to those in patients treated with comparator antibiotics. Cases of clinically apparent liver injury with jaundice must be very rare. Product labels for tigecycline mention isolated cases of significant hepatic dyfunction cholestasis and jaundice identified from postmarketing experience. No information is available on the latency, pattern, and duration of liver injury in cases of tigecycline induced hepatotoxicity. The reports of jaundice and deaths from hepatic dysfunction in large clinical trials of tigecycline more likely reflected complications of sepsis and multiorgan failure rather than drug hepatotoxicity.</p>
+          <p>Likelihood score: E* (unproven but suspected cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Tigecycline.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The cause of the serum enzyme elevations during intravenous therapy with tigecycline is unknown. High doses of intravenous tetracycline was associated with a severe direct hepatic injury marked by microvesicular steatosis, lactic acidosis and hepatic failure. This syndrome resembled Reyes syndrome and was likely due to direct mitochondrial injury. For this reason, intravenous tetracycline was withdrawn from use. This syndrome has not been reported with tigecycline or the other modified tetracyclines such as omadacycline and eravacycline. Tetracyclines are also associated with rare instances of idiosyncratic liver injury with autoimmune features that generally arise with long-term use and are most commonly associated with minocycline. Intravenous tigecycline also has not been this form of liver injury. Tigecycline is minimally metabolized in the liver and most is excreted unchanged in the bile, feces and urine, which may explain its relative lack of hepatotoxicity.</p>
+        </sec>
+        <sec id="Tigecycline.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>Patients with cirrhosis should be monitored during tigecycline therapy for evidence of worsening hepatic function. Patients on intravenous tigecycline who develop serum aminotransferase elevations that rise above 5 times the upper limit of normal or are accompanied by jaundice or symptoms should have tigecycline stopped. Whether there is cross-sensitivity to hepatic injury among the various teracyclines is not known but swithcing to another class of antibiotics would be more appropriate than changing to another tetracycline-like agent in patients who develop evidence of liver injury while receiving tigecycline.</p>
+          <p>Drug Class: <related-object source-id="livertox" document-id="Antiinfective">Antiinfective Agents</related-object>, <related-object source-id="livertox" document-id="Tetracyclines">Tetracyclines</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Tigecycline.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <boxed-text position="anchor" id="Tigecycline.BPI" orientation="portrait">
+          <p>
+            <bold>REPRESENTATIVE TRADE NAMES</bold>
+          </p>
+          <p>Tigecycline &#x02013; Tygacil&#x000ae;</p>
+          <p>
+            <bold>DRUG CLASS</bold>
+          </p>
+          <p>Antiinfective Agents</p>
+          <p>
+            <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=tigecycline">COMPLETE LABELING</ext-link>
+          </p>
+          <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+        </boxed-text>
+      </sec>
+      <sec id="Tigecycline.CHEMICAL_FORMULA_AND_STRUCTU">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Tigecycline.T1" position="anchor" orientation="portrait">
+          <table>
+            <thead>
+              <tr>
+                <th id="hd_h_Tigecycline.T1_1_1_1_1" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Tigecycline.T1_1_1_1_2" rowspan="1" colspan="1">CAS REGISTRY NO</th>
+                <th id="hd_h_Tigecycline.T1_1_1_1_3" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Tigecycline.T1_1_1_1_4" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Tigecycline.T1_1_1_1_1" rowspan="1" colspan="1">Tigecycline</td>
+                <td headers="hd_h_Tigecycline.T1_1_1_1_2" rowspan="1" colspan="1">
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135115726">220620-09-7</ext-link>
+                </td>
+                <td headers="hd_h_Tigecycline.T1_1_1_1_3" rowspan="1" colspan="1">C29-H39-N5-O8</td>
+                <td headers="hd_h_Tigecycline.T1_1_1_1_4" rowspan="1" colspan="1">
+                  <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Tigecycline_Structure.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait">
+                    <alt-text>Tigecycline chemical structure</alt-text>
+                  </graphic>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Tigecycline.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 23 January 2019</p>
+        <ref-list id="Tigecycline.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Tigecycline.R1">
+            <mixed-citation publication-type="other">Zimmerman HJ. Hepatic injury from the treatment of infectious and parasitic diseases. In, Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999, pp. 589-637.<annotation><p><italic toggle="yes">(Expert review of liver injury due to antimicrobial agents published in 1999; tigecycline is not mentioned).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Tigecycline.R2">
+            <mixed-citation publication-type="other">Moseley RH. Antibacterial and antifungal agents. In, Kaplowitz N, DeLeve LD, eds. Drug-induced Liver Disease. Second Edition. New York: Informa Healthcare, 2007, pp. 527-46.<annotation><p><italic toggle="yes">(Expert review of antibiotic induced liver injury published in 2007, mentions that tigecycline was only recently approved, is known to cause serum enzyme elevations, but has not been linked to cases of clinically apparent liver injury).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Tigecycline.R3">
+            <mixed-citation publication-type="other">Petri WA Jr. Penicillins, cephalosporins, and other betalactam antibiotics. In, Brunton LL, Lazo JS, Parker KL, eds. Goodman &#x00026; Gilman&#x02019;s the pharmacological basis of therapeutics. 11th ed. New York: McGraw-Hill, 2006, pp. 1127-54.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Tigecycline.R4">
+            <mixed-citation publication-type="journal">Postier RG, Green SL, Klein SR, Ellis-Grosse EJ, Loh E; Tigecycline 200 Study Group. Results of a multicenter, randomized, open-label efficacy and safety study of two doses of tigecycline for complicated skin and skin-structure infections in hospitalized patients. Clin Ther 2004; 26: 704-14. <annotation><p><italic toggle="yes">(160 patients received tigecycline for 5 to 14 days; asymptomatic, self-limited ALT elevations occurred in 3%).</italic></p></annotation><pub-id pub-id-type="pmid">15220014</pub-id></mixed-citation>
+          </ref>
+          <ref id="Tigecycline.R5">
+            <mixed-citation publication-type="journal">Babinchak T, Ellis-Grosse E, Dartois N, Rose GM, Loh E; Tigecycline 301 Study Group; Tigecycline 306 Study Group. The efficacy and safety of tigecycline for the treatment of complicated intra-abdominal infections: analysis of pooled clinical trial data. Clin Infect Dis 2005; 41 (Suppl 5): S354-67. <annotation><p><italic toggle="yes">(Summary of phase III trials comparing tigecycline [n=817] to imipenim/cilastatin [n=825] given for 5-14 days; ALT and AST elevations occurred in ~3% of both groups; one patient withdrew due to &#x0201d;liver damage").</italic></p></annotation><pub-id pub-id-type="pmid">16080073</pub-id></mixed-citation>
+          </ref>
+          <ref id="Tigecycline.R6">
+            <mixed-citation publication-type="journal">Breedt J, Teras J, Gardovskis J, Maritz FJ, Vaasna T, Ross DP, Gioud-Paquet M, et al; Tigecycline 305 cSSSI Study Group. Safety and efficacy of tigecycline in treatment of skin and skin structure infections: results of a double-blind phase 3 comparison study with vancomycin-aztreonam. Antimicrob Agents Chemother 2005; 49: 4658-66. <annotation><p><italic toggle="yes">(Randomized controlled trial in 546 patients treated for up to 14 days; ALT and AST elevations occurred in 1-2% of tigecycline treated compared to 5-6% of comparative antibiotic treated patients).</italic></p></annotation><pub-id pub-id-type="pmid">16251309</pub-id></mixed-citation>
+          </ref>
+          <ref id="Tigecycline.R7">
+            <mixed-citation publication-type="journal">Ellis-Grosse EJ, Babinchak T, Dartois N, Rose G, Loh E; Tigecycline 300 cSSSI Study Group; Tigecycline 305 cSSSI Study Group. The efficacy and safety of tigecycline in the treatment of skin and skin-structure infections: results of 2 double-blind phase 3 comparison studies with vancomycin-aztreonam. Clin Infect Dis 2005; 41 (Suppl 5): S341-53. <annotation><p><italic toggle="yes">(Summary of two phase III trials comparing tigecycline [n=566] to vancomycin/aztreonam [n=550] for up to 14 days; ALT and AST elevations reported in 1.4-1.8% of tigecycline treated and 5.1-6.2% of vancomycin/aztreonam treated patients; no hepatitis with jaundice).</italic></p></annotation><pub-id pub-id-type="pmid">16080072</pub-id></mixed-citation>
+          </ref>
+          <ref id="Tigecycline.R8">
+            <mixed-citation publication-type="journal">Garrison MW, Neumiller JJ, Setter SM. Tigecycline: an investigational glycylcycline antimicrobial with activity against resistant gram-positive organisms. Clin Ther 2005; 27: 12-22. <annotation><p><italic toggle="yes">(Review article on tigecycline: &#x0201c;Mild elevations in liver function parameters and blood urea nitrogen were also observed but required no intervention.&#x0201d;).</italic></p></annotation><pub-id pub-id-type="pmid">15763603</pub-id></mixed-citation>
+          </ref>
+          <ref id="Tigecycline.R9">
+            <mixed-citation publication-type="journal">Oliva ME, Rekha A, Yellin A, Pasternak J, Campos M, Rose GM, Babinchak T, et al; 301 Study Group. A multicenter trial of the efficacy and safety of tigecycline versus imipenem/cilastatin in patients with complicated intra-abdominal infections [Study ID Numbers: 3074A1-301-WW; ClinicalTrials.gov Identifier: NCT00081744]. BMC Infect Dis 2005; 5: 88. <annotation><p><italic toggle="yes">(Randomized controlled trial of tigecycline vs imipenem/cilastatin; no mention of clinically apparent liver injury or incidence of ALT elevations).</italic></p></annotation><pub-id pub-id-type="pmid">16236177</pub-id></mixed-citation>
+          </ref>
+          <ref id="Tigecycline.R10">
+            <mixed-citation publication-type="journal">Rello J. Pharmacokinetics, pharmacodynamics, safety and tolerability of tigecycline. J Chemother 2005; 17 (Suppl 1): 12-22. <annotation><p><italic toggle="yes">(A summary of phase I, II and III studies of tigecycline; elevated ALT or AST levels reported in 1% to 2% of tigecycline recipients and higher proportion of patients receiving comparative antibiotics; no cases of hepatitis with jaundice attributable to tigecycline).</italic></p></annotation><pub-id pub-id-type="pmid">16285354</pub-id></mixed-citation>
+          </ref>
+          <ref id="Tigecycline.R11">
+            <mixed-citation publication-type="journal">Rubinstein E, Vaughan D. Tigecycline: a novel glycylcycline. Drugs 2005; 65: 1317-36. <annotation><p><italic toggle="yes">(Review article on tigecycline reporting low rates of ALT and AST elevations [&#x0003c;2%] in phase III randomized controlled trials).</italic></p></annotation><pub-id pub-id-type="pmid">15977966</pub-id></mixed-citation>
+          </ref>
+          <ref id="Tigecycline.R12">
+            <mixed-citation publication-type="journal">Sacchidanand S, Penn RL, Embil JM, Campos ME, Curcio D, Ellis-Grosse E, Loh E, Rose G. Efficacy and safety of tigecycline monotherapy compared with vancomycin plus aztreonam in patients with complicated skin and skin structure infections: Results from a phase 3, randomized, double-blind trial. Int J Infect Dis 2005; 9: 251-61. <annotation><p><italic toggle="yes">(Randomized controlled trial of tigecycline [n=292] vs vancomycin and aztreonam [n= 281] for up to 14 days; ALT and AST elevations occurred in 1-2% of tigecycline vs 5-6% of comparator recipients; no case of clinically apparent liver disease).</italic></p></annotation><pub-id pub-id-type="pmid">16099700</pub-id></mixed-citation>
+          </ref>
+          <ref id="Tigecycline.R13">
+            <mixed-citation publication-type="journal">Tanaseanu C, Bergallo C, Teglia O, Jasovich A, Oliva ME, Dukart G, Dartois N, Cooper CA, Gandjini H, Mallick R; 308 Study Group; 313 Study Group. Integrated results of 2 phase 3 studies comparing tigecycline and levofloxacin in community-acquired pneumonia. Diagn Microbiol Infect Dis 2008; 61: 329-38. <annotation><p><italic toggle="yes">(Combined results of two clinical trials comparing tigecycline to levofloxacin in 846 patients with pneumonia found similar efficacy [74-86%]; nausea and vomiting were more common with tigecycline; ALT elevations occurred in 2.6% of tigecycline vs 6.4% of levofloxacin treated patients; no mention of hepatitis or jaundice).</italic></p></annotation><pub-id pub-id-type="pmid">18508226</pub-id></mixed-citation>
+          </ref>
+          <ref id="Tigecycline.R14">
+            <mixed-citation publication-type="journal">Chalasani N, Fontana RJ, Bonkovsky HL, Watkins PB, Davern T, Serrano J, Yang H, Rochon J; Drug Induced Liver Injury Network (DILIN). Causes, clinical features, and outcomes from a prospective study of drug-induced liver injury in the United States. Gastroenterology 2008; 135: 1924-34. <annotation><p><italic toggle="yes"> (Among 300 cases of drug induced liver disease in the US collected from 2004 to 2008, none were linked to tigecycline).</italic></p></annotation><pub-id pub-id-type="pmid">18955056</pub-id></mixed-citation>
+          </ref>
+          <ref id="Tigecycline.R15">
+            <mixed-citation publication-type="journal">Towfigh S, Pasternak J, Poirier A, Leister H, Babinchak T. A multicentre, open-label, randomized comparative study of tigecycline versus ceftriaxone sodium plus metronidazole for the treatment of hospitalized subjects with complicated intra-abdominal infections. Clin Microbiol Infect 2010; 16: 1274-81. <annotation><p><italic toggle="yes">(Controlled trial of tigecycline versus ceftriazone/metronidazole in 376 patients with complicated intra-abdominal infections; no mention of ALT elevations or liver injury).</italic></p></annotation><pub-id pub-id-type="pmid">20670293</pub-id></mixed-citation>
+          </ref>
+          <ref id="Tigecycline.R16">
+            <mixed-citation publication-type="journal">Tasina E, Haidich AB, Kokkali S, Arvanitidou M. Efficacy and safety of tigecycline for the treatment of infectious diseases: a meta-analysis. Lancet Infect Dis 2011; 11: 834-44. <annotation><p><italic toggle="yes">(Metaanalysis of 14 randomized controlled trials of tigecycline vs comparator antibiotic regimens found non-significantly lower success rates and higher adverse events in the tigecycline group, mostly due to nausea and vomiting; no discussion of ALT elevations or liver injury).</italic></p></annotation><pub-id pub-id-type="pmid">21784708</pub-id></mixed-citation>
+          </ref>
+          <ref id="Tigecycline.R17">
+            <mixed-citation publication-type="journal">Bodmann KF, Heizmann WR, von Eiff C, Petrik C, L&#x000f6;schmann PA, Eckmann C. Therapy of 1,025 Severely Ill Patients with Complicated Infections in a German Multicenter Study: Safety Profile and Efficacy of Tigecycline in Different Treatment Modalities. Chemotherapy 2012; 58: 282-94. <annotation><p><italic toggle="yes">(Among 1025 patients with severe infections treated with tigecycline, 2.5% had a serious adverse events mostly due to drug inefficacy or bacterial resistance; 1% had liver test elevations and mortality rate was 20%, half due to multiorgan failure and 1.2% to hepatic failure).</italic></p></annotation><pub-id pub-id-type="pmid">23052187</pub-id></mixed-citation>
+          </ref>
+          <ref id="Tigecycline.R18">
+            <mixed-citation publication-type="journal">Kadoyama K, Sakaeda T, Tamon A, Okuno Y. Adverse event profile of tigecycline: data mining of the public version of the U.S. Food and Drug Administration adverse event reporting system. Biol Pharm Bul. 2012; 35: 967-70. <annotation><p><italic toggle="yes">(Analysis of adverse event reports on tigecycline compared to other agents, suggested increased rates of nausea, vomiting, pancreatitis, liver failure, ALT and Alk P elevations).</italic></p></annotation><pub-id pub-id-type="pmid">22687540</pub-id></mixed-citation>
+          </ref>
+          <ref id="Tigecycline.R19">
+            <mixed-citation publication-type="journal">Prasad P, Sun J, Danner RL, Natanson C. Excess deaths associated with tigecycline after approval based on noninferiority trials. Clin Infect Dis 2012; 54: 1699-709. <annotation><p><italic toggle="yes">(Systematic analysis of 13 randomized controlled trials of tigecycline vs comparator antibiotic regimens in 7434 patients with severe infections found increased mortality [risk difference RD=0.7%] in tigecycline group and increased non-cure rates [RD=2.9%]).</italic></p></annotation><pub-id pub-id-type="pmid">22467668</pub-id></mixed-citation>
+          </ref>
+          <ref id="Tigecycline.R20">
+            <mixed-citation publication-type="journal">Vardakas KZ, Rafailidis PI, Falagas ME. Effectiveness and safety of tigecycline: focus on use for approved indications. Clin Infect Dis 2012; 54: 1672-4. <annotation><p><italic toggle="yes"> (A systematic review of randomized controlled trials of tigecycline vs comparator agents suggested that tigecycline was not associated with a higher mortality rate in patients with infections for which the agent is approved: 2.5% vs 1.8%, p=0.09). </italic></p></annotation><pub-id pub-id-type="pmid">22431809</pub-id></mixed-citation>
+          </ref>
+          <ref id="Tigecycline.R21">
+            <mixed-citation publication-type="journal">Rossitto G, Piano S, Rosi S, Simioni P, Angeli P. Life-threatening coagulopathy and hypofibrinogenaemia induced by tigecycline in a patient with advanced liver cirrhosis. Eur J Gastroenterol Hepato 2014; 26: 681-4. <annotation><p><italic toggle="yes">(A 43 year old woman with autoimmune hepatitis and advanced cirrhosis developed worsening jaundice, elevations in INR and fall in fibrinogen levels 5 days after starting tigecycline for a systemic infection, which then returned to baseline once tigecycline was stopped). </italic></p></annotation><pub-id pub-id-type="pmid">24667348</pub-id></mixed-citation>
+          </ref>
+          <ref id="Tigecycline.R22">
+            <mixed-citation publication-type="journal">Zhang Q, Zhou S, Zhou J. Tigecycline treatment causes a decrease in fibrinogen levels. Antimicrob Agents Chemother 2015; 59: 1650-5. <annotation><p><italic toggle="yes">(Among 20 patients with severe infections who were monitored during tigecycline therapy, serum fibrinogen levels decreased in 19 and were associated with bleeding episodes in 6 patients, while mean ALT and bilirubin levels did not change and all abnormalities returned to baseline upon stopping tigecycline). </italic></p></annotation><pub-id pub-id-type="pmid">25547356</pub-id></mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec id="Tigecycline.OTHER_REFERENCE_LINKS" sec-type="link-group">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=(minocycline/AE+AND+tigecycline%5BNM%5D)+AND+Human%5BMH%5D+AND+(%20drug-induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver+OR+liver+diseases/CI)+AND+(%222008/1/1%22%5BEDat%5D%3A%222999/12/31%22%5BEDat%5D)">Recent References on Tigecycline: from PubMed.gov</ext-link>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=tigecycline">Trials on Tigecycline: from ClinicalTrials.gov</ext-link>
+            </p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

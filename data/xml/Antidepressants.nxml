@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Antidepressants" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Antidepressants</book-part-id>
+      <title-group>
+        <title>Antidepressant Agents</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>27</day>
+          <month>4</month>
+          <year>2018</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Anticonvulsants" document-type="chapter">Anticonvulsants</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Antidiabetic" document-type="chapter">Antidiabetic Agents</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Antidepressants.OVERVIEW">
+        <title>OVERVIEW</title>
+        <p content-type="pubmed-excerpt">The antidepressants are some of the most commonly prescribed medications in current use. They are also important causes of drug induced liver injury accounting for 2% to 5% of clinically apparent cases. The antidepressants can be grouped into four categories: monamine oxidase inhibitors, tricyclic antidepressants, selective serotonin reuptake inhibitors, and miscellaneous agents.</p>
+        <p content-type="pubmed-excerpt">The monamine oxidase inhibitors are a large group of hydrazide derivatives which were found to have antidepressant activity when first used in the therapy of tuberculosis in the 1950s. These agents inhibit the enzyme monamine oxidase that is responsible for inactivation of many amine neurotransmitters such as norepinephrine and serotonin, thus increasing their levels and activity in the brain. MAO inhibitors (with initial trade name and year of approval) currently in clinical use for depression include phenelzine (Nardil: 1961), tranylcypromine (Parnate: 1961), and isocarboxazid (Marplan: 1959). MAO inhibitors are currently not widely used, having been replaced by the tricyclic antidepressants and selective serotonin reuptake inhibitors which have greater potency and fewer adverse side effects. The MAO inhibitors can cause serum aminotransferase elevations and rarely lead to clinically apparent liver injury, generally with a hepatitis-like clinical presentation 1 to 3 months after starting therapy.</p>
+        <p content-type="pubmed-excerpt">The tricyclic antidepressants share a tricyclic chemical structure somewhat resembling the phenothiazines. The tricyclics are believed to act by inhibition of reuptake of serotonin and norephinephrine, thus increasing levels of these neurotransmitters. Tricyclic antidepressants in current use include amitriptyline (Elavil: 1961), clomipramine (Anafranil: 1989), desipramine (Norpramin: 1964), doxepin (Sinequan: 1969), imipramine (Tofranil: 1959), nortriptyline (Aventyl or Pamelor: 1964) and protriptyline (Vivactil: 1967). Two more recently approved agents are usually categorized as tricyclics, but have some unique characteristics: trimipramine (Surmontil: 1979) and amoxapine (Asendin: 1992). The various tricyclic antidepressants are capable of causing transient serum aminotransferase elevations to varying degrees and, in rare instances, clinically apparent acute liver injury. Various pattern of hepatic injury have been associated with different tricyclic antidepressants.</p>
+        <p>The selective serotonin reuptake inhibitors (SSRIs) are a group of structurally unrelated agents characterized by a common mechanism of action, the inhibition of reuptake of serotonin in synaptic clefts which results in an increase in brain serotonin activity. These agents are considered selective, because they have little activity in blocking reuptake of norepinephrine or other neurotransmitters. The SSRIs are currently the most commonly used antidepressants. Those in current use include citalopram (Celexa: 1998), escitalopram (Lexapro: 2002), fluoxetine (Prozac: 1987), fluvoxamine (Luvox: 1994), paroxetine (Paxil: 1992), sertraline (Zoloft: 1991), venlafaxine (Effexor: 1965) and duloxetine (Cymbalta: 2004). Two more recently approved serotonergic agents are unique in that they have bimodal activity, inhibiting serotonin reuptake like typical SSRIs, but also having partial agonist-antagonist activity directly against serotonin receptors: vilazodone (Viibryd: 2011) and vortioxetine (Brintellix: 2013). Serum aminotransferase elevations occur in up to 10% of patients taking conventional SSRIs. Varying patterns of acute liver injury have been described with most agents, but clinically apparent liver injury due to these agents is rare.</p>
+        <p>Miscellaneous antidepressants include tetracyclic agents that act by inhibition of reuptake of both serotonin and norepinephrine and are thus known as SNRIs (mirtazapine: Remeron, 1996), aminoketones (bupropion: Wellbutrin: 1985), and triazolopyradine derivatives (trazodone: Desyrel, 1981; and nefazodone: formerly Serzone, 1994). The latter two agents, but particularly nefazodone, have been linked to cases of drug induced acute liver injury that can be severe and lead to liver failure and death.</p>
+        <p>Several antidepressant medications have been withdrawn from use because of their potential for hepatotoxicity. Thus, the initial MAO inhibitor and hydralazine derivative iproniazid was introduced into clinical use in 1956, but withdrawn in 1961 because of multiple reports of acute hepatic injury more than 10% of which were fatal. Amineptine is a tricyclic antidepressant that was introduced in 1978 in Europe, but subsequently withdrawn because of several reports of prolonged cholestatic hepatic injury associated with its use in rates higher than with other tricyclic antidepressants. Finally, nefazodone, an antidepressant related in structure to trazodone that was approved for use in 1997, was withdrawn by the sponsor in 2003 after multiple reports of acute liver failure arising in patients treated for more than 4 to 6 months. Nefazodone, however, remains available in generic forms.</p>
+        <p>The following drug subclasses and drug records are discussed individually:</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>MAO Inhibitors</p>
+            <list list-type="bullet">
+              <list-item>
+                <p><related-object link-type="booklink" source-id="livertox" document-id="Isocarboxazid" document-type="chapter">Isocarboxazid</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Phenelzine" document-type="chapter">Phenelzine</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Tranylcypromine" document-type="chapter">Tranylcypromine</related-object></p>
+              </list-item>
+            </list>
+          </list-item>
+          <list-item>
+            <p>SNRIs</p>
+            <list list-type="bullet">
+              <list-item>
+                <p><related-object link-type="booklink" source-id="livertox" document-id="Duloxetine" document-type="chapter">Duloxetine</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="MilnacipranLevomilna" document-type="chapter">Levomilnacipran</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Venlafaxine" document-type="chapter">Venlafaxine</related-object></p>
+              </list-item>
+            </list>
+          </list-item>
+          <list-item>
+            <p>SSRIs</p>
+            <list list-type="bullet">
+              <list-item>
+                <p><related-object link-type="booklink" source-id="livertox" document-id="CitalopramEscitalopr" document-type="chapter">Citalopram, Escitalopram</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Fluoxetine" document-type="chapter">Fluoxetine</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Fluvoxamine" document-type="chapter">Fluvoxamine</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Paroxetine" document-type="chapter">Paroxetine</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Sertraline" document-type="chapter">Sertraline</related-object> , <related-object link-type="booklink" source-id="livertox" document-id="Vilazodone" document-type="chapter">Vilazodone</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Vortioxetine" document-type="chapter">Vortioxetine</related-object></p>
+              </list-item>
+            </list>
+          </list-item>
+          <list-item>
+            <p>Tricyclics</p>
+            <list list-type="bullet">
+              <list-item>
+                <p><related-object link-type="booklink" source-id="livertox" document-id="Amitriptyline" document-type="chapter">Amitriptyline</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Amoxapine" document-type="chapter">Amoxapine</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Clomipramine" document-type="chapter">Clomipramine</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Desipramine" document-type="chapter">Desipramine</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Doxepin" document-type="chapter">Doxepin</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Imipramine" document-type="chapter">Imipramine</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Nortriptyline" document-type="chapter">Nortriptyline</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Protriptyline" document-type="chapter">Protriptyline</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Trimipramine" document-type="chapter">Trimipramine</related-object></p>
+              </list-item>
+            </list>
+          </list-item>
+          <list-item>
+            <p>Miscellaneous</p>
+            <list list-type="bullet">
+              <list-item>
+                <p><related-object link-type="booklink" source-id="livertox" document-id="Brexanolone" document-type="chapter">Brexanolone</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Bupropion" document-type="chapter">Bupropion</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Esketamine" document-type="chapter">Esketamine</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Flibanserin" document-type="chapter">Flibanserin</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Mirtazapine" document-type="chapter">Mirtazapine</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Nefazodone" document-type="chapter">Nefazodone</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Trazodone" document-type="chapter">Trazodone</related-object></p>
+              </list-item>
+            </list>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>
