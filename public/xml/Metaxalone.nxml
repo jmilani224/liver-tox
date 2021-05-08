@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Metaxalone" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Metaxalone</book-part-id>
+      <title-group>
+        <title>Metaxalone</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>12</day>
+          <month>2</month>
+          <year>2014</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Mesalamine" document-type="chapter">Mesalamine</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Metformin" document-type="chapter">Metformin</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Metaxalone.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Metaxalone.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Metaxalone is a centrally acting skeletal muscle relaxant that has been in use for more than 40 years. Metaxalone has not been associated with serum aminotransferase elevations during therapy or with clinically apparent hepatic injury.</p>
+        </sec>
+        <sec id="Metaxalone.Background">
+          <title>Background</title>
+          <p>Metaxalone (me tax' a lone) acts centrally as a skeletal muscle relaxant, but its efficacy and precise mechanism of action are not well documented. Metaxalone was approved for use in the United States in 1962 and it remains a widely used muscle relaxant. Current indications include the treatment of pain from acute musculoskeletal conditions and muscle spasms. The recommended dosage is 800 mg orally three to four times daily. Metaxalone is available by prescription only in 400 and 800 mg tablets in generic forms as well as under the commercial name Skelaxin. Sparse data are available regarding metaxalone safety. Side effects are not common, but can include drowsiness, dizziness, headache, nausea, and dry mouth.</p>
+        </sec>
+        <sec id="Metaxalone.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>According to the product brochure, metaxalone may cause jaundice, although there are no specific case reports of hepatotoxicity from metaxalone in the literature and no prospective trials with routine monitoring of aminotransferase levels. Given its long history, metaxalone appears to be without significant hepatotoxicity.</p>
+          <p>Likelihood score: E (Unlikely cause of clinically apparent liver injury).</p>
+          <p>Drug Class: <related-object source-id="livertox" document-id="MuscleRelaxants">Muscle Relaxants</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Metaxalone.PRODUCT_INFORMATION_Muscle_Re">
+        <title>PRODUCT INFORMATION</title>
+        <boxed-text position="anchor" id="Metaxalone.BPI" orientation="portrait">
+          <p>
+            <bold>REPRESENTATIVE TRADE NAMES</bold>
+          </p>
+          <p>Metaxalone &#x02013; Generic, Skelaxin&#x000ae;</p>
+          <p>
+            <bold>DRUG CLASS</bold>
+          </p>
+          <p>Autonomic Agents: Muscle Relaxants, Central</p>
+          <p>
+            <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=metaxalone">COMPLETE LABELING</ext-link>
+          </p>
+          <p>Product Labeling at DailyMed, National Library of Medicine, NIH</p>
+        </boxed-text>
+      </sec>
+      <sec id="Metaxalone.CHEMICAL_FORMULA_AND_STRUCTUR">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Metaxalone.T1" position="anchor" orientation="portrait">
+          <table>
+            <thead>
+              <tr>
+                <th id="hd_h_Metaxalone.T1_1_1_1_1" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Metaxalone.T1_1_1_1_2" rowspan="1" colspan="1">CAS REGISTRY NO</th>
+                <th id="hd_h_Metaxalone.T1_1_1_1_3" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Metaxalone.T1_1_1_1_4" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Metaxalone.T1_1_1_1_1" rowspan="1" colspan="1">Metaxalone</td>
+                <td headers="hd_h_Metaxalone.T1_1_1_1_2" rowspan="1" colspan="1">
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://134980703">1665-48-1</ext-link>
+                </td>
+                <td headers="hd_h_Metaxalone.T1_1_1_1_3" rowspan="1" colspan="1">C12-H15-N-O3</td>
+                <td headers="hd_h_Metaxalone.T1_1_1_1_4" rowspan="1" colspan="1">
+                  <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Metaxalone_Structure.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait">
+                    <alt-text>Metaxalone chemical structure</alt-text>
+                  </graphic>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Metaxalone.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 12 February 2014</p>
+        <ref-list id="Metaxalone.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Metaxalone.R1">
+            <mixed-citation publication-type="other">Zimmerman HJ. Muscle spasmolytics. In, Hepatotoxicity: The Adverse Effects of Drugs and Other Chemicals on the Liver. 2nd Ed. Philadelphia: Lippincott, 1999. p. 544-45.<annotation><p><italic toggle="yes">(Expert review of hepatotoxicity published in 1999; dantrolene, chlorzoxazone and baclofen are discussed; mentions that metaxalone has been cited as causing jaundice but that no such case reports have appeared in the literature).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Metaxalone.R2">
+            <mixed-citation publication-type="other">Hibbs RE, Zambon AC. Agents acting at the neuromuscular junction and autonomic ganglia. In, Brunton LL, Chabner BA, Knollman BC, eds. Goodman &#x00026; Gilman&#x02019;s The pharmacological basis of therapeutics, 12th ed. New York: McGraw-Hill, 2011. p. 255-76. (Textbook of pharmacology and therapeutics)<annotation><p><italic toggle="yes">.</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Metaxalone.R3">
+            <mixed-citation publication-type="journal">Toth PP, Urtis J. Commonly used muscle relaxant therapies for acute low back pain: a review of carisoprodol, cyclobenzaprine hydrochloride, and metaxalone. Clin Ther 2004; 26: 1355-67. <annotation><p><italic toggle="yes">(A review of safety and efficacy of muscle relaxants which states "Although rare instances of hepatic enzyme elevation and anemia have been reported [with metaxalone], this association appears to be based on a false-positive hepatic assay using the cephalin flocculation test.").</italic></p></annotation><pub-id pub-id-type="pmid">15530999</pub-id></mixed-citation>
+          </ref>
+          <ref id="Metaxalone.R4">
+            <mixed-citation publication-type="journal">Chou R, Peterson K, Helfand M. Comparative efficacy and safety of skeletal muscle relaxants for spasticity and musculoskeletal conditions: a systematic review. J Pain Symptom Manage 2004; 28: 140-75. <annotation><p><italic toggle="yes">(Thorough review of the pharmacology, efficacy and side effects of the muscle relaxants).</italic></p></annotation><pub-id pub-id-type="pmid">15276195</pub-id></mixed-citation>
+          </ref>
+          <ref id="Metaxalone.R5">
+            <mixed-citation publication-type="journal">Moore KA, Levine B, Fowler D. A fatality involving metaxalone. Forensic Sci Int 2005; 149: 249-51. <annotation><p><italic toggle="yes">(54 year old woman found dead in whom postmortem analysis indicated metaxalone overdose; liver reported as being normal).</italic></p></annotation><pub-id pub-id-type="pmid">15749367</pub-id></mixed-citation>
+          </ref>
+          <ref id="Metaxalone.R6">
+            <mixed-citation publication-type="journal">Poklis JL, Ropero-Miller JD, Garside D, Winecker RE. Metaxalone (Skelaxin)-related death. J Anal Toxicol 2004; 28: 537-41. <annotation><p><italic toggle="yes">(21 year old woman found dead in whom postmortem analysis indicated metaxalone overdose; no mention of liver abnormalities, although highest levels of drug were present in liver).</italic></p></annotation><pub-id pub-id-type="pmid">15516312</pub-id></mixed-citation>
+          </ref>
+          <ref id="Metaxalone.R7">
+            <mixed-citation publication-type="journal">Russo MW, Galanko JA, Shrestha R, Fried MW, Watkins P. Liver transplantation for acute liver failure from drug-induced liver injury in the United States. Liver Transpl 2004; 10: 1018-23. <annotation><p><italic toggle="yes">(Among ~50,000 liver transplants done in the United States between 1990 and 2002, 270 [0.5%] were done for drug induced acute liver failure, but none were attributed to muscle relaxants).</italic></p></annotation><pub-id pub-id-type="pmid">15390328</pub-id></mixed-citation>
+          </ref>
+          <ref id="Metaxalone.R8">
+            <mixed-citation publication-type="journal">Chalasani N, Fontana RJ, Bonkovsky HL, Watkins PB, Davern T, Serrano J, Yang H, Rochon J; Drug Induced Liver Injury Network (DILIN). Causes, clinical features, and outcomes from a prospective study of drug-induced liver injury in the United States. Gastroenterology 2008; 135: 1924-34. <annotation><p><italic toggle="yes">(Among 300 cases of drug induced liver disease in the US collected from 2004 to 2008, one was attributed to chlorzoxazone, but none to metaxalone).</italic></p></annotation><pub-id pub-id-type="pmid">18955056</pub-id></mixed-citation>
+          </ref>
+          <ref id="Metaxalone.R9">
+            <mixed-citation publication-type="journal">Reuben A, Koch DG, Lee WM; Acute Liver Failure Study Group. Drug-induced acute liver failure: results of a U.S. multicenter, prospective study. Hepatology 2010; 52: 2065-76. <annotation><p><italic toggle="yes">(Among 1198 patients with acute liver failure enrolled in a US prospective study between 1998 and 2007, 133 were attributed to drug induced liver injury, but none were due to metaxalone or other muscle relaxants).</italic></p></annotation><pub-id pub-id-type="pmid">20949552</pub-id></mixed-citation>
+          </ref>
+          <ref id="Metaxalone.R10">
+            <mixed-citation publication-type="journal">Bj&#x000f6;rnsson ES, Bergmann OM, Bj&#x000f6;rnsson HK, Kvaran RB, Olafsson S. Incidence, presentation and outcomes in patients with drug-induced liver iInjury in the General population of Iceland. Gastroenterology 2013; 144: 1419-25. <annotation><p><italic toggle="yes">(In a population based study of drug induced liver injury from Iceland, 96 cases were identified over a 2 year period, but none were attributed to metaoxalone or other muscle relaxants).</italic></p></annotation><pub-id pub-id-type="pmid">23419359</pub-id></mixed-citation>
+          </ref>
+          <ref id="Metaxalone.R11">
+            <mixed-citation publication-type="journal">Chalasani N, Bonkovsky HL, Fontana R, Lee W, Stolz A, Talwalkar J, Reddy KR, et al.; United States Drug Induced Liver Injury Network. Features and outcomes of 899 patients with drug-induced liver injury: The DILIN Prospective Study. Gastroenterology 2015; 148: 1340-1352.e7. <annotation><p><italic toggle="yes">(Among 899 cases of drug induced liver injury enrolled in a US prospective study between 2004 and 2013, 5 [0.7%] were attributed to muscle relaxants, one of which was possibly related to metaxalone).</italic></p></annotation><pub-id pub-id-type="pmid">25754159</pub-id></mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec id="Metaxalone.OTHER_REFERENCE_LINKS" sec-type="link-group">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=Metaxalone/AE+AND+Human%5BMH%5D+AND+(drug-induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI+OR+hepatitis,+toxic%5BMH%5D)+AND+(%222009/12/01/1%22%5BEDat%5D%3A%222999/12/31%22%5BEDat%5D)">Recent References on Metaxalone: from PubMed.gov</ext-link>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Metaxalone">Trials on Metaxalone: from ClinicalTrials.gov</ext-link>
+            </p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

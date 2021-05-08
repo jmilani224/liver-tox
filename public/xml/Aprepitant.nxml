@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Aprepitant" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Aprepitant</book-part-id>
+      <title-group>
+        <title>Aprepitant</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>25</day>
+          <month>7</month>
+          <year>2017</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Apremilast" document-type="chapter">Apremilast</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Aripiprazole" document-type="chapter">Aripiprazole</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Aprepitant.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Aprepitant.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Aprepitant is an orally available antiemetic agent that is used to prevent postoperative or cancer chemotherapy related nausea and vomiting. Aprepitant is associated with a low rate of serum enzyme elevations during therapy, but has not been clearly linked to cases of clinically apparent liver injury with jaundice.</p>
+        </sec>
+        <sec id="Aprepitant.Background">
+          <title>Background</title>
+          <p>Aprepitant (a pre&#x02019; pi tant) is a complex molecule with a central morpholine core and two ring carbons and fluorinated phenyl groups. Aprepitant acts as a substance P antagonist blocking the neurokinin 1 (NK1) receptor, which is found in the central nervous system and induces the vomiting reflex when activated by substance P. Aprepitant has been shown to inhibit both acute and delayed nausea and vomiting associated with cancer chemotherapy and surgical procedures. It appears to act synergistically with serotonin type 3 (5-HT3) receptor blockers. Aprepitant was approved for use in the United States in 2003 and current indications include prevention of postoperative and chemotherapy associated nausea and vomiting. Aprepitant is available as 40, 80 and 125 mg capsules under the brand name Emend. The typical adult oral dose for postoperative nausea and vomiting is 40 mg within four hours of anesthesia induction. The dose for preventing nausea and vomiting due to chemotherapy is usually 125 mg one hour before chemotherapy given in combination with dexamethasone and a 5-HT3 receptor blocker, followed by 80 mg of aprepitant and dexamethasone orally on days 2 and 3. Fosaprepitant is a prodrug of aprepitant and is available as a solution for injection in single use vials of 115 and 150 mg. Common side effects of oral aprepitant include fatigue, drowsiness, dizziness, headache, diarrhea and abdominal discomfort.</p>
+        </sec>
+        <sec id="Aprepitant.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>In pre-registration clinical trials of aprepitant, serum aminotransferase elevations occurred in 6% of treated patients compared to 4.3% in controls receiving cancer chemotherapy. The aminotransferase elevations were transient, mild to moderate in severity, and not associated with symptoms or jaundice. There have been no convincing cases of clinically apparent liver injury attributable to aprepitant published in the literature and thus, significant liver injury from aprepitant or fosaprepitant must be exceeding rare if it occurs at all.</p>
+          <p>Likelihood score: E (unlikely cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Aprepitant.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>Aprepitant is metabolized by and inhibits hepatic CYP 3A4 and has the potential to cause significant drug-drug interactions. It also has significant interations with warfarin and with hormonal contraceptives. The lack of reported cases of liver injury due to aprepitant and fosaprepitant may be due to the low doses and short duration of typical therapy.</p>
+          <p>Drug Class: <related-object source-id="livertox" document-id="GastrointestinalAgen">Gastrointestinal Agents</related-object>, <related-object source-id="livertox" document-id="AntiemeticAgents">Antiemetic Agents</related-object></p>
+          <p>Other Drugs in the Subclass, Substance P/Neurokinin-1 Receptor Antagonists: <related-object source-id="livertox" document-id="Rolapitant">Rolapitant</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Aprepitant.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <boxed-text position="anchor" id="Aprepitant.BPI" orientation="portrait">
+          <p>
+            <bold>REPRESENTATIVE TRADE NAMES</bold>
+          </p>
+          <p>Aprepitant &#x02013; Generic, Emend&#x000ae;</p>
+          <p>Fosaprepitant &#x02013; Emend&#x000ae;</p>
+          <p>
+            <bold> DRUG CLASS</bold>
+          </p>
+          <p>Gastrointestinal Agents</p>
+          <p>
+            <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Aprepitant">COMPLETE LABELING</ext-link>
+          </p>
+          <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+        </boxed-text>
+      </sec>
+      <sec id="Aprepitant.CHEMICAL_FORMULA_AND_STRUCTUR">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Aprepitant.T1" position="anchor" orientation="portrait">
+          <table>
+            <thead>
+              <tr>
+                <th id="hd_h_Aprepitant.T1_1_1_1_1" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Aprepitant.T1_1_1_1_2" rowspan="1" colspan="1">CAS REGISTRY NO.</th>
+                <th id="hd_h_Aprepitant.T1_1_1_1_3" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Aprepitant.T1_1_1_1_4" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Aprepitant.T1_1_1_1_1" rowspan="1" colspan="1">Aprepitant</td>
+                <td headers="hd_h_Aprepitant.T1_1_1_1_2" rowspan="1" colspan="1">
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135106950">170729-80-3</ext-link>
+                </td>
+                <td headers="hd_h_Aprepitant.T1_1_1_1_3" rowspan="1" colspan="1">C23-H21-F7-N4-O3</td>
+                <td headers="hd_h_Aprepitant.T1_1_1_1_4" rowspan="1" colspan="1">
+                  <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="_170729-80-3.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait"/>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Aprepitant.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 25 July 2017</p>
+        <ref-list id="Aprepitant.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Aprepitant.R1">
+            <mixed-citation publication-type="other">Zimmerman HJ. Antiemetic and prokinetic compounds. Miscellaneous drugs and diagnostic chemicals. In, Zimmerman, HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999: pp. 721.<annotation><p><italic toggle="yes">(Expert review of hepatotoxicity published in 1999 does not discuss aprepitant).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Aprepitant.R2">
+            <mixed-citation publication-type="other">Sharkey KA, Wallace JL. Treatment of disorders of bowel motility and water flux: anti-emetics; agents used in biliary and pancreatic disease. In, Brunton LL, Chabner BA, Knollman BC, eds. Goodman &#x00026; Gilman's the pharmacological basis of therapeutics. 12th ed. New York: McGraw-Hill, 2011, pp. 1323-50.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Aprepitant.R3">
+            <mixed-citation publication-type="journal">Navari RM. Aprepitant: a neurokinin-1 receptor antagonist for the treatment of chemotherapy-induced nausea and vomiting. Expert Rev Anticancer Ther 2004; 4: 715-24. <annotation><p><italic toggle="yes">(Review of the structure, pharmacokinetics, metabolism, mechanism of action, efficacy and safety of aprepitant mentions that adverse events may include fatigue, anorexia, constipation, diarrhea, nausea and hiccups, but rate of adverse events is not increased by adding aprepitant to standard preventive regimens).</italic></p></annotation><pub-id pub-id-type="pmid">15485308</pub-id></mixed-citation>
+          </ref>
+          <ref id="Aprepitant.R4">
+            <mixed-citation publication-type="journal">Poli-Bigelli S, Rodrigues-Pereira J, Carides AD, Julie Ma G, Eldridge K, Hipple A, Evans JK, et al.; Aprepitant Protocol 054 Study Group. Addition of the neurokinin 1 receptor antagonist aprepitant to standard antiemetic therapy improves control of chemotherapy-induced nausea and vomiting. Results from a randomized, double-blind, placebo-controlled trial in Latin America. Cancer 2003; 97: 3090-8. <annotation><p><italic toggle="yes">(Among 523 patients with cancer treated with ondansetron and dexamethasone with or without aprepitant to prevent nausea and vomiting after chemotherapy, nausea and vomiting was less with aprepitant, but side effects were similar in the two groups including rates of ALT and AST elevations above 5 times ULN [actual rates not provided]).</italic></p></annotation><pub-id pub-id-type="pmid">12784346</pub-id></mixed-citation>
+          </ref>
+          <ref id="Aprepitant.R5">
+            <mixed-citation publication-type="journal">Gralla RJ, de Wit R, Herrstedt J, Carides AD, Ianus J, Guoguang-Ma J, Evans JK, et al. Antiemetic efficacy of the neurokinin-1 antagonist, aprepitant, plus a 5HT3 antagonist and a corticosteroid in patients receiving anthracyclines or cyclophosphamide in addition to high-dose cisplatin: analysis of combined data from two Phase III randomized clinical trials. Cancer 2005; 104: 864-8. <annotation><p><italic toggle="yes">(Analysis of results from two large studies in more than 1000 cancer patients who received aprepitant vs placebo in addition to ondansetron and dexamethasone during chemotherapy; both early and delayed nausea and vomiting were decreased in those receiving aprepitant in comparison to controls; no mention of side effects, hepatotoxicity or ALT levels).</italic></p></annotation><pub-id pub-id-type="pmid">15973669</pub-id></mixed-citation>
+          </ref>
+          <ref id="Aprepitant.R6">
+            <mixed-citation publication-type="journal">Jordan K, Kinitz I, Voigt W, Behlendorf T, Wolf HH, Schmoll HJ. Safety and efficacy of a triple antiemetic combination with the NK-1 antagonist aprepitant in highly and moderately emetogenic multiple-day chemotherapy. Eur J Cancer 2009; 45: 1184-7. <annotation><p><italic toggle="yes">(Among 78 patients with cancer treated with aprepitant, granisetron and dexamethasone to prevent the nausea and vomiting of cancer chemotherapy, side effects were largely attributed to the antineoplastic agents; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">19135359</pub-id></mixed-citation>
+          </ref>
+          <ref id="Aprepitant.R7">
+            <mixed-citation publication-type="journal">Reuben A, Koch DG, Lee WM; Acute Liver Failure Study Group. Drug-induced acute liver failure: results of a U.S. multicenter, prospective study. Hepatology 2010; 52: 2065-76. <annotation><p><italic toggle="yes">(Among 1198 patients with acute liver failure enrolled in a US prospective study between 1998 and 2007, 133 were attributed to drug induced liver injury, but none were attributed to an antiemetic agent).</italic></p></annotation><pub-id pub-id-type="pmid">20949552</pub-id></mixed-citation>
+          </ref>
+          <ref id="Aprepitant.R8">
+            <mixed-citation publication-type="journal">Ferrajolo C, Capuano A, Verhamme KM, Schuemie M, Rossi F, Stricker BH, Sturkenboom MC. Drug-induced hepatic injury in children: a case/non-case study of suspected adverse drug reactions in VigiBase. Br J Clin Pharmacol 2010; 70: 721-8. <annotation><p><italic toggle="yes">(Among 624,673 adverse event reports in children between 2000 and 2006 in the WHO VigiBase, 1% were hepatic but no antiemetic was listed among the 41 most commonly implicated agents).</italic></p></annotation><pub-id pub-id-type="pmid">21039766</pub-id></mixed-citation>
+          </ref>
+          <ref id="Aprepitant.R9">
+            <mixed-citation publication-type="journal">Jordan K, Jahn F, Jahn P, Behlendorf T, Stein A, Ruessel J, Kegel T, et al. The NK-1 receptor-antagonist aprepitant in high-dose chemotherapy(high-dose melphalan and high-dose T-ICE: paclitaxel, ifosfamide, carboplatin, etoposide): efficacy and safety of a triple antiemetic combination. Bone Marrow Transplant 2011; 46: 784-9. <annotation><p><italic toggle="yes">(Among 64 patients with cancer treated with aprepitant, dexamethasone and granisetron to prevent chemotherapy induced nausea and vomiting, side effects were largely due to the antineoplastic agents; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">20838387</pub-id></mixed-citation>
+          </ref>
+          <ref id="Aprepitant.R10">
+            <mixed-citation publication-type="journal">Bj&#x000f6;rnsson ES, Bergmann OM, Bj&#x000f6;rnsson HK, Kvaran RB, Olafsson S. Incidence, presentation and outcomes in patients with drug-induced liver injury in the general population of Iceland. Gastroenterology 2013; 144: 1419-25. <annotation><p><italic toggle="yes">(In a population based study of drug induced liver injury from Iceland, 96 cases were identified over a 2 year period, but none were attributed to antiemetics).</italic></p></annotation><pub-id pub-id-type="pmid">23419359</pub-id></mixed-citation>
+          </ref>
+          <ref id="Aprepitant.R11">
+            <mixed-citation publication-type="journal">Saito H, Yoshizawa H, Yoshimori K, Katakami N, Katsumata N, Kawahara M, Eguchi K. Efficacy and safety of single-dose fosaprepitant in the prevention of chemotherapy-induced nausea and vomiting in patients receiving high-dose cisplatin: a multicentre, randomised, double-blind, placebo-controlled phase 3 trial. Ann Oncol 2013; 24: 1067-73. <annotation><p><italic toggle="yes">(Among 347 patients with cancer treated with granisetron and dexamethasone with or without fosaprepitant to prevent nausea and vomiting after cisplatin based chemotherapy, side effects were similar between the two groups; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">23117073</pub-id></mixed-citation>
+          </ref>
+          <ref id="Aprepitant.R12">
+            <mixed-citation publication-type="journal">Stiff PJ, Fox-Geiman MP, Kiley K, Rychlik K, Parthasarathy M, Fletcher-Gonzalez D, Porter N, et al. Prevention of nausea and vomiting associated with stem cell transplant: results of a prospective, randomized trial of aprepitant used with highly emetogenic preparative regimens. Biol Blood Marrow Transplant 2013; 19: 49-55.e1. <annotation><p><italic toggle="yes">(Among 181 patients undergoing hematopoietic cell transplantation for malignant disease who received ondansetron and dexamethasone with either aprepitant or placebo to prevent chemotherapy induced nausea and vomiting, nausea was less with aprepitant, but other side effects were similar in the two groups, although 5 died in the aprepitant arm [one from toxic epidermal necrolysis and one from sinusoidal obstruction syndrome] compared to only 2 in the control group).</italic></p></annotation><pub-id pub-id-type="pmid">22863840</pub-id></mixed-citation>
+          </ref>
+          <ref id="Aprepitant.R13">
+            <mixed-citation publication-type="journal">Hern&#x000e1;ndez N, Bessone F, S&#x000e1;nchez A, di Pace M, Brahm J, Zapata R, A Chirino R, et al. Profile of idiosyncratic drug induced liver injury in Latin America. An analysis of published reports. Ann Hepatol 2014; 13: 231-9. <annotation><p><italic toggle="yes">(Systematic review of literature of drug induced liver injury in Latin American countries published from 1996 to 2012 identified 176 cases, the most common implicated agents being nimesulide [n=53: 30%], cyproterone [n=18], nitrofurantoin [n=17], antituberculosis drugs [n=13] and flutamide [n=12: 7%]; no antiemetic was listed).</italic></p></annotation><pub-id pub-id-type="pmid">24552865</pub-id></mixed-citation>
+          </ref>
+          <ref id="Aprepitant.R14">
+            <mixed-citation publication-type="journal">Chalasani N, Bonkovsky HL, Fontana R, Lee W, Stolz A, Talwalkar J, Reddy KR, et al.; United States Drug Induced Liver Injury Network. Features and outcomes of 899 patients with drug-induced liver injury: The DILIN Prospective Study. Gastroenterology 2015; 148: 1340-52.e7. <annotation><p><italic toggle="yes">(Among 899 cases of drug induced liver injury enrolled in a US prospective study between 2004 and 2013, none were attributed to aprepitant or other antiemetic agents).</italic></p></annotation><pub-id pub-id-type="pmid">25754159</pub-id></mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec id="Aprepitant.OTHER_REFERENCE_LINKS" sec-type="link-group">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=Aprepitant+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D%3A%222999/12/31%22%5BEDat%5D)">Recent References on Aprepitant: from PubMed.gov</ext-link>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Aprepitant">Trials on Aprepitant: from ClinicalTrials.gov</ext-link>
+            </p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

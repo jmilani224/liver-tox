@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Lurasidone" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Lurasidone</book-part-id>
+      <title-group>
+        <title>Lurasidone</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>21</day>
+          <month>5</month>
+          <year>2019</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Lubiprostone" document-type="chapter">Lubiprostone</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Maca" document-type="chapter">Maca</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Lurasidone.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Lurasidone.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Lurasidone is a second generation (atypical) antipsychotic agent that is used in the treatment of schizophrenia and bipolar depression. Lurasidone is associated with a low rate of serum aminotransferase elevations during therapy, but has not been linked to instances of clinically apparent acute liver injury.</p>
+        </sec>
+        <sec id="Lurasidone.Background">
+          <title>Background</title>
+          <p>Lurasidone (loo ras' i done) is a second generation antipsychotic agent which appears to act as a dopamine type 2 (D2) and serotonin (5-HT)-2A receptor antagonist in a manner similar to risperidone. Several randomized controlled trials have shown that lurasidone improves symptoms of schizophrenia and it was approved for this indication and for depressive episodes associated with bipolar disorder in the United States in 2010. Lurasidone is available as tablets of 20, 40, 80 and 120 mg under the brand name Latuda. The recommended starting dose is 20 or 40 mg daily with gradual increase to 40 to 120 mg dailyand gradually increased to a maintenace dose of 40 to 120 mg daily, the optimal dose varying by indication, concurrent medication use, renal or hepatic dysfunction and tolerance. Common side effects include somnolence, fatigue, restlessness (akathisia), anxiety, headache, dizziness, constipation, increased appetite, weight gain, orthostatic hypotension and nasopharyngitis. Rare, but potential severe adverse reactions (mentioned in most antipsychotic and antidepressant product labels) include tardive dyskinesia, major neurologic events, neuroleptic malignant syndrome, orthostatic hypotension, seizures, neutropenia, elevations in serum prolactin levels, and suicidal thoughts and behaviors. Furthermore, use of antipsychotic medications in elderly paitents with dementia-related psychosis has been associated with increased mortality.</p>
+        </sec>
+        <sec id="Lurasidone.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>Liver test abnormalities occur in 1% to 3% of patients on long term therapy with lurasidone, but similar rates have been reported with placebo therapy and with comparator agents. The ALT elevations are usually mild, transient and often resolve even without dose modification or drug discontinuation. There have been no published reports of clinically apparent liver injury with symptoms or jaundice attributed to lurasidone therapy.</p>
+          <p>Likelihood score: E (unlikely cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Lurasidone.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The mechanism by which lurasidone might cause serum ALT elevations or liver injury is not known. Lurasidone is extensively metabolized by the cytochrome P450 system (CYP 3A4) to its active metabolite and is susceptible to drug-drug interactions with agents that inhibit or induce CYP 3A4.</p>
+        </sec>
+        <sec id="Lurasidone.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>The serum aminotransferase elevations that occur on lurasidone therapy are usually self-limited and often do not require dose modification or discontinuation. No instances of acute liver failure, chronic hepatitis or vanishing bile duct syndrome have been attributed to lurasidone. Cross sensitivity to liver related or other hypersensitivity reactions between lurasidone and structurally related antipsychotic agents (such as iloperidone, paliperidone, risperidone and ziprasidone) have not been demonstrated, but may well occur.</p>
+          <p>Drug Class: <related-object source-id="livertox" document-id="AntipsychoticAgents">Antipsychotic Agents</related-object>, Atypicals</p>
+        </sec>
+      </sec>
+      <sec id="Lurasidone.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <boxed-text position="anchor" id="Lurasidone.BPI" orientation="portrait">
+          <p>
+            <bold> REPRESENTATIVE TRADE NAMES</bold>
+          </p>
+          <p>Lurasidone &#x02013; Latuda&#x000ae;</p>
+          <p>
+            <bold>DRUG CLASS</bold>
+          </p>
+          <p>Antipsychotic Agents</p>
+          <p>
+            <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Lurasidone">COMPLETE LABELING</ext-link>
+          </p>
+          <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+        </boxed-text>
+      </sec>
+      <sec id="Lurasidone.CHEMICAL_FORMULAS_AND_STRUCTU">
+        <title>CHEMICAL FORMULAS AND STRUCTURES</title>
+        <table-wrap id="Lurasidone.T1" position="anchor" orientation="portrait">
+          <table>
+            <thead>
+              <tr>
+                <th id="hd_h_Lurasidone.T1_1_1_1_1" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Lurasidone.T1_1_1_1_2" rowspan="1" colspan="1">CAS REGISTRY NUMBER</th>
+                <th id="hd_h_Lurasidone.T1_1_1_1_3" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Lurasidone.T1_1_1_1_4" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Lurasidone.T1_1_1_1_1" rowspan="1" colspan="1">Lurasidone</td>
+                <td headers="hd_h_Lurasidone.T1_1_1_1_2" rowspan="1" colspan="1">
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135187871">367514-87-2</ext-link>
+                </td>
+                <td headers="hd_h_Lurasidone.T1_1_1_1_3" rowspan="1" colspan="1">C28-H36-N4-O2-S</td>
+                <td headers="hd_h_Lurasidone.T1_1_1_1_4" rowspan="1" colspan="1">
+                  <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Lurasidone_Structure.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait">
+                    <alt-text>Lurasidone Chemical Structure</alt-text>
+                  </graphic>
+                </td>
+              </tr>
+              <tr>
+                <td headers="hd_h_Lurasidone.T1_1_1_1_1" rowspan="1" colspan="1">Risperidone</td>
+                <td headers="hd_h_Lurasidone.T1_1_1_1_2" rowspan="1" colspan="1">
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135018248">106266-06-2</ext-link>
+                </td>
+                <td headers="hd_h_Lurasidone.T1_1_1_1_3" rowspan="1" colspan="1">C23-H27-F-N4-O2</td>
+                <td headers="hd_h_Lurasidone.T1_1_1_1_4" rowspan="1" colspan="1">
+                  <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Risperidone_Structure.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait">
+                    <alt-text>Risperidone Chemical Structure</alt-text>
+                  </graphic>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Lurasidone.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 21 May 2019</p>
+        <ref-list id="Lurasidone.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Lurasidone.R1">
+            <mixed-citation publication-type="other">Meyer JM. Pharmacotherapy of psychosis and mania. In, Brunton LL, Hilal-Dandan R, Knollman BC, eds. Goodman &#x00026; Gilman&#x02019;s the pharmacological basis of therapeutics. 13th ed. New York: McGraw-Hill, 2018, pp. 279-302.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Lurasidone.R2">
+            <mixed-citation publication-type="other">Larry D. Hepatotoxicity of psychotropic drugs and drugs of abuse. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 2nd ed. New York: Informa Healthcare USA, 2007, pp. 507-26.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of psychiatric agents does not discuss lurasidone).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Lurasidone.R3">
+            <mixed-citation publication-type="journal">Nakamura M, Ogasa M, Guarino J, Phillips D, Severs J, Cucchiaro J, Loebel A. Lurasidone in the treatment of acute schizophrenia: a double-blind, placebo-controlled trial. J Clin Psychiatry 2009; 70: 829-36. <annotation><p><italic toggle="yes">(Among 180 patients with an acute exacerbation of schizophrenia treated with lurasidone [80 mg daily] or placebo for 6 weeks, adverse events included nausea, vomiting, dyspepsia, constipation, anxiety, restlessness and somnolence, and one patient stopped therapy early because of ALT and AST elevations, but few details given).</italic></p></annotation><pub-id pub-id-type="pmid">19497249</pub-id></mixed-citation>
+          </ref>
+          <ref id="Lurasidone.R4">
+            <mixed-citation publication-type="journal">Parsons B, Allison DB, Loebel A, Williams K, Giller E, Romano S, Siu C. Weight effects associated with antipsychotics: a comprehensive database analysis. Schizophr Res 2009; 110: 103-10. <annotation><p><italic toggle="yes">(Analysis of weight gain in 21 placebo controlled trials [~3300 patients]; average monthly weight gain in pounds was +0.1 with placebo, +0.8 olanzapine, 0.6 risperidone, -0.3 ziprasidone; a 5% increase in weight occurred after one year in 13% of placebo, 39% haloperidol, 20% ziprasidone, 45% risperidone and 60% olanzapine treated subjects).</italic></p></annotation><pub-id pub-id-type="pmid">19321312</pub-id></mixed-citation>
+          </ref>
+          <ref id="Lurasidone.R5">
+            <mixed-citation publication-type="journal">Lurasidone (Latuda) for schizophrenia. Med Lett Drugs Ther 2011; 53: 13-4. <annotation><p><italic toggle="yes">(Brief review of efficacy and safety of lurasidone shortly after its approval in the US; common side effects are restlessness [akathisia], extrapyramidal symptoms, agitation, nausea and somnolence: no mention of ALT elevations or liver injury).</italic></p></annotation><pub-id pub-id-type="pmid">21372761</pub-id></mixed-citation>
+          </ref>
+          <ref id="Lurasidone.R6">
+            <mixed-citation publication-type="journal">Potkin SG, Ogasa M, Cucchiaro J, Loebel A. Double-blind comparison of the safety and efficacy of lurasidone and ziprasidone in clinically stable outpatients with schizophrenia or schizoaffective disorder. Schizophr Res 2011; 132: 101-7. <annotation><p><italic toggle="yes">(Among 301 patients with schizophrenia treated with lurasidone [120 mg once daily] or ziprasidone [80 mg twice daily], there were no on-treatment laboratory abnormalities).</italic></p></annotation><pub-id pub-id-type="pmid">21889878</pub-id></mixed-citation>
+          </ref>
+          <ref id="Lurasidone.R7">
+            <mixed-citation publication-type="journal">Meltzer HY, Cucchiaro J, Silva R, Ogasa M, Phillips D, Xu J, Kalali AH, et al. Lurasidone in the treatment of schizophrenia: a randomized, double-blind, placebo- and olanzapine-controlled study. Am J Psychiatry 2011; 168: 957-67. <annotation><p><italic toggle="yes">(Among 478 patients with acute schizophrenia treated with lurasidone [40 or 120 mg daily] or olanzapine or placebo for 6 weeks, side effects attributed to lurasidone included restlessness, anxiety, agitation, nausea and somnolence; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">21676992</pub-id></mixed-citation>
+          </ref>
+          <ref id="Lurasidone.R8">
+            <mixed-citation publication-type="journal">Citrome L, Cucchiaro J, Sarma K, Phillips D, Silva R, Tsuchiya S, Loebel A. Long-term safety and tolerability of lurasidone in schizophrenia: a 12-month, double-blind, active-controlled study. Int Clin Psychopharmacol 2012; 27: 165-76. <annotation><p><italic toggle="yes">(Among 629 adults with schizophrenia treated with lurasidone [40 to 120 mg daily] or risperidone [2 to 6 mg daily] for 12 months, &#x0201c;there were no clinically significant changes from baseline to month 12 in liver enzymes&#x0201d;).</italic></p></annotation><pub-id pub-id-type="pmid">22395527</pub-id></mixed-citation>
+          </ref>
+          <ref id="Lurasidone.R9">
+            <mixed-citation publication-type="journal">Stahl SM, Cucchiaro J, Simonelli D, Hsu J, Pikalov A, Loebel A. Effectiveness of lurasidone for patients with schizophrenia following 6 weeks of acute treatment with lurasidone, olanzapine, or placebo: a 6-month, open-label, extension study. J Clin Psychiatry 2013; 74: 507-15. <annotation><p><italic toggle="yes">(Among 113 patients enrolled in an open label extension study of lurasidone, the most common adverse events were restlessness, insomnia, somnolence, nausea, headache and weight gain; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">23541189</pub-id></mixed-citation>
+          </ref>
+          <ref id="Lurasidone.R10">
+            <mixed-citation publication-type="journal">Nasrallah HA, Silva R, Phillips D, Cucchiaro J, Hsu J, Xu J, Loebel A. Lurasidone for the treatment of acutely psychotic patients with schizophrenia: a 6-week, randomized, placebo-controlled study. J Psychiatr Res 2013; 47: 670-7. <annotation><p><italic toggle="yes">(Among 496 patients with an acute exacerbation of schizophrenia treated with lurasidone [40, 80 or 120 mg daily] or placebo for 6 weeks, common adverse events were restlessness, headaches, somnolence, nausea, sedation and weight gain; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">23421963</pub-id></mixed-citation>
+          </ref>
+          <ref id="Lurasidone.R11">
+            <mixed-citation publication-type="journal">Loebel A, Cucchiaro J, Sarma K, Xu L, Hsu C, Kalali AH, Pikalov A, Potkin SG. Efficacy and safety of lurasidone 80 mg/day and 160 mg/day in the treatment of schizophrenia: a randomized, double-blind, placebo- and active-controlled trial. Schizophr Res 2013; 145: 101-9. <annotation><p><italic toggle="yes">(Among 486 adults with schizophrenia treated with lurasidone [80 or 160 mg daily] or quetiapine [600 mg daily] or placebo for 6 weeks, symptom scores were improved by both agents compared to placebo, while adverse events with lurasidone included restlessness, nausea, dizziness, somnolence and weight gain, but &#x0201c;no other clinically relevant differences were noted for any other laboratory values&#x0201d; in comparison to the placebo group).</italic></p></annotation><pub-id pub-id-type="pmid">23415311</pub-id></mixed-citation>
+          </ref>
+          <ref id="Lurasidone.R12">
+            <mixed-citation publication-type="journal">Drugs for psychiatric disorders. Treat Guidel Med Lett 2013; 11 (130): 53-64; <annotation><p><italic toggle="yes">(Concise review of safety, efficacy and role of drugs for psychiatric disorders mentions that lurasidone is a second generation antipsychotic agent whose adverse side effects include akathisia, nausea, agitation and somnolence; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">23715100</pub-id></mixed-citation>
+          </ref>
+          <ref id="Lurasidone.R13">
+            <mixed-citation publication-type="journal">Loebel A, Cucchiaro J, Silva R, Kroger H, Hsu J, Sarma K, Sachs G. Lurasidone monotherapy in the treatment of bipolar I depression: a randomized, double-blind, placebo-controlled study. Am J Psychiatry 2014; 171: 160-8. <annotation><p><italic toggle="yes">(Among 505 patients with major depression and bipolar illness treated with lurasidone [20-60 mg or 80-120 mg daily] or placebo for 6 weeks, symptoms of depression improved with lurasidone therapy, while common side effects were nausea, headache, restlessness and somnolence and &#x0201c;there were no notable differences in laboratory measures&#x0201d; between treatment groups).</italic></p></annotation><pub-id pub-id-type="pmid">24170180</pub-id></mixed-citation>
+          </ref>
+          <ref id="Lurasidone.R14">
+            <mixed-citation publication-type="journal">Musil R, Obermeier M, Russ P, Hamerle M. Weight gain and antipsychotics: a drug safety review. Expert Opin Drug Saf 2015; 14: 73-96. <annotation><p><italic toggle="yes">(Extensive systematic review of the literature on the problem of weight gain during therapy with antipsychotic agents mentions that weight gain of 7% or more occurs in 1-14% of patients on lurasidone and averages -1 to +1.3 kg, rates being lower than with most other atypical antipsychotics).</italic></p></annotation><pub-id pub-id-type="pmid">25400109</pub-id></mixed-citation>
+          </ref>
+          <ref id="Lurasidone.R15">
+            <mixed-citation publication-type="journal">Chalasani N, Bonkovsky HL, Fontana R, Lee W, Stolz A, Talwalkar J, Reddy KR, et al.; United States Drug Induced Liver Injury Network. Features and outcomes of 899 patients with drug-induced liver injury: the DILIN prospective study. Gastroenterology 2015; 148: 1340-52. <annotation><p><italic toggle="yes">(Among 899 patients with drug induced liver injury seen over a ten year period at 8 US medical centers, one case was attributed to olanzapine, but none to lurasidone or other antipsychotic medications).</italic></p></annotation><pub-id pub-id-type="pmid">25754159</pub-id></mixed-citation>
+          </ref>
+          <ref id="Lurasidone.R16">
+            <mixed-citation publication-type="journal">Suppes T, Silva R, Cucchiaro J, Mao Y, Targum S, Streicher C, Pikalov A, et al. Lurasidone for the treatment of major depressive disorder with mixed features: A randomized, double-blind, placebo-controlled study. Am J Psychiatry 2015 Nov 10: [Epub ahead of print] <annotation><p><italic toggle="yes">(Among 209 adults with major depressive disorder with mixed features treated with lurasidone [20-60 mg daily] or placebo for 6 weeks, symptoms [including mania] improved more with lurasidone, while common adverse events were nausea [6.4%], somnolence [5.5%] and akathisia [3.7%]; no mention of ALT elevations or hepatotoxicity). </italic></p></annotation><pub-id pub-id-type="pmid">26552942</pub-id></mixed-citation>
+          </ref>
+          <ref id="Lurasidone.R17">
+            <mixed-citation publication-type="journal">Potkin SG, Kimura T, Guarino J. A 6-week, double-blind, placebo- and haloperidol-controlled, phase II study of lurasidone in patients with acute schizophrenia. Ther Adv Psychopharmacol 2015; 5: 322-31. <annotation><p><italic toggle="yes">(Among 138 patients with schizophrenia treated with lurasidone [20, 40 or 80 mg daily] or haloperidol and placebo for 6 weeks, there were no differences in psychosis associated symptoms among the different groups and side effects of lurasidone included sedation, dyspnea, nausea and akathesia; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">26834965</pub-id></mixed-citation>
+          </ref>
+          <ref id="Lurasidone.R18">
+            <mixed-citation publication-type="journal">Correll CU, Cucchiaro J, Silva R, Hsu J, Pikalov A, Loebel A. Long-term safety and effectiveness of lurasidone in schizophrenia: a 22-month, open-label extension study. CNS Spectr 2016; 21: 393-402. <annotation><p><italic toggle="yes">(Among 251 patients with schizophrenia rolled over into an open-label trial of lurasidone [40 to 120 mg daily] for 6-24 months, there "was no evidence for hepatic toxicity" but were minor changes in ALT and AST levels and 4 subjects [1.7%] "had a markedly abnormal ALT" although none required discontinuation and all except one resolved).</italic></p></annotation><pub-id pub-id-type="pmid">27048911</pub-id></mixed-citation>
+          </ref>
+          <ref id="Lurasidone.R19">
+            <mixed-citation publication-type="journal">Drugs for psychotic disorders. Med Lett Drugs Ther 2016; 58 (1510): 160-4. <annotation><p><italic toggle="yes"> (Concise review of medications available for therapy of psychotic disorders; mentions that olanzapine and ziprasidone can cause DRESS syndrome, but does not mention ALT elevations or hepatotoxicity for any of the agents discussed including lurasidone).</italic></p></annotation><pub-id pub-id-type="pmid">27960194</pub-id></mixed-citation>
+          </ref>
+          <ref id="Lurasidone.R20">
+            <mixed-citation publication-type="journal">DelBello MP, Goldman R, Phillips D, Deng L, Cucchiaro J, Loebel A. Efficacy and Safety of Lurasidone in children and adolescents with bipolar I depression: a double-bBlind, placebo-controlled study. J Am Acad Child Adolesc Psychiatry 2017; 56: 1015-25. <annotation><p><italic toggle="yes">(Among 347 children and adolescents with bipolar depression ages 10 to 17 treated with lurasidone or palacebo for 6 weeks, depression symptom scores improved more with lurasidone and adverse events included nausea [16% vs 6%], somnolence [11% vs 6%], weight gain [7% vs 2%] and insomnia [5% vs 2%]; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">29173735</pub-id></mixed-citation>
+          </ref>
+          <ref id="Lurasidone.R21">
+            <mixed-citation publication-type="journal">Goldman R, Loebel A, Cucchiaro J, Deng L, Findling RL. Efficacy and Safety of lurasidone in adolescents with schizophrenia: a 6-week, randomized placebo-controlled study. J Child Adolesc Psychopharmacol 2017; 27: 516-25. <annotation><p><italic toggle="yes">(Among 326 adolescents with schizophrenia treated with lurasidone [40 or 80 mg daily] or placebo for 6 weeks, improvements in symptom scores were greater with lurasidone as were side effects of nausea, akathisia, somnolence and extrapyramidal events; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">28475373</pub-id></mixed-citation>
+          </ref>
+          <ref id="Lurasidone.R22">
+            <mixed-citation publication-type="journal">Pikalov A, Tsai J, Mao Y, Silva R, Cucchiaro J, Loebel A. Long-term use of lurasidone in patients with bipolar disorder: safety and effectiveness over 2 years of treatment. Int J Bipolar Disord 2017; 5: 9. <annotation><p><italic toggle="yes">(Among 122 patients with bipolar disorder enrolled in short term controlled trials who were rolled over into an 18 month extension study of lurasidone [mean dose 62 mg daily], adverse events were reported in 43% of patients, including 3% with liver test abnormalities and 1 subject who discontinued therapy early for that reason).</italic></p></annotation><pub-id pub-id-type="pmid">28168632</pub-id></mixed-citation>
+          </ref>
+          <ref id="Lurasidone.R23">
+            <mixed-citation publication-type="journal">Higuchi T, Iyo M, Kwon JS, Chou YH, Chen HK, Chen JY, Chen TT, et al. Randomized, double-blind, placebo, and risperidone-controlled study of lurasidone in the treatment of schizophrenia: results of an inconclusive 6-week trial. Asia Pac Psychiatry 2019: e12354. [Epub ahead of print] <annotation><p><italic toggle="yes">(Among 460 hospitalized Asian patients with schizophrenia treated with lursidone [40 or 80 mg], risperidone [4 mg] or placebo once daily for 6 weeks, improvement in scores for psychosis symptoms was similar in all 4 groups while adverse event rates were greater with active treatment; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">30912222</pub-id></mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec id="Lurasidone.OTHER_REFERENCE_LINKS" sec-type="link-group">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=(Lurasidone/AE)+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D%3A%222999/12/31%22%5BEDat%5D)">Recent References on Lurasidone: from PubMed.gov</ext-link>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Lurasidone">Trials on Lurasidone: from ClinicalTrials.gov</ext-link>
+            </p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

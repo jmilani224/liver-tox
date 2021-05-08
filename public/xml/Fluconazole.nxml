@@ -1,0 +1,430 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Fluconazole" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Fluconazole</book-part-id>
+      <title-group>
+        <title>Fluconazole</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>21</day>
+          <month>5</month>
+          <year>2017</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Floxuridine" document-type="chapter">Floxuridine</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Flucytosine" document-type="chapter">Flucytosine</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Fluconazole.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Fluconazole.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Fluconazole is a triazole fungistatic agent used in the treatment of systemic and superficial fungal infections. Fluconazole therapy can cause transient mild-to-moderate serum aminotransferase elevations and is a known cause of clinically apparent acute drug induced liver injury.</p>
+        </sec>
+        <sec id="Fluconazole.Background">
+          <title>Background</title>
+          <p>Fluconazole (floo kon' a zole) is a fungicidal agent which inhibits lanasterol-14-&#x003b1;-demethylase, the enzyme responsible for ergosterol synthesis. As a consequence, fluconazole causes an increase in abnormal intracellular sterols, inhibiting the fungal cell&#x02019;s ability to replicate. Fluconazole was approved for use in the United States in 1990 and currently more than 12 million prescriptions are written for it yearly. Current indications include treatment of fungal infections due to candida and cryptococcus. Fluconazole is available in multiple generic forms and under the brand name Diflucan in tablets of 50, 100, 150 and 200 mg, as well as in oral suspensions and parenteral formulations. The usual recommended dose is 100 to 400 mg daily, depending upon the type and severity of the infection. Common side effects include nausea, vomiting, and headache.</p>
+        </sec>
+        <sec id="Fluconazole.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>Transient mild-to-moderate elevations in serum aminotransferase levels occur in up to 5% of patients treated with fluconazole, but these abnormalities are usually asymptomatic and resolve even with continuation of the medication. ALT elevations above 8 times the upper limit of normal are reported to occur in 1% of patients taking fluconazole and to represent the most common adverse event leading to early discontinuation of treatment. Clinically apparent hepatotoxicity due to fluconazole is rare, but well described. The liver injury is typically hepatocellular, arises within the first few weeks of therapy and can be accompanied by signs of hypersensitivity such as fever, rash and eosinophilia. Fatal instances of fluconazole induced liver injury have been reported (Case 1), but most cases are self-limited, although recovery may be delayed for several weeks after stopping fluconazole and may be slow requiring 2 to 3 months.</p>
+          <p>Likelihood score: B (likely cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Fluconazole.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The cause of clinically apparent hepatotoxicity from fluconazole is unknown; however, it may relate to the ability of fluconazole to alter sterol synthesis. Fluconazole is a potent inhibitor of the cytochrome P450 enzyme CYP 3A4, and can lead to significant increases in plasma levels and serious toxicity from medications that are ordinarily metabolized by CYP3A4, particularly the statins and cyclosporine.</p>
+        </sec>
+        <sec id="Fluconazole.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>The severity of liver injury from fluconazole ranges from mild and transient enzyme elevations to clinically apparent hepatitis to acute liver failure and death. Most patients recover with stopping fluconazole, but resolution may be slow requiring 3 to 4 months. Rechallenge may lead to recurrence and should be avoided. There is little information on cross reactivity of hepatic injury between fluconazole and other antifungal azoles, such as ketoconazole, itraconazole, voriconazole and posaconazole, but a few reports suggest that there is little cross reactivity. Nevertheless, other antifungal azoles should be started with caution in patients who have suffered clinically apparent hepatotoxicity attributed to fluconazole.</p>
+          <p>Drug Class: <related-object source-id="livertox" document-id="AntifungalAgents">Antifungal Agents</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Fluconazole.CASE_REPORT">
+        <title>CASE REPORT</title>
+        <sec id="Fluconazole.Case_1._Fluconazole_induced_">
+          <title>Case 1. Fluconazole induced acute liver failure.</title>
+          <p>[Modified from: Jacobson MA, Hanks DK, Ferrell LD. Fatal acute hepatic necrosis due to fluconazole. Am J Med 1994; 96: 188-90. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/pubmed/7677802">PubMed Citation</ext-link>]</p>
+          <p>A 32 year old man with HIV infection, Kaposi's sarcoma and cryptococcal meningitis received a two week course of amphotericin B, followed by oral fluconazole (400 mg daily). Liver tests were monitored and were normal when fluconazole was started. One week later, serum ALT levels had risen, but the patient was asymptomatic. After 21 days of fluconazole therapy, however, he presented with progressive weakness, nausea, jaundice and low grade fever. Both serum bilirubin and ALT levels had risen markedly (Table) and prothrombin time was prolonged at 22.3 seconds. He was admitted for management. He was somnolent and icteric. Tests for hepatitis A and B were negative. His other medications included aerosolized pentamidine, prochlorperazine (for nausea), acetaminophen with codeine (for pain), acetazolamide and cimetidine. He was not receiving antiretroviral therapy. Acetaminophen level was 4 mg/L, which was considered a nontoxic level. Despite supportive therapy, he became progressively more unresponsible and died 4 days later in hepatic failure, 25 days after starting fluconazole. Autopsy showed massive necrosis without viral inclusion bodies or steatosis.</p>
+          <sec id="Fluconazole.Key_Points">
+            <title>Key Points</title>
+            <table-wrap id="Fluconazole.T1" position="anchor" orientation="portrait">
+              <table>
+                <thead>
+                  <tr>
+                    <th id="hd_h_Fluconazole.T1_1_1_1_1" rowspan="1" colspan="1">Medication:</th>
+                    <td rowspan="1" colspan="1">Fluconazole (400 mg daily)</td>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <th headers="hd_h_Fluconazole.T1_1_1_1_1" id="hd_b_Fluconazole.T1_1_1_1_1" rowspan="1" colspan="1">Pattern:</th>
+                    <td headers="hd_b_Fluconazole.T1_1_1_1_1" rowspan="1" colspan="1">Hepatocellular (R=24)</td>
+                  </tr>
+                  <tr>
+                    <th headers="hd_h_Fluconazole.T1_1_1_1_1" id="hd_b_Fluconazole.T1_1_1_2_1" rowspan="1" colspan="1">Severity:</th>
+                    <td headers="hd_b_Fluconazole.T1_1_1_2_1" rowspan="1" colspan="1">5+ (acute liver failure and death)</td>
+                  </tr>
+                  <tr>
+                    <th headers="hd_h_Fluconazole.T1_1_1_1_1" id="hd_b_Fluconazole.T1_1_1_3_1" rowspan="1" colspan="1">Latency:</th>
+                    <td headers="hd_b_Fluconazole.T1_1_1_3_1" rowspan="1" colspan="1">3 weeks</td>
+                  </tr>
+                  <tr>
+                    <th headers="hd_h_Fluconazole.T1_1_1_1_1" id="hd_b_Fluconazole.T1_1_1_4_1" rowspan="1" colspan="1">Recovery:</th>
+                    <td headers="hd_b_Fluconazole.T1_1_1_4_1" rowspan="1" colspan="1">None</td>
+                  </tr>
+                  <tr>
+                    <th headers="hd_h_Fluconazole.T1_1_1_1_1" id="hd_b_Fluconazole.T1_1_1_5_1" rowspan="1" colspan="1">Other medications:</th>
+                    <td headers="hd_b_Fluconazole.T1_1_1_5_1" rowspan="1" colspan="1">Pentamidine, prochlorperazine, acetazolamide, cimetidine, acetaminophen and codeine</td>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Fluconazole.Laboratory_Values">
+            <title>Laboratory Values</title>
+            <table-wrap id="Fluconazole.T2" position="anchor" orientation="portrait">
+              <table>
+                <thead>
+                  <tr>
+                    <th id="hd_h_Fluconazole.T2_1_1_1_1" rowspan="1" colspan="1">Time After Starting</th>
+                    <th id="hd_h_Fluconazole.T2_1_1_1_2" rowspan="1" colspan="1">Time After Stopping</th>
+                    <th id="hd_h_Fluconazole.T2_1_1_1_3" rowspan="1" colspan="1">ALT (U/L)</th>
+                    <th id="hd_h_Fluconazole.T2_1_1_1_4" rowspan="1" colspan="1">Alk P (U/L)</th>
+                    <th id="hd_h_Fluconazole.T2_1_1_1_5" rowspan="1" colspan="1">Bilirubin (mg/dL)</th>
+                    <th id="hd_h_Fluconazole.T2_1_1_1_6" rowspan="1" colspan="1">Other</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td headers="hd_h_Fluconazole.T2_1_1_1_1" rowspan="1" colspan="1">0</td>
+                    <td headers="hd_h_Fluconazole.T2_1_1_1_2" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Fluconazole.T2_1_1_1_3" rowspan="1" colspan="1">70</td>
+                    <td headers="hd_h_Fluconazole.T2_1_1_1_4" rowspan="1" colspan="1">98</td>
+                    <td headers="hd_h_Fluconazole.T2_1_1_1_5" rowspan="1" colspan="1">1.0</td>
+                    <td headers="hd_h_Fluconazole.T2_1_1_1_6" rowspan="1" colspan="1">Fluconazole started</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Fluconazole.T2_1_1_1_1" rowspan="1" colspan="1">5 days</td>
+                    <td headers="hd_h_Fluconazole.T2_1_1_1_2" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Fluconazole.T2_1_1_1_3" rowspan="1" colspan="1">173</td>
+                    <td headers="hd_h_Fluconazole.T2_1_1_1_4" rowspan="1" colspan="1">101</td>
+                    <td headers="hd_h_Fluconazole.T2_1_1_1_5" rowspan="1" colspan="1">0.8</td>
+                    <td headers="hd_h_Fluconazole.T2_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Fluconazole.T2_1_1_1_1" rowspan="1" colspan="1">18 days</td>
+                    <td headers="hd_h_Fluconazole.T2_1_1_1_2" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Fluconazole.T2_1_1_1_3" rowspan="1" colspan="1">1550</td>
+                    <td headers="hd_h_Fluconazole.T2_1_1_1_4" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Fluconazole.T2_1_1_1_5" rowspan="1" colspan="1">19.0</td>
+                    <td headers="hd_h_Fluconazole.T2_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Fluconazole.T2_1_1_1_1" rowspan="1" colspan="1">21 days</td>
+                    <td headers="hd_h_Fluconazole.T2_1_1_1_2" rowspan="1" colspan="1">1 day</td>
+                    <td headers="hd_h_Fluconazole.T2_1_1_1_3" rowspan="1" colspan="1">1825</td>
+                    <td headers="hd_h_Fluconazole.T2_1_1_1_4" rowspan="1" colspan="1">247</td>
+                    <td headers="hd_h_Fluconazole.T2_1_1_1_5" rowspan="1" colspan="1">13.4</td>
+                    <td headers="hd_h_Fluconazole.T2_1_1_1_6" rowspan="1" colspan="1">Fluconazole stopped</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Fluconazole.T2_1_1_1_1" rowspan="1" colspan="1">22 days</td>
+                    <td headers="hd_h_Fluconazole.T2_1_1_1_2" rowspan="1" colspan="1">2 days</td>
+                    <td headers="hd_h_Fluconazole.T2_1_1_1_3" rowspan="1" colspan="1">1605</td>
+                    <td headers="hd_h_Fluconazole.T2_1_1_1_4" rowspan="1" colspan="1">222</td>
+                    <td headers="hd_h_Fluconazole.T2_1_1_1_5" rowspan="1" colspan="1">19.0</td>
+                    <td headers="hd_h_Fluconazole.T2_1_1_1_6" rowspan="1" colspan="1">Protime 28 sec</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Fluconazole.T2_1_1_1_1" rowspan="1" colspan="1">23 days</td>
+                    <td headers="hd_h_Fluconazole.T2_1_1_1_2" rowspan="1" colspan="1">3 days</td>
+                    <td headers="hd_h_Fluconazole.T2_1_1_1_3" rowspan="1" colspan="1">1105</td>
+                    <td headers="hd_h_Fluconazole.T2_1_1_1_4" rowspan="1" colspan="1">190</td>
+                    <td headers="hd_h_Fluconazole.T2_1_1_1_5" rowspan="1" colspan="1">23.5</td>
+                    <td headers="hd_h_Fluconazole.T2_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Fluconazole.T2_1_1_1_1" rowspan="1" colspan="1">24 days</td>
+                    <td headers="hd_h_Fluconazole.T2_1_1_1_2" rowspan="1" colspan="1">4 days</td>
+                    <td headers="hd_h_Fluconazole.T2_1_1_1_3" rowspan="1" colspan="1">780</td>
+                    <td headers="hd_h_Fluconazole.T2_1_1_1_4" rowspan="1" colspan="1">210</td>
+                    <td headers="hd_h_Fluconazole.T2_1_1_1_5" rowspan="1" colspan="1">28.6</td>
+                    <td headers="hd_h_Fluconazole.T2_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Fluconazole.T2_1_1_1_1 hd_h_Fluconazole.T2_1_1_1_2 hd_h_Fluconazole.T2_1_1_1_3 hd_h_Fluconazole.T2_1_1_1_4 hd_h_Fluconazole.T2_1_1_1_5 hd_h_Fluconazole.T2_1_1_1_6" colspan="6" rowspan="1">Died of fulminant hepatic failure 25 days after starting fluconzole</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Fluconazole.T2_1_1_1_1 hd_h_Fluconazole.T2_1_1_1_2" colspan="2" rowspan="1">
+                      <bold>Normal Values</bold>
+                    </td>
+                    <td headers="hd_h_Fluconazole.T2_1_1_1_3" rowspan="1" colspan="1">
+                      <bold>&#x0003c;40</bold>
+                    </td>
+                    <td headers="hd_h_Fluconazole.T2_1_1_1_4" rowspan="1" colspan="1">
+                      <bold>&#x0003c;130</bold>
+                    </td>
+                    <td headers="hd_h_Fluconazole.T2_1_1_1_5" rowspan="1" colspan="1">
+                      <bold>&#x0003c;1.2</bold>
+                    </td>
+                    <td headers="hd_h_Fluconazole.T2_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Fluconazole.Comment">
+            <title>Comment</title>
+            <p>A dramatic example of an acute hepatitis-like syndrome arising within 2 to 3 weeks of starting fluconazole, with rapid progression to acute liver failure and death.</p>
+          </sec>
+        </sec>
+      </sec>
+      <sec id="Fluconazole.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <boxed-text position="anchor" id="Fluconazole.BPI" orientation="portrait">
+          <p>
+            <bold>REPRESENTATIVE TRADE NAMES</bold>
+          </p>
+          <p>Fluconazole &#x02013; Generic, Diflucan&#x000ae;</p>
+          <p>
+            <bold>DRUG CLASS</bold>
+          </p>
+          <p>Antifungal Agents</p>
+          <p>
+            <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=fluconazole">COMPLETE LABELING</ext-link>
+          </p>
+          <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+        </boxed-text>
+      </sec>
+      <sec id="Fluconazole.CHEMICAL_FORMULA_AND_STRUCTU">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Fluconazole.T3" position="anchor" orientation="portrait">
+          <table>
+            <thead>
+              <tr>
+                <th id="hd_h_Fluconazole.T3_1_1_1_1" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Fluconazole.T3_1_1_1_2" rowspan="1" colspan="1">CAS REGISTRY NUMBER</th>
+                <th id="hd_h_Fluconazole.T3_1_1_1_3" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Fluconazole.T3_1_1_1_4" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Fluconazole.T3_1_1_1_1" rowspan="1" colspan="1">Fluconazole</td>
+                <td headers="hd_h_Fluconazole.T3_1_1_1_2" rowspan="1" colspan="1">
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135014223">86386-73-4</ext-link>
+                </td>
+                <td headers="hd_h_Fluconazole.T3_1_1_1_3" rowspan="1" colspan="1">C13-H12-F2-N6-O</td>
+                <td headers="hd_h_Fluconazole.T3_1_1_1_4" rowspan="1" colspan="1">
+                  <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="fluconazole.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait">
+                    <alt-text>Fluconazole chemical structure</alt-text>
+                  </graphic>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Fluconazole.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 21 May 2017</p>
+        <ref-list id="Fluconazole.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Fluconazole.R1">
+            <mixed-citation publication-type="other">Zimmerman HJ. Antifungal agents. Hormonal derivatives and related drugs. In, Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999, pp. 609-11.<annotation><p><italic toggle="yes">(Expert review of hepatotoxicity of antifungal agents published in 1999 mentions that fluconazole has been implicated in cases of hepatic injury with jaundice).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Fluconazole.R2">
+            <mixed-citation publication-type="other">Moseley RH. Antifungal agents. Antibacterial and antifungal agents. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013, pp. 470-81. <italic toggle="yes">(Review of hepatotoxicity of antifungal agents</italic><annotation><p><italic toggle="yes">; mentions that asymptomatic elevations in liver enzymes occur in less than 7% of patients treated with fluconazole, but the rate may be higher in patients with HIV infection, and that at least 3 deaths from acute hepatocellular injury have been described).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Fluconazole.R3">
+            <mixed-citation publication-type="other">Bennett JE. Antimicrobial agents: antifungal agents. In, Brunton LL, Chabner BA, Knollman BC, eds. Goodman &#x00026; Gilman&#x02019;s the pharmacological basis of therapeutics. 12th ed. New York: McGraw-Hill, 2011, pp. 1571-92.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics; a fluorinated bistriazole, fluconazole is used for candidiasis and cryptococcosis; it is an inhibitor of CYP 3A4 and CYP 2C9 and may increase plasma levels of several drugs).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Fluconazole.R4">
+            <mixed-citation publication-type="journal">Stern JJ, Hartman BJ, Sharkey P, Rowland V, Squires KE, Murray HW, Graybill JR. Oral fluconazole therapy for patients with acquired immunodeficiency syndrome and cryptococcosis: experience with 22 patients. Am J Med 1988; 85: 477-80. <annotation><p><italic toggle="yes">(Open label study of fluconazole for 8-64 weeks in 22 patients with AIDS and cryptococcal infection; serum aminotransferase levels became abnormal in four patients [19%]).</italic></p></annotation><pub-id pub-id-type="pmid">2845778</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fluconazole.R5">
+            <mixed-citation publication-type="journal">De Wit S, Weerts D, Goossens H, Clumeck N. Comparison of fluconazole and ketoconazole for oropharyngeal candidiasis. Lancet 1989; 1: 746-50. <annotation><p><italic toggle="yes">(Randomized trial of fluconazole vs ketoconazole in 37 patients with HIV infection and oropharyngeal candidiasis; ALT or AST elevations occurred in 1 of 18 [6%] on fluconazole vs 4 of 19 [21%] on ketoconazole; fluconazole was also more effective).</italic></p></annotation><pub-id pub-id-type="pmid">2564563</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fluconazole.R6">
+            <mixed-citation publication-type="journal">Van Cauteren H, Lampo A, Vandenberghe J, Vanparys P, Coussement W, De Coster R, Marsboom R. Toxicological profile and safety evaluation of antifungal azole derivatives. Mycoses 1989; 32 Suppl 1: 60-6. <annotation><p><italic toggle="yes">(Review of toxicity of antifungal azoles from Janssen Research Foundation; itraconazole has less drug-drug interaction and effect on P450 activity in animal models than ketoconazole or fluconazole).</italic></p></annotation><pub-id pub-id-type="pmid">2561186</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fluconazole.R7">
+            <mixed-citation publication-type="journal">Franklin IM, Elias E, Hirsch C. Fluconazole-induced jaundice. Lancet 1989; 336: 565. <annotation><p><italic toggle="yes">(41 year old man with hemophilia and HIV infection developed jaundice 2 months after starting fluconazole [also on zidovudine, trimethoprim and nystatin] with bilirubin 11.5 mg/dL, AST 950 U/L, Alk P 410 U/L, resolving slowly upon stopping).</italic></p></annotation><pub-id pub-id-type="pmid">1975057</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fluconazole.R8">
+            <mixed-citation publication-type="journal">Samonis G, Rolston K, Karl C, Miller P, Bodey GP. Prophylaxis of oropharyngeal candidiasis with fluconazole. Rev Infect Dis 1990; 12 Suppl 3: S369-73. <annotation><p><italic toggle="yes">(Controlled trial of 4 weeks of fluconazole vs placebo as antifungal prophylaxis in 112 cancer patients showed that fluconazole was effective in preventing thrush; ALT elevations [108, 114 and 141 U/L] with symptoms or jaundice occurring in 3 of 58 patients on fluconazole [5%], which led to discontinuation in 2).</italic></p></annotation><pub-id pub-id-type="pmid">2184514</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fluconazole.R9">
+            <mixed-citation publication-type="journal">Mu&#x000f1;oz P, Moreno S, Garau X, Lopez Bernaldo de Quiros JC, Berenguer J, More J, Bouza E. [Multicenter study of fluconazole in the treatment of oropharyngeal candidiasis in immunodepressed patients]. Enferm Infecc Microbiol Clin 1990; 8: 560-4. <annotation><p><italic toggle="yes">(Among 27 patients with oropharyngeal candidiasis treated with fluconazole for 1-4 weeks, 3 [11%] developed asymptomatic elevations in serum enzymes after 7 days [ALT 495 and 293 U/L and Alk P 620 and 941 U/L] and 14 days [105 U/L, Alk P 1234 U/L], which resolved within 1-2 weeks of stopping in 2 patients; the other dying 5 days later of disseminated mycobacterium avium).</italic></p></annotation><pub-id pub-id-type="pmid">2099857</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fluconazole.R10">
+            <mixed-citation publication-type="journal">Mu&#x000f1;oz P, Moreno S, Berenguer J, Bernaldo de Quir&#x000f3;s JC, Bouza E. Fluconazole-related hepatotoxicity in patients with acquired immunodeficiency syndrome. Arch Intern Med 1991; 151: 1020-1. <annotation><p><italic toggle="yes">(Among 27 immunosuppressed patients given fluconazole for oral-esophageal candidiasis, 3 developed hepatotoxicity; 2 had asymptomatic rises in ALT levels [27&#x02192;173; 30&#x02192;293] within 2 weeks of starting and resolution within within 2 weeks of stopping fluconazole; third patient developed jaundice by day 10 [bilirubin 12 mg/dL, ALT 495 U/L, Alk P 923 U/L] and died 5 days later).</italic></p></annotation><pub-id pub-id-type="pmid">2025128</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fluconazole.R11">
+            <mixed-citation publication-type="journal">Lee JW, Seibel NL, Amantea M, Whitcomb P, Pizzo PA, Walsh TJ. Safety and pharmacokinetics of fluconazole in children with neoplastic diseases. J Pediatr 1992; 120: 987-93. <annotation><p><italic toggle="yes">(26 children with cancer received intravenous fluconazole for fungal prophylaxis for 7 days, 3 developed ALT elevations of 369 to 687 U/L, falling rapidly to normal upon stopping infusions--no symptoms or jaundice).</italic></p></annotation><pub-id pub-id-type="pmid">1593362</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fluconazole.R12">
+            <mixed-citation publication-type="journal">Wells C, Lever AM. Dose-dependent fluconazole hepatotoxicity proven on biopsy and rechallenge. J Infect 1992; 24: 111-2. <annotation><p><italic toggle="yes">(46 year old man with HIV infection who received multiple courses of fluconazole, developing serum enzyme elevations when dose was increased to 200 mg daily [bilirubin not mentioned, ALT 100-500 U/L, Alk P 300-500 U/L]).</italic></p></annotation><pub-id pub-id-type="pmid">1548414</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fluconazole.R13">
+            <mixed-citation publication-type="journal">Hay RJ. Risk/benefit ratio of modern antifungal therapy: focus on hepatic reactions. J Am Acad Dermatol 1993; 29: S50-4. <annotation><p><italic toggle="yes">(Review article on hepatotoxicity of antifungal agents, griseofulvin, ketoconazole, fluconazole, itraconazole and terbinafine; does not recommend routine monitoring, but stresses need to discontinue agent for hepatic injury with symptoms).</italic></p></annotation><pub-id pub-id-type="pmid">8315062</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fluconazole.R14">
+            <mixed-citation publication-type="journal">Pons V, Greenspan D, Debruin M. Therapy for oropharyngeal candidiasis in HIV-infected patients: a randomized, prospective multicenter study of oral fluconazole versus clotrimazole troches. The Multicenter Study Group. J Acquir Immune Defic Syndr 1993; 6: 1311-6. <annotation><p><italic toggle="yes">(Trial of 14 days of fluconazole vs clotrimazole in 334 HIV infected patients with oropharyngeal candidiasis; 2 patients on fluconazole, but none of clotrimazole were withdrawn for serum ALT elevations).</italic></p></annotation><pub-id pub-id-type="pmid">8254467</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fluconazole.R15">
+            <mixed-citation publication-type="journal">Gearhart M. Worsening of liver function with fluconazole and review of azole antifungal hepatotoxicity. Ann Pharmacother 1994; 28: 1177-81. <annotation><p><italic toggle="yes">(50 year old woman with probable chronic hepatitis C and cirrhosis had acute worsening within a few days of starting fluconazole [bilirubin 1.6 rising to 6.6 mg/dL, AST from 66 to 1556 U/L, protime from 19.2 to 29.8 sec], improving when fluconazole was stopped).</italic></p></annotation><pub-id pub-id-type="pmid">7841574</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fluconazole.R16">
+            <mixed-citation publication-type="journal">Trujillo MA, Galgiani JN, Sampliner RE. Evaluation of hepatic injury arising during fluconazole therapy. Arch Intern Med 1994; 154: 102-4. <annotation><p><italic toggle="yes">(Two patients developed elevated liver tests 3 and 4 weeks after starting fluconazole, but were able to continue therapy when liver biopsy showed no evidence of hepatocyte necrosis and abnormalities ultimately resolved).</italic></p></annotation><pub-id pub-id-type="pmid">8267481</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fluconazole.R17">
+            <mixed-citation publication-type="journal">Jacobson MA, Hanks DK, Ferrell LD. Fatal acute hepatic necrosis due to fluconazole. Am J Med 1994; 96: 188-90. <annotation><p><italic toggle="yes">(32 year old man with HIV and cryptococcal meningitis developed jaundice 3 weeks after starting fluconazole with bilirubin 13.4 mg/dL, ALT 1825 U/L and Alk P 247 U/L, and protime 22.3 sec with worsening stupor, coma and hepatic failure dying 4 days later: Case 1).</italic></p></annotation><pub-id pub-id-type="pmid">7677802</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fluconazole.R18">
+            <mixed-citation publication-type="journal">Flynn PM, Cunningham CK, Kerkering T, San Jorge AR, Peters VB, Pitel PA, Harris J, et al. Oropharyngeal candidiasis in immunocompromised children: a randomized, multicenter study of orally administered fluconazole suspension versus nystatin. The Multicenter Fluconazole Study Group. J Pediatr 1995; 127: 322-8. <annotation><p><italic toggle="yes">(Controlled trial of 14 days of fluconazole vs nystatin in 182 children with oropharyngeal candidiasis; liver test abnormalities occurred in 8% on nystatin vs 7% on fluconazole; no early discontinuations because of abnormalities).</italic></p></annotation><pub-id pub-id-type="pmid">7636666</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fluconazole.R19">
+            <mixed-citation publication-type="journal">Guillaume MP, De Prez C, Cogan E. Subacute mitochondrial liver disease in a patient with AIDS: possible relationship to prolonged fluconazole administration. Am J Gastroenterol 1996; 91: 165-8. <annotation><p><italic toggle="yes">(28 year old woman with HIV infection developed rising Alk P [to 2018 U/L] without jaundice on long term fluconazole therapy, improving with stopping therapy and recurring on restarting).</italic></p></annotation><pub-id pub-id-type="pmid">8561126</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fluconazole.R20">
+            <mixed-citation publication-type="journal">Bronstein JA, Gros P, Hernandez E, Larroque P, Molini&#x000e9; C. Fatal acute hepatic necrosis due to dose-dependent fluconazole hepatotoxicity. Clin Infect Dis 1997; 25: 1266-7. <annotation><p><italic toggle="yes">(85 year old man developed severe hepatitis 11 days after starting fluconazole [bilirubin 1.6 rising to 6.3 mg/dL, ALT 3540 U/L, Alk P 213 U/L], progressing to hepatic failure and death; autopsy showed centrolobular necrosis).</italic></p></annotation><pub-id pub-id-type="pmid">9402409</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fluconazole.R21">
+            <mixed-citation publication-type="journal">Stevens DA, Diaz M, Negroni R, Montero-Gei F, Castro LGM, Sampaio SAP, Borelli D, et al. and Fluconazole Pan-American Study Group. Safety evaluation of chronic fluconazole therapy. Chemotherapy 1997; 43: 371-7. <annotation><p><italic toggle="yes">(Among 93 patients treated with fluconazole for up to several years, ALT elevations occurred in 2 and AST in 9 patients, none symptomatic or requiring discontinuation).</italic></p></annotation><pub-id pub-id-type="pmid">9309372</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fluconazole.R22">
+            <mixed-citation publication-type="other">Lawson CA, Karlowsky JA, Zhanel GG. Fluconazole-induced hepatotoxicity: review of published case reports. Can J Hosp Pharm 1998; 51: 61-3. Not in PubMed</mixed-citation>
+          </ref>
+          <ref id="Fluconazole.R23">
+            <mixed-citation publication-type="journal">Garc&#x000ed;a Rodriguez L, Duque A, Castellsague J, P&#x000e9;rez-Gutthann S, Stricker B. A cohort study on the risk of acute liver injury among users of ketoconazole and other antifungal drugs. Br J Clin Pharmacol 1999; 48: 847-52. <annotation><p><italic toggle="yes">(Population based study identified 5 cases of acute liver injury during antifungal therapy in 69,830 patients; relative risk for ketoconazole was 228 [~2:1,000 patients], itraconazole 17.7 [~1:10,000] and terbinafine 4.2 [~.2:10,000]; no cases among 35,833 recipients [29,701 patient-months] of fluconazole).</italic></p></annotation><pub-id pub-id-type="pmid">10594489</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fluconazole.R24">
+            <mixed-citation publication-type="journal">Bradbury BD, Jick SS. Itraconazole and fluconazole and certain rare, serious adverse events. Pharmacotherapy 2002; 22: 697-700. <annotation><p><italic toggle="yes">(Among 16,001 users of itraconazole and 34,220 users of fluconazole in UK general practice database, only two cases of liver injury were identified, both were anicteric and self-limited; &#x0201c;Itraconazole and fluconazole do not commonly cause rare, serious adverse events affecting the liver...&#x0201d;).</italic></p></annotation><pub-id pub-id-type="pmid">12066960</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fluconazole.R25">
+            <mixed-citation publication-type="journal">De Bellis P, Bonfiglio M, Gerbi G, Bacigalup P, Buscaglia G, Guido P, Massobrio B. High-dose fluconazole therapy in Intensive Care Unit. Minerva Anestesiol 2003; 69: 145-52, 153-7. <annotation><p><italic toggle="yes">(Open label study of 1- to 2-week courses of fluconazole [800 mg/day] in 378 ICU patients with candida colonization in urine; serum ALT or AST elevations occurred in 10%, but were transient in all cases and there were no cases of clinically apparent hepatitis).</italic></p></annotation><pub-id pub-id-type="pmid">12792583</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fluconazole.R26">
+            <mixed-citation publication-type="journal">Sch&#x000f6;ttker B, D&#x000f6;sch A, Kraemer D. Severe hepatotoxicity after application of desloratadine and fluconazole. Acta Haematol 2003; 110: 43-44. <annotation><p><italic toggle="yes">(38 year old woman with lymphoma and bone marrow transplant developed acute serum enzyme elevations 2 days after starting intravenous fluconazole and while on meropenem, desloratadine, allopurinol, ranitidine, larcepam, clemastine and spironolactone [bilirubin 1.2 mg/dL, ALT 871 U/L, Alk P 290 U/L, LDH 5010 U/L], with recovery within 8 days of stopping, resembling ischemic injury more than hepatitis).</italic></p></annotation><pub-id pub-id-type="pmid">12975558</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fluconazole.R27">
+            <mixed-citation publication-type="journal">Kim H, Bindslev-Jensen C. Reported case of severe hepatotoxicity likely due to fluconazole and not desloratadine. Acta Haematol 2004; 112: 177-8. <annotation><p><italic toggle="yes">(Letter concerning report by Schottker et al. [2003] arguing that the cause of the injury was fluconazole and not desloratadine, based upon timing and literature).</italic></p></annotation><pub-id pub-id-type="pmid">15345904</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fluconazole.R28">
+            <mixed-citation publication-type="journal">Su FW, Perumalswami P, Grammer LC. Acute hepatitis and rash to fluconazole. Allergy 2003; 58: 1215-6. <annotation><p><italic toggle="yes">(39 year old man took 2 doses of fluconazole 1 week apart and developed jaundice, fever and rash with eosinophilia [bilirubin 31.5 mg/dL, ALT 4192 U/L, Alk P 141 U/L], resolved on prednisone within 3 months).</italic></p></annotation><pub-id pub-id-type="pmid">14616149</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fluconazole.R29">
+            <mixed-citation publication-type="journal">Linnebur SA, Parnes BL. Pulmonary and hepatic toxicity due to nitrofurantoin and fluconazole treatment. Ann Pharmacother 2004; 38: 612-6. <annotation><p><italic toggle="yes">(73 year old man developed ALT elevations and symptoms of fatigue, 8 weeks after starting fluconazole, but also 5 years after starting nitrofurantoin, abnormal tests resolving in 4 weeks of stopping both).</italic></p></annotation><pub-id pub-id-type="pmid">14966256</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fluconazole.R30">
+            <mixed-citation publication-type="journal">Wingfield AB, Fernandez-Obregon AC, Wignall FS, Greer DL. Treatment of tinea imbricate: a randomized clinical trial using griseofulvin, terbinafine, itraconazole and fluconazole. Br J Dermatol 2004; 150: 119-26. <annotation><p><italic toggle="yes">(Randomized trial of four antifungals for 4 weeks for tinea imbricate in 86 patients in New Guinea; griseofulvin and terbinafine were effective; itraconazole and fluconazole were not; only one patient had ALT elevation [3 fold: terbinafine]).</italic></p></annotation><pub-id pub-id-type="pmid">14746625</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fluconazole.R31">
+            <mixed-citation publication-type="journal">Fischer MA, Winkelmayer WC, Rubin RH, Avorn J. The hepatotoxicity of antifungal medications in bone marrow transplant recipients. Clin Infect Dis 2005; 41: 301-7. <annotation><p><italic toggle="yes">(Among 438 patients undergoing bone marrow transplantation, 123 developed ALT or AST above 3 times ULN; factors associated with significant increases were liposomal amphotericin [Odds Ratio = 3.8] and fluconazole [2.6], but not standard amphotericin [2.0]).</italic></p></annotation><pub-id pub-id-type="pmid">16007524</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fluconazole.R32">
+            <mixed-citation publication-type="journal">Wingard J, Leather H. Hepatotoxicity associated with antifungal therapy after bone marrow transplantation. Clin Infect Dis 2005; 41: 308-10. <annotation><p><italic toggle="yes">(Editorial accompanying article by Fischer et al. [2005] discussing difficulty of diagnosis of drug induced liver disease in patients after bone marrow transplant).</italic></p></annotation><pub-id pub-id-type="pmid">16007525</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fluconazole.R33">
+            <mixed-citation publication-type="journal">Song J, Deresinski S. Hepatotoxicity of antifungal agents. Curr Opin Investig Drugs 2005; 6: 170-7. <annotation><p><italic toggle="yes">(Extensive review of hepatotoxicity from antifungals; fluconazole causes ALT elevations greater than 8-fold normal in 1% of patients, but clinically apparent liver injury is rare; 7 cases of self-limited and 4 cases of fatal acute liver disease attributed to fluconazole have been described; onset usually in 10-21 days).</italic></p></annotation><pub-id pub-id-type="pmid">15751740</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fluconazole.R34">
+            <mixed-citation publication-type="journal">Cruciani M, Mengoli C, Malena M, Bosco O, Serpelloni G, Grossi P. Antifungal prophylaxis in liver transplant patients: a systematic review and meta-analysis. Liver Transpl 2006; 12: 850-8. <annotation><p><italic toggle="yes">(Metaanalysis found 6 studies with total of 698 patients comparing fluconazole, itraconazole or amphotericin vs placebo for prevention of fungal infections after liver transplantation; side effects were more with prophylaxis; liver toxicity was not discussed).</italic></p></annotation><pub-id pub-id-type="pmid">16628697</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fluconazole.R35">
+            <mixed-citation publication-type="journal">Girois SB, Chapuis F, Decullier E, Revol BG. Adverse effects of antifungal therapies in invasive fungal infections: review and meta-analysis. Eur J Clin Microbiol Infect Dis 2006; 25: 138-49. <annotation><p><italic toggle="yes">(Systematic review of adverse effects of antifungal therapy in 54 studies with 9228 patients; hepatotoxicity reported in 14.1-18.6% on amphotericin, 1.9% on fluconazole and 31.6% on itraconazole, but great variation in definitions and intensity of monitoring).</italic></p></annotation><pub-id pub-id-type="pmid">16622909</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fluconazole.R36">
+            <mixed-citation publication-type="journal">Aghai ZH, Mudduluru M, Nakhla TA, Amendolia B, Longo D, Kemble N, Kaki S. Fluconazole prophylaxis in extremely low birth weight infants: association with cholestasis. J Perinatol 2006; 26: 550-5. <annotation><p><italic toggle="yes">(Intravenous fluconazole prophylaxis in low birth weight infants reduced rate of invasive candidiasis from 6.6% [historical controls] to 0%, but increased direct and total hyperbilirubinemia from 9% to 43%, but no difference in average ALT or AST or rate of elevations above 250 U/L).</italic></p></annotation><pub-id pub-id-type="pmid">16940972</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fluconazole.R37">
+            <mixed-citation publication-type="journal">Chalasani N, Fontana RJ, Bonkovsky HL, Watkins PB, Davern T, Serrano J, Yang H, Rochon J; Drug Induced Liver Injury Network (DILIN). Causes, clinical features, and outcomes from a prospective study of drug-induced liver injury in the United States. Gastroenterology 2008; 135: 1924-34. <annotation><p><italic toggle="yes"> (Among 300 cases of drug induced liver disease in the US collected from 2004 to 2008, two cases were attributed to fluconazole, one to ketoconazole, one to itraconazole, none to voriconazole).</italic></p></annotation><pub-id pub-id-type="pmid">18955056</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fluconazole.R38">
+            <mixed-citation publication-type="journal">Bj&#x000f6;rnsson E, Davidsdottir L. The long-term follow-up after idiosyncratic drug-induced liver injury with jaundice. J Hepatol 2009; 50: 511-7. <annotation><p><italic toggle="yes">(In long term follow up of 685 patients with drug induced liver injury in Sweden, 8 were found to have developed cirrhosis, 5 of whom died including a 34 year old man with fluconazole hepatotoxicity who died 4 years later of complications of cirrhosis, possibly alcoholic).</italic></p></annotation><pub-id pub-id-type="pmid">19155082</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fluconazole.R39">
+            <mixed-citation publication-type="journal">Antifungal drugs. Treat Guidel Med Lett 2009; 7: 95-102. <annotation><p><italic toggle="yes">(Concise summary of therapy of fungal infections with recommendations on agents to be used, dosage and duration of treatment and safety; fluconazole is active against most Candida species and both coccidioides and cryptococcus, but not aspergillus; Stevens-Johnson syndrome, anaphylaxis and hepatic toxicity have been reported).</italic></p></annotation><pub-id pub-id-type="pmid">19940816</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fluconazole.R40">
+            <mixed-citation publication-type="journal">Wang JL, Chang CH, Young-Xu Y, Chan KA. Systematic review and meta-analysis of the tolerability and hepatotoxicity of antifungals in empirical and definitive therapy for invasive fungal infection. Antimicrob Agents Chemother 2010; 54: 2409-19. <annotation><p><italic toggle="yes">(Systematic review of 39 controlled trials in more than 8000 patients, found liver enzyme elevations in 10% of patients on fluconazole, but only 0.7% needed to stop therapy; rate for itraconazole was 18.9%, voriconazole 19.7%).</italic></p></annotation><pub-id pub-id-type="pmid">20308378</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fluconazole.R41">
+            <mixed-citation publication-type="journal">Ferrajolo C, Capuano A, Verhamme KM, Schuemie M, Rossi F, Stricker BH, Sturkenboom MC. Drug-induced hepatic injury in children: a case/non-case study of suspected adverse drug reactions in VigiBase. Br J Clin Pharmacol 2010; 70: 721-8. <annotation><p><italic toggle="yes">(Worldwide pharmacovigilance database contained 9036 hepatic adverse drug reactions in children, voriconazole ranked 21st with 52 cases [odds ratio 10.7] and fluconazole 30th with 42 cases [odds ratio 8.6]; no other antifungal agent listed in the top 41 causes).</italic></p></annotation><pub-id pub-id-type="pmid">21039766</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fluconazole.R42">
+            <mixed-citation publication-type="journal">Reuben A, Koch DG, Lee WM; Acute Liver Failure Study Group. Drug-induced acute liver failure: results of a U.S. multicenter, prospective study. Hepatology 2010; 52: 2065-76. <annotation><p><italic toggle="yes"> (Among 1198 patients with acute liver failure enrolled in a US prospective study between 1998 and 2007, 133 were attributed to drug induced liver injury, of which 6 were caused by antifungal agents including 3 attributed to terbinafine, 2 to ketoconazole, 1 to itraconazole, but none to fluconazole).</italic></p></annotation><pub-id pub-id-type="pmid">20949552</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fluconazole.R43">
+            <mixed-citation publication-type="journal">Devarbhavi H, Dierkhising R, Kremers WK, Sandeep MS, Karanth D, Adarsh CK. Single-center experience with drug-induced liver injury from India: causes, outcome, prognosis, and predictors of mortality. Am J Gastroenterol 2010; 105: 2396-404. <annotation><p><italic toggle="yes"> (Among 313 cases of drug induced liver injury seen over a 12 year period at a large hospital in Bangalore, India, one was attributed to fluconazole).</italic></p></annotation><pub-id pub-id-type="pmid">20648003</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fluconazole.R44">
+            <mixed-citation publication-type="journal">Egunsola O, Adefurin A, Fakis A, Jacqz-Aigrain E, Choonara I, Sammons H. Safety of fluconazole in paediatrics: a systematic review. Eur J Clin Pharmacol 2013; 69: 1211-21. <annotation><p><italic toggle="yes">(Systematic review of 90 published articles on side effects of fluconazole in 4209 children or neonates, found hepatotoxicity to be the most common adverse event [378 cases, about half of adverse events], but most were self-limited represented by elevated liver enzymes only).</italic></p></annotation><pub-id pub-id-type="pmid">23325436</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fluconazole.R45">
+            <mixed-citation publication-type="journal">Bj&#x000f6;rnsson ES, Bergmann OM, Bj&#x000f6;rnsson HK, Kvaran RB, Olafsson S. Incidence, presentation and outcomes in patients with drug-induced liver injury in the general population of Iceland. Gastroenterology 2013; 144: 1419-25. <annotation><p><italic toggle="yes"> (In a population based study of drug induced liver injury from Iceland, 96 cases were identified over a 2 year period, none of which were attributed to fluconazole or other antifungal agents).</italic></p></annotation><pub-id pub-id-type="pmid">23419359</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fluconazole.R46">
+            <mixed-citation publication-type="journal">Kao WY, Su CW, Huang YS, Chou YC, Chen YC, Chung WH, Hou MC, et al. Risk of oral anti-fungal agent-induced liver injury in Taiwanese. Br J Clin Pharmacol 2014; 77: 180-9. <annotation><p><italic toggle="yes">(Analysis of Taiwan National Health Insurance database from 2002-2008 identified 52 patients with drug induced liver injury among 90,847 users of oral antifungal agents, rates were 32 per 10,000 persons for fluconazole [12 cases, 6 of which were fatal]).</italic></p></annotation><pub-id pub-id-type="pmid">23750489</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fluconazole.R47">
+            <mixed-citation publication-type="journal">Kurt H, Toprak O, B&#x000fc;lb&#x000fc;l E. The possible efficacy of artichoke in fluconazole related hepatotoxicity. Case Reports Hepatol 2014; 2014: 697359. <annotation><p><italic toggle="yes">(40 year old woman with multiple sclerosis received 10 days of intravenous methylprednisolone and then a single tablet of fluconazole, developing symptoms of liver injury over the next 5-12 days [bilirubin 5.2 mg/dL, ALT 1180 U/L, Alk P 85 U/L, INR 1.38], bilirubin rising to 36 mg/dL, but resolving over next 2 months while taking artichoke leaf tea 3 times daily).</italic></p></annotation><pub-id pub-id-type="pmid">25374729</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fluconazole.R48">
+            <mixed-citation publication-type="journal">Raschi E, Poluzzi E, Koci A, Caraceni P, Ponti FD. Assessing liver injury associated with antimycotics: Concise literature review and clues from data mining of the FAERS database. World J Hepatol 2014; 6: 601-12. <annotation><p><italic toggle="yes">(Analysis of the FDA database on adverse reactions [2004 to 2011] identified 68,115 reports of liver injury including 1964 due to antifungal agents, the most common being terbinafine [422], fluconazole [412], voriconazole [361], amphotericin B [265], itraconazole [182], ketaconazole [94] and posaconazole [70]; among 112 cases with acute liver failure with, the major causes were fluconazole [31], terbinafine [27], and voriconazole [19]). </italic></p></annotation><pub-id pub-id-type="pmid">25232453</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fluconazole.R49">
+            <mixed-citation publication-type="journal">Chalasani N, Bonkovsky HL, Fontana R, Lee W, Stolz A, Talwalkar J, Reddy KR, et al.; United States Drug Induced Liver Injury Network. Features and outcomes of 899 patients with drug-induced liver injury: The DILIN Prospective Study. Gastroenterology 2015; 148: 1340-52.e7. <annotation><p><italic toggle="yes">(Among 899 cases of drug induced liver injury enrolled in a US prospective study between 2004 and 2013, 14 cases [1.6%] were attributed to antifungal agents including 6 triazoles [3 with jaundice and 2 hospitalized, no deaths], 4 due to fluconazole, 1 ketoconazole and 1 voriconazole).</italic></p></annotation><pub-id pub-id-type="pmid">25754159</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fluconazole.R50">
+            <mixed-citation publication-type="journal">Lo Re V 3rd, Carbonari DM, Lewis JD, Forde KA, Goldberg DS, Reddy KR, Haynes K, et al. Oral azole antifungal medications and risk of acute liver injury, overall and by chronic liver disease status. Am J Med 2016; 129: 283-91. <annotation><p><italic toggle="yes"> (Among 178,879 persons treated with oral fluconazole analyzed from a Kaiser Permanente clinical database, the incidence of ALT or AST elevations above 200 U/L was 1.3% and severe acute liver injury 0.2%; rates that were similar to those with ketoconazole and less than for posaconazole and vorconazole).</italic></p></annotation><pub-id pub-id-type="pmid">26597673</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fluconazole.R51">
+            <mixed-citation publication-type="journal">Kyriakidis I, Tragiannidis A, Munchen S, Groll AH. Clinical hepatotoxicity associated with antifungal agents. Expert Opin Drug Saf 2017; 16: 149-65. <annotation><p><italic toggle="yes">(Review of the hepatotoxicity of antifungal agents states that all antifungal agents may cause hepatic toxicity and discusses fluconazole, itraconazole, voriconazole, posaconazole and isavuconazole, but not ketoconazole).</italic></p></annotation><pub-id pub-id-type="pmid">27927037</pub-id></mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec id="Fluconazole.OTHER_REFERENCE_LINKS" sec-type="link-group">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=(fluconazole)+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%222010/1/1%22%5BEDat%5D%3A%222999/12/31%22%5BEDat%5D)">Recent References on Fluconazole: from PubMed.gov</ext-link>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=fluconazole">: from ClinicalTrials.gov</ext-link>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=fluconazole">Trials on Fluconazole: from ClinicalTrials.gov</ext-link>
+            </p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

@@ -1,0 +1,721 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Panobinostat" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Panobinostat</book-part-id>
+      <title-group>
+        <title>Panobinostat</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>25</day>
+          <month>9</month>
+          <year>2020</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Panitumumab" document-type="chapter">Panitumumab</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Pantoprazole" document-type="chapter">Pantoprazole</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Panobinostat.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Panobinostat.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Panobinostat is an oral histone deacetylase inhibitor and antineoplastic agent that is approved for use in combination with other agents in refractory or relapsed multiple myeloma. Panobinostat is associated with modest rate of minor serum enzyme elevations during therapy, but has not been linked to cases of clinically apparent liver injury.</p>
+        </sec>
+        <sec id="Panobinostat.Background">
+          <title>Background</title>
+          <p>Panobinostat (pan" oh bin' oh stat) is an oral small molecule inhibitor of histone deacetylases, thereby preventing removal of acetyl groups from histones. The accumulation of acetyl groups on histones causes cell cycle arrest and apoptotic cell death. Malignant cells are particularly sensitive to the effects of inhibition of histone deacetylases. In open label studies in patients with multiple myeloma, panobinostat in combination with bortezomib (a proteasome inhibitor) yielded overall response rates of up to 50% and some responders had long term remissions. A large, controlled trial in patients with advanced, refractory multiple myeloma demonstrated prolongation of progression-free survival by the addition of panobinostat to bortezomib and dexamethasone, but the overall survival was not different at the time of the initial analysis. Nevertheless, panobinostat was given accelerated approval for use in the United States in 2015 to be used in combination with bortezomib and dexamethasone in patients with refractory or relapsed multiple myeloma. Panobinostat is available in capsules of 10, 15 or 20 mg under the brand name Farydak. The recommended dose regimen is 20 mg three times weekly for two weeks in three week cycles until there is disease progression or unacceptable toxicity. Side effects are common and may require dose modification. The most common adverse events are thrombocytopenia, leukopenia, anemia, diarrhea, nausea, vomiting, anorexia, fatigue, fever, peripheral edema, cough and pruritus. Panobinostat therapy has also been associated with hypokalemia, hypophosphatemia, hyponatremia and mild increases in serum creatinine. Uncommon, but serious adverse events include severe diarrhea and cardiovascular events such as cardiac ischemia, arrhythmias and EKG changes including prolongation of the QTc interval.</p>
+        </sec>
+        <sec id="Panobinostat.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>Most clinical trials of panobinostat have not reported rates of serum enzyme elevations during therapy and it is typically given in combination with other antineoplastic agents that can cause serum ALT and AST elevations. In the large controlled trial of panobinostat vs placebo in combination with bortezomib and dexamethasone, ALT elevations occurred in similar proportion of patients receiving panobinostat (31%) as placebo (38%) and values above 5 times the upper limit of normal were uncommon (1.8% and 1.3%). In addition, there have been no reports of clinically apparent liver injury with jaundice associated with panobinostat therapy. Thus, panobinostat appears to have little hepatotoxic potential and liver injury from panobinostat must be quite rare, if it occurs at all.</p>
+          <p>Likelihood score: E (unlikely cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Panobinostat.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The reason why panobinostat might cause serum enzyme elevations is not known, but may be a direct toxicity to hepatocytes caused by inhibition of histone deacetylase or other enzyme activities. Panobinostat is extensively metabolized in the liver by the cytochrome P450 system (predominantly CYP 3A4 and 2D6) and drug-drug interactions are likely to occur if it is used with other agents that are inducers, inhibitors or major substrates of these microsomal enzymes.</p>
+        </sec>
+        <sec id="Panobinostat.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>Serum enzyme elevations are uncommon during panobinostat therapy and are rarely dose limiting. Nevertheless, regular monitoring of liver tests with each course of therapy is recommended with more frequent monitoring if serum aminotransferase values rise. Panobinostat should be held if ALT or AST values rise above 5 times the ULN, and elevations of more than 20 times the ULN, or appearance of jaundice or symptoms of liver injury should trigger permanent discontinuation. There is no known cross sensitivity to hepatic injury among the different histone deacetylase inhibitors.</p>
+          <p>Drug Class: <related-object link-type="booklink" source-id="livertox" document-id="AntineoplasticAgents" document-type="chapter">Antineoplastic Agents</related-object>, Histone Deacetylase Inhibitors</p>
+        </sec>
+      </sec>
+      <sec id="Panobinostat.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <p>
+          <bold>REPRESENTATIVE TRADE NAMES</bold>
+        </p>
+        <p>Panobinostat &#x02013; Farydak&#x000ae;</p>
+        <p>
+          <bold>DRUG CLASS</bold>
+        </p>
+        <p>Antineoplastic Agents</p>
+        <p>
+          <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Panobinostat">COMPLETE LABELING</ext-link>
+        </p>
+        <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+      </sec>
+      <sec id="Panobinostat.CHEMICAL_FORMULA_AND_STRUCT">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Panobinostat.Tc" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th id="hd_h_Panobinostat.Tc_1_1_1_1" valign="top" align="left" scope="col" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Panobinostat.Tc_1_1_1_2" valign="top" align="left" scope="col" rowspan="1" colspan="1">CAS REGISTRY NO</th>
+                <th id="hd_h_Panobinostat.Tc_1_1_1_3" valign="top" align="left" scope="col" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Panobinostat.Tc_1_1_1_4" valign="top" align="left" scope="col" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Panobinostat.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Panobinostat</td>
+                <td headers="hd_h_Panobinostat.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135252712">404950-80-7</ext-link>
+                </td>
+                <td headers="hd_h_Panobinostat.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">C21-H23-N3-O2</td>
+                <td headers="hd_h_Panobinostat.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">
+                  <related-object link-type="ext-image-back-link" source-id="pubchem" document-id="135252712" document-id-type="sid" document-type="summary" object-id="135252712" object-id-type="sid" object-type="image"/>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Panobinostat.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 25 September 2020</p>
+        <ref-list id="Panobinostat.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Panobinostat.REF.zimmerman.1999">
+            <mixed-citation publication-type="book">Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999.<annotation><p><italic toggle="yes">(Review of hepatotoxicity published in 1999 before the availability of histone deacetylase inhibitors).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Panobinostat.REF.deleve.2013">
+            <mixed-citation publication-type="book">DeLeve LD. Cancer chemotherapy. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013, p. 549-68.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of cancer chemotherapeutic agents does not discuss panobinostat).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Panobinostat.REF.wellstein.2018">
+            <mixed-citation publication-type="book">Wellstein A, Giaccone G, Atkins MB, Sausville EA. Inhibitors of histone deacetylase. Pathway targeted therapies: monoclonal antibodies, protein kinase inhibitors, and various small molecules. In, Brunton LL Hilal-Dandan R, Knollman BC, eds. Goodman &#x00026; Gilman's the pharmacological basis of therapeutics. 13th ed. New York: McGraw-Hill, 2018, p. 1230.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Panobinostat.REF.ellis.2008.4500">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Ellis</surname>
+                  <given-names>L</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Pan</surname>
+                  <given-names>Y</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Smyth</surname>
+                  <given-names>GK</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>George</surname>
+                  <given-names>DJ</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>McCormack</surname>
+                  <given-names>C</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Williams-Truax</surname>
+                  <given-names>R</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Mita</surname>
+                  <given-names>M</given-names>
+                </name>
+                <etal/>
+              </person-group>
+              <article-title>Histone deacetylase inhibitor panobinostat induces clinical responses with associated alterations in gene expression profiles in cutaneous T-cell lymphoma.</article-title>
+              <source>Clin Cancer Res</source>
+              <year>2008</year>
+              <volume>14</volume>
+              <fpage>4500</fpage>
+              <lpage>10</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Among 10 patients with refractory CTCL given different doses of panobinostat, 6 had a clinical response and the optimal dose was 20 mg [given Monday, Wednesday and Friday], tumor gene expression changing with treatment, often with suppression of genes governing apoptosis, angiogenesis and immune modulation).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">18628465</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Panobinostat.REF.duvic.2013.386">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Duvic</surname>
+                  <given-names>M</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Dummer</surname>
+                  <given-names>R</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Becker</surname>
+                  <given-names>JC</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Poulalhon</surname>
+                  <given-names>N</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Ortiz Romero</surname>
+                  <given-names>P</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Grazia Bernengo</surname>
+                  <given-names>M</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Lebb&#x000e9;</surname>
+                  <given-names>C</given-names>
+                </name>
+                <etal/>
+              </person-group>
+              <article-title>Panobinostat activity in both bexarotene-exposed and -na&#x000ef;ve patients with refractory cutaneous T-cell lymphoma: results of a phase II trial.</article-title>
+              <source>Eur J Cancer</source>
+              <year>2013</year>
+              <volume>49</volume>
+              <fpage>386</fpage>
+              <lpage>94</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Among 139 patients with refractory CTCL treated with panobinostat [20 mg thrice weekly] for an average of 3 months, the overall response rate was 17% and common side effects were thrombocytopenia [47%], diarrhea [42%], fatigue [33%], nausea [32%], anorexia [21%], neutropenia [15%] and creatinine elevation [13%]; no mention of ALT elevations or hepatotoxicity).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">22981498</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Panobinostat.REF.ghobrial.2013.1296">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Ghobrial</surname>
+                  <given-names>IM</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Campigotto</surname>
+                  <given-names>F</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Murphy</surname>
+                  <given-names>TJ</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Boswell</surname>
+                  <given-names>EN</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Banwait</surname>
+                  <given-names>R</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Azab</surname>
+                  <given-names>F</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Chuma</surname>
+                  <given-names>S</given-names>
+                </name>
+                <etal/>
+              </person-group>
+              <article-title>Results of a phase 2 trial of the single-agent histone deacetylase inhibitor panobinostat in patients with relapsed/refractory Waldenstr&#x000f6;m macroglobulinemia.</article-title>
+              <source>Blood</source>
+              <year>2013</year>
+              <volume>121</volume>
+              <fpage>1296</fpage>
+              <lpage>303</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Among 36 patients with Waldenstr&#x000f6;m macroglobulin treated with panobinostat [25 or 30 mg three times weekly] for an average of 5 months, responses occurred in 17 [47%], but adverse events were frequent including diarrhea in 83%, thrombocytopenia 78%, neutropenia 69%, anemia 60%; no mention of ALT elevations or hepatotoxicity).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">23287861</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Panobinostat.REF.cassier.2013.909">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Cassier</surname>
+                  <given-names>PA</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Lefranc</surname>
+                  <given-names>A</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Amela</surname>
+                  <given-names>EY</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Chevreau</surname>
+                  <given-names>C</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Bui</surname>
+                  <given-names>BN</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Lecesne</surname>
+                  <given-names>A</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Ray-Coquard</surname>
+                  <given-names>I</given-names>
+                </name>
+                <etal/>
+              </person-group>
+              <article-title>A phase II trial of panobinostat in patients with advanced pretreated soft tissue sarcoma. A study from the French Sarcoma Group.</article-title>
+              <source>Br J Cancer</source>
+              <year>2013</year>
+              <volume>109</volume>
+              <fpage>909</fpage>
+              <lpage>14</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Among 47 patients with refractory, advanced soft tissue sarcoma treated with panobinostat [40 or 20 mg thrice weekly], the overall response rate was 0% and adverse events were common leading to a lowering of study dose; no mention of ALT elevations or hepatotoxicity).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">23922114</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Panobinostat.REF.sanmiguel.2013.3696">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>San-Miguel</surname>
+                  <given-names>JF</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Richardson</surname>
+                  <given-names>PG</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>G&#x000fc;nther</surname>
+                  <given-names>A</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Sezer</surname>
+                  <given-names>O</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Siegel</surname>
+                  <given-names>D</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Blad&#x000e9;</surname>
+                  <given-names>J</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>LeBlanc</surname>
+                  <given-names>R</given-names>
+                </name>
+                <etal/>
+              </person-group>
+              <article-title>Phase Ib study of panobinostat and bortezomib in relapsed or relapsed and refractory multiple myeloma.</article-title>
+              <source>J Clin Oncol</source>
+              <year>2013</year>
+              <volume>31</volume>
+              <fpage>3696</fpage>
+              <lpage>703</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Among 47 patients with refractory multiple myeloma treated with the combination of panobinostat and bortezomib in various dose regimens, the overall response rate was 52% and toxicity was common, but manageable; no mention of ALT elevations or hepatotoxicity).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">24019544</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Panobinostat.REF.sanmiguel.2014.1195">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>San-Miguel</surname>
+                  <given-names>JF</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Hungria</surname>
+                  <given-names>VT</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Yoon</surname>
+                  <given-names>SS</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Beksac</surname>
+                  <given-names>M</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Dimopoulos</surname>
+                  <given-names>MA</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Elghandour</surname>
+                  <given-names>A</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Jedrzejczak</surname>
+                  <given-names>WW</given-names>
+                </name>
+                <etal/>
+              </person-group>
+              <article-title>Panobinostat plus bortezomib and dexamethasone versus placebo plus bortezomib and dexamethasone in patients with relapsed or relapsed and refractory multiple myeloma: a multicentre, randomised, double-blind phase 3 trial.</article-title>
+              <source>Lancet Oncol</source>
+              <year>2014</year>
+              <volume>15</volume>
+              <fpage>1195</fpage>
+              <lpage>206</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Among 768 patients with refractory multiple myeloma treated with bortezomib and dexamethasone combined with either panobinostat [20 mg thrice weekly for 2 weeks in 3 week cycles] or placebo with follow up of 6-47 months, progression-free, but not overall survival was longer with panobinostat therapy; adverse events that were more frequent with panobinostat included diarrhea, nausea, fatigue, thrombocytopenia and neutropenia; rates of serum ALT elevations were similar in the two groups [any: 31% vs 38%, and above 5 times ULN: 1.8% vs 1.3%]).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">25242045</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Panobinostat.REF.slingerland.2014.1089">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Slingerland</surname>
+                  <given-names>M</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Hess</surname>
+                  <given-names>D</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Clive</surname>
+                  <given-names>S</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Sharma</surname>
+                  <given-names>S</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Sandstrom</surname>
+                  <given-names>P</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Loman</surname>
+                  <given-names>N</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Porro</surname>
+                  <given-names>MG</given-names>
+                </name>
+                <etal/>
+              </person-group>
+              <article-title>A phase I, open-label, multicenter study to evaluate the pharmacokinetics and safety of oral panobinostat in patients with advanced solid tumors and various degrees of hepatic function.</article-title>
+              <source>Cancer Chemother Pharmacol</source>
+              <year>2014</year>
+              <volume>74</volume>
+              <fpage>1089</fpage>
+              <lpage>98</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Pharmacokinetic study of panobinostat in 25 patients with advanced malignancy, found higher peak serum levels in patients with hepatic dysfunction than in those without, but similar rate of adverse events).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">25253045</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Panobinostat.REF.berdeja.2015.670">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Berdeja</surname>
+                  <given-names>JG</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Hart</surname>
+                  <given-names>LL</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Mace</surname>
+                  <given-names>JR</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Arrowsmith</surname>
+                  <given-names>ER</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Essell</surname>
+                  <given-names>JH</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Owera</surname>
+                  <given-names>RS</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Hainsworth</surname>
+                  <given-names>JD</given-names>
+                </name>
+                <etal/>
+              </person-group>
+              <article-title>Phase I/II study of the combination of panobinostat and carfilzomib in patients with relapsed/refractory multiple myeloma.</article-title>
+              <source>Haematologica</source>
+              <year>2015</year>
+              <volume>100</volume>
+              <fpage>670</fpage>
+              <lpage>6</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Among 44 patients with advanced, refractory multiple myeloma treated with the combination of panobinostat [30 mg] and carfilzomib [20 or 45 mg/m<sup>2</sup>] in varying regimens, the overall response rate was 67% and adverse events were common, but manageable in most patients; ALT increases above 5 times ULN occurred in only 1 patient [2%]).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">25710456</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Panobinostat.REF.laubach.2015.4767">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Laubach</surname>
+                  <given-names>JP</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Moreau</surname>
+                  <given-names>P</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>San-Miguel</surname>
+                  <given-names>JF</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Richardson</surname>
+                  <given-names>PG</given-names>
+                </name>
+              </person-group>
+              <article-title>Panobinostat for the treatment of multiple myeloma.</article-title>
+              <source>Clin Cancer Res</source>
+              <year>2015</year>
+              <volume>21</volume>
+              <fpage>4767</fpage>
+              <lpage>73</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Review of the mechanism of action, pharmacology, clinical efficacy and toxicity of panobinostat as therapy of advanced multiple myeloma, mentions gastrointestinal and hematologic adverse events, but not ALT elevations or hepatotoxicity).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">26362997</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Panobinostat.REF13">
+            <element-citation publication-type="journal">
+              <article-title>Panobinostat (Farydak) for multiple myeloma.</article-title>
+              <source>Med Lett Drugs Ther</source>
+              <year>2015</year>
+              <volume>57</volume>
+              <fpage>e118</fpage>
+              <lpage>9</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Concise summary of the mechanism of action, clinical efficacy, safety and costs of panobinostat shortly after it was approved for use in multiple myeloma in the US, mentions that severe side effects include diarrhea, cytopenias, prolongation of the QTc interval and that &#x0201c;hemorrhage, infections and hepatotoxicity have also been reported&#x0201d;).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">26262884</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Panobinostat.REF.chalasani.2015.1340">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Chalasani</surname>
+                  <given-names>N</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Bonkovsky</surname>
+                  <given-names>HL</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Fontana</surname>
+                  <given-names>R</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Lee</surname>
+                  <given-names>W</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Stolz</surname>
+                  <given-names>A</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Talwalkar</surname>
+                  <given-names>J</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Reddy</surname>
+                  <given-names>KR</given-names>
+                </name>
+                <etal/>
+                <collab>United States Drug Induced Liver Injury Network</collab>
+              </person-group>
+              <article-title>Features and outcomes of 899 patients with drug-induced liver injury: The DILIN Prospective Study.</article-title>
+              <source>Gastroenterology</source>
+              <year>2015</year>
+              <volume>148</volume>
+              <fpage>1340</fpage>
+              <lpage>52.e7</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Among 899 cases of drug induced liver injury enrolled in a US prospective study between 2004 and 2013, 363 [36%] were attributed to antibiotics, none of which were attributed to panobinostat).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">25754159</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Panobinostat.REF.bringhen.2017.391">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Bringhen</surname>
+                  <given-names>S</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>De Wit</surname>
+                  <given-names>E</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Dimopoulos</surname>
+                  <given-names>MA</given-names>
+                </name>
+              </person-group>
+              <article-title>New agents in multiple myeloma: an&#x000a0;examination of safety profiles.</article-title>
+              <source>Clin Lymphoma Myeloma Leuk</source>
+              <year>2017</year>
+              <volume>17</volume>
+              <fpage>391</fpage>
+              <lpage>407.e5</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Review of the safety profiles and adverse events of newer drugs for multiple myeloma including the histone deacetylase inhibitors &#x02013; romidepsin, vorinostat and panobinostat, mentions that ALT elevations above 5 times ULN occur in 8% of patients treated with romidepsin, but no mention of ALT elevations or hepatotoxicity with vorinostat or panobinostat).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">28601492</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Panobinostat.REF.borrelli.2020.1078155220941937">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Borrelli</surname>
+                  <given-names>EP</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>McGladrigan</surname>
+                  <given-names>CG</given-names>
+                </name>
+              </person-group>
+              <article-title>Differences in safety profiles of newly approved medications for multiple myeloma in real-world settings versus randomized controlled trials.</article-title>
+              <source>J Oncol Pharm Pract</source>
+              <year>2020</year>
+              <month>Jul</month>
+              <day>19</day>
+              <elocation-id>1078155220941937</elocation-id>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Analysis of the most common adverse events reported to the FDA since approval of 4 new drugs for multiple myeloma identified the top ten adverse reactions to panobinostat to be diarrhea, death, peripheral neuropathy, fatigue, nausea, peripheral edema, anorexia, constipation, fever, vomiting and cough; no mention of ALT elevations or hepatotoxicity).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32686617</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Panobinostat.REF.moskowitz.2017.1306">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Moskowitz</surname>
+                  <given-names>AJ</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Horwitz</surname>
+                  <given-names>SM</given-names>
+                </name>
+              </person-group>
+              <article-title>Targeting histone deacetylases in T-cell lymphoma.</article-title>
+              <source>Leuk Lymphoma</source>
+              <year>2017</year>
+              <volume>58</volume>
+              <fpage>1306</fpage>
+              <lpage>19</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Extensive review of the mechanism of action, classification, clinical efficacy and safety of histone deacetylase inhibitors in T-cell lymphomas, mentions that panobinostat is an oral hydroxamate that is approved for use in refractory or relapsed cutaneous T cell lymphoma, more common adverse effects of which are fatigue, diarrhea, nausea, dysgeusia, thrombocytopenia, neutropenia, anorexia, weight loss and musculoskeletal pain;, no mention of ALT elevations or hepatotoxicity).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">27813438</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Panobinostat.REF.shah.2019.235">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Shah</surname>
+                  <given-names>RR</given-names>
+                </name>
+              </person-group>
+              <article-title>Safety and tolerability of histone deacetylase (HDAC) inhibitors in oncology.</article-title>
+              <source>Drug Saf</source>
+              <year>2019</year>
+              <volume>42</volume>
+              <fpage>235</fpage>
+              <lpage>45</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Review of the safety of histone deacetylase inhibitors approved for use in the US mentions that elevations in serum aminotransferase levels have been reported during therapy with romidepsin, panobinostat and belinostat but not with vorinostat, and there have been no reports of clinically apparent hepatotoxicity, except for a single case of hepatic failure arising during a clinical trial of belinostat).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">30649740</pub-id>
+            </element-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec sec-type="link-group" id="Panobinostat.OTHER_REFERENCE_LINKS">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <label>1</label>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=Panobinostat/AE+AND+Human%5BMH%5D+AND+(jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI+OR+hepatitis,+toxic%5BMH%5D)">Recent References on Panobinostat: from PubMed.gov</ext-link>
+            </p>
+          </list-item>
+          <list-item>
+            <label>2</label>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Panobinostat">Trials on Panobinostat: from ClinicalTrials.gov</ext-link>
+            </p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Letrozole" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Letrozole</book-part-id>
+      <title-group>
+        <title>Letrozole</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>25</day>
+          <month>7</month>
+          <year>2017</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Letermovir" document-type="chapter">Letermovir</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="LeukotrieneRcptAntag" document-type="chapter">Leukotriene Receptor Antagonists</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Letrozole.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Letrozole.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Letrozole is a nonsteroidal inhibitor of aromatase which effectively blocks estrogen synthesis in postmenopausal women and is used as therapy of estrogen receptor positive breast cancer, usually after resection and after failure of tamoxifen. Letrozole has been associated with a low rate of serum enzyme elevations during therapy and rare instances of clinically apparent liver injury.</p>
+        </sec>
+        <sec id="Letrozole.Background">
+          <title>Background</title>
+          <p>Letrozole (let' roe zole) is a nonsteroidal aromatase inhibitor that is widely used as therapy of breast cancer, usually after surgical resection. Aromatase is the enzyme responsible for the conversion of testosterone to estrone (E1) and of androstenedione to estradiol (E2). Highest levels of aromatase are found in the ovary and placenta, which are the major sources of estrogen in premenopausal women. However, aromatase is also found in other tissues, such as liver, kidney, adrenals, brain, muscle and subcutaneous fat where it is also active in producing estrogens, although at low levels. These tissues are the major source of estrogen in postmenopausal women. Inhibitors of aromatase were developed to block the synthesis of estrogen in the peripheral tissues and, thus, as antiestrogen therapy of breast cancer in postmenopausal women. Letrozole is a nonsteroidal, specific aromatase inhibitor which has little or no effect on adrenal glucocorticoid or mineralocorticoid synthesis. Letrozole was approved for use in postmenopausal women with estrogen receptor positive breast cancer in the United States in 1997. Current indications aew as adjuvant therapy in postmenopausal women with estrogen sensitive breast cancer, given in daily oral doses for up to five years. Letrozole is also indicated as a first line treatment of estrogen receptor positive (or unknown), locally advanced or metastatic breast cancer in postmenopausal women. Letrozole is available in 2.5 mg tablets in generic forms and under the brand name Femara. The recommended dose is one tablet daily. Common side effects include hot flashes, night sweats, fatigue, dizziness, headache, somnolence, abdominal discomfort, nausea, arthralgias, weight gain and rash. Uncommon, but potentially severe side effects include decrease in bone mineral density, increases in serum cholesterol levels and embryo-fetal toxicity.</p>
+        </sec>
+        <sec id="Letrozole.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>Serum enzymes are reported to be elevated in up to 1% of women treated with letrozole, but these elevations are usually mild, asymptomatic and self-limited, rarely requiring dose modification. There have been few published instances of clinically apparent liver injury associated with long term letrozole therapy. More frequent have been reports of cholestatic and hepatocellular liver injury associated with anastrozole and exemestane, typically arising after 1 to 4 months of therapy and presenting with jaundice. While cases have been severe, recovery is usually prompt once the agent is stopped. There have been no cases of severe jaundice, acute liver failure, chronic hepatitis or vanishing bile duct syndrome attributed to letrozole use. Unlike tamoxifen, letrozole has not been associated with development of fatty liver disease, steatohepatitis or cirrhosis.</p>
+          <p>Likelihood score: D (possible rare cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Letrozole.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The mechanism by which letrozole might cause liver injury is not known. Letrozole is metabolized in the liver by the cytochrome P450 system and is a strong inhibitor of CYP 2A6 and to a lesser extent CYP 2C19. However, it has not been linked to clinically significant drug-drug interactions. Liver injury from letrozole might arise as a result of a toxic or immunogenic metabolite.</p>
+        </sec>
+        <sec id="Letrozole.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>Liver injury attributed to letrozole is usually mild and self-limited, typically a transient, asymptomatic elevation in serum enzymes. Cases of acute liver failure have been reported in women on other aromatase inhibitors, but not specifically letrozole. There is little evidence for cross sensitivity to liver injury between letrozole and tamoxifen or even among the various aromatase inhibitors (which have distinctly different chemical structures).</p>
+          <p>References on the safety and hepatotoxicity of letrozole are listed below as well as together with those on anastrozole and exemestane after the Overview section on Aromatase Inhibitors.</p>
+          <p>Drug Class: <related-object source-id="livertox" document-id="AntineoplasticAgents">Antineoplastic Agents</related-object>, Antiestrogens, <related-object source-id="livertox" document-id="AromataseInhibitors">Aromatase Inhibitors</related-object></p>
+          <p>Other Drugs in the Subclass, Aromatase Inhibitors: <related-object source-id="livertox" document-id="Anastrozole">Anastrozole</related-object>, <related-object source-id="livertox" document-id="Exemestane">Exemestane</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Letrozole.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <boxed-text position="anchor" id="Letrozole.BPI" orientation="portrait">
+          <p>
+            <bold>REPRESENTATIVE TRADE NAMES</bold>
+          </p>
+          <p>Letrozole &#x02013; Generic, Femara&#x000ae;</p>
+          <p>
+            <bold>DRUG CLASS</bold>
+          </p>
+          <p>Antineoplastic Agents</p>
+          <p>
+            <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Letrozole">COMPLETE LABELING</ext-link>
+          </p>
+          <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+        </boxed-text>
+      </sec>
+      <sec id="Letrozole.CHEMICAL_FORMULA_AND_STRUCTURE">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Letrozole.T1" position="anchor" orientation="portrait">
+          <table>
+            <thead>
+              <tr>
+                <th id="hd_h_Letrozole.T1_1_1_1_1" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Letrozole.T1_1_1_1_2" rowspan="1" colspan="1">CAS REGISTRY NUMBER</th>
+                <th id="hd_h_Letrozole.T1_1_1_1_3" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Letrozole.T1_1_1_1_4" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Letrozole.T1_1_1_1_1" rowspan="1" colspan="1">Letrozole</td>
+                <td headers="hd_h_Letrozole.T1_1_1_1_2" rowspan="1" colspan="1">112809-51-5</td>
+                <td headers="hd_h_Letrozole.T1_1_1_1_3" rowspan="1" colspan="1">C17-H11-N5</td>
+                <td headers="hd_h_Letrozole.T1_1_1_1_4" rowspan="1" colspan="1">
+                  <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Letrozole_Structure.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait">
+                    <alt-text>Letrozole Chemical Structure</alt-text>
+                  </graphic>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Letrozole.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 25 July 2017</p>
+        <ref-list id="Letrozole.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Letrozole.R1">
+            <mixed-citation publication-type="other">Zimmerman HJ. Unconventional drugs. Miscellaneous drugs and diagnostic chemicals. In, Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999, pp. 731-4.<annotation><p><italic toggle="yes">(Expert review of hepatotoxicity published in 1999, before the availability of letrozole and the aromatase inhibitors).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Letrozole.R2">
+            <mixed-citation publication-type="other">Chitturi S, Farrell GC. Estrogen receptor antagonists. Adverse effects of hormones and hormone antagonists on the liver. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013, pp. 610-2.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of tamoxifen mentions that nonalcoholic fatty liver disease is the most common form of liver injury due to tamoxifen which has also been reported to cause peliosis hepatis, acute hepatitis, submassive hepatic necrosis and liver cancer; no discussion of the aromatase inhibitors).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Letrozole.R3">
+            <mixed-citation publication-type="other">Isaacs C, Wellstein A, Riegel AT. Hormones and related agents in the therapy of cancer. In, Brunton LL, Hilal-Dandan R, Knollman BC, eds. Goodman &#x00026; Gilman&#x02019;s the pharmacological basis of therapeutics. 13th ed. New York: McGraw-Hill, 2018, pp. 1237-48.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Letrozole.R4">
+            <mixed-citation publication-type="journal">Monnier A. Long-term efficacy and safety of letrozole for the adjuvant treatment of early breast cancer in postmenopausal women: a review. Ther Clin Risk Manag 2009; 5: 725-38. <annotation><p><italic toggle="yes">(Review of the long term efficacy and safety of letrozole; no mention of ALT changes or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">19774214</pub-id></mixed-citation>
+          </ref>
+          <ref id="Letrozole.R5">
+            <mixed-citation publication-type="journal">Reuben A, Koch DG, Lee WM; Acute Liver Failure Study Group. Drug-induced acute liver failure: results of a U.S. multicenter, prospective study. Hepatology 2010; 52: 2065-76. <annotation><p><italic toggle="yes">(Among 1198 patients with acute liver failure enrolled in a US prospective study between 1998 and 2007, 133 were attributed to drug induced liver injury, but none were attributed to letrozole or other antiestrogens).</italic></p></annotation><pub-id pub-id-type="pmid">20949552</pub-id></mixed-citation>
+          </ref>
+          <ref id="Letrozole.R6">
+            <mixed-citation publication-type="journal">Dellapasqua S, Colleoni M. Letrozole. Expert Opin Drug Metab Toxicol 2010; 6: 251-9. <annotation><p><italic toggle="yes">(Literature review on safety and efficacy of letrozole; no mention of ALT changes or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">20095792</pub-id></mixed-citation>
+          </ref>
+          <ref id="Letrozole.R7">
+            <mixed-citation publication-type="journal">Dowsett M, Cuzick J, Ingle J, Coates A, Forbes J, Bliss J, Buyse M, et al. Meta-analysis of breast cancer outcomes in adjuvant trials of aromatase inhibitors versus tamoxifen. J Clin Oncol 2010; 28: 509-18. <annotation><p><italic toggle="yes">(Meta analysis of trials comparing aromatase inhibitors to tamoxifen as adjuvant therapy of breast cancer in postmenopausal women; no discussion of hepatotoxicity or rates of ALT elevations).</italic></p></annotation><pub-id pub-id-type="pmid">19949017</pub-id></mixed-citation>
+          </ref>
+          <ref id="Letrozole.R8">
+            <mixed-citation publication-type="journal">Aromatase inhibitors for adjuvant treatment of postmenopausal breast cancer. Med Lett Drugs Ther 2011 13; 53 (1366):47-8. <annotation><p><italic toggle="yes">(Concise review of the aromatase inhibitors and their role in therapy of breast cancer in postmenopausal women; no discussion of adverse events).</italic></p></annotation><pub-id pub-id-type="pmid">21659970</pub-id></mixed-citation>
+          </ref>
+          <ref id="Letrozole.R9">
+            <mixed-citation publication-type="journal">Barnadas A, Estevez LG, Lluch-Hernandez A, Rodriguez-Lescure A, Rodriguez-Sanchez C, Sanchez-Rovira P. An overview of letrozole in postmenopausal women with hormone-responsive breast cancer. Adv Ther 2011; 28: 1045-58. <annotation><p><italic toggle="yes">(Review of the literature on the role of letrozole in postmenopausal women with breast cancer; no discussion of ALT changes or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">22068628</pub-id></mixed-citation>
+          </ref>
+          <ref id="Letrozole.R10">
+            <mixed-citation publication-type="journal">Regan MM, Neven P, Giobbie-Hurder A, Goldhirsch A, Ejlertsen B, Mauriac L, Forbes JF, et al.; BIG 1-98 Collaborative Group; International Breast Cancer Study Group(IBCSG). Assessment of letrozole and tamoxifen alone and in sequence for postmenopausal women with steroid hormone receptor-positive breast cancer: the BIG 1-98 randomised clinical trial at 8.1 years median follow-up. Lancet Oncol 2011; 12: 1101-8. <annotation><p><italic toggle="yes">(Randomized controlled trial of primary therapy with tamoxifen vs letrozole in 8010 women with breast cancer with an average follow up of 8.1 years showed improved survival with letrozole; no discussion of adverse events, ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">22018631</pub-id></mixed-citation>
+          </ref>
+          <ref id="Letrozole.R11">
+            <mixed-citation publication-type="journal">Tomao F, Spinelli G, Vici P, Pisanelli GC, Cascialli G, Frati L, Panici PB, Tomao S. Current role and safety profile of aromatase inhibitors in early breast cancer. Expert Rev Anticancer Ther 2011; 11: 1253-63. <annotation><p><italic toggle="yes">(Review of efficacy and safety of aromatase inhibitors in early breast cancer; no discussion of hepatotoxicity or ALT elevations).</italic></p></annotation><pub-id pub-id-type="pmid">21916579</pub-id></mixed-citation>
+          </ref>
+          <ref id="Letrozole.R12">
+            <mixed-citation publication-type="journal">Chalasani N, Bonkovsky HL, Fontana R, Lee W, Stolz A, Talwalkar J, Reddy KR, et al.; United States Drug Induced Liver Injury Network. Features and outcomes of 899 patients with drug-induced liver injury: the DILIN prospective study. Gastroenterology 2015; 148: 1340-52. <annotation><p><italic toggle="yes">(Among 899 cases of drug induced liver injury seen over a ten year period at 8 US medical centers, 7 were attributed to antiestrogens used in cancer chemotherapy including 4 to tamoxifen, 2 exemestane and 1 letrozole, but none to anastrozole).</italic></p></annotation><pub-id pub-id-type="pmid">25754159</pub-id></mixed-citation>
+          </ref>
+          <ref id="Letrozole.R13">
+            <mixed-citation publication-type="journal">Hong N, Yoon HG, Seo DH, Park S, Kim SI, Sohn JH, Rhee Y. Different patterns in the risk of newly developed fatty liver and lipid changes with tamoxifen versus aromatase inhibitors in postmenopausal women with early breast cancer: A propensity score-matched cohort study. Eur J Cancer 2017; 82: 103-14. <annotation><p><italic toggle="yes">(In a retrospective cohort study of 328 Korean women with breast cancer receiving antiestrogen adjuvant therapy, fatty liver as detected by ultrasound arose in 13 per 100 patient years on tamoxifen versus 8 per 100 on aromatase inhibitors [anastrozole or letrozole], and those on tamoxifen were more likely to progress [42% vs 10%]).</italic></p></annotation><pub-id pub-id-type="pmid">28651157</pub-id></mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec id="Letrozole.OTHER_REFERENCE_LINKS" sec-type="link-group">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=(Letrozole/AE)+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D%3A%222999/12/31%22%5BEDat%5D)">Recent References on Letrozole: from PubMed.gov</ext-link>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Letrozole">Trials on Letrozole: from ClinicalTrials.gov</ext-link>
+            </p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

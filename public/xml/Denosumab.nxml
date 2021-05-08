@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Denosumab" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Denosumab</book-part-id>
+      <title-group>
+        <title>Denosumab</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>28</day>
+          <month>12</month>
+          <year>2017</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="DenileukinDiftitox" document-type="chapter">Denileukin Diftitox</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Desflurane" document-type="chapter">Desflurane</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Denosumab.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Denosumab.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Denosumab is a monoclonal antibody to the RANK ligand which plays an important role in bone remodeling. Denosumab is used in the therapy of osteoporosis and for bone metastases and rare bone tumors. Denosumab therapy has not been associated with serum enzyme elevations during therapy, nor has it been convincingly implicated in cases of clinically apparent drug induced liver injury with jaundice.</p>
+        </sec>
+        <sec id="Denosumab.Background">
+          <title>Background</title>
+          <p>Denosumab (den oh&#x02019; sue mab) is a recombinant, human monoclonal IgG2 antibody to the ligand for RANK (receptor activator of NF kappa B) which plays an important role in bone remodeling and stimulates differentiation, maturation and activation of bone osteoclasts. Inhibition of the RANK ligand (RANK-L) inhibits osteoclast activity and increases bone density by the lessen osteoclast and the unopposed osteoblast activity. Treatment with denosumab has been shown to increase bone mineral density scores as assessed by DEXA scan, and long term therapy has been associated with a lower rate of bone fractures. Denosumab was approved for use in the United States in 2010, and current indications are for men and postmenopausal women with osteoporosis at increased risk for bone fractures and for men with reduced bone mineral density on antiandrogen and women on antiestrogen therapy. Denosumab has also been approved for use in patients with bone metastases from solid tumors and in giant cell tumor of bone. For treatment of osteoporosis, denosumab is available in single use vials or prefilled syringes of 60 mg under the brand name Prolia. The recommended dose is 60 mg subcutaneously every 6 months. Denosumab is also available in single use vials of 120 mg (70 mg/mL) for malignant bone disease under the brand name of Zgeva. The recommended dose for bone metastases is 120 mg subcutaneously every 4 weeks. More frequent dosing is used initially in treating giant cell tumor of bone. All patients receiving denosumab should also take oral calcium (1000 mg) and vitamin D (400 IU) daily. Side effects of denosumab are uncommon, but can include injection site reactions, back and join pains, rash, diarrhea, nausea and vomiting and headache. Rare side effects include severe infusion reactions, hypersensitivity reactions, anaphylaxis, hypocalcemia, osteonecrosis of the jaw and atypical femoral fractures.</p>
+        </sec>
+        <sec id="Denosumab.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>In large clinical trials, denosumab was not associated with changes in serum aminotransferase levels during therapy and rates of most adverse reactions were similar in patients who received denosumab as placebo. Since its approval and more wide-scale use, it has been implicated in only one instance of clinically apparent acute liver injury which resulted in chronic injury that was responsive to corticosteroid therapy and likely represented an unrelated onset of autoimmune liver disease. Thus, significant liver injury from denosumab must be very rare, if it occurs at all.</p>
+          <p>Likelihood score: E* (unproven but suspected rare cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Denosumab.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>Denosumab is a human monoclonal antibody and is unlikely to be inherently hepatotoxic. While most recombinant proteins are metabolized by the liver, the metabolism leads largely to small peptides and amino acids which may be reused to synthesize proteins and are unlikely to be toxic or immunogenic. The RANK ligand pathways are important in bone turnover and formation. RANK is found on the surface of marrow stromal cells and on activated T cells, but its engagement by ligand has no recognized effect on the liver. However, its engagement of immunocytes suggests that it might lead to a self-perpetuating autoimmune condition such as autoimmune hepatitis.</p>
+          <p>Drug Class: Osteoporosis Agents; <related-object source-id="livertox" document-id="MonoclonalAntibodies">Monoclonal Antibodies</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Denosumab.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <boxed-text position="anchor" id="Denosumab.BPI" orientation="portrait">
+          <p>
+            <bold>REPRESENTATIVE TRADE NAMES</bold>
+          </p>
+          <p>Denosumab &#x02013; Prolia&#x000ae;, Xgeva&#x000ae;</p>
+          <p>
+            <bold>DRUG CLASS</bold>
+          </p>
+          <p>Osteoporosis Agents</p>
+          <p>
+            <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?label=all&#x00026;query=Denosumab">COMPLETE LABELING</ext-link>
+          </p>
+          <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+        </boxed-text>
+      </sec>
+      <sec id="Denosumab.CHEMICAL_FORMULA_AND_STRUCTURE">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Denosumab.T1" position="anchor" orientation="portrait">
+          <table>
+            <thead>
+              <tr>
+                <th id="hd_h_Denosumab.T1_1_1_1_1" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Denosumab.T1_1_1_1_2" rowspan="1" colspan="1">CAS REGISTRY NO.</th>
+                <th id="hd_h_Denosumab.T1_1_1_1_3" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Denosumab.T1_1_1_1_4" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Denosumab.T1_1_1_1_1" rowspan="1" colspan="1">Denosumab</td>
+                <td headers="hd_h_Denosumab.T1_1_1_1_2" rowspan="1" colspan="1">
+                  <bold>
+                    <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135285955">615258-40-7</ext-link>
+                  </bold>
+                </td>
+                <td headers="hd_h_Denosumab.T1_1_1_1_3" rowspan="1" colspan="1">Monoclonal Antibody</td>
+                <td headers="hd_h_Denosumab.T1_1_1_1_4" rowspan="1" colspan="1">Not Available</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Denosumab.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 28 December 2017</p>
+        <ref-list id="Denosumab.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Denosumab.R1">
+            <mixed-citation publication-type="other">Zimmerman HJ. Drugs used to treat rheumatic and musculospastic disease. In, Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999, pp. 517-54.<italic toggle="yes">
+</italic><annotation><p><italic toggle="yes">(Expert review of hepatotoxicity published in 1999; well before the availability of most monoclonal antibody therapies).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Denosumab.R2">
+            <mixed-citation publication-type="other">Reuben A. Hepatotoxicity of immunosuppressive drugs. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2011, pp. 569-91.<annotation><p><italic toggle="yes"> (Review of hepatotoxicity of immunosuppressive agents; "the biological immuno-suppressants are largely free from hepatotoxicity, with the exception of the TNF alpha antagonists"; denosumab is not specifically mentioned).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Denosumab.R3">
+            <mixed-citation publication-type="other">Friedman PA. Agents affecting mineral ion homeostasis and bone turnover. In, Brunton LL, Chabner BA, Knollman BC, eds. Goodman &#x00026; Gilman's the pharmacological basis of therapeutics. 12th ed. New York: McGraw-Hill, 2011, pp. 1275-1306.<italic toggle="yes">
+</italic><annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Denosumab.R4">
+            <mixed-citation publication-type="journal">McClung MR, Lewiecki EM, Cohen SB, Bolognese MA, Woodson GC, Moffett AH, Peacock M, et al; AMG 162 Bone Loss Study Group. Denosumab in postmenopausal women with low bone mineral density. N Engl J Med 2006; 354: 821-31. <annotation><p><italic toggle="yes">(Among 412 postmenopausal women with low bone density treated with denosumab [3 doses every 3 or 6 months], alendronate or placebo for 12 months, bone density increased with denosumab and alendronate but not placebo, and there were "no clinically relevant changes" in blood chemistry results).</italic></p></annotation><pub-id pub-id-type="pmid">16495394</pub-id></mixed-citation>
+          </ref>
+          <ref id="Denosumab.R5">
+            <mixed-citation publication-type="journal">Lipton A, Steger GG, Figueroa J, Alvarado C, Solal-Celigny P, Body JJ, de Boer R, et al. Randomized active-controlled phase II study of denosumab efficacy and safety in patients with breast cancer-related bone metastases. J Clin Oncol 2007; 25: 4431-7. <annotation><p><italic toggle="yes">(Among 255 women with breast cancer and bone metastases treated with denosumab for at least 13 weeks, there were no "unexpected" changes in liver enzymes).</italic></p></annotation><pub-id pub-id-type="pmid">17785705</pub-id></mixed-citation>
+          </ref>
+          <ref id="Denosumab.R6">
+            <mixed-citation publication-type="journal">Lewiecki EM, Miller PD, McClung MR, Cohen SB, Bolognese MA, Liu Y, Wang A, et al.; AMG 162 Bone Loss Study Group. Two-year treatment with denosumab(AMG 162) in a randomized phase 2 study of postmenopausal women with low BMD. J Bone Miner Res 2007; 22: 1832-41. <annotation><p><italic toggle="yes">(Continued follow-up of 412 women treated with denosumab, alendronate or placebo [McClung 2006]; the incidence of side effects was similar in all three groups and not changed during the second year of the study, and there were "no clinically relevant changes in either serum chemistry or hematology values").</italic></p></annotation><pub-id pub-id-type="pmid">17708711</pub-id></mixed-citation>
+          </ref>
+          <ref id="Denosumab.R7">
+            <mixed-citation publication-type="journal">Cummings SR, San Martin J, McClung MR, Siris ES, Eastell R, Reid IR, Delmas P, et al.; FREEDOM Trial. Denosumab for prevention of fractures in postmenopausal women with osteoporosis. N Engl J Med 2009; 361: 756-65. <annotation><p><italic toggle="yes">(Among 7868 postmenopausal women with osteoporosis treated with denosumab or placebo [every 6 months] for 3 years, bone mineral increased and fractures were less in the denosumab treated patients, while rates of most adverse events were similar except for eczema [3% vs 1.7%], cellulitis [0.3% vs &#x0003c;0.1%] and flatulence [2.2% vs 1.4%]; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">19671655</pub-id></mixed-citation>
+          </ref>
+          <ref id="Denosumab.R8">
+            <mixed-citation publication-type="journal">Denosumab (Prolia) for postmenopausal osteoporosis. Med Lett Drugs Ther. 2010 Oct 18; 52 (1349): 81-2. <annotation><p><italic toggle="yes">(Concise review of mechanism of action, efficacy, safety and costs of denosumab shortly after its approval in the US mentions that adverse effects may include hypocalcemia and rash and more rarely infections, pancreatitis, malignancies and osteonecrosis, but does not mention ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">21045756</pub-id></mixed-citation>
+          </ref>
+          <ref id="Denosumab.R9">
+            <mixed-citation publication-type="journal">Denosumab for bone metastases. Med Lett Drugs Ther 2011; 53 (1356): 8. <annotation><p><italic toggle="yes">(Short description of expansion of indications for denosumab to include bone metastases).</italic></p></annotation><pub-id pub-id-type="pmid">21252843</pub-id></mixed-citation>
+          </ref>
+          <ref id="Denosumab.R10">
+            <mixed-citation publication-type="journal">Dore RK. The RANKL pathway and denosumab. Rheum Dis Clin North Am 2011; 37: 433-52, vi-vii. <annotation><p><italic toggle="yes">(Review of the role of RANK pathway in bone remodeling and mechanism of action, efficacy and safety of denosumab).</italic></p></annotation><pub-id pub-id-type="pmid">22023901</pub-id></mixed-citation>
+          </ref>
+          <ref id="Denosumab.R11">
+            <mixed-citation publication-type="journal">Orwoll E, Teglbj&#x000e6;rg CS, Langdahl BL, Chapurlat R, Czerwinski E, Kendler DL, Reginster JY, et al. A randomized, placebo-controlled study of the effects of denosumab for the treatment of men with low bone mineral density. J Clin Endocrinol Metab 2012; 97: 3161-9. <annotation><p><italic toggle="yes">(Among 242 men with low bone mineral density treated with denosumab or placebo for 1 year, denosumab led to increases in bone density, but no difference in side effects compared to placebo; no mention of ALT levels or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">22723310</pub-id></mixed-citation>
+          </ref>
+          <ref id="Denosumab.R12">
+            <mixed-citation publication-type="journal">Bone HG, Chapurlat R, Brandi ML, Brown JP, Czerwinski E, Krieg MA, Mellstr&#x000f6;m D, et al. The effect of three or six years of denosumab exposure in women with postmenopausal osteoporosis: results from the FREEDOM extension. J Clin Endocrinol Metab 2013; 98: 4483-92. <annotation><p><italic toggle="yes">(Among 3547 postmenopausal women with osteoporosis treated with denosumab for 3 or 6 years, efficacy was sustained with long term use while side effects did not increase with time; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">23979955</pub-id></mixed-citation>
+          </ref>
+          <ref id="Denosumab.R13">
+            <mixed-citation publication-type="journal">Chawla S, Henshaw R, Seeger L, Choy E, Blay JY, Ferrari S, Kroep J, et al. Safety and efficacy of denosumab for adults and skeletally mature adolescents with giant cell tumour of bone: interim analysis of an open-label, parallel-group, phase 2 study. Lancet Oncol 2013; 14: 901-8. <annotation><p><italic toggle="yes">(Among 282 patients with giant cell tumor of bone treated with denosumab for an average of 10 months, side effects were uncommon, but included arthralgias, headache, nausea, fatigue, back pain, low phosphate and calcium [5%]; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">23867211</pub-id></mixed-citation>
+          </ref>
+          <ref id="Denosumab.R14">
+            <mixed-citation publication-type="journal">Recknor C, Czerwinski E, Bone HG, Bonnick SL, Binkley N, Palacios S, Moffett A, et al. Denosumab compared with ibandronate in postmenopausal women previously treated with bisphosphonate therapy: a randomized open-label trial. Obstet Gynecol 2013; 121: 1291-9. <annotation><p><italic toggle="yes">(Among 833 postmenopausal women with osteoporosis who were treated with denosumab [every 6 months] or ibandronate [monthly] for 12 months, bone density increased more with denosumab; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">23812464</pub-id></mixed-citation>
+          </ref>
+          <ref id="Denosumab.R15">
+            <mixed-citation publication-type="journal">Peddi P, Lopez-Olivo MA, Pratt GF, Suarez-Almazor ME. Denosumab in patients with cancer and skeletal metastases: a systematic review and meta-analysis. Cancer Treat Rev 2013; 39: 97-104. <annotation><p><italic toggle="yes">(Systematic review of literature on efficacy and safety of denosumab in therapy of bone metastases; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">22898302</pub-id></mixed-citation>
+          </ref>
+          <ref id="Denosumab.R16">
+            <mixed-citation publication-type="journal">Langdahl BL, Teglbj&#x000e6;rg CS, Ho PR, Chapurlat R, Czerwinski E, Kendler DL, Reginster JY, et al. A 24-month study evaluating the efficacy and safety of denosumab for the treatment of men with low bone mineral density: results from the ADAMO trial. J Clin Endocrinol Metab 2015; 100: 1335-42. <annotation><p><italic toggle="yes">(Among 228 men with low bone mineral density treated with denosumab or placebo for 12 months who were then crossed over to an open label 12 month study, for up to 24 months, and, while serious adverse events occurred in 13 [6%] subjects, none were liver related or clearly related to denosumab and there was no me ntion of ALT elevations). </italic></p></annotation><pub-id pub-id-type="pmid">25607608</pub-id></mixed-citation>
+          </ref>
+          <ref id="Denosumab.R17">
+            <mixed-citation publication-type="journal">Chalasani N, Bonkovsky HL, Fontana R, Lee W, Stolz A, Talwalkar J, Reddy KR, et al.; United States Drug Induced Liver Injury Network. Features and outcomes of 899 patients with drug-induced liver injury: The DILIN Prospective Study. Gastroenterology 2015; 148: 1340-52.e7. <annotation><p><italic toggle="yes">(Among 899 cases of drug induced liver injury enrolled in a US prospective study between 2004 and 2013, no cases were attributed to denosumab or other agents used to treat osteoporosis).</italic></p></annotation><pub-id pub-id-type="pmid">25754159</pub-id></mixed-citation>
+          </ref>
+          <ref id="Denosumab.R18">
+            <mixed-citation publication-type="journal">Papapoulos S, Lippuner K, Roux C, Lin CJ, Kendler DL, Lewiecki EM, Brandi ML, et al. The effect of 8 or 5 years of denosumab treatment in postmenopausal women with osteoporosis: results from the FREEDOM Extension study. Osteoporos Int 2015; 26: 2773-83. <annotation><p><italic toggle="yes">(Among 4550 postmenopausal women with osteoporosis treated with denosumab [every 6 months] for 5-8 years, adverse event rates were low and did not increase or change over time; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">26202488</pub-id></mixed-citation>
+          </ref>
+          <ref id="Denosumab.R19">
+            <mixed-citation publication-type="journal">Stopeck AT, Fizazi K, Body JJ, Brown JE, Carducci M, Diel I, Fujiwara Y, et al. Safety of long-term denosumab therapy: results from the open label extension phase of two phase 3 studies in patients with metastatic breast and prostate cancer. Support Care Cancer 2016; 24: 447-55. <annotation><p><italic toggle="yes"> (In an open label extension of a short term placebo controlled trial of denosumab for patients with breast or prostate cancer and bone metastases for 3-4 years, no new safety concerns arose and serious adverse events included osteonecrosis of the jaw [6-8%], infections [28-42%] and hypocalcemia [&#x0003c;1%], but there was no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">26335402</pub-id></mixed-citation>
+          </ref>
+          <ref id="Denosumab.R20">
+            <mixed-citation publication-type="journal">Bone HG, Wagman RB, Brandi ML, Brown JP, Chapurlat R, Cummings SR, Czerwi&#x00144;ski E, et al. 10 years of denosumab treatment in postmenopausal women with osteoporosis: results from the phase 3 randomised FREEDOM trial and open-label extension. Lancet Diabetes Endocrinol 2017; 5: 513-23. <annotation><p><italic toggle="yes"> (In a long term extension study after a randomized, placebo controlled trial [Cummings 2009], 4550 postmenopausal women with osteoporosis were treated for another 7 years with denosumab; serious adverse events included osteonecrosis of the jaw (n=13) and atypical fractures, but there was no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">28546097</pub-id></mixed-citation>
+          </ref>
+          <ref id="Denosumab.R21">
+            <mixed-citation publication-type="journal">Malnick S, Maor Y, Melzer E, Ziv-Sokolowskaia NN, Neuman MG. Severe hepatocytotoxicity linked to denosumab. Eur Rev Med Pharmacol Sci 2017; 21 (1 Suppl): 78-85. <annotation><p><italic toggle="yes">(72 year old woman with osteoporosis developed liver injury one month after a single, initial infusion of denosumab [bilirubin risng to 13.8 mg/dL, ALT ~1800 U/L, GGT ~750 U/L, INR 1.8], improving with corticosteroid therapy and relapsing when they were stopped; autoantibodies were negative at onset).</italic></p></annotation><pub-id pub-id-type="pmid">28379592</pub-id></mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec id="Denosumab.OTHER_REFERENCE_LINKS" sec-type="link-group">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=Denosumab+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D%3A%222999/12/31%22%5BEDat%5D)">Recent References on Denosumab: from PubMed.gov</ext-link>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Denosumab">Trials on Denosumab: from ClinicalTrials.gov</ext-link>
+            </p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

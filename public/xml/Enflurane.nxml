@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Enflurane" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Enflurane</book-part-id>
+      <title-group>
+        <title>Enflurane</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>1</day>
+          <month>1</month>
+          <year>2018</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="EnergyDrinks" document-type="chapter">Energy Drinks</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Enfuvirtide" document-type="chapter">Enfuvirtide</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Enflurane.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Enflurane.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Enfurane is a volatile anesthetic agent with an excellent safety record which was previously widely used, but has now been replaced by more modern volatile anesthetic agents. Case series and isolated case reports of severe acute liver injury similar to halothane hepatitis attributed to enflurane have been published, but are rare.</p>
+        </sec>
+        <sec id="Enflurane.Background">
+          <title>Background</title>
+          <p>Enflurane (en flur' ane) is a previously widely used halogenated inhalation anesthetic agent similar to halothane, desflurane, sevoflurane and isoflurane. Enflurane has a somewhat slow onset of action and is, therefore, was used largely to maintain anesthesia after induction with other agents. Enflurane became available in 1972 but was withdrawn is no longer in use in the United States, having been replaced by other the more modern halogenated inhalation agents. Enflurane must be administered in a controlled situation by a properly trained and credentialed anesthesiologist or nurse anesthetist and is typically given in concentrations up to 1.5% to 4% with oxygen.</p>
+        </sec>
+        <sec id="Enflurane.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>Prospective, serial blood testing often demonstrates minor transient elevations in serum aminotransferase levels in the 1 to 2 weeks after major surgery and anesthesia. Appearance of ALT levels above 10 times the upper limit of normal, however, is distinctly unusual and points to significant hepatotoxicity. Clinically apparent, severe hepatic injury from enflurane has been reported but is very rare. The injury resembles halothane hepatotoxicity and is marked by acute elevations in serum aminotransferase levels (5- to 50-fold) and appearance of jaundice 2 to 21 days after surgery and anesthesia. There are usually minimal increases in alkaline phosphatase and gammaglutamyl transpeptidase levels. The liver injury is often preceded by a day or two of fever and may be accompanied by rash and eosinophilia. The acute liver injury may be self-limited and resolve within 4 to 8 weeks, but can be severe and associated with acute liver failure. A strong risk factor is previous exposure to any of the halogenated anesthetics and particularly a history of halothane hepatitis or unexplained fever and rash after anesthesia with one of these agents.</p>
+          <p>Likelihood score: B (highly likely cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Enflurane.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The mechanism of enflurane hepatotoxicity is suspected to be similar to that of halothane and associated with creation of reactive intermediates of enflurane. Enflurane is metabolized to some extent by the microsomal drug metabolizing enzyme CYP 2E1 to a trifluoroacetylated reactive intermediate (TFA) that is capable of binding to multiple intracytoplasmic proteins forming potentially immunogenic adducts. The TFA adducts induce antibodies that can be detected in patients with enflurane- as well as halothane hepatotoxicity and are also found in a proportion of health care workers exposed to the volatile anesthetics.</p>
+        </sec>
+        <sec id="Enflurane.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>Severity ranges from mild and transient aminotransferase elevations without symptoms or other evidence of liver injury, to a self limited symptomatic acute hepatitis-like reaction to a severe, acute hepatic failure. The severity and prognosis may relate in part of patient age, being more severe in the elderly and both milder and less common in children. Obesity may also be both a predisposing factor and predictor of outcome. Chronic liver injury from enflurane exposure has not been described. Patients with enflurane induced hepatitis should be cautioned against future exposure to a fluorinated hydrocarbon anesthetic such as halothane, desflurane, isoflurane or sevoflurane.</p>
+          <p>Drug Class: <related-object source-id="livertox" document-id="HalogenatedAnestheti">Halogenated Anesthetics</related-object></p>
+          <p>Other drugs in the Class: <related-object source-id="livertox" document-id="Desflurane">Desflurane</related-object>, <related-object source-id="livertox" document-id="Halothane">Halothane</related-object>, <related-object source-id="livertox" document-id="Isoflurane">Isoflurane</related-object>, <related-object source-id="livertox" document-id="Sevoflurane">Sevoflurane</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Enflurane.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <boxed-text position="anchor" id="Enflurane.BPI" orientation="portrait">
+          <p>
+            <bold>REPRESENTATIVE TRADE NAMES</bold>
+          </p>
+          <p>Enflurane &#x02013; Generic, Ethrane&#x000ae;</p>
+          <p>
+            <bold>DRUG CLASS</bold>
+          </p>
+          <p>Anesthetics, Halogenated</p>
+          <p>
+            <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=enflurane">COMPLETE LABELING</ext-link>
+          </p>
+          <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+        </boxed-text>
+      </sec>
+      <sec id="Enflurane.CHEMICAL_FORMULA_AND_STRUCTURE">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Enflurane.T1" position="anchor" orientation="portrait">
+          <table>
+            <thead>
+              <tr>
+                <th id="hd_h_Enflurane.T1_1_1_1_1" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Enflurane.T1_1_1_1_2" rowspan="1" colspan="1">CAS REGISTRY NO</th>
+                <th id="hd_h_Enflurane.T1_1_1_1_3" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Enflurane.T1_1_1_1_4" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Enflurane.T1_1_1_1_1" rowspan="1" colspan="1">Enflurane</td>
+                <td headers="hd_h_Enflurane.T1_1_1_1_2" rowspan="1" colspan="1">
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://134989789">13838-16-9</ext-link>
+                </td>
+                <td headers="hd_h_Enflurane.T1_1_1_1_3" rowspan="1" colspan="1">C3-H2-Cl-F5-O</td>
+                <td headers="hd_h_Enflurane.T1_1_1_1_4" rowspan="1" colspan="1">
+                  <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Enflurane_Structure.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait">
+                    <alt-text>Enflurane chemical structure</alt-text>
+                  </graphic>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Enflurane.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 01 January 2018</p>
+        <ref-list id="Enflurane.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Enflurane.R1">
+            <mixed-citation publication-type="other">Zimmerman HJ. Anesthetic agents. In, Zimmerman, HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999: pp. 457-82.<annotation><p><italic toggle="yes">(Expert review of hepatotoxicity of anesthetic agents published in 1999; mentions that enflurane appears to be safer than halothane, but it has been implicated in at least 30 cases of hepatic injury with features similar to halothane hepatitis).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Enflurane.R2">
+            <mixed-citation publication-type="other">Kenna JG. Mechanism, pathology, and clinical presentation of hepatoxicity of anesthetic agents. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013: pp 403-422.<annotation><p><italic toggle="yes">(Review of liver injury from anesthetic agents; mentions the incidence of enflurane hepatotoxicity is much less than with halothane, in the order of 1:800,000 exposures but that clinical features of the injury are similar to those of halothane hepatitis).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Enflurane.R3">
+            <mixed-citation publication-type="other">Patel PM, Patel HH, Roth DM. General anesthetics and therapeutic gases. In, Brunton LL, Chabner BA, Knollman BC, eds. Goodman &#x00026; Gilman's the pharmacological basis of therapeutics. 12th ed. New York: McGraw-Hill, 2011, pp. 527-564.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Enflurane.R4">
+            <mixed-citation publication-type="journal">Van der Reis L, Askin SJ, Frecker GN, Fitzgerald WJ. Letter: Hepatic necrosis after enflurane anesthesia. JAMA 1974; 227: 76. <annotation><p><italic toggle="yes">(62 year old woman with unsuspected cirrhosis developed fever 19 days after cholecystectomy using enflurane with subsequent rises in AST [176 to 3000 U/L], LDH [310 to 2000 U/L] and bilirubin [4.8 to 25.5 mg/dL], multiorgan failure and death at day 30).</italic></p></annotation><pub-id pub-id-type="pmid">4859632</pub-id></mixed-citation>
+          </ref>
+          <ref id="Enflurane.R5">
+            <mixed-citation publication-type="journal">Denlinger JK, Lecky JH, Nahrwold ML. Hepatocellular dysfunction without jaundice after enflurane anesthesia. Anesthesiology 1974; 41: 86-7. <annotation><p><italic toggle="yes">(40 year old man developed fever 1 day after receiving enflurane anesthesia [peak bilirubin 1.2 mg/dL, ALT ~900 U/L, AST 370 U/L, eosinophils 6%], resolving within 1 month).</italic></p></annotation><pub-id pub-id-type="pmid">4834383</pub-id></mixed-citation>
+          </ref>
+          <ref id="Enflurane.R6">
+            <mixed-citation publication-type="journal">Douglas HJ, Eger EI 2nd, Biava CG, Renzi C. Hepatic necrosis associated with viral infection after enflurane anesthesia. N Engl J Med 1977; 296: 553-5. <annotation><p><italic toggle="yes">(17 year old boy developed fever 3 days and diarrhea 4 days after enflurane anesthesia with subsequent hepatic failure [bilirubin not given, AST 13,000 U/L, LDH 8700 U/L] and death, autopsy showing massive necrosis and herpes virus inclusions).</italic></p></annotation><pub-id pub-id-type="pmid">189190</pub-id></mixed-citation>
+          </ref>
+          <ref id="Enflurane.R7">
+            <mixed-citation publication-type="journal">Ona FV, Patanella H, Ayub A. Hepatitis associated with enflurane anesthesia. Anesth Analg 1980; 59: 146-9. <annotation><p><italic toggle="yes">(66 year old woman developed high fevers after 2nd anesthesia exposure to enflurane within a few weeks [bilirubin 0.9 rising to 2.6 mg/dL, ALT 300 U/L, Alk P 368 U/L], also received antibiotics, including cephalexin).</italic></p></annotation><pub-id pub-id-type="pmid">7189334</pub-id></mixed-citation>
+          </ref>
+          <ref id="Enflurane.R8">
+            <mixed-citation publication-type="journal">Lewis JH, Zimmerman HJ, Ishak KG, Mullick FG. Enflurane hepatotoxicity. A clinicopathologic study of 24 cases. Ann Intern Med 1983; 98: 984-92. <annotation><p><italic toggle="yes">(Review of 10 published and 48 unpublished (FDA, AFIP) reports of enflurane hepatotoxicity; 24 considered likely, mean age 46 years, 16 had previous exposures, onset of fever in few hours to days after exposure, jaundice onset in 3 days to 3 weeks, eosinophilia in 29%, ALT 279-8000 U/L, LDH 260-10,000 U/L, Alk P 1-5 times ULN, bilirubin 1.2-32 mg/dL, 3 patients developed renal failure and 5 died).</italic></p></annotation><pub-id pub-id-type="pmid">6859708</pub-id></mixed-citation>
+          </ref>
+          <ref id="Enflurane.R9">
+            <mixed-citation publication-type="journal">Sigurdsson J, Hreidarsson AB, Thjodleifsson B. Enflurane hepatitis. A report of a case with a previous history of halothane hepatitis. Acta Anaesthesiol Scand 1985; 29: 495-6. <annotation><p><italic toggle="yes">(32 year old woman with history of halothane hepatitis was on phenobarbital and carbamazepine and underwent enflurane anesthesia, developing fever on day 1 and jaundice on day 2 [bilirubin 5.8 mg/dL, AST 517 U/L, Alk P 1.5 times ULN], resolving within 6 weeks).</italic></p></annotation><pub-id pub-id-type="pmid">4036534</pub-id></mixed-citation>
+          </ref>
+          <ref id="Enflurane.R10">
+            <mixed-citation publication-type="journal">Eger EI 2nd, Smuckler EA, Ferrell LD, Goldsmith CH, Johnson BH. Is enflurane hepatotoxic? Anesth Analg 1986; 65: 21-30. <annotation><p><italic toggle="yes">(Reanalysis of data from Lewis et al [1983] suggested that enflurane was not the cause of liver injury in most cases; other causes being viruses, sepsis, shock and other medications).</italic></p></annotation><pub-id pub-id-type="pmid">3940466</pub-id></mixed-citation>
+          </ref>
+          <ref id="Enflurane.R11">
+            <mixed-citation publication-type="journal">Christ DD, Satoh H, Kenna JG, Pohl LR. Potential metabolic basis for enflurane hepatitis and the apparent cross-sensitization between enflurane and halothane. Drug Metab Dispos 1988; 16: 135-40. <annotation><p><italic toggle="yes">(Rats given anesthetics developed acylated hepatic microsomal protein adducts detectable by ELISA, halothane&#x0003e;&#x0003e; enflurane&#x0003e;&#x0003e; isoflurane).</italic></p></annotation><pub-id pub-id-type="pmid">2894942</pub-id></mixed-citation>
+          </ref>
+          <ref id="Enflurane.R12">
+            <mixed-citation publication-type="journal">Russo MW, Galanko JA, Shrestha R, Fried MW, Watkins P. Liver transplantation for acute liver failure from drug-induced liver injury in the United States. Liver Transpl 2004; 10: 1018-23. <annotation><p><italic toggle="yes"> (</italic></p></annotation><annotation><p><italic toggle="yes">Among ~50,000 liver transplants done in the United States between 1990 and 2002, 137 [0.2%] were done for idiosyncratic drug induced acute liver failure, of which 3 were attributed to halothane and 1 to isoflurane, none to the other halogenated anesthetics).</italic></p></annotation><pub-id pub-id-type="pmid">15390328</pub-id></mixed-citation>
+          </ref>
+          <ref id="Enflurane.R13">
+            <mixed-citation publication-type="journal">Bj&#x000f6;rnsson E, Jerlstad P, Bergqvist A, Olsson R. Fulminant drug-induced hepatic failure leading to death or liver transplantation in Sweden. Scand J Gastroenterol 2005; 40: 1095-101. <annotation><p><italic toggle="yes"> (</italic></p></annotation><annotation><p><italic toggle="yes">36 years of reporting to Swedish registry identified 103 cases of acute liver failure due to drugs, of which 16 were attributed to halothane [ranking #1] but none to the other halogenated anesthetics).</italic></p></annotation><pub-id pub-id-type="pmid">16165719</pub-id></mixed-citation>
+          </ref>
+          <ref id="Enflurane.R14">
+            <mixed-citation publication-type="journal">Bj&#x000f6;rnsson E, Olsson R. Suspected drug-induced liver fatalities reported to the WHO database. Dig Liver Dis 2006; 38: 33-8. <annotation><p><italic toggle="yes"> (The WHO database of fatal adverse drug reactions from 1968-2003 includes 4690 reports of drug induced liver fatality: halothane ranked fifth in frequency but most cases were reported before 1991).</italic></p></annotation><pub-id pub-id-type="pmid">16054882</pub-id></mixed-citation>
+          </ref>
+          <ref id="Enflurane.R15">
+            <mixed-citation publication-type="journal">Chalasani N, Fontana RJ, Bonkovsky HL, Watkins PB, Davern T, Serrano J, Yang H, Rochon J; Drug Induced Liver Injury Network (DILIN). Causes, clinical features, and outcomes from a prospective study of drug-induced liver injury in the United States. Gastroenterology 2008; 135: 1924-34. <annotation><p><italic toggle="yes">(Among 300 cases of drug induced liver disease collected in the US between 2003 and 2008, 2 cases were attributed to desflurane, 1 to sevoflurane, but none to enflurane).</italic></p></annotation><pub-id pub-id-type="pmid">18955056</pub-id></mixed-citation>
+          </ref>
+          <ref id="Enflurane.R16">
+            <mixed-citation publication-type="journal">Devarbhavi H, Dierkhising R, Kremers WK, Sandeep MS, Karanth D, Adarsh CK. Single-center experience with drug-induced liver injury from India: causes, outcome, prognosis, and predictors of mortality. Am J Gastroenterol 2010; 105: 2396-404.<annotation><p><italic toggle="yes"><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/pubmed/0648003">PubMed Citation</ext-link> (313 cases of drug induced liver injury were seen over a 12 year period at a large hospital in Bangalore, India; none were attributed to anesthetic agents).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Enflurane.R17">
+            <mixed-citation publication-type="journal">Reuben A, Koch DG, Lee WM; Acute Liver Failure Study Group. Drug-induced acute liver failure: results of a U.S. multicenter, prospective study. Hepatology 2010; 52: 2065-76. <annotation><p><italic toggle="yes">(Among 1198 patients with acute liver failure enrolled in a US prospective study between 1998 and 2007, 133 were attributed to drug induced liver injury, of which 1 was attributed to halothane, 1 to isoflurane, but none to enflurane).</italic></p></annotation><pub-id pub-id-type="pmid">20949552</pub-id></mixed-citation>
+          </ref>
+          <ref id="Enflurane.R18">
+            <mixed-citation publication-type="journal">Safari S, Motavaf M, Seyed Siamdoust SA, Alavian SM. Hepatotoxicity of halogenated inhalational anesthetics. Iran Red Crescent Med J 2014; 16: e20153. <annotation><p><italic toggle="yes">(Review of hepatotoxicity of the volatile halogenated anesthetics).</italic></p></annotation><pub-id pub-id-type="pmid">25593732</pub-id></mixed-citation>
+          </ref>
+          <ref id="Enflurane.R19">
+            <mixed-citation publication-type="journal">Lin J, Moore D, Hockey B, Di Lernia R, Gorelik A, Liew D, Nicoll A. Drug-induced hepatotoxicity: incidence of abnormal liver function tests consistent with volatile anaesthetic hepatitis in trauma patients. Liver Int 2014; 34: 576-82. <annotation><p><italic toggle="yes">(Retrospective analysis of records from 1556 patients admitted to a trauma unit during 2008 identified 47 cases of possible volatile anesthetic related liver injury, including 12 who developed ALT levels above 200 U/L of whom 11 had fever and 6 eosinophilia, but none were jaundiced or developed acute liver failure).</italic></p></annotation><pub-id pub-id-type="pmid">23944929</pub-id></mixed-citation>
+          </ref>
+          <ref id="Enflurane.R20">
+            <mixed-citation publication-type="journal">Hern&#x000e1;ndez N, Bessone F, S&#x000e1;nchez A, di Pace M, Brahm J, Zapata R, A Chirino R, et al. Profile of idiosyncratic drug induced liver injury in Latin America. An analysis of published reports. Ann Hepatol 2014; 13: 231-9. (Systematic review of literature of drug induced liver injury in Latin American countries published from 1996 to 2012 identified 176 cases of which 5 [3%] were attributed to halothane and caused acute liver failure, while<annotation><p><italic toggle="yes">no other volatile anesthetic was listed).</italic></p></annotation><pub-id pub-id-type="pmid">24552865</pub-id></mixed-citation>
+          </ref>
+          <ref id="Enflurane.R21">
+            <mixed-citation publication-type="journal">Chalasani N, Bonkovsky HL, Fontana R, Lee W, Stolz A, Talwalkar J, Reddy KR, et al.; United States Drug Induced Liver Injury Network. Features and outcomes of 899 patients with drug-induced liver injury: The DILIN Prospective Study. Gastroenterology 2015; 148: 1340-52.e7. <annotation><p><italic toggle="yes">(Among 899 cases of drug induced liver injury enrolled in a US prospective study between 2004 and 2013, 2 were attributed to isoflurane, 1 to sevoflurane, but none to halothane, enflurane or desflurane).</italic></p></annotation><pub-id pub-id-type="pmid">25754159</pub-id></mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec id="Enflurane.OTHER_REFERENCE_LINKS" sec-type="link-group">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=enflurane/AE+AND+Human%5BMH%5D+AND+(jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI+OR+hepatitis,+toxic%5BMH%5D)+AND+(%222009/1/1%22%5BEDat%5D%3A%222999/12/31%22%5BEDat%5D)">Recent References on Enflurane: from PubMed.gov</ext-link>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=enflurane">Trials on Enflurane: from ClinicalTrials.gov</ext-link>
+            </p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

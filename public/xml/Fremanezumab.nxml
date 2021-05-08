@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Fremanezumab" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Fremanezumab</book-part-id>
+      <title-group>
+        <title>Fremanezumab</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>15</day>
+          <month>4</month>
+          <year>2019</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Fostamatinib" document-type="chapter">Fostamatinib</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Fulvestrant" document-type="chapter">Fulvestrant</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Fremanezumab.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Fremanezumab.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Fremanezumab is a monoclonal antibody to the calcitonin gene related peptide which is used for prevention of migraine in patients with episodic or chronic migraine headaches. Fremanezumab has not been associated with serum enzyme elevations during therapy nor has it been implicated in cases of clinically apparent drug induced liver injury with jaundice.</p>
+        </sec>
+        <sec id="Fremanezumab.Background">
+          <title>Background</title>
+          <p>Fremanezumab (free" ma nez' ue mab) is a recombinant, humanized monoclonal antibody to the calcitonin gene related peptide (CGRP), a neuropeptide which plays an important role in migraine headaches. CGRP is a found throughout the central and peripheral nervous systems and has potent vasodilator and pain-signaling activities. Circulating levels of CGRP are elevated in patients with migraines, and the efficacy of migraine therapies (serotonin receptor agonists, ergot alkaloids) is associated with lowering of CGRP levels. Fremanezumab is a CGRP antagonist which blocks the binding of the neuropeptide to its receptor and the subsequent downstream activation of the intracellular signaling pathways. Fremanezumab was approved for use in the United States in 2018 as a means of prevention of migraine headaches and was one of three CGRP antagonists approved in 2018 for this indication (the others being erenumab and galcanezumab). Fremanezumab in available in solution in single use prefilled syringes of 225 mg under the brand name Ajovy. The recommended dose is 225 mg subcutaneously once monthly or 675 mg every 3 months. Fremanezumab is not effective as therapy of acute migraine, and it lowers the frequency but typically does not abolish all episodes of chronic migraine headaches. Side effects of fremanezumab are uncommon but can include injection site reactions and hypersensitivity reactions. Fremanezumab has not been associated with significant numbers of severe adverse events, however it has had limited general use and the effects of long term suppression of CGRP signaling are unknown but could theoretically increase the rate of serious cardiovascular or cerebrovascular ischemic events.</p>
+        </sec>
+        <sec id="Fremanezumab.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>In large clinical trials, fremanezumab was associated with isolated, rare elevations in serum aminotransferase levels during therapy (&#x0003c;1%), and rates of most adverse reactions were similar to those in patients who received placebo. There have been no published reports of clinically apparent acute liver injury attributed to fremanezumab therapy. Thus, significant liver injury from fremanezumab must be rare if it occurs at all.</p>
+          <p>Likelihood score: E (unlikely cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Fremanezumab.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>Fremanezumab is a humanized monoclonal antibody and is unlikely to be inherently hepatotoxic. While most recombinant proteins are metabolized by the liver, the metabolism leads largely to small peptides and amino acids which may be reused to synthesize proteins and are unlikely to be toxic or immunogenic.</p>
+          <p>Drug Class: <related-object source-id="livertox" document-id="MigraineHeadacheAgen">Migraine Headache Agents</related-object>, <related-object source-id="livertox" document-id="MonoclonalAntibodies">Monoclonal Antibodies</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Fremanezumab.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <boxed-text position="anchor" id="Fremanezumab.BPI" orientation="portrait">
+          <p>
+            <bold>REPRESENTATIVE TRADE NAMES</bold>
+          </p>
+          <p>Fremanezumab &#x02013; Ajovy&#x000ae;</p>
+          <p>
+            <bold>DRUG CLASS</bold>
+          </p>
+          <p>Migraine Headache Agents</p>
+          <p>
+            <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Ergot+Alkaloids">COMPLETE LABELING</ext-link>
+          </p>
+          <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+        </boxed-text>
+      </sec>
+      <sec id="Fremanezumab.CHEMICAL_FORMULA_AND_STRUCT">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Fremanezumab.T1" position="anchor" orientation="portrait">
+          <table>
+            <thead>
+              <tr>
+                <th id="hd_h_Fremanezumab.T1_1_1_1_1" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Fremanezumab.T1_1_1_1_2" rowspan="1" colspan="1">CAS REGISTRY NUMBER</th>
+                <th id="hd_h_Fremanezumab.T1_1_1_1_3" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Fremanezumab.T1_1_1_1_4" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Fremanezumab.T1_1_1_1_1" rowspan="1" colspan="1">Fremanezumab</td>
+                <td headers="hd_h_Fremanezumab.T1_1_1_1_2" rowspan="1" colspan="1">
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://381127904">1655501-53-3</ext-link>
+                </td>
+                <td headers="hd_h_Fremanezumab.T1_1_1_1_3" rowspan="1" colspan="1">Monoclonal Antibody</td>
+                <td headers="hd_h_Fremanezumab.T1_1_1_1_4" rowspan="1" colspan="1">Not Available</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Fremanezumab.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 15 April 2019</p>
+        <p>Abbreviations: CGRP, calcitonin gene related protein.</p>
+        <ref-list id="Fremanezumab.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Fremanezumab.R1">
+            <mixed-citation publication-type="other">Zimmerman HJ. Drugs used to treat rheumatic and musculospastic disease. In, Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999, pp. 517-54.<annotation><p><italic toggle="yes">(Expert review of hepatotoxicity published in 1999, well before the availability of most monoclonal antibody therapies).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Fremanezumab.R2">
+            <mixed-citation publication-type="other">Reuben A. Hepatotoxicity of immunosuppressive drugs. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2011, pp. 569-91.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of monoclonal immunosuppressive agents; "the biological immuno-suppressants are largely free from hepatotoxicity, with the exception of the TNF alpha antagonists"; fremanezumab is not discussed).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Fremanezumab.R3">
+            <mixed-citation publication-type="other">
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.accessdata.fda.gov/scripts/cder/daf/">https://www.accessdata.fda.gov/scripts/cder/daf/</ext-link>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(FDA Drug Approvals website that has product labels [package inserts], letters of approval and full FDA scientific review of the new drug application for safety and efficacy).</italic>
+                </p>
+              </annotation>
+            </mixed-citation>
+          </ref>
+          <ref id="Fremanezumab.R4">
+            <mixed-citation publication-type="journal">Bigal ME, Dodick DW, Rapoport AM, Silberstein SD, Ma Y, Yang R, Loupe PS, et al. Safety, tolerability, and efficacy of TEV-48125 for preventive treatment of high-frequency episodic migraine: a multicentre, randomised, double-blind, placebo-controlled, phase 2b study. Lancet Neurol 2015; 14: 1081-90. <annotation><p><italic toggle="yes">(Among 297 patients with episodic migraine treated with injections of fremanezumab [225 mg or 675 mg] or placebo monthly, headache days decreased more with the monoclonal antibody [-6.1 and -6.3 vs -3.5 days per month] and adverse event rates were similar: &#x0201c;liver enzyme concentrations were stable in the treatment phase of the study&#x0201d;).</italic></p></annotation><pub-id pub-id-type="pmid">26432182</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fremanezumab.R5">
+            <mixed-citation publication-type="journal">Silberstein SD, Dodick DW, Bigal ME, Yeung PP, Goadsby PJ, Blankenbiller T, Grozinski-Wolff M, et al. Fremanezumab for the preventive treatment of chronic migraine. N Engl J Med 2017; 377: 2113-22. <annotation><p><italic toggle="yes">(Among 1130 patients with chronic migraine treated with injections of fremanezumab [225 mg monthly or 675 mg every 3 months] or placebo, headache days decreased more with active drug than with placebo [-4.3 and -4.6 vs -2.5 days per month] and adverse event rates were similar, although 10 treated subjects [1.3%] had transient ALT elevations which were above 5 times ULN in 2, but all were without jaundice and resolved without dose adjustment or discontinuation).</italic></p></annotation><pub-id pub-id-type="pmid">29171818</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fremanezumab.R6">
+            <mixed-citation publication-type="journal">Dodick DW, Silberstein SD, Bigal ME, Yeung PP, Goadsby PJ, Blankenbiller T, Grozinski-Wolff M, et al. Effect of fremanezumab compared with placebo for prevention of episodic migraine: a randomized clinical trial JAMA 2018; 319: 1999-2008. <annotation><p><italic toggle="yes">(Among 875 adults with episodic migraine treated with fremanezumab [225 mg monthly or 625 mg every 3 months] or placebo, headache days decreased more with active drug [-3.7 and -3.4 vs -2.2 days per month] and adverse event rates were similar except for injection site reactions; while ALT or AST elevations above 3 times ULN occurred in 0.7% and 0.3% on fremanezumab vs 0% on placebo, but none were associated with jaundice or led to early discontinuation).</italic></p></annotation><pub-id pub-id-type="pmid">29800211</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fremanezumab.R7">
+            <mixed-citation publication-type="journal">Edvinsson L. The CGRP pathway in migraine as a viable target for therapies. Headache 2018; 58 Suppl 1: 33-47. <annotation><p><italic toggle="yes">(Review of the calcitonin gene related peptide [CGRP] and its receptor including their relationship to migraine headaches and development of small molecular inhibitors and monoclonal antibody therapies based upon their inhibition).</italic></p></annotation><pub-id pub-id-type="pmid">29697153</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fremanezumab.R8">
+            <mixed-citation publication-type="journal">Tepper SJ. History and review of anti-calcitonin gene-related peptide (CGRP) therapies: from translational research to treatment. Headache 2018; 58 Suppl 3: 238-75. <annotation><p><italic toggle="yes">(Review of the role of CGRP in pathogenesis of migraine headaches and the development of small molecules and monoclonal antibody antagonists of CGRP actions).</italic></p></annotation><pub-id pub-id-type="pmid">30242830</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fremanezumab.R9">
+            <mixed-citation publication-type="journal">Hoy SM. Fremanezumab: First global approval. Drugs 2018; 78: 1829-34. <annotation><p><italic toggle="yes">(Review of the mechanism of action, pharmacokinetics, clinical efficacy and safety of fremanezumab shortly after its approval in the United States; in pooled analyses of 1904 patients, the only adverse reaction occurring more frequently with fremanezumab was injection site reactions [43-45% vs 38%] and ALT elevations above 3 times ULN occurred in less than 1% of fremanezumab treated persons).</italic></p></annotation><pub-id pub-id-type="pmid">30406901</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fremanezumab.R10">
+            <mixed-citation publication-type="journal">Fremanezumab (Ajovy) and galcanezumab (Emgality) for migraine prevention. Med Lett Drugs Ther 2018; 60 (1559): 177-80. <annotation><p><italic toggle="yes">(Concise review of the mechanism of action, clinical efficacy, safety and costs of fremanezumab and galcanezumab shortly after their approval for prevention of migraine; does not mention ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">30681655</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fremanezumab.R11">
+            <mixed-citation publication-type="journal">Silberstein SD, McAllister P, Ning X, Faulhaber N, Lang N, Yeung P, Schiemann J, et al. Safety and tolerability of fremanezumab for the prevention of migraine: a pooled analysis of phases 2b and 3 clinical trials. Headache 2019 Apr 12. [Epub ahead of print]. <annotation><p><italic toggle="yes">(Among 2566 patients with migraine enrolled in 4 placebo controlled trials of fremanezumab, states that ALT or AST elevations of at least 3 times ULN "were infrequent" and similar in rates to those treated with placebo [&#x0003c;1% ] and that no patient developed clinically apparent liver injury).</italic></p></annotation><pub-id pub-id-type="pmid">30977520</pub-id></mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec id="Fremanezumab.OTHER_REFERENCE_LINKS" sec-type="link-group">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=Fremanezumab+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D%3A%222999/12/31%22%5BEDat%5D)">Recent References on Fremanezumab: from PubMed.gov</ext-link>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Fremanezumab">Trials on Fremanezumab: from ClinicalTrials.gov</ext-link>
+            </p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

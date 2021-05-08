@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Trandolapril" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Trandolapril</book-part-id>
+      <title-group>
+        <title>Trandolapril</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>11</day>
+          <month>2</month>
+          <year>2018</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Trametinib" document-type="chapter">Trametinib</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Transplant_Drugs" document-type="chapter">Transplant Agents</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Trandolapril.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Trandolapril.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Trandolapril is an oral angiotensin-converting enzyme (ACE) inhibitor used in the therapy of hypertension and heart failure. Trandolapril is associated with a low rate of transient serum aminotransferase elevations, but has yet to be linked to instances of acute liver injury.</p>
+        </sec>
+        <sec id="Trandolapril.Background">
+          <title>Background</title>
+          <p>Trandolapril (tran dol' a pril) is an ACE inhibitor which is approved for use alone and in combination with other agents in the therapy of hypertension and congestive heart failure. Like other ACE inhibitors, trandolapril inhibits the conversion of angiotensin I, a relatively inactive molecule, to angiotensin II which is the major mediator of vasoconstriction and volume expansion induced by the renin-angiotensin system. Other host enzymes besides that which converts angiotensin I to II may be inhibited as well, which may account for some of the side effects of the ACE inhibitors. Trandolapril was approved for use in the United States in 1996 and is available in 1, 2 and 4 mg tablets in generic forms and under the trade name Mavik. The typical daily dose in adults is 2 to 4 mg in one or two divided doses which is administered long term. Trandolapril is also available in fixed dose combinations with verapamil (Tarka and generics). Common side effects include dizziness, fatigue, headache, cough, gastrointestinal upset and skin rash.</p>
+        </sec>
+        <sec id="Trandolapril.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>Trandolapril, like other ACE inhibitors, has been associated with a low rate of serum aminotransferase elevations (&#x0003c;2%) that, in controlled trials, was no higher than with placebo therapy. These elevations were transient and rarely required dose modification. Clinically apparent cases of acute liver injury due to trandolapril have yet to be published. Most ACE inhibitors have been associated with rare instances of clinically apparent liver injury, which typically arises 2 to 12 weeks after starting therapy and is associated with a cholestatic pattern of injury which can be severe and prolonged. Immunoallergic manifestations (rash, fever, eosinophilia) are infrequent and most patients do not develop autoantibodies. Rare instances of severe acute hepatocellular injury, sometimes arising 1 to 4 years after starting ACE inhibitors have been described.</p>
+          <p>Likelihood score: E* (unproven but suspected rare cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Trandolapril.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The cause of the minor serum aminotransferase elevations associated ACE inhibitors including trandolapril is not known. Trandolapril is hydrolyzed in the liver to the active metabolite trandolaprilat, but undergoes minimal further hepatic metabolism.</p>
+        </sec>
+        <sec id="Trandolapril.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>There have been too few instances of trandolapril associated liver injury described to provide an overall description of its course and outcome. Most instances of acute liver injury reported with ACE inhibitors have been self limited, but there have been rare reports of acute liver failure due to captopril, enalapril, lisinopril and benazepril and several reports of cholestatic hepatitis due to ACE inhibitors leading to prolonged jaundice and vanishing bile duct syndrome. Patients with clinically apparent trandolapril induced liver injury should avoid use of other ACE inhibitors, although cross sensitivity to liver injury among the members of this class of agents has not always been shown.</p>
+          <p>References to the safety and potential hepatotoxicity of trandolapril are given in the Overview section on the Angiotensin-Converting Enzyme (ACE) Inhibitors.</p>
+          <p>Drug Class: <related-object source-id="livertox" document-id="AntihypertensiveAgen">Antihypertensive Agents</related-object>, <related-object source-id="livertox" document-id="ACEinibitors">Angiotensin-Converting Enzyme Inhibitors</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Trandolapril.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <boxed-text position="anchor" id="Trandolapril.BPI" orientation="portrait">
+          <p>
+            <bold>REPRESENTATIVE TRADE NAMES</bold>
+          </p>
+          <p>Trandolapril &#x02013; Generic, Mavik&#x000ae;</p>
+          <p>
+            <bold>DRUG CLASS</bold>
+          </p>
+          <p>Angiotensin-Converting Enzyme Inhibitors</p>
+          <p>
+            <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Trandolapril">COMPLETE LABELING</ext-link>
+          </p>
+          <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+        </boxed-text>
+      </sec>
+      <sec id="Trandolapril.CHEMICAL_FORMULA_AND_STRUCT">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Trandolapril.T1" position="anchor" orientation="portrait">
+          <table>
+            <thead>
+              <tr>
+                <th id="hd_h_Trandolapril.T1_1_1_1_1" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Trandolapril.T1_1_1_1_2" rowspan="1" colspan="1">CAS REGISTRY NUMBER</th>
+                <th id="hd_h_Trandolapril.T1_1_1_1_3" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Trandolapril.T1_1_1_1_4" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Trandolapril.T1_1_1_1_1" rowspan="1" colspan="1">Trandolapril</td>
+                <td headers="hd_h_Trandolapril.T1_1_1_1_2" rowspan="1" colspan="1">
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135060465">87679-37-6</ext-link>
+                </td>
+                <td headers="hd_h_Trandolapril.T1_1_1_1_3" rowspan="1" colspan="1">C24-H34-N2-O5</td>
+                <td headers="hd_h_Trandolapril.T1_1_1_1_4" rowspan="1" colspan="1">
+                  <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Trandolapril_Structure.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait">
+                    <alt-text>Trandolapril Chemical Structure</alt-text>
+                  </graphic>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Trandolapril.OTHER_REFERENCE_LINKS" sec-type="link-group">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=(Trandolapril/AE)+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D%3A%222999/12/31%22%5BEDat%5D)">Recent References on Trandolapril: from PubMed.gov</ext-link>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Trandolapril">Trials on Trandolapril: from ClinicalTrials.gov</ext-link>
+            </p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

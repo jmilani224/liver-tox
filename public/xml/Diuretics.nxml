@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Diuretics" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Diuretics</book-part-id>
+      <title-group>
+        <title>Diuretics</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>2</day>
+          <month>10</month>
+          <year>2017</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Disulfiram" document-type="chapter">Disulfiram</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Docetaxel" document-type="chapter">Docetaxel</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Diuretics.OVERVIEW">
+        <title>OVERVIEW</title>
+        <p content-type="pubmed-excerpt">Diuretics constitute a large family of medications that increase urine flow and induce urinary sodium loss and are widely used for therapy of hypertension, congestive heart failure, and edematous states. Diuretics in current use (and the year of their approval for use in the United States) include chlorothiazide (1958), hydrochlorothiazide (1959), bendroflumethiazide (1959), spironolactone (1960), chlorthalidone (1960), methychlothiazide (1961), polythiazide (1961), triamterene (1964), furosemide (1966), ethacrynic acid (1967), metolazone (1973), bumetanide (1983), indapamide (1983), amiloride (1986), acetazolamide (1986), torsemide (1993), and eplerenone (2002). Diuretics are typically classified as thiazide diuretics (bendroflumethiazide, chlorothiazide, chlorthalidone, hydrochlorothiazide, indapamide, metolazone and polythiazide), loop diuretics (bumetanide, ethacrynic acid, furosemide, and torsemide), and potassium-sparing agents (amiloride, eplerenone, spironolactone, and triamterene). The carbonic anhydrase blockers acetazolamide (1986) and methazolamide (1959) are also diuretics, but are more commonly used for the therapy of glaucoma.</p>
+        <p content-type="pubmed-excerpt">Diuretics are some of the most frequently used medications in medicine and are usually well tolerated. Common side effects are those that are caused by the diuresis and mineral loss such as weakness, dizziness, electrolyte imbalance, low sodium and potassium. Diuretics have not been associated with an appreciable increased rate of serum aminotransferase elevations and have rarely been associated with clinically apparent liver injury. Isolated case reports of idiosyncratic hepatotoxicity due to diuretics have been published, but there have been virtually no case series on individual diuretics or even whole class of drugs. The case reports that have been published provide only a very general pattern of injury that has not provided a clear clinical signature or suggestion that hepatotoxicity is a class effect among the thiazides and the loop diuretics. Switching from one diuretic to another has not been reported in any systematic fashion. Most information on hepatotoxicity is available on the commonly used diuretics which include (and the number of prescriptions filled in 2007 for each): hydrochlorothiazide (45 million), furosemide (37 million), triamterene (21 million), spironolactone (8 million), and metolazone, bumetanide, indapamide and torsemide (1 to 2 million each). Diuretics implicated in rare cases of drug induced liver injury include hydrochlorothiazide, acetazolamide, amiloride, spironolactone and triamterene.</p>
+        <p content-type="pubmed-excerpt">The thiazide and loop diuretics are discussed as a class; the other diuretics as individual agents. All references are given together at the end of this introductory section.</p>
+        <list list-type="bullet">
+          <list-item>
+            <p><related-object source-id="livertox" document-id="CarbonicAnhydraseInh">Carbonic Anhydrase Inhibitors</related-object>
+<list list-type="bullet"><list-item><p><related-object source-id="livertox" document-id="CarbonicAnhydraseInh">Acetazolamide</related-object></p></list-item><list-item><p><related-object source-id="livertox" document-id="CarbonicAnhydraseInh">Methazolamide</related-object></p></list-item></list></p>
+          </list-item>
+          <list-item>
+            <p><related-object source-id="livertox" document-id="LoopDiuretics">Loop Diuretics</related-object>
+<list list-type="bullet"><list-item><p><related-object source-id="livertox" document-id="LoopDiuretics">Bumetanide</related-object></p></list-item><list-item><p><related-object source-id="livertox" document-id="LoopDiuretics">Ethacrynic Acid</related-object></p></list-item><list-item><p><related-object source-id="livertox" document-id="LoopDiuretics">Furosemide</related-object></p></list-item><list-item><p><related-object source-id="livertox" document-id="LoopDiuretics">Torsemide</related-object></p></list-item></list></p>
+          </list-item>
+          <list-item>
+            <p>Potassium-Sparing Diuretics <list list-type="bullet"><list-item><p><related-object source-id="livertox" document-id="Amiloride">Amiloride</related-object></p></list-item><list-item><p><related-object source-id="livertox" document-id="Eplerenone">Eplerenone</related-object></p></list-item><list-item><p><related-object source-id="livertox" document-id="Spironolactone">Spironolactone</related-object></p></list-item><list-item><p><related-object source-id="livertox" document-id="Triamterene">Triamterene</related-object></p></list-item></list></p>
+          </list-item>
+          <list-item>
+            <p><related-object source-id="livertox" document-id="ThiazideDiuretics">Thiazide Diuretics</related-object>
+<list list-type="bullet"><list-item><p><related-object source-id="livertox" document-id="ThiazideDiuretics">Bendroflumethiazide</related-object></p></list-item><list-item><p><related-object source-id="livertox" document-id="ThiazideDiuretics">Chlorothiazide</related-object></p></list-item><list-item><p><related-object source-id="livertox" document-id="ThiazideDiuretics">Chlorthalidone</related-object></p></list-item><list-item><p><related-object source-id="livertox" document-id="ThiazideDiuretics">Hydrochlorothiazide</related-object></p></list-item><list-item><p><related-object source-id="livertox" document-id="ThiazideDiuretics">Indapamide</related-object></p></list-item><list-item><p><related-object source-id="livertox" document-id="ThiazideDiuretics">Metolazone</related-object></p></list-item><list-item><p><related-object source-id="livertox" document-id="ThiazideDiuretics">Polythiazide</related-object></p></list-item></list></p>
+          </list-item>
+          <list-item>
+            <p>Vasopressin Antagonists <list list-type="bullet"><list-item><p><related-object source-id="livertox" document-id="Tolvaptan">Tolvaptan</related-object></p></list-item></list></p>
+          </list-item>
+        </list>
+      </sec>
+      <sec id="Diuretics.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 2 October 2017</p>
+        <ref-list id="Diuretics.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Diuretics.R1">
+            <mixed-citation publication-type="other">Zimmerman HJ. Diuretic drugs. Drugs used in cardiovascular disease. In, Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999, pp. 662-4.<annotation><p><italic toggle="yes">(Expert review of hepatotoxicity of diuretics published in 1999 mentions that clinically apparent liver injury due to diuretics is rare; cholestatic jaundice with features of hypersensitivity have been reported with the thiazide diuretics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Diuretics.R2">
+            <mixed-citation publication-type="other">De Marzio DH, Navarro VJ. Hepatotoxicity of cardiovascular and antidiabetic drugs. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013, pp. 519-40.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of cardiovascular agents, mentions that thiazide diuretics can rarely cause cholestatic hepatitis). </italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Diuretics.R3">
+            <mixed-citation publication-type="other">Reilly RF, Jackson EK. Regulation of renal function and vascular volume. In, Brunton LL, Chabner BA, Knollman BC, eds. Goodman &#x00026; Gilman&#x02019;s the pharmacological basis of therapeutics. 12th ed. New York: McGraw-Hill, 2011, pp. 671-720.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Diuretics.R4">
+            <mixed-citation publication-type="journal">Drerup AL, Alexander WA, Lumb GD, Cummins AJ, Clark GM. Jaundice occurring in a patient treated with chlorothiazide. N Engl J Med 1958; 259: 534-6. <annotation><p><italic toggle="yes">(62 year old woman developed pruritus within 4 days and jaundice after 14 days of starting chlorothiazide [bilirubin 17.1 mg/dL, Alk P 14.6 BU, cholesterol 990 mg/dL], biopsy showing intrahepatic cholestasis and complete recovery 2 months after stopping chlorothiazide; had hepatomegaly and xantholasma before treatment).</italic></p></annotation><pub-id pub-id-type="pmid">13578100</pub-id></mixed-citation>
+          </ref>
+          <ref id="Diuretics.R5">
+            <mixed-citation publication-type="journal">Husebye KO. Jaundice with persisting pericholangiolitic inflammation in a patient treated with chlorothiazide. Report of a case. Am J Dig Dis 1964; 9: 439-46. <annotation><p><italic toggle="yes">(58 year old woman developed jaundice after 3 years of therapy with chlorothiazide, but 10 weeks after restarting [bilirubin 6.1 mg/dL, AST 87 U/L, Alk P 8 times ULN] jaundice resolving within 6 weeks of stopping therapy, but persistent Alk P elevation and autopsy 10 months later showed periportal fibrosis and inflammation suggestive of primary biliary cirrhosis).</italic></p></annotation><pub-id pub-id-type="pmid">14171621</pub-id></mixed-citation>
+          </ref>
+          <ref id="Diuretics.R6">
+            <mixed-citation publication-type="journal">Datey KK, Deshmukh SN, Dalvi CP, Purandare NM. Hepatocellular damage with ethacrynic acid. Br Med J 1967; 3: 152-3. <annotation><p><italic toggle="yes">(25 year old with severe rheumatic heart disease developed jaundice 2 weeks after starting ethacrynic acid [bilirubin 6.8 mg/dL, ALT 360 U/L], improving on stopping and recurring on restarting, patient dying of congestive heart failure).</italic></p></annotation><pub-id pub-id-type="pmid">6028103</pub-id></mixed-citation>
+          </ref>
+          <ref id="Diuretics.R7">
+            <mixed-citation publication-type="journal">Kristinsson A. Fatal reaction to acetazolamide. Br J Ophthalmol 1967; 51: 348-9. <annotation><p><italic toggle="yes">(34 year old man with glaucoma developed fatigue, nausea and generalized rash followed by delirium 26 days after starting acetazolamide [bilirubin 10.9 mg/dL, ALT 180 U/L, Alk P 3 times ULN], with progressive hepatic failure and death within 24 hours).</italic></p></annotation><pub-id pub-id-type="pmid">6022777</pub-id></mixed-citation>
+          </ref>
+          <ref id="Diuretics.R8">
+            <mixed-citation publication-type="journal">Mitchell JR, Potter WZ, Hinson JA, Jollow DJ. Hepatic necrosis caused by furosemide. Nature 1974; 251: 508-11. <annotation><p><italic toggle="yes">(In mice, furosemide is converted to a reactive arylating metabolite that causes massive hepatic necrosis within 24 hours).</italic></p></annotation><pub-id pub-id-type="pmid">4424638</pub-id></mixed-citation>
+          </ref>
+          <ref id="Diuretics.R9">
+            <mixed-citation publication-type="journal">Weisburst M, Self T, Peace R, Cooper J. Jaundice and rash associated with the use of phenobarbital and hydrochlorothiazide. South Med J 1976; 69: 126-7. <annotation><p><italic toggle="yes">(18 year old woman developed rash, fever and jaundice 6 weeks after starting hydrochlorothiazide and phenobarbital [bilirubin 7.2 mg/dL, AST 250 U/L, Alk P 350 U/L], resolving in 2 weeks on methylprednisolone; DRESS syndrome probably due to phenobarbital rather than diuretic).</italic></p></annotation><pub-id pub-id-type="pmid">128822</pub-id></mixed-citation>
+          </ref>
+          <ref id="Diuretics.R10">
+            <mixed-citation publication-type="journal">Gangitano JL, Foster SH, Contro RM. Nonfatal methazolamide-induced aplastic anemia. Am J Ophthalmol 1978; 86: 138-9. <annotation><p><italic toggle="yes">(83 year old man developed aplastic anemia 3 months after starting methazolamide for glaucoma; no mention of liver test abnormalities).</italic></p></annotation><pub-id pub-id-type="pmid">677225</pub-id></mixed-citation>
+          </ref>
+          <ref id="Diuretics.R11">
+            <mixed-citation publication-type="journal">Butaeye P, Hubschman B, Derrien G. [Hepatitis during indapamide therapy]. Nouv Presse Med 1979; 8: 1516. French. <annotation><p><italic toggle="yes">(63 year old woman developed fatigue 8 months after starting indapamide and propranolol for hypertension [bilirubin 2.4 mg/dL, ALT 412 U/L, Alk P 31 U/L], with positive lymphocyte stimulation to indapamide and resolution upon stopping).</italic></p></annotation><pub-id pub-id-type="pmid">471729</pub-id></mixed-citation>
+          </ref>
+          <ref id="Diuretics.R12">
+            <mixed-citation publication-type="journal">Werblin TP, Pollack IP, Liss RA. Aplastic anemia and agranulocytosis in patients using methazolamide for glaucoma. JAMA 1979; 241: 2817-8. <annotation><p><italic toggle="yes">(Two cases of aplastic anemia, 1 of which occurred after starting methazolamide; no mention of liver injury).</italic></p></annotation><pub-id pub-id-type="pmid">448845</pub-id></mixed-citation>
+          </ref>
+          <ref id="Diuretics.R13">
+            <mixed-citation publication-type="journal">Safdi MA. Fever secondary to triamterene therapy. N Engl J Med 1980; 303: 701. <annotation><p><italic toggle="yes">(53 year old woman with alcoholic liver disease developed fever 10 days after starting triamterene and hydrochlorothiazide, resolving within 3 days of stopping and recurring twice with rechallenge using triamterene alone; no evidence of worsening of liver test abnormalities).</italic></p></annotation><pub-id pub-id-type="pmid">7402257</pub-id></mixed-citation>
+          </ref>
+          <ref id="Diuretics.R14">
+            <mixed-citation publication-type="journal">Rosenberg L, Shapiro S, Slone D, Kaufman DW, Miettinen OS, Stolley PD. Thiazides and acute cholecystitis. N Engl J Med 1980; 303: 546-8. <annotation><p><italic toggle="yes">(Case control study of 419 patients with acute cholecystitis and 1676 controls found increased frequency of recent use of thiazides [14% vs 8%: relative risk of 2.0]).</italic></p></annotation><pub-id pub-id-type="pmid">7402220</pub-id></mixed-citation>
+          </ref>
+          <ref id="Diuretics.R15">
+            <mixed-citation publication-type="journal">Porter JB, Jick H, Dinan BJ. Acute cholecystitis and thiazides. N Engl J Med 1981; 304: 954-5. <annotation><p><italic toggle="yes">(Two case control studies; one in Boston of 176 cases of acute cholecystitis and 704 controls found no association with recent thiazide use [5% vs 4%] and similar results from study in Seattle of 70 cases and 274 controls [14% vs 15%] for an overall relative risk of 1.0).</italic></p></annotation><pub-id pub-id-type="pmid">7207544</pub-id></mixed-citation>
+          </ref>
+          <ref id="Diuretics.R16">
+            <mixed-citation publication-type="journal">Bourke JB, Langman MJ. Thiazide, diuretics, cholecystitis, and pancreatitis. N Engl J Med 1981; 304: 233-4. <annotation><p><italic toggle="yes">(Case control study of 100 patients with acute pancreatitis and 100 controls found increase frequency of recent thiazide use [26% vs 11%], with highest rates in those with gallstone pancreatitis).</italic></p></annotation><pub-id pub-id-type="pmid">7442751</pub-id></mixed-citation>
+          </ref>
+          <ref id="Diuretics.R17">
+            <mixed-citation publication-type="journal">Walker RM, McElligott TF. Furosemide induced hepatotoxicity. J Pathol 1981; 135: 301-14. <annotation><p><italic toggle="yes">(Mice given furosemide develop liver injury similar to acetaminophen toxicity, but have centrilobular congestion and necrosis within 3 hours with congestion and occlusion of sinusoidal lumens caused by detachment of endothelial cells).</italic></p></annotation><pub-id pub-id-type="pmid">7328448</pub-id></mixed-citation>
+          </ref>
+          <ref id="Diuretics.R18">
+            <mixed-citation publication-type="other">Anez MS, Dickson G, Zabala R, Zabaleta P, Pacheco A, Briceno D. [Acute hepatitis due to hydrochlorothiazide: report of a case]. Gastroenterol Hepatol 1981; 4: 476-8. (Not in PubMed)<annotation><p><italic toggle="yes">(47 year old man developed jaundice 20 days after starting hydrochlorothiazide without rash, fever or eosinophilia [bilirubin 9.5 mg/dL, ALT 640 U/L, Alk P 1.3 times ULN], with recurrence twice 17 and 18 days after [bilirubin 5.8 and 8.2 mg/dL, ALT 900 and 1450 U/L], resolving in 6 weeks: Case 2, thiazide diuretics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Diuretics.R19">
+            <mixed-citation publication-type="journal">Krivoy N, Ben-Arich Y, Carter A, Alroy G. Methazolamide induced hepatitis and pure RBC aplasia. Arch Intern Med 1981; 141: 1229-30. <annotation><p><italic toggle="yes">(69 year old man with glaucoma developed rash 3 weeks after starting methazolamide with fever, diarrhea, pruritus and jaundice [bilirubin 24 mg/dL, AST 72 U/L, Alk P 865 U/L] developing anemia during recovery, resolving fully after prednisone therapy).</italic></p></annotation><pub-id pub-id-type="pmid">7196210</pub-id></mixed-citation>
+          </ref>
+          <ref id="Diuretics.R20">
+            <mixed-citation publication-type="journal">Sud RN, Grewal SS. Stevens Johnson syndrome due to Diamox. Indian J Ophthalmol 1981; 29: 101-3. <annotation><p><italic toggle="yes">(Short report of Stevens Johnson Syndrome in 8 Indian patients with glaucoma treated with acetazolamide; all recovered, no mention of hepatic injury or jaundice).</italic></p></annotation><pub-id pub-id-type="pmid">7327685</pub-id></mixed-citation>
+          </ref>
+          <ref id="Diuretics.R21">
+            <mixed-citation publication-type="journal">McMaster KR 3rd, Hennigar GR. Drug-induced granulomatous hepatitis. Lab Invest 1981; 44: 61-73. <annotation><p><italic toggle="yes">(Among 1500 liver biopsies done over 10 years, 6% had granulomas; diagnosis was sarcoidosis in 31%, tuberculosis 9%, medications 29% including methyldopa, hydralazine, metahydrin, metolazone, phenytoin, aspirin, isoniazid, cephalexin, penicillin, sulfonamides, procainamide, procarbazine, diazepam and BCPs).</italic></p></annotation><pub-id pub-id-type="pmid">7453131</pub-id></mixed-citation>
+          </ref>
+          <ref id="Diuretics.R22">
+            <mixed-citation publication-type="journal">Shuck J, Shan S, Owensky L, Leftik M, Cucinell S. Spironolactone hepatitis in primary hyperaldosteronism. Ann Intern Med 1981; 95: 708-10. <annotation><p><italic toggle="yes">(53 year old woman found to have elevations in ALT [430 U/L] and Alk P [225 U/L] 1 month after starting spironolactone, falling to normal in 2 months and rising again [ALT 140 U/L] within 2 months of rechallenge: Case 1, spironolactone).</italic></p></annotation><pub-id pub-id-type="pmid">7305153</pub-id></mixed-citation>
+          </ref>
+          <ref id="Diuretics.R23">
+            <mixed-citation publication-type="journal">Van der Linden W, Ritter B, Edlund G. Acute cholecystitis and thiazides. Br Med J(Clin Res Ed) 1984; 289: 654-5. <annotation><p><italic toggle="yes">(In a population based study, 20% of 91 patients with acute cholecystitis versus 10% of 364 controls had recently received a thiazide diuretic: relative risk of 2.1 [1.1-3.9, 95% CI]).</italic></p></annotation><pub-id pub-id-type="pmid">6434025</pub-id></mixed-citation>
+          </ref>
+          <ref id="Diuretics.R24">
+            <mixed-citation publication-type="journal">Kakar F, Weiss NS, Strite SA. Thiazide use and the risk of cholecystectomy in women. Am J Epidemiol 1986; 124: 428-33. <annotation><p><italic toggle="yes">(Among female members of a group health cooperative, 25% of 153 patients undergoing gallbladder surgery were thiazide users vs 13% of 156 controls; relative risk 2.2 [1.2-4.0 95% CI]).</italic></p></annotation><pub-id pub-id-type="pmid">3740043</pub-id></mixed-citation>
+          </ref>
+          <ref id="Diuretics.R25">
+            <mixed-citation publication-type="journal">Mousson C, Justrabo E, Tanter Y, Chalopin JM, Rifle G. [Acute granulomatous interstitial nephritis and hepatitis caused by drugs. Possible role of an allopurinol-furosemide combination]. Nephrologie 1986; 7: 199-203. <annotation><p><italic toggle="yes">(58 year old woman developed fever, rash and renal insufficiency after 6 week therapy with allopurinol [bilirubin 2.2 mg/dL, ALT 56 U/L, Alk P 780 U/L, eosinophils 1250/&#x003bc;L], resolving rapidly on stopping medications; patient was also taking furosemide, but injury pattern was typical of allopurinol).</italic></p></annotation><pub-id pub-id-type="pmid">3822042</pub-id></mixed-citation>
+          </ref>
+          <ref id="Diuretics.R26">
+            <mixed-citation publication-type="journal">Nolan PJ, D&#x02019;Arcy G. Triamterene drug fever and hepatitis. Med J Aust 1987; 147: 262. <annotation><p><italic toggle="yes">(44 year old woman developed fever, abdominal pain and anorexia ~3 weeks after starting triamterene [AST 428 U/L, Alk P 170 U/L, bilirubin not mentioned], resolving within days upon withdrawal with abrupt recurrence with eosinophilia upon restarting: Case 1, triamterene).</italic></p></annotation><pub-id pub-id-type="pmid">3670184</pub-id></mixed-citation>
+          </ref>
+          <ref id="Diuretics.R27">
+            <mixed-citation publication-type="journal">Renkes P, Gaucher P, Tr&#x000e9;chot P. Spironolactone and hepatic toxicity. JAMA 1995; 273: 376-7. <annotation><p><italic toggle="yes">(74 year old man developed jaundice 7 weeks after starting spironolactone, biopsy showing intrahepatic cholestasis, resolving within 3 months of stopping; no details given).</italic></p></annotation><pub-id pub-id-type="pmid">7823379</pub-id></mixed-citation>
+          </ref>
+          <ref id="Diuretics.R28">
+            <mixed-citation publication-type="journal">Flach AJ, Smith RE, Fraunfelder FT. Stevens-Johnson syndrome associated with methazolamide treatment reported in two Japanese-American women. Ophthalmology 1995; 102: 1677-80. <annotation><p><italic toggle="yes">(Two cases of Stevens Johnson syndrome in Japanese women, ages 65 and 27 years, with onset of rash and fever within 10 days of starting methazolamide for glaucoma with long term skin and corneal sequelae; no mention of ALT elevations or liver injury).</italic></p></annotation><pub-id pub-id-type="pmid">9098261</pub-id></mixed-citation>
+          </ref>
+          <ref id="Diuretics.R29">
+            <mixed-citation publication-type="journal">Shirato S, Kagaya F, Suzuki Y, Joukou S. Stevens-Johnson syndrome induced by methazolamide treatment. Arch Ophthalmol 1997; 115: 550-3. <annotation><p><italic toggle="yes">(Four cases of Stevens Johnson Syndrome in 3 Japanese women and 1 man, ages 30-47 years, with onset of fever and rash 2-8 weeks after starting methazolamide for glaucoma; all recovered; no mention of hepatic injury).</italic></p></annotation><pub-id pub-id-type="pmid">9109770</pub-id></mixed-citation>
+          </ref>
+          <ref id="Diuretics.R30">
+            <mixed-citation publication-type="journal">Hourmand-Ollivier I, Dargere S, Cohen D, Galais MP, Mosquet B, Rousselot P, Dao T. [Fatal subfulminant hepatitis probably due to the combination benazepril-hydrochlorothiazide (Briazide)]. Gastroenterol Clin Biol 2000; 24: 464. French. <annotation><p><italic toggle="yes">(69 year old woman developed hepatitis 2 months after starting the combination of benazepril and hydrochlorothiazide [bilirubin 16.3 mg/dL, ALT 30 times ULN, Alk P 2 times ULN, prothrombin index 39%], with progressive hepatic failure and death).</italic></p></annotation><pub-id pub-id-type="pmid">10844292</pub-id></mixed-citation>
+          </ref>
+          <ref id="Diuretics.R31">
+            <mixed-citation publication-type="journal">Gabrielli M, Gasbarrini A, Santoliquido A, Flore R, Gaetani E, Flex A, Pola P. Metolazone-induced cholestatic liver disease. Dig Liver Dis 2001; 33: 501. <annotation><p><italic toggle="yes"> (41 year old man with chronic heart failure developed jaundice 1-2 months after starting metolazone [bilirubin 29.6 mg/dL, ALT 86 U/L, Alk P 596 U/L], resolving within 3 weeks of stopping metolazone).</italic></p></annotation><pub-id pub-id-type="pmid">11572578</pub-id></mixed-citation>
+          </ref>
+          <ref id="Diuretics.R32">
+            <mixed-citation publication-type="journal">Thai KE, Sinclair RD. Spironolactone-induced hepatitis. Australas J Dermatol 2001; 42: 180-2. <annotation><p><italic toggle="yes">(50 year old woman developed fatigue and pruritus 6 weeks after starting spironolactone [bilirubin 2.3 mg/dL, ALT 997 U/L, Alk P 742 U/L], resolving within 3 months of stopping).</italic></p></annotation><pub-id pub-id-type="pmid">11488711</pub-id></mixed-citation>
+          </ref>
+          <ref id="Diuretics.R33">
+            <mixed-citation publication-type="journal">Zillich AJ, Carter BL. Eplerenone&#x02014;a novel selective aldosterone blocker. Ann Pharmacother 2002; 36: 1567-76. <annotation><p><italic toggle="yes">(Review of pharmacology, mechanism of action, efficacy and safety of eplerenone; no discussion of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">12243608</pub-id></mixed-citation>
+          </ref>
+          <ref id="Diuretics.R34">
+            <mixed-citation publication-type="journal">Burgess ED, Lacourci&#x000e8;re Y, Ruilope-Urioste LM, Oparil S, Kleiman JH, Krause S, Roniker B, et al. Long-term safety and efficacy of the selective aldosterone blocker eplerenone in patients with essential hypertension. Clin Ther 2003; 25: 2388-404. <annotation><p><italic toggle="yes">(Open label trial of eplerenone in 586 patients with hypertension; adverse events were mild including hypotension, impotence, nausea, dizziness, headache; ALT elevations in 5 patients [0.9%] led to withdrawal, but no details given and no mention of jaundice or symptoms).</italic></p></annotation><pub-id pub-id-type="pmid">14604739</pub-id></mixed-citation>
+          </ref>
+          <ref id="Diuretics.R35">
+            <mixed-citation publication-type="journal">Valhovd M, Kildahl-Andersen O. [Drug-induced severe jaundice]. Tidsskr Nor Laegeforen 2003; 123: 1202-3. Norwegian. <annotation><p><italic toggle="yes">(37 year old man developed jaundice 2 months after starting hydrochlorothiazide and amiloride for hypertension [bilirubin 5.8 rising to 28.3 mg/dL, ALT 2930 U/L, Alk P twice ULN, INR 1.4], with prolonged jaundice leading to 8 week course of prednisone, recovered but then developed pancytopenia: Case 1, amiloride).</italic></p></annotation><pub-id pub-id-type="pmid">12789790</pub-id></mixed-citation>
+          </ref>
+          <ref id="Diuretics.R36">
+            <mixed-citation publication-type="journal">Arinzon Z, Alexander P, Berner Y. Hydrochlorothiazide induced hepato-cholestatic liver injury. Age ageing 2004; 33: 509-10. <annotation><p><italic toggle="yes">(72 year old woman developed nausea and abdominal pain 6 days after starting hydrochlorothiazide [ALT 236 U/L, Alk P 146 U/L, bilirubin not mentioned], resolving within 4 weeks of stopping: Case 1, thiazide diuretics).</italic></p></annotation><pub-id pub-id-type="pmid">15271638</pub-id></mixed-citation>
+          </ref>
+          <ref id="Diuretics.R37">
+            <mixed-citation publication-type="journal">Russo MW, Galanko JA, Shrestha R, Fried MW, Watkins P. Liver transplantation for acute liver failure from drug-induced liver injury in the United States. Liver Transpl 2004; 10: 1018-23. <annotation><p><italic toggle="yes">(Among ~50,000 liver transplants reported to UNOS between 1990 and 2002, 137 [0.5%] were done for idiosyncratic drug induced acute liver failure, none were attributed to a diuretic).</italic></p></annotation><pub-id pub-id-type="pmid">15390328</pub-id></mixed-citation>
+          </ref>
+          <ref id="Diuretics.R38">
+            <mixed-citation publication-type="journal">Leitzmann MF, Tsai CJ, Stampfer MJ, Willett WC, Giovannucci E. Thiazide diuretics and the risk of gallbladder disease requiring surgery in women. Arch Intern Med 2005; 165: 567-73. <annotation><p><italic toggle="yes">(Analysis of thiazide diuretic use and gallbladder disease in the US Nurses&#x02019; Health Study of 81,351 women, ages 30-55 years, followed for ~20 years; found modest increase in relative risk of cholecystectomy in current users of thiazides [1.39 in multivariate analysis]).</italic></p></annotation><pub-id pub-id-type="pmid">15767534</pub-id></mixed-citation>
+          </ref>
+          <ref id="Diuretics.R39">
+            <mixed-citation publication-type="journal">Bj&#x000f6;rnsson E, Jerlstad P, Bergqvist A, Olsson R. Fulminant drug-induced hepatic failure leading to death or liver transplantation in Sweden. Scand J Gastroenterol 2005; 40: 1095-101. <annotation><p><italic toggle="yes">(Survey of all cases of DILI with fatal outcome from Swedish Adverse Drug Reporting system from 1966-2002; 103 cases were identified one of which was associated with hydrochlorothiazide and one with amiloride use, but other more likely agents were being taken in both instances).</italic></p></annotation><pub-id pub-id-type="pmid">16165719</pub-id></mixed-citation>
+          </ref>
+          <ref id="Diuretics.R40">
+            <mixed-citation publication-type="journal">Andrade RJ, Lucena MI, Fern&#x000e1;ndez MC, Pelaez G, Pachkoria K, Garc&#x000ed;a-Ruiz E, Garc&#x000ed;a-Mu&#x000f1;oz B, et al. Drug-induced liver injury: an analysis of 461 incidences submitted to the Spanish Registry over a 10-year period. Gastroenterology 2005; 129: 512-21. <annotation><p><italic toggle="yes">(Reports of drug induced liver injury to a Spanish network found 570 cases; thiazide diuretics not mentioned as cause).</italic></p></annotation><pub-id pub-id-type="pmid">16083708</pub-id></mixed-citation>
+          </ref>
+          <ref id="Diuretics.R41">
+            <mixed-citation publication-type="journal">Bj&#x000f6;rnsson E, Olsson R. Suspected drug-induced liver fatalities reported to the WHO database. Dig Liver Dis 2006; 38: 33-8. <annotation><p><italic toggle="yes">(Survey of drug induced liver fatalities reported to WHO database between 1968-2003 revealed 4690 reports [89% from the US]; no diuretic found in the 20 most commonly implicated agents).</italic></p></annotation><pub-id pub-id-type="pmid">16054882</pub-id></mixed-citation>
+          </ref>
+          <ref id="Diuretics.R42">
+            <mixed-citation publication-type="journal">Sabat&#x000e9; M, Ib&#x000e1;&#x000f1;ez L, P&#x000e9;rez E, Vidal X, Buti M, Xiol X, Mas A, et al. Risk of acute liver injury associated with the use of drugs: a multicentre population survey. Aliment Pharmacol Ther 2007; 25: 1401-9. <annotation><p><italic toggle="yes">(Population based survey of 126 cases of acute liver injury [24 with acute liver failure] due to drugs between 1993-1999 in Spain calculated relative risk of injury compared to the general population: hydrochlorothiazide was being taken by 7 and furosemide by 8 patients, but relative risk was not increased in comparison to a control group).</italic></p></annotation><pub-id pub-id-type="pmid">17539979</pub-id></mixed-citation>
+          </ref>
+          <ref id="Diuretics.R43">
+            <mixed-citation publication-type="journal">Ogasawara K, Tomitsuka N, Kobayashi M, Komoribayashi N, Fukuda T, Saitoh H, Inoue T, et al. Stevens-Johnson syndrome associated with intravenous acetazolamide administration for evaluation of cerebrovascular reactivity. Case report. Neurol Med Chir (Tokyo) 2006; 46: 161-3. <annotation><p><italic toggle="yes">(62 year old Japanese man given single intravenous injection of acetazolamide developed Stevens Johnson Syndrome 3 days later responding to prednisolone; no mention of ALT levels or jaundice).</italic></p></annotation><pub-id pub-id-type="pmid">16565588</pub-id></mixed-citation>
+          </ref>
+          <ref id="Diuretics.R44">
+            <mixed-citation publication-type="journal">Chalasani N, Fontana RJ, Bonkovsky HL, Watkins PB, Davern T, Serrano J, Yang H, Rochon J; Drug Induced Liver Injury Network (DILIN). Causes, clinical features, and outcomes from a prospective study of drug-induced liver injury in the United States. Gastroenterology 2008; 135: 1924-34. <annotation><p><italic toggle="yes">(Among 300 cases of drug induced liver disease in the US collected between 2004 and 2008, no case was attributed to a diuretic).</italic></p></annotation><pub-id pub-id-type="pmid">18955056</pub-id></mixed-citation>
+          </ref>
+          <ref id="Diuretics.R45">
+            <mixed-citation publication-type="journal">Drugs for hypertension. Treat Guidel Med Lett 2009; 7: 1-10. <annotation><p><italic toggle="yes">(Brief overview of currently available drugs for hypertension with guidelines on their use and information on prices and toxicities: &#x0201c;thiazide diuretics are the first-line therapy for many patients with hypertension&#x0201d;).</italic></p></annotation><pub-id pub-id-type="pmid">19107095</pub-id></mixed-citation>
+          </ref>
+          <ref id="Diuretics.R46">
+            <mixed-citation publication-type="journal">Bj&#x000f6;rnsson E, Davidsdottir L. The long-term follow-up after idiosyncratic drug-induced liver injury with jaundice. J Hepatol 2009; 50: 511-7. <annotation><p><italic toggle="yes">(Among 685 patients with drug induced liver injury, 23 [3.4%] were later hospitalized for chronic liver disease and 8 were showed to have cirrhosis, one of whom had acute icteric liver injury 3 years earlier attributed to the combination of amiloride and hydrochlorothiazide).</italic></p></annotation><pub-id pub-id-type="pmid">19155082</pub-id></mixed-citation>
+          </ref>
+          <ref id="Diuretics.R47">
+            <mixed-citation publication-type="journal">Gabrielli M, Gasbarrini A, Santoliquido A, Flore R, Gaetani E, Flex A, Pola P. Metolazone-induced cholestatic liver disease. Dig Liver Dis 2001; 33: 501. <annotation><p><italic toggle="yes">(42 year old man with cardiomyopathy developed jaundice 3 months after starting metolazone [bilirubin 29.6 mg/dL, ALT 86 U/L, Alk P 596 U/L], resolving within 20 days of stopping metolazone while continuing warfarin or enalapril).</italic></p></annotation><pub-id pub-id-type="pmid">11572578</pub-id></mixed-citation>
+          </ref>
+          <ref id="Diuretics.R48">
+            <mixed-citation publication-type="journal">Wargo KA, Banta WM. A comprehensive review of the loop diuretics: should furosemide be first line? Ann Pharmacother 2009; 43: 1836-47. PubMed 19843838<annotation><p><italic toggle="yes">(Systematic review of literature on comparing efficacy and safety of the loop diuretics; no discussion of hepatotoxicity or ALT elevations).</italic></p></annotation><pub-id pub-id-type="pmid">19843838</pub-id></mixed-citation>
+          </ref>
+          <ref id="Diuretics.R49">
+            <mixed-citation publication-type="journal">Devarbhavi H, Dierkhising R, Kremers WK, Sandeep MS, Karanth D, Adarsh CK. Single-center experience with drug-induced liver injury from India: causes, outcome, prognosis, and predictors of mortality. Am J Gastroenterol 2010; 105: 2396-404. <annotation><p><italic toggle="yes">(Among 313 cases of drug induced liver injury seen over a 12 year period at a large hospital in Bangalore, India, none were attributed to a diuretic).</italic></p></annotation><pub-id pub-id-type="pmid">20648003</pub-id></mixed-citation>
+          </ref>
+          <ref id="Diuretics.R50">
+            <mixed-citation publication-type="journal">Ferrajolo C, Capuano A, Verhamme KM, Schuemie M, Rossi F, Stricker BH, Sturkenboom MC. Drug-induced hepatic injury in children: a case/non-case study of suspected adverse drug reactions in VigiBase. Br J Clin Pharmacol 2010; 70: 721-8. <annotation><p><italic toggle="yes">(Among 624,673 adverse event reports in children between 2000 and 2006 in the WHO VigiBase, no diuretic was mentioned among the 30 most common causes of liver injury).</italic></p></annotation><pub-id pub-id-type="pmid">21039766</pub-id></mixed-citation>
+          </ref>
+          <ref id="Diuretics.R51">
+            <mixed-citation publication-type="journal">Reuben A, Koch DG, Lee WM; Acute Liver Failure Study Group. Drug-induced acute liver failure: results of a U.S. multicenter, prospective study. Hepatology 2010; 52: 2065-76. <annotation><p><italic toggle="yes">(Among 1198 patients with acute liver failure enrolled in a US prospective study between 1998 and 2007, 133 were attributed to drug induced liver injury, of which none were attributed to a diuretic).</italic></p></annotation><pub-id pub-id-type="pmid">20949552</pub-id></mixed-citation>
+          </ref>
+          <ref id="Diuretics.R52">
+            <mixed-citation publication-type="journal">Taglietti F, Del Nonno F, Baiocchini A, Falasca L, Pieri S, Capone A, Grilli E, et al. Acute hepatocellular and cholestatic injury during therapy with hydrochlorothiazide - clinicohistopathologic findings: a case report. J Med Case Rep 2010; 4: 332. <annotation><p><italic toggle="yes">(68 year old man developed fatigue and jaundice 10 days after starting hydrochlorothiazide and olmesartan [bilirubin 6.3 rising to 14.7 mg/dL, ALT 346 U/L, Alk P 1091 U/L], resolving within 3 months of stopping both drugs).</italic></p></annotation><pub-id pub-id-type="pmid">20964809</pub-id></mixed-citation>
+          </ref>
+          <ref id="Diuretics.R53">
+            <mixed-citation publication-type="journal">Kim SH, Kim M, Lee KW, Kim SH, Kang HR, Park HW, Jee YK. HLA-B*5901 is strongly associated with methazolamide-induced Stevens-Johnson syndrome/toxic epidermal necrolysis. Pharmacogenomics 2010; 11: 879-84. <annotation><p><italic toggle="yes">(Among 5 Korean patients with methazolamide induced Stevens Johnson Syndrome, all had HLA-B*5901 vs 4.1% of general population in Korea; also linked to Cw*0102 and A*2402).</italic></p></annotation><pub-id pub-id-type="pmid">20504258</pub-id></mixed-citation>
+          </ref>
+          <ref id="Diuretics.R54">
+            <mixed-citation publication-type="journal">Bj&#x000f6;rnsson ES, Bergmann OM, Bj&#x000f6;rnsson HK, Kvaran RB, Olafsson S. Incidence, presentation and outcomes in patients with drug-induced liver injury in the general population of Iceland. Gastroenterology 2013; 144: 1419-25. <annotation><p><italic toggle="yes">(In a population based study of drug induced liver injury from Iceland, 96 cases were identified over a 2 year period, none of which were attributed to a diuretic).</italic></p></annotation><pub-id pub-id-type="pmid">23419359</pub-id></mixed-citation>
+          </ref>
+          <ref id="Diuretics.R55">
+            <mixed-citation publication-type="journal">Ba&#x0015f;ar &#x000d6;, Ba&#x0015f;ar N, Tuna Y, Y&#x000fc;ksel H, &#x000c7;oban &#x0015e;. Acetazolamide induced severe hepatotoxicity. Wien Klin Wochenschr 2013; 125: 223-4. <annotation><p><italic toggle="yes">(44 year old woman developed jaundice 2 weeks after starting acetazolamide [bilirubin 8.9 mg/dL, ALT 492 U/L, Alk P 348 U/L, INR 1.39], worsening for 4 days and then resolving within 21 days of stopping).</italic></p></annotation><pub-id pub-id-type="pmid">23519540</pub-id></mixed-citation>
+          </ref>
+          <ref id="Diuretics.R56">
+            <mixed-citation publication-type="journal">Hern&#x000e1;ndez N, Bessone F, S&#x000e1;nchez A, di Pace M, Brahm J, Zapata R, A Chirino R, et al. Profile of idiosyncratic drug induced liver injury in Latin America: an analysis of published reports. Ann Hepatol 2014; 13: 231-9. <annotation><p><italic toggle="yes">(Among 176 reports of drug induced liver injury from Latin America published between 1996 and 2012, none were attributed to a diuretic).</italic></p></annotation><pub-id pub-id-type="pmid">24552865</pub-id></mixed-citation>
+          </ref>
+          <ref id="Diuretics.R57">
+            <mixed-citation publication-type="journal">Chalasani N, Bonkovsky HL, Fontana R, Lee W, Stolz A, Talwalkar J, Reddy KR, et al.; United States Drug Induced Liver Injury Network. Features and outcomes of 899 patients with drug-induced liver injury: The DILIN Prospective Study. Gastroenterology 2015; 148: 1340-52.e7. <annotation><p><italic toggle="yes">(Among 899 cases of drug induced liver injury enrolled in a US prospective study between 2004 and 2013, none were attributed to a diuretic).</italic></p></annotation><pub-id pub-id-type="pmid">25754159</pub-id></mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec id="Diuretics.OTHER_REFERENCE_LINKS" sec-type="link-group">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=(diuretics/AE+NOT+clavulanic+acid)+AND+Human%5BMH%5D+AND+(jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D%3A%222999/12/31%22%5BEDat%5D)">Recent References on Diuretics: from PubMed.gov</ext-link>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=diuretics">Trials on Diuretics: from ClinicalTrials.gov</ext-link>
+            </p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

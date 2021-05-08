@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="IncretinBasedDrugs" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">IncretinBasedDrugs</book-part-id>
+      <title-group>
+        <title>Incretin-Based Drugs</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>3</day>
+          <month>1</month>
+          <year>2018</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Imipramine" document-type="chapter">Imipramine</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Indinavir" document-type="chapter">Indinavir</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="IncretinBasedDrugs.OVERVIEW">
+        <title>OVERVIEW</title>
+        <p content-type="pubmed-excerpt">The incretins are gastrointestinal polypeptide hormones that act to modulate insulin secretion from pancreatic beta cells. These hormones include glucagon-like peptide-1 (GLP-1) and gastric inhibitory peptide (GIP), and they are secreted from the upper gastrointestinal tract in response to feeding. They act on the pancreas, causing insulin release even before blood glucose levels are elevated. Both hormones are polypeptides that are rapidly cleared from the serum by the enzyme dipeptidyl peptidase-4 (DPP-4). The incretin pathway provides several potential targets for therapy of type 2 diabetes, the main ones being DPP-4 inhibitors and GLP-1 analogues. These incretin-based hypoglycemic agents are relatively new and they have not been implicated as common causes of drug induced liver injury. These two groups of incretin-based drugs are quite different in chemical structure, pharmacology and safety profile and are discussed separately.</p>
+        <p content-type="pubmed-excerpt">Drug Class: <related-object source-id="livertox" document-id="Antidiabetic">Antidiabetic Agents</related-object></p>
+        <p content-type="pubmed-excerpt">Drugs in the Subclass, Incretin-Based Drugs:</p>
+        <list list-type="bullet">
+          <list-item>
+            <p><related-object source-id="livertox" document-id="DPP4-inhibitors">Dipeptidyl Peptidase-4 (DPP-4) Inhibitors</related-object>
+<list list-type="bullet"><list-item><p><related-object source-id="livertox" document-id="Alogliptin">Alogliptin</related-object></p></list-item><list-item><p><related-object source-id="livertox" document-id="Linagliptin">Linagliptin</related-object></p></list-item><list-item><p><related-object source-id="livertox" document-id="Saxagliptin">Saxagliptin</related-object></p></list-item><list-item><p><related-object source-id="livertox" document-id="Sitagliptin">Sitagliptin</related-object></p></list-item></list></p>
+          </list-item>
+          <list-item>
+            <p><related-object source-id="livertox" document-id="GLP-1Analogues">Glucagon-Like Peptide-1 (GLP-1) Analogues</related-object>
+<list list-type="bullet"><list-item><p><related-object source-id="livertox" document-id="Albiglutide">Albiglutide</related-object></p></list-item><list-item><p><related-object source-id="livertox" document-id="Dulaglutide">Dulaglutide</related-object></p></list-item><list-item><p><related-object source-id="livertox" document-id="Exenatide">Exenatide</related-object></p></list-item><list-item><p><related-object source-id="livertox" document-id="Liraglutide">Liraglutide</related-object></p></list-item><list-item><p><related-object source-id="livertox" document-id="Lixisenatide">Lixisenatide</related-object></p></list-item><list-item><p><related-object source-id="livertox" document-id="Semaglutide">Semaglutide</related-object></p></list-item></list></p>
+          </list-item>
+        </list>
+      </sec>
+      <sec id="IncretinBasedDrugs.CHEMICAL_FORMULAS_AND">
+        <title>CHEMICAL FORMULAS AND STRUCTURES</title>
+        <table-wrap id="IncretinBasedDrugs.T1" position="anchor" orientation="portrait">
+          <table>
+            <tbody>
+              <tr>
+                <th id="hd_b_IncretinBasedDrugs.T1_1_1_1_1" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_b_IncretinBasedDrugs.T1_1_1_1_2" rowspan="1" colspan="1">CAS REGISTRY NUMBER</th>
+                <th id="hd_b_IncretinBasedDrugs.T1_1_1_1_3" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_b_IncretinBasedDrugs.T1_1_1_1_4" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+              <tr>
+                <td headers="hd_b_IncretinBasedDrugs.T1_1_1_1_1" rowspan="1" colspan="1">Alogliptin</td>
+                <td headers="hd_b_IncretinBasedDrugs.T1_1_1_1_2" rowspan="1" colspan="1">
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135213725">850649-62-6</ext-link>
+                </td>
+                <td headers="hd_b_IncretinBasedDrugs.T1_1_1_1_3" rowspan="1" colspan="1">C18-H21-N5-O2.C7-H6-O2</td>
+                <td headers="hd_b_IncretinBasedDrugs.T1_1_1_1_4" rowspan="1" colspan="1">
+                  <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Alogliptin_structure.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait">
+                    <alt-text>Alogliptin chemical structure</alt-text>
+                  </graphic>
+                </td>
+              </tr>
+              <tr>
+                <td headers="hd_b_IncretinBasedDrugs.T1_1_1_1_1" rowspan="1" colspan="1">Linagliptin</td>
+                <td headers="hd_b_IncretinBasedDrugs.T1_1_1_1_2" rowspan="1" colspan="1">
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135257632">668270-12-0</ext-link>
+                </td>
+                <td headers="hd_b_IncretinBasedDrugs.T1_1_1_1_3" rowspan="1" colspan="1">C25-H28-N8-O2</td>
+                <td headers="hd_b_IncretinBasedDrugs.T1_1_1_1_4" rowspan="1" colspan="1">
+                  <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Linagliptin_Structure_000.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait">
+                    <alt-text>Linagliptin Chemical Structure</alt-text>
+                  </graphic>
+                </td>
+              </tr>
+              <tr>
+                <td headers="hd_b_IncretinBasedDrugs.T1_1_1_1_1" rowspan="1" colspan="1">Saxagliptin</td>
+                <td headers="hd_b_IncretinBasedDrugs.T1_1_1_1_2" rowspan="1" colspan="1">
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135253649">945667-22-1</ext-link>
+                </td>
+                <td headers="hd_b_IncretinBasedDrugs.T1_1_1_1_3" rowspan="1" colspan="1">C18-H25-N3-O2.H2O</td>
+                <td headers="hd_b_IncretinBasedDrugs.T1_1_1_1_4" rowspan="1" colspan="1">
+                  <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Saxagliptin_Structure_000.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait">
+                    <alt-text>Saxagliptin Chemical Structure</alt-text>
+                  </graphic>
+                </td>
+              </tr>
+              <tr>
+                <td headers="hd_b_IncretinBasedDrugs.T1_1_1_1_1" rowspan="1" colspan="1">Sitagliptin</td>
+                <td headers="hd_b_IncretinBasedDrugs.T1_1_1_1_2" rowspan="1" colspan="1">
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135206675">486460-32-6</ext-link>
+                </td>
+                <td headers="hd_b_IncretinBasedDrugs.T1_1_1_1_3" rowspan="1" colspan="1">C16-H15-F6-N5-O</td>
+                <td headers="hd_b_IncretinBasedDrugs.T1_1_1_1_4" rowspan="1" colspan="1">
+                  <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Sitagliptin_Structure_000.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait">
+                    <alt-text>Sitagliptin Chemical Structure</alt-text>
+                  </graphic>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

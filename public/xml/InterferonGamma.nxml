@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="InterferonGamma" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">InterferonGamma</book-part-id>
+      <title-group>
+        <title>Interferon Gamma</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>3</day>
+          <month>5</month>
+          <year>2018</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Insulin" document-type="chapter">Insulin</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="InterleukinRcptAntag" document-type="chapter">Interleukin Receptor Antagonists</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="InterferonGamma.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="InterferonGamma.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Interferon gamma is a recombinant cytokine with a multitude of actions including stimulation of T cell immunity, increase in innate immune responses, induction of Class II major histocompatibility complex molecules, and inhibition of fibrosis. Interferon gamma is used for its immune enhancing properties as therapy of chronic granulomatous disease of childhood and is used experimentally for its anti-fibrotic actions. Therapy with interferon gamma can cause mild elevations in serum enzymes, but has not been linked to cases of clinically significant liver injury.</p>
+        </sec>
+        <sec id="InterferonGamma.Background">
+          <title>Background</title>
+          <p>Interferon gamma (in' ter feer" on) is human cytokine produced by macrophages and lymphocytes that plays a critical role in both innate and adaptive immune responses. While also known as type II interferon, interferon gamma has only modest direct antiviral activity and is unrelated in structure, genetic linkage and function to the type I interferons, such as interferon alpha, beta and lambda. It more closely resembles an interleukin and activates macrophages and increases Class II major histocompatibility complex (MHC) expression on cells. Absence of interferon gamma or its receptor is associated with autoinflammatory conditions and autoimmune diseases. Interferon gamma has been evaluated as a therapy of multiple conditions, as an antiviral agent for hepatitis B and C, as an antifibrotic agent in chronic liver disease and pulmonary fibrosis, and as an immunomodulatory agent in several immune deficiency syndromes including AIDS and chronic granulomatous disease (CGD) of childhood. Interferon gamma-1b was approved for use in the United States for CGD in 1990 and remains an experimental agent for other uses. Interferon gamma-1b is available as a solution in single use vials of 100 &#x000b5;g (2 million IU) in 0.5 mL under the brand name Actimmune. The typical adult dose is 50 &#x000b5;g/m<sup>2</sup> (body surface area &#x0003e;0.5 m<sup>2</sup>) and 1.5 &#x000b5;g/kg/dose in small children (body surface area &#x02264;0.5 m<sup>2</sup>) subcutaneously three times weekly. Side effects are common with the initial dose and include fever, malaise, body aches and nausea. With chronic therapy, injection site reactions, fatigue, headache and muscle aches are common. Rare, but potentially severe adverse reactions include hypersensitivity reactions.</p>
+        </sec>
+        <sec id="InterferonGamma.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>In multiple phase 2 and 3 clinical trials, interferon gamma was found to cause mild-to-moderate serum enzyme elevations in in small portion of patients. The elevations were generally transient and without jaundice or obvious symptoms of liver injury, but rose to levels above 5 to 10 times ULN and necessitated dose modification or discontinuation in a proportion of patients, particularly in children less than one year of age. Nevertheless, no instances of clinically apparent acute liver injury with jaundice attributable to interferon gamma therapy have been reported, although the product label mentions "hepatitis" as a potential complication of therapy. Thus, interleukin-2 has been clearly linked to serum enzyme elevations during treatment, but has not been implicated in cases of idiosyncratic, acute liver injury with jaundice.</p>
+          <p>Likelihood score: E (Unlikely cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="InterferonGamma.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The mechanism by which interferon gamma infusions might cause liver injury is unclear as it is a recombinant human protein and thus is unlikely to have direct hepatotoxicity. The induction of activated T cells, however, may be associated with some degree of hepatic inflammation and injury, but is not likely to cause frank acute liver damage. Interleukin-2 also has multiple other actions that may account for its many side effects, including activation of natural killer cells, increases in other cytokines (tumor necrosis factor alpha, interferon gamma) and stimulation of eosinophils. Interleukin-2 has been implicated in causing vasculitis in other organs and chronic vasculitis in the liver may have consequences on liver function and injury.</p>
+        </sec>
+        <sec id="InterferonGamma.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>The serum enzyme elevations during interferon gamma therapy are generally self-limited and benign. However, such elevations are more frequent and more marked in children less than one year of age, in whom monthly monitoring of liver tests is recommended. In situations in which ALT or AST levels rise above 5 times ULN, dose modification or temporary discontinuation is prudent.</p>
+          <p>Other cytokines used in medicine include interferon alfa and beta, interleukin-2 and the hematologic growth factors such as erythropoietin, colony stimulating factors and interleukin 11.</p>
+          <p>Drug Class: <related-object source-id="livertox" document-id="AntineoplasticAgents">Antineoplastic Agents</related-object>, Cytokines, Biologic Response Modifiers</p>
+        </sec>
+      </sec>
+      <sec id="InterferonGamma.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <boxed-text position="anchor" id="InterferonGamma.BPI" orientation="portrait">
+          <p>
+            <bold>REPRESENTATIVE TRADE NAMES</bold>
+          </p>
+          <p>Interferon gamma &#x02013; Actimmune&#x000ae;</p>
+          <p>
+            <bold>DRUG CLASS</bold>
+          </p>
+          <p>Antineoplastic Agents</p>
+          <p>
+            <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Aldesleukin">COMPLETE LABELING</ext-link>
+          </p>
+          <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+        </boxed-text>
+      </sec>
+      <sec id="InterferonGamma.CHEMICAL_FORMULA_AND_STR">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="InterferonGamma.T1" position="anchor" orientation="portrait">
+          <table>
+            <thead>
+              <tr>
+                <th id="hd_h_InterferonGamma.T1_1_1_1_1" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_InterferonGamma.T1_1_1_1_2" rowspan="1" colspan="1">CAS REGISTRY NUMBER</th>
+                <th id="hd_h_InterferonGamma.T1_1_1_1_3" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_InterferonGamma.T1_1_1_1_4" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_InterferonGamma.T1_1_1_1_1" rowspan="1" colspan="1">Interferon gamma-1b</td>
+                <td headers="hd_h_InterferonGamma.T1_1_1_1_2" rowspan="1" colspan="1">
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135032842">98059-61-1</ext-link>
+                </td>
+                <td headers="hd_h_InterferonGamma.T1_1_1_1_3" rowspan="1" colspan="1">Cytokine</td>
+                <td headers="hd_h_InterferonGamma.T1_1_1_1_4" rowspan="1" colspan="1">Not Available</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="InterferonGamma.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 03 May 2018</p>
+        <ref-list id="InterferonGamma.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="InterferonGamma.R1">
+            <mixed-citation publication-type="other">Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999.<annotation><p><italic toggle="yes">(Review of hepatotoxicity published in 1999 before the availability of recombinant interferon gamma).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="InterferonGamma.R2">
+            <mixed-citation publication-type="other">DeLeve LD. Erlotinib. Cancer chemotherapy. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013, pp. 556.<annotation><p><italic toggle="yes">(Review of drug induced liver injury published in 2013; interferon gamma is not discussed).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="InterferonGamma.R3">
+            <mixed-citation publication-type="other">Chabner BA, Barnes J, Neal J, Olson E, Mujagic H, Sequist L, Wilson W, Longo DL, Mitsiades C, Richardson P. Targeted therapies: tyrosine kinase inhibitors, monoclonal antibodies, and cytokines. In, Brunton LL, Chabner BA, Knollman BC, eds. Goodman &#x00026; Gilman's the pharmacological basis of therapeutics. 12th ed. New York: McGraw-Hill, 2011, pp. 1731-54.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="InterferonGamma.R4">
+            <mixed-citation publication-type="journal">Sechler JM, Malech HL, White CJ, Gallin JI. Recombinant human interferon-gamma reconstitutes defective phagocyte function in patients with chronic granulomatous disease of childhood. Proc Natl Acad Sci U S A 1988; 85: 4874-8. <annotation><p><italic toggle="yes">(Three patients with CGD treated with interferon gamma [10 &#x000b5;g per meter squared subcutaneously daily for 5 days] demonstrated improvements in bactericidal activity of monocytes and neutrophils, but "had no changes in blood chemistry").</italic></p></annotation><pub-id pub-id-type="pmid">2838849</pub-id></mixed-citation>
+          </ref>
+          <ref id="InterferonGamma.R5">
+            <mixed-citation publication-type="journal">A controlled trial of interferon gamma to prevent infection in chronic granulomatous disease. The International Chronic Granulomatous Disease Cooperative Study Group. N Engl J Med 1991; 324: 509-16. <annotation><p><italic toggle="yes">(Among 129 patients with CGD treated with interferon gamma [50 &#x000b5;g per square meter] or placebo subcutaneously 3 times weekly for up to a year, those receiving interferon had fewer serious infections; side effects of interferon gamma included fever, headache, and chills with initial injections but led to no serious adverse events or changes in "biochemical indexes").</italic></p></annotation><pub-id pub-id-type="pmid">1846940</pub-id></mixed-citation>
+          </ref>
+          <ref id="InterferonGamma.R6">
+            <mixed-citation publication-type="journal">Gleave ME, Elhilali M, Fradet Y, Davis I, Venner P, Saad F, Klotz LH, et al. Interferon gamma-1b compared with placebo in metastatic renal-cell carcinoma. Canadian Urologic Oncology Group. N Engl J Med 1998; 338: 1265-71. <annotation><p><italic toggle="yes">(Among 181 patients with metastatic renal cell cancer treated with interferon gamma or placebo, overall response and survival rates were similar in the two groups as were serious adverse event rates; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">9562580</pub-id></mixed-citation>
+          </ref>
+          <ref id="InterferonGamma.R7">
+            <mixed-citation publication-type="journal">Wasserman D, Ioannovich JD, Hinzmann RD, Deichsel G, Steinmann GG. Interferon-gamma in the prevention of severe burn-related infections: a European phase III multicenter trial. The Severe Burns Study Group. Crit Care Med 1998; 23: 434-9. <annotation><p><italic toggle="yes">(Among 216 patients with severe burns treated with interferon gamma or placebo for up to 90 days, infection, mortality and serious adverse event rates were similar in the two groups; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">9504568</pub-id></mixed-citation>
+          </ref>
+          <ref id="InterferonGamma.R8">
+            <mixed-citation publication-type="journal">Ziesche R, Hofbauer E, Wittmann K, Petkov V, Block LH. A preliminary study of long-term treatment with interferon gamma-1b and low-dose prednisolone in patients with idiopathic pulmonary fibrosis. N Engl J Med 1999; 341: 1264-9. <annotation><p><italic toggle="yes">(Among 18 patients with idiopathic pulmonary fibrosis [IPF] treated with prednisolone with or without interferon gamma for one year, pulmonary function and resting oxygen saturation improved more in interferon gamma treated subjects).</italic></p></annotation><pub-id pub-id-type="pmid">10528036</pub-id></mixed-citation>
+          </ref>
+          <ref id="InterferonGamma.R9">
+            <mixed-citation publication-type="journal">Raghu G, Brown KK, Bradford WZ, Starko K, Noble PW, Schwartz DA, King TE Jr; Idiopathic Pulmonary Fibrosis Study Group. A placebo-controlled trial of interferon gamma-1b in patients with idiopathic pulmonary fibrosis. N Engl J Med 2004; 350: 125-33. <annotation><p><italic toggle="yes">(Among 330 patients with idiopathic pulmonary fibrosis not responding to corticosteroids treated with interferon gamma or placebo for an average of 58 weeks, there were no differences in rates of pulmonary worsening or progression-free survival; and, while fever, influenza-like symptoms and nausea were more frequent with interferon, ALT elevations and hepatotoxicity were not mentioned).</italic></p></annotation><pub-id pub-id-type="pmid">14711911</pub-id></mixed-citation>
+          </ref>
+          <ref id="InterferonGamma.R10">
+            <mixed-citation publication-type="journal">Soza A, Heller T, Ghany M, Lutchman G, Jake Liang T, Germain J, Hsu HH, Park Y, Hoofnagle JH. Pilot study of interferon gamma for chronic hepatitis C. J Hepatol 2005; 43: 67-71. <annotation><p><italic toggle="yes">(Among 14 patients with chronic hepatitis C not responding to interferon alfa and ribavirin, a 4 week course of interferon gamma [100, 200 or 400 &#x000b5;g three times weekly] had no effects on HCV RNA or ALT levels and side effects included influenza-like symptoms after the first injection).</italic></p></annotation><pub-id pub-id-type="pmid">15913831</pub-id></mixed-citation>
+          </ref>
+          <ref id="InterferonGamma.R11">
+            <mixed-citation publication-type="journal">Muir AJ, Sylvestre PB, Rockey DC. Interferon gamma-1b for the treatment of fibrosis in chronic hepatitis C infection. J Viral Hepat 2006; 13: 322-8. <annotation><p><italic toggle="yes">(Among 20 patients with chronic hepatitis C treated with interferon gamma [200 &#x000b5;g thrice weekly] for 24 weeks, liver fibrosis and histologic activity scores did not change; one patient had a 2 fold increase in serum ALT levels on therapy that resolved upon stopping, but no further details were given).</italic></p></annotation><pub-id pub-id-type="pmid">16637863</pub-id></mixed-citation>
+          </ref>
+          <ref id="InterferonGamma.R12">
+            <mixed-citation publication-type="journal">Antoniou KM, Nicholson AG, Dimadi M, Malagari K, Latsi P, Rapti A, Tzanakis N, et al. Long-term clinical effects of interferon gamma-1b and colchicine in idiopathic pulmonary fibrosis. Eur Respir J 2006; 28: 496-504. <annotation><p><italic toggle="yes">(Among 50 patients with idiopathic pulmonary fibrosis treated with interferon gamma or colchicine for 2 years, side effects included fever, myalgia, and influenza-like symptoms, but serum ALT levels and hepatotoxicity were not mentioned).</italic></p></annotation><pub-id pub-id-type="pmid">16611657</pub-id></mixed-citation>
+          </ref>
+          <ref id="InterferonGamma.R13">
+            <mixed-citation publication-type="journal">King TE Jr, Albera C, Bradford WZ, Costabel U, Hormel P, Lancaster L, Noble PW, et al.; INSPIRE Study Group. Effect of interferon gamma-1b on survival in patients with idiopathic pulmonary fibrosis (INSPIRE): a multicentre, randomised, placebo-controlled trial. Lancet 2009; 374 (9685): 222-8. <annotation><p><italic toggle="yes">(Among 826 patients with idiopathic pulmonary fibrosis treated with interferon gamma [200 &#x000b5;g thrice weekly] or placebo daily for an average of 1.5 years, survival rates and worsening of pulmonary function were similar in the two groups; no mention of ALT elevations or hepatotoxicity). </italic></p></annotation><pub-id pub-id-type="pmid">19570573</pub-id></mixed-citation>
+          </ref>
+          <ref id="InterferonGamma.R14">
+            <mixed-citation publication-type="journal">Richeldi L. Assessing the treatment effect from multiple trials in idiopathic pulmonary fibrosis. Eur Respir Rev 2012; 21: 147-51. <annotation><p><italic toggle="yes">(Review of trials of agents in idiopathic pulmonary fibrosis; mentions two trials of interferon gamma, neither of which showed a clinical benefit [Raghu 2004, King 2009]; no mention of adverse events).</italic></p></annotation><pub-id pub-id-type="pmid">22654087</pub-id></mixed-citation>
+          </ref>
+          <ref id="InterferonGamma.R15">
+            <mixed-citation publication-type="journal">Seyer L, Greeley N, Foerster D, Strawser C, Gelbard S, Dong Y, Schadt K, et al. Open-label pilot study of interferon gamma-1b in Friedreich ataxia. Acta Neurol Scand 2015; 132: 7-15. <annotation><p><italic toggle="yes"> (Among 12 children and adolescents with Friedreich ataxia treated with interferon gamma for 12 weeks, adverse events were frequent but usually mild, 2 patients required dose reduction and "liver function abnormalities" arose in 1 subject, no details given).</italic></p></annotation><pub-id pub-id-type="pmid">25335475</pub-id></mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec id="InterferonGamma.OTHER_REFERENCE_LINKS" sec-type="link-group">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=(Interferon+Gamma/AE)+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D%3A%222999/12/31%22%5BEDat%5D)">Recent References on Interferon Gamma: from PubMed.gov</ext-link>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Interferon+Gamma">Trials on Interferon Gamma: from ClinicalTrials.gov</ext-link>
+            </p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

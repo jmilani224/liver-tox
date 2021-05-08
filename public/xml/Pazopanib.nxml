@@ -1,0 +1,1278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Pazopanib" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Pazopanib</book-part-id>
+      <title-group>
+        <title>Pazopanib</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>10</day>
+          <month>5</month>
+          <year>2020</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Passionflower" document-type="chapter">Passionflower</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Pegloticase" document-type="chapter">Pegloticase</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Pazopanib.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Pazopanib.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Pazopanib is a multi-kinase inhibitor active against vascular endothelial growth factor receptors-1, -2 and -3 that is used in the therapy of advanced renal cell carcinoma and soft tissue sarcomas. Pazopanib therapy is commonly associated with transient elevations in serum aminotransferase during therapy and has been linked to rare, but occasionally severe and even fatal cases of clinically apparent acute liver injury.</p>
+        </sec>
+        <sec id="Pazopanib.Background">
+          <title>Background</title>
+          <p>Pazopanib (paz oh&#x02019; pa nib) is an orally available, multi-kinase inhibitor, most potently inhibiting the tyrosine kinase receptors of vascular endothelial growth factor (VEGF) 1, 2 and 3 which are associated with tumor growth and angiogenesis. Pazopanib also has activity against c-KIT (an abnormal tyrosine kinase found in gastrointestinal stromal tumors) and the platelet derived growth factor (PDGF) receptor. Clinical trials of pazopanib in malignant diseases in humans have shown activity against renal cell carcinoma and soft tissue sarcoma and promising effects in ovarian and thyroid cancer. Pazopanib received approval for use in the United States in 2012 and current indications include advanced renal cell cancer and soft tissue sarcomas. Pazopanib is available in tablets of 200 mg under the brand name Votrient. The typical dose is 800 mg once daily. Lower doses are recommended for patients with moderate-to-severe liver disease (200 mg daily) and the dose can be reduced to 400 mg daily for toxicity. Common side effects include fatigue, diarrhea, hypertension, hair color changes, anorexia, nausea, and bone marrow suppression. Uncommon, but potentially severe side effects include prolonged QTc intervals, hemorrhages, arterial thrombosis, visceral perforations and fistulae, interstitial lung disease, reversible posterior leukoencephalopathy syndrome, and embryo-fetal toxicity.</p>
+        </sec>
+        <sec id="Pazopanib.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>In large clinical trials, abnormalities in routine liver tests were common in patients treated with pazopanib, with serum aminotransferase elevations occurring in up to half of patients and total serum bilirubin in approximately one-third. ALT and AST values greater than 5 times the upper limit of normal (ULN) occurred in 8% of patients and combinations of ALT and bilirubin elevations in 1% to 2%. In preliminary trials of pazopanib in various solid tumors, there were rare reports of hepatitis with jaundice in &#x0003c;1% of patients. Subsequently, fatal instances of liver injury have been reported and the clinical features of the hepatotoxicity have been better defined. The clinical onset is typically within 4 to 12 weeks of starting pazopanib and the pattern of serum enzyme elevations is usually mixed. Immunoallergic and autoimmune features are not present. The course is typically self-limited, but can be prolonged and severe and fatal instances have been reported (Case 1).</p>
+          <p>Likelihood score: C (probable cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Pazopanib.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The mechanism of injury accounting for serum enzyme elevations during pazopanib therapy is not known. Retrospective analyses and genetic studies have suggested that other medications (simvastatin) and HFE polymorphisms may play a role in serum aminotransferase elevations and Gilbert syndrome in hyperbilirubinemia. Pazopanib is metabolized in the liver largely through the CYP 3A4 pathway and liver injury may be related to production of a toxic intermediate. Pazopanib is susceptible to drug-drug interactions with agents that inhibit or induce hepatic CYP 3A4 activity.</p>
+        </sec>
+        <sec id="Pazopanib.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>Liver test abnormalities are frequent during pazopanib therapy and routine monitoring is recommended at 3 to 4 week intervals. Serum aminotransferase elevations above 5 times the upper limit of normal (if confirmed) or any elevations accompanied by jaundice or symptoms should lead to dose reduction or temporary cessation. There does not appear to be cross reactivity in risk for hepatic injury between pazopanib and other kinase inhibitors and, in some situations, switching to another tyrosine kinase receptor inhibitor may be appropriate.</p>
+          <p>Drug Class: <related-object link-type="booklink" source-id="livertox" document-id="AntineoplasticAgents" document-type="chapter">Antineoplastic Agents</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="ProteinKinaseInhibit" document-type="chapter">Protein Kinase Inhibitors</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Pazopanib.CASE_REPORT">
+        <title>CASE REPORT</title>
+        <sec id="Pazopanib.Case_1_Severe_acute_liver_inju">
+          <title>Case 1. Severe acute liver injury and hepatic failure due to pazopanib.(<xref ref-type="bibr" rid="Pazopanib.REF.1">1</xref>)</title>
+          <p>A 77 year old man with metastatic renal cell carcinoma developed jaundice 6 weeks after starting pazopanib (800 mg daily). He had no previous history of liver disease and had normal routine liver tests before therapy and after 2 weeks of treatment (Table). He had no risk factors for viral hepatitis or history of alcohol abuse and was taking no other potentially hepatotoxic medications. On presentation, serum bilirubin was 6.3 mg/dL, ALT 759 U/L, AST 296 U/L and alkaline phosphatase 729 U/L. Pazopanib was stopped promptly and he was monitored closely. Tests for viral hepatitis A, B and C and cytomegalovirus infection were negative as were routine autoantibodies. A liver biopsy showed acute cholestatic hepatitis with mild bile duct injury. While serum aminotransferase levels rapidly fell to near normal levels, serum alkaline phosphatase remained high and bilirubin levels rose. Four weeks after presentation, the prothrombin time began to rise and the patient died of hepatic failure approximately 9 weeks after initial presentation.</p>
+          <sec id="Pazopanib.Key_Points">
+            <title>Key Points</title>
+            <table-wrap id="Pazopanib.Tc" orientation="portrait" position="anchor">
+              <table frame="hsides" rules="groups">
+                <tbody>
+                  <tr>
+                    <th id="hd_b_Pazopanib.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Medication:</th>
+                    <td headers="hd_b_Pazopanib.Tc_1_1_1_1" valign="top" align="left" rowspan="1" colspan="1">Pazopanib (800 mg daily)</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Pazopanib.Tc_1_1_2_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Pattern:</th>
+                    <td headers="hd_b_Pazopanib.Tc_1_1_2_1" valign="top" align="left" rowspan="1" colspan="1">Mixed (R=~3: normal values not provided)</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Pazopanib.Tc_1_1_3_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Severity:</th>
+                    <td headers="hd_b_Pazopanib.Tc_1_1_3_1" valign="top" align="left" rowspan="1" colspan="1">5+ (hepatic failure and death)</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Pazopanib.Tc_1_1_4_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Latency:</th>
+                    <td headers="hd_b_Pazopanib.Tc_1_1_4_1" valign="top" align="left" rowspan="1" colspan="1">6 weeks</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Pazopanib.Tc_1_1_5_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Recovery:</th>
+                    <td headers="hd_b_Pazopanib.Tc_1_1_5_1" valign="top" align="left" rowspan="1" colspan="1">None</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Pazopanib.Tc_1_1_6_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Other medications:</th>
+                    <td headers="hd_b_Pazopanib.Tc_1_1_6_1" valign="top" align="left" rowspan="1" colspan="1">None mentioned</td>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Pazopanib.Laboratory_Values">
+            <title>Laboratory Values</title>
+            <table-wrap id="Pazopanib.Td" orientation="portrait" position="anchor">
+              <table frame="hsides" rules="groups">
+                <thead>
+                  <tr>
+                    <th id="hd_h_Pazopanib.Td_1_1_1_1" valign="top" align="center" scope="col" rowspan="1" colspan="1">Time After<break/>Starting</th>
+                    <th id="hd_h_Pazopanib.Td_1_1_1_2" valign="top" align="center" scope="col" rowspan="1" colspan="1">Time After<break/>Stopping</th>
+                    <th id="hd_h_Pazopanib.Td_1_1_1_3" valign="top" align="center" scope="col" rowspan="1" colspan="1">ALT<break/>(U/L)</th>
+                    <th id="hd_h_Pazopanib.Td_1_1_1_4" valign="top" align="center" scope="col" rowspan="1" colspan="1">Alk P<break/>(U/L)</th>
+                    <th id="hd_h_Pazopanib.Td_1_1_1_5" valign="top" align="center" scope="col" rowspan="1" colspan="1">Bilirubin<break/>(mg/dL)</th>
+                    <th id="hd_h_Pazopanib.Td_1_1_1_6" valign="top" align="center" scope="col" rowspan="1" colspan="1">Other</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td headers="hd_h_Pazopanib.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Pre</td>
+                    <td headers="hd_h_Pazopanib.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">Pre</td>
+                    <td headers="hd_h_Pazopanib.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">25</td>
+                    <td headers="hd_h_Pazopanib.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">100</td>
+                    <td headers="hd_h_Pazopanib.Td_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">0.2</td>
+                    <td headers="hd_h_Pazopanib.Td_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Pazopanib.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">0</td>
+                    <td headers="hd_h_Pazopanib.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">Pre</td>
+                    <td headers="hd_h_Pazopanib.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">22</td>
+                    <td headers="hd_h_Pazopanib.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">98</td>
+                    <td headers="hd_h_Pazopanib.Td_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">0.2</td>
+                    <td headers="hd_h_Pazopanib.Td_1_1_1_6" valign="top" align="center" rowspan="1" colspan="1">Pazopanib started</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Pazopanib.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">2 weeks</td>
+                    <td headers="hd_h_Pazopanib.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">Pre</td>
+                    <td headers="hd_h_Pazopanib.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">30</td>
+                    <td headers="hd_h_Pazopanib.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">89</td>
+                    <td headers="hd_h_Pazopanib.Td_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">0.3</td>
+                    <td headers="hd_h_Pazopanib.Td_1_1_1_6" valign="top" align="center" rowspan="1" colspan="1">INR 1.1</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Pazopanib.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">6 weeks</td>
+                    <td headers="hd_h_Pazopanib.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">0</td>
+                    <td headers="hd_h_Pazopanib.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">759</td>
+                    <td headers="hd_h_Pazopanib.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">729</td>
+                    <td headers="hd_h_Pazopanib.Td_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">6.3</td>
+                    <td headers="hd_h_Pazopanib.Td_1_1_1_6" valign="top" align="center" rowspan="1" colspan="1">Pazopanib stopped</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Pazopanib.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">7 weeks</td>
+                    <td headers="hd_h_Pazopanib.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">1</td>
+                    <td headers="hd_h_Pazopanib.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">166</td>
+                    <td headers="hd_h_Pazopanib.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">523</td>
+                    <td headers="hd_h_Pazopanib.Td_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">10.4</td>
+                    <td headers="hd_h_Pazopanib.Td_1_1_1_6" valign="top" align="center" rowspan="1" colspan="1">INR 1.1</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Pazopanib.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">8 weeks</td>
+                    <td headers="hd_h_Pazopanib.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">2 weeks</td>
+                    <td headers="hd_h_Pazopanib.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">55</td>
+                    <td headers="hd_h_Pazopanib.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">426</td>
+                    <td headers="hd_h_Pazopanib.Td_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">15.7</td>
+                    <td headers="hd_h_Pazopanib.Td_1_1_1_6" valign="top" align="center" rowspan="1" colspan="1">Liver biopsy</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Pazopanib.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">9 weeks</td>
+                    <td headers="hd_h_Pazopanib.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">3 weeks</td>
+                    <td headers="hd_h_Pazopanib.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">38</td>
+                    <td headers="hd_h_Pazopanib.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">381</td>
+                    <td headers="hd_h_Pazopanib.Td_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">22.9</td>
+                    <td headers="hd_h_Pazopanib.Td_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Pazopanib.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">10 weeks</td>
+                    <td headers="hd_h_Pazopanib.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">4 weeks</td>
+                    <td headers="hd_h_Pazopanib.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">34</td>
+                    <td headers="hd_h_Pazopanib.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">437</td>
+                    <td headers="hd_h_Pazopanib.Td_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">18.6</td>
+                    <td headers="hd_h_Pazopanib.Td_1_1_1_6" valign="top" align="center" rowspan="1" colspan="1">INR 1.8</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Pazopanib.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">11 weeks</td>
+                    <td headers="hd_h_Pazopanib.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">5 weeks</td>
+                    <td headers="hd_h_Pazopanib.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">29</td>
+                    <td headers="hd_h_Pazopanib.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">484</td>
+                    <td headers="hd_h_Pazopanib.Td_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">14.9</td>
+                    <td headers="hd_h_Pazopanib.Td_1_1_1_6" valign="top" align="center" rowspan="1" colspan="1">INR 1.7</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Pazopanib.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">15 weeks</td>
+                    <td headers="hd_h_Pazopanib.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">9 weeks</td>
+                    <td headers="hd_h_Pazopanib.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">28</td>
+                    <td headers="hd_h_Pazopanib.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">484</td>
+                    <td headers="hd_h_Pazopanib.Td_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">13.0</td>
+                    <td headers="hd_h_Pazopanib.Td_1_1_1_6" valign="top" align="center" rowspan="1" colspan="1">Death</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Pazopanib.Td_1_1_1_1 hd_h_Pazopanib.Td_1_1_1_2" colspan="2" valign="top" align="center" scope="row" rowspan="1">
+                      <bold>Normal Values</bold>
+                    </td>
+                    <td headers="hd_h_Pazopanib.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">
+                      <bold>Not given</bold>
+                    </td>
+                    <td headers="hd_h_Pazopanib.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">
+                      <bold>Not given</bold>
+                    </td>
+                    <td headers="hd_h_Pazopanib.Td_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">
+                      <bold>&#x0003c;1.2</bold>
+                    </td>
+                    <td headers="hd_h_Pazopanib.Td_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Pazopanib.Comment">
+            <title>Comment</title>
+            <p>Elevations in serum aminotransferase levels occur in up to 50% of patients treated with pazopanib and rise to above 5 times ULN (approximately 200 U/L) in 8% of patients. Regular monitoring of liver tests is recommended. In this patient, monitoring of liver enzymes was done, but he presented with clinically apparent liver injury despite such monitoring and progressed to hepatic failure despite prompt discontinuation of therapy. The initial pattern of liver enzyme elevations was mixed, with prominent elevations in both serum aminotransferase and alkaline phosphatase levels. Subsequently, serum ALT levels fell, but alkaline phosphatase levels remained high and bilirubin levels continued to rise. A liver biopsy was done that reportedly showed active cholestatic hepatitis with some degree of bile duct injury and ductular proliferation. Within a few weeks, signs of hepatic failure arose and the patient died 9 weeks after presentation with what might be considered a subacute hepatic failure. The patient&#x02019;s age and other comorbidities may have contributed to the poor outcome. A second patient (62 year old man) described in this report had a similar presentation with a mixed pattern of serum enzymes (ALT 935 U/L, Alk P 784 U/L) and jaundice (bilirubin 3.7 mg/dL), but had spontaneous improvement starting 3 weeks after stopping pazopanib and ultimate complete recovery.</p>
+          </sec>
+        </sec>
+      </sec>
+      <sec id="Pazopanib.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <p>
+          <bold>REPRESENTATIVE TRADE NAMES</bold>
+        </p>
+        <p>Pazopanib &#x02013; Votrient&#x000ae;</p>
+        <p>
+          <bold>DRUG CLASS</bold>
+        </p>
+        <p>Antineoplastic Agents</p>
+        <p>
+          <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?label=all&#x00026;query=Pazopanib">COMPLETE LABELING</ext-link>
+        </p>
+        <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+      </sec>
+      <sec id="Pazopanib.CHEMICAL_FORMULA_AND_STRUCTURE">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Pazopanib.Te" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th id="hd_h_Pazopanib.Te_1_1_1_1" valign="top" align="center" scope="col" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Pazopanib.Te_1_1_1_2" valign="top" align="center" scope="col" rowspan="1" colspan="1">CAS REGISTRY NO.</th>
+                <th id="hd_h_Pazopanib.Te_1_1_1_3" valign="top" align="center" scope="col" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Pazopanib.Te_1_1_1_4" valign="top" align="center" scope="col" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Pazopanib.Te_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Pazopanib</td>
+                <td headers="hd_h_Pazopanib.Te_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135252716">444731-52-6</ext-link>
+                </td>
+                <td headers="hd_h_Pazopanib.Te_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">C21-H23-N7-O2-S</td>
+                <td headers="hd_h_Pazopanib.Te_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">
+                  <related-object link-type="ext-image-back-link" source-id="pubchem" document-id="135252716" document-id-type="sid" document-type="summary" object-id="135252716" object-id-type="sid" object-type="image"/>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Pazopanib.CITED_REFERENCE">
+        <title>CITED REFERENCE</title>
+        <ref-list id="Pazopanib.CITED_REFERENCE.reflist0">
+          <ref id="Pazopanib.REF.1">
+            <label>1</label>
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Klempner</surname>
+                  <given-names>SJ</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Choueiri</surname>
+                  <given-names>TK</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Yee</surname>
+                  <given-names>E</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Doyle</surname>
+                  <given-names>LA</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Schuppan</surname>
+                  <given-names>D</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Atkins</surname>
+                  <given-names>MB</given-names>
+                </name>
+              </person-group>
+              <article-title>Severe pazopanib-induced hepatotoxicity: clinical and histologic course in two patients.</article-title>
+              <source>J Clin Oncol</source>
+              <year>2012</year>
+              <volume>30</volume>
+              <fpage>e264</fpage>
+              <lpage>8</lpage>
+              <pub-id pub-id-type="pmid">22802316</pub-id>
+            </element-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec id="Pazopanib.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 10 May 2020</p>
+        <ref-list id="Pazopanib.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Pazopanib.REF.zimmerman.1999">
+            <mixed-citation publication-type="book">Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999.<annotation><p><italic toggle="yes">(Review of hepatotoxicity published in 1999 before the availability of tyrosine kinase inhibitors such as pazopanib).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Pazopanib.REF.deleve.2013">
+            <mixed-citation publication-type="book">DeLeve LD. Erlotinib. Cancer chemotherapy. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013, pp. 556.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of cancer chemotherapeutic agents discusses several tyrosine kinase inhibitors including imatinib, gefitinib, erlotinib and crizotinib, but not pazopanib).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Pazopanib.REF.wellstein.2018">
+            <mixed-citation publication-type="book">Wellstein A, Giaccone G, Atkins MB, Sausville EA. Pathway-targeted therapies: monoclonal antibodies, protein kinase inhibitors, and various small molecules. In, Brunton LL, Hilal-Dandan R, Knollman BC, eds. Goodman &#x00026; Gilman's the pharmacological basis of therapeutics. 13th ed. New York: McGraw-Hill, 2018, pp. 1203-36.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Pazopanib.REF.sleijfer.2009.3126">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Sleijfer</surname>
+                  <given-names>S</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Ray-Coquard</surname>
+                  <given-names>I</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Papai</surname>
+                  <given-names>Z</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Le Cesne</surname>
+                  <given-names>A</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Scurr</surname>
+                  <given-names>M</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Sch&#x000f6;ki</surname>
+                  <given-names>P</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Collin</surname>
+                  <given-names>F</given-names>
+                </name>
+                <etal/>
+              </person-group>
+              <article-title>Pazopanib, a multikinase angiogenesis inhibitor, in patients with relapsed or refractory advanced soft tissue sarcoma: a phase II study from the European organisation for research and treatment of cancer-soft tissue and bone sarcoma group (EORTC study 62043).</article-title>
+              <source>J Clin Oncol</source>
+              <year>2009</year>
+              <volume>27</volume>
+              <issue>19</issue>
+              <fpage>3126</fpage>
+              <lpage>32</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Among 142 patients with advanced soft tissue sarcomas, pazopanib demonstrated "interesting activity" and side effects included anemia [75%], leucopenia [42%], thrombocytopenia [10%], hypertension [40%], fatigue [37%], diarrhea [30%], nausea [36%], and elevations in ALT [50%], bilirubin [38%] and creatinine [26%]).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">19451427</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Pazopanib.REF.xu.2010.1371">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Xu</surname>
+                  <given-names>CF</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Reck</surname>
+                  <given-names>BH</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Xue</surname>
+                  <given-names>Z</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Huang</surname>
+                  <given-names>L</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Baker</surname>
+                  <given-names>KL</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Chen</surname>
+                  <given-names>M</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Chen</surname>
+                  <given-names>EP</given-names>
+                </name>
+                <etal/>
+              </person-group>
+              <article-title>Pazopanib-induced hyperbilirubinemia is associated with Gilbert's syndrome UGT1A1 polymorphism.</article-title>
+              <source>Br J Cancer</source>
+              <year>2010</year>
+              <volume>102</volume>
+              <fpage>1371</fpage>
+              <lpage>7</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Among 246 patients with cancer treated with pazopanib, analysis of genetic polymorphisms of 11 candidate genes found an association of hyperbilirubinemia with the gene for Gilbert syndrome).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">20389299</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Pazopanib.REF.sternberg.2010.1061">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Sternberg</surname>
+                  <given-names>CN</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Davis</surname>
+                  <given-names>ID</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Mardiak</surname>
+                  <given-names>J</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Szczylik</surname>
+                  <given-names>C</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Lee</surname>
+                  <given-names>E</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Wagstaff</surname>
+                  <given-names>J</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Barrios</surname>
+                  <given-names>CH</given-names>
+                </name>
+                <etal/>
+              </person-group>
+              <article-title>Pazopanib in locally advanced or metastatic renal cell carcinoma: results of a randomized phase III trial.</article-title>
+              <source>J Clin Oncol</source>
+              <year>2010</year>
+              <volume>28</volume>
+              <fpage>1061</fpage>
+              <lpage>8</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Among 435 patients with advanced renal cell cancer, objective tumor responses occurred in 30% of pazopanib vs 3% of placebo recipients, but side effects were common including ALT increases in 53% [ &#x02265;5 times ULN in 12%], diarrhea [52%], hypertension [40%], hair color change [38%], nausea [26%], thrombotic events [3%], and one patient died of hepatic failure).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">20100962</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Pazopanib.REF8">
+            <element-citation publication-type="journal">
+              <article-title>Everolimus and pazopanib: two new drugs for renal cell cancer.</article-title>
+              <source>Med Lett Drugs Ther</source>
+              <year>2010</year>
+              <volume>52</volume>
+              <issue>1337</issue>
+              <fpage>33</fpage>
+              <lpage>4</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Concise summary of efficacy, safety and costs of pazopanib shortly after its approval for use in the US; mentions "the possibility of severe and fatal hepatotoxicity" and recommendation to monitor liver tests closely).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">20431519</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Pazopanib.REF.bukowski.2010.17">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Bukowski</surname>
+                  <given-names>RM</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Yasothan</surname>
+                  <given-names>U</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Kirkpatrick</surname>
+                  <given-names>P</given-names>
+                </name>
+              </person-group>
+              <article-title>Pazopanib.</article-title>
+              <source>Nat Rev Drug Discov</source>
+              <year>2010</year>
+              <volume>9</volume>
+              <fpage>17</fpage>
+              <lpage>8</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Brief summary of history of development of pazopanib, its mechanism of action, clinical indications and place in "the market", mentions that pazopanib is associated with side effects of hepatic toxicity).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">20043026</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Pazopanib.REF.xu.2011.1237">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Xu</surname>
+                  <given-names>CF</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Reck</surname>
+                  <given-names>BH</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Goodman</surname>
+                  <given-names>VL</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Xue</surname>
+                  <given-names>Z</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Huang</surname>
+                  <given-names>L</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Barnes</surname>
+                  <given-names>MR</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Koshy</surname>
+                  <given-names>B</given-names>
+                </name>
+                <etal/>
+              </person-group>
+              <article-title>Association of the hemochromatosis gene with pazopanib-induced transaminase elevation in renal cell carcinoma.</article-title>
+              <source>J Hepatol</source>
+              <year>2011</year>
+              <volume>54</volume>
+              <fpage>1237</fpage>
+              <lpage>43</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Analysis of 6852 genetic polymorphisms among 242 patients with cancer treated with pazopanib identified 92 polymorphisms in 40 genes associated with ALT elevations and focused upon two markers in the HFE gene).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">21145803</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Pazopanib.REF.keisner.2011.443">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Keisner</surname>
+                  <given-names>SV</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Shah</surname>
+                  <given-names>SR</given-names>
+                </name>
+              </person-group>
+              <article-title>Pazopanib: the newest tyrosine kinase inhibitor for the treatment of advanced or metastatic renal cell carcinoma.</article-title>
+              <source>Drugs</source>
+              <year>2011</year>
+              <volume>71</volume>
+              <fpage>443</fpage>
+              <lpage>54</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Review of mechanism of action, efficacy and safety of pazopanib therapy of renal cell cancer lists side effects including elevations in ALT in 53% of patients [ &#x02265;5 times ULN in 12%] and bilirubin in 36% [ &#x02265;3 times ULN in 4%]).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">21395357</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Pazopanib.REF.xu.2012.2470">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Xu</surname>
+                  <given-names>CF</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Xue</surname>
+                  <given-names>Z</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Bing</surname>
+                  <given-names>N</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>King</surname>
+                  <given-names>KS</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>McCann</surname>
+                  <given-names>LA</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>de Souza</surname>
+                  <given-names>PL</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Goodman</surname>
+                  <given-names>VL</given-names>
+                </name>
+                <etal/>
+              </person-group>
+              <article-title>Concomitant use of pazopanib and simvastatin increases the risk of transaminase elevations in patients with cancer.</article-title>
+              <source>Ann Oncol</source>
+              <year>2012</year>
+              <volume>23</volume>
+              <fpage>2470</fpage>
+              <lpage>1</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Retrospective analysis of ALT elevations [ &#x02265;3 times ULN] in 976 patients on pazopanib found higher rate in those also taking simvastatin [27%] and atorvastatin [17%] compared to those not on a statin [14%]).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">22918879</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Pazopanib.REF.klempner.2012.e264">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Klempner</surname>
+                  <given-names>SJ</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Choueiri</surname>
+                  <given-names>TK</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Yee</surname>
+                  <given-names>E</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Doyle</surname>
+                  <given-names>LA</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Schuppan</surname>
+                  <given-names>D</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Atkins</surname>
+                  <given-names>MB</given-names>
+                </name>
+              </person-group>
+              <article-title>Severe pazopanib-induced hepatotoxicity: clinical and histologic course in two patients.</article-title>
+              <source>J Clin Oncol</source>
+              <year>2012</year>
+              <volume>30</volume>
+              <fpage>e264</fpage>
+              <lpage>8</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Two patients, 77 and 62 year old men with renal cell cancer developed jaundice 4-6 weeks after starting pazopanib [peak bilirubin 22.9 and 4.5 mg/dL, ALT 759 and 935 U/L, Alk P 729 and 784 U/L], one dying of hepatic failure and one recovering within 3 months of stopping: Case 1).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">22802316</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Pazopanib.REF.motzer.2013.2927">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Motzer</surname>
+                  <given-names>RJ</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Johnson</surname>
+                  <given-names>T</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Choueiri</surname>
+                  <given-names>TK</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Deen</surname>
+                  <given-names>KC</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Xue</surname>
+                  <given-names>Z</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Pandite</surname>
+                  <given-names>LN</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Carpenter</surname>
+                  <given-names>C</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Xu</surname>
+                  <given-names>CF</given-names>
+                </name>
+              </person-group>
+              <article-title>Hyperbilirubinemia in pazopanib- or sunitinib-treated patients in COMPARZ is associated with UGT1A1 polymorphisms.</article-title>
+              <source>Ann Oncol</source>
+              <year>2013</year>
+              <volume>24</volume>
+              <fpage>2927</fpage>
+              <lpage>8</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Among 1110 patients with renal cell cancer treated with tyrosine kinase inhibitors, bilirubin elevations &#x02265;1.5 times ULN occurred in 16% on pazopanib vs 9% on sunitinib, and the accumulated rate of the elevations was higher in patients who were homozygous for the UGT1A1 polymorphisms of Gilbert syndrome).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">24107802</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Pazopanib.REF.shibata.2013.3631">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Shibata</surname>
+                  <given-names>SI</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Chung</surname>
+                  <given-names>V</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Synold</surname>
+                  <given-names>TW</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Longmate</surname>
+                  <given-names>JA</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Suttle</surname>
+                  <given-names>AB</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Ottesen</surname>
+                  <given-names>LH</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Lenz</surname>
+                  <given-names>HJ</given-names>
+                </name>
+                <etal/>
+              </person-group>
+              <article-title>Phase I study of pazopanib in patients with advanced solid tumors and hepatic dysfunction: a National Cancer Institute Organ Dysfunction Working Group study.</article-title>
+              <source>Clin Cancer Res</source>
+              <year>2013</year>
+              <volume>19</volume>
+              <fpage>3631</fpage>
+              <lpage>9</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Among 98 patients with advanced solid tumors and varying degrees of liver dysfunction treated with varying doses of pazopanib, found the poor tolerance of standard doses among patients with moderate-to-severe liver dysfunction was not due to decrease in drug clearance).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">23653147</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Pazopanib.REF.kapadia.2013.1202">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Kapadia</surname>
+                  <given-names>S</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Hapani</surname>
+                  <given-names>S</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Choueiri</surname>
+                  <given-names>TK</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Wu</surname>
+                  <given-names>S</given-names>
+                </name>
+              </person-group>
+              <article-title>Risk of liver toxicity with the angiogenesis inhibitor pazopanib in cancer patients.</article-title>
+              <source>Acta Oncol</source>
+              <year>2013</year>
+              <volume>52</volume>
+              <fpage>1202</fpage>
+              <lpage>12</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Systematic review of hepatic toxicity of pazopanib based upon 10 clinical trials with 1478 patients calculated rate of ALT elevations as 41% [ &#x02265;5 times ULN in 9%] and bilirubin 25% [ &#x02265;3 times ULN 3%], with only 2 cases of fatal hepatic failure).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">23594201</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Pazopanib.REF.spraggs.2013.541">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Spraggs</surname>
+                  <given-names>CF</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Xu</surname>
+                  <given-names>CF</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Hunt</surname>
+                  <given-names>CM</given-names>
+                </name>
+              </person-group>
+              <article-title>Genetic characterization to improve interpretation and clinical management of hepatotoxicity caused by tyrosine kinase inhibitors.</article-title>
+              <source>Pharmacogenomics</source>
+              <year>2013</year>
+              <volume>14</volume>
+              <fpage>541</fpage>
+              <lpage>54</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Review of genetic associations of serum ALT and bilirubin elevations during therapy with tyrosine kinase inhibitors focusing on lapatinib and pazopanib).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">23556451</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Pazopanib.REF.shah.2013.491">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Shah</surname>
+                  <given-names>RR</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Morganroth</surname>
+                  <given-names>J</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Shah</surname>
+                  <given-names>DR</given-names>
+                </name>
+              </person-group>
+              <article-title>Hepatotoxicity of tyrosine kinase inhibitors: clinical and regulatory perspectives.</article-title>
+              <source>Drug Saf</source>
+              <year>2013</year>
+              <volume>36</volume>
+              <fpage>491</fpage>
+              <lpage>503</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Review of the hepatotoxicity of 18 tyrosine kinase inhibitors approved for use in cancer in the US as of 2013 mentions that cases of acute hepatitis and fatal hepatic failure have been described in patients receiving pazopanib and that aminotransferase elevations occur in 46-53% of patients [ &#x02265;5 times ULN in 7-12%], generally within the first 18 weeks of treatment).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">23620168</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Pazopanib.REF.teo.2013.199">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Teo</surname>
+                  <given-names>YL</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Ho</surname>
+                  <given-names>HK</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Chan</surname>
+                  <given-names>A</given-names>
+                </name>
+              </person-group>
+              <article-title>Risk of tyrosine kinase inhibitors-induced hepatotoxicity in cancer patients: a meta-analysis.</article-title>
+              <source>Cancer Treat Rev</source>
+              <year>2013</year>
+              <volume>39</volume>
+              <fpage>199</fpage>
+              <lpage>206</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Combined analysis of 12 placebo controlled trials of various tyrosine kinase inhibitors found a higher rate of ALT elevations with kinase inhibitors than with placebo).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">23099278</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Pazopanib.REF.bible.2014.1687">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Bible</surname>
+                  <given-names>KC</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Suman</surname>
+                  <given-names>VJ</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Molina</surname>
+                  <given-names>JR</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Smallridge</surname>
+                  <given-names>RC</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Maples</surname>
+                  <given-names>WJ</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Menefee</surname>
+                  <given-names>ME</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Rubin</surname>
+                  <given-names>J</given-names>
+                </name>
+                <etal/>
+                <collab>Endocrine Malignancies Disease Oriented Group</collab>
+              </person-group>
+              <article-title>Mayo Clinic Cancer Center, and the Mayo Phase 2 Consortium. A multicenter phase 2 trial of pazopanib in metastatic and progressive medullary thyroid carcinoma: MC057H.</article-title>
+              <source>J Clin Endocrinol Metab</source>
+              <year>2014</year>
+              <volume>99</volume>
+              <fpage>1687</fpage>
+              <lpage>93</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Among 35 patients with advanced medullary thyroid cancer treated with pazopanib for 1-43 months, liver test abnormalities occurred in 6%).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">24606083</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Pazopanib.REF.vlenterie.2015.1064">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Vlenterie</surname>
+                  <given-names>M</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>van Erp</surname>
+                  <given-names>NP</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>van der Graaf</surname>
+                  <given-names>WT</given-names>
+                </name>
+              </person-group>
+              <article-title>Promising management of pazopanib-induced liver toxicity.</article-title>
+              <source>Acta Oncol</source>
+              <year>2015</year>
+              <volume>54</volume>
+              <fpage>1064</fpage>
+              <lpage>6</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(47 year old man and 55 year old woman with synovial sarcoma developed ALT elevations without jaundice 7 and 5 weeks after starting pazopanib [ALT ~400 and 330 U/L] which improved on stopping but rose again [~450 U/L] when pazopanib was restarted, but by adding prednisone therapy [30 mg daily] they were both able to continue pazopanib and ALT levels were maintained at &#x0003c;100 U/L with tapering doses of corticosteroids).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">25734660</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Pazopanib.REF.powles.2015.1293">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Powles</surname>
+                  <given-names>T</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Bracarda</surname>
+                  <given-names>S</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Chen</surname>
+                  <given-names>M</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Norry</surname>
+                  <given-names>E</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Compton</surname>
+                  <given-names>N</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Heise</surname>
+                  <given-names>M</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Hutson</surname>
+                  <given-names>T</given-names>
+                </name>
+                <etal/>
+              </person-group>
+              <article-title>Characterisation of liver chemistry abnormalities associated with pazopanib monotherapy: a systematic review and meta-analysis of clinical trials in advanced cancer patients.</article-title>
+              <source>Eur J Cancer</source>
+              <year>2015</year>
+              <volume>51</volume>
+              <fpage>1293</fpage>
+              <lpage>302</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Metaanalysis of liver test abnormalities from 2080 patients enrolled in 9 prospective trials of pazopanib for renal cell cancer, soft tissue sarcoma or ovarian carcinoma found that 20% of subjects developed ALT elevations above 3 times ULN and 6% above 10 times ULN, median onset by 42 days and most within 4 months, normally resolving within 30 days, recurrence on rechallenge in 38% [39 of 103 patients] and only 9 patients [0.4%] had clinically apparent liver injury with jaundice, none developed acute liver failure).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">25899987</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Pazopanib.REF.karczmarekborowska.2015.87">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Karczmarek-Borowska</surname>
+                  <given-names>B</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Sa&#x00142;ek-Za&#x00144;</surname>
+                  <given-names>A</given-names>
+                </name>
+              </person-group>
+              <article-title>Hepatotoxicity of molecular targeted therapy.</article-title>
+              <source>Contemp Oncol (Pozn)</source>
+              <year>2015</year>
+              <volume>19</volume>
+              <fpage>87</fpage>
+              <lpage>92</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Review of hepatotoxicity of modern molecular targeted therapies including monoclonal antibodies, protein kinase inhibitors and proteasome inhibitors; mentions that pazopanib has an increased risk of liver injury).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">26034384</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Pazopanib.REF.xu.2016.1371">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Xu</surname>
+                  <given-names>CF</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Johnson</surname>
+                  <given-names>T</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Wang</surname>
+                  <given-names>X</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Carpenter</surname>
+                  <given-names>C</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Graves</surname>
+                  <given-names>AP</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Warren</surname>
+                  <given-names>L</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Xue</surname>
+                  <given-names>Z</given-names>
+                </name>
+                <etal/>
+              </person-group>
+              <article-title>HLA-B*57:01 confers susceptibility to pazopanib-associated liver injury in patients with cancer.</article-title>
+              <source>Clin Cancer Res</source>
+              <year>2016</year>
+              <volume>22</volume>
+              <fpage>1371</fpage>
+              <lpage>7</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Genome wide association studies done on 1,188 patients with cancer treated with pazopanib found that carriers of HLA-B*57:01 had higher rates of ALT elevations than noncarriers, 31% vs 19% above 3 times ULN and 18% vs 10% above 5 times ULN, but accounted for only 10% of cases).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">26546620</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Pazopanib.REF.shantakumar.2016.559">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Shantakumar</surname>
+                  <given-names>S</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Nordstrom</surname>
+                  <given-names>BL</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Djousse</surname>
+                  <given-names>L</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Hall</surname>
+                  <given-names>SA</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Gagnon</surname>
+                  <given-names>DR</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Fraeman</surname>
+                  <given-names>KH</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>van Herk-Sukel</surname>
+                  <given-names>M</given-names>
+                </name>
+                <etal/>
+              </person-group>
+              <article-title>Occurrence of hepatotoxicity with pazopanib and other anti-VEGF treatments for renal cell carcinoma: an observational study utilizing a distributed database network.</article-title>
+              <source>Cancer Chemother Pharmacol</source>
+              <year>2016</year>
+              <volume>78</volume>
+              <fpage>559</fpage>
+              <lpage>66</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Analysis of two electronic medical databases on patients with renal cell cancer identified 352 who were treated with pazopanib, of whom 30 [8.5%] developed ALT elevations above 3 times ULN, but none developed clinically apparent liver injury with jaundice).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">27438066</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Pazopanib.REF.verschoor.2018.92">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Verschoor</surname>
+                  <given-names>AJ</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Warmerdam</surname>
+                  <given-names>FARM</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Bosse</surname>
+                  <given-names>T</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Bov&#x000e9;e</surname>
+                  <given-names>JVMG</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Gelderblom</surname>
+                  <given-names>H</given-names>
+                </name>
+              </person-group>
+              <article-title>A remarkable response to pazopanib, despite recurrent liver toxicity, in a patient with a high grade endometrial stromal sarcoma, a case report.</article-title>
+              <source>BMC Cancer</source>
+              <year>2018</year>
+              <volume>18</volume>
+              <fpage>92</fpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(40 year old woman with metastatic soft tissue sarcoma had a clinical response to pazopanib but developed serum ALT elevations which recurred on rechallenge, but using a lower dose allowed for continuation of therapy).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">29357824</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Pazopanib.REF.okamura.2019.698">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Okamura</surname>
+                  <given-names>Y</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Hinata</surname>
+                  <given-names>N</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Terakawa</surname>
+                  <given-names>T</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Furukawa</surname>
+                  <given-names>J</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Harada</surname>
+                  <given-names>K</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Nakano</surname>
+                  <given-names>Y</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Nakamura</surname>
+                  <given-names>I</given-names>
+                </name>
+                <etal/>
+              </person-group>
+              <article-title>External validation of nomograms for prediction of progression-free survival and liver toxicity in patients with advanced renal cell carcinoma treated with pazopanib.</article-title>
+              <source>Int J Clin Oncol</source>
+              <year>2019</year>
+              <volume>24</volume>
+              <fpage>698</fpage>
+              <lpage>705</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Among 150 Japanese patients with renal cell carcinoma treated with pazopanib, 17% developed ALT elevations which were above 5 times ULN in 7%).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">30798395</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Pazopanib.REF.patel.2019.e6251">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Patel</surname>
+                  <given-names>T</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Tarun</surname>
+                  <given-names>T</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Hudhud</surname>
+                  <given-names>D</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Krvavac</surname>
+                  <given-names>A.</given-names>
+                </name>
+              </person-group>
+              <article-title>Novel Use of N-acetylcysteine in management of tyrosine kinase inhibitor induced acute liver injury.</article-title>
+              <source>Cureus</source>
+              <year>2019</year>
+              <volume>11</volume>
+              <elocation-id>e6251</elocation-id>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(67 year old woman with metastatic angiosarcoma developed fatigue two weeks after starting &#x0201c;high dose&#x0201d; pazopanib [bilirubin 1.5 mg/dL, ALT 1377 U/L, Alk P 275 U/L] who improved somewhat over the next 4 days after stopping therapy and receiving infusions of N-acetylcysteine).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">31890447</pub-id>
+            </element-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec sec-type="link-group" id="Pazopanib.OTHER_REFERENCE_LINKS">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <label>1</label>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=Pazopanib+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D:%222999/12/31%22%5BEDat%5D)">Recent References on Pazopanib: from PubMed.gov</ext-link>
+            </p>
+          </list-item>
+          <list-item>
+            <label>2</label>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Pazopanib">Trials on Pazopanib: from ClinicalTrials.gov</ext-link>
+            </p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

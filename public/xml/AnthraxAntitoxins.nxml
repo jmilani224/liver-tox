@@ -1,0 +1,605 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="AnthraxAntitoxins" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">AnthraxAntitoxins</book-part-id>
+      <title-group>
+        <title>Anthrax Antitoxins</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>27</day>
+          <month>3</month>
+          <year>2017</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="AntihelminthicAgents" document-type="chapter">Anthelmintic Agents</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Anti-androgens" document-type="chapter">Antiandrogens</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="AnthraxAntitoxins.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="AnthraxAntitoxins.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>High titers of antibody to infectious bacteria and viruses can be used to both prevent and treat infectious diseases. In particular, antitoxins have been shown to be beneficial in several forms of severe acute infections such as diphtheria, rabies and anthrax. The recent use of active anthrax spores as a bioweapon, particularly in acts of terror, has renewed research efforts to develop potent, rapidly active means of prevention and treatment of anthrax after purposeful or accidental exposure. Several monoclonal antibodies to anthrax antigens have been developed as part of research efforts in bioterrorism, of which two are commercially available: raxibacumab (2012) and obiltoxaximab (2016). These two agents were approved for use based upon the so called &#x0201c;Animal Rule&#x0201d;, which allows FDA approval based upon efficacy as shown in animal models of severe infectious diseases and upon safety data developed in healthy volunteers. Both monoclonal antibodies have had limited use in humans, but neither has been associated with serum enzyme elevations or with instances of clinically apparent liver injury during the limited preclinical safety evaluation in healthy volunteers. Updated information on prevention and treatment of anthrax is available from the Centers for Disease Control and Prevention on their website: <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.cdc.gov/anthrax/index.html">https://www.cdc.gov/anthrax/index.html</ext-link>.</p>
+        </sec>
+      </sec>
+      <sec id="AnthraxAntitoxins.OVERVIEW_1">
+        <title>OVERVIEW</title>
+        <sec id="AnthraxAntitoxins.Introduction_1">
+          <title>Introduction</title>
+          <p>Obiltoxaximab is a chimeric monoclonal antibody to the protective antigen of B. anthracis that is used to prevent and treat inhalation anthrax. Obiltoxaximab has had limited use in humans, but has not been associated with serum enzyme elevations during therapy or with instances of clinically apparent liver injury.</p>
+        </sec>
+        <sec id="AnthraxAntitoxins.Background">
+          <title>Background</title>
+          <p>Obiltoxaximab (oh" bil tox ax i mab) is a human-mouse chimeric monoclonal antibody to the Bacillus anthrax protective antigen that is the major immunogenic antigen produced by the bacterial infection. The binding of obiltoxaximab to the anthrax protective antigen blocks the binding of the bacterial toxin to host cells. In several animal models of inhalation anthrax, obiltoxaximab ameliorated the course of the disease and, if given before the onset of signs and symptoms, prevented clinically apparent disease. Obiltoxaximab was approved for use in the United States in 2016 for the prevention and treatment of inhalation anthrax. The approval was based upon the efficacy of obiltoxaximab in animal models of anthrax and on data on safety and pharmacokinetics in healthy human volunteers. Human anthrax is exceedingly rare, but has occurred in the United States as a result of acts of terrorism. Obiltoxaximab is available in single use vials of 600 mg in 6 mL (100 mg/mL) under the brand name Anthim. The recommended dose is 16 mg/kg by slow (90 minute) intravenous infusion in adults and children above 40 kg in weight. Side effects were assessed in studies done in several hundred healthy adult volunteers. While described as &#x0201c;generally well tolerated&#x0201d; adverse events included headache, itching, rash, urticaria and local infusion and hypersensitivity reactions including anaphylaxis. Premedication with diphenhydramine (an antihistamine) is recommended.</p>
+        </sec>
+        <sec id="AnthraxAntitoxins.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>In human volunteer studies, obiltoxaximab was associated with local infusion and general hypersensitivity reactions, but clinical laboratory results were said to be unchanged over time. There have been no reports of hepatotoxicity associated with administration of obiltoxaximab.</p>
+          <p>Likelihood score: E (unlikely cause of liver injury, but it has had very limited use in humans).</p>
+        </sec>
+        <sec id="AnthraxAntitoxins.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>Obiltoxaximab is a monoclonal antibody and is unlikely to be inherently hepatotoxic. Recombinant proteins are often metabolized in the cells on which they act but are also metabolized in the liver, largely to small peptides and amino acids which may be reused to synthesize proteins and are unlikely to be toxic or immunogenic.</p>
+          <p>Drug Class: <related-object link-type="booklink" source-id="livertox" document-id="Antiinfective" document-type="chapter">Antiinfective Agents</related-object>, Antitoxins; <related-object link-type="booklink" source-id="livertox" document-id="MonoclonalAntibodies" document-type="chapter">Monoclonal Antibodies</related-object></p>
+        </sec>
+      </sec>
+      <sec id="AnthraxAntitoxins.OVERVIEW_2">
+        <title>OVERVIEW</title>
+        <sec id="AnthraxAntitoxins.Introduction_2">
+          <title>Introduction</title>
+          <p>Raxibacumab is a human monoclonal antibody to the protective antigen of B. anthracis that is used to prevent and treat inhalation anthrax. Raxibacumab has had limited use in humans, but has not been associated with serum enzyme elevations during therapy or with instances of clinically apparent liver injury.</p>
+        </sec>
+        <sec id="AnthraxAntitoxins.Background_1">
+          <title>Background</title>
+          <p>Raxibacumab (rax" ee bak' ue mab) is a human monoclonal IgG1 antibody to the Bacillus anthrax protective antigen, a major component of the lethal toxin of anthrax. The binding of raxibacumab to the anthrax protective antigen blocks the binding of the bacterial toxin to host cells. In several animal models of inhalation anthrax, raxibacumab ameliorated the course of the disease and, if given before the onset of signs and symptoms, prevented clinically apparent disease. Raxibacumab was approved for use in the United States in 2012 for the prevention and treatment (combined with appropriate antibiotics) of inhalation anthrax. The approval was based upon the efficacy of raxibacumab in animal models of anthrax and on data on safety and pharmacokinetics in healthy human volunteers. Human anthrax is exceeding rare, but has occurred in the United States as a result of acts of terrorism. Raxibacumab is available in single use vials of 1700 mg in 34 mL (50 mg/mL) under the brand name Raxibacumab. The recommended dose is 40 mg/kg by slow (135 minute) intravenous infusion in adults and children above 40 kg in weight. Side effects were assessed in studies done in several hundred healthy adult volunteers. While described as &#x0201c;generally well tolerated&#x0201d; and similar in rate to that in placebo recipients, adverse events included rash, pain, somnolence, and local infusion and hypersensitivity reactions. Premedication with diphenhydramine (an antihistamine) is recommended.</p>
+        </sec>
+        <sec id="AnthraxAntitoxins.Hepatotoxicity_1">
+          <title>Hepatotoxicity</title>
+          <p>In human volunteer studies, raxibacumab was associated with local infusion and general hypersensitivity reactions, but clinical laboratory results remained unchanged. There have been no reports of hepatotoxicity associated with administration of raxibacumab.</p>
+          <p>Likelihood score: E (unlikely cause of liver injury, but it has had very limited use in humans).</p>
+        </sec>
+        <sec id="AnthraxAntitoxins.Mechanism_of_Injury_1">
+          <title>Mechanism of Injury</title>
+          <p>Raxibacumab is a human monoclonal antibody and is unlikely to be inherently hepatotoxic. Recombinant proteins are often metabolized in the cells on which they act but are also metabolized in the liver, largely to small peptides and amino acids which may be reused to synthesize proteins and are unlikely to be toxic or immunogenic.</p>
+          <p>Drug Class: <related-object link-type="booklink" source-id="livertox" document-id="Antiinfective" document-type="chapter">Antiinfective Agents</related-object>, Antitoxins; <related-object link-type="booklink" source-id="livertox" document-id="MonoclonalAntibodies" document-type="chapter">Monoclonal Antibodies</related-object></p>
+        </sec>
+      </sec>
+      <sec id="AnthraxAntitoxins.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <p>
+          <bold>REPRESENTATIVE TRADE NAMES</bold>
+        </p>
+        <p>Obiltoxaximab &#x02013; Anthim&#x000ae;</p>
+        <p>Raxibacumab &#x02013; Raxibacumab&#x000ae;</p>
+        <p>
+          <bold>DRUG CLASS</bold>
+        </p>
+        <p>Antiinfective Agents</p>
+        <p><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Obiltoxaximab%20">COMPLETE LABELING</ext-link> (Obiltoxaximab)</p>
+        <p><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=%20Raxibacumab">COMPLETE LABELING</ext-link> (Raxibacumab)</p>
+        <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+      </sec>
+      <sec id="AnthraxAntitoxins.CHEMICAL_FORMULAS_AND">
+        <title>CHEMICAL FORMULAS AND STRUCTURES</title>
+        <table-wrap id="AnthraxAntitoxins.Tc" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th id="hd_h_AnthraxAntitoxins.Tc_1_1_1_1" valign="top" align="left" scope="col" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_AnthraxAntitoxins.Tc_1_1_1_2" valign="top" align="left" scope="col" rowspan="1" colspan="1">CAS REGISTRY NO</th>
+                <th id="hd_h_AnthraxAntitoxins.Tc_1_1_1_3" valign="top" align="left" scope="col" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_AnthraxAntitoxins.Tc_1_1_1_4" valign="top" align="left" scope="col" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_AnthraxAntitoxins.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Obiltoxaximab</td>
+                <td headers="hd_h_AnthraxAntitoxins.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://377483932">1351337-07-9</ext-link>
+                </td>
+                <td headers="hd_h_AnthraxAntitoxins.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">Monoclonal Antibody</td>
+                <td headers="hd_h_AnthraxAntitoxins.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">Not Available</td>
+              </tr>
+              <tr>
+                <td headers="hd_h_AnthraxAntitoxins.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Raxibacumab</td>
+                <td headers="hd_h_AnthraxAntitoxins.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135308664">565451-13-0</ext-link>
+                </td>
+                <td headers="hd_h_AnthraxAntitoxins.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">Monoclonal Antibody</td>
+                <td headers="hd_h_AnthraxAntitoxins.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">Not Available</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="AnthraxAntitoxins.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 27 March 2017</p>
+        <ref-list id="AnthraxAntitoxins.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="AnthraxAntitoxins.REF.zimmerman.1999">
+            <mixed-citation publication-type="book">Zimmerman HJ. Drugs used to treat rheumatic and musculospastic disease. In, Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999, pp. 517-54.<annotation><p><italic toggle="yes">(Expert review of hepatotoxicity published in 1999, well before the availability of most monoclonal antibody therapies).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="AnthraxAntitoxins.REF.migone.2009.135">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Migone</surname>
+                  <given-names>TS</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Subramanian</surname>
+                  <given-names>GM</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Zhong</surname>
+                  <given-names>J</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Healey</surname>
+                  <given-names>LM</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Corey</surname>
+                  <given-names>A</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Devalaraja</surname>
+                  <given-names>M</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Lo</surname>
+                  <given-names>L</given-names>
+                </name>
+                <etal/>
+              </person-group>
+              <article-title>Raxibacumab for the treatment of inhalational anthrax.</article-title>
+              <source>N Engl J Med</source>
+              <year>2009</year>
+              <volume>361</volume>
+              <fpage>135</fpage>
+              <lpage>44</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(In both rabbits and monkeys exposed to lethal doses of B. anthracis spores, raxibacumab increased the survival rate, and antibody levels associated with protection in animals were readily achieved in humans given intravenous infusions of raxibacumab; adverse events included headache, upper respiratory tract infection, nausea, arm and leg pain, cough, and arthralgia, all of which were no more frequent with raxibacumab than with placebo).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">19587338</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="AnthraxAntitoxins.REF3">
+            <element-citation publication-type="journal">
+              <article-title>Raxibacumab for anthrax.</article-title>
+              <source>Med Lett Drugs Ther</source>
+              <year>2013</year>
+              <volume>55</volume>
+              <issue>1413</issue>
+              <fpage>27</fpage>
+              <lpage>8</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Concise review of the mechanism of action, efficacy in animal studies and safety in human volunteer studies of raxibacumab shortly after its approval for use in the United States; mentions mild-to-moderate adverse effects, but does not mention ALT elevations or hepatoxicity).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">23545582</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="AnthraxAntitoxins.REF.hendricks.2014.e130687">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Hendricks</surname>
+                  <given-names>KA</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Wright</surname>
+                  <given-names>ME</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Shadomy</surname>
+                  <given-names>SV</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Bradley</surname>
+                  <given-names>JS</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Morrow</surname>
+                  <given-names>MG</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Pavia</surname>
+                  <given-names>AT</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Rubinstein</surname>
+                  <given-names>E</given-names>
+                </name>
+                <etal/>
+                <collab>Workgroup on Anthrax Clinical Guidelines</collab>
+              </person-group>
+              <article-title>Centers for disease control and prevention expert panel meetings on prevention and treatment of anthrax in adults.</article-title>
+              <source>Emerg Infect Dis</source>
+              <year>2014</year>
+              <volume>20</volume>
+              <issue>2</issue>
+              <elocation-id>e130687</elocation-id>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Summary of recommendations on the prevention and treatment of anthrax from a symposium held by the CDC).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">24447897</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="AnthraxAntitoxins.REF.huang.2015.365">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Huang</surname>
+                  <given-names>E</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Pillai</surname>
+                  <given-names>SK</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Bower</surname>
+                  <given-names>WA</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Hendricks</surname>
+                  <given-names>KA</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Guarnizo</surname>
+                  <given-names>JT</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Hoyle</surname>
+                  <given-names>JD</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Gorman</surname>
+                  <given-names>SE</given-names>
+                </name>
+                <etal/>
+              </person-group>
+              <article-title>Antitoxin treatment of inhalation anthrax: a systematic review.</article-title>
+              <source>Health Secur</source>
+              <year>2015</year>
+              <volume>13</volume>
+              <fpage>365</fpage>
+              <lpage>77</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Systematic review of the literature on animal studies of the efficacy of antitoxin therapy for anthrax).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">26690378</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="AnthraxAntitoxins.REF.tsai.2015.1320">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Tsai</surname>
+                  <given-names>CW</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Morris</surname>
+                  <given-names>S</given-names>
+                </name>
+              </person-group>
+              <article-title>Approval of raxibacumab for the treatment of inhalation anthrax under the US Food and Drug Administration "Animal Rule".</article-title>
+              <source>Front Microbiol</source>
+              <year>2015</year>
+              <volume>6</volume>
+              <fpage>1320</fpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Review of the animal and clinical data that supported the FDA approval of raxibacumab based upon the Animal Rule; no mention of ALT elevations or hepatotoxicity).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">26648915</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="AnthraxAntitoxins.REF.huang.2015.3960">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Huang</surname>
+                  <given-names>B</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Xie</surname>
+                  <given-names>T</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Rotstein</surname>
+                  <given-names>D</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Fang</surname>
+                  <given-names>H</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Frucht</surname>
+                  <given-names>DM</given-names>
+                </name>
+              </person-group>
+              <article-title>Passive immunotherapy protects against enteric invasion and lethal sepsis in a murine model of gastrointestinal anthrax.</article-title>
+              <source>Toxins (Basel)</source>
+              <year>2015</year>
+              <volume>7</volume>
+              <fpage>3960</fpage>
+              <lpage>76</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(In a mouse model, administration of raxibacumab at the same time as gastrointestinal exposure to anthrax spores prevented lethal sepsis in over 90% of cases).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">26426050</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="AnthraxAntitoxins.REF.migone.2015.1145">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Migone</surname>
+                  <given-names>TS</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Bolmer</surname>
+                  <given-names>S</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Zhong</surname>
+                  <given-names>J</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Corey</surname>
+                  <given-names>A</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Vasconcelos</surname>
+                  <given-names>D</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Buccellato</surname>
+                  <given-names>M</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Meister</surname>
+                  <given-names>G</given-names>
+                </name>
+              </person-group>
+              <article-title>Added benefit of raxibacumab to antibiotic treatment of inhalational anthrax.</article-title>
+              <source>Antimicrob Agents Chemother</source>
+              <year>2015</year>
+              <volume>59</volume>
+              <fpage>1145</fpage>
+              <lpage>51</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(In rabbits exposed to lethal doses of anthrax spores, addition of raxibacumab to ciprofloxacin therapy improved the survival rate at 28 days [82% vs 65%]).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">25487792</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="AnthraxAntitoxins.REF.nagy.2016.2083">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Nagy</surname>
+                  <given-names>CF</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Leach</surname>
+                  <given-names>TS</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Hoffman</surname>
+                  <given-names>JH</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Czech</surname>
+                  <given-names>A</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Carpenter</surname>
+                  <given-names>SE</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Guttendorf</surname>
+                  <given-names>R</given-names>
+                </name>
+              </person-group>
+              <article-title>Pharmacokinetics and tolerability of obiltoxaximab: a report of 5 healthy volunteer studies.</article-title>
+              <source>Clin Ther</source>
+              <year>2016</year>
+              <volume>38</volume>
+              <fpage>2083</fpage>
+              <lpage>97.e7</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Among 340 healthy volunteers who received one or several doses of obiltoxaximab in phase 1 pharmacokinetic studies, adverse events included headache, itch, rash, urticaria and hypersensitivity reactions including anaphylaxis in 3 patients, while &#x0201c;clinical laboratory test results&#x02026; were unremarkable and stable over time&#x0201d;).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">27568215</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="AnthraxAntitoxins.REF.yamamoto.2016.5796">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Yamamoto</surname>
+                  <given-names>BJ</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Shadiack</surname>
+                  <given-names>AM</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Carpenter</surname>
+                  <given-names>S</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Sanford</surname>
+                  <given-names>D</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Henning</surname>
+                  <given-names>LN</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Gonzales</surname>
+                  <given-names>N</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>O'Connor</surname>
+                  <given-names>E</given-names>
+                </name>
+                <etal/>
+              </person-group>
+              <article-title>Obiltoxaximab prevents disseminated Bacillus anthracis infection and improves survival during pre- and postexposure prophylaxis in animal models of inhalational anthrax.</article-title>
+              <source>Antimicrob Agents Chemother</source>
+              <year>2016</year>
+              <volume>60</volume>
+              <fpage>5796</fpage>
+              <lpage>805</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(In studies done in rabbits and macaques challenged with active anthrax spores, obiltoxaximab was highly effective in preventing overt disease and death when administered with antibiotics and prevented disease when administrated before onset).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">27431219</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="AnthraxAntitoxins.REF.yamamoto.2016.5787">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Yamamoto</surname>
+                  <given-names>BJ</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Shadiack</surname>
+                  <given-names>AM</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Carpenter</surname>
+                  <given-names>S</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Sanford</surname>
+                  <given-names>D</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Henning</surname>
+                  <given-names>LN</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>O'Connor</surname>
+                  <given-names>E</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Gonzales</surname>
+                  <given-names>N</given-names>
+                </name>
+                <etal/>
+              </person-group>
+              <article-title>Efficacy projection of obiltoxaximab for treatment of inhalational anthrax across a range of disease severity.</article-title>
+              <source>Antimicrob Agents Chemother</source>
+              <year>2016</year>
+              <volume>60</volume>
+              <fpage>5787</fpage>
+              <lpage>95</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Prediction of the efficacy of obiltoxaximab in humans based upon antibody levels achieved in animal studies).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">27431222</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="AnthraxAntitoxins.REF.greig.2016.823">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Greig</surname>
+                  <given-names>SL</given-names>
+                </name>
+              </person-group>
+              <article-title>Obiltoxaximab: First global approval.</article-title>
+              <source>Drugs</source>
+              <year>2016</year>
+              <volume>76</volume>
+              <fpage>823</fpage>
+              <lpage>30</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Review of the clinical features of anthrax in humans and the challenges of developing therapy and FDA criteria under the Animal Rule whereby efficacy can be established by studies in animals alone; in human volunteer studies, obiltoxaximab was &#x0201c;generally well tolerated&#x0201d;, the major adverse events of concern being hypersensitivity reactions which arose in 5-10% of recipients of obiltoxaximab administered intravenously and occasionally qualified as being anaphylaxis).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">27085536</pub-id>
+            </element-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec sec-type="link-group" id="AnthraxAntitoxins.OTHER_REFERENCE_LINKS">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <label>1</label>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=Obiltoxaximab/AE+AND+Human%5BMH%5D+AND+(jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI+OR+hepatitis,+toxic%5BMH%5D)">Recent References on Obiltoxaximab: from PubMed.gov</ext-link>
+            </p>
+          </list-item>
+          <list-item>
+            <label>2</label>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=Raxibacumab/AE+AND+Human%5BMH%5D+AND+(jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI+OR+hepatitis,+toxic%5BMH%5D)">Recent References on Raxibacumab: from PubMed.gov</ext-link>
+            </p>
+          </list-item>
+          <list-item>
+            <label>3</label>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Obiltoxaximab">Trials on Obiltoxaximab: from ClinicalTrials.gov</ext-link>
+            </p>
+          </list-item>
+          <list-item>
+            <label>4</label>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Raxibacumab">Trials on Raxibacumab: from ClinicalTrials.gov</ext-link>
+            </p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

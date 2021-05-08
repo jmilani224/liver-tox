@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="AntineoplasticAgents" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">AntineoplasticAgents</book-part-id>
+      <title-group>
+        <title>Antineoplastic Agents</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>5</day>
+          <month>4</month>
+          <year>2021</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="AntimalarialAgents" document-type="chapter">Antimalarial Agents</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="AntipsychoticAgents" document-type="chapter">Antipsychotic Agents</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="AntineoplasticAgents.OVERVIEW">
+        <title>OVERVIEW</title>
+        <p content-type="pubmed-excerpt">The antineoplastic agents or anticancer drugs represent a large and diverse class of medications. They generally have limited but important uses, and often have significant hepatotoxicity.</p>
+        <p content-type="pubmed-excerpt">The antineoplastic agents are not easily classified. Historically, they are categorized as (1) alkylating agents, (2) antimetabolites, (3) natural products, (4) hormones and antagonists, and (5) miscellaneous. In recent years, however, the miscellaneous group has come to include some of the most important agents. Anticancer agents can also be classified by indication (lymphoma, leukemia, melanoma, solid tumor), mechanism of action (such as alkylating agents, antibiotics, biological response modifiers, antiandrogens, topoisomerase inhibitors or protein kinase inhibitors), chemical structure (folic acid analog, platinum coordination complex, purine or pyrimidine analog, monoclonal antibody) or as cytotoxic or nonspecific vs noncytotoxic or targeted. The classification used in LiverTox represents a mixture of these systems, which generally follow those given in modern pharmacology textbooks.</p>
+        <p content-type="pubmed-excerpt">Almost all antineoplastic agents have some degree of hepatotoxicity, and the liver injury is usually due to direct, intrinsic toxicity. The typical manifestation is an elevation in liver enzymes or bilirubin during therapy that reverses rapidly with stopping treatment or dose modification. This type of hepatotoxicity is dose related and generally self-limiting, but can be severe, progressive and even fatal as can occur with sinusoidal obstruction syndrome or acute toxic hepatic injury. The antineoplastic agents often have a narrow toxic-therapeutic ratio, although the usual dose limiting toxicity is myelosuppression. Nevertheless, liver injury also can be dose limiting, which generally becomes clear in early dose finding studies. For this reason, many antineoplastic agents acquire a reputation for hepatotoxicity based upon premarketing studies, but are later found to be reasonably well tolerated and only rare causes of clinically significant liver injury when given in lower doses. Antineoplastic agents that are well known to cause significant direct hepatotoxicity when given in moderate to high doses (particularly when used in myeloablation before hematopoietic cell transplantation) include busulfan, melphalan, cyclophosphamide, dacarbazine, cytarabine, fluorouracil, carboplatin and L-asparaginase. At lower doses, these agents are well tolerated.</p>
+        <p>Some antineoplastic agents can also cause idiosyncratic liver injury due to immunologic or metabolic idiosyncrasy. Thus, typical drug induced cholestatic liver injury can occur in rare instances after therapy with cyclophosphamide, azathioprine, mercaptopurine, melphalan and temozolomide. Acute hepatocellular injury can occur with flutamide, bicalutamide and thalidomide. Steatohepatitis can occur with L-asparaginase, methotrexate and tamoxifen (although this pattern may be due to direct toxicity rather than idiosyncratic injury). Selected anticancer agents have also been linked to immunoallergic hepatitis or to autoimmune hepatitis-like injury. A distinctive autoimmune pattern is found in rare instances after monoclonal antibody therapies or with the protein kinase inhibitors. The pathogenesis of these immune reactions is not always well understood. Finally, some antineoplastic agents can cause reactivation of hepatitis B, exacerbations of chronic hepatitis C, or lead to decompensation of an preexisting cirrhosis.</p>
+        <p>A classification of the antineoplastic agents with listing of individual agents is given below. There has been a steady increase in development of innovative antineoplastic agents in recent years and between 5 and 10 new anticancer agents are approved yearly. The hepatotoxicity of these recently introduced agents has not always been well defined. The following links are to individual drug records for the antineoplastic agents; those that are not underlined have yet to be added.</p>
+        <sec id="AntineoplasticAgents.Antineoplastic_Agen">
+          <title>Antineoplastic Agents</title>
+          <list list-type="bullet">
+            <list-item>
+              <p>
+                <related-object link-type="booklink" source-id="livertox" document-id="AlkylatingAgents" document-type="chapter">Alkylating Agents</related-object>
+              </p>
+              <list list-type="bullet">
+                <list-item>
+                  <p><related-object link-type="booklink" source-id="livertox" document-id="Altretamine" document-type="chapter">Altretamine</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Bendamustine" document-type="chapter">Bendamustine</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Busulfan" document-type="chapter">Busulfan</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Carmustine" document-type="chapter">Carmustine</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Chlorambucil" document-type="chapter">Chlorambucil</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Cyclophosphamide" document-type="chapter">Cyclophosphamide</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Dacarbazine" document-type="chapter">Dacarbazine</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Ifosfamide" document-type="chapter">Ifosfamide</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Lomustine" document-type="chapter">Lomustine</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Mechlorethamine" document-type="chapter">Mechlorethamine</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Melphalan" document-type="chapter">Melphalan</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Procarbazine" document-type="chapter">Procarbazine</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Streptozocin" document-type="chapter">Streptozocin</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Temozolomide" document-type="chapter">Temozolomide</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Thiotepa" document-type="chapter">Thiotepa</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Trabectedin" document-type="chapter">Trabectedin</related-object></p>
+                </list-item>
+                <list-item>
+                  <p>
+                    <related-object link-type="booklink" source-id="livertox" document-id="PlatinumCoordination" document-type="chapter">Platinum Coordination Complexes</related-object>
+                  </p>
+                  <list list-type="bullet">
+                    <list-item>
+                      <p><related-object link-type="booklink" source-id="livertox" document-id="Carboplatin" document-type="chapter">Carboplatin</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Cisplatin" document-type="chapter">Cisplatin</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Oxaliplatin" document-type="chapter">Oxaliplatin</related-object></p>
+                    </list-item>
+                  </list>
+                </list-item>
+              </list>
+            </list-item>
+            <list-item>
+              <p><related-object link-type="booklink" source-id="livertox" document-id="CytotoxicAntibiotics" document-type="chapter">Antibiotics,</related-object>
+<related-object link-type="booklink" source-id="livertox" document-id="CytotoxicAntibiotics" document-type="chapter">Cytotoxic</related-object></p>
+              <list list-type="bullet">
+                <list-item>
+                  <p><related-object link-type="booklink" source-id="livertox" document-id="Bleomycin" document-type="chapter">Bleomycin</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Dactinomycin" document-type="chapter">Dactinomycin</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Daunorubicin" document-type="chapter">Daunorubicin</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="DoxorubicinEpirubici" document-type="chapter">Doxorubicin</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="DoxorubicinEpirubici" document-type="chapter">Epirubicin</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="DoxorubicinEpirubici" document-type="chapter">Idarubicin</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Mitomycin" document-type="chapter">Mitomycin</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Mitoxantrone" document-type="chapter">Mitoxantrone</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Plicamycin" document-type="chapter">Plicamycin</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="DoxorubicinEpirubici" document-type="chapter">Valrubicin</related-object></p>
+                </list-item>
+              </list>
+            </list-item>
+            <list-item>
+              <p>
+                <related-object link-type="booklink" source-id="livertox" document-id="PyrimidineAnalogues" document-type="chapter">Antimetabolites</related-object>
+              </p>
+              <list list-type="bullet">
+                <list-item>
+                  <p>Antifolates: <related-object link-type="booklink" source-id="livertox" document-id="Methotrexate" document-type="chapter">Methotrexate</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Pemetrexed" document-type="chapter">Pemetrexed</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Pralatrexate" document-type="chapter">Pralatrexate</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Trimetrexate" document-type="chapter">Trimetrexate</related-object></p>
+                </list-item>
+                <list-item>
+                  <p><related-object link-type="booklink" source-id="livertox" document-id="PurineAnalogues" document-type="chapter">Purine Analogues</related-object>: <related-object link-type="booklink" source-id="livertox" document-id="Azathioprine" document-type="chapter">Azathioprine</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Cladribine" document-type="chapter">Cladribine</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Fludarabine" document-type="chapter">Fludarabine</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Mercaptopurine" document-type="chapter">Mercaptopurine</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Thioguanine" document-type="chapter">Thioguanine</related-object></p>
+                </list-item>
+                <list-item>
+                  <p><related-object link-type="booklink" source-id="livertox" document-id="PyrimidineAnalogues" document-type="chapter">Pyrimidine Analogues</related-object>: <related-object link-type="booklink" source-id="livertox" document-id="Azacitidine" document-type="chapter">Azacitidine</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Capecitabine" document-type="chapter">Capecitabine</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Cytarabine" document-type="chapter">Cytarabine</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Decitabine" document-type="chapter">Decitabine</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Floxuridine" document-type="chapter">Floxuridine</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Fluorouracil" document-type="chapter">Fluorouracil</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Gemcitabine" document-type="chapter">Gemcitabine</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Trifluridine" document-type="chapter">Trifluridine/Tipracil</related-object></p>
+                </list-item>
+              </list>
+            </list-item>
+            <list-item>
+              <p>Biologic Response Modifiers</p>
+              <list list-type="bullet">
+                <list-item>
+                  <p><related-object link-type="booklink" source-id="livertox" document-id="Aldesleukin" document-type="chapter">Aldesleukin (IL-2)</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="DenileukinDiftitox" document-type="chapter">Denileukin Diftitox</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="InterferonGamma" document-type="chapter">Interferon Gamma</related-object></p>
+                </list-item>
+              </list>
+            </list-item>
+            <list-item>
+              <p>Histone Deacetylase Inhibitors</p>
+              <list list-type="bullet">
+                <list-item>
+                  <p><related-object link-type="booklink" source-id="livertox" document-id="Belinostat" document-type="chapter">Belinostat</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Panobinostat" document-type="chapter">Panobinostat</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Romidepsin" document-type="chapter">Romidepsin</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Vorinostat" document-type="chapter">Vorinostat</related-object></p>
+                </list-item>
+              </list>
+            </list-item>
+            <list-item>
+              <p>Hormonal Agents</p>
+              <list list-type="bullet">
+                <list-item>
+                  <p><related-object link-type="booklink" source-id="livertox" document-id="Anti-androgens" document-type="chapter">Antiandrogens</related-object>: <related-object link-type="booklink" source-id="livertox" document-id="Abiraterone" document-type="chapter">Abiraterone</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Apalutamide" document-type="chapter">Apalutamide</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Bicalutamide" document-type="chapter">Bicalutamide</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Cyproterone" document-type="chapter">Cyproterone</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Enzalutamide" document-type="chapter">Enzalutamide</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Flutamide" document-type="chapter">Flutamide</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Nilutamide" document-type="chapter">Nilutamide</related-object></p>
+                </list-item>
+                <list-item>
+                  <p><related-object link-type="booklink" source-id="livertox" document-id="AromataseInhibitors" document-type="chapter">Antiestrogens</related-object> (including <related-object link-type="booklink" source-id="livertox" document-id="AromataseInhibitors" document-type="chapter">Aromatase Inhibitors)</related-object>: <related-object link-type="booklink" source-id="livertox" document-id="Anastrozole" document-type="chapter">Anastrozole</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Exemestane" document-type="chapter">Exemestane</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Fulvestrant" document-type="chapter">Fulvestrant</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Letrozole" document-type="chapter">Letrozole</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="SERMS" document-type="chapter">Raloxifene</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Tamoxifen" document-type="chapter">book-part://Tamoxifen/</related-object><related-object link-type="booklink" source-id="livertox" document-id="Tamoxifen" document-type="chapter">Tamoxifen</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Toremifene" document-type="chapter">Toremifene</related-object></p>
+                </list-item>
+                <list-item>
+                  <p><related-object link-type="booklink" source-id="livertox" document-id="GnRHAnalogues" document-type="chapter">Gonadotropin Releasing Hormone Analogues</related-object>: <related-object link-type="booklink" source-id="livertox" document-id="Degarelix" document-type="chapter">Degarelix</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Goserelin" document-type="chapter">Goserelin</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Histrelin" document-type="chapter">Histrelin</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Leuprolide" document-type="chapter">Leuprolide</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Triptorelin" document-type="chapter">Triptorelin</related-object></p>
+                </list-item>
+                <list-item>
+                  <p>Peptide Hormones: <related-object link-type="booklink" source-id="livertox" document-id="Lanreotide" document-type="chapter">Lanreotide</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Octreotide" document-type="chapter">Octreotide</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Pasireotide" document-type="chapter">Pasireotide</related-object></p>
+                </list-item>
+              </list>
+            </list-item>
+            <list-item>
+              <p>
+                <related-object link-type="booklink" source-id="livertox" document-id="MonoclonalAntibodies" document-type="chapter">Monoclonal Antibodies</related-object>
+              </p>
+              <list list-type="bullet">
+                <list-item>
+                  <p><related-object link-type="booklink" source-id="livertox" document-id="Alemtuzumab" document-type="chapter">Alemtuzumab</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Atezolizumab" document-type="chapter">Atezolizumab</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Avelumab" document-type="chapter">Avelumab</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Bevacizumab" document-type="chapter">Bevacizumab</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Blinatumomab" document-type="chapter">Blinatumomab</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Brentuximab_vedotin" document-type="chapter">Brentuximab</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Cemiplimab" document-type="chapter">Cemiplimab</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Cetuximab" document-type="chapter">Cetuximab</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Daratumumab" document-type="chapter">Daratumumab</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Dinutuximab" document-type="chapter">Dinutuximab</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Durvalumab" document-type="chapter">Durvalumab</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Elotuzumab" document-type="chapter">Elotuzumab</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="GemtuzumabOzogamicin" document-type="chapter">Gemtuzumab</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="InotuzumabOzogamicin" document-type="chapter">Inotuzumab Ozogamicin</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Ipilimumab" document-type="chapter">Ipilimumab</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Mogamulizumab" document-type="chapter">Mogamulizumab</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="MoxetumomabPasudotox" document-type="chapter">Moxetumomab Pasudotox</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Necitumumab" document-type="chapter">Necitumumab</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Nivolumab" document-type="chapter">Nivolumab</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Ofatumumab" document-type="chapter">Ofatumumab</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Olaratumab" document-type="chapter">Olaratumab</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Panitumumab" document-type="chapter">Panitumumab</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Pembrolizumab" document-type="chapter">Pembrolizumab</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Pertuzumab" document-type="chapter">Pertuzumab</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Ramucirumab" document-type="chapter">Ramucirumab</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Rituximab" document-type="chapter">Rituximab</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Tositumomab" document-type="chapter">Tositumomab</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Trastuzumab" document-type="chapter">Trastuzumab</related-object></p>
+                </list-item>
+              </list>
+            </list-item>
+            <list-item>
+              <p>
+                <related-object link-type="booklink" source-id="livertox" document-id="ProteinKinaseInhibit" document-type="chapter">Protein Kinase Inhibitors</related-object>
+              </p>
+              <list list-type="bullet">
+                <list-item>
+                  <p><related-object link-type="booklink" source-id="livertox" document-id="Abemaciclib" document-type="chapter">Abemaciclib</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Acalabrutinib" document-type="chapter">Acalabrutinib</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Afatinib" document-type="chapter">Afatinib</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Alectinib" document-type="chapter">Alectinib</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Axitinib" document-type="chapter">Axitinib</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="EncorafenibBinimetin" document-type="chapter">Binimetinib</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Bortezomib" document-type="chapter">Bortezomib</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Bosutinib" document-type="chapter">Bosutinib</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Brigatinib" document-type="chapter">Brigatinib</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Cabozantinib" document-type="chapter">Cabozantinib</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Carfilzomib" document-type="chapter">Carfilzomib</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Ceritinib" document-type="chapter">Ceritinib</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Cobimetinib" document-type="chapter">Cobimetinib</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Copanlisib" document-type="chapter">Copanlisib</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Crizotinib" document-type="chapter">Crizotinib</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Dabrafenib" document-type="chapter">Dabrafenib</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Dacomitinib" document-type="chapter">Dacomitinib</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Dasatinib" document-type="chapter">Dasatinib</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Duvelisib" document-type="chapter">Duvelisib</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Enasidenib" document-type="chapter">Enasidenib</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="EncorafenibBinimetin" document-type="chapter">Encorafenib</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Erlotinib" document-type="chapter">Erlotinib</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Gefitinib" document-type="chapter">Gefitinib</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Gilteritinib" document-type="chapter">Gilteritinib</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Glasdegib" document-type="chapter">Glasdegib</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Ibrutinib" document-type="chapter">Ibrutinib</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Idelalisib" document-type="chapter">Idelalisib</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Imatinib" document-type="chapter">Imatinib</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Ivosidenib" document-type="chapter">Ivosidenib</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Ixazomib" document-type="chapter">Ixazomib</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Lapatinib" document-type="chapter">Lapatinib</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Larotrectinib" document-type="chapter">Larotrectinib</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Lenvatinib" document-type="chapter">Lenvatinib</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Lorlatinib" document-type="chapter">Lorlatinib</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Midostaurin" document-type="chapter">Midostaurin</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Neratinib" document-type="chapter">Neratinib</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Nilotinib" document-type="chapter">Nilotinib</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Niraparib" document-type="chapter">Niraparib</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Olaparib" document-type="chapter">Olaparib</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Osimertinib" document-type="chapter">Osimertinib</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Palbociclib" document-type="chapter">Palbociclib</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Pazopanib" document-type="chapter">Pazopanib</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Pexidartinib" document-type="chapter">Pexidartinib</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Ponatinib" document-type="chapter">Ponatinib</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Regorafenib" document-type="chapter">Regorafenib</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Ribociclib" document-type="chapter">Ribocicib</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Rucaparib" document-type="chapter">Rucaparib</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Ruxolitinib" document-type="chapter">Ruxolitinib</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Selumetinib" document-type="chapter">Selumetinib</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Sonidegib" document-type="chapter">Sonidegib</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Sorafenib" document-type="chapter">Sorafenib</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Sunitinib" document-type="chapter">Sunitinib</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Talazoparib" document-type="chapter">Talazoparib</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Trametinib" document-type="chapter">Trametinib</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Vandetanib" document-type="chapter">Vandetanib</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Vemurafenib" document-type="chapter">Vemurafenib</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Vismodegib" document-type="chapter">Vismodegib</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Zanubrutinib" document-type="chapter">Zanubrutinib</related-object></p>
+                </list-item>
+              </list>
+            </list-item>
+            <list-item>
+              <p>
+                <related-object link-type="booklink" source-id="livertox" document-id="Taxanes" document-type="chapter">Taxanes</related-object>
+              </p>
+              <list list-type="bullet">
+                <list-item>
+                  <p><related-object link-type="booklink" source-id="livertox" document-id="Cabazitaxel" document-type="chapter">Cabazitaxel</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Docetaxel" document-type="chapter">Docetaxel</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Paclitaxel" document-type="chapter">Paclitaxel</related-object></p>
+                </list-item>
+              </list>
+            </list-item>
+            <list-item>
+              <p>
+                <related-object link-type="booklink" source-id="livertox" document-id="TopoisomeraseInhibit" document-type="chapter">Topoisomerase Inhibitors</related-object>
+              </p>
+              <list list-type="bullet">
+                <list-item>
+                  <p><related-object link-type="booklink" source-id="livertox" document-id="EtoposideTeniposide" document-type="chapter">Etoposide</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="IrinotecanTopotecan" document-type="chapter">Irinotecan</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="EtoposideTeniposide" document-type="chapter">Teniposide</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="IrinotecanTopotecan" document-type="chapter">Topotecan</related-object></p>
+                </list-item>
+              </list>
+            </list-item>
+            <list-item>
+              <p>
+                <related-object link-type="booklink" source-id="livertox" document-id="VincaAlkaloids" document-type="chapter">Vinca Alkaloids</related-object>
+              </p>
+              <list list-type="bullet">
+                <list-item>
+                  <p><related-object link-type="booklink" source-id="livertox" document-id="VincaAlkaloids" document-type="chapter">Vinblastine</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="VincaAlkaloids" document-type="chapter">Vincristine</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="VincaAlkaloids" document-type="chapter">Vinorelbine</related-object></p>
+                </list-item>
+              </list>
+            </list-item>
+            <list-item>
+              <p>Miscellaneous</p>
+              <list list-type="bullet">
+                <list-item>
+                  <p><related-object link-type="booklink" source-id="livertox" document-id="Asparaginase" document-type="chapter">Asparaginase (Pegaspargase)</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Bexarotene" document-type="chapter">Bexarotene</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Eribulin" document-type="chapter">Eribulin</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Everolimus" document-type="chapter">Everolimus</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Hydroxyurea" document-type="chapter">Hydroxyurea</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Ixabepilone" document-type="chapter">Ixabepilone</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Thalidomide_Lenalido" document-type="chapter">Lenalidomide</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Mitotane" document-type="chapter">Mitotane</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Omacetaxine" document-type="chapter">Omacetaxine</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Pomalidomide" document-type="chapter">Pomalidomide</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Tagraxofusp" document-type="chapter">Tagraxofusp</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Telotristat" document-type="chapter">Telotristat</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Temsirolimus" document-type="chapter">Temsirolimus</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Thalidomide_Lenalido" document-type="chapter">Thalidomide</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Venetoclax" document-type="chapter">Venetoclax</related-object></p>
+                </list-item>
+              </list>
+            </list-item>
+          </list>
+        </sec>
+      </sec>
+      <sec id="AntineoplasticAgents.ANNOTATED_BIBLIOGRA">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 01 May 2019</p>
+        <ref-list id="AntineoplasticAgents.ANNOTATED_BIBLIOGRA.reflist0">
+          <ref id="AntineoplasticAgents.REF.zimmerman.1999">
+            <mixed-citation publication-type="book">Zimmerman HJ. Hepatotoxic effects of oncotherapeutic and immunosuppressive agents. In, Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999, pp. 673-708.<annotation><p><italic toggle="yes">(Expert review of hepatotoxicity of cancer chemotherapeutic agents published in 1999).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="AntineoplasticAgents.REF.deleve.2013">
+            <mixed-citation publication-type="book">DeLeve LD. Cancer chemotherapy. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013, p. 541-67.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of cancer chemotherapeutic agents published in 2013).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="AntineoplasticAgents.REF.wellstein.2018">
+            <mixed-citation publication-type="book">Wellstein A. General principles in the pharmacotherapy of cancer. In, Brunton LL, Hilal-Dandan R, Knollman BC, eds. Goodman &#x00026; Gilman's the pharmacological basis of therapeutics. 13th ed. New York: McGraw-Hill, 2018, pp. 1161-6.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

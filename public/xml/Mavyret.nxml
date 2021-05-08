@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Mavyret" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Mavyret</book-part-id>
+      <title-group>
+        <title>Mavyret</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>20</day>
+          <month>10</month>
+          <year>2018</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="MargosaOil" document-type="chapter">Margosa Oil</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Mebendazole" document-type="chapter">Mebendazole</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Mavyret.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Mavyret.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Mavyret is an oral, fixed combination of antiviral agents used to treat chronic hepatitis C virus (HCV) infection due to any genotype (1 through 6). This combination has not been linked to instances or worsening of serum enzymes during therapy or with de novo appearance of clinically apparent liver injury. However, all effective direct acting antiviral agents for hepatitis C are considered capable of causing reactivation of hepatitis B in susceptible patients.</p>
+        </sec>
+        <sec id="Mavyret.Background">
+          <title>Background</title>
+          <p>Mavyret is the commercial name for a fixed combination of oral antiviral agents used to treat chronic hepatitis C virus infection of all genotypes (1 through 6). The hepatitis C virus encodes several nonstructural (NS) polypeptides that are essential for its replication, including NS3/4 that has protease and helicase activities, NS5A that is a membrane bound polypeptide that is essential for viral replication and NS5B an HCV specific, RNA-dependent, RNA polymerase. These polypeptides are effective targets for antiviral therapy of hepatitis C. Mavyret is a fixed dose combination of glecaprevir (glek a' pre vir) which is a potent HCV NS3/4 protease inhibitor and pibrentasvir (pi brent' as vir) an HCV NS5A inhibitor. In cell culture, each of these agents has potent activity against all genotypes of HCV, but antiviral resistance can arise rapidly with continued exposure to a single agent. The combination of several direct acting agents with different molecular targets allows for a sustained viral suppression while avoiding antiviral resistance. The combination of glecaprevir and pibrentasvir was shown to be very effective in suppressing HCV replication in patients infected with all 6 HCV genotypes and to result in sustained virological responses (SVR) and eradication of HCV in more than 95% of patients when given for 8 weeks or more. Mavyret was approved for use in the United States in 2017, the fifth all-oral antiviral combination to receive approval for chronic hepatitis C. It is available as tablets in a fixed dose combination of 100 mg of glecaprevir and 40 mg of pibrentasvir. The recommended dose in adults is 3 tablets once daily for 8 weeks in patients without cirrhosis and for 12 weeks in those with compensated (Class A) cirrhosis. Longer courses of therapy (12 or 16 weeks) are also recommended for patients previously treated with HCV NS3/4 protease inhibitors or NS5A inhibitors. It has not been approved for use in patients with decompensated cirrhosis. Side effects are uncommon but are generally mild and can include fatigue, headache and nausea.</p>
+        </sec>
+        <sec id="Mavyret.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>In large randomized controlled trials, serum aminotransferase levels decreased rapidly during Mavyret therapy and there were only rare instances of late, de novo elevations in ALT or AST that were usually mild-to-moderate in degree and rising to more than 5 times ULN in less than 1% of treated subjects. In addition, Mavyret has not been linked to instances of hepatic decompensation during treatment of patients with preexisting cirrhosis nor with reactivation of chronic hepatitis B, two serious complications that have been linked to other oral regimens to treat chronic hepatitis C. However, Mavyret has not been approved for use in patients with advanced cirrhosis (Child Class B or C) and its overall use in general practice has been limited. Nevertheless, the product label for Mavyret has a boxed warning for reactivation of hepatitis B and screening for HBsAg and anti-HBc is recommended before starting therapy, with careful monitoring if these markers are present.</p>
+          <p>Likelihood score: E* (suspected but unproven cause of clinically apparent liver injury due to reactivation of hepatitis B).</p>
+        </sec>
+        <sec id="Mavyret.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The mechanism by which glecaprevir and pibrentasvir might cause liver injury is not known. Both are metabolized in the liver largely via the cytochrome P450 system, predominantly CYP 1A2, and liver injury may be due to production of a toxic or immunogenic metabolite. Mavyret is also susceptible to drug-drug interactions with strong inducers or inhibitors of CYP 3A4.</p>
+        </sec>
+        <sec id="Mavyret.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>While 8 to 16 weeks of therapy with Mavyret can be associated with transient mild-to-moderate serum aminotransferase elevations, it has not been convincingly linked to cases of clinically apparent liver injury. Nevertheless, Mavyret is labelled as having the potential of causing reactivation of hepatitis B in susceptible patients. For this reason, screening for HBsAg and anti-HBc is recommended for patients before treatment with Mavyret. Patients with these markers of ongoing (HBsAg) or previous (anti-HBc) hepatitis B virus infection should be monitored for HBV DNA levels before treatment, and at monthly intervals and oral antiviral therapy for hepatitis B initiated if levels rise significantly. In addition, Mavyret should be permanently discontinued if jaundice or symptoms of liver injury arise or if serum ALT or AST levels are persistently above 5 times the ULN.</p>
+          <p>Drug Class: <related-object source-id="livertox" document-id="AntiviralAgents">Antiviral Agents</related-object>, <related-object source-id="livertox" document-id="HepatitisCDrugs">Hepatitis C Agents</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Mavyret.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <boxed-text position="anchor" id="Mavyret.BPI" orientation="portrait">
+          <p>
+            <bold>REPRESENTATIVE TRADE NAMES</bold>
+          </p>
+          <p>Glecaprevir, Pibrentasvir &#x02013; Mavyret&#x000ae;</p>
+          <p>
+            <bold>DRUG CLASS</bold>
+          </p>
+          <p>Hepatitis C Agents</p>
+          <p>
+            <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Mavyret">COMPLETE LABELING</ext-link>
+          </p>
+          <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+        </boxed-text>
+      </sec>
+      <sec id="Mavyret.CHEMICAL_FORMULAS_AND_STRUCTURES">
+        <title>CHEMICAL FORMULAS AND STRUCTURES</title>
+        <table-wrap id="Mavyret.T1" position="anchor" orientation="portrait">
+          <table>
+            <thead>
+              <tr>
+                <th id="hd_h_Mavyret.T1_1_1_1_1" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Mavyret.T1_1_1_1_2" rowspan="1" colspan="1">CAS REGISTRY NUMBER</th>
+                <th id="hd_h_Mavyret.T1_1_1_1_3" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Mavyret.T1_1_1_1_4" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Mavyret.T1_1_1_1_1" rowspan="1" colspan="1">Glecaprevir</td>
+                <td headers="hd_h_Mavyret.T1_1_1_1_2" rowspan="1" colspan="1">
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://252163522">1365970-03-1</ext-link>
+                </td>
+                <td headers="hd_h_Mavyret.T1_1_1_1_3" rowspan="1" colspan="1">C38-H46-F4-N6-O9-S</td>
+                <td headers="hd_h_Mavyret.T1_1_1_1_4" rowspan="1" colspan="1">
+                  <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Glecaprevir_structure.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait">
+                    <alt-text>Glecaprevir Chemical Structure</alt-text>
+                  </graphic>
+                </td>
+              </tr>
+              <tr>
+                <td headers="hd_h_Mavyret.T1_1_1_1_1" rowspan="1" colspan="1">Pibrentasvir</td>
+                <td headers="hd_h_Mavyret.T1_1_1_1_2" rowspan="1" colspan="1">
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://252163521">1353900-92-1</ext-link>
+                </td>
+                <td headers="hd_h_Mavyret.T1_1_1_1_3" rowspan="1" colspan="1">C57-H65-F5-N10-O8</td>
+                <td headers="hd_h_Mavyret.T1_1_1_1_4" rowspan="1" colspan="1">
+                  <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Pibrentasvir_structure.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait">
+                    <alt-text>Glecaprevir Chemical Structure</alt-text>
+                  </graphic>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Mavyret.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 20 October 2018</p>
+        <p>Abbreviations: HCV, hepatitis C virus; SVR, sustained virological response; DAA, direct acting antiviral agent.</p>
+        <ref-list id="Mavyret.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Mavyret.R1">
+            <mixed-citation publication-type="other">Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013.<annotation><p><italic toggle="yes">(Multi-authored textbook of hepatotoxicity published in 2013; does not discuss oral, direct acting antiviral agents used to treat hepatitis C).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Mavyret.R2">
+            <mixed-citation publication-type="journal">European Association for Study of Liver. EASL Recommendations on treatment of hepatitis C 2015. J Hepatol 2015; 63: 199-236. <annotation><p><italic toggle="yes">(Guidelines for the antiviral therapy of chronic hepatitis C from the European liver disease research and academic society).</italic></p></annotation><pub-id pub-id-type="pmid">25911336</pub-id></mixed-citation>
+          </ref>
+          <ref id="Mavyret.R3">
+            <mixed-citation publication-type="journal">AASLD/IDSA HCV Guidance Panel. Hepatitis C guidance: AASLD-IDSA recommendations for testing, managing, and treating adults infected with hepatitis C virus. Hepatology 2015; 62: 932-54. <annotation><p><italic toggle="yes">(Guidelines for the antiviral therapy of chronic hepatitis C from the US liver and infectious diseases research and academic societies).</italic></p></annotation><pub-id pub-id-type="pmid">26111063</pub-id></mixed-citation>
+          </ref>
+          <ref id="Mavyret.R4">
+            <mixed-citation publication-type="journal">Gane E, Poordad F, Wang S, Asatryan A, Kwo PY, Lalezari J, Wyles DL, et al. High Efficacy of ABT-493 and ABT-530 treatment in patients with HCV genotype 1 or 3 infection and compensated cirrhosis. Gastroenterology 2016; 151: 651-9. <annotation><p><italic toggle="yes">(Among 82 cirrhotic patients with chronic HCV infection genotypes 1 or 3 who were treated with glecaprevir and pibrentasvir for 12 or 16 weeks with or without ribavirin, the overall SVR rate was 98% and no patient developed hepatic decompensation).</italic></p></annotation><pub-id pub-id-type="pmid">27456384</pub-id></mixed-citation>
+          </ref>
+          <ref id="Mavyret.R5">
+            <mixed-citation publication-type="journal">Kwo PY, Poordad F, Asatryan A, Wang S, Wyles DL, Hassanein T, Felizarta F, et al. Glecaprevir and pibrentasvir yield high response rates in patients with HCV genotype 1-6 without cirrhosis. J Hepatol 2017; 67: 263-71. <annotation><p><italic toggle="yes">(Among 449 noncirrhotic patients with chronic HCV infection of all genotypes treated with glecaprevir and pibrentasvir with or without ribavirin for 8 or 12 weeks in 2 open label trials, SVR rates were excellent [97-100%], except in patients with genotype 3 [83-94%], and there were no ALT elevations after the initial decreases from baseline).</italic></p></annotation><pub-id pub-id-type="pmid">28412293</pub-id></mixed-citation>
+          </ref>
+          <ref id="Mavyret.R6">
+            <mixed-citation publication-type="journal">Poordad F, Felizarta F, Asatryan A, Sulkowski MS, Reindollar RW, Landis CS, Gordon SC, et al. Glecaprevir and pibrentasvir for 12 weeks for hepatitis C virus genotype 1 infection and prior direct-acting antiviral treatment. Hepatology 2017; 66: 389-97. <annotation><p><italic toggle="yes">(Among 91 noncirrhotic patients with chronic HCV infection, genotype 1, previously treated with NS3/4 or NS5A inhibitors, who received glecaprevir and pibrentasvir, SVR rates were 86-100% and there were no liver related serious adverse events or ALT elevations above 3 times ULN).</italic></p></annotation><pub-id pub-id-type="pmid">28128852</pub-id></mixed-citation>
+          </ref>
+          <ref id="Mavyret.R7">
+            <mixed-citation publication-type="other">
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://www.hcvguidelines.org/">http://www.hcvguidelines.org/</ext-link>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Guidelines for therapy of hepatitis C maintained and regularly updated by the American Association for the Study of Liver Diseases [AASLD] and the Infectious Diseases Society of America [IDSA]).</italic>
+                </p>
+              </annotation>
+            </mixed-citation>
+          </ref>
+          <ref id="Mavyret.R8">
+            <mixed-citation publication-type="journal">Gane E, Lawitz E, Pugatch D, Papatheodoridis G, Br&#x000e4;u N, Brown A, Pol S, et al. Glecaprevir and pibrentasvir in patients with HCV and severe renal impairment. N Engl J Med 2017; 377: 1448-55. <annotation><p><italic toggle="yes">(Among 104 patients with chronic hepatitis C [any genotype] and severe renal dysfunction [82% on dialysis] treated with glecaprevir and pibrentasvir for 12 weeks, the SVR rate was 98% and no patient developed hepatic decompensation or ALT elevations above 3 times ULN).</italic></p></annotation><pub-id pub-id-type="pmid">29020583</pub-id></mixed-citation>
+          </ref>
+          <ref id="Mavyret.R9">
+            <mixed-citation publication-type="journal">Forns X, Lee SS, Valdes J, Lens S, Ghalib R, Aguilar H, Felizarta F, et al. Glecaprevir plus pibrentasvir for chronic hepatitis C virus genotype 1, 2, 4, 5, or 6 infection in adults with compensated cirrhosis (EXPEDITION-1): a single-arm, open-label, multicentre phase 3 trial. Lancet Infect Dis 2017; 17: 1062-8. <annotation><p><italic toggle="yes">(Among 146 patients with compensated cirrhosis due to chronic hepatitis C [genotypes 1, 2, 4, 5 and 6] treated with glecaprevir and pibrentasvir for 12 weeks, 99% had an SVR, while 11 patients [8%] had a serious adverse event, but none had late ALT elevations above 5 times ULN or hepatic decompensation).</italic></p></annotation><pub-id pub-id-type="pmid">28818546</pub-id></mixed-citation>
+          </ref>
+          <ref id="Mavyret.R10">
+            <mixed-citation publication-type="journal">Mavyret and Vosevi--two new combinations for chronic HCV infection. Med Lett Drugs Ther 2017; 59 (1531): 166-70. <annotation><p><italic toggle="yes">(Concise review of mechanism of action, clinical efficacy, safety and costs of Mavyret; mentions that common adverse effects are headache, fatigue and nausea and that the product label has a boxed warning of HBV reactivation).</italic></p></annotation><pub-id pub-id-type="pmid">28977807</pub-id></mixed-citation>
+          </ref>
+          <ref id="Mavyret.R11">
+            <mixed-citation publication-type="journal">Asselah T, Kowdley KV, Zadeikis N, Wang S, Hassanein T, Horsmans Y, Colombo M, et al. Efficacy of glecaprevir/pibrentasvir for 8 or 12 Weeks in patients with hepatitis C virus genotype 2, 4, 5, or 6 infection without cirrhosis. Clin Gastroenterol Hepatol 2018: 16: 417-26. <annotation><p><italic toggle="yes">(Among 526 patients with chronic hepatitis C, genotypes 2, 4, 5 and 6, treated with Mavyret, SVR rates were 93-98% with 8 weeks and 99% with 12 weeks, ALT elevations above 5 times ULN occurred in 3 subjects, one becoming jaundiced at week 12, but resolving completely within 2 weeks of discontinuation and accompanied by an SVR).</italic></p></annotation><pub-id pub-id-type="pmid">28951228</pub-id></mixed-citation>
+          </ref>
+          <ref id="Mavyret.R12">
+            <mixed-citation publication-type="journal">Chayama K, Suzuki F, Karino Y, Kawakami Y, Sato K, Atarashi T, Naganuma A, et al. Efficacy and safety of glecaprevir/pibrentasvir in Japanese patients with chronic genotype 1 hepatitis C virus infection with and without cirrhosis. J Gastroenterol 2018; 53: 557-65. <annotation><p><italic toggle="yes">(Among 129 Japanese noncirrhotic patients with chronic hepatitis C, genotype 1, treated with glecaprevir/pibrentasivir for 8 weeks, the SVR rate was 99%, while among 38 cirrhotic patients treated for 12 weeks the SVR rate was 100%).</italic></p></annotation><pub-id pub-id-type="pmid">28948366</pub-id></mixed-citation>
+          </ref>
+          <ref id="Mavyret.R13">
+            <mixed-citation publication-type="journal">Zeuzem S, Foster GR, Wang S, Asatryan A, Gane E, Feld JJ, Asselah T, et al. Glecaprevir-pibrentasvir for 8 or 12 weeks in HCV genotype 1 or 3 infection. N Engl J Med 2018; 378: 354-69. <annotation><p><italic toggle="yes">(Among 1208 patients with chronic hepatitis C without cirrhosis who were treated with glecaprevir and pibrentasvir for 8 or 12 weeks, SVR rates were 99% with 8 weeks of therapy in genotype 1 and 95% with 8 or 12 weeks of therapy in genotype 3 infected patients and there were no ALT elevations above 5 times ULN, no instances of decompensated liver disease or early termination of therapy for hepatic adverse events).</italic></p></annotation><pub-id pub-id-type="pmid">29365309</pub-id></mixed-citation>
+          </ref>
+          <ref id="Mavyret.R14">
+            <mixed-citation publication-type="journal">Poordad F, Pol S, Asatryan A, Buti M, Shaw D, H&#x000e9;zode C, Felizarta F, et al. Glecaprevir/pibrentasvir in patients with HCV genotype 1 or 4 and prior direct-acting antiviral treatment failure. Hepatology 2018; 67: 1253-60. <annotation><p><italic toggle="yes">(Among 91 patients with chronic hepatitis C, genotypes 1 and 4, who had failed previous DAA therapy and were treated with glecaprevir and pibrentasvir, SV rates were 89% with 12 weeks and 91% for 16 weeks, relapse occurring only in those with previous exposure to NS5A inhibitors; there were no ALT elevations above 5 times ULN during therapy, but 3 patients were found to have liver cancer within 12 weeks of completing treatment).</italic></p></annotation><pub-id pub-id-type="pmid">29152781</pub-id></mixed-citation>
+          </ref>
+          <ref id="Mavyret.R15">
+            <mixed-citation publication-type="journal">Wyles D, Poordad F, Wang S, Alric L, Felizarta F, Kwo PY, Maliakkal B, et al. Glecaprevir/ pibrentasvir for hepatitis C virus genotype 3 patients with cirrhosis and/or prior treatment experience: A partially randomized phase 3 clinical trial. Hepatology 2018; 67: 514-23. <annotation><p><italic toggle="yes">(Among 131 patients with chronic hepatitis C, genotype 3, with cirrhosis or previous failure of antiviral therapy who received glecaprevir and pibrentasvir, the SVR rate was 91% with 12 weeks and 96% with 16 weeks of treatment, the differences being largely among those with previous therapy; no patient had a late increase in ALT levels or episode of hepatic decompensation).</italic></p></annotation><pub-id pub-id-type="pmid">28926120</pub-id></mixed-citation>
+          </ref>
+          <ref id="Mavyret.R16">
+            <mixed-citation publication-type="journal">Rockstroh JK, Lacombe K, Viani RM, Orkin C, Wyles D, Luetkemeyer AF, Soto-Malave R, et al. Efficacy and safety of glecaprevir/pibrentasvir in patients co-infected with hepatitis C virus and human immunodeficiency virus-1: the EXPEDITION-2 Study. Clin Infect Dis 2018; 67: 1010-7. <annotation><p><italic toggle="yes">(Among 153 patients with chronic hepatitis C [genotype 1 to 6] who were coinfected with HIV and were treated with glecaprevir and pibrentasvir for 8 or 12 weeks, SVR rates were 98% with either duration of treatment, and there were no ALT or AST elevations above 3 times ULN or instances of decompensated liver disease).</italic></p></annotation><pub-id pub-id-type="pmid">29566246</pub-id></mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec id="Mavyret.OTHER_REFERENCE_LINKS" sec-type="link-group">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=(Mavyret/AE)+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D%3A%222999/12/31%22%5BEDat%5D)">Recent References on Mavyret: from PubMed.gov</ext-link>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Mavyret">Trials on Mavyret: from ClinicalTrials.gov</ext-link>
+            </p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

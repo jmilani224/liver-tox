@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Proguanil" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Proguanil</book-part-id>
+      <title-group>
+        <title>Proguanil</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>3</day>
+          <month>2</month>
+          <year>2017</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Progestins" document-type="chapter">Progestins</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Promethazine" document-type="chapter">Promethazine</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Proguanil.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Proguanil.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Proguanil is a biguanide derivative which is active against several protozoal species and is used in combination with atovaquone and chloroquine for the prevention and therapy of malaria. Proguanil has not been evaluated extensively as a single agent, but the combinations of proguanil with atovaquone or chloroquine have been used to treat malaria and have been linked to serum enzyme elevations during therapy and rare instances of clinically apparent acute liver injury.</p>
+        </sec>
+        <sec id="Proguanil.Background">
+          <title>Background</title>
+          <p>Proguanil (proe gwahn' il) is a biguanide which is metabolized by the liver to cycloguanil which has potent antimalarial activity. Cycloguanil appears to act by inhibition of plasmodial dihydrofolate reductase-thymidine synthetase and thereby interfering with folate metabolism and DNA synthesis in a manner somewhat similar to pyrimethamine. In contrast, atovaquone is a naphthoquinone that acts by binding to the protozoal or parasitic DNA and preventing DNA and RNA production and subsequent protein synthesis. The two agents are synergistic in combination and demonstrate no cross resistance. The combination of atovaquone and proguanil has been extensively evaluated and was approved in the United States in 2000 for the prevention and treatment of malaria, particularly for drug resistant P. falciparum infection. This combination is available in tablets that contain 250 mg of atovaquone and 100 mg of proguanil in several generic forms and under the brand name Malarone. The recommended therapeutic regimen is four tablets daily for 3 days and one tablet daily for prophylaxis. Combinations of proguanil with chloroquine have also been used in both treatment and prevention of malaria, but not in the United States. Specific and detailed recommendations on the therapy and prevention of malaria are available at: http://www.cdc.gov/malaria/. Common side effects of atovaquone/proguanil include diarrhea, anorexia, nausea, vomiting, abdominal discomfort, headache, dizziness, vivid dreams, insomnia and oral ulcers.</p>
+        </sec>
+        <sec id="Proguanil.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>The combination of atovaquone and proguanil has been associated with transient and minor serum aminotransferase elevations in a small proportion of patients. More importantly, there have been rare reports of idiosyncratic acute liver injury due in patients on atovaquone/ proguanil but the number of cases has been too few to define a typical clinical course. In one reported case, the onset of injury was after 3 weeks and presentation was with fatigue and jaundice and a cholestatic pattern of serum enzyme elevations. The injury resolved within 2 months of stopping the medication (Case 1). In another case report of chloroquine and proguanil, liver injury arose within days of starting the combination and the pattern of serum enzyme elevations was mixed. In both cases, allergic features were minimal and autoantibodies were not present. In both cases, combination therapy was used and either agent may have been the cause of the injury. Atovaquone and proguanil have also been linked to rare instances of Stevens Johnson syndrome which is often accompanied by mild liver injury or liver enzyme elevations.</p>
+          <p>Likelihood score: E* (unproven but sometimes suspected cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Proguanil.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The mechanism by which proguanil might cause liver injury is unknown. Proguanil is extensively metabolized by the liver. A toxic or immunologic reaction to an intermediate metabolite may underlie hepatotoxicity.</p>
+        </sec>
+        <sec id="Proguanil.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>There does not seem to be cross reactivity to hepatic injury among the various antimalarial agents and switching to other drug can be done.</p>
+          <p>Drug Class: <related-object source-id="livertox" document-id="AntimalarialAgents">Antimalarial Agents</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Proguanil.CASE_REPORT">
+        <title>CASE REPORT</title>
+        <sec id="Proguanil.Case_1._Cholestatic_hepatitis_">
+          <title>Case 1. Cholestatic hepatitis after course of atovaquone/proguanil for malaria prophylaxis.</title>
+          <p>[Modified from: Grieshaber M, L&#x000e4;mmli J, Marcus L. Acute hepatitis and atovaquone/proguanil. J Travel Med 2005; 12: 289-90. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/pubmed/16256055">PubMed Citation</ext-link>]</p>
+          <p>A 31 year old man developed jaundice and abdominal pain a few days after a 25 day course of atovaquone (250 mg) and proguanil (100 mg) for malaria prophylaxis during travel. Other symptoms included poor appetite, itching, fatigue and dark urine. He had no previous history of liver disease or exposures to hepatitis and did not abuse alcohol. On examination, he had mild fever (37.5 <sup>o</sup>C) and was jaundiced. There was no mention of rash or eosinophilia. Serum bilirubin was mildly elevated at 2.9 mg/dL and both ALT and alkaline phosphatase levels were prominently increased (Table). Tests for viral hepatitis A, B, C and E were negative as were autoantibody markers. MRI of the abdomen showed a normal appearing liver and biliary system. A liver biopsy was not done. His symptoms gradually improved and serum enzyme abnormalities eventually resolved approximately 8 weeks after initial presentation.</p>
+          <sec id="Proguanil.Key_Points">
+            <title>Key Points</title>
+            <table-wrap id="Proguanil.T1" position="anchor" orientation="portrait">
+              <table>
+                <tbody>
+                  <tr>
+                    <td rowspan="1" colspan="1">Medication:</td>
+                    <td rowspan="1" colspan="1">Atovaquone and proguanil</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Pattern:</td>
+                    <td rowspan="1" colspan="1">Cholestatic (R=1.7)</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Severity:</td>
+                    <td rowspan="1" colspan="1">2+ (jaundice, not hospitalized)</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Latency:</td>
+                    <td rowspan="1" colspan="1">25 days</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Recovery:</td>
+                    <td rowspan="1" colspan="1">8 weeks</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Other medications:</td>
+                    <td rowspan="1" colspan="1">None</td>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Proguanil.Laboratory_Values">
+            <title>Laboratory Values</title>
+            <table-wrap id="Proguanil.T2" position="anchor" orientation="portrait">
+              <table>
+                <thead>
+                  <tr>
+                    <th id="hd_h_Proguanil.T2_1_1_1_1" rowspan="1" colspan="1">Time After Starting</th>
+                    <th id="hd_h_Proguanil.T2_1_1_1_2" rowspan="1" colspan="1">Time After Stopping</th>
+                    <th id="hd_h_Proguanil.T2_1_1_1_3" rowspan="1" colspan="1">ALT*<break/> (U/L)</th>
+                    <th id="hd_h_Proguanil.T2_1_1_1_4" rowspan="1" colspan="1">Alk P*<break/> (U/L)</th>
+                    <th id="hd_h_Proguanil.T2_1_1_1_5" rowspan="1" colspan="1">Bilirubin* (mg/dL)</th>
+                    <th id="hd_h_Proguanil.T2_1_1_1_6" rowspan="1" colspan="1">Other</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td headers="hd_h_Proguanil.T2_1_1_1_1" rowspan="1" colspan="1">4 weeks</td>
+                    <td headers="hd_h_Proguanil.T2_1_1_1_2" rowspan="1" colspan="1">1 week</td>
+                    <td headers="hd_h_Proguanil.T2_1_1_1_3" rowspan="1" colspan="1">320</td>
+                    <td headers="hd_h_Proguanil.T2_1_1_1_4" rowspan="1" colspan="1">445</td>
+                    <td headers="hd_h_Proguanil.T2_1_1_1_5" rowspan="1" colspan="1">2.9</td>
+                    <td headers="hd_h_Proguanil.T2_1_1_1_6" rowspan="1" colspan="1">LDH 610 U/L</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Proguanil.T2_1_1_1_1" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Proguanil.T2_1_1_1_2" rowspan="1" colspan="1">2 weeks</td>
+                    <td headers="hd_h_Proguanil.T2_1_1_1_3" rowspan="1" colspan="1">330</td>
+                    <td headers="hd_h_Proguanil.T2_1_1_1_4" rowspan="1" colspan="1">410</td>
+                    <td headers="hd_h_Proguanil.T2_1_1_1_5" rowspan="1" colspan="1">2.2</td>
+                    <td headers="hd_h_Proguanil.T2_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Proguanil.T2_1_1_1_1" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Proguanil.T2_1_1_1_2" rowspan="1" colspan="1">3 weeks</td>
+                    <td headers="hd_h_Proguanil.T2_1_1_1_3" rowspan="1" colspan="1">710</td>
+                    <td headers="hd_h_Proguanil.T2_1_1_1_4" rowspan="1" colspan="1">330</td>
+                    <td headers="hd_h_Proguanil.T2_1_1_1_5" rowspan="1" colspan="1">0.6</td>
+                    <td headers="hd_h_Proguanil.T2_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Proguanil.T2_1_1_1_1" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Proguanil.T2_1_1_1_2" rowspan="1" colspan="1">4 weeks</td>
+                    <td headers="hd_h_Proguanil.T2_1_1_1_3" rowspan="1" colspan="1">310</td>
+                    <td headers="hd_h_Proguanil.T2_1_1_1_4" rowspan="1" colspan="1">240</td>
+                    <td headers="hd_h_Proguanil.T2_1_1_1_5" rowspan="1" colspan="1">0.5</td>
+                    <td headers="hd_h_Proguanil.T2_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Proguanil.T2_1_1_1_1" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Proguanil.T2_1_1_1_2" rowspan="1" colspan="1">5 weeks</td>
+                    <td headers="hd_h_Proguanil.T2_1_1_1_3" rowspan="1" colspan="1">280</td>
+                    <td headers="hd_h_Proguanil.T2_1_1_1_4" rowspan="1" colspan="1">190</td>
+                    <td headers="hd_h_Proguanil.T2_1_1_1_5" rowspan="1" colspan="1">0.5</td>
+                    <td headers="hd_h_Proguanil.T2_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Proguanil.T2_1_1_1_1" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Proguanil.T2_1_1_1_2" rowspan="1" colspan="1">6 weeks</td>
+                    <td headers="hd_h_Proguanil.T2_1_1_1_3" rowspan="1" colspan="1">75</td>
+                    <td headers="hd_h_Proguanil.T2_1_1_1_4" rowspan="1" colspan="1">115</td>
+                    <td headers="hd_h_Proguanil.T2_1_1_1_5" rowspan="1" colspan="1">0.5</td>
+                    <td headers="hd_h_Proguanil.T2_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Proguanil.T2_1_1_1_1" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Proguanil.T2_1_1_1_2" rowspan="1" colspan="1">7 weeks</td>
+                    <td headers="hd_h_Proguanil.T2_1_1_1_3" rowspan="1" colspan="1">60</td>
+                    <td headers="hd_h_Proguanil.T2_1_1_1_4" rowspan="1" colspan="1">110</td>
+                    <td headers="hd_h_Proguanil.T2_1_1_1_5" rowspan="1" colspan="1">0.5</td>
+                    <td headers="hd_h_Proguanil.T2_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Proguanil.T2_1_1_1_1" rowspan="1" colspan="1">11 weeks</td>
+                    <td headers="hd_h_Proguanil.T2_1_1_1_2" rowspan="1" colspan="1">8 weeks</td>
+                    <td headers="hd_h_Proguanil.T2_1_1_1_3" rowspan="1" colspan="1">25</td>
+                    <td headers="hd_h_Proguanil.T2_1_1_1_4" rowspan="1" colspan="1">105</td>
+                    <td headers="hd_h_Proguanil.T2_1_1_1_5" rowspan="1" colspan="1">0.5</td>
+                    <td headers="hd_h_Proguanil.T2_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Proguanil.T2_1_1_1_1 hd_h_Proguanil.T2_1_1_1_2" colspan="2" rowspan="1">
+                      <bold>Normal Values</bold>
+                    </td>
+                    <td headers="hd_h_Proguanil.T2_1_1_1_3" rowspan="1" colspan="1">
+                      <bold>&#x0003c;40</bold>
+                    </td>
+                    <td headers="hd_h_Proguanil.T2_1_1_1_4" rowspan="1" colspan="1">
+                      <bold>&#x0003c;92</bold>
+                    </td>
+                    <td headers="hd_h_Proguanil.T2_1_1_1_5" rowspan="1" colspan="1">
+                      <bold>&#x0003c;1.2</bold>
+                    </td>
+                    <td headers="hd_h_Proguanil.T2_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+            <p>* Estimated from Figure 1.</p>
+          </sec>
+          <sec id="Proguanil.Comment">
+            <title>Comment</title>
+            <p>A case of cholestatic hepatitis typical of drug induced liver injury, and the only medications being used were atovaquone and proguanil, either of which may have been the cause. The somewhat delayed decline in serum enzymes is typical of cholestatic forms of drug induced liver injury.</p>
+          </sec>
+        </sec>
+      </sec>
+      <sec id="Proguanil.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <boxed-text position="anchor" id="Proguanil.BPI" orientation="portrait">
+          <p>
+            <bold>REPRESENTATIVE TRADE NAMES</bold>
+          </p>
+          <p>Proguanil &#x02013; Generic, Malarone&#x000ae; (with Atovaquone), Paludrine&#x000ae;</p>
+          <p>
+            <bold>DRUG CLASS</bold>
+          </p>
+          <p>Antimalarial Agents</p>
+          <p>
+            <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Proguanil">COMPLETE LABELING</ext-link>
+          </p>
+          <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+        </boxed-text>
+      </sec>
+      <sec id="Proguanil.CHEMICAL_FORMULA_AND_STRUCTURE">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Proguanil.T3" position="anchor" orientation="portrait">
+          <table>
+            <thead>
+              <tr>
+                <th id="hd_h_Proguanil.T3_1_1_1_1" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Proguanil.T3_1_1_1_2" rowspan="1" colspan="1">CAS REGISTRY NUMBER</th>
+                <th id="hd_h_Proguanil.T3_1_1_1_3" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Proguanil.T3_1_1_1_4" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Proguanil.T3_1_1_1_1" rowspan="1" colspan="1">Proguanil</td>
+                <td headers="hd_h_Proguanil.T3_1_1_1_2" rowspan="1" colspan="1">500-92-5</td>
+                <td headers="hd_h_Proguanil.T3_1_1_1_3" rowspan="1" colspan="1">C11-H16-Cl-N5</td>
+                <td headers="hd_h_Proguanil.T3_1_1_1_4" rowspan="1" colspan="1">
+                  <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Proguanil_Structure.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait">
+                    <alt-text>Chemical Structure for Proguanil</alt-text>
+                  </graphic>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Proguanil.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 03 February 2017</p>
+        <ref-list id="Proguanil.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Proguanil.R1">
+            <mixed-citation publication-type="other">Zimmerman HJ. Antiprotozoal agents. In, Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999, pp. 623-5.<annotation><p><italic toggle="yes">(Expert review of hepatotoxicity published in 1999; proguanil is not discussed).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Proguanil.R2">
+            <mixed-citation publication-type="other">Vinetz JM, Clain J, Bounkeua V, Eastman RT, Fidock D. Chemotherapy of malaria.l In, Brunton LL, Chabner BA, Knollman BC, eds. Goodman &#x00026; Gilman.s the pharmacological basis of therapeutics. 12th ed. New York: McGraw-Hill, 2011, pp. 1383-418.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Proguanil.R3">
+            <mixed-citation publication-type="journal">Fogh S, Schapira A, Bygbjerg IC, Jepsen S, Mordhorst CH, Kuijlen K, Ravn P, et al. Malaria chemoprophylaxis in travellers to east Africa: a comparative prospective study of chloroquine plus proguanil with chloroquine plus sulfadoxine-pyrimethamine. Br Med J (Clin Res Ed) 1988; 296: 820-2. <annotation><p><italic toggle="yes">(Controlled trial of chloroquine with proguanil vs sulfadoxine-pyrimethamine is 767 travelers to Africa; similar efficacy and side effects; no mention of hepatic adverse events).</italic></p></annotation><pub-id pub-id-type="pmid">3130927</pub-id></mixed-citation>
+          </ref>
+          <ref id="Proguanil.R4">
+            <mixed-citation publication-type="journal">Barrett PJ, Emmins PD, Clarke PD, Bradley DJ. Comparison of adverse events associated with the use of mefloquine and combination of chloroquine and proguanil as antimalarial prophylaxis: a postal and telephone survey of travelers. BMJ 1996; 313: 525-8. <annotation><p><italic toggle="yes">(Mail questionnaire of 3851 British travelers taking either mefloquine or chloroquine/proguanil for malaria prophylaxis; the rate of side effects was similar [~41%], no mention of hepatic adverse events).</italic></p></annotation><pub-id pub-id-type="pmid">8789977</pub-id></mixed-citation>
+          </ref>
+          <ref id="Proguanil.R5">
+            <mixed-citation publication-type="journal">H&#x000f8;gh B, Clarke PD, Camus D, Nothdurft HD, Overbosch D, G&#x000fc;nther M, Joubert I, et al.; Malarone International Study Team. Atovaquone-proguanil versus chloroquine-proguanil for malaria prophylaxis in non-immune travelers: a randomised, double-blind study. Malarone International Study Team. Lancet 2000; 356: 1888-94. <annotation><p><italic toggle="yes">(Controlled trial of atovaquone vs chloroquine combined with proguanil as malaria prophylaxis in 1008 travelers; efficacy was similar, but gastrointestinal upset was more common with chloroquine [20% vs 12%]; among 180 with laboratory testing &#x0201c;No clinically important laboratory abnormalities were identified&#x0201d;).</italic></p></annotation><pub-id pub-id-type="pmid">11130385</pub-id></mixed-citation>
+          </ref>
+          <ref id="Proguanil.R6">
+            <mixed-citation publication-type="journal">Overbosch D, Schilthuis H, Bienzle U, Behrens RH, Kain KC, Clarke PD, Toovey S, et al. Malarone International Study Team. Atovaquone-proguanil versus mefloquine for malaria prophylaxis in nonimmune travelers: results from a randomized, double-blind study. Clin Infect Dis 2001; 33: 1015-21. <annotation><p><italic toggle="yes">(Controlled trial of atovaquone-proguanil vs mefloquine of malaria prophylaxis in 483 travelers; similar efficacy [100%], but neuropsychiatric side effects were more common with mefloquine [29% vs 14%] including insomnia, anxiety, vivid dreams, dizziness and trouble concentrating; no mention of liver injury and ALT levels were not monitored).</italic></p></annotation><pub-id pub-id-type="pmid">11528574</pub-id></mixed-citation>
+          </ref>
+          <ref id="Proguanil.R7">
+            <mixed-citation publication-type="journal">Taylor WR, White NJ. Antimalarial drug toxicity: a review. Drug Saf 2004; 27: 25-61. <annotation><p><italic toggle="yes">(Review of the toxicities and side effects of antimalarials; atovaquone/proguanil can cause minor ALT elevations, but clinically apparent liver injury was not mentioned).</italic></p></annotation><pub-id pub-id-type="pmid">14720085</pub-id></mixed-citation>
+          </ref>
+          <ref id="Proguanil.R8">
+            <mixed-citation publication-type="journal">Camus D, Djossou F, Schilthuis HJ, H&#x000f8;gh B, Dutoit E, Malvy D, Roskell NS, et al.; International Malarone Study Team. Atovaquone-proguanil versus chloroquine-proguanil for malaria prophylaxis in nonimmune pediatric travelers: results of an international, randomized, open-label study. Clin Infect Dis 2004; 38: 1716-23. <annotation><p><italic toggle="yes">(Controlled trial of atovaquone vs chloroquine combined with proguanil as malaria prophylaxis in 221 children; efficacy was similar [100%], but side effects slightly more with chloroquine [mostly gastrointestinal]; no mention of liver disease or ALT elevations).</italic></p></annotation><pub-id pub-id-type="pmid">15227617</pub-id></mixed-citation>
+          </ref>
+          <ref id="Proguanil.R9">
+            <mixed-citation publication-type="journal">Grieshaber M, L&#x000e4;mmli J, Marcus L. Acute hepatitis and atovaquone/proguanil. J Travel Med 2005; 12: 289-90. <annotation><p><italic toggle="yes">(31 year old man developed jaundice and abdominal pain 25 days after starting atovaquone/proguanil prophylaxis [bilirubin 2.9 mg/dL, ALT 320 U/L, Alk P 445 U/L], resolving slowly within 8 weeks of stopping: Case 1).</italic></p></annotation><pub-id pub-id-type="pmid">16256055</pub-id></mixed-citation>
+          </ref>
+          <ref id="Proguanil.R10">
+            <mixed-citation publication-type="journal">Patel SN, Kain KC. Atovaquone/proguanil for the prophylaxis and treatment of malaria. Expert Rev Anti Infect Ther 2005; 3: 849-61. <annotation><p><italic toggle="yes">(Review of chemistry, clinical results and safety of atovaquone/proguanil; well tolerated and ALT elevations not discussed).</italic></p></annotation><pub-id pub-id-type="pmid">16307498</pub-id></mixed-citation>
+          </ref>
+          <ref id="Proguanil.R11">
+            <mixed-citation publication-type="journal">Wielgo-Polanin R, Lagarce L, Gautron E, Diquet B, Lain&#x000e9;-Cessac P. Hepatotoxicity associated with the use of a fixed combination of chloroquine and proguanil. Int J Antimicrob Agents 2005; 26: 176-8. <annotation><p><italic toggle="yes">(50 year old woman developed jaundice 4 days after starting chloroquine/proguanil for prophylaxis [bilirubin 3.6 mg/dL, ALT 600 U/L, Alk P 744 U/L], resolving within 1 month of stopping; patient had a history of previous exposures to both agents).</italic></p></annotation><pub-id pub-id-type="pmid">16009537</pub-id></mixed-citation>
+          </ref>
+          <ref id="Proguanil.R12">
+            <mixed-citation publication-type="journal">Askling HH, Bruneel F, Burchard G, Castelli F, Chiodini PL, Grobusch MP, Lopez-V&#x000e9;lez R, Paul M, et al; European Society for Clinical Microbiology and Infectious Diseases Study Group on Clinical Parasitology. Management of imported malaria in Europe. Malar J 2012;11: 328. <annotation><p><italic toggle="yes">(Recommendations on treatment of malaria from a European panel; atovaquone-proguanil is a first line treatment for uncomplicated P. falciparum malaria; ALT elevations and hepatotoxicity are not mentioned).</italic></p></annotation><pub-id pub-id-type="pmid">22985344</pub-id></mixed-citation>
+          </ref>
+          <ref id="Proguanil.R13">
+            <mixed-citation publication-type="journal">Kimura M, Koga M, Kikuchi T, Miura T, Maruyama H. Efficacy and safety of atovaquone-proguanil in treating imported malaria in Japan: the second report from the research group. Parasitol Int 2012; 61: 466-9. <annotation><p><italic toggle="yes">(30 cases of P. falciparum or vivax malaria in Japan were treated successfully with atovaquone-proguanil; one patient with P. falciparum had abnormal liver tests [bilirubin 2.0 mg/dL, ALT 294 U/L] with thrombocytopenia [48,000/&#x003bc;L] that resolved within 4 weeks of treatment).</italic></p></annotation><pub-id pub-id-type="pmid">22484597</pub-id></mixed-citation>
+          </ref>
+          <ref id="Proguanil.R14">
+            <mixed-citation publication-type="journal">Hern&#x000e1;ndez N, Bessone F, S&#x000e1;nchez A, di Pace M, Brahm J, Zapata R, A Chirino R, et al. Profile of idiosyncratic drug induced liver injury in Latin America: an analysis of published reports. Ann Hepatol 2014; 13: 231-9. <annotation><p><italic toggle="yes">(Among 176 reports of drug induced liver injury from Latin America published between 1996 and 2012, none were attributed to an antimalarial agent).</italic></p></annotation><pub-id pub-id-type="pmid">24552865</pub-id></mixed-citation>
+          </ref>
+          <ref id="Proguanil.R15">
+            <mixed-citation publication-type="journal">Bj&#x000f6;rnsson ES, Bergmann OM, Bj&#x000f6;rnsson HK, Kvaran RB, Olafsson S. Incidence, presentation and outcomes in patients with drug-induced liver injury in the general population of Iceland. Gastroenterology 2013; 144: 1419-25. (In a<annotation><p><italic toggle="yes">population based study from Iceland, 96 cases of drug induced liver injury were identified over a 2 year period [2010 and 2011], but none were attributed to an antimalarial agent).</italic></p></annotation><pub-id pub-id-type="pmid">23419359</pub-id></mixed-citation>
+          </ref>
+          <ref id="Proguanil.R16">
+            <mixed-citation publication-type="journal">Chalasani N, Bonkovsky HL, Fontana R, Lee W, Stolz A, Talwalkar J, Reddy KR, et al.; United States Drug Induced Liver Injury Network. Features and outcomes of 899 patients with drug-induced liver injury: The DILIN Prospective Study. Gastroenterology 2015; 148: 1340-52. <annotation><p><italic toggle="yes">(Among 899 cases of drug induced liver injury enrolled in a US prospective study between 2004 and 2013, none were attributed to an antimalarial agentl).</italic></p></annotation><pub-id pub-id-type="pmid">25754159</pub-id></mixed-citation>
+          </ref>
+          <ref id="Proguanil.R17">
+            <mixed-citation publication-type="journal">Advice for travelers. Treat Guidel Med Lett 2015: 57 (1466): 52-8. <annotation><p><italic toggle="yes">(Concise guidelines on prevention of malaria in travelers indicates that atovaquone-proguanil taken once daily is an effective prophylaxis against choloroquine resistant Plasmodium species, "...generally the best tolerated prophylactic, but it can cause headache, insomnia, GI disturbances and mouth ulcers, and is expensive. Single case reports of Stevens Johnson syndrome and hepatitis have been published").</italic></p></annotation><pub-id pub-id-type="pmid">25853663</pub-id></mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec id="Proguanil.OTHER_REFERENCE_LINKS" sec-type="link-group">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=proguanil+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D%3A%222999/12/31%22%5BEDat%5D)">Recent References on Proguanil: from PubMed.gov</ext-link>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=proguanil">Trials on Proguanil: from ClinicalTrials.gov</ext-link>
+            </p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

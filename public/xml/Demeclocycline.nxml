@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Demeclocycline" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Demeclocycline</book-part-id>
+      <title-group>
+        <title>Demeclocycline</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>23</day>
+          <month>1</month>
+          <year>2019</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Delavirdine" document-type="chapter">Delavirdine</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="DenileukinDiftitox" document-type="chapter">Denileukin Diftitox</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Demeclocycline.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Demeclocycline.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Demeclocycline is a semisynthetic tetracycline derived from Streptococcus aureofaciens that is used as an antibiotic, but perhaps more frequently as an inhibitor of arginine vasopressin in the therapy of hyponatremia and the syndrome of inappropriate secretion of antidiuretic hormone (SIADH). While demeclocycline has not been linked specifically to liver injury in the published literature, it is an orally available semisynthetic tetracycline and is likely to cause injury similar to that described for tetracycline, oxytetracycline, and doxycycline. Because it is not commonly used, its potential for causing liver injury may not have been fully defined.</p>
+        </sec>
+        <sec id="Demeclocycline.Background">
+          <title>Background</title>
+          <p>Demeclocycline (dem" e kloe sye' kleen) is a tetracycline antibiotic that is used for therapy of mild-to-moderate infections due to susceptible organisms. It is also used off-label as therapy of hyponatremia and SIADH. Its mechanism of action in SIADH is not well understood, but it appears to block the binding of arginine vasopressin (ADH) to its receptor. This inhibition of antidiuretic hormone action causes an increase in the secretion of free water without an accompanying increase in sodium loss, which results in an aquaresis and increase in serum sodium concentration. Demeclocycline is recommended in doses of 600 to 1200 mg daily in two to four divided doses. Demeclocycline is available in tablets of 150 or 300 mg under the commercial name of Declomycin. Common side effects include indigestion, nausea, diarrhea, headahce, dizziness, glossitis and rash.</p>
+        </sec>
+        <sec id="Demeclocycline.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>No reports of liver injury due to demeclocycline have been published. However, demeclocycline is a tetracycline derivative and is likely to cause liver injury similar to other oral tetracyclines. Both hepatitis and liver failure are mentioned in the product label for demeclocycline, but details of the liver injury are not provided. Finally, demeclocycline causes worsening of kidney function in patients with cirrhosis and should not be used for hyponatremia associated with chronic liver disease.</p>
+          <p>Likelihood score: E* (suspected but unproven cause of clinically apparent liver injury).</p>
+          <p>Drug Class: <related-object source-id="livertox" document-id="Antiinfective">Antiinfective Agents</related-object>, <related-object source-id="livertox" document-id="Tetracyclines">Tetracyclines</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Demeclocycline.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <boxed-text position="anchor" id="Demeclocycline.BPI" orientation="portrait">
+          <p>
+            <bold>REPRESENTATIVE TRADE NAMES</bold>
+          </p>
+          <p>Demeclocycline &#x02013; Generic, Declomycin&#x000ae;</p>
+          <p>
+            <bold>DRUG CLASS</bold>
+          </p>
+          <p>Antiinfective Agents</p>
+          <p>
+            <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=demeclocycline">COMPLETE LABELING</ext-link>
+          </p>
+          <p>Product labeling at DailyMed, National Library of Medicine, NIH.</p>
+        </boxed-text>
+      </sec>
+      <sec id="Demeclocycline.CHEMICAL_FORMULA_AND_STRU">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Demeclocycline.T1" position="anchor" orientation="portrait">
+          <table>
+            <thead>
+              <tr>
+                <th id="hd_h_Demeclocycline.T1_1_1_1_1" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Demeclocycline.T1_1_1_1_2" rowspan="1" colspan="1">CAS REGISTRY NO</th>
+                <th id="hd_h_Demeclocycline.T1_1_1_1_3" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Demeclocycline.T1_1_1_1_4" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Demeclocycline.T1_1_1_1_1" rowspan="1" colspan="1">Demeclocycline Hydrochloride</td>
+                <td headers="hd_h_Demeclocycline.T1_1_1_1_2" rowspan="1" colspan="1">
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135017847">64-73-3</ext-link>
+                </td>
+                <td headers="hd_h_Demeclocycline.T1_1_1_1_3" rowspan="1" colspan="1">C21-H21-Cl-N2-O8.Cl-H</td>
+                <td headers="hd_h_Demeclocycline.T1_1_1_1_4" rowspan="1" colspan="1">
+                  <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Demeclocycline_Structure.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait">
+                    <alt-text>Demeclocycline chemical structure</alt-text>
+                  </graphic>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Demeclocycline.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 23 January 2019</p>
+        <ref-list id="Demeclocycline.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Demeclocycline.R1">
+            <mixed-citation publication-type="other">Zimmerman HJ. Tetracyclines. In, Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999. p. 599-602.<annotation><p><italic toggle="yes">(Expert review of tetracycline and liver injury published in 1999; the tetracyclines cause two forms of drug induced liver injury, microvesicular fat and liver failure occurring after 4-10 days with high does of parenteral tetracyclines and an idiosyncratic liver injury that occurs with the oral agents, doxycycline causing a cholestatic and minocycline a hepatocellular injury which may be associated with autoimmune features).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Demeclocycline.R2">
+            <mixed-citation publication-type="other">Moseley RH. Tetracyclines. Hepatotoxicity of antimicrobials and antifungal agents. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013, p. 468.<annotation><p><italic toggle="yes">(Expert review of tetracycline induced liver injury mentions that the hepatotoxicity of intravenous tetracycline is of historic interest only as it is no longer given parenterally; both doxycycline and minocycline have been associated with idiosyncratic liver injury).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Demeclocycline.R3">
+            <mixed-citation publication-type="other">MacDougall C, Chambers HF. Tetracyclines and glycylcyclines. Protein synthesis inhibitors and miscellaneous antibacterial agents. In, Brunton LL, Chabner KA, Knollman KC, eds. Goodman &#x00026; Gilman&#x02019;s the pharmacological basis of therapeutics. 12th ed. New York: McGraw-Hill, 2011, pp. 1521-6.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Demeclocycline.R4">
+            <mixed-citation publication-type="journal">Tetracyclines and the liver in pregnancy. Lancet 1966; 1: 357-8. <annotation><p><italic toggle="yes">(Editorial on the history of acute fatty liver of pregnancy, first described by Sheehan in 1940 and later linked to high dose iv tetracycline in pregnancy, but also in nonpregnant women and in men).</italic></p></annotation><pub-id pub-id-type="pmid">4159865</pub-id></mixed-citation>
+          </ref>
+          <ref id="Demeclocycline.R5">
+            <mixed-citation publication-type="journal">Combes B, Whalley PJ, Adams RH. Tetracycline and the liver. Prog Liver Dis 1972; 4: 589-96. <annotation><p><italic toggle="yes">(Review of hepatotoxicity of tetracycline, including studies of pathogenesis).</italic></p></annotation><pub-id pub-id-type="pmid">4569011</pub-id></mixed-citation>
+          </ref>
+          <ref id="Demeclocycline.R6">
+            <mixed-citation publication-type="journal">Carrilho F, Bosch J, Arroyo V, Mas A, Viver J, Rodes J. Renal failure associated with demeclocycline in cirrhosis. Ann Intern Med 1977; 87: 195-7. <annotation><p><italic toggle="yes">(Treatment of hyponatremia in the presence of cirrhosis and ascites with demeclocycline led to worsening renal function without improvement in hyponatremia in all 3 patients studied).</italic></p></annotation><pub-id pub-id-type="pmid">407825</pub-id></mixed-citation>
+          </ref>
+          <ref id="Demeclocycline.R7">
+            <mixed-citation publication-type="journal">Carson JL, Strom BL, Duff A, et al. Acute liver disease associated with erythromycins, sulfonamides, and tetracyclines. Ann Intern Med 1993; 119 (7 Pt 1): 576-83. <annotation><p><italic toggle="yes">(Case control study using Medicaid billing results between 1980-87 found 107 cases of hospitalization for unexplained hepatitis, odds ratios for erythromycin 5.2; sulfonamides 11.4; tetracyclines 5.2; total of 5 cases exposed to tetracycline, doxycycline or minocycline).</italic></p></annotation><pub-id pub-id-type="pmid">8363168</pub-id></mixed-citation>
+          </ref>
+          <ref id="Demeclocycline.R8">
+            <mixed-citation publication-type="journal">Friis H, Andreasen PB. Drug-induced hepatic injury: an analysis of 1100 cases reported to the Danish Committee on Adverse Drug Reactions between 1978 and 1987. J Intern Med 1992; 232: 133-8. <annotation><p><italic toggle="yes">(Adverse drug reaction reports between 1978 and 1987 in Denmark; no tetracycline is mentioned as a cause).</italic></p></annotation><pub-id pub-id-type="pmid">1506809</pub-id></mixed-citation>
+          </ref>
+          <ref id="Demeclocycline.R9">
+            <mixed-citation publication-type="journal">Pillans PI. Drug associated hepatic reactions in New Zealand: 21 years&#x02019; experience. N Z Med J 1996; 109: 315-9. <annotation><p><italic toggle="yes">(Adverse drug reaction reports identified 943 liver injuries over 21 years in New Zealand; triacetyloleandomycin accounted for 21 cases [2.1%] and minocycline for at least 4).</italic></p></annotation><pub-id pub-id-type="pmid">8816722</pub-id></mixed-citation>
+          </ref>
+          <ref id="Demeclocycline.R10">
+            <mixed-citation publication-type="journal">Bj&#x000f6;rnsson E, Lindberg J, Olsson R. Liver reactions to oral low-dose tetracyclines. Scand J Gastroenterol 1997; 32: 390-5. Review. <annotation><p><italic toggle="yes">(32 year old man developed abdominal pain, dark urine and rash within 24 hours of starting doxycycline which he had received in the past [bilirubin 4.3- 8.1 mg/dL, ALT 3.5 times ULN, Alk P 1.1 times ULN], resolving within 3 months of stopping; thorough review of all published and SADRAC reported cases of oral tetracycline associated liver injury found 15 cases, only 6 rated as likely, none with tetracycline, 5 doxycycline, 1 lymecycline).</italic></p></annotation><pub-id pub-id-type="pmid">9140164</pub-id></mixed-citation>
+          </ref>
+          <ref id="Demeclocycline.R11">
+            <mixed-citation publication-type="journal">Goh KP. Management of hyponatremia. Am Fam Physician 2004; 69: 2387-94. <annotation><p><italic toggle="yes"> (Review of the causes, diagnosis and management of hyponatremia and inappropriate antidiuretic hormone syndrome, with discussion of use of demeclocycline).</italic></p></annotation><pub-id pub-id-type="pmid">15168958</pub-id></mixed-citation>
+          </ref>
+          <ref id="Demeclocycline.R12">
+            <mixed-citation publication-type="journal">Russo MW, Galanko JA, Shrestha R, Fried MW, Watkins P. Liver transplantation for acute liver failure from drug-induced liver injury in the United States. Liver Transpl 2004; 10: 1018-23. <annotation><p><italic toggle="yes">(Among ~50,000 liver transplants done in the US between 1990 and 2002, 270 [0.5%] were done for drug induced acute liver failure, none of which were attributed to minocycline, doxycycline or tetracycline).</italic></p></annotation><pub-id pub-id-type="pmid">15390328</pub-id></mixed-citation>
+          </ref>
+          <ref id="Demeclocycline.R13">
+            <mixed-citation publication-type="journal">Bj&#x000f6;rnsson E, Jerlstad P, Bergqvist A, Olsson R. Fulminant drug-induced hepatic failure leading to death or liver transplantation in Sweden. Scand J Gastroenterol 2005; 40: 1095-101. <annotation><p><italic toggle="yes">(Among 103 cases of fulminant drug induced liver injury reported to a Swedish registry between 1966 and 2002, one case was attributed to doxycycline, but no other tetracycline mentioned).</italic></p></annotation><pub-id pub-id-type="pmid">16165719</pub-id></mixed-citation>
+          </ref>
+          <ref id="Demeclocycline.R14">
+            <mixed-citation publication-type="journal">Heaton PC, Fenwick SR, Brewer DE. Association between tetracycline or doxycycline and hepatotoxicity: a population based case-control study. J Clin Pharm Ther 2007; 32: 483-7. <annotation><p><italic toggle="yes">(Analysis of 2 years of Medicaid claims in California found 3377 cases of &#x0201c;hepatotoxicity&#x0201d;; 20 had received tetracycline &#x0003c;45 days before onset; only 4 controls had: adjusted odds ratio 3.7; not elevated for doxycycline; this despite safety record of oral tetracyclines and known hepatotoxicity of doxycycline).</italic></p></annotation><pub-id pub-id-type="pmid">17875115</pub-id></mixed-citation>
+          </ref>
+          <ref id="Demeclocycline.R15">
+            <mixed-citation publication-type="journal">Chalasani N, Fontana RJ, Bonkovsky HL, Watkins PB, Davern T, Serrano J, Yang H, Rochon J; Drug Induced Liver Injury Network (DILIN). Causes, clinical features, and outcomes from a prospective study of drug-induced liver injury in the United States. Gastroenterology 2008; 135: 1924-34. <annotation><p><italic toggle="yes"> (Among 300 cases of drug induced liver disease in the US collected from 2004 to 2008, minocycline accounted for 3 cases, doxycycline for 3 cases and tetracycline was listed as a secondary possible cause for one).</italic></p></annotation><pub-id pub-id-type="pmid">18955056</pub-id></mixed-citation>
+          </ref>
+          <ref id="Demeclocycline.R16">
+            <mixed-citation publication-type="journal">Reuben A, Koch DG, Lee WM; Acute Liver Failure Study Group. Drug-induced acute liver failure: results of a U.S. multicenter, prospective study. Hepatology 2010; 52: 2065-76. <annotation><p><italic toggle="yes">(Among 1198 patients with acute liver failure enrolled in a US prospective study between 1998 and 2007, 133 were attributed to drug induced liver injury and 25 to antituberculosis agents, including 15 to isoniazid alone [ranking first], 6 to isoniazid combined with other agents, 3 to rifampin and pyrazinamide, and 1 to dapsone).</italic></p></annotation><pub-id pub-id-type="pmid">20949552</pub-id></mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec id="Demeclocycline.OTHER_REFERENCE_LINKS" sec-type="link-group">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=demeclocycline/AE+AND+Human%5BMH%5D+AND+(jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI+OR+hepatitis,+toxic%5BMH%5D)+AND+(%221900/1/1%22%5BEDat%5D%3A%222999/12/31%22%5BEDat%5D)">Recent References on Demeclocycline: from PubMed.gov</ext-link>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=demeclocycline">Trials on Demeclocycline: from ClinicalTrials.gov</ext-link>
+            </p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

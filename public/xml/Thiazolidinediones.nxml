@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Thiazolidinediones" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Thiazolidinediones</book-part-id>
+      <title-group>
+        <title>Thiazolidinediones</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>6</day>
+          <month>6</month>
+          <year>2018</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="ThiazideDiuretics" document-type="chapter">Thiazide Diuretics</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Thioguanine" document-type="chapter">Thioguanine</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Thiazolidinediones.OVERVIEW">
+        <title>OVERVIEW</title>
+        <p content-type="pubmed-excerpt">The thiazolidinediones are a relatively new family of agents for type 2 diabetes that act by increasing insulin sensitivity through a unique mechanism of engagement of the so-called peroxisome proliferator-activated receptor gamma, PPAR-&#x003b3;. Attachment of ligand to the PPAR-&#x003b3; receptor activates a series of genes that are involved in glucose and fatty acid metabolism, the overall effect being an increase in insulin effect. The thiazolidinediones reduce blood glucose levels in patients with type 2 diabetes and act additively with other antidiabetic medications. Troglitazone was the first thiazolidinedione that received approval for use in the United States (January 1997). However, within a year of its approval, reports of severe liver injury and deaths from acute liver failure began to appear. Cautionary statements and recommendations for monitoring of ALT levels were made, but after more than two dozen reports of hepatic failure and the introduction of two new thiazolidinediones in 1999, troglitazone was withdrawn from use in 2000. The newer thiazolidinediones, rosiglitazone and pioglitazone, have been associated with only rare instances of acute liver injury. Both rosiglitazone and pioglitazone are linked to increased weight gain, heart failure and fracture risk and they are considered second-line agents for type 2 diabetes and recommended only after failure of metformin and lifestyle modifications.</p>
+        <p content-type="pubmed-excerpt">All references on hepatotoxicity of the thiazolidinediones are given together at the end of this Overview section (updated June 2018). Representative cases are given in the records of specific agents.</p>
+        <p content-type="pubmed-excerpt">Drug Class: <related-object source-id="livertox" document-id="Antidiabetic">Antidiabetic Agents</related-object></p>
+        <p>Drugs in the Subclass, <related-object source-id="livertox" document-id="Thiazolidinediones">Thiazolidinediones</related-object>: <related-object source-id="livertox" document-id="Pioglitazone">Pioglitazone</related-object>, <related-object source-id="livertox" document-id="Rosiglitazone">Rosiglitazone</related-object>, <related-object source-id="livertox" document-id="Troglitazone">Troglitazone</related-object></p>
+      </sec>
+      <sec id="Thiazolidinediones.ANNOTATED_BIBLIOGRAPH">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 06 June 2018</p>
+        <ref-list id="Thiazolidinediones.ANNOTATED_BIBLIOGRAPH.reflist0">
+          <ref id="Thiazolidinediones.R1">
+            <mixed-citation publication-type="other">Zimmerman HJ. Oral hypoglycemic agents and other diabetes therapy. In, Zimmerman, HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999, pp. 575-9.<annotation><p><italic toggle="yes">(Expert review of antidiabetic medications and liver injury published in 1999; discusses troglitazone which was associated with at least 2 cases of clinically apparent liver injury during premarketing trials and at least 8 within a year of its release, some of which were fatal).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Thiazolidinediones.R2">
+            <mixed-citation publication-type="other">De Marzio DH, Navarro VJ. Amiodarone. Hepatotoxicity of cardiovascular and antidiabetic drugs. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013, pp. 520-1.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of thiazolidinediones mentions that in clinicial trials &#x0003c;1% of patients treated with pioglitazone or rosiglitazone had ALT elevations above 3 times ULN, but that isolated case reports of clinically apparent liver injury have appeared since their clinical release).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Thiazolidinediones.R3">
+            <mixed-citation publication-type="other">Powers AC, D'Alessio D. Thiazolidinediones. Endocrine pancreas and pharmacotherapy of diabetes mellitus and hypoglycemia. In, Brunton LL, Chabner BA, Knollman BC, eds. Goodman &#x00026; Gilman&#x02019;s the pharmacological basis of therapeutics. 12th ed. New York: McGraw-Hill, 2011, pp. 1259-61.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Thiazolidinediones.R4">
+            <mixed-citation publication-type="journal">Spencer CM, Markham A. Troglitazone. Drugs 1997; 54: 89-101. <annotation><p><italic toggle="yes">(Review of pharmacology and clinical studies of troglitazone).</italic></p></annotation><pub-id pub-id-type="pmid">9211083</pub-id></mixed-citation>
+          </ref>
+          <ref id="Thiazolidinediones.R5">
+            <mixed-citation publication-type="journal">Inzucchi ES, Maggs DG, Spollett GR, Page SL, Rife FS, Walton V, Shulman GI. Efficacy and metabolic effects of metformin and troglitazone in type II diabetes. N Engl J Med 1998; 338: 867-72. <annotation><p><italic toggle="yes">(Crossover study of 3 months of metformin vs troglitazone in 29 patients with diabetes, with careful assessment of insulin action; similar lowering of glucose and HgA1c levels and the effects were additive; metformin decreased glucose production, troglitazone increased glucose disposal).</italic></p></annotation><pub-id pub-id-type="pmid">9516221</pub-id></mixed-citation>
+          </ref>
+          <ref id="Thiazolidinediones.R6">
+            <mixed-citation publication-type="journal">Schwartz S, Raskin P, Fonseca V, Graveline JF. Effect of troglitazone in insulin-treated patients with type II diabetes mellitus. N Engl J Med 1998; 338: 861-6. <annotation><p><italic toggle="yes">(Controlled trial of troglitazone in poorly controlled diabetics; ALT &#x0003e;3 times ULN occurred in 2 of 116 patients on 200 mg, 3 of 116 on 600 mg and 3 of 118 on placebo; one patient on 600 mg of troglitazone developed jaundice and ALT &#x0003e;10 times ULN).</italic></p></annotation><pub-id pub-id-type="pmid">9516220</pub-id></mixed-citation>
+          </ref>
+          <ref id="Thiazolidinediones.R7">
+            <mixed-citation publication-type="journal">Gitlin N, Julie NL, Spurr CL, Lim KN, Juarbe HM. Two cases of severe clinical and histologic hepatotoxicity associated with troglitazone. Ann Intern Med 1998; 129: 36-8. <annotation><p><italic toggle="yes">(44 and 62 year old women with severe hepatitis arising after 1.5 and 5 months of troglitazone therapy [peak bilirubin 20-29 mg/dL, ALT 18-50 times ULN , Alk P 2-20 times ULN], slow and incomplete recovery).</italic></p></annotation><pub-id pub-id-type="pmid">9652997</pub-id></mixed-citation>
+          </ref>
+          <ref id="Thiazolidinediones.R8">
+            <mixed-citation publication-type="journal">Neuschwander-Tetri BA, Isley WL, Oki JC, Ramrakhiani S, Quiason SG, Phillips NJ, Brunt EM. Troglitazone-induced hepatic failure leading to liver transplantation. A case report. Ann Intern Med 1998; 129: 38-41. <annotation><p><italic toggle="yes">(55 year old woman developed acute liver failure 3.5 months after starting troglitazone [bilirubin 8.7 mg/dL, ALT 798 U/L, Alk P 345 U/L], with progressive worsening leading to emergency liver transplant).</italic></p></annotation><pub-id pub-id-type="pmid">9652998</pub-id></mixed-citation>
+          </ref>
+          <ref id="Thiazolidinediones.R9">
+            <mixed-citation publication-type="journal">Vella A, de Groen PC, Dinneen BF. Fatal hepatoxicity associated with troglitazone. Ann Intern Med 1998; 129: 1080. <annotation><p><italic toggle="yes">(Letter describing case of acute liver failure in 85 year old man after 5 months of troglitazone [ALT 608 U/L, bilirubin 15.6 mg/dL], who subsequently died after 8 weeks of deterioration).</italic></p></annotation><pub-id pub-id-type="pmid">9867776</pub-id></mixed-citation>
+          </ref>
+          <ref id="Thiazolidinediones.R10">
+            <mixed-citation publication-type="journal">Watkins PB, Whitcomb RW. Hepatic dysfunction associated with troglitazone. N Engl J Med 1998; 338: 916-7. <annotation><p><italic toggle="yes">(Letter summarizing liver related adverse events in US clinical trials of troglitazone, including 2510 patients on drug and 475 on placebo; ALT levels &#x0003e;3 times ULN occurred in 1.9% of troglitazone vs 0.6% of placebo patients, elevations typically arose between 3 and 7 months, returning to normal by 2 months after stopping; 2 patients had jaundice).</italic></p></annotation><pub-id pub-id-type="pmid">9518284</pub-id></mixed-citation>
+          </ref>
+          <ref id="Thiazolidinediones.R11">
+            <mixed-citation publication-type="journal">Shibuya A, Watanabe M, Fujita Y, Saigenji K, Kuwao S, Takahashi H, Takeuchi H. An autopsy case of troglitazone-induced fulminant hepatitis. Diabetes Care 1998; 21: 2140-3. <annotation><p><italic toggle="yes">(58 year old Japanese man with severe hepatitis arising 4 months after starting troglitazone [bilirubin rising from 8.4 to 23 mg/dL, ALT 1655 U/L, Alk P 378 U/L], with liver failure and death 1 month later).</italic></p></annotation><pub-id pub-id-type="pmid">9839107</pub-id></mixed-citation>
+          </ref>
+          <ref id="Thiazolidinediones.R12">
+            <mixed-citation publication-type="journal">Misbin RI. Troglitazone-associated hepatic failure. Ann Intern Med 1999; 130 (4, pt 1): 330. <italic toggle="yes">
+</italic><annotation><p><italic toggle="yes">(Letter from FDA in response to 3 reports in the Annals; FDA received 560 reports of troglitazone associated hepatotoxicity, including 27 with acute liver failure [3 transplanted]. In clinical trials, 0.8% of patients stopped troglitazone because of ALT elevations; provides table of results of a fatal case in whom ALT rose from 89 to 933 U/L between weeks 57 and 90 and suggested that all elevations [not just those &#x0003e;3 times ULN] should be closely followed).</italic></p></annotation><pub-id pub-id-type="pmid">10068399</pub-id></mixed-citation>
+          </ref>
+          <ref id="Thiazolidinediones.R13">
+            <mixed-citation publication-type="journal">Herrine SK, Choudhary C. Severe hepatotoxicity associated with troglitazone. Ann Intern Med 1999; 130: 163-4. <annotation><p><italic toggle="yes">(52 year old woman developed hepatitis 20 weeks after starting troglitazone [bilirubin 28.9 mg/dL, ALT 1227 U/L, Alk P 216 U/L, protime 15.2 sec], followed by liver failure and death).</italic></p></annotation><pub-id pub-id-type="pmid">10068372</pub-id></mixed-citation>
+          </ref>
+          <ref id="Thiazolidinediones.R14">
+            <mixed-citation publication-type="journal">Balfour JAB, Plosker GL. Rosiglitazone. Drugs 1999; 57: 921-30. <annotation><p><italic toggle="yes"> (Review of basic and clinical pharmacology, preclinical studies and phase I-III clinical trials of rosiglitazone; side effects in US trials included hypoglycemia when combined with other agents, edema in 4.8% [1.2% with placebo] and abnormal ALT levels &#x0003e;3 times ULN in 0.26% [4/1526] compared to 0.25% in placebo recipients; no mention of clinically apparent liver injury).</italic></p></annotation><pub-id pub-id-type="pmid">10400405</pub-id></mixed-citation>
+          </ref>
+          <ref id="Thiazolidinediones.R15">
+            <mixed-citation publication-type="journal">Gillies PS, Dunn CJ. Pioglitazone. Drugs 2000; 60: 333-43. <annotation><p><italic toggle="yes">(Review of basic and clinical pharmacology, preclinical studies and phase I-III clinical trials of pioglitazone; hypoglycemia was no more common than with comparative agents and pooled data on &#x0003e;4500 patients found ALT elevations &#x0003e;3 times ULN in 0.17% compared to 0.18% with placebo and 0.48% with sulfonylureas or metformin; no mention of clinically apparent liver injury).</italic></p></annotation><pub-id pub-id-type="pmid">10983737</pub-id></mixed-citation>
+          </ref>
+          <ref id="Thiazolidinediones.R16">
+            <mixed-citation publication-type="journal">Forman LM, Simmons DA, Diamond RH. Hepatic failure in a patient taking rosiglitazone. Ann Intern Med 2000; 132: 118-21. <annotation><p><italic toggle="yes">(69 year old man with advanced cardiac disease developed evidence of acute liver failure after 3 weeks of rosiglitazone [bilirubin 3.8 mg/dL, ALT 1890 U/L, Alk P 210 U/L, INR 9.6], with rapid reversal on stopping).</italic></p></annotation><pub-id pub-id-type="pmid">10644272</pub-id></mixed-citation>
+          </ref>
+          <ref id="Thiazolidinediones.R17">
+            <mixed-citation publication-type="journal">Isley WL, Oki JC. Rosiglitazone and liver failure. Ann Intern Med 2000; 133: 393. <annotation><p><italic toggle="yes">(Letter in response to Forman et al. [2000] questioning the role of rosiglitazone and raising the possibility of hypotension causing the liver injury).</italic></p></annotation><pub-id pub-id-type="pmid">10979889</pub-id></mixed-citation>
+          </ref>
+          <ref id="Thiazolidinediones.R18">
+            <mixed-citation publication-type="journal">Freid J, Everitt D, Boscia J. Rosiglitazone and hepatic failure. Ann Intern Med 2000; 132: 164. <annotation><p><italic toggle="yes">(Letter questioning the role of rosiglitazone in case described by Forman et al. [2000], stating that history of cardiac instability and ALT level of 11,000 U/L falling to normal in 9 days is typical of ischemia).</italic></p></annotation><pub-id pub-id-type="pmid">10644281</pub-id></mixed-citation>
+          </ref>
+          <ref id="Thiazolidinediones.R19">
+            <mixed-citation publication-type="journal">Al-Salman J, Arjomand H, Kemp DG, Mittal M. Hepatocellular injury in a patient receiving rosiglitazone. A case report. Ann Intern Med 2000; 132: 121-4. <annotation><p><italic toggle="yes">(61 year old developed fatigue and jaundice 8 days after starting rosiglitazone [bilirubin 9.6 mg/dL, ALT 1370 U/L, Alk P 331 U/L], resolving within 2 months of stopping).</italic></p></annotation><pub-id pub-id-type="pmid">10644273</pub-id></mixed-citation>
+          </ref>
+          <ref id="Thiazolidinediones.R20">
+            <mixed-citation publication-type="journal">Jagannath S, Rai R. Rapid-onset subfulminant liver failure associated with troglitazone. Ann Intern Med 2000; 132: 677. <annotation><p><italic toggle="yes">(Letter describing 47 year old man who developed jaundice and cholestatic hepatitis on liver biopsy arising after only 4 doses of troglitazone, with few specifics given).</italic></p></annotation><pub-id pub-id-type="pmid">10766693</pub-id></mixed-citation>
+          </ref>
+          <ref id="Thiazolidinediones.R21">
+            <mixed-citation publication-type="journal">Prendergast KA, Berg CL, Wisniewski R. Troglitazone-associated hepatotoxicity treated successfully with steroids. Ann Intern Med 2000; 133: 751. <annotation><p><italic toggle="yes">(Letter describing 59 year old man who developed hepatitis 1 year after starting troglitazone [bilirubin rising to 18 mg/dL, ALT to 1400 U/L], treated with prednisone with rapid and ultimately complete improvement; ANA 1:80).</italic></p></annotation><pub-id pub-id-type="pmid">11074925</pub-id></mixed-citation>
+          </ref>
+          <ref id="Thiazolidinediones.R22">
+            <mixed-citation publication-type="journal">Ravinuthala RS, Nori U. Rosiglitazone toxicity. Ann Intern Med 2000; 133: 658. <annotation><p><italic toggle="yes">(58 year old developed jaundice 3 weeks after starting rosiglitazone [bilirubin 2.4 mg/dL, ALT 314 U/L], recovering within 4 weeks of stopping).</italic></p></annotation><pub-id pub-id-type="pmid">11033603</pub-id></mixed-citation>
+          </ref>
+          <ref id="Thiazolidinediones.R23">
+            <mixed-citation publication-type="journal">Hachey DM, O.Neil MP, Force RW. Isolated elevation of alkaline phosphatase level associated with rosiglitazone. Ann Intern Med 2000; 133: 752. <annotation><p><italic toggle="yes"> (47 year old woman with isolated elevation of Alk P to 656 U/L, but normal ALT after 4 months of rosiglitazone, 2 weeks after stopping all tests were normal).</italic></p></annotation><pub-id pub-id-type="pmid">11074926</pub-id></mixed-citation>
+          </ref>
+          <ref id="Thiazolidinediones.R24">
+            <mixed-citation publication-type="journal">Booth AM, Caldwell SH, Iezzoni JC. Troglitazone-associated hepatic failure. Am J Gastroenterol 2000; 95: 5557-8. <annotation><p><italic toggle="yes">(68 year old woman developed acute liver failure and died 7 months after starting troglitazone [bilirubin 11 mg/dL, ALT 1125 U/L], autopsy showing massive collapse).</italic></p></annotation><pub-id pub-id-type="pmid">10685776</pub-id></mixed-citation>
+          </ref>
+          <ref id="Thiazolidinediones.R25">
+            <mixed-citation publication-type="journal">Kohlroser J, Mathai J, Reichheld J, Banner BR, Bonkovsky HL. Hepatotoxicity due to troglitazone: report of two cases and review of adverse vents reported to the United States Food and Drug Administration. Am J Gastroenterol 2000; 95: 272-6. <annotation><p><italic toggle="yes">(A 48 year old woman and 62 year old man with onset of liver injury after 5 and 2 months of troglitazone therapy [bilirubin 1.5 and 3.7 mg/dL, ALT 653 and 253 U/L, Alk P not available and 253 U/L], with rapid recovery upon stopping; reviewed FDA reports: cases had female predominance, duration 6-195 days, hepatocellular injury often severe).</italic></p></annotation><pub-id pub-id-type="pmid">10638596</pub-id></mixed-citation>
+          </ref>
+          <ref id="Thiazolidinediones.R26">
+            <mixed-citation publication-type="journal">Arioglu E, Duncan-Morin J, Sebring N, Rother KI, Gottlieb N, Lieberman J, Herion D, et al. Efficacy and safety of troglitazone in the treatment of lipodystrophy syndromes. Ann Intern Med 2000; 133: 263-74. <annotation><p><italic toggle="yes">(Open label study of troglitazone in 13 patients with lipoatrophic diabetes showed improvements in HgA1c and increase in subcutaneous fat; one patient developed fatigue and ALT elevation [10 times ULN] after 10 months of therapy, resolving 3 months after stopping).</italic></p></annotation><pub-id pub-id-type="pmid">10929166</pub-id></mixed-citation>
+          </ref>
+          <ref id="Thiazolidinediones.R27">
+            <mixed-citation publication-type="journal">Murphy EJ, Davern TJ, Shakil O, Shick L, Masharani U, Chow H, Freise C, et al., and the Acute Liver Failure Study Group. Troglitazone-induced fulminant hepatitis failure. Dig Dis Sci 2000; 45: 549-53. <annotation><p><italic toggle="yes">(Description of 3 cases of acute liver failure attributable to troglitazone representing 5% of all cases admitted to the Acute Liver Failure Study Group; ages 55-61, all female, onset after 3-9 months [bilirubin progressively rising, ALT 1281-2740 U/L, Alk P 167-174 U/L], 2 had liver transplant, 1 died without).</italic></p></annotation><pub-id pub-id-type="pmid">10749332</pub-id></mixed-citation>
+          </ref>
+          <ref id="Thiazolidinediones.R28">
+            <mixed-citation publication-type="journal">Bell DS, Ovalle F. Late-onset troglitazone-induced hepatic dysfunction. Diabetes Care 2000; 23: 128-9. <annotation><p><italic toggle="yes">(76 year old man developed rise in ALT to 64 U/L without symptoms or jaundice after 18 months of troglitazone, reversed upon stopping within 3 months).</italic></p></annotation><pub-id pub-id-type="pmid">10857986</pub-id></mixed-citation>
+          </ref>
+          <ref id="Thiazolidinediones.R29">
+            <mixed-citation publication-type="journal">Schiano T, Dolehide K, Hart J, Baker AL. Severe but reversible hepatitis induced by troglitazone. Dig Dis Sci 2000; 45: 1039-42. <annotation><p><italic toggle="yes">(63 year old man developed hepatitis 6 months after starting troglitazone [bilirubin 13.2 mg/dL, ALT 1961 U/L, Alk P 213 U/L], resolving within 4 months of stopping).</italic></p></annotation><pub-id pub-id-type="pmid">10795774</pub-id></mixed-citation>
+          </ref>
+          <ref id="Thiazolidinediones.R30">
+            <mixed-citation publication-type="journal">Li H, Heller DS, Leevy CB, Zierer KG, Klein KM. Troglitazone-induced fulminant hepatitis. Report of a case with autopsy findings. J Diabet Complic 2000; 14: 175-7. <annotation><p><italic toggle="yes">(71 year old man developed fatal hepatitis after 10 months of troglitazone therapy with jaundice, rash, hepatic coma and multiorgan failure [bilirubin 36 mg/dL, ALT 318 U/L, Alk P 147 U/L], autopsy showing massive necrosis).</italic></p></annotation><pub-id pub-id-type="pmid">10989325</pub-id></mixed-citation>
+          </ref>
+          <ref id="Thiazolidinediones.R31">
+            <mixed-citation publication-type="journal">Malik A, Prasad P, Saboorian MH, Thiele DL, Maler PF. Hepatic injury due to troglitazone. Dig Dis Sci 2000; 45: 210-4. <annotation><p><italic toggle="yes">(Two 51 year old women who received troglitazone for 5-6 months, developed hepatitis [bilirubin 5.9-8.0 mg/dL, ALT 718-1230 U/L, Alk P 182-410 U/L], resolving in 7-8 weeks of stopping).</italic></p></annotation><pub-id pub-id-type="pmid">10695637</pub-id></mixed-citation>
+          </ref>
+          <ref id="Thiazolidinediones.R32">
+            <mixed-citation publication-type="journal">Fukano M, Amano S, Sato J, Yamamoto K, Adachi H, Okabe H, Fujiyama Y, et al. Subacute hepatic failure associated with a new antidiabetic agent, troglitazone: a case report with autopsy examination. Human Pathol 2000; 31: 250-3. <annotation><p><italic toggle="yes">(63 year old woman developed malaise 2 months after starting troglitazone and jaundice after 4 months, [bilirubin 15.8 mg/dL, ALT 45 U/L, Alk P 80 U/L, protime 48%], with subsequent decompensation and death.</italic></p></annotation><pub-id pub-id-type="pmid">10685643</pub-id></mixed-citation>
+          </ref>
+          <ref id="Thiazolidinediones.R33">
+            <mixed-citation publication-type="journal">Krische D. The glitazones: proceed with caution. West J Med 2000; 173: 54-7. <annotation><p><italic toggle="yes">(Editorial suggesting caution in using thiazolindinediones after withdrawal of troglitazone for hepatotoxicity; early results suggest less of a problem with rosiglitazone and pioglitazone).</italic></p></annotation><pub-id pub-id-type="pmid">10903299</pub-id></mixed-citation>
+          </ref>
+          <ref id="Thiazolidinediones.R34">
+            <mixed-citation publication-type="journal">Tolman KG. Thiazolidinedione hepatotoxicity: a class effect? Int J Clin Pract Suppl 2000; (113): 29-34. <annotation><p><italic toggle="yes">(Review of hepatotoxicity of thiazolidinediones stressing differences with different agents; ALT elevations above 3 times ULN occurred in 1.9% of troglitazone, 0.26% pioglitazone, 0.25% rosiglitazone, and 0.25% placebo recipients; ALT above 10 times ULN occurred in 12/2510 troglitazone treated patients compared to no patient on pioglitazone and one on rosiglitazone; multiple cases of acute liver failure attributed to troglitazone, few if any to the others).</italic></p></annotation><pub-id pub-id-type="pmid">11965828</pub-id></mixed-citation>
+          </ref>
+          <ref id="Thiazolidinediones.R35">
+            <mixed-citation publication-type="journal">Biswas P, Wilton LV, Shakir SA. Troglitazone and liver function abnormalities: lessons from a prescription event monitoring study and spontaneous reporting. Drug Saf 2001; 24: 149-54. <annotation><p><italic toggle="yes">(Troglitazone was available in the UK for only 3 months; a cohort database study identified 2556 prescriptions written between Oct-Dec 1997, questionnaires returned on 1541 which identified 5 cases of liver injury possibly due to troglitazone, but none severe or fatal).</italic></p></annotation><pub-id pub-id-type="pmid">11235818</pub-id></mixed-citation>
+          </ref>
+          <ref id="Thiazolidinediones.R36">
+            <mixed-citation publication-type="journal">Graham DJ, Drinkard CR, Shatin D, Tsong Y, Burgess MJ. Liver enzyme monitoring in patients treated with troglitazone. JAMA 2001; 286: 831-3. <annotation><p><italic toggle="yes">(Analysis of health database on whether patients given troglitazone had routine ALT monitoring as recommended by FDA; baseline testing rose from 15-45% and early monitoring from &#x0003c;5% to 33%, but fewer than 5% received all recommended testing; thus, FDA guidelines on monitoring were rarely followed).</italic></p></annotation><pub-id pub-id-type="pmid">11497537</pub-id></mixed-citation>
+          </ref>
+          <ref id="Thiazolidinediones.R37">
+            <mixed-citation publication-type="journal">Chaudhry MU, Simmons DL. Case of the month. Hepatic and renal failure in a patient taking troglitazone and metformin. J Ark Med Soc 2001; 98: 16-9. <annotation><p><italic toggle="yes">(54 year old man developed jaundice 5 years after starting metformin and 18 months after starting troglitazone shortly after episode of bloody diarrhea and hypotension [bilirubin 17 mg/dL, ALT 574 U/L, Alk P 125 U/L], resolving after stopping oral agents and stabilization of heart disease).</italic></p></annotation><pub-id pub-id-type="pmid">11452755</pub-id></mixed-citation>
+          </ref>
+          <ref id="Thiazolidinediones.R38">
+            <mixed-citation publication-type="journal">Lenhard MJ, Funk WB. Failure to develop hepatic injury from rosiglitazone in a patient with a history of troglitazone-induced hepatitis. Diabetes Care 2001; 24: 168-9. <annotation><p><italic toggle="yes">(36 year old woman developed jaundice and hepatitis 4 months after starting troglitazone, from which she recovered and then received rosiglitazone which she tolerated for 10 months with regular monitoring of ALT).</italic></p></annotation><pub-id pub-id-type="pmid">11194222</pub-id></mixed-citation>
+          </ref>
+          <ref id="Thiazolidinediones.R39">
+            <mixed-citation publication-type="journal">Gale EA. Lessons from the glitazones: a story of drug development. Lancet 2001; 357: 1870-5. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/pubmed/%2011410214">PubMed Citation</ext-link><annotation><p><italic toggle="yes">(History of troglitazone approval and usefulness of thiazolidinediones from a British viewpoint, the agent having been withdrawn within weeks of its approval in the UK, compared to voluntary withdrawal after 3 years in the US).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Thiazolidinediones.R40">
+            <mixed-citation publication-type="journal">Maeda K. Hepatocellular injury in a patient receiving pioglitazone. Ann Intern Med 2001; 135: 306. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/pubmed/%2011511159">PubMed Citation</ext-link><annotation><p><italic toggle="yes">(67 year old man had asymptomatic elevations in ALT [339 U/L], Alk P [~3 times ULN], but normal bilirubin [0.6 mg/dL] after 7 months of troglitazone therapy, resolving within 2 weeks of stopping).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Thiazolidinediones.R41">
+            <mixed-citation publication-type="journal">Gouda HE, Khan A, Schwartz J, Cohen RI. Liver failure in a patient treated with long-term rosiglitazone therapy. Am J Med 2001; 111: 584-5. <annotation><p><italic toggle="yes">(82 year old man developed fatal acute liver failure 1 year after starting rosiglitazone [bilirubin 2.1 rising to 7.2 mg/dL, ALT 4214 U/L, LDH 12,638 U/L]; possibility of ischemia was not completely ruled out).</italic></p></annotation><pub-id pub-id-type="pmid">11705443</pub-id></mixed-citation>
+          </ref>
+          <ref id="Thiazolidinediones.R42">
+            <mixed-citation publication-type="journal">Caldwell SH, Hespenheide EE, von Borstel RW. Myositis, microvesicular hepatitis, and progression to cirrhosis from troglitazone added to simvastatin. Dig Dis Sci 2001; 46: 376-8. <annotation><p><italic toggle="yes">(68 year old woman developed jaundice and ascites 8 weeks after starting troglitazone [bilirubin 4.5 mg/dL, ALT 437 U/L, Alk P 109 U/L, CK 14,300 U/L, platelet 88,000 and protime 18 sec], biopsy showing cirrhosis with fat, partial reversal with stopping).</italic></p></annotation><pub-id pub-id-type="pmid">11281188</pub-id></mixed-citation>
+          </ref>
+          <ref id="Thiazolidinediones.R43">
+            <mixed-citation publication-type="journal">Scheen AJ. Thiazolidinediones and liver toxicity. Diabetes Metab 2001; 27: 305-14. <annotation><p><italic toggle="yes">(Review of hepatotoxicity thiazolidinediones; in large clinical trials, rate of ALT elevations of &#x0003e;3 times ULN with troglitazone was 1.9%, &#x0003e;10 times in 0.5%, and &#x0003e;30 times in 0.2%; rates for rosiglitazone were 0.25%, 0.02% and 0%; for pioglitazone 0.25%, 0%, 0%; for placebo 0.25-0.6%, 0%, 0%; careful discussion of 2 case reports of acute liver failure from rosiglitazone suggesting that both had other causes; no case reports of liver failure from pioglitazone).</italic></p></annotation><pub-id pub-id-type="pmid">11431595</pub-id></mixed-citation>
+          </ref>
+          <ref id="Thiazolidinediones.R44">
+            <mixed-citation publication-type="journal">McMorran M, Vu D. Rosiglitazone (Avandia): hepatic, cardiac and hematological reactions. CMAJ 2001; 165: 82-3, 86-7. English, French. <annotation><p><italic toggle="yes">(Editorial and alert on the potential adverse effects of rosiglitazone).</italic></p></annotation><pub-id pub-id-type="pmid">11468963</pub-id></mixed-citation>
+          </ref>
+          <ref id="Thiazolidinediones.R45">
+            <mixed-citation publication-type="journal">Scheen AJ. Hepatotoxicity with thiazolidinediones. Is it a class effect? Drug Saf 2001; 24: 873-88. <annotation><p><italic toggle="yes">(Review of hepatotoxicity of thiazolidinediones; in large clinical trials, rate of ALT elevations of &#x0003e;3 times ULN with troglitazone was 1.9%, &#x0003e;10 times in 0.5%, and &#x0003e;30 times ULN in 0.2%; rates for rosiglitazone were 0.25%, 0.02% and 0%; for pioglitazone 0.25%, 0%, 0%; for placebo 0.25-0.6%, 0%, 0%; a total of 61 reports of acute liver failure attributed to troglitazone reported to FDA).</italic></p></annotation><pub-id pub-id-type="pmid">11735645</pub-id></mixed-citation>
+          </ref>
+          <ref id="Thiazolidinediones.R46">
+            <mixed-citation publication-type="journal">Faich GA, Moseley RH. Troglitazone (Rezulin) and hepatic injury. Pharmacoepidemiol Drug Saf 2001; 10: 537-47. <annotation><p><italic toggle="yes"> (Analysis of cases of troglitazone associated severe liver disease reported to FDA 1997-2000; 83 cases among 1.6 million person-years of exposure: 1:20,000 person-years. Decrease in reports over time interpreted as showing effectiveness of ALT surveillance).</italic></p></annotation><pub-id pub-id-type="pmid">11828837</pub-id></mixed-citation>
+          </ref>
+          <ref id="Thiazolidinediones.R47">
+            <mixed-citation publication-type="journal">Menon KVN, Angulo P, Lindor KD. Severe cholestatic hepatitis from troglitazone in a patient with nonalcoholic steatohepatitis and diabetes mellitus. Am J Gastroenterol 2001; 96: 1631-4. <annotation><p><italic toggle="yes">(34 year old obese woman with nonalcoholic steatohepatitis developed jaundice 17 months after starting troglitazone [bilirubin 17.9 mg/dL, ALT 178 U/L and Alk P 1307 U/L], with slow recovery upon stopping).</italic></p></annotation><pub-id pub-id-type="pmid">11374713</pub-id></mixed-citation>
+          </ref>
+          <ref id="Thiazolidinediones.R48">
+            <mixed-citation publication-type="journal">Lebovitz HE, Kreider M, Freed MI. Evaluation of liver function in type 2 diabetic patients during clinical trials. Diabetes Care 2002; 25: 815-2002. <annotation><p><italic toggle="yes">(Analysis on &#x0003e;6000 patients in clinical trials found ALT levels &#x0003e;3 times ULN in 1.9% of troglitazone, 0.32% of rosiglitazone, 0.26% of pioglitazone, 0.4% of sulfonylurea/metformin, and 0.17% of placebo treated patients; no mention of severe liver toxicity or jaundice).</italic></p></annotation><pub-id pub-id-type="pmid">11978674</pub-id></mixed-citation>
+          </ref>
+          <ref id="Thiazolidinediones.R49">
+            <mixed-citation publication-type="journal">May LD, Lefkowitch JH, Kram MT, Rubin DE. Mixed hepatocellular-cholestatic liver injury after pioglitazone therapy. Ann Intern Med 2002; 136: 449-52. <annotation><p><italic toggle="yes">(49 year old developed jaundice 6 months after starting pioglitazone and 2 months after dose increase [bilirubin 5.7 mg/dL, ALT 218 U/L, Alk P 312 U/L], resolving within 1 month of stopping).</italic></p></annotation><pub-id pub-id-type="pmid">11900497</pub-id></mixed-citation>
+          </ref>
+          <ref id="Thiazolidinediones.R50">
+            <mixed-citation publication-type="journal">Nierenberg DW. "Did this drug cause my patient's hepatitis?" and related questions. Ann Intern Med 2002; 136: 480-3. <annotation><p><italic toggle="yes">(Informal commentary on report by May et al. regarding pioglitazone).</italic></p></annotation><pub-id pub-id-type="pmid">11900502</pub-id></mixed-citation>
+          </ref>
+          <ref id="Thiazolidinediones.R51">
+            <mixed-citation publication-type="journal">Pinto AG, Cummings OW, Chalasani N. Severe but reversible cholestatic liver injury after pioglitazone therapy. Ann Intern Med 2002; 137: 857. <annotation><p><italic toggle="yes">(49 year old woman developed jaundice 7 weeks after starting pioglitazone [bilirubin rising to 34.2 mg/dL, ALT 84, Alk P ~2 times ULN], with slow recovery over 6 months).</italic></p></annotation><pub-id pub-id-type="pmid">12435231</pub-id></mixed-citation>
+          </ref>
+          <ref id="Thiazolidinediones.R52">
+            <mixed-citation publication-type="journal">Nagasaka S, Abe T, Kawakami A, Kusaka I, Nakamura T, Ishikawa S, Saito T, et al. Pioglitazone-induced hepatic injury in a patient previously receiving troglitazone with success. Diabetes Medicine 2002; 19: 344-8. <annotation><p><italic toggle="yes">(62 year old woman who had received troglitazone for several years without problems developed elevated ALT [508 U/L] and LDH [1085 U/L] without jaundice 1 month after starting pioglitazone, asymptomatic and rapidly resolving on stopping).</italic></p></annotation><pub-id pub-id-type="pmid">11943013</pub-id></mixed-citation>
+          </ref>
+          <ref id="Thiazolidinediones.R53">
+            <mixed-citation publication-type="journal">Dhawan M, Agrawal R, Ravi J, Gulati S, Silverman J, Nathan G, Raab S, et al. Rosiglitane-induced granulomatous hepatitis. J Clin Gastroenterol 2002; 34: 582-4. <annotation><p><italic toggle="yes">(37 year old developed liver injury 15 months after starting rosiglitazone [bilirubin 5.9 mg/dL, ALT 82 U/L, Alk P 125 U/L], resolving within 2 months of stopping; biopsy showed granulomas).</italic></p></annotation><pub-id pub-id-type="pmid">11960075</pub-id></mixed-citation>
+          </ref>
+          <ref id="Thiazolidinediones.R54">
+            <mixed-citation publication-type="journal">Bonkovsky HL, Azar R, Bird S, Szabo G, Banner B. Severe cholestatic hepatitis caused by thiazolidinediones: risks associated with substituting rosiglitazone for troglitazone. Dig Dis Sci 2002; 47: 1632-7. <annotation><p><italic toggle="yes">(56 year old woman developed mild liver injury 2 years after starting troglitazone [bilirubin 2.3 mg/dL, ALT 33 U/L, Alk P 290 U/L], and then worsened when she switched to rosiglitazone [bilirubin 23 mg/dL, ALT 84 U/L, Alk P 830 U/L], with subsequent slow, partial recovery on stopping thiazolidinediones while being treated with prednisone, azathioprine and ursodiol).</italic></p></annotation><pub-id pub-id-type="pmid">12141828</pub-id></mixed-citation>
+          </ref>
+          <ref id="Thiazolidinediones.R55">
+            <mixed-citation publication-type="journal">Chase MP, Yarze JC. Pioglitazone-associated fulminant hepatic failure. Am J Gastroenterol 2002; 97: 502-3. <annotation><p><italic toggle="yes">(78 year old man developed severe hepatitis after 2 months of pioglitazone therapy [bilirubin 4.4 mg/dL, ALT 2303 U/L, Alk P 201 U/L, protime 24 sec], treated with prednisone and ultimately recovering).</italic></p></annotation><pub-id pub-id-type="pmid">11866308</pub-id></mixed-citation>
+          </ref>
+          <ref id="Thiazolidinediones.R56">
+            <mixed-citation publication-type="journal">Chan KA, Truman A, Gurwitz JH, Hurley JS, Martinson D, Platt R, Everhart JE, et al. A cohort study of the incidence of serious acute liver injury in diabetic patients treated with hypoglycemic agents. Arch Intern Med 2003; 163: 728-34. <annotation><p><italic toggle="yes">(Retrospective cohort study of 171,264 health plan members who received therapy for diabetes over 2 years; found 35 cases of acute liver failure of unknown cause, standardized incidence per 1000 person-years was 0.15 for patients on insulin, 0.08 for sulfonylureas, 0.12 for metformin and 0.10 for troglitazone).</italic></p></annotation><pub-id pub-id-type="pmid">12639207</pub-id></mixed-citation>
+          </ref>
+          <ref id="Thiazolidinediones.R57">
+            <mixed-citation publication-type="journal">Graham DJ, Drinkard CR, Shatin D. Incidence of idiopathic acute liver failure and hospitalized liver injury in patients treated with troglitazone. Am J Gastroenterol 2003; 98: 175-9. <annotation><p><italic toggle="yes">(Analysis of databases on 3 million persons for use of troglitazone [n=75,680] and acute liver injury attributable to drug [n=5] and one acute liver failure case, ~240 cases per million-person years of therapy).</italic></p></annotation><pub-id pub-id-type="pmid">12526954</pub-id></mixed-citation>
+          </ref>
+          <ref id="Thiazolidinediones.R58">
+            <mixed-citation publication-type="journal">Graham DJ, Green L, Senior JR, Nourjah P. Troglitazone-induced liver failure: a case study. Am J Med 2003; 114: 299-306. <annotation><p><italic toggle="yes">(Analysis of 94 cases of acute liver failure attributed to troglitazone reported to FDA, average age 63 years, 67% female, onset 3 days to 2 years after starting; hepatocellular enzyme pattern in 85%, highly fatal [13% spontaneous recovery], often with rapid progression [&#x0003c;1 month]).</italic></p></annotation><pub-id pub-id-type="pmid">12681458</pub-id></mixed-citation>
+          </ref>
+          <ref id="Thiazolidinediones.R59">
+            <mixed-citation publication-type="journal">Hisamochi A, Kumashiro R, Koga Y, et al. A case of drug-induced liver injury related to pioglitazone. Nippon Shokakibyo Gakkai Zasshi 2003; 100: 333-6. <annotation><p><italic toggle="yes">(Case report of acute anicteric hepatitis arising after 120 days of pioglitazone [bilirubin 0.4 mg/dL, ALT 583 U/L, Alk P 305 U/L], and rapid recovery with stopping).</italic></p></annotation><pub-id pub-id-type="pmid">12696176</pub-id></mixed-citation>
+          </ref>
+          <ref id="Thiazolidinediones.R60">
+            <mixed-citation publication-type="journal">Tolman KG, Chandramouli J. Hepatotoxicity of the thiazolidinediones. Clin Liver Dis 2003; 7: 369-79, vi. <annotation><p><italic toggle="yes">(Review of hepatotoxicity of thiazolidinediones).</italic></p></annotation><pub-id pub-id-type="pmid">12879989</pub-id></mixed-citation>
+          </ref>
+          <ref id="Thiazolidinediones.R61">
+            <mixed-citation publication-type="journal">Watanabe I, Tomita A, Shimizu M, Sugawara M, Yawsumo H, Koishi R, Takahashi T, et al. A study to survey susceptible genetic factors responsible for troglitazone-associated hepatotoxicity in Japanese patients with type 2 diabetes mellitus. Clin Pharmacol Ther 2003; 73: 435-55. <annotation><p><italic toggle="yes">(Analysis of 51 candidate genes in 110 patients treated with troglitazone, 25 of whom developed abnormal ALT levels [range 360-1905 U/L]; association found with glutathione-S-transferase polymorphisms [odds ratio 3.7: 40% of cases vs 15% of controls]).</italic></p></annotation><pub-id pub-id-type="pmid">12732844</pub-id></mixed-citation>
+          </ref>
+          <ref id="Thiazolidinediones.R62">
+            <mixed-citation publication-type="journal">Isley WL. Hepatotoxicity of thiazolidinediones. Expert Opin Drug Saf 2003; 2: 581-6. <annotation><p><italic toggle="yes">(Review of liver injury from thiazolidinediones, concluding that rosiglitazone and pioglitazone have a larger margin of safety than troglitazone for liver toxicity).</italic></p></annotation><pub-id pub-id-type="pmid">14585066</pub-id></mixed-citation>
+          </ref>
+          <ref id="Thiazolidinediones.R63">
+            <mixed-citation publication-type="other">Kessler W, Johnson B, Yoo HY. Acute fulminant hepatic failure associated with the use of rosiglitazone. Am J Gastroenterol 2003; 98 (Suppl 2): S212. [Abstract]. Not in PubMed<annotation><p><italic toggle="yes">(60 year old woman developed jaundice 4 weeks after starting rosiglitazone, aminotransferase levels &#x0201c;up to 5,000 U/L&#x0201d;, underwent liver transplantation; few details given).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Thiazolidinediones.R64">
+            <mixed-citation publication-type="other">Farley-Hills E, Sivasankar R, Martin M. Fatal liver failure associated with pioglitazone. BMJ 2004; 329: 429. Not in PubMed<annotation><p><italic toggle="yes">(63 year old man developed jaundice 10 weeks after starting pioglitazone [bilirubin 30.5 mg/dL, ALT 1984 U/L, Alk P 472 U/L, protime 56 sec], progressing to hepatic failure and death; autopsy showed extensive fibrosis and Mallory bodies, despite lack of history of alcohol abuse).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Thiazolidinediones.R65">
+            <mixed-citation publication-type="journal">Arot&#x000e7;arena R, Bigu&#x000e9; JP, Etcharry F, Pariente A. [Pioglitazone-induced acute severe hepatitis] Gastroenterol Clin Biol 2004; 28 (6-7 Pt 1): 610-1. French. <annotation><p><italic toggle="yes">(Case of jaundice arising 6 weeks after starting pioglitazone [bilirubin 15.8 mg/dL, ALT 73 times ULN, Alk P 2 times ULN], with subsequent worsening and period of ascites, but ultimate recovery in 2 months).</italic></p></annotation><pub-id pub-id-type="pmid">15243398</pub-id></mixed-citation>
+          </ref>
+          <ref id="Thiazolidinediones.R66">
+            <mixed-citation publication-type="journal">Marcy TR, Britton ML, Blevins SM. Second-generation thiazolidinediones and hepatotoxicity. Ann Pharmacother 2004; 38: 1419-23. <annotation><p><italic toggle="yes">(38 year old woman on pioglitazone intermittently for 6 months developed fatigue, nausea and jaundice [bilirubin 3.1 mg/dL, ALT 490 U/L, Alk P 851 U/L], resolving within 3 months of stopping).</italic></p></annotation><pub-id pub-id-type="pmid">15266041</pub-id></mixed-citation>
+          </ref>
+          <ref id="Thiazolidinediones.R67">
+            <mixed-citation publication-type="journal">Russo MW, Galanko JA, Shrestha R, Fried MW, Watkins P. Liver transplantation for acute liver failure from drug-induced liver injury in the United States. Liver Transpl 2004; 10: 1018-23. <annotation><p><italic toggle="yes">(Among ~50,000 liver transplants done in the US between 1990 and 2002, 137 [0.2%] were done for idiosyncratic drug induced acute liver failure, 4 of which were attributed to troglitazone).</italic></p></annotation><pub-id pub-id-type="pmid">15390328</pub-id></mixed-citation>
+          </ref>
+          <ref id="Thiazolidinediones.R68">
+            <mixed-citation publication-type="journal">Misbin RI. Evaluating the safety of diabetes drugs. Perspective of a Food and Drug Administration insider. Diabetes Care 2005; 28: 2573-75. <annotation><p><italic toggle="yes">(History of evaluation, approval and subsequent issues with complications of 3 antidiabetic medications; metformin and lactic acidosis, the thiazolidinediones and acute liver failure, and pioglitazone and congestive heart failure).</italic></p></annotation><pub-id pub-id-type="pmid">16186303</pub-id></mixed-citation>
+          </ref>
+          <ref id="Thiazolidinediones.R69">
+            <mixed-citation publication-type="journal">Menees SB, Anderson MA, Chensue SW, Moseley RH. Hepatic injury in a patient taking rosiglitazone. J Clin Gastroenterol 2005; 39: 638-40. <annotation><p><italic toggle="yes">(52 year old man developed liver injury 11 months after starting rosiglitazone therapy [bilirubin 19.1 mg/dL, ALT 111 U/L, Alk P 202 U/L], with subsequent progression to liver failure with varices, ascites and persistent jaundice; death from sepsis).</italic></p></annotation><pub-id pub-id-type="pmid">16000935</pub-id></mixed-citation>
+          </ref>
+          <ref id="Thiazolidinediones.R70">
+            <mixed-citation publication-type="journal">Rajagopalan R, Iyer S, Perez A. Comparison of pioglitazone with other antidiabetic drugs for associated incidence of liver failure: no evidence of increased risk of liver failure with pioglitazone. Diab Obes Metabol 2005; 7: 161-9. <annotation><p><italic toggle="yes">(Review of healthcare database of patients on monotherapy with pioglitazone [n=1939], rosiglitazone [2290], sulfonylureas [6923] or metformin [8547] for annual rates of hepatitis or liver failure, which were not different among the different agents [0.5%, 0.4%, 0.9% and 0.7%]).</italic></p></annotation><pub-id pub-id-type="pmid">15715889</pub-id></mixed-citation>
+          </ref>
+          <ref id="Thiazolidinediones.R71">
+            <mixed-citation publication-type="journal">Chojkier M. Troglitazone and liver injury: in search of answers. Hepatology 2005; 41: 237-46. <annotation><p><italic toggle="yes">(Editorial discussing mechanism of troglitazone hepatotoxicity; no accumulation in liver, parent compound rapidly metabolized and in vitro and in vivo it does not stimulate oxidative stress, injure mitochondria, induce apoptosis or inhibit bile transport. Mechanism of injury remains unclear, but likely to be metabolic idiosyncrasy).</italic></p></annotation><pub-id pub-id-type="pmid">15657914</pub-id></mixed-citation>
+          </ref>
+          <ref id="Thiazolidinediones.R72">
+            <mixed-citation publication-type="journal">Su DH, Lai MY, Wu HP. Liver failure in a patient receiving rosiglitazone therapy. Diabet Med 2006; 23: 105-6. <annotation><p><italic toggle="yes">(60 year old woman developed jaundice, 11 months after adding rosiglitazone to glyburide and metformin [bilirubin rising from 13.8 to 22.2 mg/dL, ALT 1152 U/L, HBsAg positive], resolving within 4 months of stopping).</italic></p></annotation><pub-id pub-id-type="pmid">16409577</pub-id></mixed-citation>
+          </ref>
+          <ref id="Thiazolidinediones.R73">
+            <mixed-citation publication-type="journal">Spiller HA, Sawyer TS. Toxicology of oral antidiabetic medications. Am J Health Syst Pharm 2006; 63: 929-38. <annotation><p><italic toggle="yes">(Review on safety of oral antidiabetic medications focusing upon hypoglycemia and overdose; little information on hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">16675650</pub-id></mixed-citation>
+          </ref>
+          <ref id="Thiazolidinediones.R74">
+            <mixed-citation publication-type="journal">Wang C-H, Leung C-H, Liu S-C, Chung C-H. Safety and effectiveness of rosiglitazone in type 2 diabetes patients with nonalcoholic fatty liver disease. J Formos Med Assoc 2006; 105: 743-52. <annotation><p><italic toggle="yes">(Rosiglitazone therapy was associated with normalization of ALT levels in 1/3rd of 68 patients with fatty liver disease; no cases of hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">16959622</pub-id></mixed-citation>
+          </ref>
+          <ref id="Thiazolidinediones.R75">
+            <mixed-citation publication-type="journal">Masubuchi Y. Metabolic and non-metabolic factors determining troglitazone hepatotoxicity: a review. Drug Metab Pharmacokinet 2006; 21: 347-56. <annotation><p><italic toggle="yes">(Review of mechanisms of hepatotoxicity of troglitazone, suggesting mitochondrial membrane permeability abnormalities).</italic></p></annotation><pub-id pub-id-type="pmid">17072088</pub-id></mixed-citation>
+          </ref>
+          <ref id="Thiazolidinediones.R76">
+            <mixed-citation publication-type="journal">Kawamori R, Kadowaki T, Onji M, Seino Y, Akanuma Y; PRACTICAL Study Group. Hepatic safety profile and glycemic control of pioglitazone in more than 20,000 patients with type 2 diabetes mellitus: postmarketing surveillance study in Japan. Diabetes Res Clin Pract 2007; 76: 229-35. <annotation><p><italic toggle="yes">(Prospective evaluation of 24,993 patients taking pioglitazone; average ALT declined by 3 U/L [10 U/L in patients with known fatty liver]; 19 serious liver reactions, 4 with jaundice, but most could be attributed to other causes and no case of liver failure).</italic></p></annotation><pub-id pub-id-type="pmid">17109986</pub-id></mixed-citation>
+          </ref>
+          <ref id="Thiazolidinediones.R77">
+            <mixed-citation publication-type="journal">Mart&#x000ed;nez Odriozola P, Ibarmia Lahuerta J, Guti&#x000e9;rrez Mac&#x000ed;as A, de la Villa FM. [A new case: pioglitazone hepatotoxicity] Med Clin (Barc). 2007; 129: 158-9. Spanish. <italic toggle="yes">
+</italic><annotation><p><italic toggle="yes">(58 year old woman developed fatigue and elevation in ALT [2,760 U/L] with normal alkaline phosphatase and bilirubin 2 months after starting pioglitazone therapy, and resolving within a few weeks of stopping).</italic></p></annotation><pub-id pub-id-type="pmid">17663974</pub-id></mixed-citation>
+          </ref>
+          <ref id="Thiazolidinediones.R78">
+            <mixed-citation publication-type="journal">Chiang CK, Ho TI, Peng YS, Hsu SP, Pai MF, Yang SY, Hung KY, Wu KD. Rosiglitazone in diabetes control in hemodialysis patients with and without viral hepatitis infection: effectiveness and side effects. Diabetes Care 2007; 30: 3-7. <annotation><p><italic toggle="yes">(Among 78 diabetic patients on hemodialysis treated with rosiglitazone [including 12 with hepatitis B and 13 with hepatitis C], there were no significant changes in ALT, AST or Alk P levels during therapy).</italic></p></annotation><pub-id pub-id-type="pmid">17192324</pub-id></mixed-citation>
+          </ref>
+          <ref id="Thiazolidinediones.R79">
+            <mixed-citation publication-type="journal">Ong MMK, Latchoumycandane C, Boelsterli UA. Troglitazone-induced hepatic necrosis in an animal model of silent genetic mitochondrial abnormalities. Toxicol Sci 2007; 97: 205-213. <annotation><p><italic toggle="yes">(Mice with Sod2 knock out heterozygosity developed mild hepatic injury after 2 weeks of troglitazone therapy, suggesting increased susceptibility to oxidative mitochondrial damage).</italic></p></annotation><pub-id pub-id-type="pmid">17150972</pub-id></mixed-citation>
+          </ref>
+          <ref id="Thiazolidinediones.R80">
+            <mixed-citation publication-type="journal">Jaeschke H. Troglitazone hepatotoxicity: are we getting closer to understanding idiosyncratic liver injury? Toxicol Sci 2007; 97: 1-3. <annotation><p><italic toggle="yes">(Editorial reviewing various hypotheses on mechanisms of injury by troglitazone).</italic></p></annotation><pub-id pub-id-type="pmid">17575588</pub-id></mixed-citation>
+          </ref>
+          <ref id="Thiazolidinediones.R81">
+            <mixed-citation publication-type="journal">El-Naggar MHM, Helmy A, Moawad M, Al-Omary M, Al-Kadhi Y, Habib B. Late-onset rosiglitazone-associated acute liver failure in a patient with Hodgkin.s lymphoma. Ann Pharmacother 2008; 42: 713-8. <annotation><p><italic toggle="yes">(52 year old man developed fever and fatigue 11 months after starting rosiglitazone with pancreatitis, evolving cholestasis and Hodgkin's lymphoma [bilirubin rising from 1.1 to 49 mg/dL, ALT 33 to 488 U/L, Alk P 236 to 832 U/L], possibly Hodgkin's disease related cholestasis).</italic></p></annotation><pub-id pub-id-type="pmid">18397974</pub-id></mixed-citation>
+          </ref>
+          <ref id="Thiazolidinediones.R82">
+            <mixed-citation publication-type="journal">Aithal GP, Thomas JA, Kaye PV, Lawson A, Ryder SD, Spendlove I, Austin AS, et al. Randomized, placebo-controlled trial of pioglitazone in nondiabetic subjects with nonalcoholic steatohepatitis. Gastroenterology 2008; 135: 1176-84. <annotation><p><italic toggle="yes">(74 nondiabetic patients with nonalcoholic steatohepatitis randomized to received pioglitazone or placebo; the treatment group showed improved histology and biochemical parameters, with no significant hepatic adverse events).</italic></p></annotation><pub-id pub-id-type="pmid">18718471</pub-id></mixed-citation>
+          </ref>
+          <ref id="Thiazolidinediones.R83">
+            <mixed-citation publication-type="journal">Julie NL, Julie IM, Kende AI, Wilson GL. Mitochondrial dysfunction and delayed hepatotoxicity: another lesson from troglitazone. Diabetologia 2008; 51: 2108-16. <annotation><p><italic toggle="yes">(Long term follow up on 11 cases of troglitazone hepatotoxicity, all of which had some degree of residual liver injury or cirrhosis which the authors interpreted as evidence of delayed mitochondrial dysfunction).</italic></p></annotation><pub-id pub-id-type="pmid">18726085</pub-id></mixed-citation>
+          </ref>
+          <ref id="Thiazolidinediones.R84">
+            <mixed-citation publication-type="journal">Chalasani N, Fontana RJ, Bonkovsky HL, Watkins PB, Davern T, Serrano J, Yang H, Rochon J; Drug Induced Liver Injury Network (DILIN). Causes, clinical features, and outcomes from a prospective study of drug-induced liver injury in the United States. Gastroenterology 2008; 135: 1924-34. <annotation><p><italic toggle="yes">(Among 300 cases of drug induced liver disease in the US collected between 2004 and 2008, no case was attributed to rosiglitazone or pioglitazone).</italic></p></annotation><pub-id pub-id-type="pmid">18955056</pub-id></mixed-citation>
+          </ref>
+          <ref id="Thiazolidinediones.R85">
+            <mixed-citation publication-type="journal">Tolman KG, Freston JW, Kupfer S, Perez A. Liver safety in patients with type 2 diabetes treated with pioglitazone: results from a 3-year, randomized, comparator-controlled study in the US. Drug Saf 2009; 32: 787-800. <annotation><p><italic toggle="yes">(Observational cohort study of 2097 patients with diabetes randomized to receive either glyburide or pioglitazone and followed for 3 years; adverse hepatic events [ALT &#x0003e; 3 times ULN] occurred in 0.38% of the glyburide group, but in none of the pioglitazone group).</italic></p></annotation><pub-id pub-id-type="pmid">19670918</pub-id></mixed-citation>
+          </ref>
+          <ref id="Thiazolidinediones.R86">
+            <mixed-citation publication-type="journal">Rizos CV, Elisaf MS, Mikhailidis DP, Liberopoulos EN. How safe is the use of thiazolidinediones in clinical practice? Exp Opin Drug Saf 2009; 8: 15-32. <annotation><p><italic toggle="yes">(Review of the safety of thiazolidinediones; the authors argue that the toxicity seen with troglitazone is not a class effect).</italic></p></annotation><pub-id pub-id-type="pmid">19236215</pub-id></mixed-citation>
+          </ref>
+          <ref id="Thiazolidinediones.R87">
+            <mixed-citation publication-type="journal">Floyd JS, Barbehenn E, Lurie P, Wolfe SM. Case series of liver failure associated with rosiglitazone and pioglitazone. Pharmacoepidemiol Drug Saf 2009; 18: 1238-43. <annotation><p><italic toggle="yes">(Analysis of adverse event reports to FDA from 1997 and 2006 identified 11 cases of liver failure attributable to rosiglitazone and 10 to pioglitazone; average age 66 years, latency 9 weeks [IQ ranges bilirubin 4.2-29.2 mg/dL, ALT 463-2144 U/L, Alk P 243-511 U/L], 80% mortality; authors estimated incidence of acute liver failure to be ~1.7 per million patient-years of exposure to either agent).</italic></p></annotation><pub-id pub-id-type="pmid">19623674</pub-id></mixed-citation>
+          </ref>
+          <ref id="Thiazolidinediones.R88">
+            <mixed-citation publication-type="journal">Osei SY, Koro CE, Cobitz AR, Kolatkar NS, Stender M. Commentary on 'Case series of liver failure associated with rosiglitazone and pioglitazone' by Floyd et al. Pharmacoepidemiol Drug Saf 2009; 18: 1244-6. <annotation><p><italic toggle="yes">(Commentary on Floyd et al. [2009] from the sponsor of rosiglitazone questioned whether the cases were related to rosiglitazone; among 26,983 subjects monitored in clinical trials of rosiglitazone, there were no cases of hepatic failure and few with ALT elevations &#x0003e;10 times ULN [0.02 per 100-patient years]).</italic></p></annotation><pub-id pub-id-type="pmid">19655316</pub-id></mixed-citation>
+          </ref>
+          <ref id="Thiazolidinediones.R89">
+            <mixed-citation publication-type="journal">Beiderbeck AB, Sakaguchi M. Commentary on 'Case series of liver failure associated with rosiglitazone and pioglitazone' by James Floyd et al. Pharmacoepidemiol Drug Saf 2009; 18: 1247-9. <annotation><p><italic toggle="yes">(Commentary on Floyd et al. [2009] from the sponsor of pioglitazone questioned whether the cases were related to pioglitazone as opposed to the background rate of acute liver failure in the population, particularly among patients with diabetes).</italic></p></annotation><pub-id pub-id-type="pmid">19842093</pub-id></mixed-citation>
+          </ref>
+          <ref id="Thiazolidinediones.R90">
+            <mixed-citation publication-type="journal">Shah P, Mudaliar S. Pioglitazone: side effect and safety profile. Expert Opin Drug Saf 2010; 9: 347-54. <annotation><p><italic toggle="yes">(Review of the side effects of pioglitazone mentioning that serum ALT elevations greater than 3 times the ULN occurred in 0.26% of 1526 pioglitazone treated, but also in 0.25% of 793 placebo treated patients; no discussion of clinically apparent cases of liver injury).</italic></p></annotation><pub-id pub-id-type="pmid">20175701</pub-id></mixed-citation>
+          </ref>
+          <ref id="Thiazolidinediones.R91">
+            <mixed-citation publication-type="journal">Agarwal VK, McHutchison JG, Hoofnagle JH; Drug-Induced Liver Injury Network. Important elements for the diagnosis of drug-induced liver injury. Clin Gastroenterol Hepatol 2010; 8: 463-70. (<annotation><p><italic toggle="yes">Analysis of 50 published cases reports of hepatotoxicity from the thiazolidinediones for completeness of data elements, finding that most reports failed to provide a large number elements needed to assess causality).</italic></p></annotation><pub-id pub-id-type="pmid">20170750</pub-id></mixed-citation>
+          </ref>
+          <ref id="Thiazolidinediones.R92">
+            <mixed-citation publication-type="journal">Sanyal AJ, Chalasani N, Kowdley KV, McCullough A, Diehl AM, Bass NM, Neuschwander-Tetri BA, et al.; NASH CRN. Pioglitazone, Vitamin E, or placebo for nonalcoholic steatohepatitis. N Engl J Med 2010; 362: 1675-85. <annotation><p><italic toggle="yes">(Controlled trial of 2 year course of pioglitazone vs placebo in 167 patients with nonalcoholic steatohepatitis showed significant improvements in serum ALT levels and liver histology and no case of hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">20427778</pub-id></mixed-citation>
+          </ref>
+          <ref id="Thiazolidinediones.R93">
+            <mixed-citation publication-type="journal">Ratziu V, Charlotte F, Bernhardt C, Giral P, Halbron M, Lenaour G, Hartmann-Heurtier A, et al.; LIDO Study Group. Long-term efficacy of rosiglitazone in nonalcoholic steatohepatitis: results of the fatty liver improvement by rosiglitazone therapy (FLIRT 2) extension trial. Hepatology 2010; 51: 445-53. <annotation><p><italic toggle="yes">(53 patients who participated in a one year placebo controlled trial of rosiglitazone for nonalcoholic steatohepatitis were treated for an additional 2 years; none developed evidence of hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">19877169</pub-id></mixed-citation>
+          </ref>
+          <ref id="Thiazolidinediones.R94">
+            <mixed-citation publication-type="journal">Reuben A, Koch DG, Lee WM; Acute Liver Failure Study Group. Drug-induced acute liver failure: results of a U.S. multicenter, prospective study. Hepatology 2010; 52: 2065-76. <annotation><p><italic toggle="yes">(Among 1198 patients with acute liver failure enrolled in a US prospective study between 1998 and 2007, 133 [11%] were attributed to drug induced liver injury, of which 4 were due to troglitazone, but none to other antidiabetic medications).</italic></p></annotation><pub-id pub-id-type="pmid">20949552</pub-id></mixed-citation>
+          </ref>
+          <ref id="Thiazolidinediones.R95">
+            <mixed-citation publication-type="journal">Tolman KG. The safety of thiazolidinediones. Expert Opin Drug Saf 2011; 10: 419-28. (<annotation><p><italic toggle="yes">Review of side effects of pioglitazone and rosiglitazone indicating that clinically apparent liver injury from these agents is rare and idiosyncratic, and suggests that acute liver failure is no more common with these agents than other antidiabetic medications).</italic></p></annotation><pub-id pub-id-type="pmid">21366501</pub-id></mixed-citation>
+          </ref>
+          <ref id="Thiazolidinediones.R96">
+            <mixed-citation publication-type="journal">Ikeda T. Drug-induced idiosyncratic hepatotoxicity: prevention strategy developed after the troglitazone case. Drug Metab Pharmacokinet 2011; 26: 60-70. <annotation><p><italic toggle="yes"> (Review of mechanisms of troglitazone hepatotoxicity and what features might have predicted these effects, a major factor being the amount of covalent binding of the drug to intracellular proteins in in vitro systems).</italic></p></annotation><pub-id pub-id-type="pmid">21178300</pub-id></mixed-citation>
+          </ref>
+          <ref id="Thiazolidinediones.R97">
+            <mixed-citation publication-type="journal">Berthet S, Olivier P, Montastruc JL, Lapeyre-Mestre M. Drug safety of rosiglitazone and pioglitazone in France: a study using the French PharmacoVigilance database. BMC Clin Pharmacol 2011; 11: 5. <annotation><p><italic toggle="yes">(Analysis of French Pharmacovigilance reporting system found that pioglitazone and rosiglitazone, in comparison to other agents, were associated with increased risk for adverse event reports for edema and heart failure, but not liver injury).</italic></p></annotation><pub-id pub-id-type="pmid">21609444</pub-id></mixed-citation>
+          </ref>
+          <ref id="Thiazolidinediones.R98">
+            <mixed-citation publication-type="journal">Drugs for type 2 diabetes. Treat Guidel Med Lett 2011; 9 (108): 47-54. <annotation><p><italic toggle="yes"> (Concise review of role of current antidiabetic medications in management of type 2 diabetes).</italic></p></annotation><pub-id pub-id-type="pmid">21778966</pub-id></mixed-citation>
+          </ref>
+          <ref id="Thiazolidinediones.R99">
+            <mixed-citation publication-type="journal">Kung J, Henry RR. Thiazolidinedione safety. Expert Opin Drug Saf 2012; 11: 565-79. (Review of adverse events of thiazolidinediones, focusing upon cardiac complications and the risk of myocaridal infaction, particularly with rosiglitazone;<annotation><p><italic toggle="yes">pioglitazone has been implicated in at least 10 cases of liver failure, but prospective studies have shown no increase in hepatotoxicity; nevertheless, monitoring of serum ALT levels is recommended). </italic></p></annotation><pub-id pub-id-type="pmid">22616948</pub-id></mixed-citation>
+          </ref>
+          <ref id="Thiazolidinediones.R100">
+            <mixed-citation publication-type="journal">Bj&#x000f6;rnsson ES, Bergmann OM, Bj&#x000f6;rnsson HK, Kvaran RB, Olafsson S. Incidence, presentation and outcomes in patients with drug-induced liver injury in the general population of Iceland. Gastroenterology 2013; 144: 1419-25. <annotation><p><italic toggle="yes">(In a population based study of drug induced liver injury from Iceland, 96 cases were identified over a 2 year period, none of which were attributed to a thiazolidinedione or other antidiabetic medication).</italic></p></annotation><pub-id pub-id-type="pmid">23419359</pub-id></mixed-citation>
+          </ref>
+          <ref id="Thiazolidinediones.R101">
+            <mixed-citation publication-type="journal">Hern&#x000e1;ndez N, Bessone F, S&#x000e1;nchez A, di Pace M, Brahm J, Zapata R, A Chirino R, et al. Profile of idiosyncratic drug induced liver injury in Latin America. An analysis of published reports. Ann Hepatol 2014; 13: 231-9. <annotation><p><italic toggle="yes">(Systematic review of literature of drug induced liver injury from Latin American countries published between 1996 and 2012 identified 176 cases, but none of the cases were attributed to a thiazolidinedione or other anti-diabetic medication).</italic></p></annotation><pub-id pub-id-type="pmid">24552865</pub-id></mixed-citation>
+          </ref>
+          <ref id="Thiazolidinediones.R102">
+            <mixed-citation publication-type="journal">Chalasani N, Bonkovsky HL, Fontana R, Lee W, Stolz A, Talwalkar J, Reddy KR, et al.; United States Drug Induced Liver Injury Network. Features and outcomes of 899 patients with drug-induced liver injury: The DILIN Prospective Study. Gastroenterology 2015; 148: 1340-52.e7. <annotation><p><italic toggle="yes">(Among 899 cases of drug induced liver injury enrolled in a US prospective study between 2004 and 2013, 4 cases [0.5%] were attributed to antidiabetic medication, but none to a thiazolidinedione).</italic></p></annotation><pub-id pub-id-type="pmid">25754159</pub-id></mixed-citation>
+          </ref>
+          <ref id="Thiazolidinediones.R103">
+            <mixed-citation publication-type="journal">Drugs for type 2 diabetes. Med Lett Drugs Ther 2017; 59 (1512): 9-18. <annotation><p><italic toggle="yes"> (Concise review of drug therapy of type 2 diabetes mentions that two thiazolidediones are available in the US for use as monotherpay or in combination with other hypoglycemic agents; both are associated with weight gain and increased risk for heart failure; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">28076339</pub-id></mixed-citation>
+          </ref>
+          <ref id="Thiazolidinediones.R104">
+            <mixed-citation publication-type="journal">Mak A, Kato R, Weston K, Hayes A, Uetrecht J. Editor's highlight: an impaired immune tolerance animal model distinguishes the potential of troglitazone/pioglitazone and tolcapone/entacapone to cause IDILI. Toxicol Sci 2018; 161: 412-20. <annotation><p><italic toggle="yes">(In a murine model with impaired immune tolerance, exposure to troglitazone resulted in ALT elevations and hepatic injury after 3-5 weeks, whereas exposure to pioglitazone did not).</italic></p></annotation><pub-id pub-id-type="pmid">29087505</pub-id></mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec id="Thiazolidinediones.OTHER_REFERENCE_LINKS" sec-type="link-group">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=(thiazolidinediones/AE)+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%222009/12/01%22%5BEDat%5D%3A%222999/12/31%22%5BEDat%5D)">Recent References on Thiazolidinediones: from PubMed.gov</ext-link>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=thiazolidinediones">Trials on Thiazolidinediones: from ClinicalTrials.gov</ext-link>
+            </p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

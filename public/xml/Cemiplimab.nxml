@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Cemiplimab" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Cemiplimab</book-part-id>
+      <title-group>
+        <title>Cemiplimab</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>10</day>
+          <month>4</month>
+          <year>2019</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Celecoxib" document-type="chapter">Celecoxib</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="CNSStimulants" document-type="chapter">Central Nervous System (CNS) Stimulants</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Cemiplimab.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Cemiplimab.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Cemiplimab is a human monoclonal antibody to the programmed cell death receptor 1 (PD-1), a checkpoint inhibitor used in the immunotherapy of cancer. Cemiplimab therapy has many adverse events and particularly immune-related conditions including acute hepatitis, which can be serious and even life threatening.</p>
+        </sec>
+        <sec id="Cemiplimab.Background">
+          <title>Background</title>
+          <p>Cemiplimab (ce mip' li mab) is a human recombinant monoclonal IgG4 antibody to the programmed cell death receptor 1 (PD-1) which has distinctive immunomodulatory activity and is used in cancer immunotherapy. PD-1 is an important checkpoint molecule that is expressed on activated T and B cells and macrophages. Engagement of the PD-1 receptor modulates and down regulates T cell responses. Binding of the monoclonal antibody to the PD-1 receptor prevents ligand attachment and activation of the programmed cell death pathways, thereby allowing for a continued activation and proliferation of T cells. The subsequent enhancement of cytotoxic reactivity may play a beneficial role in cancer immunotherapy by breaking immunological tolerance to cancer cell neo-antigens. In prelicensure clinical studies, cemiplimab therapy resulted in objective responses in patients with advanced, metastatic cutaneous squamous cell carcinoma, and a proportion of patients had a long term remission. Cemiplimab was approved for use in cutaneous squamous cell carcinoma in the United States in 2018 and is currently under evaluation in several other forms of cancer, including non-small cell lung cancer, renal, ovarian and uterine carcinoma, lymphomas and multiple myeloma. Cemiplimab is available in solution in single use vials of 350 mg in 7 mL (50 mg/mL) under the brand name Libtayo. The recommended dose is 350 mg intravenously every 3 weeks. Side effects are common and include fatigue, nausea, musculoskeletal pain, rash and infusion reactions. Between 5% and 20% of patients treated with checkpoint inhibitors develop immune-related side effects as a result of immune enhancement including enterocolitis, dermatitis, endocrinopathy, pneumonitis, neuropathy, nephritis and hepatitis. Most of these reactions respond to dose interruption and/or immunosuppressive therapy, but some have resulted in fatalities and some have required long term therapy. Early recognition and prompt management of these side effects is an integral component of proper use of checkpoint inhibitors such as cemiplimab.</p>
+        </sec>
+        <sec id="Cemiplimab.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>Mild-to-moderate serum aminotransferase elevations are common (10% to 20%) during cemiplimab therapy but are usually self-limited and resolve even with continuing cyclic therapy. Serum ALT elevations above 5 times the upper limit of normal (ULN) occur in 3% of patients, and a proportion of these individuals develop clinically apparent liver injury that can be severe. Typically, onset of immune mediated liver injury arises after 2 to 6 cycles of checkpoint inhibitor therapy. The pattern of enzyme elevation is usually hepatocellular but may be mixed or even cholestatic. Monitoring of serum enzymes is recommended with dose interruption for values above 3 times the ULN and discontinuation for values above 10 times the ULN. When serum aminotransferase levels remain elevated despite discontinuation or with development of symptoms or jaundice, early intervention with immunosuppressive therapy is prudent and generally results in rapid resolution. Liver histology usually demonstrates an acute hepatitis-like pattern with focal or confluent necrosis and prominent lymphocytic infiltrates of activated T cells, which is compatible with an immune mediated hepatic injury. Autoantibodies are usually not present and immunoglobulin levels may not be elevated. Restarting monoclonal antibody therapy can result in recurrence of injury, although corticosteroid treatment may block recurrence. Immune mediated hepatitis appears to be more frequent with anti-CTLA-4 than with anti-PD-1 or anti-PD-L1 checkpoint inhibitors. Among 534 patients treated with cemiplimab in prelicensure studies, 11 (2.1%) developed hepatitis, all of whom required corticosteroid therapy and that was fatal in 1 (0.2%).</p>
+          <p>The effects of PD-1 inhibition on chronic hepatitis B have not been reported as enrollment criteria in the clinical trials of checkpoint inhibitors have usually excluded patients with chronic viral hepatitis. However, it is likely that anti-PD-1 treatment would exacerbate chronic hepatitis B by enhancing T cell cytotoxicity to viral antigens. Interestingly, checkpoint immunotherapy has not been found to be deleterious in patients with chronic hepatitis C and in some cases resulted in a decrease in viral levels.</p>
+          <p>Likelihood score: C (probable cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Cemiplimab.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The mechanism of liver injury due to cemiplimab is likely to be immunologically mediated, and many cases of checkpoint related, immune mediated hepatitis have appeared to respond to corticosteroid or immunosuppressive therapy allowing for continuation or restarting of therapy.</p>
+        </sec>
+        <sec id="Cemiplimab.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>Guidelines for management of patients receiving cemiplimab recommend monitoring of liver tests and interrupting therapy for patients who develop serum aminotransferase elevations above 3 times the ULN and discontinuing treatment for values above 10 times the ULN. Corticosteroid therapy can be considered for patients with persistent ALT elevations or if symptoms or jaundice arise, initiating therapy with high dose intravenous methylprednisolone and switching to oral prednisone after 1 to 2 days, continuing tapering doses for at least 30 days. Most cases of hepatitis due to checkpoint inhibitors resolve with prompt institution of immunosuppressive therapy. The few fatal cases that have been reported during immunotherapy with checkpoint inhibitors occurred in patients who had other severe immune related adverse events (Stevens Johnson syndrome, capillary leak syndrome) or who had a delay in starting corticosteroid therapy. Patients with immune related adverse events due to cemiplimab can frequently restart therapy once the adverse event has resolved, although concurrent immunosuppressive therapy may be necessary.</p>
+          <p>Drug Class: <related-object source-id="livertox" document-id="AntineoplasticAgents">Antineoplastic Agents</related-object>, <related-object source-id="livertox" document-id="MonoclonalAntibodies">Monoclonal Antibodies</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Cemiplimab.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <boxed-text position="anchor" id="Cemiplimab.BPI" orientation="portrait">
+          <p>
+            <bold>REPRESENTATIVE TRADE NAMES</bold>
+          </p>
+          <p>Cemiplimab &#x02013; Libtayo&#x000ae;</p>
+          <p>
+            <bold>DRUG CLASS</bold>
+          </p>
+          <p>Antineoplastic Agents</p>
+          <p>
+            <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?label=all&#x00026;query=Cemiplimab">COMPLETE LABELING</ext-link>
+          </p>
+          <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+        </boxed-text>
+      </sec>
+      <sec id="Cemiplimab.CHEMICAL_FORMULA_AND_STRUCTUR">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Cemiplimab.T1" position="anchor" orientation="portrait">
+          <table>
+            <thead>
+              <tr>
+                <th id="hd_h_Cemiplimab.T1_1_1_1_1" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Cemiplimab.T1_1_1_1_2" rowspan="1" colspan="1">CAS REGISTRY NO.</th>
+                <th id="hd_h_Cemiplimab.T1_1_1_1_3" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Cemiplimab.T1_1_1_1_4" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Cemiplimab.T1_1_1_1_1" rowspan="1" colspan="1">Cemiplimab</td>
+                <td headers="hd_h_Cemiplimab.T1_1_1_1_2" rowspan="1" colspan="1">
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://381128019">1801342-60-8</ext-link>
+                </td>
+                <td headers="hd_h_Cemiplimab.T1_1_1_1_3" rowspan="1" colspan="1">Monoclonal Antibody</td>
+                <td headers="hd_h_Cemiplimab.T1_1_1_1_4" rowspan="1" colspan="1">Not Available</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Cemiplimab.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 10 April 2019</p>
+        <ref-list id="Cemiplimab.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Cemiplimab.R1">
+            <mixed-citation publication-type="other">Wellstein A, Giaccone G, Atkins MB, Sausville EA. Pathway-targeted therapies: monoclonal antibodies, protein kinase inhibitors, and various small molecules. In, Brunton LL, Hilal-Danan R, Knollman BC, eds. Goodman &#x00026; Gilman's the pharmacological basis of therapeutics. 13th ed. New York: McGraw-Hill, 2018, pp. 1203-36.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Cemiplimab.R2">
+            <mixed-citation publication-type="other">
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.accessdata.fda.gov/drugsatfda_docs/nda/2018/761097Orig1s000MultidisciplineR.pdf">https://www.accessdata.fda.gov/drugsatfda_docs/nda/2018/761097Orig1s000MultidisciplineR.pdf</ext-link>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(FDA Clinical Review of safety and efficacy of cemiplimab with specific discussion of immune-mediated hepatitis: pages 118-9).</italic>
+                </p>
+              </annotation>
+            </mixed-citation>
+          </ref>
+          <ref id="Cemiplimab.R3">
+            <mixed-citation publication-type="journal">Kleiner DE, Berman D. Pathologic changes in ipilimumab-related hepatitis in patients with metastatic melanoma. Dig Dis Sci 2012; 57: 2233-40. <annotation><p><italic toggle="yes">(Clinical and histological features of 5 patients with acute liver injury due to ipilimumab; 3 men and 2 women, ages 43 to 76 years, arising after 2-4 courses, 39-71 days after initial dose [peak bilirubin 1.5-5.1 mg/dL, ALT 326-3070 U/L, Alk P 206-427 U/L], only one had autoantibodies, resolving with immunosuppressive therapy within 1-4 months; one had recurrence on rechallenge; liver biopsies showed acute hepatitis, usually with prominent inflammation, interface hepatitis and confluent necrosis: Case 1 Ipilimumab).</italic></p></annotation><pub-id pub-id-type="pmid">22434096</pub-id></mixed-citation>
+          </ref>
+          <ref id="Cemiplimab.R4">
+            <mixed-citation publication-type="journal">Teply BA, Lipson EJ. Identification and management of toxicities from immune checkpoint-blocking drugs. Oncology (Williston Park) 2014; 28 Suppl 3: 30-8. <annotation><p><italic toggle="yes">(Clinical review of the toxicities of immune checkpoint blocking drugs such as ipilimumab, pembrolizumab and nivolumab; mentions that elevations of serum aminotransferase elevations should lead to careful exclusion of other causes of liver injury and increased monitoring; that elevations above 3 times ULN should lead to withholding the drug and starting corticosteroids; that elevations above 5 times ULN should lead to hospital admission and immediate administration of high doses of corticosteroids).</italic></p></annotation><pub-id pub-id-type="pmid">25384885</pub-id></mixed-citation>
+          </ref>
+          <ref id="Cemiplimab.R5">
+            <mixed-citation publication-type="journal">Tumeh PC, Harview CL, Yearley JH, Shintaku IP, Taylor EJ, Robert L, Chmielowski B, et al. PD-1 blockade induces responses by inhibiting adaptive immune resistance. Nature 2014; 515 (7528): 568-71. <annotation><p><italic toggle="yes">(Analysis of expression of PD-1 and its ligand on CD8+ T cells at the margins of melanoma tumors before and after treatment with pembrolizumab showed that responders to therapy typically had high levels of expression of PD-1 and its ligand).</italic></p></annotation><pub-id pub-id-type="pmid">25428505</pub-id></mixed-citation>
+          </ref>
+          <ref id="Cemiplimab.R6">
+            <mixed-citation publication-type="journal">Sharma P, Allison JP. The future of immune checkpoint therapy. Science 2015; 348 (6230): 56-61. <annotation><p><italic toggle="yes">(Commentary and review of the rationale, history, clinical efficacy and mechanism of action of immune checkpoint therapy).</italic></p></annotation><pub-id pub-id-type="pmid">25838373</pub-id></mixed-citation>
+          </ref>
+          <ref id="Cemiplimab.R7">
+            <mixed-citation publication-type="journal">Abdel-Rahman O, El Halawani H, Fouad M. Risk of elevated transaminases in cancer patients treated with immune checkpoint inhibitors: a meta-analysis. Expert Opin Drug Saf 2015; 14: 1507-18. <annotation><p><italic toggle="yes">(Analysis of publications on checkpoint inhibitors indicate that therapy is associated with higher rates of ALT elevations).</italic></p></annotation><pub-id pub-id-type="pmid">26394770</pub-id></mixed-citation>
+          </ref>
+          <ref id="Cemiplimab.R8">
+            <mixed-citation publication-type="journal">Markham A, Duggan S. Cemiplimab: First global approval. Drugs 2018 Nov 19 [Epub ahead of print] <annotation><p><italic toggle="yes">(Review of the history of development, mechanism of action, pharmacology, clinical efficacy and safety of cemiplimab; mentions that immune mediated hepatitis occurred in 2.1% of 534 treated subjects).</italic></p></annotation><pub-id pub-id-type="pmid">30456447</pub-id></mixed-citation>
+          </ref>
+          <ref id="Cemiplimab.R9">
+            <mixed-citation publication-type="journal">Migden MR, Rischin D, Schmults CD, Guminski A, Hauschild A, Lewis KD, Chung CH, et al. PD-1 blockade with cemiplimab in advanced cutaneous squamous-cell carcinoma. N Engl J Med 2018; 379: 341-51. <annotation><p><italic toggle="yes">(Among 59 patients with metastatic cutaneous squamous cell carcinoma treated with cemiplimab the objective response rate was 47% and common adverse events were diarrhea [27%], fatigue [24%], nausea [17%], constipation [15%] and rash [15%]; elevations in ALT levels occurred in 8% of subjects, but were less than 5 times ULN in all).</italic></p></annotation><pub-id pub-id-type="pmid">29863979</pub-id></mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec id="Cemiplimab.OTHER_REFERENCE_LINKS" sec-type="link-group">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=Cemiplimab+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D%3A%222999/12/31%22%5BEDat%5D)">Recent References on Cemiplimab: from PubMed.gov</ext-link>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Cemiplimab">Trials on Cemiplimab: from ClinicalTrials.gov</ext-link>
+            </p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

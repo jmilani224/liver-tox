@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="CatsClaw" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">CatsClaw</book-part-id>
+      <title-group>
+        <title>Cat's Claw</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>18</day>
+          <month>2</month>
+          <year>2019</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Cascara" document-type="chapter">Cascara</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Ceftriaxone" document-type="chapter">Ceftriaxone</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="CatsClaw.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="CatsClaw.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Cat's claw is an herbal medicine derived from the bark of the Uncaria tomentosa vine which is used for its antiinflammatory and immune modulating effects in the treatment of fever, fatigue, muscle and joint aches and the symptoms of chronic inflammatory conditions. Cat&#x02019;s claw has not been implicated in causing liver injury.</p>
+        </sec>
+        <sec id="CatsClaw.Background">
+          <title>Background</title>
+          <p>Cat's claw is a large vine that grows in the Amazon River basin and has been used in South American traditional medicine for centuries, its name referring to the curved thorns found along its woody vines that resemble cats&#x02019; claws. Cat's claw includes two species, Uncaria tomentosa and Uncaria guinaensis, and the extract is usually made from their root bark most commonly from U. tomentosa. Cat's claw is used as an analgesic and antiinflammatory agent to treat gastrointestinal, rheumatologic and other chronic inflammatory conditions. Constituents of cat&#x02019;s claw extracts include oxindole alkaloids (isopteropodine, pteropodine, rhynchophylline, mytraphylline, speciophylline, uncarine F, uncarine E), indole alkaloidal glucosides (cadambine, 3-dihydrocadambine, and 3-isodihydrocadambine), quinovic acid glycosides, tannins, polyphenols, catechins and beta sitosterol. In vitro, extracts of cat&#x02019;s claw have immune modulatory, antiviral and antimutagenic activities. The active ingredients of cat&#x02019;s claw extracts are not completely well defined. Studies in cell culture have shown that the oxindole alkaloids decrease TNF alpha levels by inhibition of NF-kappa B signaling, a finding that has been claimed to be the biologic basis for its antiinflammatory activity. On the other hand, the polyphenols and catechins found in the bark also have antioxidant actions. In humans, the evidence for efficacy of cat&#x02019;s claw extracts has been mixed. While small controlled trials have suggested a beneficial effect on pain in chronic rheumatoid and osteoarthritis, other studies have been inconclusive, the improvements in clinical symptoms being similar to those with placebo or comparator arms. Nevertheless, cat&#x02019;s claw is widely used and claimed to have antiinflammatory and analgesic effects and is given often in combination with other nutritional supplements (such as glucosamine and chondroitin) or with conventional therapies. The usual doses used vary by preparation, from 30 to 300 mg of extract once daily. Side effects of orally administered cat&#x02019;s claw are minor and may include nausea, gastrointestinal upset and diarrhea.</p>
+        </sec>
+        <sec id="CatsClaw.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>Despite being widely used, cat's claw has not been implicated in cases of clinically apparent liver injury and, in prospective studies, has had no effect on serum enzyme levels. In vitro studies have demonstrated antioxidant activity of cat&#x02019;s claw extracts which may be hepatoprotective. Because cat&#x02019;s claw inhibits microsomal CYP 3A4 activity, it has a potential to cause herb-drug interactions and raise the levels of other drugs that are metabolized by CYP 3A4.</p>
+          <p>Likelihood score: E (unlikely cause of clinically apparent liver injury).</p>
+          <p>Other Names: U&#x000f1;a de Gato, Hawk's Claw</p>
+          <p>Drug Class: <related-object source-id="livertox" document-id="HerbalDietarySuppl">Herbal and Dietary Supplements</related-object></p>
+        </sec>
+      </sec>
+      <sec id="CatsClaw.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <boxed-text position="anchor" id="CatsClaw.BPI" orientation="portrait">
+          <p>
+            <bold>REPRESENTATIVE TRADE NAMES</bold>
+          </p>
+          <p>Cat's Claw &#x02013; Generic</p>
+          <p>
+            <bold>DRUG CLASS</bold>
+          </p>
+          <p>Herbal and Dietary Supplements</p>
+          <p>
+            <bold>COMPLETE LABELING</bold>
+          </p>
+          <p>
+            <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://nccih.nih.gov/health/catclaw">Fact Sheet at National Center for Complementary and Integrative Health</ext-link>
+          </p>
+        </boxed-text>
+      </sec>
+      <sec id="CatsClaw.CHEMICAL_FORMULA_AND_STRUCTURE">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="CatsClaw.T1" position="anchor" orientation="portrait">
+          <table>
+            <thead>
+              <tr>
+                <th id="hd_h_CatsClaw.T1_1_1_1_1" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_CatsClaw.T1_1_1_1_2" rowspan="1" colspan="1">CAS REGISTRY NUMBER</th>
+                <th id="hd_h_CatsClaw.T1_1_1_1_3" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_CatsClaw.T1_1_1_1_4" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_CatsClaw.T1_1_1_1_1" rowspan="1" colspan="1">Cat's Claw</td>
+                <td headers="hd_h_CatsClaw.T1_1_1_1_2" rowspan="1" colspan="1">C300000000</td>
+                <td headers="hd_h_CatsClaw.T1_1_1_1_3" rowspan="1" colspan="1">Herbal Mixture</td>
+                <td headers="hd_h_CatsClaw.T1_1_1_1_4" rowspan="1" colspan="1">Not applicable</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="CatsClaw.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 18 February 2019</p>
+        <ref-list id="CatsClaw.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="CatsClaw.R1">
+            <mixed-citation publication-type="other">Zimmerman HJ. Unconventional drugs. Miscellaneous drugs and diagnostic chemicals. In, Zimmerman, HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott,1999: pp. 731-4.<annotation><p><italic toggle="yes">(Expert review of hepatotoxicity published in 1999; cat's claw is not discussed).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="CatsClaw.R2">
+            <mixed-citation publication-type="other">Seeff L, Stickel F, Navarro VJ. Hepatotoxicity of herbals and dietary supplements. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013, pp. 631-58.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of herbal and dietary supplements [HDS]; cat's claw is not discussed).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="CatsClaw.R3">
+            <mixed-citation publication-type="other">Cat&#x02019;s claw. In, PDR for Herbal Medicines. 4th ed. Montvale, New Jersey: Thomson Healthcare Inc. 2007: pp. 319-20.<annotation><p><italic toggle="yes">(Compilation of short monographs on herbal medications and dietary supplements).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="CatsClaw.R4">
+            <mixed-citation publication-type="journal">Sandoval M, Charbonnet RM, Okuhama NN, Roberts J, Krenova Z, Trentacosti AM, Miller MJ. Cat's claw inhibits TNF alpha production and scavenges free radicals: role in cytoprotection. Free Radic Biol Med 2000; 29: 71-8. <annotation><p><italic toggle="yes">(In vitro studies of cat's claw demonstrated inhibition of free radical generation and TNF alpha production in response to lipopolysaccharide as well as antioxidant effects but at higher levels, suggesting that the antiinflammatory effects of cat's claw are due to inhibition of free radical generation).</italic></p></annotation><pub-id pub-id-type="pmid">10962207</pub-id></mixed-citation>
+          </ref>
+          <ref id="CatsClaw.R5">
+            <mixed-citation publication-type="journal">Piscoya J, Rodriguez Z, Bustamante SA, Okuhama NN, Miller MJ, Sandoval M. Efficacy and safety of freeze-dried cat's claw in osteoarthritis of the knee: mechanisms of action of the species Uncaria guianensis. Inflamm Res 2001; 50: 442-8. <annotation><p><italic toggle="yes">(Among 45 patients with painful osteoarthritis of the knee treated with cat's claw [100 mg once daily] or placebo for 4 weeks, pain scores decreased more with cat's claw, but night time pain and swelling did not change; cat's claw was well tolerated and there were no serious adverse events or changes in serum ALT and AST values during treatment).</italic></p></annotation><pub-id pub-id-type="pmid">11603848</pub-id></mixed-citation>
+          </ref>
+          <ref id="CatsClaw.R6">
+            <mixed-citation publication-type="journal">Mur E, Hartig F, Eibl G, Schirmer M. Randomized double-blind trial of an extract from the pentacyclic alkaloid-chemotype of uncaria tomentosa for the treatment of rheumatoid arthritis. J Rheumatol 2002; 29: 678-81. <annotation><p><italic toggle="yes">(In a randomized trial of cat's claw [30 mg daily] vs placebo in 40 patients with rheumatoid arthritis, adverse events were uncommon and minor, the most common being dyspepsia and pruritus; laboratory results did not change).</italic></p></annotation><pub-id pub-id-type="pmid">11950006</pub-id></mixed-citation>
+          </ref>
+          <ref id="CatsClaw.R7">
+            <mixed-citation publication-type="journal">Miller MJ, Mehta K, Kunte S, Raut V, Gala J, Dhumale R, Shukla A, et al. Early relief of osteoarthritis symptoms with a natural mineral supplement and a herbomineral combination: a randomized controlled trial [ISRCTN38432711]. J Inflamm (Lond) 2005; 2: 11. <annotation><p><italic toggle="yes">(Among 107 patients with osteoarthritis of the knee who were treated with low or high doses of a multimineral supplement alone or low doses combined with cat's claw or placebo for 8 weeks, pain, stiffness and physical function scores improved in all groups, none significantly greater than with placebo, while all were well tolerated with no serious adverse events and no changes in serum creatinine or ALT levels during treatment).</italic></p></annotation><pub-id pub-id-type="pmid">16242032</pub-id></mixed-citation>
+          </ref>
+          <ref id="CatsClaw.R8">
+            <mixed-citation publication-type="journal">Valerio LG Jr, Gonzales GF. Toxicological aspects of the South American herbs cat's claw (Uncaria tomentosa) and Maca (Lepidium meyenii): a critical synopsis. Toxicol Rev 2005; 24 (1): 11-35. <annotation><p><italic toggle="yes">(Extensive review of the pharmacological and toxicological features of two popular South American traditional remedies, maca and cat's claw, the latter having some evidence for analgesic but little for antiinflammatory activity in humans, but appears to have no serious toxicity when used orally; ALT elevations and hepatotoxicity are not mentioned).</italic></p></annotation><pub-id pub-id-type="pmid">16042502</pub-id></mixed-citation>
+          </ref>
+          <ref id="CatsClaw.R9">
+            <mixed-citation publication-type="journal">Chalasani N, Fontana RJ, Bonkovsky HL, Watkins PB, Davern T, Serrano J, Yang H, et al.; Drug Induced Liver Injury Network (DILIN). Causes, clinical features, and outcomes from a prospective study of drug-induced liver injury in the United States. Gastroenterology 2008; 135: 1924-34. <annotation><p><italic toggle="yes">(Among 300 cases of drug induced liver disease in the US collected from 2004 to 2008, 9% were attributed to herbals or dietary supplements, but none were thought to be due to cat's claw).</italic></p></annotation><pub-id pub-id-type="pmid">19132805</pub-id></mixed-citation>
+          </ref>
+          <ref id="CatsClaw.R10">
+            <mixed-citation publication-type="journal">Erowele GI, Kalejaiye AO. Pharmacology and therapeutic uses of cat's claw. Am J Health Syst Pharm 2009; 66: 992-5. <annotation><p><italic toggle="yes">(Critical review of the mechanisms of action, clinical efficacy and safety of cat's claw concludes that there is little evidence for its efficacy in treating arthritis or inflammatory conditions, and although generally well tolerated, it can cause drug-drug interactions, particularly with anticoagulants, and is contraindicated in pregnant and lactating mothers and recipients of organ transplants; no mention of ALT elevations during therapy or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">19451609</pub-id></mixed-citation>
+          </ref>
+          <ref id="CatsClaw.R11">
+            <mixed-citation publication-type="journal">Akhtar N, Haqqi TM. Current nutraceuticals in the management of osteoarthritis: a review. Ther Adv Musculoskelet Dis 2012; 4: 181-207. <annotation><p><italic toggle="yes">(Review of the biologic basis, clinical efficacy and safety of herbals medications used to treat osteoarthritis including cat's claw; no mention of hepatotoxicity or ALT elevations).</italic></p></annotation><pub-id pub-id-type="pmid">22850529</pub-id></mixed-citation>
+          </ref>
+          <ref id="CatsClaw.R12">
+            <mixed-citation publication-type="journal">Stickel F, Kessebohm K, Weimann R, Seitz HK. Review of liver injury associated with dietary supplements. Liver Int 2011; 31: 595-605. <annotation><p><italic toggle="yes">(Review of liver injury from HDS focusing upon Herbalife and Hydroxycut products, green tea, usnic acid, Noni juice, and Chinese herbs; does not mention cat's claw).</italic></p></annotation><pub-id pub-id-type="pmid">21457433</pub-id></mixed-citation>
+          </ref>
+          <ref id="CatsClaw.R13">
+            <mixed-citation publication-type="journal">Teschke R, Wolff A, Frenzel C, Schulze J, Eickhoff A. Herbal hepatotoxicity: a tabular compilation of reported cases. Liver Int 2012 32: 1543-56. <annotation><p><italic toggle="yes">(A systematic compilation of all publications on the hepatotoxicity of specific herbals identified 185 publications on 60 different herbs and supplements; does not list cat's claw or uncaria tomentosa).</italic></p></annotation><pub-id pub-id-type="pmid">22928722</pub-id></mixed-citation>
+          </ref>
+          <ref id="CatsClaw.R14">
+            <mixed-citation publication-type="journal">Navarro VJ, Barnhart H, Bonkovsky HL, Davern T, Fontana RJ, Grant L, Reddy KR, et al. Liver injury from herbals and dietary supplements in the U.S. Drug-Induced Liver Injury Network. Hepatology 2014; 60: 1399-408. <annotation><p><italic toggle="yes">(Among 85 cases of HDS associated liver injury [not due to anabolic steroids] enrolled in a US prospective study between 2004 and 2013, none were attributed to cat's claw).</italic></p></annotation><pub-id pub-id-type="pmid">25043597</pub-id></mixed-citation>
+          </ref>
+          <ref id="CatsClaw.R15">
+            <mixed-citation publication-type="journal">Garc&#x000ed;a-Cort&#x000e9;s M, Robles-D&#x000ed;az M, Ortega-Alonso A, Medina-Caliz I, Andrade RJ. Hepatotoxicity by dietary supplements: a tabular listing and clinical characteristics. Int J Mol Sci 2016; 17: 537. <annotation><p><italic toggle="yes">(Listing of published cases of liver injury from HDS products; does not mention cat's claw).</italic></p></annotation><pub-id pub-id-type="pmid">27070596</pub-id></mixed-citation>
+          </ref>
+          <ref id="CatsClaw.R16">
+            <mixed-citation publication-type="journal">Brown AC. Liver toxicity related to herbs and dietary supplements: Online table of case reports. Part 2 of 5 series. Food Chem Toxicol 2017; 107 (Pt A): 472-501. <annotation><p><italic toggle="yes">(Description of an online compendium of cases of liver toxicity attributed to HDS products; does not list cat's claw among products linked to liver injury).</italic></p></annotation><pub-id pub-id-type="pmid">27402097</pub-id></mixed-citation>
+          </ref>
+          <ref id="CatsClaw.R17">
+            <mixed-citation publication-type="journal">Seeff LB, Bonkovsky HL, Navarro VJ, Wang G. Herbal products and the liver: a review of adverse effects and mechanisms. Gastroenterology 2015; 148: 517-32. <annotation><p><italic toggle="yes">(Extensive review of possible beneficial as well as harmful effects of herbal products on the liver; mentions that multiingredient supplements have been implicated in many cases of liver injury including proprietary agents marketed under the names Herbalife, Hydroxycut and OxyELITE Pro, but does not specifically discuss or mention cat's claw either as a single herbal product or as part of multiingredient dietary supplements).</italic></p></annotation><pub-id pub-id-type="pmid">25500423</pub-id></mixed-citation>
+          </ref>
+          <ref id="CatsClaw.R18">
+            <mixed-citation publication-type="journal">Chalasani N, Bonkovsky HL, Fontana R, Lee W, Stolz A, Talwalkar J, Reddy KR, et al.; United States Drug Induced Liver Injury Network. Features and outcomes of 899 patients with drug-induced liver injury: The DILIN Prospective Study. Gastroenterology 2015; 148: 1340-52. <annotation><p><italic toggle="yes">(Among 899 cases of drug induced liver injury enrolled in a prospective database between 2004 and 2012, HDS were implicated in 145 [16%], the single major herbal cause being green tea and no cases clearly implicating cat's claw).</italic></p></annotation><pub-id pub-id-type="pmid">25754159</pub-id></mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec id="CatsClaw.OTHER_REFERENCE_LINKS" sec-type="link-group">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=cascara+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D%3A%222999/12/31%22%5BEDat%5D)">Recent References on Cat's Claw: from PubMed.gov</ext-link>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=cascara">Trials on Cat's Claw: from ClinicalTrials.gov</ext-link>
+            </p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

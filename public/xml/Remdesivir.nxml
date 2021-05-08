@@ -1,0 +1,1956 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Remdesivir" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Remdesivir</book-part-id>
+      <title-group>
+        <title>Remdesivir</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>4</day>
+          <month>11</month>
+          <year>2020</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Regorafenib" document-type="chapter">Regorafenib</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Repaglinide" document-type="chapter">Repaglinide</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Remdesivir.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Remdesivir.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Remdesivir is an antiviral nucleotide analogue used for therapy of severe novel coronavirus disease 2019 (COVID-19) caused by severe acute respiratory syndrome (SARS) coronavirus 2 (CoV-2) infection. Remdesivir therapy is given intravenously for 5 to 10 days and is frequently accompanied by transient, reversible mild-to-moderate elevations in serum aminotransferase levels but has been only rarely linked to instances of clinically apparent liver injury, its hepatic effects being overshadowed by the systemic effects of COVID-19.</p>
+        </sec>
+        <sec id="Remdesivir.Background">
+          <title>Background</title>
+          <p>Remdesivir (rem de&#x02019; si vir) is a phosphoramidate prodrug of a substituted nucleotide analogue of adenosine which has potent activity against the SARS-CoV-1 and SARS-CoV-2 encoded RNA dependent RNA polymerases. Remdesivir is not well absorbed orally and must be given by intravenous infusion. Once absorbed into cells, remdesivir is modified by cellular esterases and then converted by kinases to the active triphosphate, which competes with ATP for incorporation into the nascent viral RNA chain resulting in &#x0201c;delayed&#x0201d; chain termination. In animal models of SARS-CoV-2 infection, prophylactic or early treatment with remdesivir ameliorated the subsequent viral infection and clinical disease. In a large, multinational randomized, placebo-controlled trial in humans, remdesivir was found to shorten the time to clinical recovery in patients hospitalized with COVID-19, but had little effect on overall mortality. In other studies, the effects of remdesivir on time to recovery were less clear and mortality rates as well as SARS-CoV-2 RNA levels were similar to those on placebo or no therapy. Soon after the initial favorable reports of remdesivir therapy of severe COVID-19, it received emergency use authorization (EUA) approval for therapy of patients hospitalized with severe COVID-19 which was later extended to all hospitalized patients with COVID-19, both adults and children. After the final results were obtained and a more in-depth review, remdesivir was given formal approval for use in hospitalized adults and children (12 years of age or older and above 40 kilograms in weight) with COVID-19. Currently, it is being actively evaluated for efficacy and safety in treating milder and earlier stages of SARS-CoV-2 infection. In addition, an inhaled nebulized form of remdesivir is under development. Remdesivir is available in single-use vials of 100 mg, both as lyophilized powder and in solution (5 mg/mL) under the brand name Veklury. The typical intravenous dose in adults and children above the age of 12 is 200 mg on day one and 100 mg once daily thereafter for 5 to 10 days. Adverse events of remdesivir therapy include mild-to-moderate degrees of nausea and vomiting, headache, fatigue, renal dysfunction, serum aminotransferase elevations and rash. Rare instances of hypersensitivity reactions, acute renal dysfunction and liver injury have been reported.</p>
+        </sec>
+        <sec id="Remdesivir.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>In human volunteer studies, remdesivir therapy given for 7 to 14 days was associated with minor serum aminotransferase elevations (less than 5 times ULN) but without other evidence of hepatic injury. In controlled trials of remdesivir in patients hospitalized with COVID-19, rates of serum ALT elevations were similar or lower in patients receiving remdesivir than in those on placebo. Nevertheless, in most uncontrolled studies and case series, between 10% and 50% of patients treated with remdesivir developed transient, mild-to-moderate serum ALT and AST elevations within 1 to 5 days of starting therapy without changes in serum bilirubin or alkaline phosphatase levels. Elevations above 5 times ULN were reported in up to 9% of patients in several clinical trials, but the abnormalities resolved with discontinuation and were not associated with clinically apparent injury. With more widespread use of remdesivir for COVID-19, rare instances of marked ALT elevations with jaundice have been reported, but largely in patients who were critically ill with multi-organ failure or sepsis, or who had received other potentially hepatotoxic agents such as intravenous amiodarone (Case 2). Confounding the issue is that serum aminotransferase elevations are common during symptomatic SARS-CoV-2 infection (Case 1), present in up to 60% of patients and being more frequent in patients with severe disease and in those with the known risk factors for COVID-19 severity such as male sex, older age, higher body mass index and diabetes. Thus, serum aminotransferase elevations are common during remdesivir therapy but are generally asymptomatic, fully reversible and not associated with jaundice. With more widespread use of this antiviral in patients without severe or critical illness and with longer courses of therapy, features of hepatotoxicity may become more evident.</p>
+          <p>Likelihood score: D (possible uncommon cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Remdesivir.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>Serum aminotransferase elevations are not uncommon with parenterally administered remdesivir and may be caused by direct toxicity possibly due to inhibition of mitochondrial RNA polymerase. On the other hand, idiosyncratic injury due to remdesivir has not been clearly shown. SARS-CoV-2 virus may infect the liver and has been identified in hepatocytes by molecular techniques and electron microscopy, but the associated liver injury in these cases was mild. The receptor for SARS-CoV-2, the angiotensin-converting enzyme 2 (ACE2), is found on the surface of hepatocytes, although it is present in higher density on cholangiocytes. In the liver, remdesivir is metabolized by and is a substrate for CYP 3A4. It is also a substrate of the hepatocyte transporters p-glycoprotein and OATP1B1 and thus may be susceptible to drug-drug interactions with agents that inhibit or induce these enzymes and transporters.</p>
+        </sec>
+        <sec id="Remdesivir.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>The ALT and AST elevations associated with initiation of remdesivir therapy in patients with SARS-CoV-2 infection are generally mild-to-moderate in severity and self-limited in course without jaundice or symptoms. Careful monitoring of liver tests is recommended before and frequently during treatment. De novo elevations in ALT or AST above 10 times the upper limit of normal should lead to early discontinuation of the infusions. Restarting treatment can be considered once enzyme levels fall sufficiently, if there is no jaundice or symptoms and with careful monitoring. Use of other known hepatotoxins or potent inhibitors of p-glycoprotein should be avoided during remdesivir therapy.</p>
+          <p>Drug Class: <related-object link-type="booklink" source-id="livertox" document-id="AntiviralAgents" document-type="chapter">Antiviral Agents</related-object>; <related-object link-type="booklink" source-id="livertox" document-id="NucleosideAnalogues" document-type="chapter">Nucleoside Analogues</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Remdesivir.CASE_REPORTS">
+        <title>CASE REPORTS</title>
+        <sec id="Remdesivir.Case_1_Acute_anicteric_hepati">
+          <title>Case 1. Acute anicteric hepatitis attributed to SARS-CoV-2 infection.(<xref ref-type="bibr" rid="Remdesivir.REF.1">1</xref>)</title>
+          <p>A 59 year old woman with HIV infection (well controlled on antiretroviral therapy), hypertension, hyperlipidemia and Graves disease presented to an emergency room with fatigue and dark urine. She denied jaundice, abdominal pain, itching, rash or fever. Laboratory evaluation showed elevations in liver tests that had previously been normal including ALT 617 U/L, AST 1230 U/L, alkaline phosphatase 141 U/L, bilirubin 0.6 mg/dL, albumin 3.1 g/dL and INR 1.7. She had no history of liver disease or known recent exposures to viral hepatitis. Her other medications included <italic toggle="yes">Genoya</italic> (elvitegravir, cobicistat, emtricitabine and tenofovir alafenamide), clonidine, amlodipine, propranolol, hydrochlorothiazide, levothyroxine, fish oil and multivitamins. She was admitted for evaluation. She was afebrile and physical examination was normal. Tests for hepatitis A, B, C and E were negative as were assays for cytomegalovirus and Epstein Barr virus infection. Abdominal ultrasound showed a normal appearing liver without evidence of biliary obstruction or gallstones. A liver biopsy was not done. On hospital day 2 she developed fever and was found to have an oxygen saturation of 94% on room air. A nasopharyngeal swab was taken and proved to be positive for SARS-CoV-2 viral RNA. She was treated with hydroxychloroquine and remained minimally symptomatic and was discharged on hospital day 8, liver test abnormalities having improved but remaining mildly elevated.</p>
+          <sec id="Remdesivir.Key_Points">
+            <title>Key Points</title>
+            <table-wrap id="Remdesivir.Tc" orientation="portrait" position="anchor">
+              <table frame="hsides" rules="groups">
+                <tbody>
+                  <tr>
+                    <th id="hd_b_Remdesivir.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Medication:</th>
+                    <td headers="hd_b_Remdesivir.Tc_1_1_1_1" valign="top" align="left" rowspan="1" colspan="1">Not applicable</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Remdesivir.Tc_1_1_2_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Pattern:</th>
+                    <td headers="hd_b_Remdesivir.Tc_1_1_2_1" valign="top" align="left" rowspan="1" colspan="1">Hepatocellular (R=12.3)</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Remdesivir.Tc_1_1_3_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Severity:</th>
+                    <td headers="hd_b_Remdesivir.Tc_1_1_3_1" valign="top" align="left" rowspan="1" colspan="1">Mild (anicteric)</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Remdesivir.Tc_1_1_4_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Latency:</th>
+                    <td headers="hd_b_Remdesivir.Tc_1_1_4_1" valign="top" align="left" rowspan="1" colspan="1">Not applicable</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Remdesivir.Tc_1_1_5_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Recovery:</th>
+                    <td headers="hd_b_Remdesivir.Tc_1_1_5_1" valign="top" align="left" rowspan="1" colspan="1">Unclear</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Remdesivir.Tc_1_1_6_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Other medications:</th>
+                    <td headers="hd_b_Remdesivir.Tc_1_1_6_1" valign="top" align="left" rowspan="1" colspan="1">Clonidine, hydrochlorothiazide, emtricitabine, tenofovir, elvitegravir, cobicistat</td>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Remdesivir.Laboratory_Values">
+            <title>Laboratory Values</title>
+            <table-wrap id="Remdesivir.Td" orientation="portrait" position="anchor">
+              <table frame="hsides" rules="groups">
+                <thead>
+                  <tr>
+                    <th id="hd_h_Remdesivir.Td_1_1_1_1" valign="top" align="center" scope="col" rowspan="1" colspan="1">Day of<break/>Hospitalization</th>
+                    <th id="hd_h_Remdesivir.Td_1_1_1_2" valign="top" align="center" scope="col" rowspan="1" colspan="1">ALT<break/>(U/L)</th>
+                    <th id="hd_h_Remdesivir.Td_1_1_1_3" valign="top" align="center" scope="col" rowspan="1" colspan="1">AST<break/>(U/L)</th>
+                    <th id="hd_h_Remdesivir.Td_1_1_1_4" valign="top" align="center" scope="col" rowspan="1" colspan="1">Alk P<break/>(U/L)</th>
+                    <th id="hd_h_Remdesivir.Td_1_1_1_5" valign="top" align="center" scope="col" rowspan="1" colspan="1">Bilirubin<break/>(mg/dL)</th>
+                    <th id="hd_h_Remdesivir.Td_1_1_1_6" valign="top" align="center" scope="col" rowspan="1" colspan="1">Other</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td headers="hd_h_Remdesivir.Td_1_1_1_1" valign="top" align="center" scope="row" rowspan="1" colspan="1">1</td>
+                    <td headers="hd_h_Remdesivir.Td_1_1_1_2" valign="top" align="center" rowspan="1" colspan="1">697</td>
+                    <td headers="hd_h_Remdesivir.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">1230</td>
+                    <td headers="hd_h_Remdesivir.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">141</td>
+                    <td headers="hd_h_Remdesivir.Td_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">0.6</td>
+                    <td headers="hd_h_Remdesivir.Td_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1">INR 1.08</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Remdesivir.Td_1_1_1_1" valign="top" align="center" scope="row" rowspan="1" colspan="1">2</td>
+                    <td headers="hd_h_Remdesivir.Td_1_1_1_2" valign="top" align="center" rowspan="1" colspan="1">675</td>
+                    <td headers="hd_h_Remdesivir.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">1020</td>
+                    <td headers="hd_h_Remdesivir.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">145</td>
+                    <td headers="hd_h_Remdesivir.Td_1_1_1_5" valign="top" align="left" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Remdesivir.Td_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Remdesivir.Td_1_1_1_1" valign="top" align="center" scope="row" rowspan="1" colspan="1">3</td>
+                    <td headers="hd_h_Remdesivir.Td_1_1_1_2" valign="top" align="center" rowspan="1" colspan="1">690</td>
+                    <td headers="hd_h_Remdesivir.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">1125</td>
+                    <td headers="hd_h_Remdesivir.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">195</td>
+                    <td headers="hd_h_Remdesivir.Td_1_1_1_5" valign="top" align="left" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Remdesivir.Td_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Remdesivir.Td_1_1_1_1" valign="top" align="center" scope="row" rowspan="1" colspan="1">4</td>
+                    <td headers="hd_h_Remdesivir.Td_1_1_1_2" valign="top" align="center" rowspan="1" colspan="1">640</td>
+                    <td headers="hd_h_Remdesivir.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">820</td>
+                    <td headers="hd_h_Remdesivir.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">201</td>
+                    <td headers="hd_h_Remdesivir.Td_1_1_1_5" valign="top" align="left" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Remdesivir.Td_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Remdesivir.Td_1_1_1_1" valign="top" align="center" scope="row" rowspan="1" colspan="1">5</td>
+                    <td headers="hd_h_Remdesivir.Td_1_1_1_2" valign="top" align="center" rowspan="1" colspan="1">530</td>
+                    <td headers="hd_h_Remdesivir.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">605</td>
+                    <td headers="hd_h_Remdesivir.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">205</td>
+                    <td headers="hd_h_Remdesivir.Td_1_1_1_5" valign="top" align="left" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Remdesivir.Td_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Remdesivir.Td_1_1_1_1" valign="top" align="center" scope="row" rowspan="1" colspan="1">6</td>
+                    <td headers="hd_h_Remdesivir.Td_1_1_1_2" valign="top" align="center" rowspan="1" colspan="1">480</td>
+                    <td headers="hd_h_Remdesivir.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">480</td>
+                    <td headers="hd_h_Remdesivir.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">230</td>
+                    <td headers="hd_h_Remdesivir.Td_1_1_1_5" valign="top" align="left" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Remdesivir.Td_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Remdesivir.Td_1_1_1_1" valign="top" align="center" scope="row" rowspan="1" colspan="1">7</td>
+                    <td headers="hd_h_Remdesivir.Td_1_1_1_2" valign="top" align="center" rowspan="1" colspan="1">370</td>
+                    <td headers="hd_h_Remdesivir.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">205</td>
+                    <td headers="hd_h_Remdesivir.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">259</td>
+                    <td headers="hd_h_Remdesivir.Td_1_1_1_5" valign="top" align="left" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Remdesivir.Td_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Remdesivir.Td_1_1_1_1" valign="top" align="center" scope="row" rowspan="1" colspan="1">8</td>
+                    <td headers="hd_h_Remdesivir.Td_1_1_1_2" valign="top" align="center" rowspan="1" colspan="1">227</td>
+                    <td headers="hd_h_Remdesivir.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">110</td>
+                    <td headers="hd_h_Remdesivir.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">250</td>
+                    <td headers="hd_h_Remdesivir.Td_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">0.6</td>
+                    <td headers="hd_h_Remdesivir.Td_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1">INR 1.13, discharged</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Remdesivir.Td_1_1_1_1" valign="top" align="center" scope="row" rowspan="1" colspan="1">
+                      <bold>Normal</bold>
+                    </td>
+                    <td headers="hd_h_Remdesivir.Td_1_1_1_2" valign="top" align="center" rowspan="1" colspan="1">
+                      <bold>&#x0003c;50</bold>
+                    </td>
+                    <td headers="hd_h_Remdesivir.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">
+                      <bold>&#x0003c;50</bold>
+                    </td>
+                    <td headers="hd_h_Remdesivir.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">
+                      <bold>&#x0003c;125</bold>
+                    </td>
+                    <td headers="hd_h_Remdesivir.Td_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">
+                      <bold>&#x0003c;1.2</bold>
+                    </td>
+                    <td headers="hd_h_Remdesivir.Td_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Remdesivir.Comment">
+            <title>Comment</title>
+            <p>This 59 year old woman developed an acute, mildly symptomatic hepatitis during an early, presymptomatic phase of SARS-CoV-2 infection. Other causes of acute liver injury were excluded and the episode was attributed to the SARS-CoV-2 infection. A striking finding was the predominance of AST over ALT elevations, a pattern that occurs with acute alcoholic hepatitis but is rare in acute hepatocellular injury due to medications or viral hepatitis. On the other hand, the aminotransferases were higher and the time to recovery was more rapid than occurs typically in acute alcoholic hepatitis. The case report did not mention alcohol use and liver biopsy was not done. One possible explanation for the prominent AST elevation was that part of the injury was due to muscle involvement. Transient elevations in serum aminotransferase levels are not uncommon during the course of symptomatic COVID-19 and in some cases AST elevations are greater than those of ALT. The degree of severity of the liver injury usually correlates with the degree of severity of the SARS-CoV-2 infection and occurs most frequently in men, the elderly and persons with obesity and diabetes. The occurrence of hepatic injury during the course of COVID-19 makes diagnosis of drug induced injury from therapies such as remdesivir challenging.</p>
+          </sec>
+        </sec>
+        <sec id="Remdesivir.Case_2_Marked_serum_aminotran">
+          <title>Case 2. Marked serum aminotransferase elevations and jaundice during remdesivir therapy of SARS-CoV-2 infection.(<xref ref-type="bibr" rid="Remdesivir.REF.2">2</xref>)</title>
+          <p>A 68 year old woman with hypertension, diabetes, hyperlipidemia and coronary artery disease developed shortness of breath and chest pain and was hospitalized with suspected COVID-19 pneumonia. She was hypoxemic and had diffuse interstitial infiltrates but nasopharyngeal samples were negative for SARS-CoV-2 RNA. She had worsening symptoms and on day 4 underwent cardiac catheterization which showed severe, multivessel coronary artery disease. On day 6 she underwent successful 4-vessel coronary artery bypass surgery, but a repeat nasopharyngeal sample taken that day was positive for SARS-CoV-2, and she was transferred to a COVID-19 ward. Over the next few days, she had worsening oxygen requirements and pulmonary infiltrates and was started on remdesivir (200 mg loading dose followed by 100 mg daily intravenously). The following day she developed atrial fibrillation and was started on amiodarone infusions (150 mg loading dose, followed by 6 hours of 1.0 mg/min, followed by maintenance dosing of 0.5 mg/min). One day later serum ALT levels were above 5000 U/L and both remdesivir and amiodarone were stopped and intravenous N-acetyl cysteamine (iv NAC) was given. Her liver tests improved over the ensuing few days (Table) and she was discharged 2 weeks later.</p>
+          <sec id="Remdesivir.Key_Points_1">
+            <title>Key Points</title>
+            <table-wrap id="Remdesivir.Te" orientation="portrait" position="anchor">
+              <table frame="hsides" rules="groups">
+                <tbody>
+                  <tr>
+                    <th id="hd_b_Remdesivir.Te_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Medication:</th>
+                    <td headers="hd_b_Remdesivir.Te_1_1_1_1" valign="top" align="left" rowspan="1" colspan="1">Remdesivir</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Remdesivir.Te_1_1_2_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Pattern:</th>
+                    <td headers="hd_b_Remdesivir.Te_1_1_2_1" valign="top" align="left" rowspan="1" colspan="1">Hepatocellular (R=~100)</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Remdesivir.Te_1_1_3_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Severity:</th>
+                    <td headers="hd_b_Remdesivir.Te_1_1_3_1" valign="top" align="left" rowspan="1" colspan="1">Moderate</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Remdesivir.Te_1_1_4_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Latency:</th>
+                    <td headers="hd_b_Remdesivir.Te_1_1_4_1" valign="top" align="left" rowspan="1" colspan="1">2 days</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Remdesivir.Te_1_1_5_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Recovery:</th>
+                    <td headers="hd_b_Remdesivir.Te_1_1_5_1" valign="top" align="left" rowspan="1" colspan="1">Improvements over next two weeks</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Remdesivir.Te_1_1_6_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Other medications:</th>
+                    <td headers="hd_b_Remdesivir.Te_1_1_6_1" valign="top" align="left" rowspan="1" colspan="1">Amiodarone intravenously</td>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Remdesivir.Laboratory_Values_1">
+            <title>Laboratory Values</title>
+            <table-wrap id="Remdesivir.Tf" orientation="portrait" position="anchor">
+              <table frame="hsides" rules="groups">
+                <thead>
+                  <tr>
+                    <th id="hd_h_Remdesivir.Tf_1_1_1_1" valign="top" align="center" scope="col" rowspan="1" colspan="1">Time After<break/>Starting</th>
+                    <th id="hd_h_Remdesivir.Tf_1_1_1_2" valign="top" align="center" scope="col" rowspan="1" colspan="1">ALT<break/>(U/L)</th>
+                    <th id="hd_h_Remdesivir.Tf_1_1_1_3" valign="top" align="center" scope="col" rowspan="1" colspan="1">AST<break/>(U/L)</th>
+                    <th id="hd_h_Remdesivir.Tf_1_1_1_4" valign="top" align="center" scope="col" rowspan="1" colspan="1">Bilirubin<break/>(mg/dL)</th>
+                    <th id="hd_h_Remdesivir.Tf_1_1_1_5" valign="top" align="center" scope="col" rowspan="1" colspan="1">Other</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td headers="hd_h_Remdesivir.Tf_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">-7 days</td>
+                    <td headers="hd_h_Remdesivir.Tf_1_1_1_2" valign="top" align="center" rowspan="1" colspan="1">21</td>
+                    <td headers="hd_h_Remdesivir.Tf_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Remdesivir.Tf_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Remdesivir.Tf_1_1_1_5" valign="top" align="left" rowspan="1" colspan="1">Admitted with shortness of breath</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Remdesivir.Tf_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">-4 days</td>
+                    <td headers="hd_h_Remdesivir.Tf_1_1_1_2" valign="top" align="center" rowspan="1" colspan="1">15</td>
+                    <td headers="hd_h_Remdesivir.Tf_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Remdesivir.Tf_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Remdesivir.Tf_1_1_1_5" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Remdesivir.Tf_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Day 1</td>
+                    <td headers="hd_h_Remdesivir.Tf_1_1_1_2" valign="top" align="center" rowspan="1" colspan="1">-</td>
+                    <td headers="hd_h_Remdesivir.Tf_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Remdesivir.Tf_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Remdesivir.Tf_1_1_1_5" valign="top" align="left" rowspan="1" colspan="1">Started remdesivir</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Remdesivir.Tf_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Day 2</td>
+                    <td headers="hd_h_Remdesivir.Tf_1_1_1_2" valign="top" align="center" rowspan="1" colspan="1">115</td>
+                    <td headers="hd_h_Remdesivir.Tf_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Remdesivir.Tf_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Remdesivir.Tf_1_1_1_5" valign="top" align="left" rowspan="1" colspan="1">Started amiodarone</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Remdesivir.Tf_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Day 3</td>
+                    <td headers="hd_h_Remdesivir.Tf_1_1_1_2" valign="top" align="center" rowspan="1" colspan="1">&#x0003e;5000</td>
+                    <td headers="hd_h_Remdesivir.Tf_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">&#x0003e;5000</td>
+                    <td headers="hd_h_Remdesivir.Tf_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">3.1</td>
+                    <td headers="hd_h_Remdesivir.Tf_1_1_1_5" valign="top" align="left" rowspan="1" colspan="1">INR 2.3: stopped drugs; IV NAC given</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Remdesivir.Tf_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Day 4</td>
+                    <td headers="hd_h_Remdesivir.Tf_1_1_1_2" valign="top" align="center" rowspan="1" colspan="1">2825</td>
+                    <td headers="hd_h_Remdesivir.Tf_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">&#x0003e;5000</td>
+                    <td headers="hd_h_Remdesivir.Tf_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Remdesivir.Tf_1_1_1_5" valign="top" align="left" rowspan="1" colspan="1">IV NAC given</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Remdesivir.Tf_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Day 5</td>
+                    <td headers="hd_h_Remdesivir.Tf_1_1_1_2" valign="top" align="center" rowspan="1" colspan="1">1861</td>
+                    <td headers="hd_h_Remdesivir.Tf_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">1348</td>
+                    <td headers="hd_h_Remdesivir.Tf_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Remdesivir.Tf_1_1_1_5" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Remdesivir.Tf_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Day 7</td>
+                    <td headers="hd_h_Remdesivir.Tf_1_1_1_2" valign="top" align="center" rowspan="1" colspan="1">966</td>
+                    <td headers="hd_h_Remdesivir.Tf_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">235</td>
+                    <td headers="hd_h_Remdesivir.Tf_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">2.1</td>
+                    <td headers="hd_h_Remdesivir.Tf_1_1_1_5" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Remdesivir.Tf_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Day 9</td>
+                    <td headers="hd_h_Remdesivir.Tf_1_1_1_2" valign="top" align="center" rowspan="1" colspan="1">469</td>
+                    <td headers="hd_h_Remdesivir.Tf_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Remdesivir.Tf_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Remdesivir.Tf_1_1_1_5" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Remdesivir.Tf_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Day 11</td>
+                    <td headers="hd_h_Remdesivir.Tf_1_1_1_2" valign="top" align="center" rowspan="1" colspan="1">211</td>
+                    <td headers="hd_h_Remdesivir.Tf_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Remdesivir.Tf_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Remdesivir.Tf_1_1_1_5" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Remdesivir.Tf_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Day 13</td>
+                    <td headers="hd_h_Remdesivir.Tf_1_1_1_2" valign="top" align="center" rowspan="1" colspan="1">120</td>
+                    <td headers="hd_h_Remdesivir.Tf_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Remdesivir.Tf_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Remdesivir.Tf_1_1_1_5" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Remdesivir.Tf_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Day 17</td>
+                    <td headers="hd_h_Remdesivir.Tf_1_1_1_2" valign="top" align="center" rowspan="1" colspan="1">50</td>
+                    <td headers="hd_h_Remdesivir.Tf_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Remdesivir.Tf_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">Normal</td>
+                    <td headers="hd_h_Remdesivir.Tf_1_1_1_5" valign="top" align="left" rowspan="1" colspan="1">INR normal, discharged</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Remdesivir.Tf_1_1_1_1" valign="top" align="center" scope="row" rowspan="1" colspan="1">
+                      <bold>Normal</bold>
+                    </td>
+                    <td headers="hd_h_Remdesivir.Tf_1_1_1_2" valign="top" align="center" rowspan="1" colspan="1">
+                      <bold>Not given</bold>
+                    </td>
+                    <td headers="hd_h_Remdesivir.Tf_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">
+                      <bold>Not given</bold>
+                    </td>
+                    <td headers="hd_h_Remdesivir.Tf_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">
+                      <bold>&#x0003c;1.2</bold>
+                    </td>
+                    <td headers="hd_h_Remdesivir.Tf_1_1_1_5" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Remdesivir.Comment_1">
+            <title>Comment</title>
+            <p>A 68 year old woman suffered an acute coronary syndrome complicated by concurrent COVID-19. Therapy with remdesivir and amiodarone was rapidly followed by marked elevations in serum ALT and AST which fell after stopping both drugs (and administration of N-acetylcysteine). The marked elevations in both ALT and AST within 2 days of starting remdesivir is distinctly unusual and might well have been due to amiodarone that was started at about the same time. One possible explanation for the severity of the injury is that amiodarone altered the pharmacokinetics of remdesivir which is secreted from hepatocytes by p-glycoprotein, a hepatic transporter which is inhibited by amiodarone. A similar drug-drug interaction with precipitous adverse events occurs with the combination of sofosbuvir (another nucleoside analogue inhibitor of a viral RNA polymerase) and amiodarone, which results in severe bradycardia. Another explanation for the marked aminotransferase elevations would be shock, hypotension or hypoxemia which would cause acute hepatic necrosis. The case report is also somewhat unclear in regard to timing of the medications and the laboratory results.</p>
+          </sec>
+        </sec>
+      </sec>
+      <sec id="Remdesivir.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <p>
+          <bold>REPRESENTATIVE TRADE NAMES</bold>
+        </p>
+        <p>Remdesivir &#x02013; Veklury &#x000ae;</p>
+        <p>
+          <bold>DRUG CLASS</bold>
+        </p>
+        <p>Antiviral Agents</p>
+        <p>
+          <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Remdesivir">COMPLETE LABELING</ext-link>
+        </p>
+        <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+      </sec>
+      <sec id="Remdesivir.CHEMICAL_FORMULA_AND_STRUCTUR">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Remdesivir.Tg" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th id="hd_h_Remdesivir.Tg_1_1_1_1" valign="top" align="left" scope="col" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Remdesivir.Tg_1_1_1_2" valign="top" align="left" scope="col" rowspan="1" colspan="1">CAS REGISTRY NUMBER</th>
+                <th id="hd_h_Remdesivir.Tg_1_1_1_3" valign="top" align="left" scope="col" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Remdesivir.Tg_1_1_1_4" valign="top" align="left" scope="col" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Remdesivir.Tg_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Remdesivir</td>
+                <td headers="hd_h_Remdesivir.Tg_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://328083432">1809249-37-3</ext-link>
+                </td>
+                <td headers="hd_h_Remdesivir.Tg_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">C27-H35-N6-O8-P</td>
+                <td headers="hd_h_Remdesivir.Tg_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">
+                  <related-object link-type="ext-image-back-link" source-id="pubchem" document-id="328083432" document-id-type="sid" document-type="summary" object-id="328083432" object-id-type="sid" object-type="image"/>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Remdesivir.CITED_REFERENCES">
+        <title>CITED REFERENCES</title>
+        <ref-list id="Remdesivir.CITED_REFERENCES.reflist0">
+          <ref id="Remdesivir.REF.1">
+            <label>1</label>
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Wander</surname>
+                  <given-names>P</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Epstein</surname>
+                  <given-names>M</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Bernstein</surname>
+                  <given-names>D.</given-names>
+                </name>
+              </person-group>
+              <article-title>COVID-19 presenting as acute hepatitis.</article-title>
+              <source>Am J Gastroenterol</source>
+              <year>2020</year>
+              <volume>115</volume>
+              <fpage>941</fpage>
+              <lpage>2</lpage>
+              <pub-id pub-id-type="pmid">32301760</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Remdesivir.REF.2">
+            <label>2</label>
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Carothers</surname>
+                  <given-names>C</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Birrer</surname>
+                  <given-names>K</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Vo</surname>
+                  <given-names>M</given-names>
+                </name>
+              </person-group>
+              <article-title>Acetylcysteine for the treatment of suspected remdesivir-associated acute liver failure in COVID-19: a case series.</article-title>
+              <source>Pharmacotherapy</source>
+              <year>2020</year>
+              <month>Oct</month>
+              <day>2</day>
+              <comment>Epub ahead of print</comment>
+              <pub-id pub-id-type="doi">10.1002/phar.2464</pub-id>
+              <pub-id pub-id-type="pmid">33006138</pub-id>
+            </element-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec id="Remdesivir.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 04 November 2020</p>
+        <ref-list id="Remdesivir.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Remdesivir.REF.n__ez.2013">
+            <mixed-citation publication-type="book">N&#x000fa;&#x000f1;ez M. Hepatic toxicity of antiviral agents. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013, pp. 505-18.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of antiviral agents, long before the appearance of COVID 19 and availability of remdesivir).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Remdesivir.REF.flexner.2018">
+            <mixed-citation publication-type="book">Flexner C. Antiretroviral agents and treatment of HIV infection. In, Brunton LL, Hilal-Dandan R, Knollman BC, eds. Goodman &#x00026; Gilman&#x02019;s the pharmacological basis of therapeutics. 13th ed. New York: McGraw-Hill, 2018, pp. 1137-58.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Remdesivir.REF.fda">
+            <mixed-citation publication-type="web"><person-group><collab>FDA</collab></person-group>. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.accessdata.fda.gov/drugsatfda_docs/nda/2020/214787Orig1s000Sumr.pdf">https://www.accessdata.fda.gov/drugsatfda_docs/nda/2020/214787Orig1s000Sumr.pdf</ext-link><annotation><p><italic toggle="yes">(FDA summary review of the safety and efficacy of remdesivir as therapy of COVID-19 ).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Remdesivir.REF.feng.2015.806">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Feng</surname>
+                  <given-names>JY</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Xu</surname>
+                  <given-names>Y</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Barauskas</surname>
+                  <given-names>O</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Perry</surname>
+                  <given-names>JK</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Ahmadyar</surname>
+                  <given-names>S</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Stepan</surname>
+                  <given-names>G</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Yu</surname>
+                  <given-names>H</given-names>
+                </name>
+                <etal/>
+              </person-group>
+              <article-title>Role of mitochondrial RNA polymerase in the toxicity of nucleotide inhibitors of hepatitis C virus.</article-title>
+              <source>Antimicrob Agents Chemother</source>
+              <year>2015</year>
+              <volume>60</volume>
+              <fpage>806</fpage>
+              <lpage>17</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(The major reason for failure of drugs in clinical development is toxicity, and the major concern for viral RNA polymerase inhibitors is mitochondrial toxicity caused by susceptibility of mitochondrial RNA polymerase [which lacks proofreading activity], which nevertheless can be assessed in vitro).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">26596942</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Remdesivir.REF.huang.2020.497">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Huang</surname>
+                  <given-names>C</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Wang</surname>
+                  <given-names>Y</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Li</surname>
+                  <given-names>X</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Ren</surname>
+                  <given-names>L</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Zhao</surname>
+                  <given-names>J</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Hu</surname>
+                  <given-names>Y</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Zhang</surname>
+                  <given-names>L</given-names>
+                </name>
+                <etal/>
+              </person-group>
+              <article-title>Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China.</article-title>
+              <source>Lancet</source>
+              <year>2020</year>
+              <volume>395</volume>
+              <issue>10223</issue>
+              <fpage>497</fpage>
+              <lpage>506</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Among 41 adults with COVID-19 pneumonia hospitalized in Wuhan, China in December 2019 to January 2020, 37% had serum AST elevations [62% of those in the ICU and 25% of those not], with concurrent elevations in proinflammatory cytokines [IL1B, IL6, IL2, IFN gamma] and 15% died).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">31986264</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Remdesivir.REF.guan.2020.1708">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Guan</surname>
+                  <given-names>WJ</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Ni</surname>
+                  <given-names>ZY</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Hu</surname>
+                  <given-names>Y</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Liang</surname>
+                  <given-names>WH</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Ou</surname>
+                  <given-names>CQ</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>He</surname>
+                  <given-names>JX</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Liu</surname>
+                  <given-names>L</given-names>
+                </name>
+                <etal/>
+                <collab>China Medical Treatment Expert Group for COVID-19</collab>
+              </person-group>
+              <article-title>Clinical characteristics of coronavirus disease 2019 in China.</article-title>
+              <source>N Engl J Med</source>
+              <year>2020</year>
+              <volume>382</volume>
+              <fpage>1708</fpage>
+              <lpage>20</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Among 1099 patients hospitalized with COVID-19 at 552 hospitals in China through January 2020, the median age was 47 years, 42% were women, 2.4% were admitted to an ICU, 1.4% died and ALT elevations arose in 4.1%).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32109013</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Remdesivir.REF.zhang.2020.428">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Zhang</surname>
+                  <given-names>C</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Shi</surname>
+                  <given-names>L</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Wang</surname>
+                  <given-names>FS</given-names>
+                </name>
+              </person-group>
+              <article-title>Liver injury in COVID-19: management and challenges.</article-title>
+              <source>Lancet Gastroenterol Hepatol</source>
+              <year>2020</year>
+              <volume>5</volume>
+              <fpage>428</fpage>
+              <lpage>30</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Editorial on the frequency and causes of liver test abnormalities in patients with SARS-CoV-2 infection, the most frequent abnormalities being elevations in serum ALT or AST that are reported in 14-53% of patients and are more frequent in patients with severe disease).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32145190</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Remdesivir.REF.xu.2020.998">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Xu</surname>
+                  <given-names>L</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Liu</surname>
+                  <given-names>J</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Lu</surname>
+                  <given-names>M</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Yang</surname>
+                  <given-names>D</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Zheng</surname>
+                  <given-names>X</given-names>
+                </name>
+              </person-group>
+              <article-title>Liver injury during highly pathogenic human coronavirus infections.</article-title>
+              <source>Liver Int</source>
+              <year>2020</year>
+              <volume>40</volume>
+              <fpage>998</fpage>
+              <lpage>1004</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Review of the literature on clinical features and causes of liver injury associated with severe coronavirus infections, reports that transient, largely asymptomatic increases in serum ALT and AST without bilirubin or Alk P elevations arose in 53-87% of SARS-CoV-1, 56% of MERS, and 11-28% of SARS-CoV-2 infections, but that clinically apparent liver injury was uncommon).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32170806</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Remdesivir.REF.gordon.2020.6785">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Gordon</surname>
+                  <given-names>CJ</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Tchesnokov</surname>
+                  <given-names>EP</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Woolner</surname>
+                  <given-names>E</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Perry</surname>
+                  <given-names>JK</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Feng</surname>
+                  <given-names>JY</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Porter</surname>
+                  <given-names>DP</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>G&#x000f6;tte</surname>
+                  <given-names>M</given-names>
+                </name>
+              </person-group>
+              <article-title>Remdesivir is a direct-acting antiviral that inhibits RNA-dependent RNA polymerase from severe acute respiratory syndrome coronavirus 2 with high potency.</article-title>
+              <source>J Biol Chem</source>
+              <year>2020</year>
+              <volume>295</volume>
+              <fpage>6785</fpage>
+              <lpage>97</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(In vitro demonstration of the antiviral activity of remdesivir against the SARS-CoV-1 and SARS-CoV-2 RNA dependent RNA polymerases, showing the viral polymerase has preference for incorporating remdesivir-triphosphate over ATP into the growing RNA molecule which causes delayed chain termination).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32284326</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Remdesivir.REF.grein.2020.2327">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Grein</surname>
+                  <given-names>J</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Ohmagari</surname>
+                  <given-names>N</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Shin</surname>
+                  <given-names>D</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Diaz</surname>
+                  <given-names>G</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Asperges</surname>
+                  <given-names>E</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Castagna</surname>
+                  <given-names>A</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Feldt</surname>
+                  <given-names>T</given-names>
+                </name>
+                <etal/>
+              </person-group>
+              <article-title>Compassionate use of remdesivir for patients with severe COVID-19.</article-title>
+              <source>N Engl J Med</source>
+              <year>2020</year>
+              <volume>382</volume>
+              <fpage>2327</fpage>
+              <lpage>36</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Among 53 patients with SARS-CoV-2 pneumonia treated with remdesivir for up to 10 days, clinical improvement was achieved in 84% of patients by day 28 while 60% had adverse events including 12 [23%] with serum aminotransferase elevations which were typically transient and mild).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32275812</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Remdesivir.REF.wander.2020.941">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Wander</surname>
+                  <given-names>P</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Epstein</surname>
+                  <given-names>M</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Bernstein</surname>
+                  <given-names>D.</given-names>
+                </name>
+              </person-group>
+              <article-title>COVID-19 presenting as acute hepatitis.</article-title>
+              <source>Am J Gastroenterol</source>
+              <year>2020</year>
+              <volume>115</volume>
+              <fpage>941</fpage>
+              <lpage>2</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(59 year old woman with HIV infection developed fatigue and jaundice [bilirubin 0.6 mg/dL, ALT 697 U/L, Alk P 145 U/L, INR 1.08] and then developed fever and cough with positive tests for SARS-CoV-1, liver tests falling over the next week as she recovered from COVID-19, Case 1).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32301760</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Remdesivir.REF.qiu.2020.1590">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Qiu</surname>
+                  <given-names>H</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Wander</surname>
+                  <given-names>P</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Bernstein</surname>
+                  <given-names>D</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Satapathy</surname>
+                  <given-names>SK</given-names>
+                </name>
+              </person-group>
+              <article-title>Acute on chronic liver failure from novel severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2).</article-title>
+              <source>Liver Int</source>
+              <year>2020</year>
+              <volume>40</volume>
+              <fpage>1590</fpage>
+              <lpage>3</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(56 year old woman with decompensated alcoholic cirrhosis developed worsening jaundice and liver function when admitted with SARS-CoV-2 infection [bilirubin rising from 9.4 to ~17.8 mg/dL, ALT from 94 to ~275 U/L, AST from 184 to ~880 U/L, Alk P from 128 to ~195 U/L, INR from 1.9 to 2.6], liver tests improving towards baseline as the infection resolved).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32369658</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Remdesivir.REF.sise.2020.2147">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Sise</surname>
+                  <given-names>ME</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Baggett</surname>
+                  <given-names>MV</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Shepard</surname>
+                  <given-names>JO</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Stevens</surname>
+                  <given-names>JS</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Rhee</surname>
+                  <given-names>EP</given-names>
+                </name>
+              </person-group>
+              <article-title>Case 17-2020: a 68-year-old man with Covid-19 and acute kidney injury.</article-title>
+              <source>N Engl J Med</source>
+              <year>2020</year>
+              <volume>382</volume>
+              <fpage>2147</fpage>
+              <lpage>56</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(68 year old man with diabetes, hypertension and coronary artery disease developed COVID-19 pneumonia and was treated with remdesivir and hydroxychloroquine and developed worsening renal function [creatinine rising from 1.3 to 6.9 mg/dL] leading to early discontinuation of therapy and initiation of hemodialysis, but ultimately recovering, attributed to direct renal effects of the SARS-CoV-1 infection).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32402156</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Remdesivir.REF.jorgensen.2020.659">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Jorgensen</surname>
+                  <given-names>SCJ</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Kebriaei</surname>
+                  <given-names>R</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Dresser</surname>
+                  <given-names>LD</given-names>
+                </name>
+              </person-group>
+              <article-title>Remdesivir: review of pharmacology, pre-clinical data, and emerging clinical experience for COVID-19.</article-title>
+              <source>Pharmacotherapy</source>
+              <year>2020</year>
+              <volume>40</volume>
+              <fpage>659</fpage>
+              <lpage>71</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Review of the chemistry, pharmacology, antiviral activity, resistance patterns of remdesivir as well as studies in animal models and human volunteers and early results of safety and efficacy in clinical trials).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32446287</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Remdesivir.REF.williamson.2020.273">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Williamson</surname>
+                  <given-names>BN</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Feldmann</surname>
+                  <given-names>F</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Schwarz</surname>
+                  <given-names>B</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Meade-White</surname>
+                  <given-names>K</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Porter</surname>
+                  <given-names>DP</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Schulz</surname>
+                  <given-names>J</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>van Doremalen</surname>
+                  <given-names>N</given-names>
+                </name>
+                <etal/>
+              </person-group>
+              <article-title>Clinical benefit of remdesivir in rhesus macaques infected with SARS-CoV-2.</article-title>
+              <source>Nature</source>
+              <year>2020</year>
+              <volume>585</volume>
+              <fpage>273</fpage>
+              <lpage>6</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(In a rhesus macaque model of SARS-CoV-2 infection, intravenous administration of remdesivir starting within 12 hours of inoculation, attenuated the pulmonary complications and lowered viral levels in the lungs but not in the upper respiratory tract).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32516797</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Remdesivir.REF.antinori.2020.104899">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Antinori</surname>
+                  <given-names>S</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Cossu</surname>
+                  <given-names>MV</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Ridolfo</surname>
+                  <given-names>AL</given-names>
+                </name>
+              </person-group>
+              <article-title>Compassionate remdesivir treatment of severe COVID-19 pneumonia in intensive care unit (ICU) and non-ICU patients: clinical outcome and differences in post-treatment hospitalisation status.</article-title>
+              <source>Pharmacol Res.</source>
+              <year>2020</year>
+              <volume>158</volume>
+              <elocation-id>104899</elocation-id>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Among 35 patients with severe SARS-CoV-2 pneumonia treated with a 10 day course of remdesivir, ALT or AST elevations above 3 times ULN occurred in 15 patients [43%] and led to early discontinuation in 3 [9%]).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32407959</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Remdesivir.REF.durantemangoni.2020.779">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Durante-Mangoni</surname>
+                  <given-names>E</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Andini</surname>
+                  <given-names>R</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Bertolino</surname>
+                  <given-names>L</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Mele</surname>
+                  <given-names>F</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Florio</surname>
+                  <given-names>LL</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Murino</surname>
+                  <given-names>P</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Corcione</surname>
+                  <given-names>A</given-names>
+                </name>
+                <etal/>
+              </person-group>
+              <article-title>Early experience with remdesivir in SARS-CoV-2 pneumonia.</article-title>
+              <source>Infection</source>
+              <year>2020</year>
+              <volume>48</volume>
+              <fpage>779</fpage>
+              <lpage>82</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Among 4 patients with severe SARS-CoV-2 pneumonia treated with remdesivir for up to 10 days, 3 developed ALT and AST elevations ranging from 5 to 8 times ULN; no mention of clinically apparent liver injury).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32418190</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Remdesivir.REF.wang.2020.1569">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Wang</surname>
+                  <given-names>Y</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Zhang</surname>
+                  <given-names>D</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Du</surname>
+                  <given-names>G</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Du</surname>
+                  <given-names>R</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Zhao</surname>
+                  <given-names>J</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Jin</surname>
+                  <given-names>Y</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Fu</surname>
+                  <given-names>S</given-names>
+                </name>
+                <etal/>
+              </person-group>
+              <article-title>Remdesivir in adults with severe COVID-19: a randomised, double-blind, placebo-controlled, multicentre trial.</article-title>
+              <source>Lancet</source>
+              <year>2020</year>
+              <volume>395</volume>
+              <issue>10236</issue>
+              <fpage>1569</fpage>
+              <lpage>78</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Among 237 patients with SARS-CoV-2 pneumonia with hypoxemia treated with remdesivir vs placebo for 10 days, the two groups had similar times to improvement [21 vs 23 days], 28 day mortality [14% vs 13%], rates of decline in viral levels and overall adverse event rates [66% vs 64%], while AST elevations were less with the active drug [5% vs 12%]).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32423584</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Remdesivir.REF.ridruejo.2020.353">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Ridruejo</surname>
+                  <given-names>E</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Soza</surname>
+                  <given-names>A</given-names>
+                </name>
+              </person-group>
+              <article-title>The liver in times of COVID-19: What hepatologists should know.</article-title>
+              <source>Ann Hepatol</source>
+              <year>2020</year>
+              <volume>19</volume>
+              <fpage>353</fpage>
+              <lpage>8</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Review of the effects of preexisting liver disease on the severity and outcome of COVID-19 as well as the frequency and significance of liver test abnormalities in patients with SARS-CoV-2 infection and the potential of hepatotoxicity of drugs used in its therapy).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32425991</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Remdesivir.REF.boulware.2020.517">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Boulware</surname>
+                  <given-names>DR</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Pullen</surname>
+                  <given-names>MF</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Bangdiwala</surname>
+                  <given-names>AS</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Pastick</surname>
+                  <given-names>KA</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Lofgren</surname>
+                  <given-names>SM</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Okafor</surname>
+                  <given-names>EC</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Skipper</surname>
+                  <given-names>CP</given-names>
+                </name>
+                <etal/>
+              </person-group>
+              <article-title>A Randomized trial of hydroxychloroquine as postexposure prophylaxis for COVID-19.</article-title>
+              <source>N Engl J Med</source>
+              <year>2020</year>
+              <volume>383</volume>
+              <fpage>517</fpage>
+              <lpage>25</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Among 821 patients with exposure to COVID-19 treated with oral hydroxychloroquine or placebo for 5 days, rates of new illness compatible with COVID-19 were similar in the two groups [14% vs 12%] while adverse events were more frequent with hydroxychloroquine [40% vs 17%]; ALT elevations were not mentioned).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32492293</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Remdesivir.REF.leegwater.2020">
+            <mixed-citation publication-type="other">Leegwater E, Strik A, Wilms EB, Bosma LBE, Burger DM, Ottens TH, van Nieuwkoop C. Drug-induced liver injury in a COVID-19 patient: potential interaction of remdesivir with P-glycoprotein inhibitors. Clin Infect Dis 2020 Jun 28: ciaa883.<annotation><p><italic toggle="yes">(64 year old man with severe SARS-CoV-2 pneumonia developed elevations in serum aminotransferases 5 days after starting remdesivir and 2 days after starting amiodarone [bilirubin 0.5 mg/dL, ALT 135 U/L, Alk P 267 U/L], improving rapidly with stopping, the authors suggested that inhibition of p-glycoprotein, the major hepatic transporter of remdesivir, may have led to its accumulation to injurious levels in hepatocytes).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Remdesivir.REF.dubert.2020.290">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Dubert</surname>
+                  <given-names>M</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Visseaux</surname>
+                  <given-names>B</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Isernia</surname>
+                  <given-names>V</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Bouadma</surname>
+                  <given-names>L</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Deconinck</surname>
+                  <given-names>L</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Patrier</surname>
+                  <given-names>J</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Wicky</surname>
+                  <given-names>PH</given-names>
+                </name>
+                <etal/>
+              </person-group>
+              <article-title>Case report study of the first five COVID-19 patients treated with remdesivir in France.</article-title>
+              <source>Int J Infect Dis</source>
+              <year>2020</year>
+              <volume>98</volume>
+              <fpage>290</fpage>
+              <lpage>3</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Among 5 French patients with SARS-CoV-2 pneumonia treated with remdesivir, 2 died and 3 had a favorable outcome, while 4 had significant adverse reactions including acute renal injury in two and maculopapular rash and liver test abnormalities in 2 [ALT 195 U/L on day 4 and 116 U/L on day 8), resolving within 3-5 days of stopping).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32619764</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Remdesivir.REF.beigel.2020">
+            <mixed-citation publication-type="other">Beigel JH, Tomashek KM, Dodd LE, Mehta AK, Zingman BS, Kalil AC, Hohmann E, et al.; ACTT-1 Study Group Members. Remdesivir for the treatment of COVID-19 - preliminary report. N Engl J Med 2020 May 22: NEJMoa2007764.<annotation><p><italic toggle="yes">(Among 1062 patients hospitalized with COVID-19 treated with intravenous remdesivir or placebo for 10 days, median recovery time was shorter with remdesivir [10 vs 15 days] and adverse events were less common [21% vs 27%], including ALT or AST elevations [6% vs 10.7%].</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Remdesivir.REF.bertolini.2020.1864">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Bertolini</surname>
+                  <given-names>A</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>van de Peppel</surname>
+                  <given-names>IP</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Bodewes</surname>
+                  <given-names>FAJA</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Moshage</surname>
+                  <given-names>H</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Fantin</surname>
+                  <given-names>A</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Farinati</surname>
+                  <given-names>F</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Fiorotto</surname>
+                  <given-names>R</given-names>
+                </name>
+                <etal/>
+              </person-group>
+              <article-title>Abnormal liver function tests in COVID-19 patients: relevance and potential pathogenesis.</article-title>
+              <source>Hepatology</source>
+              <year>2020</year>
+              <volume>72</volume>
+              <issue>5</issue>
+              <fpage>1864</fpage>
+              <lpage>72</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Review of the prevalence and potential causes of abnormal liver tests in patients with SARS-CoV-2 infection, ALT elevations being reported in 4% to 39% of patients with higher rates in patients with more severe disease).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32702162</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Remdesivir.REF.javorac.2020.111639">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Javorac</surname>
+                  <given-names>D</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Grahovac</surname>
+                  <given-names>L</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Mani&#x00107;</surname>
+                  <given-names>L</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Stojilkovi&#x00107;</surname>
+                  <given-names>N</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>An&#x00111;elkovi&#x00107;</surname>
+                  <given-names>M</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Bulat</surname>
+                  <given-names>Z</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>&#x00110;uki&#x00107;-&#x00106;osi&#x00107;</surname>
+                  <given-names>D</given-names>
+                </name>
+                <etal/>
+              </person-group>
+              <article-title>An overview of the safety assessment of medicines currently used in the COVID-19 disease treatment.</article-title>
+              <source>Food Chem Toxicol</source>
+              <year>2020</year>
+              <month>Oct</month>
+              <volume>144</volume>
+              <elocation-id>111639</elocation-id>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Review of the toxicities of drugs used experimentally to treat SARS-CoV-2 infection mentions that remdesivir can cause reversible elevations in serum ALT and AST, but without concurrent increases in Alk P or bilirubin levels).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32707160</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Remdesivir.REF.fan.2020.110532">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Fan</surname>
+                  <given-names>Q</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Zhang</surname>
+                  <given-names>B</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Ma</surname>
+                  <given-names>J</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Zhang</surname>
+                  <given-names>S</given-names>
+                </name>
+              </person-group>
+              <article-title>Safety profile of the antiviral drug remdesivir: An update.</article-title>
+              <source>Biomed Pharmacother</source>
+              <year>2020</year>
+              <month>Jul</month>
+              <day>21</day>
+              <volume>130</volume>
+              <elocation-id>110532</elocation-id>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Short review of the safety of remdesivir identified in early studies of its use in patients with severe COVID-19 mentions that serum aminotransferase elevations are not uncommon during SARS-CoV-2 pneumonia and several reports have reported transient, elevations of serum ALT and AST levels without symptoms or jaundice during remdesivir therapy).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32707440</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Remdesivir.REF.montastruc.2020.2835">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Montastruc</surname>
+                  <given-names>F</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Thuriot</surname>
+                  <given-names>S</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Durrieu</surname>
+                  <given-names>G</given-names>
+                </name>
+              </person-group>
+              <article-title>Hepatic disorders with the use of remdesivir for coronavirus 2019.</article-title>
+              <source>Clin Gastroenterol Hepatol</source>
+              <year>2020</year>
+              <volume>18</volume>
+              <issue>12</issue>
+              <fpage>2835</fpage>
+              <lpage>6</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(A total of 387 spontaneous adverse drug reactions attributed to remdesivir have been reported to VigiBase, 130 being hepatic, 88 being serum ALT elevations, arising after 1-11 days, lasting an average of 3.8 days).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32721580</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Remdesivir.REF.zampino.2020.881">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Zampino</surname>
+                  <given-names>R</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Mele</surname>
+                  <given-names>F</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Florio</surname>
+                  <given-names>LL</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Bertolino</surname>
+                  <given-names>L</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Andini</surname>
+                  <given-names>R</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Galdo</surname>
+                  <given-names>M</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>De Rosa</surname>
+                  <given-names>R</given-names>
+                </name>
+                <etal/>
+              </person-group>
+              <article-title>Liver injury in remdesivir-treated COVID-19 patients.</article-title>
+              <source>Hepatol Int</source>
+              <year>2020</year>
+              <volume>14</volume>
+              <fpage>881</fpage>
+              <lpage>3</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Among 5 critically ill patients with SARS-CoV-2 infection, all had increases in ALT or AST without Alk P or bilirubin elevations within 1-3 days of starting remdesivir, resolving rapidly with stopping and not associated with clinically apparent liver injury or jaundice).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32725454</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Remdesivir.REF.hundt.2020">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Hundt</surname>
+                  <given-names>MA</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Deng</surname>
+                  <given-names>Y</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Ciarleglio</surname>
+                  <given-names>MM</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Nathanson</surname>
+                  <given-names>MH</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Lim</surname>
+                  <given-names>JK</given-names>
+                </name>
+              </person-group>
+              <article-title>Abnormal Liver Tests in COVID-19: A retrospective observational cohort study of 1827 patients in a major U.S. hospital network.</article-title>
+              <source>Hepatology</source>
+              <year>2020</year>
+              <month>Jul</month>
+              <day>29</day>
+              <comment>Epub ahead of print</comment>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Among 1877 patients hospitalized with SARS-CoV-2 infection, serum ALT levels were elevated before hospitalization in 19%, at admission in 42% and at peak during hospitalization in 62% with 21% being greater than 5 times ULN; elevations correlated with disease severity and its risk factors, male sex, older age, higher BMI and diabetes).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32725890</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Remdesivir.REF.cavalcanti.2020">
+            <mixed-citation publication-type="other">Cavalcanti AB, Zampieri FG, Rosa RG, Azevedo LCP, Veiga VC, Avezum A, Damiani LP, et al.; Coalition COVID-19 Brazil I Investigators. Hydroxychloroquine with or without azithromycin in mild-to-moderate COVID-19. N Engl J Med 2020 Jul 23: NEJMoa2019014. Epub ahead of print.<annotation><p><italic toggle="yes">(Among 504 hospitalized patients with confirmed COVID-19 who were treated with standard of care or hydroxychloroquine or with combination of hydroxychloroquine and azithromycin for 7 days, improvement in clinical status by day 15 was similar in all three groups, while ALT elevations were more frequent in those receiving hydroxychloroquine [11% and 9%] than in those given neither [3.4%]).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Remdesivir.REF.lee.2020.369">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Lee</surname>
+                  <given-names>C</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Ahn</surname>
+                  <given-names>MY</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Byeon</surname>
+                  <given-names>K</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Choi</surname>
+                  <given-names>JP</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Hahm</surname>
+                  <given-names>C</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Kim</surname>
+                  <given-names>H</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Kim</surname>
+                  <given-names>S</given-names>
+                </name>
+                <etal/>
+              </person-group>
+              <article-title>Clinical experience with use of remdesivir in the treatment of severe acute respiratory syndrome coronavirus 2: a case series.</article-title>
+              <source>Infect Chemother</source>
+              <year>2020</year>
+              <volume>52</volume>
+              <fpage>369</fpage>
+              <lpage>80</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Among 10 Korean patients with severe SARS-CoV-2 pneumonia treated for 5 or 10 days with remdesivir, 5 developed ALT and AST elevations, but all were transient and less than 5 times ULN).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32757500</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Remdesivir.REF.spinner.2020.1048">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Spinner</surname>
+                  <given-names>CD</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Gottlieb</surname>
+                  <given-names>RL</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Criner</surname>
+                  <given-names>GJ</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Arribas L&#x000f3;pez</surname>
+                  <given-names>JR</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Cattelan</surname>
+                  <given-names>AM</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Soriano Viladomiu</surname>
+                  <given-names>A</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Ogbuagu</surname>
+                  <given-names>O</given-names>
+                </name>
+                <etal/>
+              </person-group>
+              <article-title>GS-US-540-5774 Investigators. Effect of remdesivir vs standard care on clinical status at 11 days in patients with moderate COVID-19: a randomized clinical trial.</article-title>
+              <source>JAMA</source>
+              <year>2020</year>
+              <volume>324</volume>
+              <fpage>1048</fpage>
+              <lpage>57</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Among 584 patients hospitalized with confirmed SARS-CoV-2 pneumonia, clinical improvements at day 11 were more frequent in patients randomized to 5 days of remdesivir vs 10 days of remdesivir and vs standard of care [70% vs 65% vs 61%], while 28 day mortality was similar in all 3 groups [1% vs 2% vs 2%], although severe adverse events were less in those on remdesivir [5% vs 5% vs 9%] including any ALT elevation [34% vs 32% vs 39%] and those above 5 times ULN [2% vs 3% vs 8%]; no mention of clinically apparent hepatotoxicity).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32821939</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Remdesivir.REF.ferron.2020">
+            <mixed-citation publication-type="other">Ferron PJ, Gicquel T, M&#x000e9;garbane B, Cl&#x000e9;ment B, Fromenty B. Treatments in COVID-19 patients with pre-existing metabolic dysfunction-associated fatty liver disease: a potential threat for drug-induced liver injury? Biochimie 2020: S0300-9084(20)30203-0.<annotation><p><italic toggle="yes">(Commentary on possible hepatotoxicity of drugs used to treat SARS-CoV-2 infection and possible increase in risk for injury among patients with preexisting fatty liver disease).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Remdesivir.REF.carothers.2020">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Carothers</surname>
+                  <given-names>C</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Birrer</surname>
+                  <given-names>K</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Vo</surname>
+                  <given-names>M</given-names>
+                </name>
+              </person-group>
+              <article-title>Acetylcysteine for the treatment of suspected remdesivir-associated acute liver failure in COVID-19: a case series.</article-title>
+              <source>Pharmacotherapy</source>
+              <year>2020</year>
+              <month>Oct</month>
+              <day>2</day>
+              <comment>Epub ahead of print</comment>
+              <pub-id pub-id-type="doi">10.1002/phar.2464</pub-id>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Two patients, ages 68 and 80, with severe SARS-CoV-2 pneumonia developed abnormal liver tests during or shortly after a course of remdesivir, one arising 2 days after starting remdesivir and 1 day after starting intravenous amiodarone [Case 2: bilirubin 3.1 mg/dL, ALT 2400 U/L, INR 2.3], and one arising 4 days after stopping a 5 day course of remdesivir and concurrent with suspected septic shock [bilirubin 2.1 mg/dL, ALT 1510 U/L, Alk P 151 U/L, INR 1.7], both treated with acetylcysteine infusions with apparent improvement).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">33006138</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Remdesivir.REF37">
+            <mixed-citation publication-type="web">FDA Fact Sheet for Health Care Providers. Emergency use authorization (EUA) of Veklury&#x000ae; (remdesivir) <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.fda.gov/media/137566/download">https://www.fda.gov/media/137566/download</ext-link><annotation><p><italic toggle="yes">(Fact sheet on remdesivir from the FDA recommends monitoring of routine liver tests before and daily during remdesivir therapy, not initiating therapy if values are above 5 times ULN and discontinuing therapy if they rise to above 5 times ULN, restarting when values fall below this level).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Remdesivir.REF38">
+            <mixed-citation publication-type="other">RECOVERY Collaborative Group, Horby P, Mafham M, Linsell L, Bell JL, Staplin N, Emberson JR, Wiselka M, et al. Effect of hydroxychloroquine in hospitalized patients with COVID-19. N Engl J Med 2020 Oct 8:NEJMoa2022926. Epub ahead of print.<annotation><p><italic toggle="yes">(Among 1561 patients randomized to receive hydroxychloroquine vs 3155 randomized to standard care, the mortality rate was similar in the two groups [27% vs 25%] and cardiovascular toxicity was not increased with the active drug; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Remdesivir.REF.dyer.2020.m4057">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Dyer</surname>
+                  <given-names>O.</given-names>
+                </name>
+              </person-group>
+              <article-title>Covid-19: Remdesivir has little or no impact on survival, WHO trial shows.</article-title>
+              <source>BMJ</source>
+              <year>2020</year>
+              <volume>371</volume>
+              <fpage>m4057</fpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Editorial on the results of the large WHO-supported Solidarity Trial comparing four different promising agents to no therapy in 11,266 adults hospitalized with COVID-19 demonstrating no difference in 28 day mortality with remdesivir therapy [301/2708: 11.1%] compared to no treatment [301/2743: 11.0%], nor in rates of requiring mechanical ventilation or in duration of hospitalization).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">33077424</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Remdesivir.REF.baang.2020">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Baang</surname>
+                  <given-names>JH</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Smith</surname>
+                  <given-names>C</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Mirabelli</surname>
+                  <given-names>C</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Valesano</surname>
+                  <given-names>AL</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Manthei</surname>
+                  <given-names>DM</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Bachman</surname>
+                  <given-names>M</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Wobus</surname>
+                  <given-names>CE</given-names>
+                </name>
+                <etal/>
+              </person-group>
+              <article-title>Prolonged SARS-CoV-2 replication in an immunocompromised patient.</article-title>
+              <source>J Infect Dis</source>
+              <year>2020</year>
+              <month>Oct</month>
+              <day>22</day>
+              <comment>Epub ahead of print</comment>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(60 year old man with refractory lymphoma on chemotherapy [including mosunetuzumab] developed persistent SARS CoV-2 infection with repeated bouts of pulmonary symptoms and persistent nasopharyngeal RNA and virus [molecularly identical] despite two courses of remdesivir and convalescent plasma, being still SARS CoV-2 positive at 156 days when he was referred for hospice care).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">33089317</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Remdesivir.REF.beigel.2020.1813">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Beigel</surname>
+                  <given-names>JH</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Tomashek</surname>
+                  <given-names>KM</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Dodd</surname>
+                  <given-names>LE</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Mehta</surname>
+                  <given-names>AK</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Zingman</surname>
+                  <given-names>BS</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Kalil</surname>
+                  <given-names>AC</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Hohmann</surname>
+                  <given-names>E</given-names>
+                </name>
+                <etal/>
+                <collab>ACTT-1 Study Group Members</collab>
+              </person-group>
+              <article-title>Remdesivir for the treatment of COVID-19 &#x02013; final report.</article-title>
+              <source>N Engl J Med</source>
+              <year>2020</year>
+              <volume>383</volume>
+              <fpage>1813</fpage>
+              <lpage>26</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Final report of a randomized, placebo controlled trial of remdesivir infusions for 10 days in 1062 adults hospitalized with COVID-19 pneumonia found treatment resulted in more rapid recovery time [10 vs 15 days] and slightly lower mortality at 29 days [11.4% vs 15.2%], while adverse events were less frequent with the active drug including serious adverse events [24% vs 32%], and elevations in serum ALT [2.3% vs 4.7%], AST [3.4% vs 6.4%] and bilirubin [1.7% vs 3.1%]; no mention of clinically apparent liver injury).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32445440</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Remdesivir.REF.goldman.2020.1827">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Goldman</surname>
+                  <given-names>JD</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Lye</surname>
+                  <given-names>DCB</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Hui</surname>
+                  <given-names>DS</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Marks</surname>
+                  <given-names>KM</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Bruno</surname>
+                  <given-names>R</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Montejano</surname>
+                  <given-names>R</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Spinner</surname>
+                  <given-names>CD</given-names>
+                </name>
+                <etal/>
+              </person-group>
+              <article-title>GS-US-540-5773 Investigators. Remdesivir for 5 or 10 days in patients with severe COVID-19.</article-title>
+              <source>N Engl J Med</source>
+              <year>2020</year>
+              <volume>383</volume>
+              <fpage>1827</fpage>
+              <lpage>37</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Among 297 patients with severe SARS-CoV-2 pneumonia treated with 5 or 10 days of intravenous remdesivir, rates of clinical improvement were similar in the two groups and adverse events included nausea [9%], constipation [7%] and ALT elevations above 5 times ULN [7%]; therapy was discontinued early because of enzyme elevations in 3% but no mention of clinically apparent hepatotoxicity).</italic>
+                </p>
+              </annotation>
+            </element-citation>
+          </ref>
+          <ref id="Remdesivir.REF.humeniuk.2020.896">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Humeniuk</surname>
+                  <given-names>R</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Mathias</surname>
+                  <given-names>A</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Cao</surname>
+                  <given-names>H</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Osinusi</surname>
+                  <given-names>A</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Shen</surname>
+                  <given-names>G</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Chng</surname>
+                  <given-names>E</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Ling</surname>
+                  <given-names>J</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Vu</surname>
+                  <given-names>A</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>German</surname>
+                  <given-names>P</given-names>
+                </name>
+              </person-group>
+              <article-title>Safety, tolerability, and pharmacokinetics of remdesivir, an antiviral for treatment of COVID-19, in healthy subjects.</article-title>
+              <source>Clin Transl Sci</source>
+              <year>2020</year>
+              <volume>13</volume>
+              <fpage>896</fpage>
+              <lpage>906</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Results of phase 1 studies of remdesivir in healthy subjects, found ALT or AST elevations in 2 subjects treated for 7 days and 6 of 8 treated for 14 days, but all elevations were asymptomatic, mild [less than 5 times ULN], transient and not associated with bilirubin or alkaline phosphatase elevations).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32589775</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Remdesivir.REF.zeitlinger.2020.1195">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Zeitlinger</surname>
+                  <given-names>M</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Koch</surname>
+                  <given-names>BCP</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Bruggemann</surname>
+                  <given-names>R</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>De Cock</surname>
+                  <given-names>P</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Felton</surname>
+                  <given-names>T</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Hites</surname>
+                  <given-names>M</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Le</surname>
+                  <given-names>J</given-names>
+                </name>
+                <etal/>
+                <collab>PK/PD of Anti-Infectives Study Group (EPASG) of the European Society of Clinical Microbiology, Infectious Diseases (ESCMID)</collab>
+              </person-group>
+              <article-title>Pharmacokinetics/pharmacodynamics of antiviral agents used to treat SARS-CoV-2 and their potential interaction with drugs and other supportive measures: a comprehensive review by the PK/PD of Anti-Infectives Study Group of the European Society of Antimicrobial Agents.</article-title>
+              <source>Clin Pharmacokinet</source>
+              <year>2020</year>
+              <volume>59</volume>
+              <fpage>1195</fpage>
+              <lpage>1216</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Review of the pharmacology and potential of drug-drug interaction of remdesivir).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32725382</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Remdesivir.REF.sabers.2020.e239210">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Sabers</surname>
+                  <given-names>AJ</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Williams</surname>
+                  <given-names>AL</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Farley</surname>
+                  <given-names>TM</given-names>
+                </name>
+              </person-group>
+              <article-title>Use of remdesivir in the presence of elevated LFTs for the treatment of severe COVID-19 infection.</article-title>
+              <source>BMJ Case Rep</source>
+              <year>2020</year>
+              <volume>13</volume>
+              <issue>10</issue>
+              <elocation-id>e239210</elocation-id>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(82 year old man with COVID-19 treated initially with hydroxychloroquine and azithromycin was admitted with pulmonary symptoms and found to have abnormal liver tests [bilirubin 1.1 mg/dL, ALT 1075 U/L, Alk P not given], which worsened for one day and then improved rapidly despite initiation of therapy with remdesivir as well as use of convalescent plasma, dexamethasone, levofloxacin, ceftriaxone and amiodarone [while stopping hydroxychloroquine and azithromycin], with clinical improvement and near normal ALT levels by day 7).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">33130588</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Remdesivir.REF.rahimi.2021.e10">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Rahimi</surname>
+                  <given-names>MM</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Jahantabi</surname>
+                  <given-names>E</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Lotfi</surname>
+                  <given-names>B</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Forouzesh</surname>
+                  <given-names>M</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Valizadeh</surname>
+                  <given-names>R</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Farshid</surname>
+                  <given-names>S</given-names>
+                </name>
+              </person-group>
+              <article-title>Renal and liver injury following the treatment of COVID-19 by remdesivir.</article-title>
+              <source>J Nephropathol</source>
+              <year>2021</year>
+              <volume>10</volume>
+              <issue>2</issue>
+              <elocation-id>e10</elocation-id>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://www.nephropathol.com/Files/Inpress/jnp-17106.pdf">http://www.nephropathol.com/Files/Inpress/jnp-17106.pdf</ext-link>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Review of the renal handling of remdesivir and cautionary note on use of remdesivir in patients with renal dysfunction because of an increased risk of further renal dysfunction and hepatic adverse events).</italic>
+                </p>
+              </annotation>
+            </element-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec sec-type="link-group" id="Remdesivir.OTHER_REFERENCE_LINKS">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <label>1</label>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=(Remdesivir/AE)+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D:%222999/12/31%22%5BEDat%5D)">Recent References on Remdesivir: from PubMed.gov</ext-link>
+            </p>
+          </list-item>
+          <list-item>
+            <label>2</label>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Remdesivir">Trials on Remdesivir: from ClinicalTrials.gov</ext-link>
+            </p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

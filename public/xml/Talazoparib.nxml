@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Talazoparib" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Talazoparib</book-part-id>
+      <title-group>
+        <title>Talazoparib</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>20</day>
+          <month>1</month>
+          <year>2019</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Tagraxofusp" document-type="chapter">Tagraxofusp</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Tamoxifen" document-type="chapter">Tamoxifen</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Talazoparib.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Talazoparib.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Talazoparib is an orally available small molecule inhibitor of the DNA repair enzyme poly ADP-ribose polymerase (PARP) which is used as an antineoplastic agent in the treatment of selected cases of breast cancer. Talazoparib is associated with a moderate rate of serum aminotransferase elevations during therapy and is suspected to cause rare instances of clinically apparent acute liver injury.</p>
+        </sec>
+        <sec id="Talazoparib.Background">
+          <title>Background</title>
+          <p>Talazoparib (tal" a zoe' pa rib) is a potent small molecule inhibitor of polyadenosine 5&#x02019;-diphosphoribose (ADP-ribose) polymerase (PARP), an enzyme involved in repair of single strand breaks in DNA and which is used in the therapy of breast cancer. In normal cells, DNA repair mechanisms include base excision repair for single strand DNA breaks, for which PARP plays an important role, and homologous recombination for double-strand DNA breaks for which the tumor suppressor proteins BRCA-1 and BRCA-2 are involved. In patients with cancers associated with BRCA mutations, and particularly those with breast and ovarian cancer, the cancer cells are particularly susceptible to PARP inhibitors which cause accumulation of DNA breaks and resultant cell necrosis. In several clinical trials, talazoparib has been found improve progression free survival in patients with advanced or metastatic HER-2 negative breast cancer with BRCA mutations. It is also being evaluated as therapy of other types of solid tumors that harbor germ-line BRCA mutations. Talazoparib was approved for therapy of breast cancer (HER negative, BRCA positive) in the United States in 2018 and is available in capsules of 0.25 and 1.0 mg under the brand name Talzenna. The recommended dose is 1 mg orally once daily, continued until progressive disease or intolerable toxicity occurs. Side effects are common and can include fatigue, nausea, vomiting, diarrhea, anorexia, headache, alopecia, anemia, neutropenia and thrombocytopenia. Uncommon, but potentially severe side effects include myelodysplastic syndromes, marked myelosuppression and embryo-fetal toxicity.</p>
+        </sec>
+        <sec id="Talazoparib.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>Elevations in serum aminotransferase levels are common during talazoparib therapy occurring in 33% of patients, but rising above 5 times the upper limit of the normal range in only 1%. The elevations are generally transient and not associated with symptoms or jaundice. Furthermore, similar rates of aminotransferase elevations were reported in control, comparator arms. Talazoparib has had limited clinical use but has not been linked to instances of acute liver injury with symptoms or jaundice. Because of the limited clinical experience with using talazoparib and other PARP inhibitors, their potential for causing liver injury is not well defined.</p>
+          <p>Likelihood score: E* (unproved but suspected cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Talazoparib.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The possible cause of the liver injury due to talazoparib is not known. Talazoparib has minimal hepatic metabolism and does not inhibit any of the major cytochrome P450 (CYP) metabolizing enzymes.</p>
+        </sec>
+        <sec id="Talazoparib.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>Talazoparib therapy has been associated with transient serum aminotransferase elevations during therapy, but has not been linked to instances of acute liver injury with jaundice or symptoms. Serum aminotransferase elevations above 5 times the upper limit of normal (if confirmed) should lead to temporary discontinuation, which should be permanent if laboratory values do not improve significantly or resolve within a few weeks or if symptoms or jaundice arise.</p>
+          <p>Drug Class: <related-object source-id="livertox" document-id="AntineoplasticAgents">Antineoplastic Agents</related-object>, <related-object source-id="livertox" document-id="ProteinKinaseInhibit">Protein Kinase Inhibitors</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Talazoparib.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <boxed-text position="anchor" id="Talazoparib.BPI" orientation="portrait">
+          <p>
+            <bold>REPRESENTATIVE TRADE NAMES</bold>
+          </p>
+          <p>Talazoparib &#x02013; Talzenna&#x000ae;</p>
+          <p>
+            <bold>DRUG CLASS</bold>
+          </p>
+          <p>Antineoplastic Agents</p>
+          <p>
+            <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Talazoparib">COMPLETE LABELING</ext-link>
+          </p>
+          <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+        </boxed-text>
+      </sec>
+      <sec id="Talazoparib.CHEMICAL_FORMULA_AND_STRUCTU">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Talazoparib.T1" position="anchor" orientation="portrait">
+          <table>
+            <thead>
+              <tr>
+                <th id="hd_h_Talazoparib.T1_1_1_1_1" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Talazoparib.T1_1_1_1_2" rowspan="1" colspan="1">CAS REGISTRY NO.</th>
+                <th id="hd_h_Talazoparib.T1_1_1_1_3" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Talazoparib.T1_1_1_1_4" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Talazoparib.T1_1_1_1_1" rowspan="1" colspan="1">Talazoparib</td>
+                <td headers="hd_h_Talazoparib.T1_1_1_1_2" rowspan="1" colspan="1">
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://164027304">1207456-01-6</ext-link>
+                </td>
+                <td headers="hd_h_Talazoparib.T1_1_1_1_3" rowspan="1" colspan="1">C19-H14-F2-N6-O</td>
+                <td headers="hd_h_Talazoparib.T1_1_1_1_4" rowspan="1" colspan="1">
+                  <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Talazoparib_structure.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait">
+                    <alt-text>Talazoparib chemical structure</alt-text>
+                  </graphic>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Talazoparib.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 20 January 2019</p>
+        <p>Abbreviation: PARP, polyadenosine-5&#x02019;-diphosphoribose polymerase.</p>
+        <ref-list id="Talazoparib.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Talazoparib.R1">
+            <mixed-citation publication-type="other">Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999.<annotation><p><italic toggle="yes">(Review of hepatotoxicity published in 1999 before the availability of kinase inhibitors).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Talazoparib.R2">
+            <mixed-citation publication-type="other">DeLeve LD. Erlotinib. Cancer chemotherapy. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013, pp. 556.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of cancer chemotherapeutic agents published in 2013 before the availability of talazoparib and the small molecule PARP inhibitors).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Talazoparib.R3">
+            <mixed-citation publication-type="other">Wellstein A, Giaccone G, Atkins MB, Sausville EA. Pathway-targeted therapies: monoclonal antibodies, protein kinase inhibitors, and various small molecules. In, Brunton LL, Hilal-Dandan R, Knollman BC, eds. Goodman &#x00026; Gilman's the pharmacological basis of therapeutics. 13th ed. New York: McGraw-Hill, 2018, pp. 1203-36.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Talazoparib.R4">
+            <mixed-citation publication-type="other">
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.accessdata.fda.gov/scripts/cder/daf/">https://www.accessdata.fda.gov/scripts/cder/daf/</ext-link>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(FDA Drug Approvals website that has product labels [package inserts], letters of approval and full FDA scientific review of the new drug application for safety and efficacy; mentions that serum ALT elevations were frequent during talazoparib therapy, but rates were lower than with standard therapy [34% vs 39%] and there were no cases of ALT elevations with symptoms or jaundice).</italic>
+                </p>
+              </annotation>
+            </mixed-citation>
+          </ref>
+          <ref id="Talazoparib.R5">
+            <mixed-citation publication-type="journal">de Bono J, Ramanathan RK, Mina L, Chugh R, Glaspy J, Rafii S, Kaye S, S et al. Phase I, dose-escalation, two-part trial of the PARP inhibitor talazoparib in patients with advanced germline BRCA1/2 mutations and selected sporadic cancers. Cancer Discov 2017; 7: 620-9. <annotation><p><italic toggle="yes">(Among 110 patients with various BRCA positive solid tumors treated with different doses of talazoparib, the maximum tolerated dose was 1.0 mg/day and extended therapy was associated with complete responses, particularly in those with ovarian and breast cancer; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">28242752</pub-id></mixed-citation>
+          </ref>
+          <ref id="Talazoparib.R6">
+            <mixed-citation publication-type="journal">Turner NC, Telli ML, Rugo HS, Mailliez A, Ettl J, Grischke EM, Mina LA, et al. A phase II study of talazoparib after platinum or cytotoxic nonplatinum regimens in patients with advanced breast cancer and germline BRCA1/2 Mutations (ABRAZO). Clin Cancer Res 2018 Dec 18. [Epub ahead of print] <annotation><p><italic toggle="yes">(Among 83 women with advanced breast cancer and BRCA mutations treated with talazoparib, the overall objective response rate was 28% and while rates of ALT elevations were not provided, two subjects stopped treatment early because of liver test abnormalities).</italic></p></annotation><pub-id pub-id-type="pmid">30563931</pub-id></mixed-citation>
+          </ref>
+          <ref id="Talazoparib.R7">
+            <mixed-citation publication-type="journal">Litton JK, Rugo HS, Ettl J, Hurvitz SA, Gon&#x000e7;alves A, Lee KH, Fehrenbacher L, et al. Talazoparib in patients with advanced breast cancer and a germline BRCA Mutation. N Engl J Med 2018; 379: 753-63. <annotation><p><italic toggle="yes">(Among 431 women with advanced breast cancer with BRCA mutations with talazoparib or single-agent standard therapy, median progression free survival was longer with talazoparib [8.6 vs 5.6 months], while serious adverse event rates were similar [32% vs 29%] and &#x0201c;hepatic toxicity&#x0201d; was less frequent [9% vs 20%]).</italic></p></annotation><pub-id pub-id-type="pmid">30110579</pub-id></mixed-citation>
+          </ref>
+          <ref id="Talazoparib.R8">
+            <mixed-citation publication-type="journal">Gunjur A. Talazoparib for BRCA-mutated advanced breast cancer. Lancet Oncol 2018; 19: e511. <annotation><p><italic toggle="yes">(News report on results of trial of talazoparib for breast cancer [Litton 2018] stressing the need to compare talazoparib with standard first-line platinum-based chemotherapy and to better understand mechanisms of resistance to PARP inhibitors).</italic></p></annotation><pub-id pub-id-type="pmid">30146245</pub-id></mixed-citation>
+          </ref>
+          <ref id="Talazoparib.R9">
+            <mixed-citation publication-type="journal">Hoy SM. Talazoparib: first global approval. Drugs 2018; 78: 1939-46. <annotation><p><italic toggle="yes">(Review of the mechanism of action, history of development, structure, pharmacology, efficacy and safety of talazoparib; mentions that &#x0201c;hepatic adverse events&#x0201d; were less frequent with talazoparib than standard therapy [9% vs 20%], but one patient died of suspected sinusoidal obstruction syndrome).</italic></p></annotation><pub-id pub-id-type="pmid">30506138</pub-id></mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec id="Talazoparib.OTHER_REFERENCE_LINKS" sec-type="link-group">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=Talazoparib+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D%3A%222999/12/31%22%5BEDat%5D)">Recent References on Talazoparib: from PubMed.gov</ext-link>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Talazoparib">Trials on Talazoparib: from ClinicalTrials.gov</ext-link>
+            </p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

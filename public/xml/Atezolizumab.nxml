@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Atezolizumab" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Atezolizumab</book-part-id>
+      <title-group>
+        <title>Atezolizumab</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>6</day>
+          <month>12</month>
+          <year>2016</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Atenolol" document-type="chapter">Atenolol</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Atomoxetine" document-type="chapter">Atomoxetine</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Atezolizumab.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Atezolizumab.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Atezolizumab is a humanized monoclonal antibody to programmed death-ligand 1 (PD-L1) that increases immune reactivity to tumor neoantigens and is used as immunotherapy of selected cancers of the bladder and lung. Atezolizumab has been associated with a low rate of serum enzyme elevations during therapy and with uncommon instances of clinically apparent, immune-mediated liver injury.</p>
+        </sec>
+        <sec id="Atezolizumab.Background">
+          <title>Background</title>
+          <p>Atezolizumab (a" te zoe liz' ue mab) is a humanized monoclonal immunoglobulin G1 antibody to the programmed cell death ligand 1 (PD-L1) that is used in cancer immunotherapy. Inhibition of PD-L1 overcomes the usual block ("checkpoint") in immune surveillance of tumor cell neoantigens and can induce remissions in several forms of advanced, metastatic cancer including urothelial (bladder and urethral) carcinoma and non-small cell lung cancer (NSCLC). In clinical trials, atezolizumab led to prolongation of recurrence free survival as well as overall survival in patients with bladder cancer and NSCLC. Response rates to atezolizumab were somewhat higher in patients who expressed high levels of PD-L1 in tumor-infiltrating immune cells. Atezolizumab was approved for use in the United States in 2016, the fourth monoclonal antibody checkpoint inhibitor introduced into cancer immunotherapy, the others being ipilimumab (anti-CTLA-4: 2011), pembrolizumab (anti-PD-1: 2014), and nivolumab (anti-PD-1: 2015). Atezolizumab is available in single use vials of 1200 mg (in 20 mL) and the recommended dose is 1200 mg intravenously every 3 weeks. Adverse events can include fatigue, nausea, anorexia, diarrhea, fever, dyspnea and rash. Most challenging, however, are the various immune-mediated adverse events such as hypothyroidism, colitis, pneumonitis and hepatitis. Early recognition and prompt management of these side effects (usually with corticosteroids) is an integral component of proper use of checkpoint inhibitors.</p>
+        </sec>
+        <sec id="Atezolizumab.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>In preregistration controlled trials of atezolizumab in various forms of metastatic cancer, serum aminotransferase elevations occurred in 2% to 6% of patients and were above 5 times the ULN in 1% to 2%. In addition, several instances of immune-mediated hepatitis were reported, although the clinical features were not described in any detail. In most instances, the liver injury from check point inhibitors arises within 1 to 3 months of starting therapy and is marked by prominent elevations in serum ALT and AST with minimal increases in alkaline phosphatase. Although apparently immune mediated, most patients do not develop conventional autoantibodies. The liver tests abnormalities usually resolve with stopping therapy, but improvement is more rapid with corticosteroid therapy, which can also allow continuation of the immunotherapy of the cancer. Because patients in these clinical trials were prospectively monitored, atezolizumab was withdrawn once liver test abnormalities were detected and, perhaps as a consequence, severe liver injury with jaundice was not reported. In clinical practice, use of the checkpoint inhibitors with less rigorous monitoring may result in continuation of therapy despite early evidence of injury and more prominent instances of clinically apparent liver injury. However, rates of clinically apparent liver injury from atezolizumab appear to be lower than those associated with ipilimumab, the initial checkpoint inhibitor.</p>
+          <p>The effects of anti-PD-L1 inhibition on hepatitis B have not been reported as enrollment criteria in the clinical trials of atezolizumab typically excluded patients with hepatitis B or C or preexisting liver disease. However, it is likely that checkpoint inhibitors could exacerbate chronic hepatitis B and C by enhancing T cell cytotoxicity to viral antigens.</p>
+          <p>Likelihood score: D (possible cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Atezolizumab.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The mechanism of liver injury due to atezolizumab is likely to be immunologically mediated and cases have appeared to respond to corticosteroid or immunosuppressive therapy allowing for continuation of atezolizumab therapy.</p>
+        </sec>
+        <sec id="Atezolizumab.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>Guidelines for management of patients receiving monoclonal antibody checkpoint inhibitors recommend corticosteroids for patients who develop persistent serum aminotransferase elevations above 5 times the ULN, initiating therapy with high doses of intravenous methylprednisolone and switching to oral prednisone after 1 to 2 days, continuing tapering doses for at least 30 days. Most cases of hepatitis due to atezolizumab resolve with prompt institution of immunosuppressive therapy. The few fatal cases associated with checkpoint inhibitors that have been reported occurred in patients who had other severe immune related adverse events (Stevens Johnson syndrome, capillary leak syndrome) or who had a delay in starting corticosteroid therapy.</p>
+          <p>Drug Class: <related-object source-id="livertox" document-id="AntineoplasticAgents">Antineoplastic Agents</related-object>, <related-object source-id="livertox" document-id="MonoclonalAntibodies">Monoclonal Antibodies</related-object>, Checkpoint Inhibitors</p>
+        </sec>
+      </sec>
+      <sec id="Atezolizumab.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <boxed-text position="anchor" id="Atezolizumab.BPI" orientation="portrait">
+          <p>
+            <bold>REPRESENTATIVE TRADE NAMES</bold>
+          </p>
+          <p>Atezolizumab &#x02013; Tecentriq&#x000ae;</p>
+          <p>
+            <bold>DRUG CLASS</bold>
+          </p>
+          <p>Antineoplastic Agents</p>
+          <p>
+            <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?label=all&#x00026;query=Atezolizumab">COMPLETE LABELING</ext-link>
+          </p>
+          <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+        </boxed-text>
+      </sec>
+      <sec id="Atezolizumab.CHEMICAL_FORMULA_AND_STRUCT">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Atezolizumab.T1" position="anchor" orientation="portrait">
+          <table>
+            <thead>
+              <tr>
+                <th id="hd_h_Atezolizumab.T1_1_1_1_1" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Atezolizumab.T1_1_1_1_2" rowspan="1" colspan="1">CAS REGISTRY NO.</th>
+                <th id="hd_h_Atezolizumab.T1_1_1_1_3" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Atezolizumab.T1_1_1_1_4" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Atezolizumab.T1_1_1_1_1" rowspan="1" colspan="1">Atezolizumab</td>
+                <td headers="hd_h_Atezolizumab.T1_1_1_1_2" rowspan="1" colspan="1">
+                  <bold>
+                    <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://377483935">1380723-44-3</ext-link>
+                  </bold>
+                </td>
+                <td headers="hd_h_Atezolizumab.T1_1_1_1_3" rowspan="1" colspan="1">Monoclonal Antibody</td>
+                <td headers="hd_h_Atezolizumab.T1_1_1_1_4" rowspan="1" colspan="1">Not Available</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Atezolizumab.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 06 December 2016</p>
+        <ref-list id="Atezolizumab.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Atezolizumab.R1">
+            <mixed-citation publication-type="other">Zimmerman HJ. Drugs used to treat rheumatic and musculospastic disease. In, Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999, pp. 517-54.<annotation><p><italic toggle="yes">(Expert review of hepatotoxicity published in 1999, well before the availability of most monoclonal antibody therapies).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Atezolizumab.R2">
+            <mixed-citation publication-type="other">Reuben A. Biological immunosuppressives. Hepatotoxicity of immunosuppressive drugs. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013, pp. 580-2.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of immunosuppressive agents; mentions that "the biological immunosuppressants are largely free from hepatotoxicity, except for the TNF alpha antagonists"; checkpoint inhibitors such as atezolizumab were not specifically discussed).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Atezolizumab.R3">
+            <mixed-citation publication-type="other">Chabner BA, Barnes J, Neal J, Olson E, Mujagiv H, Sequist L, Wilson W, et al. Targeted therapies: tyrosine kinase inhibitors, monoclonal antibodies, and cytokines. In, Brunton LL, Chabner BA, Knollman BC, eds. Goodman &#x00026; Gilman's the pharmacological basis of therapeutics. 12th ed. New York: McGraw-Hill, 2011, pp. 1731-53.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Atezolizumab.R4">
+            <mixed-citation publication-type="journal">Phan GQ, Yang JC, Sherry RM, Hwu P, Topalian SL, Schwartzentruber DJ, Restifo NP, et al. Cancer regression and autoimmunity induced by cytotoxic T lymphocyte-associated antigen 4 blockade in patients with metastatic melanoma. Proc Natl Acad Sci U S A 2003; 100: 8372-7. <annotation><p><italic toggle="yes">(Initial study of checkpoint inhibitor [anti-CTLA-4] therapy in 14 patients with melanoma, 6 of whom developed clinically apparent immune adverse reactions including one with hepatitis arising after the third infusion [ALT 6820 U/L], resolving over the ensuing 4 months with corticosteroid therapy: Case 1, Ipilimumab).</italic></p></annotation><pub-id pub-id-type="pmid">12826605</pub-id></mixed-citation>
+          </ref>
+          <ref id="Atezolizumab.R5">
+            <mixed-citation publication-type="journal">Di Giacomo AM, Biagioli M, Maio M. The emerging toxicity profiles of anti-CTLA-4 antibodies across clinical indications. Semin Oncol 2010; 37: 499-507. <annotation><p><italic toggle="yes">(Review of immune related adverse events including hepatitis associated with ipilimumab therapy; recommends stopping therapy for grade 3 toxicity [ALT &#x0003e;5 times ULN] and initiating corticosteroids for at least 30 days).</italic></p></annotation><pub-id pub-id-type="pmid">21074065</pub-id></mixed-citation>
+          </ref>
+          <ref id="Atezolizumab.R6">
+            <mixed-citation publication-type="journal">Robert C, Thomas L, Bondarenko I, O'Day S, M D JW, Garbe C, Lebbe C, Baurain JF, et al. Ipilimumab plus dacarbazine for previously untreated metastatic melanoma. N Engl J Med 2011; 364: 2517-26. <annotation><p><italic toggle="yes">(Control trial of ipilimumab and dacarbazine vs dacarbazine alone in 502 patients with metastatic melanoma found ALT elevations in 33% on the combination vs 6% on dacarbazine alone, and ALT values above 5 times ULN in 16% vs 0.7%, but no deaths were due to liver failure).</italic></p></annotation><pub-id pub-id-type="pmid">21639810</pub-id></mixed-citation>
+          </ref>
+          <ref id="Atezolizumab.R7">
+            <mixed-citation publication-type="journal">Kleiner DE, Berman D. Pathologic changes in ipilimumab-related hepatitis in patients with metastatic melanoma. Dig Dis Sci 2012; 57: 2233-40. <annotation><p><italic toggle="yes">(Clinical and histological features of 5 patients with liver injury due to ipilimumab; 3 men and 2 women, ages 43-76 years, arising after 2 to 4 courses, 39-71 days after initial dose [peak bilirubin 1.5-5.1 mg/dL, ALT 326-3070 U/L, Alk P 206-427 U/L], only one had autoantibodies, resolving with immunosuppressive therapy within 1-4 months; one had recurrence on rechallenge; liver biopsies showed acute hepatitis usually with prominent inflammation, interface hepatitis and confluent necrosis: Case 1, Ipilimumab).</italic></p></annotation><pub-id pub-id-type="pmid">22434096</pub-id></mixed-citation>
+          </ref>
+          <ref id="Atezolizumab.R8">
+            <mixed-citation publication-type="journal">Weber JS, K&#x000e4;hler KC, Hauschild A. Management of immune-related adverse events and kinetics of response with ipilimumab. J Clin Oncol 2012; 30: 2691-7. <annotation><p><italic toggle="yes">(Review of the immune related adverse events associated with ipilimumab therapy and their management mentions that hepatotoxicity occurs in 3-9% of patients usually with asymptomatic increases in ALT and bilirubin, but some with symptoms; authors recommend use of high doses of corticosteroids for 2 days followed by tapering doses to at least 30 days; multiple courses may be necessary and ipilimumab should not be restarted).</italic></p></annotation><pub-id pub-id-type="pmid">22614989</pub-id></mixed-citation>
+          </ref>
+          <ref id="Atezolizumab.R9">
+            <mixed-citation publication-type="journal">Weber JS, Dummer R, de Pril V, Lebb&#x000e9; C, Hodi FS; MDX010-20 Investigators. Patterns of onset and resolution of immune-related adverse events of special interest with ipilimumab: detailed safety analysis from a phase 3 trial in patients with advanced melanoma. Cancer 2013; 119: 1675-82. <annotation><p><italic toggle="yes">(In clinical trials of ipilimumab in 676 patients with melanoma, immune related adverse events occurred in ~60% of patients arising 3-9 weeks after starting and often mild, but severe in 12% and fatal in 1%, including one case of acute liver failure).</italic></p></annotation><pub-id pub-id-type="pmid">23400564</pub-id></mixed-citation>
+          </ref>
+          <ref id="Atezolizumab.R10">
+            <mixed-citation publication-type="journal">Fecher LA, Agarwala SS, Hodi FS, Weber JS. Ipilimumab and its toxicities: a multidisciplinary approach. Oncologist 2013; 18: 733-43. <annotation><p><italic toggle="yes">(Thorough review of side effects of ipilimumab therapy of melanoma states that common adverse events include fatigue, nausea, vomiting, diarrhea, fever, headache, dizziness, rash and pruritus occurring in 70-88% of patients and that hepatotoxicity occurs in 2-9% that can be self-limited, but also can be severe and require corticosteroid therapy).</italic></p></annotation><pub-id pub-id-type="pmid">23774827</pub-id></mixed-citation>
+          </ref>
+          <ref id="Atezolizumab.R11">
+            <mixed-citation publication-type="journal">McDermott D, Haanen J, Chen TT, Lorigan P, O'Day S; MDX010-20 Investigators. Efficacy and safety of ipilimumab in metastatic melanoma patients surviving more than 2 years following treatment in a phase III trial (MDX010-20). Ann Oncol 2013; 24: 2694-8. <annotation><p><italic toggle="yes">(Among 676 patients with melanoma enrolled in the phase III trial of ipilimumab, 94 [20%] survived for 2 years and 42 [16%] for 3 years; late onset immune related adverse events occurred in 11 patients [14%], but were usually mild and none were hepatic).</italic></p></annotation><pub-id pub-id-type="pmid">23942774</pub-id></mixed-citation>
+          </ref>
+          <ref id="Atezolizumab.R12">
+            <mixed-citation publication-type="journal">Powles T, Eder JP, Fine GD, Braiteh FS, Loriot Y, Cruz C, Bellmunt J, et al. MPDL3280A (anti-PD-L1) treatment leads to clinical activity in metastatic bladder cancer. Nature 2014; 515 (7528): 558-62. <annotation><p><italic toggle="yes">(Among 68 patients with metastatic bladder cancer treated with atezolizumab, the objective response rate was 26% and was higher in patients whose tumors stained strongly positive for PD-L1 [43%] than not [11%]; adverse events included transient AST elevations in 3%, but levels were less than 5 times ULN in all).</italic></p></annotation><pub-id pub-id-type="pmid">25428503</pub-id></mixed-citation>
+          </ref>
+          <ref id="Atezolizumab.R13">
+            <mixed-citation publication-type="journal">Algazi AP, Tsai KK, Shoushtari AN, Munhoz RR, Eroglu Z, Piulats JM, Ott PA, et al. Clinical outcomes in metastatic uveal melanoma treated with PD-1 and PD-L1 antibodies. Cancer 2016; 122: 3344-53. <annotation><p><italic toggle="yes">(Among 58 patients with metastatic ocular melanoma treated with various monoclonal checkpoint inhibitors, the objective response rate was only 3%, well below rates in non-uveal melanoma; only 1 patient had ALT elevations, but they were less than 5 times ULN and there were no hepatic severe adverse events).</italic></p></annotation><pub-id pub-id-type="pmid">27533448</pub-id></mixed-citation>
+          </ref>
+          <ref id="Atezolizumab.R14">
+            <mixed-citation publication-type="journal">Mizugaki H, Yamamoto N, Murakami H, Kenmotsu H, Fujiwara Y, Ishida Y, Kawakami T, et al. Phase I dose-finding study of monotherapy with atezolizumab, an engineered immunoglobulin monoclonal antibody targeting PD-L1, in Japanese patients with advanced solid tumors. Invest New Drugs 2016; 34: 596-603. <annotation><p><italic toggle="yes">(Among 6 patients with advanced solid cancers treated with atezolizumab [10-20 mg/kg every 3 weeks], adverse events were generally mild and ALT elevations occurred in only 2 patients, both with levels less than 3 times ULN and not requiring drug discontinuation).</italic></p></annotation><pub-id pub-id-type="pmid">27363843</pub-id></mixed-citation>
+          </ref>
+          <ref id="Atezolizumab.R15">
+            <mixed-citation publication-type="journal">Rosenberg JE, Hoffman-Censits J, Powles T, van der Heijden MS, Balar AV, Necchi A, Dawson N, et al. Atezolizumab in patients with locally advanced and metastatic urothelial carcinoma who have progressed following treatment with platinum-based chemotherapy: a single-arm, multicentre, phase 2 trial. Lancet 2016; 387 (10031): 1909-20. <annotation><p><italic toggle="yes">(Among 315 patients with refractory metastatic bladder cancer treated with atezolizumab [1200 mg every 3 weeks], the objective response rate was 15% and adverse events included fatigue [30%], nausea [14%], anorexia [12%], pruritus [10%], fever [9%], diarrhea [8%] and rash [7%], while immune mediated events occurred in 23 [7%] including AST elevations in 10 [3%] which were above 5 times ULN in 2 [&#x0003c;1%]).</italic></p></annotation><pub-id pub-id-type="pmid">26952546</pub-id></mixed-citation>
+          </ref>
+          <ref id="Atezolizumab.R16">
+            <mixed-citation publication-type="journal">Fehrenbacher L, Spira A, Ballinger M, Kowanetz M, Vansteenkiste J, Mazieres J, Park K, et al.; POPLAR Study Group. Atezolizumab versus docetaxel for patients with previously treated non-small-cell lung cancer (POPLAR): a multicentre, open-label, phase 2 randomised controlled trial. Lancet 2016; 387 (10030): 1837-46. <annotation><p><italic toggle="yes">(Among 277 patients with refractory NSCLC treated with atezolizumab or docetaxel every 3 weeks, overall survival was 12.6 vs 9.7 months, but adverse events were more common with docetaxel; 6 atezolizumab-treated patients [4%] had ALT elevations above 5 times ULN and one had mild "hepatitis").</italic></p></annotation><pub-id pub-id-type="pmid">26970723</pub-id></mixed-citation>
+          </ref>
+          <ref id="Atezolizumab.R17">
+            <mixed-citation publication-type="journal">McDermott DF, Sosman JA, Sznol M, Massard C, Gordon MS, Hamid O, Powderly JD, et al. Atezolizumab, an anti-programmed death-ligand 1 antibody, in metastatic renal cell carcinoma: long-term safety, clinical activity, and immune correlates from a phase Ia study. J Clin Oncol 2016; 34: 833-42. <annotation><p><italic toggle="yes">(Among 70 patients with metastatic renal cell cancer treated with atezolizumab every 3 weeks for 1 year, the objective response rate was 15%; ALT elevations above 5 times ULN occurred in 1 patient only, and immune mediated adverse events occurred in 30 [43%], 6 of whom required corticosteroid therapy).</italic></p></annotation><pub-id pub-id-type="pmid">26755520</pub-id></mixed-citation>
+          </ref>
+          <ref id="Atezolizumab.R18">
+            <mixed-citation publication-type="journal">Abdel-Rahman O, Helbling D, Schmidt J, Petrausch U, Giryes A, Mehrabi A, Sch&#x000f6;b O, et al. Treatment-related death in cancer patients treated with immune checkpoint inhibitors: a systematic review and meta-analysis. Clin Oncology 2016; [epub ahead of print]. <annotation><p><italic toggle="yes">(Review of 18 trials of checkpoint inhibitors found a lower rate of treatment related deaths from anti-PD-1/-PD-L1 than for anti-CTLA-4 inhibitors).</italic></p></annotation><pub-id pub-id-type="pmid">27894673</pub-id></mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec id="Atezolizumab.OTHER_REFERENCE_LINKS" sec-type="link-group">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=Atezolizumab+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D%3A%222999/12/31%22%5BEDat%5D)">Recent References on Atezolizumab: from PubMed.gov</ext-link>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Atezolizumab">Trials on Atezolizumab: from ClinicalTrials.gov</ext-link>
+            </p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Idelalisib" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Idelalisib</book-part-id>
+      <title-group>
+        <title>Idelalisib</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>16</day>
+          <month>4</month>
+          <year>2018</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Ibuprofen" document-type="chapter">Ibuprofen</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Ifosfamide" document-type="chapter">Ifosfamide</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Idelalisib.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Idelalisib.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Idelalisib is an oral kinase inhibitor that is approved for use in combination with rituximab in relapsed or refractory chronic lymphocytic leukemia (CLL) and as monotherapy for relapsed follicular B cell and small lymphocytic lymphoma. Idelalisib is associated with a high rate of minor serum enzyme elevations during therapy and has been reported to cause clinically apparent acute liver injury that can be severe and even fatal.</p>
+        </sec>
+        <sec id="Idelalisib.Background">
+          <title>Background</title>
+          <p>Idelalisib (eye del" a lis' ib) is an orally available, small molecule inhibitor of phosphatidylinositol 3-kinase delta (PI3K&#x003b4;), which is an essential component in the B cell signaling pathways that drive migration of B cells to lymph nodes and bone marrow. Inhibition of this pathway inhibits B cell chemotaxis and adherence and reduces cell viability. This pathway is upregulated in many B cell malignancies and has been shown to be critical for proliferation and survival of leukemia and lymphomatous malignant B lymphocytes. Idelalisib was approved for use in the United States as therapy for relapsed CLL in combination with rituximab and as monotherapy for indolent forms of non-Hodgkin&#x02019;s lymphoma in 2014. Idelalisib is available as tablets of 100 and 150 mg under the brand name Zydelig. The recommended dose is 150 mg twice daily until disease progression or unacceptable toxicity. Side effects are common but usually mild-to-moderate in severity, and include nausea, diarrhea, headache, stomatitis, fever, pain, rash, infections, arthralgia and fatigue. Common laboratory abnormalities can include cytopenias, liver enzyme elevations, hyper- or hypo-glycemia, and hyponatremia. Severe adverse events can include liver failure, severe diarrhea, pneumonitis, intestinal perforation, severe skin rash, anaphylaxis, neutropenia and embryo-fetal toxicity.</p>
+        </sec>
+        <sec id="Idelalisib.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>In clinical trials of idelalisib combined with rituximab in patients with CLL and lymphoma, the rates of serum enzyme elevations during therapy ranged from 25% to 35% and were above 5 times the ULN in 5% to 8% (compared to 1% with placebo and rituximab). Severe instances of severe acute hepatocellular injury and acute liver failure were reported in patients receiving idelalisib alone and with rituximab, but the clinical features of the cases were not be described in detail. Serum enzyme elevations typically arose within 4 to 12 weeks of starting therapy and usually resolved rapidly with temporary discontinuation. In some instances, however, serum aminotransferases remained high despite stopping therapy, and in this situation corticosteroids appeared to have a beneficial effect. Most patients who developed significant serum enzyme elevations with idelalisib had a rapid recurrence upon rechallenge. In patients receiving corticosteroids, however, recurrence was less common and generally mild, allowing for restarting of therapy in most patients. Thus, idelalisib is a frequent cause of acute hepatocellular injury which may have an autoimmune component. However, idelalisib has not been widely used and it potential for causing acute clinically apparent liver injury with jaundice has not been well defined.</p>
+          <p>Because, idelalisib affects B cell function, it may also be capable of inducing reactivation of hepatitis B, although in published trials of the agent, reactivation was not reported.</p>
+          <p>Likelihood score: D (possible cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Idelalisib.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The reason why idelalisib causes serum enzyme elevations is not known, but may be a direct toxicity to hepatocytes caused by inhibition of PI3K activity or the result of change in B cell activity and caused by induction of autoimmunity. Idelalisib is metabolized primarily by aldehyde oxidase which is present in many tissues, but highest concentrations are in the liver. The cytochrome P450 system plays a minor role in the metabolism (CYP 3A4) of idelalisib, but concentrations may be affected by drugs that induce or inhibit CYP 3A activity.</p>
+        </sec>
+        <sec id="Idelalisib.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>Serum enzyme elevations are not uncommon during cancer chemotherapy with idelalisib and may occasionally be dose limiting. Idelalisib should not be used with other agents with hepatotoxic potential. Furthermore, regular monitoring of liver tests every 2 to 4 weeks is recommended during the first six months of idelalisib therapy and every 1 to 3 months thereafter, with more frequent monitoring if serum aminotransferase values rise. Idelalisib should be held if ALT or AST values rise above 5 times the ULN, and treatment resumed only if and when values fall into the normal range and then with a reduced dose and careful monitoring. Elevations of aminotransferase values of more than 20 times the ULN, or appearance of jaundice or symptoms of liver injury should trigger permanent discontinuation. Corticosteroids are often used if the liver injury does not resolve rapidly with stopping idelalisib, and continuing the corticosteroids may help prevent recurrence of injury with restarting therapy. There is no known cross sensitivity to hepatic injury among the different protein kinase inhibitors.</p>
+          <p>Drug Class: <related-object source-id="livertox" document-id="AntineoplasticAgents">Antineoplastic Agents</related-object>, <related-object source-id="livertox" document-id="ProteinKinaseInhibit">Protein Kinase Inhibitors</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Idelalisib.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <boxed-text position="anchor" id="Idelalisib.BPI" orientation="portrait">
+          <p>
+            <bold>REPRESENTATIVE TRADE NAMES</bold>
+          </p>
+          <p>Idelalisib &#x02013; Zydelig&#x000ae;</p>
+          <p>
+            <bold>DRUG CLASS</bold>
+          </p>
+          <p>Antineoplastic Agents</p>
+          <p>
+            <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Idelalisib">COMPLETE LABELING</ext-link>
+          </p>
+          <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+        </boxed-text>
+      </sec>
+      <sec id="Idelalisib.CHEMICAL_FORMULA_AND_STRUCTUR">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Idelalisib.T1" position="anchor" orientation="portrait">
+          <table>
+            <thead>
+              <tr>
+                <th id="hd_h_Idelalisib.T1_1_1_1_1" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Idelalisib.T1_1_1_1_2" rowspan="1" colspan="1">CAS REGISTRY NO</th>
+                <th id="hd_h_Idelalisib.T1_1_1_1_3" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Idelalisib.T1_1_1_1_4" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Idelalisib.T1_1_1_1_1" rowspan="1" colspan="1">Idelalisib</td>
+                <td headers="hd_h_Idelalisib.T1_1_1_1_2" rowspan="1" colspan="1">
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://163642790">870281-82-6</ext-link>
+                </td>
+                <td headers="hd_h_Idelalisib.T1_1_1_1_3" rowspan="1" colspan="1">C22-H18-F-N7-O</td>
+                <td headers="hd_h_Idelalisib.T1_1_1_1_4" rowspan="1" colspan="1">
+                  <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Idelalisib_structure.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait">
+                    <alt-text>Idelalisib chemical structure</alt-text>
+                  </graphic>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Idelalisib.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 16 April 2018</p>
+        <ref-list id="Idelalisib.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Idelalisib.R1">
+            <mixed-citation publication-type="other">Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999.<annotation><p><italic toggle="yes">(Review of hepatotoxicity published in 1999 before the availability of tyrosine kinase receptor inhibitors).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Idelalisib.R2">
+            <mixed-citation publication-type="other">DeLeve LD. Kinase inhibitors. Gefitinib. Cancer chemotherapy. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013, p. 556.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of cancer chemotherapeutic agents; does not discuss idelalisib).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Idelalisib.R3">
+            <mixed-citation publication-type="other">Chabner BA, Barnes J, Neal J, Olson E, Mujagic H, Sequist L, Wilson W, et al. Targeted therapies: tyrosine kinase inhibitors, monoclonal antibodies, and cytokines. In, Brunton LL, Chabner BA, Knollman BC, eds. Goodman &#x00026; Gilman's the pharmacological basis of therapeutics. 12th ed. New York: McGraw-Hill, 2011, pp. 1731-54.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Idelalisib.R4">
+            <mixed-citation publication-type="journal">Furman RR, Sharman JP, Coutre SE, Cheson BD, Pagel JM, Hillmen P, Barrientos JC, et al. Idelalisib and rituximab in relapsed chronic lymphocytic leukemia. N Engl J Med 2014; 370: 997-1007. <annotation><p><italic toggle="yes">(Among 220 patients with relapsed CLL treated in a placebo controlled trial, progression free survival improved with idelalisib and rituximab compared to rituximab alone, but side effects were more common with the combination including ALT or AST elevations [35% vs 19%] which were above 5 times ULN in 5% vs 1% and led to drug discontinuations in some patients, but there were no clinically apparent cases of liver injury).</italic></p></annotation><pub-id pub-id-type="pmid">24450857</pub-id></mixed-citation>
+          </ref>
+          <ref id="Idelalisib.R5">
+            <mixed-citation publication-type="journal">Gopal AK, Kahl BS, de Vos S, Wagner-Johnston ND, Schuster SJ, Jurczak WJ, Flinn IW, et al. PI3K&#x003b4; inhibition by idelalisib in patients with relapsed indolent lymphoma. N Engl J Med 2014; 370: 1008-18. <annotation><p><italic toggle="yes">(Among125 patients with refractory non-Hodgkin lymphoma, treatment with idelalisib yielded a 59% objective response rate, while side effects included diarrhea [43%], fatigue [30%], nausea [30%], cough [29%], fever [28%] and ALT elevations [13%] which led to discontinuations in 5 patients [4%]).</italic></p></annotation><pub-id pub-id-type="pmid">24450858</pub-id></mixed-citation>
+          </ref>
+          <ref id="Idelalisib.R6">
+            <mixed-citation publication-type="journal">Kahl BS, Spurgeon SE, Furman RR, Flinn IW, Coutre SE, Brown JR, Benson DM, et al. A phase 1 study of the PI3K&#x003b4; inhibitor idelalisib in patients with relapsed/refractory mantle cell lymphoma (MCL). Blood. 2014; 123: 3398-405. <annotation><p><italic toggle="yes">(Among 40 patients with refractory mantle cell lymphoma treated with idelalisib for 1 to 31 months, overall response rate was 40% and side effects were common, ALT or AST elevations occurred in 24 [60%] patients and were above 5 times ULN in 8 [20%], typically arising 4-9 weeks after starting and resolving rapidly upon stopping).</italic></p></annotation><pub-id pub-id-type="pmid">24615778</pub-id></mixed-citation>
+          </ref>
+          <ref id="Idelalisib.R7">
+            <mixed-citation publication-type="journal">Coutr&#x000e9; SE, Barrientos JC, Brown JR, de Vos S, Furman RR, Keating MJ, Li D, et al. Management of adverse events associated with idelalisib treatment: expert panel opinion. Leuk Lymphoma 2015; 56: 2779-86. <annotation><p><italic toggle="yes">(Expert opinion on management of adverse events from idelalisib therapy with major discussions of diarrhea, serum aminotransferase elevations and pneumonitis; recommends monitoring of liver tests and discontinuing therapy based upon FDA guidelines using the height of ALT or AST elevations over the upper limit of normal).</italic></p></annotation><pub-id pub-id-type="pmid">25726955</pub-id></mixed-citation>
+          </ref>
+          <ref id="Idelalisib.R8">
+            <mixed-citation publication-type="journal">Jin F, Robeson M, Zhou H, Hisoire G, Ramanathan S. The pharmacokinetics and safety of idelalisib in subjects with moderate or severe hepatic impairment. J Clin Pharmacol 2015; 55: 944-52. <annotation><p><italic toggle="yes">(Pharmacokinetic studies of single doses of idelalisib in patients with mild or moderate liver dysfunction found minor differences in drug or metabolite plasma concentrations or disappearance curves).</italic></p></annotation><pub-id pub-id-type="pmid">25821156</pub-id></mixed-citation>
+          </ref>
+          <ref id="Idelalisib.R9">
+            <mixed-citation publication-type="journal">Horak F, Puri KD, Steiner BH, Holes L, Xing G, Zieglmayer P, Zieglmayer R, et al. Randomized phase 1 study of the phosphatidylinositol 3-kinase &#x003b4; inhibitor idelalisib in patients with allergic rhinitis. J Allergy Clin Immunol 2016; 137; 1733-41. <annotation><p><italic toggle="yes">(Among 41 patients with allergic rhinitis treated with idelalisib or placebo for 7 days and then challenged with allergen, allergic symptoms were less in idelalisib treated subjects, none of whom had ALT elevations).</italic></p></annotation><pub-id pub-id-type="pmid">26915677</pub-id></mixed-citation>
+          </ref>
+          <ref id="Idelalisib.R10">
+            <mixed-citation publication-type="other">Idelalisib (Zydelig) for chronic lymphocytic leukemia and non-Hodgkins lymphoma. Med Lett Drugs Ther 2015; 57 (on line only): e74-6. Not in PubMed<annotation><p><italic toggle="yes">(Concise review of mechanism of action, efficacy, safety and cost of idelalisib shortly after its approval for use in the US mentions that reported serious adverse events include fatal hepatotoxicity, diarrhea, colitis, pneumonitis and intestinal perforation).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Idelalisib.R11">
+            <mixed-citation publication-type="journal">Jin F, Robeson M, Zhou H, Hisoire G, Ramanathan S. The pharmacokinetics and safety of idelalisib in subjects with moderate or severe hepatic impairment. J Clin Pharmacol 2015; 55: 944-52. <annotation><p><italic toggle="yes"> (Single dose studies in patients with moderate and severe liver impairment [Child's Class B and C] found similar maxiumum plasma concentrations compared to healthy controls, suggesting that dose adjustment for liver disease is not necessary).</italic></p></annotation><pub-id pub-id-type="pmid">25821156</pub-id></mixed-citation>
+          </ref>
+          <ref id="Idelalisib.R12">
+            <mixed-citation publication-type="journal">de Vos S, Wagner-Johnston ND, Coutre SE, Flinn IW, Schreeder MT, Fowler NH, Sharman JP, et al. Combinations of idelalisib with rituximab and/or bendamustine in patients with recurrent indolent non-Hodgkin lymphoma. Blood Adv 2016; 1: 122-31. <annotation><p><italic toggle="yes">(In a trial of idelalsib combined with rituximab or bendamustine or both for a median of 10 months, response rates were 75-88%, but adverse events were frequent including ALT elevations [46%], 16% above 5 times ULN).</italic></p></annotation><pub-id pub-id-type="pmid">29296805</pub-id></mixed-citation>
+          </ref>
+          <ref id="Idelalisib.R13">
+            <mixed-citation publication-type="journal">Lampson BL, Kasar SN, Matos TR, Morgan EA, Rassenti L, Davids MS, Fisher DC, et al. Idelalisib given front-line for treatment of chronic lymphocytic leukemia causes frequent immune-mediated hepatotoxicity. Blood 2016; 128: 195-203. <annotation><p><italic toggle="yes">(Among 24 patients with relapsed or refractory CLL treated with idelalisib, 19 [79%] developed ALT elevations which were above 5 times ULN in 13 [54%], usually within 28 days of starting therapy and sometimes worsening despite drug discontinuation leading to corticosteroid therapy in 16 subjects; rechallenge with idelalisib led to recurrence within a few days, but abnormalities were mild and tolerable in those on corticosteroids).</italic></p></annotation><pub-id pub-id-type="pmid">27247136</pub-id></mixed-citation>
+          </ref>
+          <ref id="Idelalisib.R14">
+            <mixed-citation publication-type="journal">Smith SM, Pitcher BN, Jung SH, Bartlett NL, Wagner-Johnston N, Park SI, Richards KL, et al. Safety and tolerability of idelalisib, lenalidomide, and rituximab in relapsed and refractory lymphoma: the Alliance for Clinical Trials in Oncology A051201 and A051202 phase 1 trials. Lancet Haematol 2017; 4: e176-e182. <annotation><p><italic toggle="yes">(A preliminary study with idelalisib combined with rituximab and lenalidomide in 11 patients with lymphoma was closed early because of severe adverse events including sepsis, severe rash, and ALT elevations above 20 times ULN in two subjects).</italic></p></annotation><pub-id pub-id-type="pmid">28314699</pub-id></mixed-citation>
+          </ref>
+          <ref id="Idelalisib.R15">
+            <mixed-citation publication-type="journal">Jones JA, Robak T, Brown JR, Awan FT, Badoux X, Coutre S, Loscertales J, et al. Efficacy and safety of idelalisib in combination with ofatumumab for previously treated chronic lymphocytic leukaemia: an open-label, randomised phase 3 trial. Lancet Haematol 2017; 4: e114-e126. <annotation><p><italic toggle="yes">(Among 261 patients with refractory CLL treated with the ofatumumab with or without idelalisib, progression free survival was higher with idelalisib [16 vs 8 months] but adverse events were also more frequent including severe infections and ALT elevations [53% vs 21%] which were above 5 times ULN in 11% vs 1% and which led to discontinuation of idelalisib in 4 patients [2%]; no deaths were attributed to hepatic failure).</italic></p></annotation><pub-id pub-id-type="pmid">28257752</pub-id></mixed-citation>
+          </ref>
+          <ref id="Idelalisib.R16">
+            <mixed-citation publication-type="journal">Zelenetz AD, Barrientos JC, Brown JR, Coiffier B, Delgado J, Egyed M, Ghia P, et al. Idelalisib or placebo in combination with bendamustine and rituximab in patients with relapsed or refractory chronic lymphocytic leukaemia: interim results from a phase 3, randomised, double-blind, placebo-controlled trial. Lancet Oncol 2017; 18: 297-311. <annotation><p><italic toggle="yes">(Among 416 patients with CLL treated with bendamustine and rituximab with or without idelalisib, progression-free survival was greater with idelalisib [20.8 vs 11.1 months] as were adverse events including febrile neutropenia [24% vs 5%], severe diarrhea [9% vs 2%], and ALT elevations above 5 times ULN [21% vs 3%], and one treatment related death was attributed to "liver disorder").</italic></p></annotation><pub-id pub-id-type="pmid">28139405</pub-id></mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec id="Idelalisib.OTHER_REFERENCE_LINKS" sec-type="link-group">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=Idelalisib/AE+AND+Human%5BMH%5D+AND+(jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI+OR+hepatitis,+toxic%5BMH%5D)">Recent References on Idelalisib: from PubMed.gov</ext-link>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Idelalisib">Trials on Idelalisib: from ClinicalTrials.gov</ext-link>
+            </p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

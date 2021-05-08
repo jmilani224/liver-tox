@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="ImmuneFeatures" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">ImmuneFeatures</book-part-id>
+      <title-group>
+        <title>Immunological Features</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>4</day>
+          <month>5</month>
+          <year>2019</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Phenotypes_cirrhosis" document-type="chapter">Cirrhosis</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Phenotypes_immun" document-type="chapter">Immunoallergic Hepatitis</related-object>
+    </book-part-meta>
+    <body>
+      <p>Drug induced liver injury is often accompanied by immunological features indicating either hypersensitivity or an autoimmune reaction or both. These features range in severity and prominence; they are usually transient and mild, but can be severe and dominant in the clinical picture. Immunological features, of course, point to an immune causality for the liver injury, but in some situations the immunological features may be the result rather than the cause of the liver injury. Two major forms of immune features occur in drug induced liver injury: immunoallergic and autoimmune features. These patterns are usually, but not invariably distinct. The presence of immunological features is often helpful in the diagnosis of drug induced liver injury and sometimes helps to identify the causative agent.</p>
+      <p><bold>Immunoallergic hepatitis</bold> is accompanied by variable combinations of skin rash, fever, lymphadenopathy, facial edema, myaglias, arthraglia, eosinophilia and atypical lymphocytosis. Immunoallergic hepatitis is most frequent with cholestatic or mixed forms of acute hepatitis due to medications, but also occurs with purely hepatocellular injury, as well as with enzyme elevations without jaundice and some instances of chronic hepatitis due to medications. Immunoallergic hepatitis usually has a short latency and abrupt onset and is most typical of the aromatic anticonvulsants, allopurinol, sulfonamides and fluoroquinolones. The most dramatic forms of immunoallergic hepatitis are often referred to as DRESS syndrome (drug reaction with eosinophilia and systemic symptoms) and may include Stevens Johnson syndrome or toxic epidermal necrosis.</p>
+      <p><bold>Autoimmune hepatitis</bold> is marked by the presence of autoantibodies (most typically antinuclear antibody) and hyperglobulinemia accompanying the liver injury. Autoimmune hepatitis induced by medications usually has a long latency (sometimes years), insidious onset and a hepatocellular pattern of serum enzyme elevations. Liver histology in autoimmune forms of drug induced liver injury resembles the pattern seen in spontaneous or idiopathic autoimmune hepatitis. The medications most frequently linked to drug induced autoimmune hepatitis include nitrofurantoin, minocycline, hydralazine and methyldopa.</p>
+      <p>
+        <related-object link-type="booklink" source-id="livertox" document-id="Phenotypes_immun" document-type="chapter">Immunoallergic Hepatitis</related-object>
+      </p>
+      <p>
+        <related-object link-type="booklink" source-id="livertox" document-id="Phenotypes_auto" document-type="chapter">Autoimmune Hepatitis</related-object>
+      </p>
+    </body>
+  </book-part>
+</book-part-wrapper>

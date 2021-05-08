@@ -1,0 +1,1096 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="PlatinumCoordination" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">PlatinumCoordination</book-part-id>
+      <title-group>
+        <title>Platinum Coordination Complexes</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>12</day>
+          <month>9</month>
+          <year>2020</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Pitavastatin" document-type="chapter">Pitavastatin</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Plazomicin" document-type="chapter">Plazomicin</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="PlatinumCoordination.OVERVIEW">
+        <title>OVERVIEW</title>
+        <p content-type="pubmed-excerpt">The platinum coordination complexes are a group of antineoplastic agents that are usually classified as alkylating agents, but which have distinctive features. Their anticancer activity appears to relate to the cross linking of DNA molecules in a fashion similar to standard alkylating agents. The DNA adducts formed by the platinum-containing complexes inhibit DNA replication and lead to strand breaks and miscoding, thereby eliciting apoptosis as well as inhibition of RNA and protein synthesis.</p>
+        <p content-type="pubmed-excerpt">The first of the platinum coordination complex with alkylating activity introduced into clinical medicine was cisplatin. Cisplatin was first described in 1845 as Peyrone's salt and in 1893 its chemical structure was elucidated. In the 1960s, cisplatin was shown to have anticancer activity in vitro and in vivo. Upon this discovery, multiple platinum containing compounds were synthesized and studied for anticancer activity in screening assays. Cisplatin was found to have the most potency. Cisplatin (Platinol) was approved for use in the United States in 1978 and became an important component of therapies of ovarian, testicular, bladder, head and neck, esophagus, lung and colon cancer. Carboplatin (Paraplatin) was approved for treatment of ovarian cancers in 1989 and oxaliplatin (Eloxatin) for colorectal cancer in 2003. The platinum coordination complexes have similar antineoplastic activities and are used largely for advanced cancer and in combination with other agents. All must be given by intravenous infusion, and all are associated with significant renal, intestinal, bone marrow and neurologic toxicities. The platinum-containing agents are also mutagenic, teratogenic and carcinogenic, and their use has been associated with an increased risk of secondary leukemias.</p>
+        <p content-type="pubmed-excerpt">Cisplatin and carboplatin are rare causes of liver injury, while oxaliplatin has been associated with a high rate of histological changes when used prior to hepatic resection of colorectal cancer liver metastases. The most common changes linked to oxaliplatin are sinusoidal dilatation, vascular injury and sinusoidal obstruction syndrome (SOS) that may precede the ultimate development of nodular regenerative hyperplasia (NRH) and noncirrhotic portal hypertension. The histological changes have little clinical significance, but progression to nodular regenerative hyperplasia can result in complications of ascites, variceal hemorrhage and hepatic decompensation. Once chemotherapy is stopped, the histological changes usually regress and nodular regenerative hyperplasia generally improves and rarely progresses. The platinum coordination complexes have other toxicities that are clinically significant and often overshadow the effects on the liver.</p>
+        <p>Each of the platinum coordination complexes is described separately with specific references. General references to their pharmacology and hepatotoxicity are given after this introductory section.</p>
+        <list list-type="order">
+          <list-item>
+            <label>1</label>
+            <p>
+              <related-object link-type="booklink" source-id="livertox" document-id="Carboplatin" document-type="chapter">Carboplatin</related-object>
+            </p>
+          </list-item>
+          <list-item>
+            <label>2</label>
+            <p>
+              <related-object link-type="booklink" source-id="livertox" document-id="Cisplatin" document-type="chapter">Cisplatin</related-object>
+            </p>
+          </list-item>
+          <list-item>
+            <label>3</label>
+            <p>
+              <related-object link-type="booklink" source-id="livertox" document-id="Oxaliplatin" document-type="chapter">Oxaliplatin</related-object>
+            </p>
+          </list-item>
+        </list>
+        <p>Drug Class: <related-object link-type="booklink" source-id="livertox" document-id="AntineoplasticAgents" document-type="chapter">Antineoplastic Agents</related-object>; Subclass: <related-object link-type="booklink" source-id="livertox" document-id="AlkylatingAgents" document-type="chapter">Alkylating Agents</related-object></p>
+      </sec>
+      <sec id="PlatinumCoordination.ANNOTATED_BIBLIOGRA">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 12 September 2020</p>
+        <ref-list id="PlatinumCoordination.ANNOTATED_BIBLIOGRA.reflist0">
+          <ref id="PlatinumCoordination.REF1">
+            <mixed-citation publication-type="other">Abbreviations: BMI, body mass index; CT, computerized tomography; NRH, nodular regenerative hyperplasia; SOS, sinusoidal obstruction syndrome; HVPG, hepatic venous pressure gradient; SAMe, S-adenosylmethionine.</mixed-citation>
+          </ref>
+          <ref id="PlatinumCoordination.REF.zimmerman.1999">
+            <mixed-citation publication-type="book">Zimmerman HJ. Oncotherapeutic and immunosuppressive agents. In, Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999, pp. 673-708.<annotation><p><italic toggle="yes">(Expert review of hepatotoxicity of cancer chemotherapeutic agents published in 1999; mentions that cisplatin had been reported to cause dose related serum enzyme elevations and has been linked to steatosis and necrosis, whereas carboplatin has been linked to rare instances of cholestatic and hepatocellular injury).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="PlatinumCoordination.REF.deleve.2013">
+            <mixed-citation publication-type="book">DeLeve LD. Liver sinusoidal endothelial cells and liver injury. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013, p. 139-43.<annotation><p><italic toggle="yes">(Review of liver injury to sinusoidal endothelial cells caused by medications mentions that oxaliplatin as capable of causing sinusoidal dilatation, peliosis hepatis, nodular regenerative hyperplasia and sinusoidal obstruction syndrome).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="PlatinumCoordination.REF.wellstein.2018">
+            <mixed-citation publication-type="book">Wellstein A, Giaccone G, Atkins MB, Sausville EA. Cytotoxic agents. In, Brunton LL, Hilal-Dandan R, Knollman BC, eds. Goodman &#x00026; Gilman's the pharmacological basis of therapeutics. 13th ed. New York: McGraw-Hill, 2018, pp. 1167-201.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="PlatinumCoordination.REF.peyrone.1844">
+            <mixed-citation publication-type="other">Peyrone M. Ueber die einwirkung des ammoniaks auf platinchlor&#x000fc;r. der Chemie und Pharmacie 1844; 51: 1-29.<annotation><p><italic toggle="yes">(Initial description of cisplatin).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="PlatinumCoordination.REF.hill.1975.647">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Hill</surname>
+                  <given-names>JM</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Loeb</surname>
+                  <given-names>E</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>MacLellan</surname>
+                  <given-names>A</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Hill</surname>
+                  <given-names>NO</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Khan</surname>
+                  <given-names>A</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>King</surname>
+                  <given-names>JJ</given-names>
+                </name>
+              </person-group>
+              <article-title>Clinical studies of platinum coordination compounds in the treatment of various malignant diseases.</article-title>
+              <source>Cancer Chemother Rep</source>
+              <year>1975</year>
+              <volume>59</volume>
+              <fpage>647</fpage>
+              <lpage>59</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Among 78 patients with cancer treated with cisplatin, side effects included nausea, vomiting, diarrhea, tinnitus, hearing loss, bone marrow suppression, nephropathy, and minor elevations of AST [peak value 81 U/L]).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">1203889</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="PlatinumCoordination.REF.cavalli.1978.2125">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Cavalli</surname>
+                  <given-names>F</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Tschopp</surname>
+                  <given-names>L</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Sonntag</surname>
+                  <given-names>RW</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Zimmermann</surname>
+                  <given-names>A</given-names>
+                </name>
+              </person-group>
+              <article-title>A case of liver toxicity following cis-dichlorodiammineplatinum(II) treatment.</article-title>
+              <source>Cancer Treat Rep</source>
+              <year>1978</year>
+              <volume>62</volume>
+              <fpage>2125</fpage>
+              <lpage>6</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(47 year old man developed jaundice 4 weeks after an initial cycle of cisplatin [bilirubin 2.2 mg/dL, AST 58 U/L, Alk P 55 U/L], values falling to normal 4 weeks later, and similar elevations occurring with subsequent cycles until a peak bilirubin 9.8 mg/dL after fifth course [AST 144 U/L, biopsy showing fatty change, focal necrosis and cholestasis]: cisplatin Case 1).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">751721</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="PlatinumCoordination.REF.canetta.1987.61">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Canetta</surname>
+                  <given-names>R</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Franks</surname>
+                  <given-names>C</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Smaldone</surname>
+                  <given-names>L</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Bragman</surname>
+                  <given-names>K</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Rozencweig</surname>
+                  <given-names>M</given-names>
+                </name>
+              </person-group>
+              <article-title>Clinical status of carboplatin.</article-title>
+              <source>Oncology (Williston Park)</source>
+              <year>1987</year>
+              <volume>1</volume>
+              <fpage>61</fpage>
+              <lpage>70</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Summary of clinical studies of carboplatin, a cisplatin derivative; carboplatin and cisplatin have similar efficacy against ovarian, cervical and small cell lung cancer, but carboplatin is better tolerated; ALT elevations in 16% of patients, bilirubin in 4%, no mention of clinically apparent hepatotoxicity).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">3079484</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="PlatinumCoordination.REF.canetta.1988.17">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Canetta</surname>
+                  <given-names>R</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Bragman</surname>
+                  <given-names>K</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Smaldone</surname>
+                  <given-names>L</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Rozencweig</surname>
+                  <given-names>M.</given-names>
+                </name>
+              </person-group>
+              <article-title>Carboplatin: current status and future prospects.</article-title>
+              <source>Cancer Treat Rev</source>
+              <year>1988</year>
+              <volume>15</volume>
+              <fpage>17</fpage>
+              <lpage>32</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Summary of results of prelicensure trials of carboplatin; no mention of ALT elevations or hepatotoxicity).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">2841021</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="PlatinumCoordination.REF.hruban.1991.263">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Hruban</surname>
+                  <given-names>RH</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Sternberg</surname>
+                  <given-names>SS</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Meyers</surname>
+                  <given-names>P</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Fleisher</surname>
+                  <given-names>M</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Menendez-Botet</surname>
+                  <given-names>C</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Boitnott</surname>
+                  <given-names>JK</given-names>
+                </name>
+              </person-group>
+              <article-title>Fatal thrombocytopenia and liver failure associated with carboplatin therapy.</article-title>
+              <source>Cancer Invest</source>
+              <year>1991</year>
+              <volume>9</volume>
+              <fpage>263</fpage>
+              <lpage>8</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(18 year old man with acute lymphocyte leukemia and cirrhosis developed severe thrombocytopenia within 6 days of starting carboplatin [platelet count 15,000/&#x000b5;L, bilirubin 5.6 mg/dL, AST 4690 U/L, Alk P 150 U/L] and death from multiorgan failure 10 days later; autopsy showed cirrhosis and marked centrolobular necrosis).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">1913229</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="PlatinumCoordination.REF.cersosimo.1993.438">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Cersosimo</surname>
+                  <given-names>RJ</given-names>
+                </name>
+              </person-group>
+              <article-title>Hepatotoxicity associated with cisplatin chemotherapy.</article-title>
+              <source>Ann Pharmacother</source>
+              <year>1993</year>
+              <volume>27</volume>
+              <fpage>438</fpage>
+              <lpage>41</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(69 year old man developed liver enzyme elevations during second day of each cycle of cisplatin therapy).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">8477119</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="PlatinumCoordination.REF.hartmann.2003.889">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Hartmann</surname>
+                  <given-names>JT</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Lipp</surname>
+                  <given-names>H-P</given-names>
+                </name>
+              </person-group>
+              <article-title>Toxicity of platinum compounds.</article-title>
+              <source>Expert Opin Pharmacother</source>
+              <year>2003</year>
+              <volume>4</volume>
+              <fpage>889</fpage>
+              <lpage>901</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Review of pharmacology, mechanism of action, adverse effects and tolerance of platinum containing alkylating agents; "Mild reversible increases in liver function tests can occur in patients who have received platinum compounds. However, the platinum compounds are generally not classified as hepatotoxic drugs").</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">12783586</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="PlatinumCoordination.REF.rubbiabrandt.2004.460">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Rubbia-Brandt</surname>
+                  <given-names>L</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Audard</surname>
+                  <given-names>V</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Sartoretti</surname>
+                  <given-names>P</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Roth</surname>
+                  <given-names>AD</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Brezault</surname>
+                  <given-names>C</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Le Charpentier</surname>
+                  <given-names>M</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Dousset</surname>
+                  <given-names>B</given-names>
+                </name>
+                <etal/>
+              </person-group>
+              <article-title>Severe hepatic sinusoidal obstruction associated with oxaliplatin-based chemotherapy in patients with metastatic colorectal cancer.</article-title>
+              <source>Ann Oncol</source>
+              <year>2004</year>
+              <volume>15</volume>
+              <fpage>460</fpage>
+              <lpage>6</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Among 153 patients undergoing hepatic resection for colon cancer, centrolobular congestion and necrosis was found in nontumor liver tissue in 51% of those who received neoadjuvant chemotherapy, but in none undergoing surgery alone, oxaliplatin as the most frequently implicated agent; follow up biopsies often showed fibrosis).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">14998849</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="PlatinumCoordination.REF.vauthey.2006.2065">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Vauthey</surname>
+                  <given-names>JN</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Pawlik</surname>
+                  <given-names>TM</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Ribero</surname>
+                  <given-names>D</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Wu</surname>
+                  <given-names>TT</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Zorzi</surname>
+                  <given-names>D</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Hoff</surname>
+                  <given-names>PM</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Xiong</surname>
+                  <given-names>HQ</given-names>
+                </name>
+                <etal/>
+              </person-group>
+              <article-title>Chemotherapy regimen predicts steatohepatitis and an increase in 90-day mortality after surgery for hepatic colorectal metastases.</article-title>
+              <source>J Clin Oncol</source>
+              <year>2006</year>
+              <volume>24</volume>
+              <fpage>2065</fpage>
+              <lpage>72</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Among 406 patients undergoing hepatic resection for colorectal metastases, preoperative chemotherapy with oxaliplatin was associated with sinusoidal dilatation [19% vs 2%], whereas irinotecan was associated with steatohepatitis [20% vs 4.4%] which was associated with higher 90 day mortality rates).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">16648507</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="PlatinumCoordination.REF.higashiyama.2007.461">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Higashiyama</surname>
+                  <given-names>H</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Harabayashi</surname>
+                  <given-names>T</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Shinohara</surname>
+                  <given-names>N</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Chuma</surname>
+                  <given-names>M</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Hige</surname>
+                  <given-names>S</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Nonomura</surname>
+                  <given-names>K</given-names>
+                </name>
+              </person-group>
+              <article-title>Reactivation of hepatitis in a bladder cancer patient receiving chemotherapy.</article-title>
+              <source>Int Urol Nephrol</source>
+              <year>2007</year>
+              <volume>39</volume>
+              <fpage>461</fpage>
+              <lpage>3</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(A 59 year old woman with bladder cancer who was an HBV carrier developed severe reactivation of hepatitis B after 2 cycles of chemotherapy with methotrexate, epiadriamycin and cisplatin, resolving with lamivudine and prednisolone therapy).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">17171423</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="PlatinumCoordination.REF.morrisstiff.2008.609">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Morris-Stiff</surname>
+                  <given-names>G</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Tan</surname>
+                  <given-names>YM</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Vauthey</surname>
+                  <given-names>JN</given-names>
+                </name>
+              </person-group>
+              <article-title>Hepatic complications following preoperative chemotherapy with oxaliplatin or irinotecan for hepatic colorectal metastases.</article-title>
+              <source>Eur J Surg Oncol</source>
+              <year>2008</year>
+              <volume>34</volume>
+              <fpage>609</fpage>
+              <lpage>14</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Systematic review of the literature on oxaliplatin and liver injury; histological vascular changes with sinusoidal damage occurs in at least 20% of patients treated with oxaliplatin, but it is not associated with an increase in mortality in most studies).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">17764887</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="PlatinumCoordination.REF.mcdonald.2010.1450">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>McDonald</surname>
+                  <given-names>GB</given-names>
+                </name>
+              </person-group>
+              <article-title>Hepatobiliary complications of hematopoietic cell transplantation, 40 years on.</article-title>
+              <source>Hepatology</source>
+              <year>2010</year>
+              <volume>51</volume>
+              <fpage>1450</fpage>
+              <lpage>60</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Review of liver complications of bone marrow [hematopoietic cell] transplantation, which have become less frequent with better understanding of their causes and means of prevention; the rate of SOS has decreased because of avoidance of more aggressive ablative therapies [total body irradiation and high doses of cyclophosphamide] and better understanding of pharmacokinetics of the alkylating agents).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">20373370</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="PlatinumCoordination.REF.ryan.2010.784">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Ryan</surname>
+                  <given-names>P</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Nanji</surname>
+                  <given-names>S</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Pollett</surname>
+                  <given-names>A</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Moore</surname>
+                  <given-names>M</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Moulton</surname>
+                  <given-names>CA</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Gallinger</surname>
+                  <given-names>S</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Guindi</surname>
+                  <given-names>M</given-names>
+                </name>
+              </person-group>
+              <article-title>Chemotherapy-induced liver injury in metastatic colorectal cancer: semiquantitative histologic analysis of 334 resected liver specimens shows that vascular injury but not steatohepatitis is associated with preoperative chemotherapy.</article-title>
+              <source>Am J Surg Pathol</source>
+              <year>2010</year>
+              <volume>34</volume>
+              <fpage>784</fpage>
+              <lpage>91</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Among 334 patients undergoing hepatic resection for colorectal cancer metastases, marked hepatic steatosis was uncommon [9%] and correlated with BMI rather than chemotherapy, while sinusoidal lesions were present in 35% of cases and correlated with oxaliplatin use; neither correlated with immediate operative outcome).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">20421779</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="PlatinumCoordination.REF.tamandl.2011.421">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Tamandl</surname>
+                  <given-names>D</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Klinger</surname>
+                  <given-names>M</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Eipeldauer</surname>
+                  <given-names>S</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Herberger</surname>
+                  <given-names>B</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Kaczirek</surname>
+                  <given-names>K</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Gruenberger</surname>
+                  <given-names>B</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Gruenberger</surname>
+                  <given-names>T</given-names>
+                </name>
+              </person-group>
+              <article-title>Sinusoidal obstruction syndrome impairs long-term outcome of colorectal liver metastases treated with resection after neoadjuvant chemotherapy.</article-title>
+              <source>Ann Surg Oncol</source>
+              <year>2011</year>
+              <volume>18</volume>
+              <fpage>421</fpage>
+              <lpage>30</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Among 199 patients undergoing hepatic resection for colorectal metastases, findings of hepatic steatosis did not correlate with decreased survival, whereas severe sinusoidal lesions [found in 18% of oxaliplatin recipients vs 6% of controls] were associated with markedly reduced survival).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">20844968</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="PlatinumCoordination.REF.bissonnette.2012.1336">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Bissonnette</surname>
+                  <given-names>J</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>G&#x000e9;n&#x000e9;reux</surname>
+                  <given-names>A</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>C&#x000f4;t&#x000e9;</surname>
+                  <given-names>J</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Nguyen</surname>
+                  <given-names>B</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Perreault</surname>
+                  <given-names>P</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Bouchard</surname>
+                  <given-names>L</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Pomier-Layrargues</surname>
+                  <given-names>G.</given-names>
+                </name>
+              </person-group>
+              <article-title>Hepatic hemodynamics in 24 patients with nodular regenerative hyperplasia and symptomatic portal hypertension.</article-title>
+              <source>J Gastroenterol Hepatol</source>
+              <year>2012</year>
+              <volume>27</volume>
+              <fpage>1336</fpage>
+              <lpage>40</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Among 24 patients with various forms of nodular regenerative hyperplasia [NRH], wedged hepatic venous pressure gradients [HVPG: range 2 to 17, mean=8.9 mm Hg] were lower than directly obtained portal venous pressure gradients [range 16 to 35, mean=20.5 mmHg], indicating that HVPG measurements are inaccurate in NRH).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">22554152</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="PlatinumCoordination.REF.narita.2012.2230">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Narita</surname>
+                  <given-names>M</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Oussoultzoglou</surname>
+                  <given-names>E</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Chenard</surname>
+                  <given-names>MP</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Fuchshuber</surname>
+                  <given-names>P</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Rather</surname>
+                  <given-names>M</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Rosso</surname>
+                  <given-names>E</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Addeo</surname>
+                  <given-names>P</given-names>
+                </name>
+                <etal/>
+              </person-group>
+              <article-title>Liver injury due to chemotherapy-induced sinusoidal obstruction syndrome is associated with sinusoidal capillarization.</article-title>
+              <source>Ann Surg Oncol</source>
+              <year>2012</year>
+              <volume>19</volume>
+              <fpage>2230</fpage>
+              <lpage>7</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Among 98 patients with colorectal cancer undergoing hepatic resection for metastases, 39 [36 of whom had received oxaliplatin] had changes of SOS and degree of changes correlated with isocyanine green [ICG] retention and overexpression of CD34 indicating capillarization of hepatic sinusoids).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">22402811</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="PlatinumCoordination.REF.wolf.2013.41">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Wolf</surname>
+                  <given-names>PS</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Park</surname>
+                  <given-names>JO</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Bao</surname>
+                  <given-names>F</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Allen</surname>
+                  <given-names>PJ</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>DeMatteo</surname>
+                  <given-names>RP</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Fong</surname>
+                  <given-names>Y</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Jarnagin</surname>
+                  <given-names>WR</given-names>
+                </name>
+                <etal/>
+              </person-group>
+              <article-title>Preoperative chemotherapy and the risk of hepatotoxicity and morbidity after liver resection for metastatic colorectal cancer: a single institution experience.</article-title>
+              <source>J Am Coll Surg</source>
+              <year>2013</year>
+              <volume>216</volume>
+              <fpage>41</fpage>
+              <lpage>9</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Among 506 patients undergoing hepatic resection for colorectal cancer, histologic evaluation of nontumor parenchyma showed that steatohepatitis was associated with irinotecan regimens, higher BMI and diabetes, whereas sinusoidal dilatation was not associated with chemotherapy; neither chemotherapy or liver histology correlated with complications or deaths).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">23041049</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="PlatinumCoordination.REF.morrisstiff.2014.1016">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Morris-Stiff</surname>
+                  <given-names>G</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>White</surname>
+                  <given-names>AD</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Gomez</surname>
+                  <given-names>D</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Cameron</surname>
+                  <given-names>IC</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Farid</surname>
+                  <given-names>S</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Toogood</surname>
+                  <given-names>GJ</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Lodge</surname>
+                  <given-names>JP</given-names>
+                </name>
+                <etal/>
+              </person-group>
+              <article-title>Nodular regenerative hyperplasia (NRH) complicating oxaliplatin chemotherapy in patients undergoing resection of colorectal liver metastases.</article-title>
+              <source>Eur J Surg Oncol</source>
+              <year>2014</year>
+              <volume>40</volume>
+              <fpage>1016</fpage>
+              <lpage>20</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Retrospective review of 978 patients who underwent hepatic resection for colorectal cancer metastases at a single institution in the UK between 2000 and 2010, identified 5 who developed clinically apparent NRH, all had received at least 6 cycles of oxaliplatin and fluorouracil, but only 1 had hepatic failure which was reversible and the all deaths [n=4] were due to cancer recurrence).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">24370284</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="PlatinumCoordination.REF.nalbantoglu.2014.553">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Nalbantoglu</surname>
+                  <given-names>IL</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Tan</surname>
+                  <given-names>BR</given-names>
+                  <suffix>Jr</suffix>
+                </name>
+                <name name-style="western">
+                  <surname>Linehan</surname>
+                  <given-names>DC</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Gao</surname>
+                  <given-names>F</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Brunt</surname>
+                  <given-names>EM</given-names>
+                </name>
+              </person-group>
+              <article-title>Histological features and severity of oxaliplatin-induced liver injury and clinical associations.</article-title>
+              <source>J Dig Dis</source>
+              <year>2014</year>
+              <volume>15</volume>
+              <fpage>553</fpage>
+              <lpage>60</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Among 47 patients with metastatic colon cancer undergoing liver resection after oxaliplatin based chemotherapy, 32 [68%] had changes indicative of SOS [using a scoring system of 0 to 4], which was moderate or severe in 26 [55%] and usually associated with serum aminotransferase abnormalities; liver also showing capillarization, sinusoidal fibrosis and hepatocyte proliferation).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">25060628</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="PlatinumCoordination.REF.vigan_.2015.4149">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Vigan&#x000f2;</surname>
+                  <given-names>L</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Rubbia-Brandt</surname>
+                  <given-names>L</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>De Rosa</surname>
+                  <given-names>G</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Majno</surname>
+                  <given-names>P</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Langella</surname>
+                  <given-names>S</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Toso</surname>
+                  <given-names>C</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Mentha</surname>
+                  <given-names>G</given-names>
+                </name>
+                <etal/>
+              </person-group>
+              <article-title>Nodular regenerative hyperplasia in patients undergoing liver resection for colorectal metastases after chemotherapy: risk factors, preoperative assessment and clinical impact.</article-title>
+              <source>Ann Surg Oncol</source>
+              <year>2015</year>
+              <volume>22</volume>
+              <fpage>4149</fpage>
+              <lpage>57</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Among 406 patients undergoing 478 liver resections for metastatic colorectal cancer at two European medical centers between 2015 and 2017, 68% had sinusoidal dilatation, 25% had steatosis, 10% had steatohepatitis and 18% had NRH, risk factors for NRH being preoperative oxaliplatin and low platelet counts but not routine liver test abnormalities).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">25845431</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="PlatinumCoordination.REF.vigano.2017.84">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Vigano</surname>
+                  <given-names>L</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>De Rosa</surname>
+                  <given-names>G</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Toso</surname>
+                  <given-names>C</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Andres</surname>
+                  <given-names>A</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Ferrero</surname>
+                  <given-names>A</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Roth</surname>
+                  <given-names>A</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Sperti</surname>
+                  <given-names>E</given-names>
+                </name>
+                <etal/>
+              </person-group>
+              <article-title>Reversibility of chemotherapy-related liver injury.</article-title>
+              <source>J Hepatol</source>
+              <year>2017</year>
+              <volume>67</volume>
+              <fpage>84</fpage>
+              <lpage>91</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Among 15 patients with colorectal cancer who underwent two hepatic resections more than 270 days apart without interval chemotherapy, SOS regressed in 4 of 5 patients who had SOS initially and NRH in 7 of 8 patients whereas neither steatosis [3 of 3] or steatohepatitis [2 of 2] resolved).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">28284915</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="PlatinumCoordination.REF.corbacioglu.2019.1271">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Corbacioglu</surname>
+                  <given-names>S</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Jabbour</surname>
+                  <given-names>EJ</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Mohty</surname>
+                  <given-names>M</given-names>
+                </name>
+              </person-group>
+              <article-title>Risk factors for development of and progression of hepatic veno-occlusive disease/sinusoidal obstruction syndrome.</article-title>
+              <source>Biol Blood Marrow Transplant</source>
+              <year>2019</year>
+              <volume>25</volume>
+              <fpage>1271</fpage>
+              <lpage>80</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Review of the risks, clinical features and management of chemotherapy induced SOS focusing upon oxaliplatin and the more recent causes, gemtuzumab ozogamicin and inotuzumab ozogamicin).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">30797942</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="PlatinumCoordination.REF.fujii.2020.523">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Fujii</surname>
+                  <given-names>A</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Tateoka</surname>
+                  <given-names>T</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Okuyama</surname>
+                  <given-names>T</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Matsushima</surname>
+                  <given-names>J</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Sato</surname>
+                  <given-names>T</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Ono</surname>
+                  <given-names>Y</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Ban</surname>
+                  <given-names>S</given-names>
+                </name>
+              </person-group>
+              <article-title>Uneven distribution of histologic changes of "blue liver" induced after oxaliplatin-based chemotherapy for colon cancer.</article-title>
+              <source>Int J Surg Pathol</source>
+              <year>2020</year>
+              <volume>28</volume>
+              <fpage>523</fpage>
+              <lpage>5</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(50 year old woman with metastatic colorectal cancer underwent 8 courses of oxaliplatin and capecitabine followed by hepatic resection that revealed mottled red areas of the nontumorous liver with changes of SOS).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">31623475</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="PlatinumCoordination.REF.morioka.2020">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Morioka</surname>
+                  <given-names>D</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Izumisawa</surname>
+                  <given-names>Y</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Yamaguchi</surname>
+                  <given-names>K</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Sato</surname>
+                  <given-names>K</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Komiyama</surname>
+                  <given-names>S</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Nakagawa</surname>
+                  <given-names>K</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Kakizoe</surname>
+                  <given-names>M</given-names>
+                </name>
+                <etal/>
+              </person-group>
+              <article-title>Surgical intervention for portal hypertension caused by oxaliplatin-based chemotherapy: a case report and a review of literature regarding radiological and/or surgical interventions for oxaliplatin-associated portal hypertension.</article-title>
+              <source>Clin J Gastroenterol</source>
+              <year>2020</year>
+              <month>Jun</month>
+              <day>26</day>
+              <comment>Epub ahead of print</comment>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(63 year old man developed recurrent variceal hemorrhage, ascites and hydrothorax after oxaliplatin therapy of metastatic colon cancer followed by hepatic resection who was treated with splenectomy and portocaval shunt, with resolution of the complications of portal hypertension).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32592150</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="PlatinumCoordination.REF.di_federico.2020">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Di Federico</surname>
+                  <given-names>A</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Nuvola</surname>
+                  <given-names>G</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Sisi</surname>
+                  <given-names>M</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Lenzi</surname>
+                  <given-names>B</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Nobili</surname>
+                  <given-names>E</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Campana</surname>
+                  <given-names>D.</given-names>
+                </name>
+              </person-group>
+              <article-title>Hyperammonemic encephalopathy during XELOX regimen. Is it capecitabine or oxaliplatin responsible?</article-title>
+              <source>Anticancer Drugs</source>
+              <year>2020</year>
+              <month>Aug</month>
+              <day>19</day>
+              <comment>Epub ahead of print</comment>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(65 year old man with refractory metastatic lung carcinoid tumor developed confusion and coma 11 days into a 3-week regimen of capecitabine [1.6 mg/m2 daily for 15 days] and oxaliplatin [104 mg/m2 on day 1] with ammonia of 167 &#x000b5;mol/L but normal bilirubin and aminotransferase levels, resolving within 3 days of stopping capecitabine).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32826413</pub-id>
+            </element-citation>
+          </ref>
+        </ref-list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

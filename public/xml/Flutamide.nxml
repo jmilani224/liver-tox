@@ -1,0 +1,763 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Flutamide" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Flutamide</book-part-id>
+      <title-group>
+        <title>Flutamide</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>5</day>
+          <month>7</month>
+          <year>2017</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Flurbiprofen" document-type="chapter">Flurbiprofen</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Fluvastatin" document-type="chapter">Fluvastatin</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Flutamide.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Flutamide.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Flutamide is a nonsteroidal antiandrogen that acts by binding to and blocking intracellular androgen receptors in target tissues including testes, prostate, skin, and hair follicle. Flutamide is frequently associated with minor serum aminotransferase elevations and has been linked to numerous cases of acute liver injury, which are frequently severe and can be fatal.</p>
+        </sec>
+        <sec id="Flutamide.Background">
+          <title>Background</title>
+          <p>Flutamide (floo' ta mide) is a synthetic, nonsteroidal antiandrogen that acts by competitive inhibition of the binding of testosterone and dihydrotestosterone to the intracellular androgen receptor, thus blocking the effects of endogenous androgen action. Flutamide was approved for use in therapy of prostate cancer in the United States in 1989 and has been extensively used around the world. Flutamide&#x02019;s antiandrogen effects have also been applied to the therapy of hyperandrogenic states both in men and women, including acne, hirsutism and benign prostatic hypertrophy. Because of the potentially serious hepatotoxicity of flutamide, its use outside of therapy of malignant disease is not recommended. The current indications for flutamide are limited to the treatment of prostate cancer in combination with LHRH agonists (luteinizing hormone releasing hormone analogue such as leuprolide or groselin). Flutamide is available in generic forms and under the brand name of Eulexin in 125 mg capsules. The usual dose is 250 mg two to three times daily, usually in combination with other antiprostate cancer modalities such as orchiectomy or an LHRH analog. Common side effects of flutamide are rash, drowsiness, anxiety, gynecomastia and loss of libido.</p>
+        </sec>
+        <sec id="Flutamide.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>Chronic therapy with flutamide is associated with elevations in serum aminotransferase levels in up to 62% of patients, but marked elevations (above 5 times ULN) in only 3% to 5%. Most of these abnormalities are transient, asymptomatic and do not require dose adjustment or drug discontinuation. However, in 0.1% to 1% of patients, acute liver injury with symptoms and jaundice arises which can be prolonged, severe and even fatal. The latency of onset ranges widely from 1 to 10 months, averaging 3 months. Allergic manifestations are rare as are autoantibodies. The pattern of liver enzyme elevations is most commonly hepatocellular, but many cases with cholestatic and mixed patterns have been described. Liver failure with a requirement for emergency liver transplantation or fatality has been described in many publications with 20 fatal cases reported from the FDA MedWatch program during the first 5 years of its availability. Fatal cases have been reported in children and young women being treated for hirsutism or acne (Case 1).</p>
+          <p>Recommendations have been made for routine monitoring of ALT levels early during therapy with flutamide, but well characterized fatal cases have occurred despite such monitoring, the onset of injury being abrupt and injury continuing for several weeks after discontinuation of flutamide. The injury may be partially dose related as long term use of lower doses of flutamide (62.5 and 125 mg/day) has not been associated with high rates of ALT elevations or clinically apparent liver injury.</p>
+          <p>Likelihood score: A (well know cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Flutamide.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The mechanism of injury due to flutamide is not clearly understood. Flutamide is extensively metabolized by the liver, and a common hypothesis is that flutamide is metabolized by the cytochrome P450 system (CYP 3A4) to a toxic intermediate.</p>
+        </sec>
+        <sec id="Flutamide.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>The mortality rate of flutamide hepatotoxicity is considerable, particularly in cases with a hepatocellular pattern of injury and in elderly men. Generally, the injury begins to resolve within 1 to 2 weeks of stopping therapy. In severe cases, there can be progressive worsening with development of hypoalbuminemia, edema, ascites, hepatic encephalopathy and coagulopathy. Some patients with acute liver failure due to flutamide have undergone successful liver transplantation, but the underlying diagnosis of prostate cancer sometimes excludes patients from consideration for transplantation. Chronic injury from flutamide has not been described, but long term follow up on patients with flutamide injury is rarely available. Rechallenge with flutamide generally causes recurrence of injury and should be avoided. Switching therapy to other androgens (bicalutamide or nilutamide) has not been reported, but several instances of recurrence of hepatic injury have been reported among patients switched from flutamide to cyproterone acetate. Because of its known hepatotoxicity, flutamide is used more infrequently than in the past. Patients on flutamide should be monitored for liver test abnormalities on a regular basis, at least during the first 6 months of treatment.</p>
+          <p>Drug Class: <related-object source-id="livertox" document-id="AntineoplasticAgents">Antineoplastic Agents</related-object>, <related-object source-id="livertox" document-id="Anti-androgens">Antiandrogens</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Flutamide.CASE_REPORTS">
+        <title>CASE REPORTS</title>
+        <sec id="Flutamide.Case_1._Liver_failure_in_a_14_">
+          <title>Case 1. Liver failure in a 14 year old hirsute female following flutamide therapy.</title>
+          <p>[Modified from: Andrade RJ, Lucena MI, Fern&#x000e1;ndez MC, Suarez F, Montero JL, Fraga E, Hidalgo F. Fulminant liver failure associated with flutamide therapy for hirsutism. Lancet 1999; 353: 983. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/pubmed/10459914">PubMed Citation</ext-link>]</p>
+          <p>A 14 year old girl was treated with flutamide (250 mg twice daily) for hirsutism and presented with a 2 week history of weakness, poor appetite and dark urine 3 months later. Her past medical history was unremarkable. She had no known risk factors for viral hepatitis and was not taking other drugs or herbal medicines. On admission, she was jaundiced but not febrile and was fully alert without asterixis. Laboratory results showed total bilirubin of 7.3 mg/dL and marked elevations in serum aminotransferase levels (ALT 2372 U/L, AST 1707 U/L) and decrease in prothrombin index (29%). Tests for hepatitis A, B and C were negative as were autoantibodies. Abdominal ultrasound was normal. Over the next few days, serum bilirubin levels rose to 17.5 mg/dL and she developed signs of hepatic encephalopathy. Because of a worsening clinical condition, she was transferred to a liver transplantation center and received a decreased donor liver graft 9 days later. The explanted liver showed massive necrosis. The liver transplantation was successful and she was discharged two months later.</p>
+          <sec id="Flutamide.Key_Points1">
+            <title>Key Points</title>
+            <table-wrap id="Flutamide.T1" position="anchor" orientation="portrait">
+              <table>
+                <thead>
+                  <tr>
+                    <th id="hd_h_Flutamide.T1_1_1_1_1" rowspan="1" colspan="1">Medication:</th>
+                    <td rowspan="1" colspan="1">Flutamide (250 mg twice daily)</td>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <th headers="hd_h_Flutamide.T1_1_1_1_1" id="hd_b_Flutamide.T1_1_1_1_1" rowspan="1" colspan="1">Pattern:</th>
+                    <td headers="hd_b_Flutamide.T1_1_1_1_1" rowspan="1" colspan="1">Hepatocellular</td>
+                  </tr>
+                  <tr>
+                    <th headers="hd_h_Flutamide.T1_1_1_1_1" id="hd_b_Flutamide.T1_1_1_2_1" rowspan="1" colspan="1">Severity:</th>
+                    <td headers="hd_b_Flutamide.T1_1_1_2_1" rowspan="1" colspan="1">5+ (liver transplantation)</td>
+                  </tr>
+                  <tr>
+                    <th headers="hd_h_Flutamide.T1_1_1_1_1" id="hd_b_Flutamide.T1_1_1_3_1" rowspan="1" colspan="1">Latency:</th>
+                    <td headers="hd_b_Flutamide.T1_1_1_3_1" rowspan="1" colspan="1">~3 months</td>
+                  </tr>
+                  <tr>
+                    <th headers="hd_h_Flutamide.T1_1_1_1_1" id="hd_b_Flutamide.T1_1_1_4_1" rowspan="1" colspan="1">Recovery:</th>
+                    <td headers="hd_b_Flutamide.T1_1_1_4_1" rowspan="1" colspan="1">Required liver transplantation</td>
+                  </tr>
+                  <tr>
+                    <th headers="hd_h_Flutamide.T1_1_1_1_1" id="hd_b_Flutamide.T1_1_1_5_1" rowspan="1" colspan="1">Other medications:</th>
+                    <td headers="hd_b_Flutamide.T1_1_1_5_1" rowspan="1" colspan="1">None</td>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Flutamide.Comment1">
+            <title>Comment</title>
+            <p>There have been many case reports of acute liver failure attributable to flutamide therapy, but largely in elderly men being treated for metastatic prostate cancer. This case report and several like it demonstrate that acute liver failure from flutamide can occur in women as well as men, and in children and young adults as well as in the elderly. For this reason, this agent should be reserved for persons with medically severe or malignant conditions. The typical onset of flutamide associated liver injury is the abrupt appearance of jaundice after 2 to 3 months of therapy. Signs of hypersensitivity and autoimmunity are rare and serum enzymes usually demonstrate a markedly hepatocellular pattern. While the injury is rapidly reversible, the degree of injury may be such that hepatic failure occurs rapidly and is not reversible. Recently, studies of low and &#x0201c;ultra-low&#x0201d; doses of flutamide (62.5 to 250 mg daily) as therapy of hirsutism have been reported showing little or no evidence of hepatic injury (based upon ALT testing) during therapy for 12 months and longer. Nevertheless, the therapeutic window is narrow and neither flutamide or the other synthetic antiandrogens are approved for use in benign hyperandrogenic conditions in the United States.</p>
+          </sec>
+        </sec>
+        <sec id="Flutamide.Case_2._Hepatitis_and_jaundice">
+          <title>Case 2. Hepatitis and jaundice after flutamide therapy of prostate cancer.</title>
+          <p>[Modified from: Ashar U, Desai D, Bhaduri A. Flutamide-induced hepatotoxicity with possible potentiation by simvastatin. J Assoc Physicians India 2003; 51: 75-7. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/pubmed/12693464">PubMed Citation</ext-link>]</p>
+          <p>A 65 year old man with prostate cancer underwent bilateral orchidectomy and was started on flutamide (250 mg twice daily). Eight months later, he developed nausea and subsequently noted fatigue and jaundice. He was hospitalized and found to have fever, jaundice and hepatic tenderness. He had no previous history of liver disease and no risk factors for hepatitis or alcohol use. His other medical conditions included diabetes, coronary artery disease and hyperlipidemia. Laboratory tests showed a bilirubin of 24 mg/dL and marked elevations in serum aminotransferase levels with minimal increase in alkaline phosphatase (Table). Tests for hepatitis A, B, C, and E were negative as were autoantibodies. Liver imaging showed no evidence of obstruction. A liver biopsy showed intrahepatic cholestasis with mild inflammatory changes and no fibrosis, compatible with drug induced liver disease. Flutamide was stopped and he was treated with antibiotics and ursodiol. He improved slowly and remained jaundiced for several months. A one month course of corticosteroids was given with marked improvement in symptoms and jaundice. Four months after onset of illness he was off of corticosteroids and ursodiol and his liver tests had returned to normal.</p>
+          <sec id="Flutamide.Key_Points2">
+            <title>Key Points</title>
+            <table-wrap id="Flutamide.T2" position="anchor" orientation="portrait">
+              <table>
+                <thead>
+                  <tr>
+                    <th id="hd_h_Flutamide.T2_1_1_1_1" rowspan="1" colspan="1">Medication:</th>
+                    <td rowspan="1" colspan="1">Flutamide (250 mg twice daily)</td>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <th headers="hd_h_Flutamide.T2_1_1_1_1" id="hd_b_Flutamide.T2_1_1_1_1" rowspan="1" colspan="1">Pattern:</th>
+                    <td headers="hd_b_Flutamide.T2_1_1_1_1" rowspan="1" colspan="1">Hepatocellular</td>
+                  </tr>
+                  <tr>
+                    <th headers="hd_h_Flutamide.T2_1_1_1_1" id="hd_b_Flutamide.T2_1_1_2_1" rowspan="1" colspan="1">Severity:</th>
+                    <td headers="hd_b_Flutamide.T2_1_1_2_1" rowspan="1" colspan="1">4+ (jaundice, hospitalization and rise in INR above 1.5)</td>
+                  </tr>
+                  <tr>
+                    <th headers="hd_h_Flutamide.T2_1_1_1_1" id="hd_b_Flutamide.T2_1_1_3_1" rowspan="1" colspan="1">Latency:</th>
+                    <td headers="hd_b_Flutamide.T2_1_1_3_1" rowspan="1" colspan="1">8 months (onset of nausea)</td>
+                  </tr>
+                  <tr>
+                    <th headers="hd_h_Flutamide.T2_1_1_1_1" id="hd_b_Flutamide.T2_1_1_4_1" rowspan="1" colspan="1">Recovery:</th>
+                    <td headers="hd_b_Flutamide.T2_1_1_4_1" rowspan="1" colspan="1">4 months</td>
+                  </tr>
+                  <tr>
+                    <th headers="hd_h_Flutamide.T2_1_1_1_1" id="hd_b_Flutamide.T2_1_1_5_1" rowspan="1" colspan="1">Other medications:</th>
+                    <td headers="hd_b_Flutamide.T2_1_1_5_1" rowspan="1" colspan="1">Metformin, isosorbide mononitrate, amlodipine, simvastatin</td>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Flutamide.Laboratory_Values1">
+            <title>Laboratory Values</title>
+            <table-wrap id="Flutamide.T3" position="anchor" orientation="portrait">
+              <table>
+                <thead>
+                  <tr>
+                    <th id="hd_h_Flutamide.T3_1_1_1_1" rowspan="1" colspan="1">Time After Starting</th>
+                    <th id="hd_h_Flutamide.T3_1_1_1_2" rowspan="1" colspan="1">Time After Stopping</th>
+                    <th id="hd_h_Flutamide.T3_1_1_1_3" rowspan="1" colspan="1">ALT (U/L)</th>
+                    <th id="hd_h_Flutamide.T3_1_1_1_4" rowspan="1" colspan="1">Alk P (U/L)</th>
+                    <th id="hd_h_Flutamide.T3_1_1_1_5" rowspan="1" colspan="1">Bilirubin (mg/dL)</th>
+                    <th id="hd_h_Flutamide.T3_1_1_1_6" rowspan="1" colspan="1">Other</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td headers="hd_h_Flutamide.T3_1_1_1_1 hd_h_Flutamide.T3_1_1_1_2 hd_h_Flutamide.T3_1_1_1_3 hd_h_Flutamide.T3_1_1_1_4 hd_h_Flutamide.T3_1_1_1_5 hd_h_Flutamide.T3_1_1_1_6" colspan="6" rowspan="1">Flutamide 250 mg twice daily started for prostate cancer</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Flutamide.T3_1_1_1_1" rowspan="1" colspan="1">9 months</td>
+                    <td headers="hd_h_Flutamide.T3_1_1_1_2" rowspan="1" colspan="1">0</td>
+                    <td headers="hd_h_Flutamide.T3_1_1_1_3" rowspan="1" colspan="1">646</td>
+                    <td headers="hd_h_Flutamide.T3_1_1_1_4" rowspan="1" colspan="1">114*</td>
+                    <td headers="hd_h_Flutamide.T3_1_1_1_5" rowspan="1" colspan="1">24.0</td>
+                    <td headers="hd_h_Flutamide.T3_1_1_1_6" rowspan="1" colspan="1">Albumin 4.3 g/dL</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Flutamide.T3_1_1_1_1" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Flutamide.T3_1_1_1_2" rowspan="1" colspan="1">1 week</td>
+                    <td headers="hd_h_Flutamide.T3_1_1_1_3" rowspan="1" colspan="1">348</td>
+                    <td headers="hd_h_Flutamide.T3_1_1_1_4" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Flutamide.T3_1_1_1_5" rowspan="1" colspan="1">29.0</td>
+                    <td headers="hd_h_Flutamide.T3_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Flutamide.T3_1_1_1_1" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Flutamide.T3_1_1_1_2" rowspan="1" colspan="1">2 weeks</td>
+                    <td headers="hd_h_Flutamide.T3_1_1_1_3" rowspan="1" colspan="1">242</td>
+                    <td headers="hd_h_Flutamide.T3_1_1_1_4" rowspan="1" colspan="1">146</td>
+                    <td headers="hd_h_Flutamide.T3_1_1_1_5" rowspan="1" colspan="1">33.5</td>
+                    <td headers="hd_h_Flutamide.T3_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Flutamide.T3_1_1_1_1" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Flutamide.T3_1_1_1_2" rowspan="1" colspan="1">3 weeks</td>
+                    <td headers="hd_h_Flutamide.T3_1_1_1_3" rowspan="1" colspan="1">182</td>
+                    <td headers="hd_h_Flutamide.T3_1_1_1_4" rowspan="1" colspan="1">138</td>
+                    <td headers="hd_h_Flutamide.T3_1_1_1_5" rowspan="1" colspan="1">19.6</td>
+                    <td headers="hd_h_Flutamide.T3_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Flutamide.T3_1_1_1_1" rowspan="1" colspan="1">10 months</td>
+                    <td headers="hd_h_Flutamide.T3_1_1_1_2" rowspan="1" colspan="1">4 weeks</td>
+                    <td headers="hd_h_Flutamide.T3_1_1_1_3" rowspan="1" colspan="1">104</td>
+                    <td headers="hd_h_Flutamide.T3_1_1_1_4" rowspan="1" colspan="1">108</td>
+                    <td headers="hd_h_Flutamide.T3_1_1_1_5" rowspan="1" colspan="1">13.7</td>
+                    <td headers="hd_h_Flutamide.T3_1_1_1_6" rowspan="1" colspan="1">Protime 16 sec</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Flutamide.T3_1_1_1_1" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Flutamide.T3_1_1_1_2" rowspan="1" colspan="1">5 weeks</td>
+                    <td headers="hd_h_Flutamide.T3_1_1_1_3" rowspan="1" colspan="1">68</td>
+                    <td headers="hd_h_Flutamide.T3_1_1_1_4" rowspan="1" colspan="1">150</td>
+                    <td headers="hd_h_Flutamide.T3_1_1_1_5" rowspan="1" colspan="1">11.3</td>
+                    <td headers="hd_h_Flutamide.T3_1_1_1_6" rowspan="1" colspan="1">Corticosteroids started</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Flutamide.T3_1_1_1_1" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Flutamide.T3_1_1_1_2" rowspan="1" colspan="1">6 weeks</td>
+                    <td headers="hd_h_Flutamide.T3_1_1_1_3" rowspan="1" colspan="1">69</td>
+                    <td headers="hd_h_Flutamide.T3_1_1_1_4" rowspan="1" colspan="1">158*</td>
+                    <td headers="hd_h_Flutamide.T3_1_1_1_5" rowspan="1" colspan="1">11.5</td>
+                    <td headers="hd_h_Flutamide.T3_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Flutamide.T3_1_1_1_1" rowspan="1" colspan="1">11 months</td>
+                    <td headers="hd_h_Flutamide.T3_1_1_1_2" rowspan="1" colspan="1">8 weeks</td>
+                    <td headers="hd_h_Flutamide.T3_1_1_1_3" rowspan="1" colspan="1">66</td>
+                    <td headers="hd_h_Flutamide.T3_1_1_1_4" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Flutamide.T3_1_1_1_5" rowspan="1" colspan="1">3.5</td>
+                    <td headers="hd_h_Flutamide.T3_1_1_1_6" rowspan="1" colspan="1">Corticosteroids stopped</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Flutamide.T3_1_1_1_1" rowspan="1" colspan="1">12 months</td>
+                    <td headers="hd_h_Flutamide.T3_1_1_1_2" rowspan="1" colspan="1">14 weeks</td>
+                    <td headers="hd_h_Flutamide.T3_1_1_1_3" rowspan="1" colspan="1">18</td>
+                    <td headers="hd_h_Flutamide.T3_1_1_1_4" rowspan="1" colspan="1">76</td>
+                    <td headers="hd_h_Flutamide.T3_1_1_1_5" rowspan="1" colspan="1">0.5</td>
+                    <td headers="hd_h_Flutamide.T3_1_1_1_6" rowspan="1" colspan="1">Asymptomatic</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Flutamide.T3_1_1_1_1 hd_h_Flutamide.T3_1_1_1_2" colspan="2" rowspan="1">
+                      <bold>Normal Values</bold>
+                    </td>
+                    <td headers="hd_h_Flutamide.T3_1_1_1_3" rowspan="1" colspan="1">
+                      <bold>&#x0003c;40</bold>
+                    </td>
+                    <td headers="hd_h_Flutamide.T3_1_1_1_4" rowspan="1" colspan="1">
+                      <bold>&#x0003c;120</bold>
+                    </td>
+                    <td headers="hd_h_Flutamide.T3_1_1_1_5" rowspan="1" colspan="1">
+                      <bold>&#x0003c;1.2</bold>
+                    </td>
+                    <td headers="hd_h_Flutamide.T3_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+            <p>*Values adjusted to standard upper limit of normal.</p>
+          </sec>
+          <sec id="Flutamide.Comment2">
+            <title>Comment</title>
+            <p>A case of prolonged flutamide associated hepatitis arising after 9 months of therapy. The serum enzyme pattern of a 20-fold elevation in aminotransferase levels with minimal increase in alkaline phosphatase defines the case as &#x0201c;hepatocellular&#x0201d;, but the clinical course of the illness was decidedly cholestatic with severe jaundice and pruritus. While corticosteroids have not been proven to be beneficial in acute drug induced liver injury, they may alleviate symptoms and decrease bilirubin in some patients with prolonged cholestasis, as in this case. Importantly, the dose of corticosteroids was reduced rapidly and they were stopped within a month or two. The authors hypothesized that simvastatin may have added to the liver injury; but flutamide by itself has been clearly implicated in many instances of hepatotoxicity of similar severity. Regardless, in patients presenting with jaundice of unknown cause, it is prudent to withdraw all but the most necessary medications until recovery.</p>
+          </sec>
+        </sec>
+        <sec id="Flutamide.Case_3._Acute_hepatitis_due_to">
+          <title>Case 3. Acute hepatitis due to flutamide therapy.</title>
+          <p>[Modified from: L&#x000fc;bbert C, Wiese M, Haupt R, Ruf BR. [Toxic hepatitis and liver failure under therapy with flutamide] Internist (Berl) 2004; 45: 333-40. German. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/pubmed/14997310">PubMed Citation</ext-link>]</p>
+          <p>A 66 year old man with advanced prostate cancer developed jaundice 4 weeks after starting antiandrogen therapy with flutamide. He had a past medical history of essential hypertension and type 2 diabetes for which he had been taking candesartan (16 mg daily) and glyburide (3.5 mg daily) for several years. Prostate cancer was diagnosed by biopsy and was treated with hormonal ablation using flutamide (750 mg daily) and monthly injections of the LHRH analog goserelin. On admission, he was deeply jaundiced but had no rash, fever, or signs of hepatic decompensation. Laboratory testing showed serum bilirubin of 13.6 mg/dL, ALT 2160 U/L and alkaline phosphatase 900 U/L (Table). Tests for hepatitis A, B and C and for EBV infection were negative as were autoantibodies. Ultrasound of the abdomen showed no hepatic masses and no evidence of bile duct dilation. A liver biopsy showed intrahepatic cholestasis suggestive of drug induced liver injury. Flutamide was stopped on admission and he started to improve rapidly. In follow up 2 months later, all laboratory tests were normal. He was continued on therapy with goserelin.</p>
+          <sec id="Flutamide.Key_Points3">
+            <title>Key Points</title>
+            <table-wrap id="Flutamide.T4" position="anchor" orientation="portrait">
+              <table>
+                <thead>
+                  <tr>
+                    <th id="hd_h_Flutamide.T4_1_1_1_1" rowspan="1" colspan="1">Medication:</th>
+                    <td rowspan="1" colspan="1">Flutamide (250 mg twice daily)</td>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <th headers="hd_h_Flutamide.T4_1_1_1_1" id="hd_b_Flutamide.T4_1_1_1_1" rowspan="1" colspan="1">Pattern:</th>
+                    <td headers="hd_b_Flutamide.T4_1_1_1_1" rowspan="1" colspan="1">Hepatocellular (R=16)</td>
+                  </tr>
+                  <tr>
+                    <th headers="hd_h_Flutamide.T4_1_1_1_1" id="hd_b_Flutamide.T4_1_1_2_1" rowspan="1" colspan="1">Severity:</th>
+                    <td headers="hd_b_Flutamide.T4_1_1_2_1" rowspan="1" colspan="1">3+ (jaundice and hospitalization)</td>
+                  </tr>
+                  <tr>
+                    <th headers="hd_h_Flutamide.T4_1_1_1_1" id="hd_b_Flutamide.T4_1_1_3_1" rowspan="1" colspan="1">Latency:</th>
+                    <td headers="hd_b_Flutamide.T4_1_1_3_1" rowspan="1" colspan="1">One month (to onset of jaundice)</td>
+                  </tr>
+                  <tr>
+                    <th headers="hd_h_Flutamide.T4_1_1_1_1" id="hd_b_Flutamide.T4_1_1_4_1" rowspan="1" colspan="1">Recovery:</th>
+                    <td headers="hd_b_Flutamide.T4_1_1_4_1" rowspan="1" colspan="1">One month</td>
+                  </tr>
+                  <tr>
+                    <th headers="hd_h_Flutamide.T4_1_1_1_1" id="hd_b_Flutamide.T4_1_1_5_1" rowspan="1" colspan="1">Other medications:</th>
+                    <td headers="hd_b_Flutamide.T4_1_1_5_1" rowspan="1" colspan="1">Candesartan and glyburide chronically; goserelin for 4 weeks</td>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Flutamide.Laboratory_Values2">
+            <title>Laboratory Values</title>
+            <table-wrap id="Flutamide.T5" position="anchor" orientation="portrait">
+              <table>
+                <thead>
+                  <tr>
+                    <th id="hd_h_Flutamide.T5_1_1_1_1" rowspan="1" colspan="1">Time After Starting</th>
+                    <th id="hd_h_Flutamide.T5_1_1_1_2" rowspan="1" colspan="1">Time After Stopping</th>
+                    <th id="hd_h_Flutamide.T5_1_1_1_3" rowspan="1" colspan="1">ALT* (U/L)</th>
+                    <th id="hd_h_Flutamide.T5_1_1_1_4" rowspan="1" colspan="1">Alk P* (U/L)</th>
+                    <th id="hd_h_Flutamide.T5_1_1_1_5" rowspan="1" colspan="1">Bilirubin (mg/dL)</th>
+                    <th id="hd_h_Flutamide.T5_1_1_1_6" rowspan="1" colspan="1">Other</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td headers="hd_h_Flutamide.T5_1_1_1_1 hd_h_Flutamide.T5_1_1_1_2 hd_h_Flutamide.T5_1_1_1_3 hd_h_Flutamide.T5_1_1_1_4 hd_h_Flutamide.T5_1_1_1_5 hd_h_Flutamide.T5_1_1_1_6" colspan="6" rowspan="1">Flutamide 250 mg three times daily started for prostate cancer</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Flutamide.T5_1_1_1_1" rowspan="1" colspan="1">4 weeks</td>
+                    <td headers="hd_h_Flutamide.T5_1_1_1_2" rowspan="1" colspan="1">0</td>
+                    <td headers="hd_h_Flutamide.T5_1_1_1_3" rowspan="1" colspan="1">2160</td>
+                    <td headers="hd_h_Flutamide.T5_1_1_1_4" rowspan="1" colspan="1">900</td>
+                    <td headers="hd_h_Flutamide.T5_1_1_1_5" rowspan="1" colspan="1">13.6</td>
+                    <td headers="hd_h_Flutamide.T5_1_1_1_6" rowspan="1" colspan="1">INR 81%, albumin 3.9</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Flutamide.T5_1_1_1_1" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Flutamide.T5_1_1_1_2" rowspan="1" colspan="1">2 days</td>
+                    <td headers="hd_h_Flutamide.T5_1_1_1_3" rowspan="1" colspan="1">1825</td>
+                    <td headers="hd_h_Flutamide.T5_1_1_1_4" rowspan="1" colspan="1">763</td>
+                    <td headers="hd_h_Flutamide.T5_1_1_1_5" rowspan="1" colspan="1">9.4</td>
+                    <td headers="hd_h_Flutamide.T5_1_1_1_6" rowspan="1" colspan="1">Liver biopsy</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Flutamide.T5_1_1_1_1" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Flutamide.T5_1_1_1_2" rowspan="1" colspan="1">5 days</td>
+                    <td headers="hd_h_Flutamide.T5_1_1_1_3" rowspan="1" colspan="1">1470</td>
+                    <td headers="hd_h_Flutamide.T5_1_1_1_4" rowspan="1" colspan="1">540</td>
+                    <td headers="hd_h_Flutamide.T5_1_1_1_5" rowspan="1" colspan="1">4.4</td>
+                    <td headers="hd_h_Flutamide.T5_1_1_1_6" rowspan="1" colspan="1">Prednisone for ~2 weeks</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Flutamide.T5_1_1_1_1" rowspan="1" colspan="1">5 weeks</td>
+                    <td headers="hd_h_Flutamide.T5_1_1_1_2" rowspan="1" colspan="1">7 days</td>
+                    <td headers="hd_h_Flutamide.T5_1_1_1_3" rowspan="1" colspan="1">750</td>
+                    <td headers="hd_h_Flutamide.T5_1_1_1_4" rowspan="1" colspan="1">450</td>
+                    <td headers="hd_h_Flutamide.T5_1_1_1_5" rowspan="1" colspan="1">3.2</td>
+                    <td headers="hd_h_Flutamide.T5_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Flutamide.T5_1_1_1_1" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Flutamide.T5_1_1_1_2" rowspan="1" colspan="1">9 days</td>
+                    <td headers="hd_h_Flutamide.T5_1_1_1_3" rowspan="1" colspan="1">600</td>
+                    <td headers="hd_h_Flutamide.T5_1_1_1_4" rowspan="1" colspan="1">420</td>
+                    <td headers="hd_h_Flutamide.T5_1_1_1_5" rowspan="1" colspan="1">2.6</td>
+                    <td headers="hd_h_Flutamide.T5_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Flutamide.T5_1_1_1_1" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Flutamide.T5_1_1_1_2" rowspan="1" colspan="1">12 days</td>
+                    <td headers="hd_h_Flutamide.T5_1_1_1_3" rowspan="1" colspan="1">360</td>
+                    <td headers="hd_h_Flutamide.T5_1_1_1_4" rowspan="1" colspan="1">330</td>
+                    <td headers="hd_h_Flutamide.T5_1_1_1_5" rowspan="1" colspan="1">1.5</td>
+                    <td headers="hd_h_Flutamide.T5_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Flutamide.T5_1_1_1_1" rowspan="1" colspan="1">6 weeks</td>
+                    <td headers="hd_h_Flutamide.T5_1_1_1_2" rowspan="1" colspan="1">2 weeks</td>
+                    <td headers="hd_h_Flutamide.T5_1_1_1_3" rowspan="1" colspan="1">270</td>
+                    <td headers="hd_h_Flutamide.T5_1_1_1_4" rowspan="1" colspan="1">288</td>
+                    <td headers="hd_h_Flutamide.T5_1_1_1_5" rowspan="1" colspan="1">1.2</td>
+                    <td headers="hd_h_Flutamide.T5_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Flutamide.T5_1_1_1_1" rowspan="1" colspan="1">7 weeks</td>
+                    <td headers="hd_h_Flutamide.T5_1_1_1_2" rowspan="1" colspan="1">3 weeks</td>
+                    <td headers="hd_h_Flutamide.T5_1_1_1_3" rowspan="1" colspan="1">40</td>
+                    <td headers="hd_h_Flutamide.T5_1_1_1_4" rowspan="1" colspan="1">240</td>
+                    <td headers="hd_h_Flutamide.T5_1_1_1_5" rowspan="1" colspan="1">0.8</td>
+                    <td headers="hd_h_Flutamide.T5_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Flutamide.T5_1_1_1_1 hd_h_Flutamide.T5_1_1_1_2" colspan="2" rowspan="1">
+                      <bold>Normal Values</bold>
+                    </td>
+                    <td headers="hd_h_Flutamide.T5_1_1_1_3" rowspan="1" colspan="1">
+                      <bold>&#x0003c;40</bold>
+                    </td>
+                    <td headers="hd_h_Flutamide.T5_1_1_1_4" rowspan="1" colspan="1">
+                      <bold>&#x0003c;270</bold>
+                    </td>
+                    <td headers="hd_h_Flutamide.T5_1_1_1_5" rowspan="1" colspan="1">
+                      <bold>&#x0003c;1.2</bold>
+                    </td>
+                    <td headers="hd_h_Flutamide.T5_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+            <p>*Values estimated from figure and bilirubin converted from &#x000b5;mol to mg/dL.</p>
+          </sec>
+          <sec id="Flutamide.Comment3">
+            <title>Comment</title>
+            <p>Although the latency to onset of one month was somewhat short (the usual latency being 2-6 months), this case was otherwise quite typical with a hepatocellular pattern of serum enzyme elevations and rapid improvement with stopping therapy. Cases with a fulminant course usually show evidence of hepatic failure even on presentation, with prolonged prothrombin time accompanying the marked aminotransferase elevations.</p>
+          </sec>
+        </sec>
+      </sec>
+      <sec id="Flutamide.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <boxed-text position="anchor" id="Flutamide.BPI" orientation="portrait">
+          <p>
+            <bold>REPRESENTATIVE TRADE NAMES</bold>
+          </p>
+          <p>Flutamide &#x02013; Generic, Eulexin&#x000ae;</p>
+          <p>
+            <bold>DRUG CLASS</bold>
+          </p>
+          <p>Antineoplastic Agents</p>
+          <p>
+            <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=flutamide">COMPLETE LABELING</ext-link>
+          </p>
+          <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+        </boxed-text>
+      </sec>
+      <sec id="Flutamide.CHEMICAL_FORMULA_AND_STRUCTURE">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Flutamide.T6" position="anchor" orientation="portrait">
+          <table>
+            <thead>
+              <tr>
+                <th id="hd_h_Flutamide.T6_1_1_1_1" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Flutamide.T6_1_1_1_2" rowspan="1" colspan="1">CAS REGISTRY NO</th>
+                <th id="hd_h_Flutamide.T6_1_1_1_3" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Flutamide.T6_1_1_1_4" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Flutamide.T6_1_1_1_1" rowspan="1" colspan="1">Flutamide</td>
+                <td headers="hd_h_Flutamide.T6_1_1_1_2" rowspan="1" colspan="1">
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://134990691">13311-84-7</ext-link>
+                </td>
+                <td headers="hd_h_Flutamide.T6_1_1_1_3" rowspan="1" colspan="1">C11-H11-F3-N2-O3</td>
+                <td headers="hd_h_Flutamide.T6_1_1_1_4" rowspan="1" colspan="1">
+                  <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Flutamide_Structure.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait">
+                    <alt-text>Flutamide chemical structure</alt-text>
+                  </graphic>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Flutamide.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 05 July 2017</p>
+        <ref-list id="Flutamide.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Flutamide.R1">
+            <mixed-citation publication-type="other">Zimmerman HJ. Hepatotoxic effects of oncotherapeutic and immunosuppressive agents. In, Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999, p. 699.<annotation><p><italic toggle="yes">(Expert review of hepatotoxicity published in 1999, mentions that flutamide has led to instances of severe hepatic necrosis and fulminant hepatic failure).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Flutamide.R2">
+            <mixed-citation publication-type="other">DeLeve LD. Flutamide. Cancer chemotherapy. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd Edition. Amsterdam: Elsevier. 2013. pp. 559.<annotation><p><italic toggle="yes">(Textbook on drug induced liver injury mentions that flutamide has been implicate in at least 46 cases of severe liver injury with 20 fatalities).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Flutamide.R3">
+            <mixed-citation publication-type="other">Moy B, Lee RJ, Smith M. Hormone therapy in prostate cancer. Natural products in cancer chemotherapy: hormones and related agents. In, Brunton LL, Chabner BA, Knollman BC, eds. Goodman &#x00026; Gilman's the pharmacological basis of therapeutics. 12th ed. New York: McGraw-Hill, 2011, pp. 1763-9.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics; discusses the role of androgen receptor blockers in prostate cancer including bicalutamide, flutamide and nilutamide).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Flutamide.R4">
+            <mixed-citation publication-type="journal">Lund F, Rasmussen F. Flutamide versus stilboestrol in the management of advanced prostatic cancer. A controlled prospective study. Br J Urol 1988; 61: 140-2. <annotation><p><italic toggle="yes">(In a prospective study comparing flutamide to DES, one of 20 flutamide treated patients developed "massive jaundice" within 1 month of starting [bilirubin and ALT not given, Alk P 3950 U/L], resolving within 2 months of stopping).</italic></p></annotation><pub-id pub-id-type="pmid">3280080</pub-id></mixed-citation>
+          </ref>
+          <ref id="Flutamide.R5">
+            <mixed-citation publication-type="journal">Hart W, Stricker BH. Flutamide and hepatitis. Ann Intern Med 1989; 110: 943-4. <annotation><p><italic toggle="yes">(70 year old man with prostate cancer developed jaundice after 5 weeks of flutamide therapy [bilirubin 4.3 mg/dL, ALT 158 U/L, Alk P 1070 U/L], resolving within 3 weeks of stopping).</italic></p></annotation><pub-id pub-id-type="pmid">2719431</pub-id></mixed-citation>
+          </ref>
+          <ref id="Flutamide.R6">
+            <mixed-citation publication-type="journal">M&#x000f8;ller S, Iversen P. [Severe toxic hepatitis during flutamide (Eulexin) treatment] Ugeskr Laeger 1989; 151: 173-4. Danish. <annotation><p><italic toggle="yes">(Danish publication of cases later published in J Hepatol [M&#x000f8;ller 1990] in English).</italic></p></annotation><pub-id pub-id-type="pmid">2911917</pub-id></mixed-citation>
+          </ref>
+          <ref id="Flutamide.R7">
+            <mixed-citation publication-type="journal">Copp&#x000e9;r&#x000e9; H, Perraud Y, G&#x000e9;rard F, Jouffre C, David A, Barth&#x000e9;l&#x000e9;my C, Audigier JC. [A case of acute hepatitis caused by flutamide] Gastroenterol Clin Biol 1990; 14: 105-6. French. <annotation><p><italic toggle="yes">(54 year old man with prostate cancer developed weakness after 6 months of flutamide therapy [bilirubin normal, ALT 4.2 times ULN, Alk P normal], levels returning to normal after stopping).</italic></p></annotation><pub-id pub-id-type="pmid">2311846</pub-id></mixed-citation>
+          </ref>
+          <ref id="Flutamide.R8">
+            <mixed-citation publication-type="journal">M&#x000f8;ller S, Iversen P, Franzmann MB. Flutamide-induced liver failure. J Hepatol 1990; 10: 346-9. <annotation><p><italic toggle="yes">(2 men, ages 60 and 69 years, with prostate cancer developed jaundice 15 and 2 weeks after starting flutamide [bilirubin 34.6 and 14.9 mg/dL, AST 778 and 56 U/L, Alk P 401 and 1202 U/L]; one case with coma; both recovered within 2-3 months of stopping).</italic></p></annotation><pub-id pub-id-type="pmid">2365984</pub-id></mixed-citation>
+          </ref>
+          <ref id="Flutamide.R9">
+            <mixed-citation publication-type="journal">Pavone-Macaluso M, Cacciatore M, Daricello G, Pavone C, Serretta V. Carcinoma of the prostate. Guidelines for treatment: the role of antiandrogens. Ann N Y Acad Sci 1990; 595: 328-33. <annotation><p><italic toggle="yes">(In an early experience with using flutamide and cyproterone in 22 patients, one required drug discontinuation because of &#x0201c;liver insufficiency&#x0201d; and ALT elevations).</italic></p></annotation><pub-id pub-id-type="pmid">2375611</pub-id></mixed-citation>
+          </ref>
+          <ref id="Flutamide.R10">
+            <mixed-citation publication-type="journal">Alperine M, Cohen L, Cocheton JJ, Lecomte I, Meyniel D. [Acute hepatitis caused by flutamide] Presse Med 1991; 20: 1459-60. French. <annotation><p><italic toggle="yes">(65 year old man with prostate cancer developed jaundice 3 months after starting flutamide [bilirubin 9.6 mg/dL, ALT 10 times and Alk P 2 times ULN], developing ascites but improving rapidly once flutamide was stopped, with full recovery within 2 months).</italic></p></annotation><pub-id pub-id-type="pmid">1835038</pub-id></mixed-citation>
+          </ref>
+          <ref id="Flutamide.R11">
+            <mixed-citation publication-type="journal">Corkery JC, Bihrle W 3rd, McCaffrey JA, Whitcomb FF, Levy C, Ellis R. Flutamide-related fulminant hepatic failure. J Clin Gastroenterol 1991; 13: 364-5. <annotation><p><italic toggle="yes">(59 year old man with prostate cancer developed jaundice 6 months after starting flutamide [bilirubin 28 mg/dL, AST 1887 U/L, Alk P 312 U/L], subsequently dying of progressive liver failure).</italic></p></annotation><pub-id pub-id-type="pmid">2066558</pub-id></mixed-citation>
+          </ref>
+          <ref id="Flutamide.R12">
+            <mixed-citation publication-type="journal">Dankoff JS. Near fatal liver dysfunction secondary to administration of flutamide for prostate cancer. J Urol 1992; 148: 1914. <annotation><p><italic toggle="yes">(66 year old man with prostate cancer developed jaundice 10 weeks after starting flutamide [bilirubin 17.4 mg/dL, ALT 1323 U/L], resolving 6 weeks after stopping).</italic></p></annotation><pub-id pub-id-type="pmid">1433640</pub-id></mixed-citation>
+          </ref>
+          <ref id="Flutamide.R13">
+            <mixed-citation publication-type="journal">Gomez JL, Dupont A, Cusan L, Tremblay M, Suburu R, Lemay M, Labrie F. Incidence of liver toxicity associated with the use of flutamide in prostate cancer patients. Am J Med 1992; 92: 465-70. <annotation><p><italic toggle="yes">(Prospective study of 1091 patients with prostate cancer given flutamide, routine ALT monitoring found 4 [0.36%] patients with ALT &#x0003e;4 times ULN, one with jaundice [bilirubin 7.4 mg/dL, ALT 209 U/L, Alk P 640 U/L], all recovering after stopping).</italic></p></annotation><pub-id pub-id-type="pmid">1349790</pub-id></mixed-citation>
+          </ref>
+          <ref id="Flutamide.R14">
+            <mixed-citation publication-type="journal">Mart&#x000ed;nez Bruna MS, Velila Alcubilla JP, Abinzano M, Mart&#x000ed;nez Velasco C, Garc&#x000ed;a Mauriz ME, Urbieta Echezareta M. [Hepatotoxicity and flutamide] An Med Interna 1993; 10: 566. Spanish. <annotation><p><italic toggle="yes">(79 year old man with prostate cancer developed jaundice [bilirubin 3.2 mg/dL] within a month of starting flutamide with normal ALT, AST and Alk P and fall of bilirubin to normal within 4 weeks).</italic></p></annotation><pub-id pub-id-type="pmid">8117876</pub-id></mixed-citation>
+          </ref>
+          <ref id="Flutamide.R15">
+            <mixed-citation publication-type="journal">Rosman AS, Frissora-Rodeo C, Marshall AT, Reiter BP, Paronetto F. Cholestatic hepatitis following flutamide. Dig Dis Sci 1993; 38: 1756-9. <annotation><p><italic toggle="yes">(72 year old man with prostate cancer developed jaundice 3 months after starting flutamide [bilirubin 13.0 mg/dL, ALT 443 U/L, Alk P 3054 U/L], resolving within 6 months of stopping).</italic></p></annotation><pub-id pub-id-type="pmid">8359091</pub-id></mixed-citation>
+          </ref>
+          <ref id="Flutamide.R16">
+            <mixed-citation publication-type="journal">Wallace C, Lalor EA, Chik CL. Hepatotoxicity complicating flutamide treatment of hirsutism. Ann Intern Med 1993; 119: 1150. <annotation><p><italic toggle="yes">(20 year old woman developed jaundice and severe pruritus 6 weeks after starting flutamide for acne [bilirubin 15.3 rising to 28.0 mg/dL, ALT 1481 U/L, Alk P 180 U/L], resolving within 3 months of stopping).</italic></p></annotation><pub-id pub-id-type="pmid">8110241</pub-id></mixed-citation>
+          </ref>
+          <ref id="Flutamide.R17">
+            <mixed-citation publication-type="journal">Wysowski DK, Freiman JP, Tourtelot JB, Horton ML 3rd. Fatal and nonfatal hepatotoxicity associated with flutamide. Ann Intern Med 1993; 118: 860-4. <annotation><p><italic toggle="yes">(Description of 19 cases of flutamide hepatotoxicity reported to FDA between 1989-91, mean latency 56 days, 16 had hyperbilirubinemia, 5 deaths; 2 detailed case reports of men with prostate cancer developing jaundice 2 and 3 months after starting flutamide and LHRH analog [bilirubin peak of 35.4 and 2.1 mg/dL, ALT 1841 and 1871 U/L]; one case fatal).</italic></p></annotation><pub-id pub-id-type="pmid">7683180</pub-id></mixed-citation>
+          </ref>
+          <ref id="Flutamide.R18">
+            <mixed-citation publication-type="journal">Caballer&#x000ed;a E, Arag&#x000f3; JV, Sanch&#x000ed;s A. [Hepatotoxicity due to flutamide] Med Clin (Barc) 1994; 102: 434. Spanish. <annotation><p><italic toggle="yes">(78 year old man with prostate cancer developed symptoms and jaundice 1 month after starting flutamide [bilirubin 1.2 rising to 6.5 mg/dL, ALT 716 U/L, Alk P 203 U/L], rapid resolution upon stopping).</italic></p></annotation><pub-id pub-id-type="pmid">8183002</pub-id></mixed-citation>
+          </ref>
+          <ref id="Flutamide.R19">
+            <mixed-citation publication-type="journal">Dourakis SP, Alexopoulou AA, Hadziyannis SJ. Fulminant hepatitis after flutamide treatment. J Hepatol 1994; 20: 350-3. <annotation><p><italic toggle="yes">(Two men, ages 70 and 84 years, with prostate cancer developed jaundice 13 and 8 weeks after starting flutamide [bilirubin 17.7 and 25.2 mg/dL, ALT 768 and 473 U/L, Alk P 239 and 165 U/L with hepatic failure], slowly resolving in one and fatal outcome in the other [with massive necrosis on autopsy]; one case had abnormal and one had normal ALT levels during routine monitoring 4 weeks before presentation).</italic></p></annotation><pub-id pub-id-type="pmid">8014445</pub-id></mixed-citation>
+          </ref>
+          <ref id="Flutamide.R20">
+            <mixed-citation publication-type="journal">Prattichizzo FA. Acute cholestatic hepatitis secondary to flutamide therapy. Am J Med 1994; 96: 392-3. <annotation><p><italic toggle="yes">(Elderly man with prostate cancer developed jaundice 12 weeks after starting flutamide [bilirubin 16.7 mg/dL, ALT 1204 U/L, Alk P 341 U/L], resolving within 2 months of stopping).</italic></p></annotation><pub-id pub-id-type="pmid">8166163</pub-id></mixed-citation>
+          </ref>
+          <ref id="Flutamide.R21">
+            <mixed-citation publication-type="journal">Kosar Y, Sasmaz N, Oguz P, K&#x000fc;&#x000e7;&#x000fc;kbas S. Hepatic insufficiency developing as a result of flutamide treatment. Am J Gastroenterol 1995; 90: 1027-8. <annotation><p><italic toggle="yes">(58 year old man with prostate cancer developed jaundice 6 weeks after starting flutamide [bilirubin 11 mg/dL, ALT 348 U/L, Alk P 276 U/L, protime 34% and ascites], nevertheless, recovering within one month of stopping).</italic></p></annotation><pub-id pub-id-type="pmid">7771407</pub-id></mixed-citation>
+          </ref>
+          <ref id="Flutamide.R22">
+            <mixed-citation publication-type="journal">Moghetti P, Castello R, Negri C, Tosi F, Magnani CM, Fontanarosa MC, Armanini D, et al. Flutamide in the treatment of hirsutism: long-term clinical effects, endocrine changes, and androgen receptor behavior. Fertil Steril 1995; 64: 511-7. <annotation><p><italic toggle="yes">(18 women with hirsutism were treated with flutamide [125 mg/day] for 12 months; one developed asymptomatic rise in ALT [without jaundice] at 8 months [peak value ~140 U/L], falling promptly with stopping).</italic></p></annotation><pub-id pub-id-type="pmid">7641903</pub-id></mixed-citation>
+          </ref>
+          <ref id="Flutamide.R23">
+            <mixed-citation publication-type="journal">Andr&#x000e9;jak M, Nguyen-Khac E, Decocq G, Capron JP. [Fulminant hepatitis caused by flutamide] Gastroenterol Clin Biol 1996; 20: 121-2. French. <annotation><p><italic toggle="yes">(70 year old man with prostate cancer developed jaundice 10 weeks after starting flutamide [bilirubin 10 times and ALT 49 times ULN], later developing ascites, encephalopathy and dying 6 weeks after presentation).</italic></p></annotation><pub-id pub-id-type="pmid">8734324</pub-id></mixed-citation>
+          </ref>
+          <ref id="Flutamide.R24">
+            <mixed-citation publication-type="journal">Cicognani C, Malavolti M, Morselli-Labate AM, Sama C, Barbara L. Flutamide-induced toxic hepatitis. Potential utility of ursodeoxycholic acid administration in toxic hepatitis. Dig Dis Sci 1996; 41: 2219-21. <annotation><p><italic toggle="yes">(83 year old man with prostate cancer developed jaundice 7 months after starting flutamide [bilirubin 24.5 mg/dL, ALT 1340 U/L, Alk P 319 U/L], resolving within 6 weeks off stopping with ursodiol treatment).</italic></p></annotation><pub-id pub-id-type="pmid">8943975</pub-id></mixed-citation>
+          </ref>
+          <ref id="Flutamide.R25">
+            <mixed-citation publication-type="journal">Crownover RL, Holland J, Chen A, Krieg R, Young BK, Roach M III, Fu KK. Flutamide-induced liver toxicity including fatal hepatic necrosis. Int J Radiat Oncol Biol Phys 1996; 34: 911-5. <annotation><p><italic toggle="yes">(Case reports of 3 men with prostate cancer receiving flutamide; 78 year old developed jaundice 2 months after starting [bilirubin 24.3 mg/dL, ALT 759 U/L and, Alk P 141 U/L] with fatal outcome; 63 and 70 year olds found to have abnormal liver tests 5 and 6 weeks after starting [bilirubin 0.8 and 1.1 mg/dL, ALT 258 and 77 U/L, Alk P 70 and 120 U/L], subsequent rapid recovery upon stopping).</italic></p></annotation><pub-id pub-id-type="pmid">8598370</pub-id></mixed-citation>
+          </ref>
+          <ref id="Flutamide.R26">
+            <mixed-citation publication-type="journal">Lee HW, Chung JP, Lee KS, Kim KC, Lee KS, Chon CY, Park IS, Kim HG. A case of flutamide-induced acute cholestatic hepatitis--a case report. Yonsei Med J 1996; 37: 225-9. <annotation><p><italic toggle="yes">(75 year old man with prostate cancer developed jaundice 7 months after starting flutamide [bilirubin 6.5 mg/dL, ALT 315 U/L, Alk P 470 U/L], resolving within 2 months of stopping).</italic></p></annotation><pub-id pub-id-type="pmid">8826789</pub-id></mixed-citation>
+          </ref>
+          <ref id="Flutamide.R27">
+            <mixed-citation publication-type="journal">Patel H, Rhee E, Zimmern PE. [Hepatic encephalopathy induced by flutamide administered for the treatment of prostatic cancer] J Urol (Paris) 1996; 102: 123-5. French. <annotation><p><italic toggle="yes">(77 year old man with metastatic prostate cancer developed progressive fatigue, jaundice and confusion 1 month after starting flutamide [bilirubin 17 mg/dL, ALT 2,280 U/L], but with rapid improvement in mental status after stopping flutamide and normal values 6 months later while still on leuprolide).</italic></p></annotation><pub-id pub-id-type="pmid">9091557</pub-id></mixed-citation>
+          </ref>
+          <ref id="Flutamide.R28">
+            <mixed-citation publication-type="journal">Rosenthal SA, Linstadt DE, Leibenhaut MH, Andras EJ, Brooks CP, Stickney DR, Chang GC, et al. Flutamide-associated liver toxicity during treatment with total androgen suppression and radiation therapy for prostate cancer. Radiology 1996; 199: 451-5. <annotation><p><italic toggle="yes">(Prospective study of liver tests in 65 prostate cancer patients given flutamide and goserelin for 4 months; ALT rose above normal in 62%, and to &#x0003e;5 times ULN in 7%; 14 patients stopped therapy early because of ALT levels; 2 patients developed hepatitis [bilirubin 3.9 and 3.8 mg/dL, ALT 1116 and 816 U/L], all resolved within 3 months of stopping).</italic></p></annotation><pub-id pub-id-type="pmid">8668793</pub-id></mixed-citation>
+          </ref>
+          <ref id="Flutamide.R29">
+            <mixed-citation publication-type="journal">Wysowski DK, Fourcroy JL. Flutamide hepatotoxicity. J Urol 1996; 155: 209-12. Erratum in: J Urol 1996; 155: 1396. <annotation><p><italic toggle="yes">(Review of flutamide events reported to FDA MedWatch 1989-1994, found 20 deaths and 26 hospitalizations for flutamide hepatotoxicity ~3/10,000; autopsy in 6 showed massive necrosis, mean onset of 3 months after starting; found 16 cases in literature).</italic></p></annotation><pub-id pub-id-type="pmid">7490837</pub-id></mixed-citation>
+          </ref>
+          <ref id="Flutamide.R30">
+            <mixed-citation publication-type="journal">Cantalejo Moreira M, Garc&#x000ed;a Espinosa V, Mart&#x000ed;n Guti&#x000e9;rrez JC, Garc&#x000ed;a Puig J. [Hepatotoxicity from flutamide] Med Clin (Barc) 1997; 109: 819-20. Spanish. <annotation><p><italic toggle="yes">(82 year old man with prostate cancer developed jaundice 6 months after starting flutamide [bilirubin 22.7 mg/dL, ALT 686 U/L, Alk P 691 U/L], with rapid recovery within 1 month of stopping).</italic></p></annotation><pub-id pub-id-type="pmid">9493165</pub-id></mixed-citation>
+          </ref>
+          <ref id="Flutamide.R31">
+            <mixed-citation publication-type="journal">Fern&#x000e1;ndez Pe&#x000f1;a CM, Morano Amado LE, Montes Santiago J, Fachal C. [Fulminant liver failure with a fatal outcome due to flutamide] Med Clin (Barc) 1997; 108: 237-8. Spanish. <annotation><p><italic toggle="yes">(68 year old man with metastatic prostate cancer developed jaundice 3 months after starting flutamide and LHRH analog therapy [bilirubin 17.4 mg/dL, ALT 1429 U/L, Alk P 8679 U/L, protime 66%]; despite stopping therapy promptly, he developed liver failure and died within a month of presentation).</italic></p></annotation><pub-id pub-id-type="pmid">9102495</pub-id></mixed-citation>
+          </ref>
+          <ref id="Flutamide.R32">
+            <mixed-citation publication-type="journal">Garc&#x000ed;a-Gasc&#x000f3; P, Morata Aldea C, Segura Huertas A, Aparicio Urtasun J. [Fulminant hepatitis associated with treatment with flutamide] Med Clin (Barc) 1997; 109: 820. Spanish. <annotation><p><italic toggle="yes">(80 year old man with prostate cancer developed jaundice 4 months after starting flutamide therapy [bilirubin 27 mg/dL, ALT 781 U/L, Alk P 590 U/L, protime 41%]; rapid progression despite stopping drug to liver failure and death within 15 days).</italic></p></annotation><pub-id pub-id-type="pmid">9493166</pub-id></mixed-citation>
+          </ref>
+          <ref id="Flutamide.R33">
+            <mixed-citation publication-type="journal">Guzm&#x000e1;n Mart&#x000ed;nez-Valls PL, Ferrero Doria R, Morga Egea JP, Ros R, Galiano R, Gutierrez A, Franco G, et al. [Liver failure caused by flutamide] Actas Urol Esp 1997; 21: 278-82. Spanish. <pub-id pub-id-type="pmid">9324896</pub-id></mixed-citation>
+          </ref>
+          <ref id="Flutamide.R34">
+            <mixed-citation publication-type="journal">McLeod DG. Tolerability of nonsteroidal antiandrogens in the treatment of advanced prostate cancer. Oncologist 1997; 2: 18-27. <annotation><p><italic toggle="yes">(Overview of the safety and side effects of the nonsteroidal antiandrogens; ALT elevations arise in 4-62% receiving flutamide; in comparison studies, 12% with flutamide vs 3% with placebo and 10% vs 6% with bicalutamide; clinically apparent hepatitis can occur and can be fatal; estimated rates being 3/10,000 treated).</italic></p></annotation><pub-id pub-id-type="pmid">10388026</pub-id></mixed-citation>
+          </ref>
+          <ref id="Flutamide.R35">
+            <mixed-citation publication-type="journal">Satoh T, Egawa S, Katsuta M, Iwamura M, Uchida T, Koshiba K. [A case of fulminant hepatitis caused by antiandrogen, flutamide in a patient with prostate cancer] Nippon Hinyokika Gakkai Zasshi 1997; 88: 694-6. Japanese. <annotation><p><italic toggle="yes">(Abstract only: 66 year old man with metastatic prostate cancer developed jaundice 7 weeks after starting flutamide [375 mg/day], resolving within 2 months of stopping).</italic></p></annotation><pub-id pub-id-type="pmid">9267134</pub-id></mixed-citation>
+          </ref>
+          <ref id="Flutamide.R36">
+            <mixed-citation publication-type="journal">Wietzke P, M&#x000fc;nke H, Hartmann H, Ramadori G. [Hepatotoxicity of flutamide] Z Gastroenterol 1997; 35: 631-5. German. <annotation><p><italic toggle="yes">(Two cases of jaundice in men, ages 76 and 64 years, with prostate cancer given flutamide for 16 and 8 weeks [bilirubin 8.9 and 8.4 mg/dL, ALT 699 and 612 U/L, Alk P 206 and 241 U/L, one patient with ascites], resolving within 9-10 weeks of stopping).</italic></p></annotation><pub-id pub-id-type="pmid">9381745</pub-id></mixed-citation>
+          </ref>
+          <ref id="Flutamide.R37">
+            <mixed-citation publication-type="journal">Chu CW, Hwang SJ, Luo JC, et al. Flutamide-induced liver injury: a case report. Zhonghua Yi Xue Za Zhi (Taipei) 1998; 61: 678-82. <annotation><p><italic toggle="yes">(72 year old man with prostate cancer developed jaundice 5 months after starting flutamide [bilirubin 7.0 mg/dL, ALT 1035 U/L, Alk P 145 U/L], resolving within 3 months of stopping).</italic></p></annotation><pub-id pub-id-type="pmid">9872026</pub-id></mixed-citation>
+          </ref>
+          <ref id="Flutamide.R38">
+            <mixed-citation publication-type="journal">Cuevas Campos MA, Pareja Llorens G, Garc&#x000ed;a Romero E, Bertomeu Blanch F. [Toxic hepatitis caused by flutamide] Gastroenterol Hepatol 1998; 21: 499-500. Spanish. <annotation><p><italic toggle="yes">(67 year old man with prostate cancer developed jaundice 2 months after starting flutamide [bilirubin 11.2 mg/dL, ALT 1050 U/L, Alk P 381 U/L], resolving promptly upon stopping).</italic></p></annotation><pub-id pub-id-type="pmid">9927799</pub-id></mixed-citation>
+          </ref>
+          <ref id="Flutamide.R39">
+            <mixed-citation publication-type="journal">Mena FJ, Goyeneche ML, Velicia R, Gonz&#x000e1;lez JM, Bellido J, Caro-Pat&#x000f3;n A. [Acute cholestatic hepatitis secondary to flutamide] Rev Esp Enferm Dig 1998; 90: 376-7. Spanish. <annotation><p><italic toggle="yes">(Two men, ages 77 and 69 years, with prostate cancer treated with flutamide and leuprolide for 4-5 months presented with jaundice [bilirubin 9.7 and 6.0 mg/dL, ALT 1058 and 1073 U/L, Alk P 620 and 459 U/L], resolving within 7 to 8 weeks of stopping).</italic></p></annotation><pub-id pub-id-type="pmid">9656761</pub-id></mixed-citation>
+          </ref>
+          <ref id="Flutamide.R40">
+            <mixed-citation publication-type="journal">Pogromov AP, Popova AM. [The hepatotoxicity of flutamide] Klin Med (Mosk) 1998; 76: 56-8. Russian. <pub-id pub-id-type="pmid">9742783</pub-id></mixed-citation>
+          </ref>
+          <ref id="Flutamide.R41">
+            <mixed-citation publication-type="journal">Pontiroli L, Sartori M, Pittau S, Morelli S, Boldorini R, Albano E. Flutamide-induced acute hepatitis: investigation on the role of immunoallergic mechanisms. Ital J Gastroenterol Hepatol 1998; 30: 310-4. <annotation><p><italic toggle="yes">(69 year old man with prostate cancer developed jaundice 4 months after starting flutamide therapy [bilirubin 14.1 mg/dL, ALT 946 U/L, Alk P 352 U/L], resolving rapidly upon stopping; tests for antibodies to flutamide-treated rat microsomes were negative).</italic></p></annotation><pub-id pub-id-type="pmid">9759603</pub-id></mixed-citation>
+          </ref>
+          <ref id="Flutamide.R42">
+            <mixed-citation publication-type="journal">Andrade RJ, Lucena MI, Fern&#x000e1;ndez MC, Suarez F, Montero JL, Fraga E, Hidalgo F. Fulminant liver failure associated with flutamide therapy for hirsutism. Lancet 1999; 353: 983. <annotation><p><italic toggle="yes">(14 year old girl developed jaundice 3 months after starting therapy with flutamide for acne [bilirubin 7.3 mg/dL, ALT 2372 U/L], with subsequent liver failure requiring transplantation; explant showed massive necrosis: Case 1).</italic></p></annotation><pub-id pub-id-type="pmid">10459914</pub-id></mixed-citation>
+          </ref>
+          <ref id="Flutamide.R43">
+            <mixed-citation publication-type="journal">Cetin M, Demirci D, Unal A, Altinbas M, G&#x000fc;ven M, Unl&#x000fc;hizarci K. Frequency of flutamide induced hepatotoxicity in patients with prostate carcinoma. Hum Exp Toxicol 1999; 18: 137-40. <annotation><p><italic toggle="yes">(Prospective study of 22 patients with prostate cancer; two patients [9%] developed jaundice 5 and 8 weeks after starting flutamide [bilirubin 3.0 and 9.6 mg/dL, ALT 380 and 284 U/L, Alk P 1289 and 864 U/L]; one resolving within 4 weeks of stopping, the second being fatal).</italic></p></annotation><pub-id pub-id-type="pmid">10215102</pub-id></mixed-citation>
+          </ref>
+          <ref id="Flutamide.R44">
+            <mixed-citation publication-type="journal">Falsetti L, Gambera A, Legrenzi L, Iacobello C, Bugari G. Comparison of finasteride versus flutamide in the treatment of hirsutism. Eur J Endocrinol 1999; 141: 361-7. <annotation><p><italic toggle="yes">(Controlled trial of finasteride [5 mg/day] vs flutamide [500 mg/day] for 12 months in 110 women with hirsutism; 2 patients on flutamide [4%] developed ALT elevations after 6 months, both resolving with stopping).</italic></p></annotation><pub-id pub-id-type="pmid">10526249</pub-id></mixed-citation>
+          </ref>
+          <ref id="Flutamide.R45">
+            <mixed-citation publication-type="journal">Nakagawa Y, Koyama M, Matsumoto M. [Flutamide-induced hepatic disorder and serum concentrations of flutamide and its metabolites in patients with prostate cancer] Hinyokika Kiyo 1999; 45: 821-6. Japanese. <annotation><p><italic toggle="yes">(Case report of severe hepatotoxicity after 11 weeks of flutamide therapy associated with high levels of metabolites; among 37 men with prostate cancer treated with flutamide, minor ALT elevations occurred in 7 [19%], rapidly resolving; &#x0003e;100 U/L in 2 patients).</italic></p></annotation><pub-id pub-id-type="pmid">10659414</pub-id></mixed-citation>
+          </ref>
+          <ref id="Flutamide.R46">
+            <mixed-citation publication-type="journal">Nicol&#x000e1;s D, P&#x000e9;rez-EbrI ML, Sarri&#x000f3;n JV, Nos P. [Acute flutamide-induced hepatitis] Gastroenterol Hepatol 1999; 22: 262-3. Spanish. <annotation><p><italic toggle="yes">(73 year old man with prostate cancer developed jaundice 10 months after starting flutamide and an LHRH analog [bilirubin 6.7 mg/dL, ALT 697 U/L, Alk P 164 U/L, protime 45% and mild ascites], resolving within 3-5 months of stopping).</italic></p></annotation><pub-id pub-id-type="pmid">10396113</pub-id></mixed-citation>
+          </ref>
+          <ref id="Flutamide.R47">
+            <mixed-citation publication-type="journal">Okaneya T, Murata Y, Kinebuchi Y. [Fatal hepatic failure following hepatitis caused by flutamide: a case report] Nippon Hinyokika Gakkai Zasshi 1999; 90: 590-3. Japanese. <annotation><p><italic toggle="yes">(73 year old man with prostate cancer developed flutamide hepatotoxicity [ALT 3045 U/L] and died of complications of duodenal ulcer bleeding [abstract only]).</italic></p></annotation><pub-id pub-id-type="pmid">10386060</pub-id></mixed-citation>
+          </ref>
+          <ref id="Flutamide.R48">
+            <mixed-citation publication-type="journal">Pu YS, Liu CM, Kao JH, Chen J, Lai MK. Antiandrogen hepatotoxicity in patients with chronic viral hepatitis. Eur Urol 1999; 36: 293-7. <annotation><p><italic toggle="yes">(Retrospective study of 121 men receiving antiandrogen therapy with flutamide or cyproterone found abnormal ALT levels in most or all who were HBsAg or anti-HCV-positive; but many were not tested, and frequency of ALT monitoring was unclear. Authors propose that antiandrogen hepatotoxicity is more frequent among men with preexisting hepatitis, but no attempt was made to separate hepatotoxicity from exacerbation of underlying disease).</italic></p></annotation><pub-id pub-id-type="pmid">10473987</pub-id></mixed-citation>
+          </ref>
+          <ref id="Flutamide.R49">
+            <mixed-citation publication-type="journal">Wada T, Ueda M, Abe K, Kobari T, Yamazaki H, Nakata J, Ikemoto I, et al. [Risk factor of liver disorders caused by flutamide--statistical analysis using multivariate logistic regression analysis] Hinyokika Kiyo 1999; 45: 521-6. Japanese. <annotation><p><italic toggle="yes">(Among 123 men with prostate cancer treated with flutamide, 33 [26%] developed "liver disorders;" rate was higher in those with previous histories of liver disease and preexisting elevations in GGT or ALT [abstract only]).</italic></p></annotation><pub-id pub-id-type="pmid">10500955</pub-id></mixed-citation>
+          </ref>
+          <ref id="Flutamide.R50">
+            <mixed-citation publication-type="journal">Ikemoto I, Ohishi Y, Yamazaki H, Wada T, Aizawa Y. [Changes in liver function induced by flutamide in patients with prostate cancer (studies in patients treated with total androgen blockage)] Nippon Hinyokika Gakkai Zasshi 2000; 91: 556-61. Japanese. <annotation><p><italic toggle="yes">(Prospective study of ALT elevations in 50 patients with prostate cancer receiving flutamide; 12 patients developed abnormalities which were severe in 2 [4%] and with only mild bilirubin elevations [abstract only]).</italic></p></annotation><pub-id pub-id-type="pmid">10897581</pub-id></mixed-citation>
+          </ref>
+          <ref id="Flutamide.R51">
+            <mixed-citation publication-type="journal">Rom&#x000e1;n Llorente FJ, Alvarez Navascu&#x000e9;s C, Su&#x000e1;rez Gonz&#x000e1;lez A, Gonz&#x000e1;lez Bernal AC. [Toxic hepatitis caused by flutamide and hirsutism] Gastroenterol Hepatol 2000; 23: 258. Spanish. <annotation><p><italic toggle="yes">(23 year old woman treated with flutamide [500 mg/day] for hirsutism for 5 months developed jaundice [bilirubin 26.6 mg/dL, ALT 1268 U/L, Alk P 119 U/L], resolving within 3 months of withdrawal).</italic></p></annotation><pub-id pub-id-type="pmid">10902281</pub-id></mixed-citation>
+          </ref>
+          <ref id="Flutamide.R52">
+            <mixed-citation publication-type="journal">Garc&#x000ed;a Cort&#x000e9;s M, Andrade RJ, Lucena MI, Sanchez Martinez H, Fernandez MC, Ferrer T, Martin-Vivaldi R, et al. Flutamide-induced hepatotoxicity: report of a case series. Rev Esp Enferm Dig 2001; 93: 423-32. <annotation><p><italic toggle="yes">(Spanish registry from 1994-2000 contained 9 cases [5%] of flutamide hepatotoxicity; 8 were men, mean age 75 years, no autoantibodies, no eosinophilia, latency to onset of 4 to 433 days [mean=151 days], usually with hepatocellular pattern of enzyme elevations; 2 deaths).</italic></p></annotation><pub-id pub-id-type="pmid">11685939</pub-id></mixed-citation>
+          </ref>
+          <ref id="Flutamide.R53">
+            <mixed-citation publication-type="journal">Kraus I, Vitezic D, Oguic R. Flutamide-induced acute hepatitis in advanced prostate cancer patients. Int J Clin Pharmacol Ther 2001; 39: 395-9. <annotation><p><italic toggle="yes">(3 cases of jaundice arising 20-22 weeks after starting flutamide therapy for prostate cancer [bilirubin 16.8, 24.6 and 10 mg/dL, ALT 750, 670 and 854 U/L, Alk P 158, 411 and 238 U/L], all 3 resolving within 2 months of stopping).</italic></p></annotation><pub-id pub-id-type="pmid">11563686</pub-id></mixed-citation>
+          </ref>
+          <ref id="Flutamide.R54">
+            <mixed-citation publication-type="journal">Ruiz R, Casa&#x000f1; R, Juan O. [Hepatotoxicity due to flutamide] Aten Primaria 2001; 28: 565. Spanish. <annotation><p><italic toggle="yes">(74 year old man with prostate cancer developed jaundice 6 months after starting flutamide [bilirubin 11.1 mg/dL, ALT 806 U/L, GGT 689 U/L], severe course but ultimately resolved).</italic></p></annotation><pub-id pub-id-type="pmid">11792276</pub-id></mixed-citation>
+          </ref>
+          <ref id="Flutamide.R55">
+            <mixed-citation publication-type="journal">Ruiz-Rebollo M, Atienza-S&#x000e1;nchez R, L&#x000f3;pez-Garc&#x000ed;a E. [Hirsutism, flutamide and hepatotoxicity] Gastroenterol Hepatol 2001; 24: 218. Spanish. <annotation><p><italic toggle="yes">(23 year old woman with hirsutism treated with flutamide [500 mg/day] for 4 months developed abdominal pain and jaundice [bilirubin 22.4 mg/dL, ALT 1618 U/L, Alk P 422 U/L], relapsing upon inadvertent reintroduction of flutamide [bilirubin rising to 46.7 mg/dL, ALT 965 U/L, Alk P 459 U/L], but then resolution within 4 months of stopping).</italic></p></annotation><pub-id pub-id-type="pmid">11333662</pub-id></mixed-citation>
+          </ref>
+          <ref id="Flutamide.R56">
+            <mixed-citation publication-type="journal">Venturoli S, Paradisi R, Bagnoli A, Colombo FM, Ravaioli B, Vianello F, Mancini F, et al. Low-dose flutamide (125 mg/day) as maintenance therapy in the treatment of hirsutism. Horm Res 2001; 56: 25-31. <annotation><p><italic toggle="yes">(Trial of flutamide [250 for 12 months followed by 125 mg/day for 12 months] in 47 women with hirsutism found ALT elevations in 4 [9%] during first 2 months, thereafter no further ALT elevations or liver toxicity observed).</italic></p></annotation><pub-id pub-id-type="pmid">11815724</pub-id></mixed-citation>
+          </ref>
+          <ref id="Flutamide.R57">
+            <mixed-citation publication-type="journal">Ozono S, Yamaguchi A, Mochizuki H, Kawakami T, Fujimoto K, Otani T, Yoshida K, et al. Caffeine test in predicting flutamide-induced hepatic injury in patients with prostate cancer. Prostate Cancer Prostatic Dis 2002; 5: 128-31. <annotation><p><italic toggle="yes">(Study of patients who received flutamide for prostate cancer found that the 9 with ALT elevations had decreased caffeine metabolism compared to 2 who did not, suggesting a role for CYP1A2).</italic></p></annotation><pub-id pub-id-type="pmid">12497002</pub-id></mixed-citation>
+          </ref>
+          <ref id="Flutamide.R58">
+            <mixed-citation publication-type="journal">Aizawa Y, Ikemoto I, Kishimoto K, Wada T, Yamazaki H, Ohishi Y, Kiyota H, et al. Flutamide-induced hepatic dysfunction in relation to steady-state plasma concentrations of flutamide and its metabolites. Mol Cell Biochem 2003; 252: 149-56. <annotation><p><italic toggle="yes">(Prospective study of 55 patients with prostate cancer treated with flutamide, found higher levels of metabolite [FLU-1] in 2 patients who developed hepatotoxicity compared to others).</italic></p></annotation><pub-id pub-id-type="pmid">14577588</pub-id></mixed-citation>
+          </ref>
+          <ref id="Flutamide.R59">
+            <mixed-citation publication-type="journal">Ashar U, Desai D, Bhaduri A. Flutamide-induced hepatotoxicity with possible potentiation by simvastatin. J Assoc Physicians India 2003; 51: 75-7. <annotation><p><italic toggle="yes">(65 year old man with prostate cancer developed jaundice 8-9 months after starting flutamide [bilirubin 24 mg/dL, ALT 646 U/L, Alk P 290 U/L]; jaundice lasted 2 months but ultimately there was full recovery within 4 months of stopping: Case 2).</italic></p></annotation><pub-id pub-id-type="pmid">12693464</pub-id></mixed-citation>
+          </ref>
+          <ref id="Flutamide.R60">
+            <mixed-citation publication-type="journal">Famularo G, De Simone C, Minisola G, Nicotra GC. Flutamide-associated acute liver failure. Ann Ital Med Int 2003; 18: 250-3. <annotation><p><italic toggle="yes">(74 year old man with prostate cancer developed jaundice 2 months after starting flutamide [bilirubin 26 mg/dL, ALT 2372 U/L, Alk P 3 times ULN, INR 2.3 and ascites], resolving slowly and incompletely over the next 10 months).</italic></p></annotation><pub-id pub-id-type="pmid">14971714</pub-id></mixed-citation>
+          </ref>
+          <ref id="Flutamide.R61">
+            <mixed-citation publication-type="journal">Kackar RR, Desai HG. Hepatic failure with flutamide. Indian J Gastroenterol 2003; 22: 149-50. <annotation><p><italic toggle="yes">(41 year old woman with hair loss developed fever and jaundice 3 months after starting flutamide [bilirubin 2.3 rising to 24.4 mg/dL, ALT 1800 U/L, Alk P 183 U/L, rising INR, ascites and coma], but ultimately recovering spontaneously without transplantation).</italic></p></annotation><pub-id pub-id-type="pmid">12962443</pub-id></mixed-citation>
+          </ref>
+          <ref id="Flutamide.R62">
+            <mixed-citation publication-type="journal">Lin AD, Chen KK, Lin AT, Chang Y-H, Wu HHH, Kuo J-Y, Huang WJS, et al. Antiandrogen-associated hepatotoxicity in the management of advanced prostate cancer. J Chin Med Assoc 2003; 66: 735-40. <annotation><p><italic toggle="yes">(Retrospective review of 229 patients with prostate cancer treated with flutamide or cyproterone and a LHRH agonist, orchiectomy or radiotherapy with regular monitoring of ALT; ALT &#x0003e;2 times ULN arose in 15.3% of flutamide and 9.5% of cyproterone treated subjects; ALT &#x0003e;6 times ULN in 5% vs 4%; no deaths, a few had jaundice).</italic></p></annotation><pub-id pub-id-type="pmid">15015823</pub-id></mixed-citation>
+          </ref>
+          <ref id="Flutamide.R63">
+            <mixed-citation publication-type="journal">Takashima E, Iguchi K, Usui S, Yamamoto H, Hirano K. Metabolite profiles of flutamide in serum from patients with flutamide-induced hepatic dysfunction. Biol Pharm Bull 2003; 26: 1455-60. <annotation><p><italic toggle="yes">(Analysis of metabolic products of flutamide; pattern found to be similar in patients with and without ALT elevations).</italic></p></annotation><pub-id pub-id-type="pmid">14519954</pub-id></mixed-citation>
+          </ref>
+          <ref id="Flutamide.R64">
+            <mixed-citation publication-type="journal">Russo MW, Galanko JA, Shrestha R, Fried MW, Watkins P. Liver transplantation for acute liver failure from drug-induced liver injury in the United States. Liver Transpl 2004; 10: 1018-23. <annotation><p><italic toggle="yes">(Among ~50,000 liver transplants done in the United States between 1990 and 2002, 270 [0.5%] were done for drug induced acute liver failure, but no case was attributed to an antiandrogen, perhaps because patients with prostate cancer were less likely to be eligible for liver transplantation).</italic></p></annotation><pub-id pub-id-type="pmid">15390328</pub-id></mixed-citation>
+          </ref>
+          <ref id="Flutamide.R65">
+            <mixed-citation publication-type="journal">L&#x000fc;bbert C, Wiese M, Haupt R, Ruf BR. [Toxic hepatitis and liver failure under therapy with flutamide] Internist (Berl) 2004; 45: 333-40. German. <annotation><p><italic toggle="yes">(77 and 66 year old men with prostate cancer developed jaundice 4 and 12 weeks after starting flutamide [bilirubin 13.6 and 25 mg/dL, ALT 1825 and 2145 U/L, Alk P 1.5 and 3 times ULN], one resolving within 4 weeks of stopping and the other progressing to liver failure and death: Case 3).</italic></p></annotation><pub-id pub-id-type="pmid">14997310</pub-id></mixed-citation>
+          </ref>
+          <ref id="Flutamide.R66">
+            <mixed-citation publication-type="journal">Manolakopoulos S, Bethanis S, Armonis A, Economou M, Avgerinos A, Tzourmakliotis D. Toxic hepatitis after sequential administration of flutamide and cyproterone acetate. Dig Dis Sci 2004; 49: 462-5. <annotation><p><italic toggle="yes">(76 year old man with prostate cancer developed jaundice 6 months after starting flutamide [bilirubin 23.6 mg/dL, ALT 164 U/L, Alk P 132 U/L], which recurred 5 months after switching to cyproterone [bilirubin 6.8 mg/dL, ALT 162 U/L, Alk P 302], having a similar time course of recovery).</italic></p></annotation><pub-id pub-id-type="pmid">15139499</pub-id></mixed-citation>
+          </ref>
+          <ref id="Flutamide.R67">
+            <mixed-citation publication-type="journal">Thole Z, Manso G, Salgueiro E, Revuelta P, Hidalgo A. Hepatotoxicity induced by antiandrogens: a review of the literature. Urol Int 2004; 73: 289-95. <annotation><p><italic toggle="yes">(Systematic review of the literature from the Spanish pharmacovigilance group; 21 reports of hepatotoxicity on cyproterone, 46 flutamide, 4 nilutamide and only 1 bicalutamide; 6 cases of hepatocellular carcinoma linked to cyproterone therapy).</italic></p></annotation><pub-id pub-id-type="pmid">15604569</pub-id></mixed-citation>
+          </ref>
+          <ref id="Flutamide.R68">
+            <mixed-citation publication-type="journal">V&#x000e1;zquez Romero M, Gil Grande L, L&#x000f3;pez Serrano P, Alem&#x000e1;n Villanueva S, Garc&#x000ed;a Plaza A. [Liver toxicity associated with flutamide] An Med Interna 2004; 21: 307-8. Spanish. <annotation><p><italic toggle="yes">(82 year old man with prostate cancer developed jaundice 2-3 months after starting flutamide and leuprolide [bilirubin 13.6 mg/dL, ALT 1369 U/L, GGT 586 U/L], with rapid recovery upon stopping).</italic></p></annotation><pub-id pub-id-type="pmid">15283649</pub-id></mixed-citation>
+          </ref>
+          <ref id="Flutamide.R69">
+            <mixed-citation publication-type="journal">Bengoechea Gallastegui L, Vita Garay A, Castiella Eguzkiza A, Egido Arroyo JF. [Toxic hepatitis after flutamide treatment] Aten Primaria 2005; 36: 112. Spanish. <annotation><p><italic toggle="yes">(68 year old man with prostate cancer and HBsAg carrier state [HBV DNA 10,100 copies/mL, HBeAg negative] developed elevated ALT [1474 U/L] and GGT [540 U/L] 30 weeks after starting flutamide therapy, rapid recovery upon stopping; no mention of jaundice).</italic></p></annotation><pub-id pub-id-type="pmid">15989835</pub-id></mixed-citation>
+          </ref>
+          <ref id="Flutamide.R70">
+            <mixed-citation publication-type="journal">Ib&#x000e1;&#x000f1;ez L, Jaramillo A, Ferrer A, de Zegher F. Absence of hepatotoxicity after long-term, low-dose flutamide in hyperandrogenic girls and young women. Hum Reprod 2005; 20: 1833-6. <annotation><p><italic toggle="yes">(Prospective study of long term flutamide in doses of 62.5, 125 and 250 mg daily in 190 women with hirsutism, found no ALT elevations during routine screening, suggesting that flutamide hepatotoxicity is partially dose related).</italic></p></annotation><pub-id pub-id-type="pmid">15802316</pub-id></mixed-citation>
+          </ref>
+          <ref id="Flutamide.R71">
+            <mixed-citation publication-type="journal">Legro RS. Long-term, low-dose flutamide does not cause hepatotoxicity in hyperandrogenic women. Nat Clin Pract Endocrinol Metab 2006; 2: 188-9. <annotation><p><italic toggle="yes">(Editorial on study by Ibanez [2005] expressing caution about using flutamide particularly in view of potential of fetal toxicity in young women).</italic></p></annotation><pub-id pub-id-type="pmid">16932279</pub-id></mixed-citation>
+          </ref>
+          <ref id="Flutamide.R72">
+            <mixed-citation publication-type="journal">Papaioannides D, Korantzopoulos P, Bouropoulos C, Latsi P, Fotinou M, Orphanidou D. Microscopic polyangiitis complicated by the development of prostate cancer and flutamide-induced hepatitis. Int Urol Nephrol 2005; 37: 515-20. <annotation><p><italic toggle="yes">(65 year old man on long term cyclophosphamide developed prostate cancer and then became jaundiced 6 months after starting flutamide [bilirubin 12.5 mg/dL, ALT 480 U/L, Alk P 410 U/L], resolving within 6 weeks of stopping; later developed gastric cancer).</italic></p></annotation><pub-id pub-id-type="pmid">16307333</pub-id></mixed-citation>
+          </ref>
+          <ref id="Flutamide.R73">
+            <mixed-citation publication-type="journal">Ram&#x000ed;rez R, Ruiz MA, Auguet T, Richart C. [Severe acute hepatitis due to flutamide and elevated CA 19.9] Gastroenterol Hepatol 2005; 28: 433. Spanish. <annotation><p><italic toggle="yes">(91 year old man developed jaundice and confusion 6 months after starting flutamide for prostatism [bilirubin 9.4 mg/dL, ALT 342 U/L, GGT 223 U/L, ammonia 420 umol/L], but with ultimate full recovery within 6 weeks of stopping).</italic></p></annotation><pub-id pub-id-type="pmid">16137480</pub-id></mixed-citation>
+          </ref>
+          <ref id="Flutamide.R74">
+            <mixed-citation publication-type="journal">Manso G, Thole Z, Salgueiro E, Revuelta P, Hidalgo A. Spontaneous reporting of hepatotoxicity associated with antiandrogens: data from the Spanish pharmacovigilance system. Pharmacoepidemiol Drug Saf 2006; 15: 253-9. <annotation><p><italic toggle="yes">(Analysis of spontaneous reporting to Spanish Pharmacovigilance system found 88 cases of flutamide, 11 bicalutamide and 15 cyproterone hepatotoxicity, latency 3-6 months; 2 fatalities, both from flutamide).</italic></p></annotation><pub-id pub-id-type="pmid">16294367</pub-id></mixed-citation>
+          </ref>
+          <ref id="Flutamide.R75">
+            <mixed-citation publication-type="journal">Bj&#x000f6;rnsson E, Olsson R. Suspected drug-induced liver fatalities reported to the WHO database. Dig Liver Dis 2006; 38: 33-8. (Survey of drug induced liver fatalities reported to WHO database between 1968-2003 revealed 4690 reports; flutamide ranked 11th with a total of 59 cases)<annotation><p><italic toggle="yes">.</italic></p></annotation><pub-id pub-id-type="pmid">16054882</pub-id></mixed-citation>
+          </ref>
+          <ref id="Flutamide.R76">
+            <mixed-citation publication-type="journal">Osculati A, Castiglioni C. Fatal liver complications with flutamide. Lancet 2006; 367: 1140-1. <annotation><p><italic toggle="yes">(18 year old woman developed jaundice 5 months after starting flutamide therapy of acne [bilirubin 13 rising to 32 mg/dL, ALT 4717 U/L, GGT 140 U/L], with progressive hepatic failure, liver transplantation but death in perioperative period due to sepsis).</italic></p></annotation><pub-id pub-id-type="pmid">16616550</pub-id></mixed-citation>
+          </ref>
+          <ref id="Flutamide.R77">
+            <mixed-citation publication-type="journal">Miquel M, Soler A, Vaqu&#x000e9; A, Ojanguren I, Costa J, Planas R. Suspected cross-hepatotoxicity of flutamide and cyproterone acetate. Liver Int 2007; 27: 1144-7. <annotation><p><italic toggle="yes">(78 year old man with prostate cancer developed jaundice 3 months after starting flutamide [bilirubin 20.9 mg/dL, ALT 262 U/L, Alk P 104 U/L], resolving upon stopping, but recurring within 2 months of switching to cyproterone [bilirubin 15.6 mg/dL, ALT 373 U/L, Alk P 70 U/L], similar course of recovery).</italic></p></annotation><pub-id pub-id-type="pmid">17845544</pub-id></mixed-citation>
+          </ref>
+          <ref id="Flutamide.R78">
+            <mixed-citation publication-type="journal">Chalasani N, Fontana RJ, Bonkovsky HL, Watkins PB, Davern T, Serrano J, Yang H, Rochon J; Drug Induced Liver Injury Network (DILIN). Causes, clinical features, and outcomes from a prospective study of drug-induced liver injury in the United States. Gastroenterology 2008; 135: 1924-34. <annotation><p><italic toggle="yes">(Among 300 cases of drug induced liver disease in the US collected between 2004 and 2008, none were attributed to an antiandrogen).</italic></p></annotation><pub-id pub-id-type="pmid">18955056</pub-id></mixed-citation>
+          </ref>
+          <ref id="Flutamide.R79">
+            <mixed-citation publication-type="journal">C<annotation><p><italic toggle="yes">astelo Branco C, Moyano D, Gomez O, Balasch J. Long-term safety and tolerability of flutamide for the treatment of hirsutism. Fertil Steril 2009; 91: 1183-8. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/pubmed/18339379">PubMed Citation</ext-link> (Prospective study of use of flutamide with or without estogens in 83 women with hirsuitism; side effects were common, two women developed ALT elevations but no details given).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Flutamide.R80">
+            <mixed-citation publication-type="journal">Wang YP, Shi B, Chen YX, Xu J, Jiang CF, Xie WF. Drug-induced liver disease: an 8-year study of patients from one gastroenterological department. J Dig Dis 2009; 10: 195-200. <annotation><p><italic toggle="yes">(Among 30 patients with drug induced liver injury seen at a single medical center in Beijing between 2000 and 2007, one case was due to flutamide; ALT 8 times ULN, ALk P normal, bilirubin 12.7 mg/dL arising 12 weeks after starting drug).</italic></p></annotation><pub-id pub-id-type="pmid">19659787</pub-id></mixed-citation>
+          </ref>
+          <ref id="Flutamide.R81">
+            <mixed-citation publication-type="journal">Dikensoy E, Balat O, Pence S, Akcali C, Cicek H. The risk of hepatotoxicity during long-term and low-dose flutamide treatment in hirsutism. Arch Gynecol Obstet 2009; 279: 321-7. <annotation><p><italic toggle="yes">(Prospective trial of 12 month course of low dose flutamide [50-250 mg/day], with ALT monitoring every 3 months in 214 women with hirsutism; none developed abnormal ALT or AST).</italic></p></annotation><pub-id pub-id-type="pmid">18607612</pub-id></mixed-citation>
+          </ref>
+          <ref id="Flutamide.R82">
+            <mixed-citation publication-type="journal">de Zegher F, Ib&#x000e1;&#x000f1;ez L. Low-dose flutamide for women with androgen excess: anti-androgenic efficacy and hepatic safety. J Endocrinol Invest 2009; 32: 83-4. <annotation><p><italic toggle="yes">(Opinion article suggesting that low dose flutamide [62.5-125 mg/day] can be safely and effectively used to treat hirsutism and acne in women with androgen excess, no ALT elevations having been reported in 286 women on 62.5 mg and 166 on 125 mg daily for at least 12 months).</italic></p></annotation><pub-id pub-id-type="pmid">19337022</pub-id></mixed-citation>
+          </ref>
+          <ref id="Flutamide.R83">
+            <mixed-citation publication-type="journal">Reuben A, Koch DG, Lee WM; Acute Liver Failure Study Group. Drug-induced acute liver failure: results of a U.S. multicenter, prospective study. Hepatology 2010; 52: 2065-76. <annotation><p><italic toggle="yes">(Among 1198 patients with acute liver failure enrolled in a US prospective study between 1998 and 2007, 133 were attributed to drug induced liver injury, but none were attributed to antiandrogen therapies).</italic></p></annotation><pub-id pub-id-type="pmid">20949552</pub-id></mixed-citation>
+          </ref>
+          <ref id="Flutamide.R84">
+            <mixed-citation publication-type="journal">Paradisi R, Venturoli S. Retrospective observational study on the effects and tolerability of flutamide in a large population of patients with various kinds of hirsutism over a 15-year period. Eur J Endocrinol 2010; 163: 139-47. <annotation><p><italic toggle="yes">(Among 414 women with hirsuitism treated with flutamide in yearly decreasing doses, 25 [6%] developed ALT elevations, all without jaundice or symptoms, usually mild, arising during first year of therapy while on 250 mg/day, resolving rapidly on stopping).</italic></p></annotation><pub-id pub-id-type="pmid">20371655</pub-id></mixed-citation>
+          </ref>
+          <ref id="Flutamide.R85">
+            <mixed-citation publication-type="journal">Paradisi R, Fabbri R, Porcu E, Battaglia C, Seracchioli R, Venturoli S. Retrospective, observational study on the effects and tolerability of flutamide in a large population of patients with acne and seborrhea over a 15-year period. Gynecol Endocrinol 2011; 27: 823-9. <annotation><p><italic toggle="yes">(Among 230 women with acne treated with flutamide in yearly reducing doses, 11 [4.8%] discontinued therapy because of ALT elevations, all during the first year while on 250 mg/day, all resolving upon stopping treatment).</italic></p></annotation><pub-id pub-id-type="pmid">21117864</pub-id></mixed-citation>
+          </ref>
+          <ref id="Flutamide.R86">
+            <mixed-citation publication-type="journal">Paradisi R, Porcu E, Fabbri R, Seracchioli R, Battaglia C, Venturoli S. Prospective cohort study on the effects and tolerability of flutamide in patients with female pattern hair loss. Ann Pharmacother 2011; 45: 469-75. <annotation><p><italic toggle="yes">(Among 101 women with female pattern hair loss treated with flutamide for up to 4 years, 4 [4%] discontinued therapy because of ALT elevations during the first year, but none for this reason in subsequent years when lower doses were used [125 and 62.5 mg/day], ALT elevations resolving rapidly after stopping in all).</italic></p></annotation><pub-id pub-id-type="pmid">21487083</pub-id></mixed-citation>
+          </ref>
+          <ref id="Flutamide.R87">
+            <mixed-citation publication-type="journal">Brahm J, Brahm M, Segovia R, Latorre R, Zapata R, Poniachik J, Buckel E, Contreras L. Acute and fulminant hepatitis induced by flutamide: case series report and review of the literature. Ann Hepatol 2011; 10: 93-8. <annotation><p><italic toggle="yes">(Analysis of 10 patients with flutamide hepatotoxicity seen at a single institution in Chile included 3 men [ages 67-80 with prostate cancer] and 7 women [ages 20-44 with hirsutism], onset in 40-180 days, 9 with jaundice [bilirubin 2.4-44 mg/dL, ALT 159-3360 U/L], 5 progressed to acute liver failure requiring liver transplantation [all women]).</italic></p></annotation><pub-id pub-id-type="pmid">21301018</pub-id></mixed-citation>
+          </ref>
+          <ref id="Flutamide.R88">
+            <mixed-citation publication-type="journal">Bruni V, Peruzzi E, Dei M, Nannini S, Seravalli V, Sisti G, Fambrini M. Hepatotoxicity with low- and ultralow-dose flutamide: a surveillance study on 203 hyperandrogenic young females. Fertil Steril 2012; 98: 1047-52. <annotation><p><italic toggle="yes">(Among 203 young women with polycystic ovary syndrome treated with low doses of flutamide [62.5 or 125 mg/day] for up to 5 years, ALT or AST elevations [43-509 U/L] occurred in 9% during the first year [arising after 2 to 48 weeks], with resolution within 4 weeks of stopping in all; no mention of jaundice or symptoms).</italic></p></annotation><pub-id pub-id-type="pmid">22795685</pub-id></mixed-citation>
+          </ref>
+          <ref id="Flutamide.R89">
+            <mixed-citation publication-type="journal">Karaahmet F, Kurt K. Hepatotoxicity with flutamide. Fertil Steril 2012; 98: e27. <annotation><p><italic toggle="yes">(Letter in response to Bruni [2012] raising issue of definition of hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">22985946</pub-id></mixed-citation>
+          </ref>
+          <ref id="Flutamide.R90">
+            <mixed-citation publication-type="journal">Hern&#x000e1;ndez N, Bessone F, S&#x000e1;nchez A, di Pace M, Brahm J, Zapata R, A Chirino R, et al. Profile of idiosyncratic drug induced liver injury in Latin America. An analysis of published reports. Ann Hepatol 2014; 13 (2): 231-9. <annotation><p><italic toggle="yes">(Systematic review of literature of drug induced liver injury in Latin American countries published from 1996 to 2012 identified 176 cases, the most common implicated agents being nimesulide [n=53: 30%], cyproterone [n=18], nitrofurantoin [n=17], antituberculosis drugs [n=13] and flutamide [n=12: 7%]). </italic></p></annotation><pub-id pub-id-type="pmid">24552865</pub-id></mixed-citation>
+          </ref>
+          <ref id="Flutamide.R91">
+            <mixed-citation publication-type="journal">Chalasani N, Bonkovsky HL, Fontana R, Lee W, Stolz A, Talwalkar J, Reddy KR, et al.; United States Drug Induced Liver Injury Network. Features and outcomes of 899 patients with drug-induced liver injury: The DILIN Prospective Study. Gastroenterology 2015; 148: 1340-52.e7. <annotation><p><italic toggle="yes">(Among 899 cases of drug induced liver injury enrolled in a US prospective study between 2004 and 2013, one case was attributed to bicalitamide, but none to other antiandrogens such as flutamide).</italic></p></annotation><pub-id pub-id-type="pmid">25754159</pub-id></mixed-citation>
+          </ref>
+          <ref id="Flutamide.R92">
+            <mixed-citation publication-type="journal">Choudhary NS, Saigal S, Saraf N, Rastogi A, Goja S, Bhangui P, Vohra V, et al. Good outcome of living donor liver transplantation in drug-induced acute liver failure: A single-center experience. Clin Transplant 2017; 31. <annotation><p><italic toggle="yes">(Among 1396 adult living donor liver transplants done at a single referral center in India, 64 were done for acute liver failure including 18 caused by drugs; 14 by antituberculosis medications, 1 flutamide, 1 orlistat and 2 herbal supplements). </italic></p></annotation><pub-id pub-id-type="pmid">28054388</pub-id></mixed-citation>
+          </ref>
+          <ref id="Flutamide.R93">
+            <mixed-citation publication-type="journal">Castelo-Branco C, Hern&#x000e1;ndez-Angeles C, Alvarez-Olivares L, Balasch J. Long-term satisfaction and tolerability with low-dose flutamide: a 20-year surveillance study on 120 hyperandrogenic women. Gynecol Endocrinol 2016; 32: 723-7. <annotation><p><italic toggle="yes"> (Among 120 women with hyperandrogenism treated with flutamide [125 or 250 mg daily] for up to 20 years, 11 stopped therapy because of ALT abnormalities and one for acute fatty liver requiring hospitalization; timing and degree of abnormalities not provided). </italic></p></annotation><pub-id pub-id-type="pmid">27176209</pub-id></mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec id="Flutamide.OTHER_REFERENCE_LINKS" sec-type="link-group">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=flutamide/AE+AND+Human%5BMH%5D+AND+(jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI+OR+hepatitis,+toxic%5BMH%5D)+AND+(%222009/01/01%22%5BEDat%5D%3A%222999/12/31%22%5BEDat%5D)">Recent References on Flutamide: from PubMed.gov</ext-link>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=flutamide">Trials on Flutamide: from ClinicalTrials.gov</ext-link>
+            </p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

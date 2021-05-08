@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Hoodia" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Hoodia</book-part-id>
+      <title-group>
+        <title>Hoodia</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>28</day>
+          <month>3</month>
+          <year>2018</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Histrelin" document-type="chapter">Histrelin</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Hops" document-type="chapter">Hops</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Hoodia.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Hoodia.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Hoodia is succulent, cactus-like plant of the Kalahari Desert, extracts of which are marketed as weight loss aids. Hoodia has not been implicated in causing serum enzyme elevations or clinically apparent liver injury.</p>
+        </sec>
+        <sec id="Hoodia.Background">
+          <title>Background</title>
+          <p>Hoodia is prepared from the stems and roots of the succlent plant Hoodia gordonii found in the Kalahari Desert and claimed to be used traditionally by Kalahari Bushmen to reduce their hunger and thirst during long hunts. However, it may be more accurate to say that Hoodia is a food source and was used mostly to quench thirst. Nevertheless, scientific studies in laboratory animals have shown that extracts of hoodia containing an oxypregnane steroidal glycoside have appetite suppressing activity. The traditional use and subsequent laboratory findings led to the marketing of hoodia as a weight loss agent. Dried extracts of stems and roots are used to make powders, capsules, chewable tablets and liquid preparations for making teas. Hoodia is often combined with other purported weight loss herbs such as green tea and chromium picolinate. To date, there have been no prospective controlled trials demonstrating an effect of hoodia on food intake or weight management in humans. In uncontrolled studies, use of hoodia has been reported to have no adverse side effects.</p>
+        </sec>
+        <sec id="Hoodia.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>Hoodia has been in use as a weight loss agent for several years and has not been convincingly linked to instances of acute liver injury. In a small controlled trial, serum alkaline phosphatase [8-17 U/L] and bilirubin [0.2-0.6 mg/dL], but not ALT levels, were slightly higher in patients on Hoodia compared to placebo, but no patient developed symptoms or clinically apparent liver injury.</p>
+          <p>Likelihood score: E (unlikely cause of clinically apparent liver injury).</p>
+          <p>Other Names: Kalahari cactus, Xhoba</p>
+          <p>Drug Class: <related-object source-id="livertox" document-id="HerbalDietarySuppl">Herbal and Dietary Supplements</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Hoodia.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <boxed-text position="anchor" id="Hoodia.BPI" orientation="portrait">
+          <p>
+            <bold>REPRESENTATIVE TRADE NAMES</bold>
+          </p>
+          <p>Hoodia &#x02013; Generic</p>
+          <p>
+            <bold>DRUG CLASS</bold>
+          </p>
+          <p>Herbal and Dietary Supplements</p>
+          <p>SUMMARY INFORMATION</p>
+          <p>
+            <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://nccih.nih.gov/health/hoodia">Fact Sheet at National Center for Complementary and Integrative Health, NIH</ext-link>
+          </p>
+        </boxed-text>
+      </sec>
+      <sec id="Hoodia.CHEMICAL_FORMULA_AND_STRUCTURE">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Hoodia.T1" position="anchor" orientation="portrait">
+          <table>
+            <thead>
+              <tr>
+                <th id="hd_h_Hoodia.T1_1_1_1_1" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Hoodia.T1_1_1_1_2" rowspan="1" colspan="1">CAS REGISTRY NUMBER</th>
+                <th id="hd_h_Hoodia.T1_1_1_1_3" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Hoodia.T1_1_1_1_4" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Hoodia.T1_1_1_1_1" rowspan="1" colspan="1">Hoodia</td>
+                <td headers="hd_h_Hoodia.T1_1_1_1_2" rowspan="1" colspan="1">ID: H710000000</td>
+                <td headers="hd_h_Hoodia.T1_1_1_1_3" rowspan="1" colspan="1">Herbal mixture</td>
+                <td headers="hd_h_Hoodia.T1_1_1_1_4" rowspan="1" colspan="1">Not applicable</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Hoodia.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 28 March 2018</p>
+        <ref-list id="Hoodia.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Hoodia.R1">
+            <mixed-citation publication-type="other">Zimmerman HJ. Unconventional drugs. Miscellaneous drugs and diagnostic chemicals. In, Zimmerman, HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott,1999: pp. 731-4.<annotation><p><italic toggle="yes">(Expert review of hepatotoxicity published in 1999; hoodia is not discussed).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Hoodia.R2">
+            <mixed-citation publication-type="other">Liu LU, Schiano TD. Hepatotoxicity of herbal medicines, vitamins and natural hepatotoxins. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 2nd ed. New York: Informa Healthcare USA, 2007, pp. 733-54.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of herbal and dietary supplements [HDS] published in 2007; hoodia is not discussed).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Hoodia.R3">
+            <mixed-citation publication-type="other">Hoodia. In, PDR for Herbal Medicines. 4th ed. Montvale, New Jersey: Thomson Healthcare Inc. 2007: pp. 453-7.<annotation><p><italic toggle="yes">(Compilation of short monographs on herbal medications and dietary supplements).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Hoodia.R4">
+            <mixed-citation publication-type="journal">van Heerden FR, Marthinus Horak R, Maharaj VJ, Vleggaar R, Senabe JV, Gunning PJ. An appetite suppressant from Hoodia species. Phytochemistry 2007; 68: 2545-53. <annotation><p><italic toggle="yes">(Extracts of Hoodia gordonii have appetite suppressant activity in a rat model, found largely in fractions with pregnane glycosides).</italic></p></annotation><pub-id pub-id-type="pmid">17603088</pub-id></mixed-citation>
+          </ref>
+          <ref id="Hoodia.R5">
+            <mixed-citation publication-type="journal">Avula B, Wang YH, Pawar RS, Shukla YJ, Smillie TJ, Khan IA. A rapid method for chemical fingerprint analysis of Hoodia species, related genera, and dietary supplements using UPLC-UV-MS. J Pharm Biomed Anal 2008; 48: 722-31. <annotation><p><italic toggle="yes">(The demand for Hoodia gordonii has resulted in use of other species which may not have appetite suppressant activity; using chromatography and mass spectrometry, it is possible to identify the fingerprint of the 12 hoodigosides and correctly identify products from H. gordonii).</italic></p></annotation><pub-id pub-id-type="pmid">18718731</pub-id></mixed-citation>
+          </ref>
+          <ref id="Hoodia.R6">
+            <mixed-citation publication-type="journal">van Heerden FR. Hoodia gordonii: a natural appetite suppressant. J Ethnopharmacol 2008; 119: 434-7. <annotation><p><italic toggle="yes">(Hoodia is a multistemmed succulent which is classified as a stapeliad [and not related to the cactus family], which is found in South Africa and was used by native people as food and to quench thirst, but has been marketed and become popular as an appetite suppressant, the clinical bases for the claims being weak; hoodia contains multiple pregnane glycosides which are being evaluated for appetite suppressant activity).</italic></p></annotation><pub-id pub-id-type="pmid">18804523</pub-id></mixed-citation>
+          </ref>
+          <ref id="Hoodia.R7">
+            <mixed-citation publication-type="journal">Whelan AM, Jurgens TM, Szeto V. Case report. Efficacy of Hoodia for weight loss: is there evidence to support the efficacy claims? J Clin Pharm Ther 2010; 35: 609-12 <annotation><p><italic toggle="yes">(Review of literature on hoodia found no prospective control trials of its efficacy; open label studies reported that its appetite suppressing activity was promising and that it had no adverse events).</italic></p></annotation><pub-id pub-id-type="pmid">20831685</pub-id></mixed-citation>
+          </ref>
+          <ref id="Hoodia.R8">
+            <mixed-citation publication-type="journal">Blom WA, Abrahamse SL, Bradford R, Duchateau GS, Theis W, Orsi A, Ward CL, Mela DJ. Effects of 15-d repeated consumption of Hoodia gordonii purified extract on safety, ad libitum energy intake, and body weight in healthy, overweight women: a randomized controlled trial. Am J Clin Nutr 2011; 94: 1171-81. <annotation><p><italic toggle="yes"> (In a controlled trial of 15 days of hoodia vs placebo in 49 overweight women, hoodia was associated with abnormal skin sensitivity, nausea, vomiting, increases in blood pressure and elevations in total [indirect] bilirubin and Alk P without a change in ALT levels, clinically apparent liver injury or decrease in caloric intake). </italic></p></annotation><pub-id pub-id-type="pmid">21993434</pub-id></mixed-citation>
+          </ref>
+          <ref id="Hoodia.R9">
+            <mixed-citation publication-type="journal">Bunchorntavakul C, Reddy KR. Review article: herbal and dietary supplement hepatotoxicity. Aliment Pharmacol Ther 2013; 37: 3-17. <annotation><p><italic toggle="yes">(Review of HDS associated hepatotoxicity; does not mention hoodia).</italic></p></annotation><pub-id pub-id-type="pmid">23121117</pub-id></mixed-citation>
+          </ref>
+          <ref id="Hoodia.R10">
+            <mixed-citation publication-type="journal">Bj&#x000f6;rnsson ES, Bergmann OM, Bj&#x000f6;rnsson HK, Kvaran RB, Olafsson S. Incidence, presentation and outcomes in patients with drug-induced liver injury in the general population of Iceland. Gastroenterology 2013; 144: 1419-25. <annotation><p><italic toggle="yes">(In a population based study of drug induced liver injury from Iceland, 96 cases were identified over a 2 year period, including 15 [16%] due to herbal and dietary supplements, but none listed hoodia as an ingredient).</italic></p></annotation><pub-id pub-id-type="pmid">23419359</pub-id></mixed-citation>
+          </ref>
+          <ref id="Hoodia.R11">
+            <mixed-citation publication-type="journal">Smith C, Krygsman A. Hoodia gordonii: to eat, or not to eat. J Ethnopharmacol 2014; 155: 987-91. <annotation><p><italic toggle="yes"> (Review of the physiologic effects of Hoodia gordonii, which has been marketed as a weight loss aid, concludes that its effects on energy intake are not well documented, particularly in humans, and that the doses needed for an effect have adverse events that are concerning; no mention of ALT elevations or liver-related side effects). </italic></p></annotation><pub-id pub-id-type="pmid">24955559</pub-id></mixed-citation>
+          </ref>
+          <ref id="Hoodia.R12">
+            <mixed-citation publication-type="journal">Navarro VJ, Barnhart H, Bonkovsky HL, Davern T, Fontana RJ, Grant L, Reddy KR, et al. Liver injury from herbals and dietary supplements in the U.S. Drug-Induced Liver Injury Network. Hepatology 2014; 60:1399-408. <annotation><p><italic toggle="yes">(Among 85 cases of HDS associated liver injury [not due to anabolic steroids] enrolled in a US prospective study between 2004 and 2013, none were attributed to hoodia).</italic></p></annotation><pub-id pub-id-type="pmid">25043597</pub-id></mixed-citation>
+          </ref>
+          <ref id="Hoodia.R13">
+            <mixed-citation publication-type="journal">Chalasani N, Bonkovsky HL, Fontana R, Lee W, Stolz A, Talwalkar J, Reddy KR, et al.; United States Drug Induced Liver Injury Network. Features and outcomes of 899 patients with drug-induced liver injury: The DILIN Prospective Study. Gastroenterology 2015; 148: 1340-52. <annotation><p><italic toggle="yes">(Among 899 cases of drug induced liver injury enrolled in a prospective database between 2004 and 2012, HDS were implicated in 145 [16%], none of which were primarily attributed to hoodia: see Navarro [2014]).</italic></p></annotation><pub-id pub-id-type="pmid">25754159</pub-id></mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec id="Hoodia.OTHER_REFERENCE_LINKS" sec-type="link-group">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=(Hoodia/AE)+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D%3A%222999/12/31%22%5BEDat%5D)">Recent References on Hoodia: from PubMed.gov</ext-link>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Hoodia">Trials on Hoodia: from ClinicalTrials.gov</ext-link>
+            </p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

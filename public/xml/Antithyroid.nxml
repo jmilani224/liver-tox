@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Antithyroid" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Antithyroid</book-part-id>
+      <title-group>
+        <title>Antithyroid Agents</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>16</day>
+          <month>2</month>
+          <year>2014</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="AntithymocyteGlobuli" document-type="chapter">Antithymocyte Globulin</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="AntituberculosisAgen" document-type="chapter">Antituberculosis Agents</related-object>
+    </book-part-meta>
+    <body>
+      <p content-type="pubmed-excerpt">Hyperthyroidism is defined as excessive thyroid function and is typically manifested by thyrotoxicosis as marked by clinical symptoms and excess circulating thyroid hormone. The major causes of hyperthyroidism are Graves disease, toxic multinodular goiter and toxic adenoma. Hyperthyroidism may also be caused by TSH-secreting pituitary tumors, acute or subacute thyroiditis, and excessive thyroid hormone intake.</p>
+      <p content-type="pubmed-excerpt">The treatment of hyperthyroidism depends partially on its cause. For Graves disease and toxic goiter, definitive therapy is thyroidectomy or radioactive iodine to ablate the thyroid. Antithyroid medications are used mostly as a temporizing measure in preparation for surgery or radioactive iodine, or when the hyperthyroidism is thought to be temporary and self-limiting (as in subacute thyroiditis). The major antithyroid medications used are all thionamides and include propylthiouracil (PTU, 1947), carbimazole and methimazole (Tapazol, 1950, as known as thiamazole). Carbimazole is available in Europe, but is not approved for use in the United States. Carbimazole is actually a prodrug of methimazole, which is its active metabolite. As might be expected, these two drugs have similar clinical actions and adverse side effects. The thionamides are believed to act by inhibiting the incorporation of iodine into tyrosyl residues of thyroglobulin and thus lowering thyroid hormone levels.</p>
+      <p content-type="pubmed-excerpt">All three thionamides are capable of causing clinically apparent, acute liver injury. However, the clinical features and type of injury varies. Propylthiouracil is typically associated with hepatocellular injury and an acute viral hepatitis-like syndrome arising 2 to 12 weeks after starting the medication. The injury can be severe and many fatal cases have been described. In contrast, methimazole typically causes cholestatic injury arising 1 to 8 weeks after starting. Liver injury from methimazole appears to be less frequent than with propylthiouracil (~1:10,000 vs ~1:1,000 persons exposed), but more importantly it also appears to be less severe, fatalities being rarely reported in patients taking methimazole. For these reasons, methimazole is now considered the antithyroid drug of choice, particularly in children. Prophylthiouracil is reserved for cases with intolerance or an inadequate response to methimazole. Interestingly, there appears to be no cross sensitivity to liver injury between propylthiouracil and methimazole.</p>
+      <p>The two antithyroid agents currently in use in the United States are discussed separately in LiverTox:</p>
+      <p><related-object source-id="livertox" document-id="Methimazole">Methimazole</related-object>, <related-object source-id="livertox" document-id="Propylthiouracil">Propylthiouracil</related-object></p>
+    </body>
+  </book-part>
+</book-part-wrapper>

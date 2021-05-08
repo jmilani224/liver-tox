@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="LiverBiopsy" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">LiverBiopsy</book-part-id>
+      <title-group>
+        <title>Liver Biopsy</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>20</day>
+          <month>11</month>
+          <year>2019</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="ClinicalCourse" document-type="chapter">Clinical Course and Diagnosis of Drug Induced Liver Disease</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="ClinicalOutcome" document-type="chapter">Clinical Outcomes</related-object>
+    </book-part-meta>
+    <body>
+      <p>Liver biopsy can be helpful in the assessment of suspected drug induced liver disease, but is usually not necessary unless an important therapeutic or diagnostic decision rests upon rapid establishment of the diagnosis. Thus, liver biopsy can be helpful in assessing acute onset of liver disease after bone marrow transplantation, so as to distinguish drug induced sinusoidal obstruction syndrome from the graft-vs-host syndrome that would require change in the immunosuppressive regimen. Similarly, in situations where the implicated medication is considered necessary or life supporting, liver biopsy may be helpful in making a decision about the likelihood of drug induced liver injury. Examples of situations in which liver biopsy can be extremely helpful diagnostically include acetaminophen as a cause of acute liver injury and methotrexate or amiodarone as a cause of apparent chronic liver disease. In most situations, however, a liver biopsy is largely supportive of the diagnosis and not absolutely essential in patient management.</p>
+    </body>
+  </book-part>
+</book-part-wrapper>

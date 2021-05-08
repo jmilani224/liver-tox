@@ -1,0 +1,916 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Sofosbuvir" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Sofosbuvir</book-part-id>
+      <title-group>
+        <title>Sofosbuvir</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>10</day>
+          <month>1</month>
+          <year>2018</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="SGLT-2_Inhibitors" document-type="chapter">Sodium Glucose Cotransporter-2 (SGLT-2) Inhibitors</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Solifenacin" document-type="chapter">Solifenacin</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Sofosbuvir.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Sofosbuvir.Introduction">
+          <title>Introduction</title>
+          <p content-type="pubmed-excerpt">Sofosbuvir is an oral nucleoside analogue and potent inhibitor of the hepatitis C virus (HCV) RNA polymerase that is used in combination with other antiviral agents to treat chronic hepatitis C. Elevations in serum enzyme levels during sofosbuvir therapy are uncommon, and it has not been implicated convincingly in cases of clinically apparent liver injury with jaundice. Nevertheless, and for unknown reasons, successful antiviral therapy of hepatitis C with sofosbuvir and other direct acting agents in patients with cirrhosis is occasionally complicated by hepatic decompensation; furthermore, treatment can cause reactivation of hepatitis B in susceptible patients coinfected with the hepatitis B virus (HBV).</p>
+        </sec>
+        <sec id="Sofosbuvir.Background">
+          <title>Background</title>
+          <p>Sofosbuvir (soe fos' bue vir) is an orally available nucleotide analogue that has potent activity against the RNA-dependent RNA polymerase of the hepatitis C virus (HCV). Sofosbuvir is a monophosphorylated uracil derivative whose single phosphate is protected by an alaninate cap that allows for the absorption and uptake of the molecule by hepatocytes where it is hydrolyzed to sofosbuvir monophosphate. Intracellular host kinases then convert it to the active triphosphate moiety. In multiple clinical trials, sofosbuvir has been shown to cause a rapid and marked decline in serum HCV RNA levels and, in combination with other antiviral agents and with more prolonged therapy, to result in sustained clearance of HCV (sustained virological response: SVR) in a high proportion of patients. Sofosbuvir was approved for use in the United States in 2013 to be used in combination with ribavirin or with both peginterferon and ribavirin in patients with chronic hepatitis C, genotypes 1, 2, 3 or 4. Sofosbuvir is available in tablets of 400 mg under the brand name Solvaldi, the recommended dose being 400 mg once daily in combination with either ribavirin alone (1000 or 1200 mg daily for 12 weeks for genotype 2 and 24 weeks for genotype 3) or in combination with both ribavirin and peginterferon for 12 weeks for patients with genotype 1.</p>
+          <p>Subsequently, a fixed combination of sofosbuvir (400 mg) and the HCV NS5A replication complex inhibitor ledipasvir (le dip' as vir: 90 mg) was approved for use in patients with chronic hepatitis C, genotype 1 in 2014 and for genotype 4 in 2015. This combination is available as a fixed dose, single tablet under the brand name Harvoni and the recommended dose is one tablet daily for 12 weeks, which can be shortened to 8 weeks in selected patients.</p>
+          <p>In addition, sofosbuvir combined with NS5A inhibitors with broader activity against HCV genotypes, daclatasvir [dak lat' as vir: 2015] and velpatasvir [vel pat' as vir: 2016], has been shown to be effective in treating almost all HCV genotypes with sustained response rates of 95% or greater in response to 12 weeks of treatment in genotypes 1, 2, 4, 5 and 6. In 2016, the fixed combination of sofosbuvir (400 mg) and velpatasvir (100 mg) was approved for use in patients with all 6 genotypes of hepatitis C. This combination is available as a fixed dose, single tablet under the brand name Epclusa. The recommended dose is one tablet daily for 12 weeks. For patients with decompensated cirrhosis (Childs-Pugh Class B or C), ribavirin (1000 to 1200 mg in two divided doses daily) should be added to Epclusa for 12 weeks. Finally, the combination of sofosbuvir with an HCV specific NS3/4 protease inhibitor (such as simeprevir [2014]) was also shown to be highly effective in patients with genotype 1 infection generally in 12 week courses.</p>
+          <p>For patients who fail to respond to a two or three drug combination of direct acting antiviral agents, combinations of potent agents active against the three major HCV poiypeptide products have been developed and have shown excellent activity in these refractory patients. The first such regimen was a single tablet formulation of sofosbuvir (400 mg), velpatasvir (100 mg) and a potent, broad spectrum (pangenomic) HCV protease inhibitor, voxilaprevir (100 mg). This combination was approved for use in the United States in 2017 and is available under the brand name Vosevi. The recommended dosing regimen is 1 tablet daily for 12 weeks. This regimen is not recommended for patients with decompensated cirrhosis (Childs-Pugh Class B or C).</p>
+          <p>As such, sofosbuvir transformed the therapy of chronic hepatitis C and became the most commonly used HCV-specific antiviral agent, replacing peginterferon and combinations of peginterferon, ribavirin and protease inhibitors. Sofosbuvir has few side effects and in placebo controlled trials adverse events occurred at a similar rate with sofosbuvir as placebo. Side effects may include headache, dizziness, nausea and diarrhea. Rare, but potentially severe adverse events include marked bradycardia when sofosbuvir is given with amiodarone.</p>
+        </sec>
+        <sec id="Sofosbuvir.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>In large randomized controlled trials, serum enzymes elevations were uncommon in patients treated with sofosbuvir despite the fact that the patients being treated had chronic liver disease. In most situations, serum aminotransferase levels improved rapidly upon initiating sofosbuvir therapy, and de novo, late elevations of ALT above 3 times the upper limit of normal (ULN) were uncommon and less frequent than with placebo or no therapy. In multiple, large clinical trials sofosbuvir has not been linked to instances of clinically apparent liver injury with jaundice. Because sofosbuvir is always used with other antiviral agents, it is not always possible to separate the relative role of sofosbuvir from other drugs in causing adverse reactions.</p>
+          <p>Two rare and unusual forms of liver injury of uncertain relationship to sofosbuvir have been described in patients with receiving antiviral therapy for hepatitis C: sudden hepatic decompensation in patients with preexisting cirrhosis and reactivation of hepatitis B in patients with preexisting evidence of HBV infection.</p>
+          <p>A rare, but striking liver injury associated with sofosbuvir (and perhaps other potent agents active against HCV) is hepatic decompensation occurring in patients with preexisting cirrhosis. In several instances, decompensation occurred within 2 to 6 weeks of starting therapy (Case 1), while in others it occurred late during therapy or in the immediate posttreatment period. The typical pattern of onset was a progressive rise in bilirubin with signs of hepatic failure such as prolongation of the prothrombin time, decrease in serum albumin and appearance of ascites and hepatic encephalopathy. In many (but not all) instances, serum enzyme levels did not change or increased only slightly in comparison to pretreatment values. In all instances, sofosbuvir was being used in combination with other antiviral agents, such as peginterferon, simeprevir, daclatasvir or ledipasvir, and the specific role of sofosbuvir has been difficult to define. The decompensation usually coincided with rapid viral clearance and patients who survived the episode often had a sustained virological response. The cause of this decompensation is not clear, but it may represent a response to HCV viral eradication (on-target effect) rather than toxicity of the administered antiviral agents (off-target effect on the liver). Alternatively, the injury may be coincidental and unrelated to therapy.</p>
+          <p>A second form of liver injury that can occur with sofosbuvir therapy and perhaps other potent anti-HCV agents is reactivation of hepatitis B. Instances of clinically apparent hepatitis with rises in serum HBV DNA levels have been reported in patients with chronic hepatitis C who were HBsAg positive and had low levels of HBV DNA which were not thought to be the cause of the chronic liver disease (Case 2). Reactivation has also been described in patients who have anti-HBc without HBsAg in serum, a pattern that suggests previous recovery from hepatitis B. HBV reactivation typically arises within 2 to 8 weeks of starting therapy for hepatitis C and it can be clinically manifest with symptoms of acute hepatitis and marked elevations in serum aminotransferase levels and bilirubin. Instances of death from HBV reactivation have been reported with sofosbuvir therapy. The cause of reactivation is unclear, but it may reflect the eradication of HCV replication which has a nonspecific suppressive effect on HBV replication. Alternatively, the change in immune reactivity with sudden clearance of HCV or as a result of a direct activity of the antiviral agents may alter the replicative status of HBV.</p>
+          <p>Likelihood score: E* (unproven but suspected cause of clinically apparent liver injury in susceptible individuals).</p>
+        </sec>
+        <sec id="Sofosbuvir.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The mechanism by which sofosbuvir might cause liver injury is not known. It is metabolized in the liver largely via the cytochrome P450 system, predominantly CYP 1A2. Sudden decompensation and the reactivation of HBV during sofosbuvir therapy may reflect changes in the immune status resulting from the suppression of HCV replication and injury.</p>
+        </sec>
+        <sec id="Sofosbuvir.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>Typical therapy of chronic hepatitis C with sofosbuvir is well tolerated and has not been linked to serum enzyme elevations or clinically apparent liver injury. In two situations, however, monitoring for liver injury during sofosbuvir therapy is advisable. In patients with advanced cirrhosis, careful monitoring of liver tests during therapy is warranted and treatment should be discontinued early if progressive rises in serum bilirubin occur in the context of possible hepatic decompensation. Furthermore, patients receiving antiviral therapy for hepatitis C perhaps should be screened for evidence of hepatitis B (HBsAg and anti-HBc) and those with these markers monitored for HBV DNA levels and started on antiviral therapy for hepatitis B if viral titers rise. Alternatively, patients may be given prophylaxis against HBV replication for the period of treatment and for 12 weeks of follow up after therapy of hepatitis C. The efficacy of these approaches has not, however, been demonstrated in prospective controlled trials.</p>
+          <p>Drug Class: <related-object source-id="livertox" document-id="AntiviralAgents">Antiviral Agents</related-object>, <related-object source-id="livertox" document-id="HepatitisCDrugs">Hepatitis C Agents</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Sofosbuvir.CASE_REPORTS">
+        <title>CASE REPORTS</title>
+        <sec id="Sofosbuvir.Case_1._Hepatic_decompensatio">
+          <title>Case 1. Hepatic decompensation during antiviral therapy with sofosbuvir, daclatasvir and ribavirin.</title>
+          <p>[Modified from: Dyson JK, Hutchinson J, Harrison L, Rotimi O, Tiniakos D, Foster GR, Aldersley MA, et al. Liver toxicity associated with sofosbuvir, an NS5A inhibitor and ribavirin use. J Hepatol 2016; 64: 753-4. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/pubmed/26325535">PubMed Citation</ext-link>]</p>
+          <p>A 74 year old man with chronic hepatitis C, genotype 1a, and advanced cirrhosis and HIV coinfection was started on compassionate use therapy with sofosbuvir (400 mg daily), ledipasvir (90 mg daily) and ribavirin (600 mg twice daily). He was known to have cirrhosis for several years and had a previous episode of decompensation during unsuccessful therapy with peginterferon and ribavirin. He had esophageal varices and ascites which was controlled on spironolactone. His HIV infection was well controlled on efavirenz, tenofovir and emtricitabine which he had taken chronically. Within 2 weeks of starting the oral regimen for hepatitis C, he developed worsening jaundice (Table), and he was admitted for evaluation and therapy for suspected septicemia (piperacillin-tazobactam). He had no rash, fever or eosinophilia. Because of rising bilirubin levels, sofosbuvir, ledipasvir and ribavirin were discontinued. Tests for acute hepatitis A, B and E were negative as were virologic tests for EBV, CMV, HSV and adenovirus infection. Ultrasound and MRCP showed no evidence of biliary obstruction or masses. A liver biopsy showed cirrhosis, marked inflammation and cholestasis which was interpreted as compatible with drug induced liver injury. Lactate levels were normal, but INR levels rose and serum albumin decreased. He continued to worsen, but was not considered a candidate for liver transplantation and died of multiorgan failure and sepsis, 38 days after starting and 20 days after stopping treatment.</p>
+          <sec id="Sofosbuvir.Key_Points1">
+            <title>Key Points</title>
+            <table-wrap id="Sofosbuvir.T1" position="anchor" orientation="portrait">
+              <table>
+                <thead>
+                  <tr>
+                    <th id="hd_h_Sofosbuvir.T1_1_1_1_1" rowspan="1" colspan="1">Medication:</th>
+                    <td rowspan="1" colspan="1">Sofosbuvir, ledipasvir, ribavirin</td>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <th headers="hd_h_Sofosbuvir.T1_1_1_1_1" id="hd_b_Sofosbuvir.T1_1_1_1_1" rowspan="1" colspan="1">Pattern:</th>
+                    <td headers="hd_b_Sofosbuvir.T1_1_1_1_1" rowspan="1" colspan="1">Acute on chronic liver failure</td>
+                  </tr>
+                  <tr>
+                    <th headers="hd_h_Sofosbuvir.T1_1_1_1_1" id="hd_b_Sofosbuvir.T1_1_1_2_1" rowspan="1" colspan="1">Severity:</th>
+                    <td headers="hd_b_Sofosbuvir.T1_1_1_2_1" rowspan="1" colspan="1">Fatal</td>
+                  </tr>
+                  <tr>
+                    <th headers="hd_h_Sofosbuvir.T1_1_1_1_1" id="hd_b_Sofosbuvir.T1_1_1_3_1" rowspan="1" colspan="1">Latency:</th>
+                    <td headers="hd_b_Sofosbuvir.T1_1_1_3_1" rowspan="1" colspan="1">2 weeks</td>
+                  </tr>
+                  <tr>
+                    <th headers="hd_h_Sofosbuvir.T1_1_1_1_1" id="hd_b_Sofosbuvir.T1_1_1_4_1" rowspan="1" colspan="1">Recovery:</th>
+                    <td headers="hd_b_Sofosbuvir.T1_1_1_4_1" rowspan="1" colspan="1">None</td>
+                  </tr>
+                  <tr>
+                    <th headers="hd_h_Sofosbuvir.T1_1_1_1_1" id="hd_b_Sofosbuvir.T1_1_1_5_1" rowspan="1" colspan="1">Other medications:</th>
+                    <td headers="hd_b_Sofosbuvir.T1_1_1_5_1" rowspan="1" colspan="1">Efavirenz, tenofovir, emtricitabine, spironolactone</td>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Sofosbuvir.Laboratory_Values1">
+            <title>Laboratory Values</title>
+            <table-wrap id="Sofosbuvir.T2" position="anchor" orientation="portrait">
+              <table>
+                <thead>
+                  <tr>
+                    <th id="hd_h_Sofosbuvir.T2_1_1_1_1" rowspan="1" colspan="1">Time After Starting</th>
+                    <th id="hd_h_Sofosbuvir.T2_1_1_1_2" rowspan="1" colspan="1">Time After Stopping</th>
+                    <th id="hd_h_Sofosbuvir.T2_1_1_1_3" rowspan="1" colspan="1">ALT (U/L)</th>
+                    <th id="hd_h_Sofosbuvir.T2_1_1_1_4" rowspan="1" colspan="1">Alk P (U/L)</th>
+                    <th id="hd_h_Sofosbuvir.T2_1_1_1_5" rowspan="1" colspan="1">Bilirubin (mg/dL)</th>
+                    <th id="hd_h_Sofosbuvir.T2_1_1_1_6" rowspan="1" colspan="1">Other</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td headers="hd_h_Sofosbuvir.T2_1_1_1_1" rowspan="1" colspan="1">Pre</td>
+                    <td headers="hd_h_Sofosbuvir.T2_1_1_1_2" rowspan="1" colspan="1">0</td>
+                    <td headers="hd_h_Sofosbuvir.T2_1_1_1_3" rowspan="1" colspan="1">45</td>
+                    <td headers="hd_h_Sofosbuvir.T2_1_1_1_4" rowspan="1" colspan="1">204</td>
+                    <td headers="hd_h_Sofosbuvir.T2_1_1_1_5" rowspan="1" colspan="1">3.7</td>
+                    <td headers="hd_h_Sofosbuvir.T2_1_1_1_6" rowspan="1" colspan="1">INR 1.4, hemoglobin 11.7 g/dL</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Sofosbuvir.T2_1_1_1_1" rowspan="1" colspan="1">Day 0</td>
+                    <td headers="hd_h_Sofosbuvir.T2_1_1_1_2" rowspan="1" colspan="1">0</td>
+                    <td headers="hd_h_Sofosbuvir.T2_1_1_1_3" rowspan="1" colspan="1">65</td>
+                    <td headers="hd_h_Sofosbuvir.T2_1_1_1_4" rowspan="1" colspan="1">271</td>
+                    <td headers="hd_h_Sofosbuvir.T2_1_1_1_5" rowspan="1" colspan="1">5.3</td>
+                    <td headers="hd_h_Sofosbuvir.T2_1_1_1_6" rowspan="1" colspan="1">Therapy started, HCV RNA ~30,000 IU/mL</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Sofosbuvir.T2_1_1_1_1" rowspan="1" colspan="1">Day 7</td>
+                    <td headers="hd_h_Sofosbuvir.T2_1_1_1_2" rowspan="1" colspan="1">0</td>
+                    <td headers="hd_h_Sofosbuvir.T2_1_1_1_3" rowspan="1" colspan="1">55</td>
+                    <td headers="hd_h_Sofosbuvir.T2_1_1_1_4" rowspan="1" colspan="1">205</td>
+                    <td headers="hd_h_Sofosbuvir.T2_1_1_1_5" rowspan="1" colspan="1">7.7</td>
+                    <td headers="hd_h_Sofosbuvir.T2_1_1_1_6" rowspan="1" colspan="1">Hemoglobin 11.4</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Sofosbuvir.T2_1_1_1_1" rowspan="1" colspan="1">Day 15</td>
+                    <td headers="hd_h_Sofosbuvir.T2_1_1_1_2" rowspan="1" colspan="1">0</td>
+                    <td headers="hd_h_Sofosbuvir.T2_1_1_1_3" rowspan="1" colspan="1">52</td>
+                    <td headers="hd_h_Sofosbuvir.T2_1_1_1_4" rowspan="1" colspan="1">196</td>
+                    <td headers="hd_h_Sofosbuvir.T2_1_1_1_5" rowspan="1" colspan="1">16.1</td>
+                    <td headers="hd_h_Sofosbuvir.T2_1_1_1_6" rowspan="1" colspan="1">Admission, hemoglobin 10.1, INR 1.5</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Sofosbuvir.T2_1_1_1_1" rowspan="1" colspan="1">Day 18</td>
+                    <td headers="hd_h_Sofosbuvir.T2_1_1_1_2" rowspan="1" colspan="1">0</td>
+                    <td headers="hd_h_Sofosbuvir.T2_1_1_1_3" rowspan="1" colspan="1">53</td>
+                    <td headers="hd_h_Sofosbuvir.T2_1_1_1_4" rowspan="1" colspan="1">202</td>
+                    <td headers="hd_h_Sofosbuvir.T2_1_1_1_5" rowspan="1" colspan="1">23.5</td>
+                    <td headers="hd_h_Sofosbuvir.T2_1_1_1_6" rowspan="1" colspan="1">Therapy stopped</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Sofosbuvir.T2_1_1_1_1" rowspan="1" colspan="1">Day 24</td>
+                    <td headers="hd_h_Sofosbuvir.T2_1_1_1_2" rowspan="1" colspan="1">Day 6</td>
+                    <td headers="hd_h_Sofosbuvir.T2_1_1_1_3" rowspan="1" colspan="1">50</td>
+                    <td headers="hd_h_Sofosbuvir.T2_1_1_1_4" rowspan="1" colspan="1">186</td>
+                    <td headers="hd_h_Sofosbuvir.T2_1_1_1_5" rowspan="1" colspan="1">25.0</td>
+                    <td headers="hd_h_Sofosbuvir.T2_1_1_1_6" rowspan="1" colspan="1">INR 1.9</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Sofosbuvir.T2_1_1_1_1" rowspan="1" colspan="1">Day 30</td>
+                    <td headers="hd_h_Sofosbuvir.T2_1_1_1_2" rowspan="1" colspan="1">Day 12</td>
+                    <td headers="hd_h_Sofosbuvir.T2_1_1_1_3" rowspan="1" colspan="1">50</td>
+                    <td headers="hd_h_Sofosbuvir.T2_1_1_1_4" rowspan="1" colspan="1">184</td>
+                    <td headers="hd_h_Sofosbuvir.T2_1_1_1_5" rowspan="1" colspan="1">30.6</td>
+                    <td headers="hd_h_Sofosbuvir.T2_1_1_1_6" rowspan="1" colspan="1">INR 2.4</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Sofosbuvir.T2_1_1_1_1" rowspan="1" colspan="1">Day 38</td>
+                    <td headers="hd_h_Sofosbuvir.T2_1_1_1_2" rowspan="1" colspan="1">Day 20</td>
+                    <td headers="hd_h_Sofosbuvir.T2_1_1_1_3" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Sofosbuvir.T2_1_1_1_4" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Sofosbuvir.T2_1_1_1_5" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Sofosbuvir.T2_1_1_1_6" rowspan="1" colspan="1">Died of multiorgan failure</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Sofosbuvir.T2_1_1_1_1 hd_h_Sofosbuvir.T2_1_1_1_2" colspan="2" rowspan="1">
+                      <bold>Normal Values</bold>
+                    </td>
+                    <td headers="hd_h_Sofosbuvir.T2_1_1_1_3" rowspan="1" colspan="1">
+                      <bold>&#x0003c;40</bold>
+                    </td>
+                    <td headers="hd_h_Sofosbuvir.T2_1_1_1_4" rowspan="1" colspan="1">
+                      <bold>&#x0003c;150</bold>
+                    </td>
+                    <td headers="hd_h_Sofosbuvir.T2_1_1_1_5" rowspan="1" colspan="1">
+                      <bold>&#x0003c;1.2</bold>
+                    </td>
+                    <td headers="hd_h_Sofosbuvir.T2_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Sofosbuvir.Comment1">
+            <title>Comment</title>
+            <p>An elderly man with partially decompensated cirrhosis due to hepatitis C as well as HIV coinfection developed worsening decompensation when he was started on an all-oral regimen of therapy for hepatitis C. The timing of the clinical worsening was compatible with a drug induced etiology. However, there were several features that did not support the conclusion that therapy was responsible for the decompensation. For one thing, his liver disease seemed to be worsening even before therapy was started, serum bilirubin levels having risen from 3.7 to 5.3 mg/dL. Furthermore, the clinical pattern of injury that arose was unusual in that ALT and Alk P levels did not change, despite the steady increase in serum bilirubin values. Indeed, worsening of the INR did not occur until he was admitted and underwent other therapies and liver biopsy. He also had a history of liver decompensation during previous antiviral therapy with peginterferon and ribavirin, perhaps implicating ribavirin as a cause. While ribavirin regularly causes hemolysis and anemia with rises in serum bilirubin, in this instance hemoglobin levels fell little (from 11.7 to 10.1 g/dL) and the rise in bilirubin was in both direct and indirect fractions. Other evidence of hepatic synthetic dysfunction and liver failure followed. Finally, the patient also had HIV coinfection and was taking 3 other antiviral agents, and the possibility exists of unusual drug-drug interactions. Nevertheless, this and several other cases of hepatic decompensation during successful therapy of HCV related cirrhosis indicate that such patients should be cautioned about this outcome and monitored carefully, particularly during the first month of treatment. The cause of the decompensation is unclear and theoretically may be related to the rapid eradication of HCV infection rather than to a direct hepatotoxic effect of the drug.</p>
+          </sec>
+        </sec>
+        <sec id="Sofosbuvir.Case_2._Reactivation_of_hepat">
+          <title>Case 2. Reactivation of hepatitis B during antiviral therapy with sofosbuvir and simeprevir.</title>
+          <p>[Modified from Case 1 in: Collins JM, Raphael KL, Terry C, Cartwright EJ, Pillai A, Anania FA, Farley MM. Hepatitis B Virus reactivation during successful treatment of hepatitis C virus with sofosbuvir and simeprevir. Clin Infect Dis 2015; 61: 1304-6. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/pubmed/26082511">PubMed Citation</ext-link>]</p>
+          <p>A 55 year old man with chronic hepatitis C, genotype 1a, and cirrhosis who also had a history of chronic HBV infection, was started on compassionate use therapy with sofosbuvir (400 mg daily) and simeprevir (dose not given). He was known to have cirrhosis for several years and had previously failed to respond to courses of peginterferon and ribavirin. The cirrhosis was well compensated, but he had evidence of portal hypertension and esophageal varices. Before treatment, HCV RNA levels were 1.3 million IU/mL with serum ALT 62 U/L, bilirubin 0.7 mg/dL, INR 1.05 and platelet count 135,000/&#x003bc;L. Tests for hepatitis B surface antigen (HBsAg) were positive, but hepatitis B e antigen (HBeAg) was negative and antibody to HBeAg (anti-HBe) was present. Serum HBV DNA levels were low but detectable (peak values 2300 IU/mL). Seven weeks into sofosbuvir/simeprevir therapy, the patient developed fatigue, nausea, and abdominal pain followed by dark urine and jaundice. At this point serum ALT was 1495 U/L, AST 1792 U/L, bilirubin 12.2 mg/dL and INR 1.96 (Table). HCV RNA levels, however, were below the level of detection (none). Tests for hepatitis E and HIV infection were negative and autoantibodies were not present. HBV DNA values, however, were high, initially 22 million IU/mL. The drugs for hepatitis C were stopped and he was started on tenofovir and emtricitabine (Truvada). His liver tests began to improve and two months later all tests were normal. HBV DNA levels also fell and became undetectable approximately 4 months after starting treatment for hepatitis B. Fortunately, he remained HCV RNA negative despite having stopped therapy early and was considered to have had a sustained virological response.</p>
+          <sec id="Sofosbuvir.Key_Points2">
+            <title>Key Points</title>
+            <table-wrap id="Sofosbuvir.T3" position="anchor" orientation="portrait">
+              <table>
+                <thead>
+                  <tr>
+                    <th id="hd_h_Sofosbuvir.T3_1_1_1_1" rowspan="1" colspan="1">Medication:</th>
+                    <td rowspan="1" colspan="1">Sofosbuvir, simeprevir</td>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <th headers="hd_h_Sofosbuvir.T3_1_1_1_1" id="hd_b_Sofosbuvir.T3_1_1_1_1" rowspan="1" colspan="1">Pattern:</th>
+                    <td headers="hd_b_Sofosbuvir.T3_1_1_1_1" rowspan="1" colspan="1">Hepatocellular (R ratio not available: no alkaline phosphatase values)</td>
+                  </tr>
+                  <tr>
+                    <th headers="hd_h_Sofosbuvir.T3_1_1_1_1" id="hd_b_Sofosbuvir.T3_1_1_2_1" rowspan="1" colspan="1">Severity:</th>
+                    <td headers="hd_b_Sofosbuvir.T3_1_1_2_1" rowspan="1" colspan="1">Severe (jaundice, hospitalization, rise in INR)</td>
+                  </tr>
+                  <tr>
+                    <th headers="hd_h_Sofosbuvir.T3_1_1_1_1" id="hd_b_Sofosbuvir.T3_1_1_3_1" rowspan="1" colspan="1">Latency:</th>
+                    <td headers="hd_b_Sofosbuvir.T3_1_1_3_1" rowspan="1" colspan="1">7 weeks</td>
+                  </tr>
+                  <tr>
+                    <th headers="hd_h_Sofosbuvir.T3_1_1_1_1" id="hd_b_Sofosbuvir.T3_1_1_4_1" rowspan="1" colspan="1">Recovery:</th>
+                    <td headers="hd_b_Sofosbuvir.T3_1_1_4_1" rowspan="1" colspan="1">2 months one</td>
+                  </tr>
+                  <tr>
+                    <th headers="hd_h_Sofosbuvir.T3_1_1_1_1" id="hd_b_Sofosbuvir.T3_1_1_5_1" rowspan="1" colspan="1">Other medications:</th>
+                    <td headers="hd_b_Sofosbuvir.T3_1_1_5_1" rowspan="1" colspan="1">None mentioned</td>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Sofosbuvir.Laboratory_Values2">
+            <title>Laboratory Values</title>
+            <table-wrap id="Sofosbuvir.T4" position="anchor" orientation="portrait">
+              <table>
+                <thead>
+                  <tr>
+                    <th id="hd_h_Sofosbuvir.T4_1_1_1_1" rowspan="1" colspan="1">Time After Starting</th>
+                    <th id="hd_h_Sofosbuvir.T4_1_1_1_2" rowspan="1" colspan="1">Time After Stopping</th>
+                    <th id="hd_h_Sofosbuvir.T4_1_1_1_3" rowspan="1" colspan="1">ALT* (U/L)</th>
+                    <th id="hd_h_Sofosbuvir.T4_1_1_1_4" rowspan="1" colspan="1">Bilirubin* (mg/dL)</th>
+                    <th id="hd_h_Sofosbuvir.T4_1_1_1_5" rowspan="1" colspan="1">HCV RNA (IU/mL)</th>
+                    <th id="hd_h_Sofosbuvir.T4_1_1_1_6" rowspan="1" colspan="1">HBV DNA (IU/mL)</th>
+                    <th id="hd_h_Sofosbuvir.T4_1_1_1_7" rowspan="1" colspan="1">Other</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td headers="hd_h_Sofosbuvir.T4_1_1_1_1" rowspan="1" colspan="1">Pre</td>
+                    <td headers="hd_h_Sofosbuvir.T4_1_1_1_2" rowspan="1" colspan="1">0</td>
+                    <td headers="hd_h_Sofosbuvir.T4_1_1_1_3" rowspan="1" colspan="1">62</td>
+                    <td headers="hd_h_Sofosbuvir.T4_1_1_1_4" rowspan="1" colspan="1">0.7</td>
+                    <td headers="hd_h_Sofosbuvir.T4_1_1_1_5" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Sofosbuvir.T4_1_1_1_6" rowspan="1" colspan="1">2300</td>
+                    <td headers="hd_h_Sofosbuvir.T4_1_1_1_7" rowspan="1" colspan="1">INR 1.05</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Sofosbuvir.T4_1_1_1_1" rowspan="1" colspan="1">Day 0</td>
+                    <td headers="hd_h_Sofosbuvir.T4_1_1_1_2" rowspan="1" colspan="1">0</td>
+                    <td headers="hd_h_Sofosbuvir.T4_1_1_1_3" rowspan="1" colspan="1">60</td>
+                    <td headers="hd_h_Sofosbuvir.T4_1_1_1_4" rowspan="1" colspan="1">0.9</td>
+                    <td headers="hd_h_Sofosbuvir.T4_1_1_1_5" rowspan="1" colspan="1">1.3 million</td>
+                    <td headers="hd_h_Sofosbuvir.T4_1_1_1_6" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Sofosbuvir.T4_1_1_1_7" rowspan="1" colspan="1">HCV therapy started</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Sofosbuvir.T4_1_1_1_1" rowspan="1" colspan="1">Week 2</td>
+                    <td headers="hd_h_Sofosbuvir.T4_1_1_1_2" rowspan="1" colspan="1">0</td>
+                    <td headers="hd_h_Sofosbuvir.T4_1_1_1_3" rowspan="1" colspan="1">30</td>
+                    <td headers="hd_h_Sofosbuvir.T4_1_1_1_4" rowspan="1" colspan="1">0.5</td>
+                    <td headers="hd_h_Sofosbuvir.T4_1_1_1_5" rowspan="1" colspan="1">26</td>
+                    <td headers="hd_h_Sofosbuvir.T4_1_1_1_6" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Sofosbuvir.T4_1_1_1_7" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Sofosbuvir.T4_1_1_1_1" rowspan="1" colspan="1">Week 4</td>
+                    <td headers="hd_h_Sofosbuvir.T4_1_1_1_2" rowspan="1" colspan="1">0</td>
+                    <td headers="hd_h_Sofosbuvir.T4_1_1_1_3" rowspan="1" colspan="1">30</td>
+                    <td headers="hd_h_Sofosbuvir.T4_1_1_1_4" rowspan="1" colspan="1">0.5</td>
+                    <td headers="hd_h_Sofosbuvir.T4_1_1_1_5" rowspan="1" colspan="1">None</td>
+                    <td headers="hd_h_Sofosbuvir.T4_1_1_1_6" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Sofosbuvir.T4_1_1_1_7" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Sofosbuvir.T4_1_1_1_1" rowspan="1" colspan="1">Week 7</td>
+                    <td headers="hd_h_Sofosbuvir.T4_1_1_1_2" rowspan="1" colspan="1">0</td>
+                    <td headers="hd_h_Sofosbuvir.T4_1_1_1_3" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Sofosbuvir.T4_1_1_1_4" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Sofosbuvir.T4_1_1_1_5" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Sofosbuvir.T4_1_1_1_6" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Sofosbuvir.T4_1_1_1_7" rowspan="1" colspan="1">Symptomatic</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Sofosbuvir.T4_1_1_1_1" rowspan="1" colspan="1">Week 8</td>
+                    <td headers="hd_h_Sofosbuvir.T4_1_1_1_2" rowspan="1" colspan="1">0</td>
+                    <td headers="hd_h_Sofosbuvir.T4_1_1_1_3" rowspan="1" colspan="1">1495</td>
+                    <td headers="hd_h_Sofosbuvir.T4_1_1_1_4" rowspan="1" colspan="1">12.2</td>
+                    <td headers="hd_h_Sofosbuvir.T4_1_1_1_5" rowspan="1" colspan="1">None</td>
+                    <td headers="hd_h_Sofosbuvir.T4_1_1_1_6" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Sofosbuvir.T4_1_1_1_7" rowspan="1" colspan="1">Therapy stopped, INR 1.96</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Sofosbuvir.T4_1_1_1_1" rowspan="1" colspan="1">Week 9</td>
+                    <td headers="hd_h_Sofosbuvir.T4_1_1_1_2" rowspan="1" colspan="1">Week 1</td>
+                    <td headers="hd_h_Sofosbuvir.T4_1_1_1_3" rowspan="1" colspan="1">950</td>
+                    <td headers="hd_h_Sofosbuvir.T4_1_1_1_4" rowspan="1" colspan="1">19.0</td>
+                    <td headers="hd_h_Sofosbuvir.T4_1_1_1_5" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Sofosbuvir.T4_1_1_1_6" rowspan="1" colspan="1">22 million</td>
+                    <td headers="hd_h_Sofosbuvir.T4_1_1_1_7" rowspan="1" colspan="1">Tenofovir/emtricitabine</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Sofosbuvir.T4_1_1_1_1" rowspan="1" colspan="1">Week 10</td>
+                    <td headers="hd_h_Sofosbuvir.T4_1_1_1_2" rowspan="1" colspan="1">Week 2</td>
+                    <td headers="hd_h_Sofosbuvir.T4_1_1_1_3" rowspan="1" colspan="1">375</td>
+                    <td headers="hd_h_Sofosbuvir.T4_1_1_1_4" rowspan="1" colspan="1">13.0</td>
+                    <td headers="hd_h_Sofosbuvir.T4_1_1_1_5" rowspan="1" colspan="1">None</td>
+                    <td headers="hd_h_Sofosbuvir.T4_1_1_1_6" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Sofosbuvir.T4_1_1_1_7" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Sofosbuvir.T4_1_1_1_1" rowspan="1" colspan="1">Week 12</td>
+                    <td headers="hd_h_Sofosbuvir.T4_1_1_1_2" rowspan="1" colspan="1">Week 4</td>
+                    <td headers="hd_h_Sofosbuvir.T4_1_1_1_3" rowspan="1" colspan="1">110</td>
+                    <td headers="hd_h_Sofosbuvir.T4_1_1_1_4" rowspan="1" colspan="1">3.0</td>
+                    <td headers="hd_h_Sofosbuvir.T4_1_1_1_5" rowspan="1" colspan="1">None</td>
+                    <td headers="hd_h_Sofosbuvir.T4_1_1_1_6" rowspan="1" colspan="1">1000</td>
+                    <td headers="hd_h_Sofosbuvir.T4_1_1_1_7" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Sofosbuvir.T4_1_1_1_1" rowspan="1" colspan="1">Week 13</td>
+                    <td headers="hd_h_Sofosbuvir.T4_1_1_1_2" rowspan="1" colspan="1">Week 5</td>
+                    <td headers="hd_h_Sofosbuvir.T4_1_1_1_3" rowspan="1" colspan="1">70</td>
+                    <td headers="hd_h_Sofosbuvir.T4_1_1_1_4" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Sofosbuvir.T4_1_1_1_5" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Sofosbuvir.T4_1_1_1_6" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Sofosbuvir.T4_1_1_1_7" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Sofosbuvir.T4_1_1_1_1" rowspan="1" colspan="1">Week 15</td>
+                    <td headers="hd_h_Sofosbuvir.T4_1_1_1_2" rowspan="1" colspan="1">Week 7</td>
+                    <td headers="hd_h_Sofosbuvir.T4_1_1_1_3" rowspan="1" colspan="1">30</td>
+                    <td headers="hd_h_Sofosbuvir.T4_1_1_1_4" rowspan="1" colspan="1">1.5</td>
+                    <td headers="hd_h_Sofosbuvir.T4_1_1_1_5" rowspan="1" colspan="1">None</td>
+                    <td headers="hd_h_Sofosbuvir.T4_1_1_1_6" rowspan="1" colspan="1">100</td>
+                    <td headers="hd_h_Sofosbuvir.T4_1_1_1_7" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Sofosbuvir.T4_1_1_1_1" rowspan="1" colspan="1">Week 28</td>
+                    <td headers="hd_h_Sofosbuvir.T4_1_1_1_2" rowspan="1" colspan="1">Week 18</td>
+                    <td headers="hd_h_Sofosbuvir.T4_1_1_1_3" rowspan="1" colspan="1">30</td>
+                    <td headers="hd_h_Sofosbuvir.T4_1_1_1_4" rowspan="1" colspan="1">0.5</td>
+                    <td headers="hd_h_Sofosbuvir.T4_1_1_1_5" rowspan="1" colspan="1">None</td>
+                    <td headers="hd_h_Sofosbuvir.T4_1_1_1_6" rowspan="1" colspan="1">None</td>
+                    <td headers="hd_h_Sofosbuvir.T4_1_1_1_7" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Sofosbuvir.T4_1_1_1_1 hd_h_Sofosbuvir.T4_1_1_1_2" colspan="2" rowspan="1">
+                      <bold>Normal Values</bold>
+                    </td>
+                    <td headers="hd_h_Sofosbuvir.T4_1_1_1_3" rowspan="1" colspan="1">
+                      <bold>&#x0003c;40</bold>
+                    </td>
+                    <td headers="hd_h_Sofosbuvir.T4_1_1_1_4" rowspan="1" colspan="1">
+                      <bold>&#x0003c;1.2</bold>
+                    </td>
+                    <td headers="hd_h_Sofosbuvir.T4_1_1_1_5" rowspan="1" colspan="1">
+                      <bold>None</bold>
+                    </td>
+                    <td headers="hd_h_Sofosbuvir.T4_1_1_1_6" rowspan="1" colspan="1">
+                      <bold>None</bold>
+                    </td>
+                    <td headers="hd_h_Sofosbuvir.T4_1_1_1_7" rowspan="1" colspan="1"/>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+            <p>*Some values estimated from Figure 1.</p>
+          </sec>
+          <sec id="Sofosbuvir.Comment2">
+            <title>Comment</title>
+            <p>A man with cirrhosis due to hepatitis C who was also a HBsAg carrier with low levels of HBV DNA and no HBeAg in serum was started on oral antiviral therapy for hepatitis C using sofosbuvir and the HCV protease inhibitor simeprevir, a combination that had been shown to be highly effective, although not specifically approved for use at the time. The viral response was prompt, and HCV RNA levels were below the level of detection within 4 weeks of starting treatment. Serum ALT levels also improved. Three weeks later, however, he developed symptoms of hepatitis and was found to have marked, de novo elevations in ALT and bilirubin accompanied by high levels of HBV DNA in serum, indicative of reactivation of chronic hepatitis B. The HCV therapy was stopped and he was started on oral antiviral therapy for hepatitis B (Truvada: the single tablet combination of tenofovir and emtricitabine). He began to improve, and HBV DNA levels gradually fell below his baseline values and were no longer detectable approximately 4 months after starting therapy (decreases in viral levels are much slower in hepatitis B than C). Interestingly, he achieved an SVR, despite stopping HCV therapy early, after only 8 weeks of treatment. Such shortened courses of treatment can be effective, but are not recommended, particularly for patients with cirrhosis. Why treatment of hepatitis C might cause reactivation of an underlying inactive or only minimally active hepatitis B is unknown. However, there is some degree of competition for &#x0201c;replicative space&#x0201d; within hepatocytes between the two viruses&#x02013;active HCV infection inhibiting HBV replication and vice versa. Thus, reactivation may occur because of loss of the normal inhibitory activity of HCV replication. Several dozen instances of reactivation of hepatitis B during antiviral therapy of hepatitis C have been reported, some of which were fatal. What is unknown is whether reactivation occurs specifically with certain direct acting anti-HCV agents (such as sofosbuvir) or whether it is a general phenomenon that can occur with any potent regimen. Regardless, screening for hepatitis B is recommended before treating patients for hepatitis C, appropriate tests including HBsAg and anti-HBc. Approaches to prevention might be prophylaxis with an anti-HBV agent (tenofovir or entecavir for instance), or early introduction of treatment if HBV DNA levels rise (which requires active monitoring at 4 week intervals). The frequency of reactivation with HCV therapy is unknown but is likely to be uncommon.</p>
+          </sec>
+        </sec>
+      </sec>
+      <sec id="Sofosbuvir.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <boxed-text position="anchor" id="Sofosbuvir.BPI" orientation="portrait">
+          <p>
+            <bold>REPRESENTATIVE TRADE NAMES</bold>
+          </p>
+          <p>Sofosbuvir &#x02013; Sovaldi&#x000ae;</p>
+          <p>Sofosbuvir/Ledipasvir &#x02013; Harvoni&#x000ae;</p>
+          <p>Sofosbuvir/Velpatasvir &#x02013; Epclusa&#x000ae;</p>
+          <p>Sofosbuvir/Velpatasvir/Voxilaprevir &#x02013; Vosevi&#x000ae;</p>
+          <p>
+            <bold>DRUG CLASS</bold>
+          </p>
+          <p>Hepatitis C Agents</p>
+          <p>
+            <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=sofosbuvir">COMPLETE LABELING</ext-link>
+          </p>
+          <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+        </boxed-text>
+      </sec>
+      <sec id="Sofosbuvir.CHEMICAL_FORMULAS_AND_STRUCTU">
+        <title>CHEMICAL FORMULAS AND STRUCTURES</title>
+        <table-wrap id="Sofosbuvir.T5" position="anchor" orientation="portrait">
+          <table>
+            <thead>
+              <tr>
+                <th id="hd_h_Sofosbuvir.T5_1_1_1_1" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Sofosbuvir.T5_1_1_1_2" rowspan="1" colspan="1">CAS REGISTRY NUMBER</th>
+                <th id="hd_h_Sofosbuvir.T5_1_1_1_3" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Sofosbuvir.T5_1_1_1_4" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Sofosbuvir.T5_1_1_1_1" rowspan="1" colspan="1">Sofosbuvir</td>
+                <td headers="hd_h_Sofosbuvir.T5_1_1_1_2" rowspan="1" colspan="1">
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135267508">1190307-88-0</ext-link>
+                </td>
+                <td headers="hd_h_Sofosbuvir.T5_1_1_1_3" rowspan="1" colspan="1">C22-H29-F-N3-O9-P</td>
+                <td headers="hd_h_Sofosbuvir.T5_1_1_1_4" rowspan="1" colspan="1">
+                  <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Sofosbuvir_structure.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait">
+                    <alt-text>Sofosbuvir structure</alt-text>
+                  </graphic>
+                </td>
+              </tr>
+              <tr>
+                <td headers="hd_h_Sofosbuvir.T5_1_1_1_1" rowspan="1" colspan="1">Ledipasvir</td>
+                <td headers="hd_h_Sofosbuvir.T5_1_1_1_2" rowspan="1" colspan="1">
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://162108680">1256388-51-8</ext-link>
+                </td>
+                <td headers="hd_h_Sofosbuvir.T5_1_1_1_3" rowspan="1" colspan="1">C49-H54-F2-N8-O6</td>
+                <td headers="hd_h_Sofosbuvir.T5_1_1_1_4" rowspan="1" colspan="1">
+                  <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Ledipasvir_structure.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait">
+                    <alt-text>Ledipasvir structure</alt-text>
+                  </graphic>
+                </td>
+              </tr>
+              <tr>
+                <td headers="hd_h_Sofosbuvir.T5_1_1_1_1" rowspan="1" colspan="1">Velpatasvir</td>
+                <td headers="hd_h_Sofosbuvir.T5_1_1_1_2" rowspan="1" colspan="1">
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://223370437">1377049-84-7</ext-link>
+                </td>
+                <td headers="hd_h_Sofosbuvir.T5_1_1_1_3" rowspan="1" colspan="1">C49-H54-N8-O8</td>
+                <td headers="hd_h_Sofosbuvir.T5_1_1_1_4" rowspan="1" colspan="1">
+                  <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Velpatasvir_structure.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait">
+                    <alt-text>Velpatasvir structure</alt-text>
+                  </graphic>
+                </td>
+              </tr>
+              <tr>
+                <td headers="hd_h_Sofosbuvir.T5_1_1_1_1" rowspan="1" colspan="1">Voxilaprevir</td>
+                <td headers="hd_h_Sofosbuvir.T5_1_1_1_2" rowspan="1" colspan="1">xxxxx</td>
+                <td headers="hd_h_Sofosbuvir.T5_1_1_1_3" rowspan="1" colspan="1">xxxxx</td>
+                <td headers="hd_h_Sofosbuvir.T5_1_1_1_4" rowspan="1" colspan="1">xxxxx</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Sofosbuvir.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 10 January 2018</p>
+        <p>Abbreviations used: HCV, hepatitis C virus; SVR, sustained virological response; DAA, direct acting antiviral agents; HIV, human immunodeficiency virus.</p>
+        <ref-list id="Sofosbuvir.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Sofosbuvir.R1">
+            <mixed-citation publication-type="other">Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013.<annotation><p><italic toggle="yes">(Multi-authored textbook of hepatotoxicity published in 2013 does not discuss oral, direct acting antiviral agents used to treat hepatitis C).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Sofosbuvir.R2">
+            <mixed-citation publication-type="journal">Lohmann V, K&#x000f6;rner F, Herian U, Bartenschlager R. Biochemical properties of hepatitis C virus NS5B RNA-dependent RNA polymerase and identification of amino acid sequence motifs essential for enzymatic activity. J Virol 1997; 71: 8416-28. <annotation><p><italic toggle="yes">(Analysis of the biochemical and structural features of the NS5B HCV RNA polymerase and critical regions for its binding to RNA and replicative activity).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Sofosbuvir.R3">
+            <mixed-citation publication-type="journal">Lesburg CA, Cable MB, Ferrari E, Hong Z, Mannarino AF, Weber PC. Crystal structure of the RNA-dependent RNA polymerase from hepatitis C virus reveals a fully encircled active site. Nat Struct Biol 1999; 6: 937-43. <annotation><p><italic toggle="yes">(Description of the crystal structure of the HCV RNA polymerase [NS5B], which has a unique shape with thumb and fingers subdomains that encircle the template primer and growing RNA chain and allows for design of agents that might inhibit its activity).</italic></p></annotation><pub-id pub-id-type="pmid">10504728</pub-id></mixed-citation>
+          </ref>
+          <ref id="Sofosbuvir.R4">
+            <mixed-citation publication-type="journal">Lawitz E, Lalezari JP, Hassanein T, Kowdley KV, Poordad FF, Sheikh AM, Afdhal NH, et al. Sofosbuvir in combination with peginterferon alfa-2a and ribavirin for non-cirrhotic, treatment-naive patients with genotypes 1, 2, and 3 hepatitis C infection: a randomised, double-blind, phase 2 trial. Lancet Infect Dis 2013; 13: 401-8. <italic toggle="yes">(</italic><annotation><p><italic toggle="yes">Among 122 previously untreated patients with chronic hepatitis C, genotypes 1, 2 or 3, who received sofosbuvir [200 or 400 mg daily] or placebo for 12 weeks combined with peginterferon and ribavirin for 12 to 28 weeks, SVR rates were 90-92% with sofosbuvir and 58% with placebo; ALT and AST elevations occurred in 5 patients on sofosbuvir within 4 weeks of starting therapy, remaining elevated during treatment and resolving once peginterferon was stopped).</italic></p></annotation><pub-id pub-id-type="pmid">23499158</pub-id></mixed-citation>
+          </ref>
+          <ref id="Sofosbuvir.R5">
+            <mixed-citation publication-type="journal">Kowdley KV, Lawitz E, Crespo I, Hassanein T, Davis MN, DeMicco M, Bernstein DE, et al. Sofosbuvir with pegylated interferon alfa-2a and ribavirin for treatment-na&#x000ef;ve patients with hepatitis C genotype-1 infection (ATOMIC): an open-label, randomised, multicentre phase 2 trial. Lancet 2013; 381 (9883): 2100-7. <annotation><p><italic toggle="yes">(Among 316 previously treated patients with chronic hepatitis C, genotypes 1, 4, 5 or 6, treated with 12 or 24 weeks with sofosbuvir, peginterferon and ribavirin, SVR rates were 87% to 89%, ALT elevations above 5 times ULN occurred in 4 patients [1%] and 1 patient developed an autoimmune hepatitis, but these abnormalities were attributed to peginterferon).</italic></p></annotation><pub-id pub-id-type="pmid">23499440</pub-id></mixed-citation>
+          </ref>
+          <ref id="Sofosbuvir.R6">
+            <mixed-citation publication-type="journal">Jacobson IM, Gordon SC, Kowdley KV, Yoshida EM, Rodriguez-Torres M, Sulkowski MS, Shiffman ML, et al; POSITRON Study; FUSION Study. Sofosbuvir for hepatitis C genotype 2 or 3 in patients without treatment options. N Engl J Med 2013; 368: 1867-77. <annotation><p><italic toggle="yes">(Among 278 patients with chronic hepatitis C, genotypes 2 and 3, treated in two trials of sofosbuvir and ribavirin for 12 or 16 weeks or placebo for 12 weeks, the overall SVR rate was 78% vs 0% with placebo; serious adverse events occurred in 3% of placebo and 3% to 5% of sofosbuvir-ribavirin recipients, only one patient(on placebo) discontinuing therapy early for liver related issues: ALT elevations).</italic></p></annotation><pub-id pub-id-type="pmid">23607593</pub-id></mixed-citation>
+          </ref>
+          <ref id="Sofosbuvir.R7">
+            <mixed-citation publication-type="journal">Lawitz E, Mangia A, Wyles D, Rodriguez-Torres M, Hassanein T, Gordon SC, Schultz M, et al. Sofosbuvir for previously untreated chronic hepatitis C infection. N Engl J Med 2013; 368: 1878-87. <annotation><p><italic toggle="yes">(Two trials of sofosbuvir in patients with chronic hepatitis C; among 327 with genotype 1,4,5 or 6 infection treated with 12 weeks of sofosbuvir, peginterferon and ribavirin, the SVR rate was 90%; among 499 with genotype 2 or 3 infection treated with sofosbuvir and ribavirin for 12 vs peginterferon and ribavirin for 24 weeks, the SVR rate was 67% in both groups; adverse events were more frequent in peginterferon treated groups and no patient on sofosbuvir required discontinuation because of ALT elevations or liver related adverse events).</italic></p></annotation><pub-id pub-id-type="pmid">23607594</pub-id></mixed-citation>
+          </ref>
+          <ref id="Sofosbuvir.R8">
+            <mixed-citation publication-type="journal">Osinusi A, Meissner EG, Lee YJ, Bon D, Heytens L, Nelson A, Sneller M, et al. Sofosbuvir and ribavirin for hepatitis C genotype 1 in patients with unfavorable treatment characteristics: a randomized clinical trial. JAMA 2013; 310: 804-11. <annotation><p><italic toggle="yes">(Among 60 previously untreated patients with chronic hepatitis C, genotype 1, treated with sofosbuvir and ribavirin [1000-1200 or 600 mg daily], SVR rates were 68% with standard ribavirin doses [1000-1200 mg daily] and 47% with low doses [600 mg daily]; there were no serious adverse events requiring drug discontinuation).</italic></p></annotation><pub-id pub-id-type="pmid">23982366</pub-id></mixed-citation>
+          </ref>
+          <ref id="Sofosbuvir.R9">
+            <mixed-citation publication-type="journal">Lawitz E, Poordad FF, Pang PS, Hyland RH, Ding X, Mo H, Symonds WT, et al. Sofosbuvir and ledipasvir fixed-dose combination with and without ribavirin in treatment-naive and previously treated patients with genotype 1 hepatitis C virus infection (LONESTAR): an open-label, randomised, phase 2 trial. Lancet 2014; 383 (9916): 515-23. <annotation><p><italic toggle="yes">(Among 100 patients with chronic hepatitis C, genotype 1, treated with sofosbuvir and ledipasvir with or without ribavirin for 8 or 12 weeks, SVR rates were 95% to 100%, all serious adverse events related to therapy were attributed to ribavirin and there were no de novo ALT elevations).</italic></p></annotation><pub-id pub-id-type="pmid">24209977</pub-id></mixed-citation>
+          </ref>
+          <ref id="Sofosbuvir.R10">
+            <mixed-citation publication-type="journal">Sulkowski MS, Gardiner DF, Rodriguez-Torres M, Reddy KR, Hassanein T, Jacobson I, Lawitz E, et al.; AI444040 Study Group. Daclatasvir plus sofosbuvir for previously treated or untreated chronic HCV infection. N Engl J Med 2014; 370: 211-21. <annotation><p><italic toggle="yes">(Among 211 patients with chronic hepatitis C treated with sofosbuvir and daclatasvir with or without ribavirin for 24 weeks, SVR rates were 98% [genotype 1], 92% [genotype 2] and 89% [genotype 3]; most adverse events were fatigue, headache and nausea, and there were no ALT elevations above 5 times ULN or liver related serious adverse events).</italic></p></annotation><pub-id pub-id-type="pmid">24428467</pub-id></mixed-citation>
+          </ref>
+          <ref id="Sofosbuvir.R11">
+            <mixed-citation publication-type="journal">Pellicelli AM, Montalbano M, Lionetti R, Durand C, Ferenci P, D'Offizi G, Knop V, et al. Sofosbuvir plus daclatasvir for post-transplant recurrent hepatitis C: potent antiviral activity but no clinical benefit if treatment is given late. Dig Liver Dis 2014; 46: 923-7. <annotation><p><italic toggle="yes">(Among 12 patients with severe chronic hepatitis C, genotype 1 and 4, after liver transplantation treated with sofosbuvir and daclatasvir with or without ribavirin for 24 weeks, 3 died of progressive hepatic failure during therapy [weeks 4, 8 and 10] and the other 9 had an SVR).</italic></p></annotation><pub-id pub-id-type="pmid">24997638</pub-id></mixed-citation>
+          </ref>
+          <ref id="Sofosbuvir.R12">
+            <mixed-citation publication-type="journal">Gane EJ, Stedman CA, Hyland RH, Ding X, Svarovskaia E, Subramanian GM, Symonds WT, et al. Efficacy of nucleotide polymerase inhibitor sofosbuvir plus the NS5A inhibitor ledipasvir or the NS5B non-nucleoside inhibitor GS-9669 against HCV genotype 1 infection. Gastroenterology 2014; 146: 736-43. <annotation><p><italic toggle="yes">(Among 113 patients with chronic hepatitis C, genotype 1, treated with various combinations of sofosbuvir, ledipasvir, ribavirin and an NS5B non-nucleoside inhibitor for 6-12 weeks, SVR rates were excellent with all regimens, and there were no liver related adverse events).</italic></p></annotation><pub-id pub-id-type="pmid">24262278</pub-id></mixed-citation>
+          </ref>
+          <ref id="Sofosbuvir.R13">
+            <mixed-citation publication-type="journal">Afdhal N, Zeuzem S, Kwo P, Chojkier M, Gitlin N, Puoti M, Romero-Gomez M, et al.; ION-1 Investigators. Ledipasvir and sofosbuvir for untreated HCV genotype 1 infection. N Engl J Med 2014; 370: 1889-98. <annotation><p><italic toggle="yes">(Among 865 patients with previously untreated chronic hepatitis C, genotype 1, treated with sofosbuvir and ledipasvir [with or without ribavirin] for 12 or 24 weeks, SVR rates were high in all groups [97% to 99%] and side effects were generally mild; no patient developed a liver related serious adverse event; no mention of ALT elevations).</italic></p></annotation><pub-id pub-id-type="pmid">24725239</pub-id></mixed-citation>
+          </ref>
+          <ref id="Sofosbuvir.R14">
+            <mixed-citation publication-type="journal">Afdhal N, Reddy KR, Nelson DR, Lawitz E, Gordon SC, Schiff E, Nahass R, et al.; ION-2 Investigators. Ledipasvir and sofosbuvir for previously treated HCV genotype 1 infection. N Engl J Med 2014; 370: 1483-93. <annotation><p><italic toggle="yes">(Among 440 patients with previously treated chronic hepatitis C, genotype 1, treated with sofosbuvir and ledipasvir with or without ribavirin, SVR rates were higher with 24 weeks [99% and 99%] than 12 weeks [94% and 96%] of combination therapy regardless of addition of ribavirin, and adverse events were generally mild without ribavirin therapy, no patient requiring early discontinuation, although one patient developed hepatic encephalopathy).</italic></p></annotation><pub-id pub-id-type="pmid">24725238</pub-id></mixed-citation>
+          </ref>
+          <ref id="Sofosbuvir.R15">
+            <mixed-citation publication-type="journal">Kowdley KV, Gordon SC, Reddy KR, Rossaro L, Bernstein DE, Lawitz E, Shiffman ML, et al; ION-3 Investigators. Ledipasvir and sofosbuvir for 8 or 12 weeks for chronic HCV without cirrhosis. N Engl J Med 2014; 370: 1879-88. <annotation><p><italic toggle="yes">(Among 647 previously untreated, noncirrhotic patients with chronic hepatitis C, genotype 1, treated with sofosbuvir and ledipasvir [with or without ribavirin] for 8 or 12 weeks, SVR rates were high in all groups [93% to 95%]; ALT elevations occurred in 5 patients [&#x0003c;1%] and were above 5 times ULN in 1, but no patient required early discontinuation for a liver related adverse event).</italic></p></annotation><pub-id pub-id-type="pmid">24720702</pub-id></mixed-citation>
+          </ref>
+          <ref id="Sofosbuvir.R16">
+            <mixed-citation publication-type="journal">Hoofnagle JH, Sherker AH. Therapy for hepatitis C--the costs of success. N Engl J Med 2014; 370: 1552-3. <annotation><p><italic toggle="yes">(Editorial in response to results of three controlled trials of sofosbuvir and ledipasvir in chronic hepatitis C [Afdhal 2014, Afdhal 2014, Kowdley 2014]).</italic></p></annotation><pub-id pub-id-type="pmid">24725236</pub-id></mixed-citation>
+          </ref>
+          <ref id="Sofosbuvir.R17">
+            <mixed-citation publication-type="journal">Zeuzem S, Dusheiko GM, Salupere R, Mangia A, Flisiak R, Hyland RH, Illeperuma A, et al.; VALENCE Investigators. Sofosbuvir and ribavirin in HCV genotypes 2 and 3. N Engl J Med 2014; 370: 1993-2001. <annotation><p><italic toggle="yes">(Among 419 patients with chronic hepatitis C treated with varying regimens of sofosbuvir with ribavirin or placebo for 12 weeks [genotype 2] or sofosbuvir with ribavirin for 12 or 24 weeks [genotype 3], highest SVR rates were achieved with 12 weeks in genotype 2 [93%] and 24 weeks in genotype 3 patients [85%]; no serious liver related adverse events were reported among patients receiving therapy).</italic></p></annotation><pub-id pub-id-type="pmid">24795201</pub-id></mixed-citation>
+          </ref>
+          <ref id="Sofosbuvir.R18">
+            <mixed-citation publication-type="journal">Lawitz E, Sulkowski MS, Ghalib R, Rodriguez-Torres M, Younossi ZM, Corregidor A, DeJesus E, et al. Simeprevir plus sofosbuvir, with or without ribavirin, to treat chronic infection with hepatitis C virus genotype 1 in non-responders to pegylated interferon and ribavirin and treatment-na&#x000ef;ve patients: the COSMOS randomised study. Lancet 2014; 384 (9956): 1756-65. <annotation><p><italic toggle="yes">(Among 167 patients with chronic hepatitis C, genotype 1, treated with sofosbuvir and simeprevir [with or without ribavirin] for 12 or 24 weeks, SVR rates were 90% to 94%; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">25078309</pub-id></mixed-citation>
+          </ref>
+          <ref id="Sofosbuvir.R19">
+            <mixed-citation publication-type="journal">Sulkowski MS, Naggie S, Lalezari J, Fessel WJ, Mounzer K, Shuhart M, Luetkemeyer AF, et al.; PHOTON-1 Investigators. Sofosbuvir and ribavirin for hepatitis C in patients with HIV coinfection. JAMA 2014; 312: 353-61. <annotation><p><italic toggle="yes">(Among 223 patients with chronic hepatitis C and HIV coinfection treated with sofosbuvir and ribavirin for 12 or 24 weeks, SVR rates ranged from 75-92%; hyperbilirubinemia attributed to ribavirin was most marked in patients also receiving atazanavir for HIV infection).</italic></p></annotation><pub-id pub-id-type="pmid">25038354</pub-id></mixed-citation>
+          </ref>
+          <ref id="Sofosbuvir.R20">
+            <mixed-citation publication-type="journal">Omata M, Nishiguchi S, Ueno Y, Mochizuki H, Izumi N, Ikeda F, Toyoda H, et al. Sofosbuvir plus ribavirin in Japanese patients with chronic genotype 2 HCV infection: an open-label, phase 3 trial. J Viral Hepat 2014; 21: 762-8. <annotation><p><italic toggle="yes">(Among 153 Japanese patients with chronic hepatitis C, genotype 2, treated with sofosbuvir and ribavirin for 12 weeks, the SVR rate was 97% and there were no serious adverse events attributed to sofosbuvir; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">25196837</pub-id></mixed-citation>
+          </ref>
+          <ref id="Sofosbuvir.R21">
+            <mixed-citation publication-type="journal">A combination of ledipasvir and sofosbuvir (Harvoni) for hepatitis C. Med Lett Drugs Ther 2014; 56: 111-2. <annotation><p><italic toggle="yes">(Concise summary of the pharmacology, clinical efficacy, safety and costs of the fixed combination of ledipasvir and sofosbuvir in chronic hepatitis C, genotype 1; adverse events include headache, fatigue, nausea, diarrhea and insomnia, but there was no comparison to placebo therapy and the relationship of these nonspecific symptoms to the drugs is unclear).</italic></p></annotation><pub-id pub-id-type="pmid">25372848</pub-id></mixed-citation>
+          </ref>
+          <ref id="Sofosbuvir.R22">
+            <mixed-citation publication-type="journal">Charlton M, Gane E, Manns MP, Brown RS Jr, Curry MP, Kwo PY, Fontana RJ, et al. Sofosbuvir and ribavirin for treatment of compensated recurrent hepatitis C virus infection after liver transplantation. Gastroenterology 2015; 148: 108-17. <annotation><p><italic toggle="yes">(Among 40 patients with recurrent, compensated chronic hepatitis C after liver transplantation, who were treated with sofosbuvir and ribavirin for 24 weeks, 70% achieved an SVR and 30% relapsed; but there were no serious adverse events attributed to sofosbuvir and no case of hepatic decompensation).</italic></p></annotation><pub-id pub-id-type="pmid">25304641</pub-id></mixed-citation>
+          </ref>
+          <ref id="Sofosbuvir.R23">
+            <mixed-citation publication-type="journal">Lawitz E, Poordad F, Brainard DM, Hyland RH, An D, Dvory-Sobol H, Symonds WT, et al. Sofosbuvir with peginterferon-ribavirin for 12 weeks in previously treated patients with hepatitis C genotype 2 or 3 and cirrhosis. Hepatology 2015; 61: 769-75. <annotation><p><italic toggle="yes">(Among 47 previously treated patients with chronic hepatitis C, genotype 2 or 3, treated with 12 weeks of sofosbuvir, peginterferon and ribavirin, SVR rates were 89%; one patient developed hepatic decompensation which was attributed to peginterferon).</italic></p></annotation><pub-id pub-id-type="pmid">25322962</pub-id></mixed-citation>
+          </ref>
+          <ref id="Sofosbuvir.R24">
+            <mixed-citation publication-type="journal">Pearlman BL, Ehleben C, Perrys M. The combination of simeprevir and sofosbuvir is more effective than that of peginterferon, ribavirin, and sofosbuvir for patients with hepatitis C-related Child's class A cirrhosis. Gastroenterology 2015; 148: 762-70. <annotation><p><italic toggle="yes">(Among 82 patients with chronic hepatitis C and compensated cirrhosis, genotype 1a, who were treated with sofosbuvir and either simeprevir or peginterferon with ribavirin for 12 weeks, SVR rates were higher with simeprevir [93% vs 75%]; one patient on sofosbuvir with peginterferon developed hepatic decompensation, but there were no other liver related serious adverse events).</italic></p></annotation><pub-id pub-id-type="pmid">25557952</pub-id></mixed-citation>
+          </ref>
+          <ref id="Sofosbuvir.R25">
+            <mixed-citation publication-type="journal">Nelson DR, Cooper JN, Lalezari JP, Lawitz E, Pockros PJ, Gitlin N, Freilich BF, et al.; ALLY-3 Study Team. All-oral 12-week treatment with daclatasvir plus sofosbuvir in patients with hepatitis C virus genotype 3 infection: ALLY-3 phase III study. Hepatology 2015; 61: 1127-35. <annotation><p><italic toggle="yes">(Among 152 patients with chronic hepatitis C, genotype 3, treated with sofosbuvir and daclatasvir for 12 weeks, 135 [89%] had an SVR, and there were no treatment related serious adverse events, early discontinuations for adverse events or de novo ALT elevations above 5 times ULN).</italic></p></annotation><pub-id pub-id-type="pmid">25614962</pub-id></mixed-citation>
+          </ref>
+          <ref id="Sofosbuvir.R26">
+            <mixed-citation publication-type="journal">Rodriguez-Torres M, Gaggar A, Shen G, Kirby B, Svarovskaia E, Brainard D, Symonds WT, et al. Sofosbuvir for chronic hepatitis C virus infection genotype 1-4 in patients coinfected with HIV. J Acquir Immune Defic Syndr 2015; 68: 543-9. <annotation><p><italic toggle="yes">(Among 61 patients with chronic hepatitis C and HIV coinfection who underwent studies of drug interactions with sofosbuvir, no significant changes in pharmacokinetics of antiretroviral agents were found).</italic></p></annotation><pub-id pub-id-type="pmid">25622055</pub-id></mixed-citation>
+          </ref>
+          <ref id="Sofosbuvir.R27">
+            <mixed-citation publication-type="journal">Molina JM, Orkin C, Iser DM, Zamora FX, Nelson M, Stephan C, Massetto B, et al.; PHOTON-2 study team. Sofosbuvir plus ribavirin for treatment of hepatitis C virus in patients co-infected with HIV (PHOTON-2): a multicentre, open-label, non-randomised, phase 3 study. Lancet 2015; 385 (9973): 1098-106. <annotation><p><italic toggle="yes">(Among 274 patients with chronic hepatitis C [genotype 1 to 4] and HIV coinfection treated with sofosbuvir and ribavirin for 12 or 24 weeks, SVR rates were 84% to 89%, common adverse events were fatigue, insomnia, asthenia and headache, serious adverse events occurred in 15 [5%], 4 considered related to therapy, but not to sofosbuvir).</italic></p></annotation><pub-id pub-id-type="pmid">25659285</pub-id></mixed-citation>
+          </ref>
+          <ref id="Sofosbuvir.R28">
+            <mixed-citation publication-type="journal">Pungpapong S, Aqel B, Leise M, Werner KT, Murphy JL, Henry TM, Ryland K, et al. Multicenter experience using simeprevir and sofosbuvir with or without ribavirin to treat hepatitis C genotype 1 after liver transplant. Hepatology 2015; 61: 1880-6. <annotation><p><italic toggle="yes">(Among 123 patients with recurrent chronic hepatitis C, genotype 1, after liver transplant who were treated with simeprevir and sofosbuvir with or without ribavirin for 12 weeks, the overall SVR rate was 90% and severe side effects included acute pancreatitis, allergic lung injury and acute urinary obstruction; there were no ALT elevations above 5 times ULN or clinically apparent liver injury).</italic></p></annotation><pub-id pub-id-type="pmid">25722203</pub-id></mixed-citation>
+          </ref>
+          <ref id="Sofosbuvir.R29">
+            <mixed-citation publication-type="journal">Cornella SL, Stine JG, Kelly V, Caldwell SH, Shah NL. Persistence of mixed cryoglobulinemia despite cure of hepatitis C with new oral antiviral therapy including direct-acting antiviral sofosbuvir: A case series. Postgrad Med 2015; 127: 413-7. <annotation><p><italic toggle="yes">(Among 5 patients with chronic hepatitis C and cryoglobulinemia, successful therapy with antiviral regimens resulted in loss of cryoglobulins in only 2 patients and most had persistence of renal and neurologic symptoms despite clearance of virus and resolution of liver disease).</italic></p></annotation><pub-id pub-id-type="pmid">25746436</pub-id></mixed-citation>
+          </ref>
+          <ref id="Sofosbuvir.R30">
+            <mixed-citation publication-type="journal">Chalasani N, Bonkovsky HL, Fontana R, Lee W, Stolz A, Talwalkar J, Reddy KR, et al.; United States Drug Induced Liver Injury Network. Features and outcomes of 899 patients with drug-induced liver injury: The DILIN Prospective Study. Gastroenterology 2015; 148: 1340-52. <annotation><p><italic toggle="yes">(Among 899 cases of drug induced liver injury enrolled in a US prospective study between 2004 and 2013, 12 were attributed to antiviral agents, but all were antiretroviral agents and no case was attributed to the oral direct acting agents used to treat hepatitis C).</italic></p></annotation><pub-id pub-id-type="pmid">25754159</pub-id></mixed-citation>
+          </ref>
+          <ref id="Sofosbuvir.R31">
+            <mixed-citation publication-type="journal">Bourli&#x000e8;re M, Bronowicki JP, de Ledinghen V, H&#x000e9;zode C, Zoulim F, Mathurin P, Tran A, et al. Ledipasvir-sofosbuvir with or without ribavirin to treat patients with HCV genotype 1 infection and cirrhosis non-responsive to previous protease-inhibitor therapy: a randomised, double-blind, phase 2 trial (SIRIUS). Lancet Infect Dis 2015; 15: 397-404. <annotation><p><italic toggle="yes">(Among 155 previously treated, cirrhotic patients with chronic hepatitis C treated with placebos for 12 weeks followed by sofosbuvir and ledipasvir and ribavirin for 12 weeks vs sofosbuvir and ledipasvir alone for 24 weeks, SVR rates were 96% and 97%; adverse events more frequent on antiviral therapy than occurred during the 12 weeks of placebo therapy included headache, fatigue, irritability, diarrhea and cough, but significant ALT elevations occurred more frequently on placebo [n=7, 9%] than active therapy [n=1, 0.7%]).</italic></p></annotation><pub-id pub-id-type="pmid">25773757</pub-id></mixed-citation>
+          </ref>
+          <ref id="Sofosbuvir.R32">
+            <mixed-citation publication-type="journal">Reddy KR, Bourli&#x000e8;re M, Sulkowski M, Omata M, Zeuzem S, Feld JJ, Lawitz E, et al. Ledipasvir and sofosbuvir in patients with genotype 1 hepatitis C virus infection and compensated cirrhosis: An integrated safety and efficacy analysis. Hepatology 2015; 62: 79-86. <annotation><p><italic toggle="yes">(Among 513 cirrhotic patients with chronic hepatitis C, genotype 1, treated with sofosbuvir and ledipasvir with or without ribavirin for 12 or 24 weeks in 7 clinical trials, the overall SVR rate was 96% and there were 24 [5%] serious adverse events, only 5 [1%] of which were considered treatment related, none of which were liver related).</italic></p></annotation><pub-id pub-id-type="pmid">25846144</pub-id></mixed-citation>
+          </ref>
+          <ref id="Sofosbuvir.R33">
+            <mixed-citation publication-type="journal">Wyles D, Pockros P, Morelli G, Younes Z, Svarovskaia E, Yang JC, Pang PS, et al. Ledipasvir-sofosbuvir plus ribavirin for patients with genotype 1 hepatitis C virus previously treated in clinical trials of sofosbuvir regimens. Hepatology 2015; 61: 1793-7. <annotation><p><italic toggle="yes">(Among 51 patients with chronic hepatitis C who had failed to respond to a sofosbuvir based regimen and were then treated with sofosbuvir, ledipasvir and ribavirin for 12 weeks, the SVR rate was 98% and there were no severe elevations in serum ALT levels or liver related serious adverse events).</italic></p></annotation><pub-id pub-id-type="pmid">25846014</pub-id></mixed-citation>
+          </ref>
+          <ref id="Sofosbuvir.R34">
+            <mixed-citation publication-type="journal">Gutierrez JA, Carrion AF, Avalos D, O'Brien C, Martin P, Bhamidimarri KR, Peyton A. Sofosbuvir and simeprevir for treatment of hepatitis C virus infection in liver transplant recipients. Liver Transpl 2015; 21: 823-30. <annotation><p><italic toggle="yes">(Among 61 patients with recurrent hepatitis C after liver transplantation who were treated with simeprevir and sofosbuvir for 12 weeks, the overall SVR rate was 93%, two patients with cirrhosis developed hepatic decompensation, but no patient died or had hepatic rejection).</italic></p></annotation><pub-id pub-id-type="pmid">25825070</pub-id></mixed-citation>
+          </ref>
+          <ref id="Sofosbuvir.R35">
+            <mixed-citation publication-type="journal">In brief: severe bradycardia with sofosbuvir and amiodarone. Med Lett Drugs Ther 2015; 57 (1466): 58. <annotation><p><italic toggle="yes">(Summary of FDA warning regarding life threatening bradycardia in patients on amiodarone therapy who are treated with sofosbuvir, occurring within hours to up to 12 days after starting; 3 patients required pacemakers and one died).</italic></p></annotation><pub-id pub-id-type="pmid">25853664</pub-id></mixed-citation>
+          </ref>
+          <ref id="Sofosbuvir.R36">
+            <mixed-citation publication-type="journal">Mizokami M, Yokosuka O, Takehara T, Sakamoto N, Korenaga M, Mochizuki H, Nakane K, et al. Ledipasvir and sofosbuvir fixed-dose combination with and without ribavirin for 12 weeks in treatment-naive and previously treated Japanese patients with genotype 1 hepatitis C: an open-label, randomised, phase 3 trial. Lancet Infect Dis 2015; 15: 645-53. <annotation><p><italic toggle="yes">(Among 341 Japanese patients with chronic hepatitis C, genotype 1, treated with sofosbuvir and ledipasvir with or without ribavirin for 12 weeks, SVR rates were 98% and 100%, adverse events were more common in those receiving ribavirin [75% vs 65%]; there were no liver related severe adverse events attributed to therapy or ALT elevations above 5 times ULN).</italic></p></annotation><pub-id pub-id-type="pmid">25863559</pub-id></mixed-citation>
+          </ref>
+          <ref id="Sofosbuvir.R37">
+            <mixed-citation publication-type="journal">Alqahtani SA, Afdhal N, Zeuzem S, Gordon SC, Mangia A, Kwo P, Fried M, et al. Safety and tolerability of ledipasvir/sofosbuvir with and without ribavirin in patients with chronic hepatitis C virus genotype 1 infection: Analysis of phase III ION trials. Hepatology 2015; 62: 25-30. <annotation><p><italic toggle="yes">(Among 1952 patients with chronic hepatitis C, genotype 1, enrolled in 3 clinical trials and treated with sofosbuvir and ledipasvir with [n=872] or without [n=1080] ribavirin, adverse events were more frequent in those receiving ribavirin [71% vs 45%] and severe adverse events requiring discontinuation were similar in frequency [0.7% vs 1%]; no mention of ALT elevations or hepatic decompensation).</italic></p></annotation><pub-id pub-id-type="pmid">25963890</pub-id></mixed-citation>
+          </ref>
+          <ref id="Sofosbuvir.R38">
+            <mixed-citation publication-type="journal">Charlton M, Everson GT, Flamm SL, Kumar P, Landis C, Brown RS Jr, Fried MW, et al.; SOLAR-1 Investigators. Ledipasvir and sofosbuvir plus ribavirin for treatment of HCV infection in patients with advanced liver disease. Gastroenterology 2015; 149: 649-59. <annotation><p><italic toggle="yes">(Among 337 patients with chronic hepatitis C, genotype 1 or 4, with decompensated cirrhosis treated with sofosbuvir, ledipasvir and ribavirin for 12 or 24 weeks, SVR rates were 86% to 89%, but serious adverse events were frequent [23%] and included hepatic decompensation, need for liver transplantation and death [2.6%]).</italic></p></annotation><pub-id pub-id-type="pmid">25985734</pub-id></mixed-citation>
+          </ref>
+          <ref id="Sofosbuvir.R39">
+            <mixed-citation publication-type="journal">Saxena V, Nyberg L, Pauly M, Dasgupta A, Nyberg A, Piasecki B, Winston B, et al. Safety and Efficacy of simeprevir/sofosbuvir in hepatitis C-infected patients with compensated and decompensated cirrhosis. Hepatology 2015; 62: 715-25. <annotation><p><italic toggle="yes">(Among 156 patients with chronic hepatitis C, genotype 1, and cirrhosis treated with simeprevir and sofosbuvir with or without ribavirin for 12 weeks, overall SVR rates were 91% in compensated vs 73% in decompensated cases, and worsening decompensation in 20% vs 3%, one patient dying of liver failure, but rates of adverse events were said to be similar to those of a matched cohort of untreated subjects).</italic></p></annotation><pub-id pub-id-type="pmid">26033798</pub-id></mixed-citation>
+          </ref>
+          <ref id="Sofosbuvir.R40">
+            <mixed-citation publication-type="journal">Leroy V, Dumortier J, Coilly A, Sebagh M, Fougerou-Leurent C, Radenne S, Botta D, et al.; Agence Nationale de Recherches sur le SIDA et les H&#x000e9;patites Virales CO23 Compassionate Use of Protease Inhibitors in Viral C in Liver Transplantation Study Group. Efficacy of sofosbuvir and daclatasvir in patients with fibrosing cholestatic hepatitis C after liver transplantation. Clin Gastroenterol Hepatol 2015; 13: 1993-2001. <annotation><p><italic toggle="yes">(Among 23 patients with fibrosing cholestatic hepatitis C after liver transplant treated with sofosbuvir and daclatasvir [n=15] or sofosbuvir and ribavirin [n=8] for 24 weeks, SVR was achieved in 22 [96%]; one patient developed worsening cholestasis after 12 weeks that did not improve when daclatsavir was stopped [16 weeks], but did when sofosbuvir was stopped [24 weeks]).</italic></p></annotation><pub-id pub-id-type="pmid">26044317</pub-id></mixed-citation>
+          </ref>
+          <ref id="Sofosbuvir.R41">
+            <mixed-citation publication-type="journal">Fazel Y, Lam B, Golabi P, Younossi Z. Safety analysis of sofosbuvir and ledipasvir for treating hepatitis C. Expert Opin Drug Saf 2015; 14: 1317-26. <annotation><p><italic toggle="yes">(Review of the adverse events and safety of sofosbuvir and ledipasvir in treating chronic hepatitis C including patients with cirrhosis and clinical decompensation).</italic></p></annotation><pub-id pub-id-type="pmid">26043900</pub-id></mixed-citation>
+          </ref>
+          <ref id="Sofosbuvir.R42">
+            <mixed-citation publication-type="journal">Collins JM, Raphael KL, Terry C, Cartwright EJ, Pillai A, Anania FA, Farley MM. Hepatitis B virus reactivation during successful treatment of hepatitis C virus with sofosbuvir and simeprevir. Clin Infect Dis 2015; 61: 1304-6. <annotation><p><italic toggle="yes">(2 cases: 55 year old man with chronic hepatitis C, genotype 1, and HBsAg with low levels of HBV DNA [2300 IU/mL] developed jaundice 8 weeks after starting sofosbuvir and simeprevir [bilirubin 12.2 mg/dL, ALT 1495 U/L, INR 1.96, HBV DNA 22 million IU/mL], with resolution within 6 weeks of stopping HCV agents and starting tenofovir and emtricitabine; [Case 2], 57 year old man with chronic hepatitis C, genotype 1a, and anti-HBc without HBsAg developed rising levels of HBV DNA during therapy with sofosbuvir and simeprevir [Pre &#x0003c;20, 2 weeks 353 and 4 weeks 11,255 IU/mL], which fell to undetectable levels within 8 weeks of starting tenofovir with emtricitabine [Truvada], ALT values remaining normal during the episode).</italic></p></annotation><pub-id pub-id-type="pmid">26082511</pub-id></mixed-citation>
+          </ref>
+          <ref id="Sofosbuvir.R43">
+            <mixed-citation publication-type="journal">Aqel BA, Pungpapong S, Leise M, Werner KT, Chervenak AE, Watt KD, Murphy JL, et al. Multicenter experience using simeprevir and sofosbuvir with or without ribavirin to treat hepatitis C genotype 1 in patients with cirrhosis. Hepatology 2015; 62: 1004-12. <annotation><p><italic toggle="yes">(Among 119 cirrhotic patients with chronic hepatitis C, genotype 1, treated with sofosbuvir and simeprevir with or without ribavirin for 12 weeks, SVR was achieved in 78%; bilirubin levels rose above 3 mg/dL in 4 patients, but no patient developed hepatic decompensation on therapy or had to discontinue treatment early because of liver related adverse events; one patient died of liver failure 6 weeks after completing treatment despite having cleared HCV RNA).</italic></p></annotation><pub-id pub-id-type="pmid">26096332</pub-id></mixed-citation>
+          </ref>
+          <ref id="Sofosbuvir.R44">
+            <mixed-citation publication-type="journal">Ferenci P, Kozbial K, Mandorfer M, Hofer H. HCV targeting of patients with cirrhosis. J Hepatol 2015; 63: 1015-22. <annotation><p><italic toggle="yes">(Review of the status of antiviral therapy of chronic hepatitis C with cirrhosis, suggests that genotype 1 infected patients should receive an all-oral regimen such as dual therapy with sofosbuvir and ledipasvir or daclatasvir or the triple combination of dasabuvir with ombitasvir and paritaprevir, the major unresolved issues being duration of therapy and the role of ribavirin).</italic></p></annotation><pub-id pub-id-type="pmid">26100497</pub-id></mixed-citation>
+          </ref>
+          <ref id="Sofosbuvir.R45">
+            <mixed-citation publication-type="journal">Backus LI, Belperio PS, Shahoumian TA, Loomis TP, Mole LA. Effectiveness of sofosbuvir-based regimens in genotype 1 and 2 hepatitis C virus infection in 4026 U.S. Veterans. Aliment Pharmacol Ther 2015; 42: 559-73. <annotation><p><italic toggle="yes">(Analysis outcomes of treatment of 4026 patients with chronic hepatitis C using sofosbuvir based regimens in the Veterans Administration hospitals found relatively low SVR rates, interpreted as representing &#x0201c;real-world&#x0201d; experience rather than selection and management of patients; no mention of adverse events).</italic></p></annotation><pub-id pub-id-type="pmid">26113432</pub-id></mixed-citation>
+          </ref>
+          <ref id="Sofosbuvir.R46">
+            <mixed-citation publication-type="journal">Kalafateli M, Dusheiko G, Manousou P. Clinical decompensation after achieving SVR with sofosbuvir, daclatasvir and ribavirin in a patient with recurrent HCV post-liver transplant. J Gastrointestin Liver Dis 2015; 24: 257-8. <annotation><p><italic toggle="yes">(33 year old man with hemophilia and chronic hepatitis C, genotype 3, underwent liver transplantation and had recurrence of hepatitis C which failed to respond to several courses of peginterferon, eventually achieving an SVR with sofosbuvir, daclatasvir and ribavirin, but then developing hepatic decompensation 2 months later).</italic></p></annotation><pub-id pub-id-type="pmid">26114189</pub-id></mixed-citation>
+          </ref>
+          <ref id="Sofosbuvir.R47">
+            <mixed-citation publication-type="journal">Bailly F, Pradat P, Virlogeux V, Zoulim F. Antiviral therapy in patients with hepatitis C virus-induced cirrhosis. Dig Dis 2015; 33: 613-23. <annotation><p><italic toggle="yes">(Review of the status of antiviral therapy of chronic hepatitis C with cirrhosis summarizing the high rate of adverse events including hepatic decompensation and death with peginterferon based regimens combined with boceprevir or telaprevir and the more effective and better tolerated all oral regimens).</italic></p></annotation><pub-id pub-id-type="pmid">26159282</pub-id></mixed-citation>
+          </ref>
+          <ref id="Sofosbuvir.R48">
+            <mixed-citation publication-type="journal">Kohli A, Kapoor R, Sims Z, Nelson A, Sidharthan S, Lam B, Silk R, et al. Ledipasvir and sofosbuvir for hepatitis C genotype 4: a proof-of-concept, single-centre, open-label phase 2a cohort study. Lancet Infect Dis 2015; 15: 1049-54. <annotation><p><italic toggle="yes">(Among 21 patients with chronic hepatitis C, genotype 4, treated with ledipasvir and sofosbuvir for 12 weeks, 20 [95%] had an SVR and there were no serious adverse events and no mention was made of significant ALT elevations).</italic></p></annotation><pub-id pub-id-type="pmid">26187031</pub-id></mixed-citation>
+          </ref>
+          <ref id="Sofosbuvir.R49">
+            <mixed-citation publication-type="journal">Wyles DL, Ruane PJ, Sulkowski MS, Dieterich D, Luetkemeyer A, Morgan TR, Sherman KE, et al.; ALLY-2 Investigators. Daclatasvir plus sofosbuvir for HCV in patients coinfected with HIV-1. N Engl J Med 2015; 373: 714-25. <annotation><p><italic toggle="yes">(Among 203 patients with chronic hepatitis C, genotype 1 to 4, and HIV coinfection treated with sofosbuvir and daclatasvir for 8 or 12 weeks, SVR rates were 97 to 98% [12 weeks] and 76% [8 weeks], and there were no discontinuations for adverse events, treatment related serious adverse events or ALT elevations above 3 times ULN).</italic></p></annotation><pub-id pub-id-type="pmid">26196502</pub-id></mixed-citation>
+          </ref>
+          <ref id="Sofosbuvir.R50">
+            <mixed-citation publication-type="journal">Naggie S, Cooper C, Saag M, Workowski K, Ruane P, Towner WJ, Marks K, et al.; ION-4 Investigators. Ledipasvir and sofosbuvir for HCV in patients coinfected with HIV-1. N Engl J Med 2015; 373: 705-13. <annotation><p><italic toggle="yes">(Among 335 patients with chronic hepatitis C, genotype 1 or 4, and HIV coinfection who were treated with sofosbuvir and ledipasvir for 12 weeks while maintained on antiretroviral therapy, 322 [96%] had an SVR and serious adverse events occurred in 8 patients [2%] which included 2 cases of hepatocellular carcinoma, 2 portal vein thrombosis and 3 serious infections, one of which was fatal [endocarditis]; ALT elevations above 5 times ULN occurred in only 1 patient [0.3%]).</italic></p></annotation><pub-id pub-id-type="pmid">26196665</pub-id></mixed-citation>
+          </ref>
+          <ref id="Sofosbuvir.R51">
+            <mixed-citation publication-type="journal">Renet S, Chaumais MC, Antonini T, Zhao A, Thomas L, Savoure A, Samuel D, et al. Extreme bradycardia after first doses of sofosbuvir and daclatasvir in patients receiving amiodarone: 2 cases including a rechallenge. Gastroenterology 2015; 149: 1378-80. <annotation><p><italic toggle="yes">(Two patients taking amiodarone developed severe bradycardia within 2 hours of receiving sofosbuvir and daclatasvir, one with recurrence upon restarting therapy 13 days, but not 8 weeks after stopping the amiodarone).</italic></p></annotation><pub-id pub-id-type="pmid">26253303</pub-id></mixed-citation>
+          </ref>
+          <ref id="Sofosbuvir.R52">
+            <mixed-citation publication-type="journal">Shiffman ML, James AM, Long AG, Alexander PC. Treatment of chronic HCV with sofosbuvir and simeprevir in patients with cirrhosis and contraindications to interferon and/or ribavirin. Am J Gastroenterol 2015; 110:1179-85. <annotation><p><italic toggle="yes">(Among 120 cirrhotic patients with chronic hepatitis C, genotype 1, treated with sofosbuvir and simeprevir for 12 weeks, the SVR rate was 83%, but 14 patients developed complications of cirrhosis including hyperbilirubinemia in 8, sepsis in 2 [1 dying of multiorgan failure], hepatocellular carcinoma in 2 and variceal hemorrhage in 2).</italic></p></annotation><pub-id pub-id-type="pmid">26215530</pub-id></mixed-citation>
+          </ref>
+          <ref id="Sofosbuvir.R53">
+            <mixed-citation publication-type="journal">Ende AR, Kim NH, Yeh MM, Harper J, Landis CS. Fulminant hepatitis B reactivation leading to liver transplantation in a patient with chronic hepatitis C treated with simeprevir and sofosbuvir: a case report. J Med Case Rep 2015; 9: 164. <annotation><p><italic toggle="yes">(59 year old woman with chronic hepatitis C, genotype 1, and anti-HBc without HBsAg or HBV DNA in serum, developed jaundice 11 weeks after starting sofosbuvir and simeprevir [bilirubin 9.1 mg/dL, ALT 2263 U/L, INR 1.9, HBV DNA 29 million IU/mL]; she was started on tenofovir, but developed progressive liver failure and underwent emergency liver transplantation 10 days after presentation).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Sofosbuvir.R54">
+            <mixed-citation publication-type="journal">Lawitz E, Jacobson IM, Nelson DR, Zeuzem S, Sulkowski MS, Esteban R, Brainard D, et al. Development of sofosbuvir for the treatment of hepatitis C virus infection. Ann N Y Acad Sci 2015; 1358: 56-67. <annotation><p><italic toggle="yes">(Review of the development of therapy of hepatitis C, focusing upon sofosbuvir and the prelicensure studies that lead to its approval).</italic></p></annotation><pub-id pub-id-type="pmid">26235748</pub-id></mixed-citation>
+          </ref>
+          <ref id="Sofosbuvir.R55">
+            <mixed-citation publication-type="journal">Gane EJ, Hyland RH, An D, Svarovskaia E, Pang PS, Brainard D, Stedman CA. Efficacy of ledipasvir and sofosbuvir, with or without ribavirin, for 12 weeks in patients With HCV genotype 3 or 6 infection. Gastroenterology 2015; 149: 1454-61. <annotation><p><italic toggle="yes">(Among 101 patients with chronic hepatitis C genotype 3 and 25 with genotype 6 who were treated with sofosbuvir and ledipasivr with or without ribavirin for 12 weeks, SVR rates were 64% to 100% with genotype 3 and 96% with genotype 6; serious adverse events occurred in 6 patients [5%], but only 1 led to stopping therapy, none were liver related and no patient died).</italic></p></annotation><pub-id pub-id-type="pmid">26261007</pub-id></mixed-citation>
+          </ref>
+          <ref id="Sofosbuvir.R56">
+            <mixed-citation publication-type="journal">Foster GR, Pianko S, Brown A, Forton D, Nahass RG, George J, Barnes E, et al.; BOSON Study Group. Efficacy of sofosbuvir plus ribavirin with or without peginterferon-alfa in patients with hepatitis C virus genotype 3 infection and treatment-experienced patients with cirrhosis and hepatitis C virus genotype 2 infection. Gastroenterology 2015 149: 1462-70. <annotation><p><italic toggle="yes">(Among 592 patients with chronic hepatitis C, genotype 2 or 3, treated with sofosbuvir and ribavirin for 16 or 24 weeks or sofosbuvir, ribavirin and peginterferon for 12 weeks, the SVR rates were 87% to 100% in genotype 2 and 71% to 93% in genotype 3 patients; serious adverse events occurred in 4% to 6%, but none were hepatic decompensation or hepatitis and most were considered unrelated to sofosbuvir; ALT elevations above 5 times ULN occurred in 9 patients [1.5%], but were self-limited and did not result in early discontinuation of therapy).</italic></p></annotation><pub-id pub-id-type="pmid">26248087</pub-id></mixed-citation>
+          </ref>
+          <ref id="Sofosbuvir.R57">
+            <mixed-citation publication-type="journal">European Association for Study of Liver. EASL Recommendations on Treatment of Hepatitis C 2015. J Hepatol 2015; 63: 199-236. <annotation><p><italic toggle="yes">(Guidelines for the antiviral therapy of chronic hepatitis C from the European liver disease research and academic society).</italic></p></annotation><pub-id pub-id-type="pmid">25911336</pub-id></mixed-citation>
+          </ref>
+          <ref id="Sofosbuvir.R58">
+            <mixed-citation publication-type="journal">AASLD/IDSA HCV Guidance Panel. Hepatitis C guidance: AASLD-IDSA recommendations for testing, managing, and treating adults infected with hepatitis C virus. Hepatology 2015; 62: 932-54. <annotation><p><italic toggle="yes">(Guidelines for the antiviral therapy of chronic hepatitis C from the US liver and infectious diseases research and academic societies).</italic></p></annotation><pub-id pub-id-type="pmid">26111063</pub-id></mixed-citation>
+          </ref>
+          <ref id="Sofosbuvir.R59">
+            <mixed-citation publication-type="journal">Feld JJ, Jacobson IM, Hezode C, Asselah T, Ruane PJ, Gruener N, Abergel A, et al. Sofosbuvir and velpatasivr for HCV genotype 1, 2, 4, 5 and 6 infection. N Engl J Med 2015; 373: 2599-607. <annotation><p><italic toggle="yes"> (Among 741 patients with chronic hepatitis C, genotype 1, 2, 4, 5, or 6, who were treated with a placebo [n=91] vs a single tablet, fixed combination of sofosbuvir and velpatasvir [n=624] once daily for 12 weeks, SVR rates were 0% vs 99% and serious adverse events occurred in none vs 2% on antiviral therapy, but no patient had a liver related serious adverse event or death).</italic></p></annotation><pub-id pub-id-type="pmid">26571066</pub-id></mixed-citation>
+          </ref>
+          <ref id="Sofosbuvir.R60">
+            <mixed-citation publication-type="journal">Foster GR, Afdhal N, Roberts SK, Brau N, Gane EJ, Pianko S, Lawitz E, et al. Sofosbuvir and velpatasivr for HCV genotype 2 and 3 infection. N Engl J Med 2015; 373: 2608-17. <annotation><p><italic toggle="yes">(Among 266 patients with chronic hepatitis C, genotype 2 treated with sofosbuvir and velpatasvir vs ribavirin for 12 weeks, SVR rates were 99% vs 94% and adverse events were similar; among 544 patients with genotype 3 infection treated with sofosbuvir and velpatasvir for 12 weeks vs sofosbuvir and ribavirin for 24 weeks, the SVR rates were 97% vs 82%; adverse events were more frequent with ribavirin and no patient had a liver related serious adverse event or death).</italic></p></annotation><pub-id pub-id-type="pmid">26575258</pub-id></mixed-citation>
+          </ref>
+          <ref id="Sofosbuvir.R61">
+            <mixed-citation publication-type="journal">Curry MP, O&#x02019;Leary JG, Bzowej N, Muir AJ, Korenblat KM, Fenkel JM, Reddy R, Lawitz E, et al. Sofosbuvir and velpatasivr for HCV in patients with decompensated cirrhosis. N Engl J Med 2015; 373; 2618-28. <annotation><p><italic toggle="yes"> (Among 267 patients with chronic hepatitis C and decompensated cirrhosis who were treated with sofosbuvir and velpatasvir for 12 or 24 weeks vs the combination with ribavirin for 12 weeks, SVR rates ranged from 83% to 94%; serious adverse events occurred in 18%, early discontinuation in 3% and death in 3% [4 from sepsis and 2 liver failure]).</italic></p></annotation><pub-id pub-id-type="pmid">26569658</pub-id></mixed-citation>
+          </ref>
+          <ref id="Sofosbuvir.R62">
+            <mixed-citation publication-type="journal">Stedman CA, Hyland RH, Ding X, Pang PS, McHutchison JG, Gane EJ. Once daily ledipasvir/sofosbuvir fixed-dose combination with ribavirin in patients with inherited bleeding disorders and hepatitis C genotype 1 infection. Haemophilia 2015 Aug 28. [Epub ahead of print] <annotation><p><italic toggle="yes">(Among 14 patients with an inherited bleeding disorder and chronic hepatitis C, genotype 1, treated with sofosbuvir, lepidasvir and ribavirin for 12 weeks, all had an SVR and none developed a serious liver related or hematologic adverse event).</italic></p></annotation><pub-id pub-id-type="pmid">26315711</pub-id></mixed-citation>
+          </ref>
+          <ref id="Sofosbuvir.R63">
+            <mixed-citation publication-type="journal">Everson GT, Towner WJ, Davis MN, Wyles DL, Nahass RG, Thuluvath PJ, Etzkorn K, et al. Sofosbuvir With Velpatasvir in Treatment-Naive Noncirrhotic Patients With Genotype 1 to 6 Hepatitis C Virus Infection: A Randomized Trial. Ann Intern Med 2015; 163: 818-26. <annotation><p><italic toggle="yes"> (Among 377 patients with chronic hepatitis C, genotype 1 or 6, treated with sofosbuvir and velpatasvir [25 or 200 mg] for 12 weeks with or without ribavirin, 337 [89%] had an SVR, and there were no serious liver related adverse events).</italic></p></annotation><pub-id pub-id-type="pmid">26551051</pub-id></mixed-citation>
+          </ref>
+          <ref id="Sofosbuvir.R64">
+            <mixed-citation publication-type="journal">Lawitz E, Matusow G, DeJesus E, Yoshida EM, Felizarta F, Ghalib R, Godofsky E, et al. Simeprevir plus sofosbuvir in patients with chronic hepatitis C virus genotype 1 infection and cirrhosis: A Phase 3 study (OPTIMIST-2). Hepatology 2015; 64: 360-9. <annotation><p><italic toggle="yes">(Among 103 patients with chronic hepatitis C, genotype 1, and cirrhosis treated with sofosbuvir and simeprevir for 12 weeks 103 [83%] had an SVR, and no patient developed liver failure or a treatment related serious adverse event).</italic></p></annotation><pub-id pub-id-type="pmid">26704148</pub-id></mixed-citation>
+          </ref>
+          <ref id="Sofosbuvir.R65">
+            <mixed-citation publication-type="journal">Kamar N, Marion O, Rostaing L, Cointault O, Ribes D, Lavayssi&#x000e8;re L, Esposito L, et al. Efficacy and safety of sofosbuvir-based antiviral therapy to treat hepatitis C virus infection after kidney transplantation. Am J Transplant 2016; 16: 1474-9. <annotation><p><italic toggle="yes">(Among 25 kidney transplant recipients with chronic hepatitis C, genotype 1, treated with sofosbuvir in combination with other antiviral agents, 22 [88%] had an SVR, and "no adverse event was observed").</italic></p></annotation><pub-id pub-id-type="pmid">26587971</pub-id></mixed-citation>
+          </ref>
+          <ref id="Sofosbuvir.R66">
+            <mixed-citation publication-type="journal">Sulkowski MS, Vargas HE, Di Bisceglie AM, Kuo PA, Reddy KR, Lim JK, Morelli G, et al.; HCV-TARGET Study Group. Effectiveness of simeprevir plus sofosbuvir, with or without ribavirin, in real-world patients with HCV genotype 1 infection. Gastroenterology 2016; 150: 419-29. <annotation><p><italic toggle="yes">(Among 836 patients with chronic hepatitis C, genotype 1, enrolled in a observational cohort study and treated with sofosbuvir and simeprevir [169 with ribavirin] for up to 16 weeks, the SVR rate was 84% and serious adverse events occurred in 44 patients [5%], with hepatic decompensation in 10 [1.2%], serious infections in 9 [1.1%] and death in 5 [0.6%], 2 attributed to hepatic failure).</italic></p></annotation><pub-id pub-id-type="pmid">26497081</pub-id></mixed-citation>
+          </ref>
+          <ref id="Sofosbuvir.R67">
+            <mixed-citation publication-type="journal">Lai CL, Wong VW, Yuen MF, Yang JC, Knox SJ, Mo H, Han LL, et al. Sofosbuvir plus ribavirin for the treatment of patients with chronic genotype 1 or 6 hepatitis C virus infection in Hong Kong. Aliment Pharmacol Ther 2016; 43: 96-101. <annotation><p><italic toggle="yes">(Among 31 Chinese patients with chronic hepatitis C, genotype 1 or 6, treated with sofosbuvir and ribavirin for 12, 16 or 24 weeks, 30 [97%] had an SVR and none had a serious adverse events or stopped therapy early for therapy related side effects).</italic></p></annotation><pub-id pub-id-type="pmid">26503414</pub-id></mixed-citation>
+          </ref>
+          <ref id="Sofosbuvir.R68">
+            <mixed-citation publication-type="journal">Zeng QL, Li CX, Zhang DW, Li W, Xu GH, Yu ZJ. Letter: safety and efficacy of sofosbuvir plus daclatasvir with ribavirin for 12 weeks in Chinese treatment-experienced cirrhotic genotype 1b patients with HCV. Aliment Pharmacol Ther 2016; 43: 842-3. <annotation><p><italic toggle="yes"> (Among 31 patients with chronic hepatitis C and cirrhosis treated with sofosbuvir and daclatasvir for 12 weeks, 30 [97%] had an SVR, and no patient had a serious adverse event or stopped therapy early).</italic></p></annotation><pub-id pub-id-type="pmid">26932414</pub-id></mixed-citation>
+          </ref>
+          <ref id="Sofosbuvir.R69">
+            <mixed-citation publication-type="journal">Crittenden NE, Buchanan LA, Pinkston CM, Cave B, Barve A, Marsano L, McClain CJ, et al. Simeprevir and sofosbuvir with or without ribavirin to treat recurrent genotype 1 hepatitis C virus infection after orthotopic liver transplantation. Liver Transpl 2016 ] <annotation><p><italic toggle="yes"> (Among 56 patients with recurrent hepatitis C after liver transplantation who were treated with sofosbuvir and simeprevir for 12 weeks, 49 [88%] had an SVR, and two died of liver failure).</italic></p></annotation><pub-id pub-id-type="pmid">26915588</pub-id></mixed-citation>
+          </ref>
+          <ref id="Sofosbuvir.R70">
+            <mixed-citation publication-type="journal">Manns M, Samuel D, Gane EJ, Mutimer D, McCaughan G, Buti M, Prieto M, et al; SOLAR-2 investigators. Ledipasvir and sofosbuvir plus ribavirin in patients with genotype 1 or 4 hepatitis C virus infection and advanced liver disease: a multicentre, open-label, randomised, phase 2 trial. Lancet Infect Dis 2016; 16: 685-97. <annotation><p><italic toggle="yes"> (Among 296 patients with chronic hepatitis C, genotype 1, and 37 with genotype 4 with cirrhosis or recurrence after liver transplant who were treated with sofosbuvir, ledipasbvir and ribavirin for 12 or 24 weeks, 72 patients [22%] had a serious adverse event and 17 died [5%], mainly from hepatic decompensation).</italic></p></annotation><pub-id pub-id-type="pmid">26907736</pub-id></mixed-citation>
+          </ref>
+          <ref id="Sofosbuvir.R71">
+            <mixed-citation publication-type="journal">Issa D, Eghtesad B, Zein NN, Yerian L, Cruise M, Alkhouri N, Adams R,et al. Sofosbuvir and simeprevir for the treatment of recurrent hepatitis C with fibrosing cholestatic hepatitis after liver transplantation. Int J Organ Transplant Med 2016; 7: 38-45. <annotation><p><italic toggle="yes"> (Among 5 patients with recurrent hepatitis C and fibrosing cholestatic hepatitis after liver transplant who were treated with sofosbuvir and simeprevir for 24 weeks, 4 had an SVR with resolution of jaundice, and one developed hepatic decompensation and died).</italic></p></annotation><pub-id pub-id-type="pmid">26889372</pub-id></mixed-citation>
+          </ref>
+          <ref id="Sofosbuvir.R72">
+            <mixed-citation publication-type="journal">Chuang WL, Chien RN, Peng CY, Chang TT, Lo GH, Sheen IS, Wang HY, et al. Ledipasvir/sofosbuvir fixed-dose combination tablet in Taiwanese patients with chronic genotype 1 hepatitis C virus. J Gastroenterol Hepatol 2016 Feb 3. [Epub ahead of print] <annotation><p><italic toggle="yes">(Among 85 Chinese patients with chronic hepatitis C, genotype 1, treated with sofosbuvir and ledipasvir for 12 weeks, 83 [98%] had an SVR, and none had a liver related adverse event).</italic></p></annotation><pub-id pub-id-type="pmid">26841930</pub-id></mixed-citation>
+          </ref>
+          <ref id="Sofosbuvir.R73">
+            <mixed-citation publication-type="journal">Pillai AA, Wedd J, Norvell JP, Parekh S, Cheng N, Young N, Spivey JR, et al. Simeprevir and sofosbuvir (SMV-SOF) for 12 weeks for the treatment of chronic hepatitis C genotype 1 infection: a real world (transplant) hepatology practice experience. Am J Gastroenterol 2016; 111: 250-60. <annotation><p><italic toggle="yes"> (Among 170 patients with chronic hepatitis C, genotype 1, treated with sofosbuvir and simeprevir with or without ribavirin for 12 weeks in routine clinical practice, 133 [78%] had an SVR; adverse events were not discussed).</italic></p></annotation><pub-id pub-id-type="pmid">26832650</pub-id></mixed-citation>
+          </ref>
+          <ref id="Sofosbuvir.R74">
+            <mixed-citation publication-type="journal">Abergel A, Asselah T, Metivier S, Kersey K, Jiang D, Mo H, Pang PS, et al. Ledipasvir-sofosbuvir in patients with hepatitis C virus genotype 5 infection: an open-label, multicentre, single-arm, phase 2 study. Lancet Infect Dis 2016; 16(4): 459-64. <annotation><p><italic toggle="yes"> (Among 41 patients with chronic hepatitis C, genotype 5, treated with sofosbuvir and lepidasvir for 12 weeks, 39 [95%] had an SVR, and there were no serious liver related adverse events).</italic></p></annotation><pub-id pub-id-type="pmid">26803446</pub-id></mixed-citation>
+          </ref>
+          <ref id="Sofosbuvir.R75">
+            <mixed-citation publication-type="journal">Mandorfer M, Schwabl P, Steiner S, Scheiner B, Chromy D, Bucsics T, St&#x000e4;ttermayer AF, et al. Interferon-free treatment with sofosbuvir/daclatasvir achieves sustained virologic response in 100% of HIV/HCV-coinfected patients with advanced liver disease. AIDS 2016; 30: 1039-7. <annotation><p><italic toggle="yes"> (Among 31 patients with chronic hepatitis C with advanced fibrosis or cirrhosis and HIV coinfection who were treated with sofosbuvir and daclatasvir to 12 or 24 weeks, all had an SVR, and there were no discontinuations because of adverse events).</italic></p></annotation><pub-id pub-id-type="pmid">26760453</pub-id></mixed-citation>
+          </ref>
+          <ref id="Sofosbuvir.R76">
+            <mixed-citation publication-type="journal">Brown RS Jr, O'Leary JG, Reddy KR, Kuo A, Morelli GJ, Burton JR Jr, Stravitz RT, et al.; Hepatitis C Therapeutic Registry Research Network Study Group. Interferon-free therapy for genotype 1 hepatitis C in liver transplant recipients: Real-world experience from the hepatitis C therapeutic registry and research network. Liver Transpl 2016; 22: 4-33. <annotation><p><italic toggle="yes"> (Among 151 patients with recurrent hepatitis C after liver transplantation treated with sofosbuvir and simeprevir with or without ribavirin for 12 or 24 weeks, 133 [88%] had an SVR, and 8 [5%] developed hepatic decompensation and 3 paitients died, all of whom had cirrhosis).</italic></p></annotation><pub-id pub-id-type="pmid">26519873</pub-id></mixed-citation>
+          </ref>
+          <ref id="Sofosbuvir.R77">
+            <mixed-citation publication-type="journal">Lai CL, Wong VW, Yuen MF, Yang JC, Knox SJ, Mo H, Han LL, et al. Sofosbuvir plus ribavirin for the treatment of patients with chronic genotype 1 or 6 hepatitis C virus infection in Hong Kong. Aliment Pharmacol Ther 2016; 43: 96-101. <annotation><p><italic toggle="yes">(Among 31 patients with chronic hepatitis C [genotype 1 or 4] treated with sofosbuvir and ribavirin for 12, 16 or 24 weeks, 30 [97%] had an SVR, and there were no serious adverse events and no mention of ALT elevations).</italic></p></annotation><pub-id pub-id-type="pmid">26503414</pub-id></mixed-citation>
+          </ref>
+          <ref id="Sofosbuvir.R78">
+            <mixed-citation publication-type="journal">Sulkowski MS, Vargas HE, Di Bisceglie AM, Kuo A, Reddy KR, Lim JK, Morelli G, et al.; HCV-TARGET Study Group. Effectiveness of simeprevir plus sofosbuvir, with or without ribavirin, in real-world patients with HCV genotype 1 infection. Gastroenterology 2016; 150: 419-29. <annotation><p><italic toggle="yes"> (Among 802 patients with chronic hepatitis C, genotype 1, treated with sofosbuvir and simeprevir with or without ribavirin for 12 weeks in clinical practices ["the real world"], 675 [84%] had an SVR, 44 [5.3%] had a serious adverse event, 10 [1.2%] hepatic decompensation and 2 [0.3%] died of liver failure).</italic></p></annotation><pub-id pub-id-type="pmid">26497081</pub-id></mixed-citation>
+          </ref>
+          <ref id="Sofosbuvir.R79">
+            <mixed-citation publication-type="journal">Modi AA, Nazario H, Trotter JF, Gautam M, Weinstein J, Mantry P, Barnes M, et al. Safety and efficacy of simeprevir plus sofosbuvir with or without ribavirin in patients with decompensated genotype 1 hepatitis C cirrhosis. Liver Transpl 2016; 22: 281-6. <annotation><p><italic toggle="yes"> (Among 42 patients with chronic hepatitis C, genotype 1, and decompensated cirrhosis treated with sofosbuvir, simeprvir and [n=35] ribavirin for 12 weeks, 31 [74%] had an SVR, and none developed decompensation requiring hospitalization).</italic></p></annotation><pub-id pub-id-type="pmid">26335142</pub-id></mixed-citation>
+          </ref>
+          <ref id="Sofosbuvir.R80">
+            <mixed-citation publication-type="journal">Fontana RJ, Brown RS, Moreno-Zamora A, Prieto M, Joshi S, Londo&#x000f1;o MC, et al. Daclatasvir combined with sofosbuvir or simeprevir in liver transplant recipients with severe recurrent hepatitis C infection. Liver Transpl 2016; 22: 446-58. <annotation><p><italic toggle="yes"> (Among 97 liver transplant recipients treated with daclatasvir and either sofosbuvir or simeprevir with or without ribavirin for up to 24 weeks, 84 [87%] had an SVR, and 8 [8%] patients died, but none of the deaths were considered due to the antiviral therapy).</italic></p></annotation><pub-id pub-id-type="pmid">26890629</pub-id></mixed-citation>
+          </ref>
+          <ref id="Sofosbuvir.R81">
+            <mixed-citation publication-type="journal">Poordad F, Schiff ER, Vierling JM, Landis C, Fontana RJ, Yang R, McPhee F, Hughes EA, Noviello S, Swenson ES. Daclatasvir with sofosbuvir and ribavirin for HCV infection with advanced cirrhosis or post-liver transplant recurrence. Hepatology 2016; 63: 1493-505. <annotation><p><italic toggle="yes">(Among 60 patients with advanced cirrhosis and 53 transplant recipients with chronic hepatitis C who were treated with daclatasvir, sofosbuvir and ribavirin for 12 weeks, SVR rates were 93% in Child-Pugh class A and B cirrhosis and 56% in class C, and 95% in transplant patients, and "there were no treatment related serious adverse events").</italic></p></annotation><pub-id pub-id-type="pmid">26754432</pub-id></mixed-citation>
+          </ref>
+          <ref id="Sofosbuvir.R82">
+            <mixed-citation publication-type="journal">Dyson JK, Hutchinson J, Harrison L, Rotimi O, Tiniakos D, Foster GR, Aldersley MA, et al. Liver toxicity associated with sofosbuvir, an NS5A inhibitor and ribavirin use. J Hepatol 2016; 64: 753-4. <annotation><p><italic toggle="yes">(74 year old man and 36 year old woman with HCV related cirrhosis developed worsening hepatic decompensation within a few weeks of starting sofosbuvir, an NS5A inhibitor and ribavirin [peak bilirubin 23.4 and 30.5 mg/dL, ALT 65 and 96 U/L, Alk P 202 and 398 U/L], resulting in death in one and emergency liver transplant in the other [Case 1]).</italic></p></annotation><pub-id pub-id-type="pmid">26325535</pub-id></mixed-citation>
+          </ref>
+          <ref id="Sofosbuvir.R83">
+            <mixed-citation publication-type="journal">Marchan-Lopez A, Dominguez-Dominguez L, Kessler-Saiz P, Jarrin-Estupi&#x000f1;an ME. Liver failure in human immunodeficiency virus - hepatitis C virus coinfection treated with sofosbuvir, ledipasvir and antiretroviral therapy. J Hepatol 2016; 64: 752-3. <annotation><p><italic toggle="yes">(Letter in response to Dyson [2016]: 49 year old man with chronic hepatitis C, cirrhosis [Child-Pugh class B] and HIV coinfection developed worsening hepatic decompensation 1 to 2 months after starting sofosbuvir and ledipasvir that worsened for two weeks after stopping [peak bilirubin 46.9 mg/dL, INR 3.17], and then resolved; he later tolerated reinitiation of antiretroviral drugs).</italic></p></annotation><pub-id pub-id-type="pmid">26682727</pub-id></mixed-citation>
+          </ref>
+          <ref id="Sofosbuvir.R84">
+            <mixed-citation publication-type="journal">Dyson JK, McPherson S. Reply to "Liver failure in human immunodeficiency virus - Hepatitis C virus coinfection treated with sofosbuvir, ledipasvir and antiretroviral therapy". J Hepatol 2016; 64: 753-4. <annotation><p><italic toggle="yes">(Letter in reply to March-Lopez [2016] reporting another case of hepatic decompensation during sofosbuvir, ledipasvir and ribavirin therapy of a patient hepatitis C, cirrhosis and HIV coinfection, arising within 6 weeks of starting treatment [bilirubin 12.6 mg/dL, protime 17 sec], and leading to successful, emergency liver transplantation).</italic></p></annotation><pub-id pub-id-type="pmid">26682725</pub-id></mixed-citation>
+          </ref>
+          <ref id="Sofosbuvir.R85">
+            <mixed-citation publication-type="journal">Welker MW, Luhne S, Lange CM, Vermehren J, Farnik H, Herrmann E, Welzel T, et al. Lactic acidosis in patients with hepatitis C virus cirrhosis and combined ribavirin/ sofosbuvir treatment. J Hepatol 2016; 64; 790-8. <italic toggle="yes">
+</italic><annotation><p><italic toggle="yes">(Among 35 patients with chronic hepatitis C and advanced fibrosis or cirrhosis treated with sofosbuvir based regimens, 12 [34%] had a serious adverse event and 5 [14%] developed lactic acidosis, largely in those with Child-Pugh class B or C cirrhosis and in the context of hepatic decompensation, 2 of whom died).</italic></p></annotation><pub-id pub-id-type="pmid">26658684</pub-id></mixed-citation>
+          </ref>
+          <ref id="Sofosbuvir.R86">
+            <mixed-citation publication-type="journal">Hoofnagle JH. Hepatic decompensation during direct-acting antiviral therapy of chronic hepatitis C. J Hepatol 2016; 64: 763-5. <annotation><p><italic toggle="yes">(Editorial in response to Welker [2016] discussing the occurrence of unexplained hepatic decompensation during antiviral therapy of hepatitis C and whether these episodes are coincidental, caused by hepatoxicity of the antiviral drugs, or are the paradoxical result of sudden eradication of the chronic viral infection). </italic></p></annotation><pub-id pub-id-type="pmid">26795828</pub-id></mixed-citation>
+          </ref>
+          <ref id="Sofosbuvir.R87">
+            <mixed-citation publication-type="journal">Lawitz E, Reau N, Hinestrosa F, Rabinovitz M, Schiff E, Sheikh A, Younes Z, et al. Efficacy of sofosbuvir, velpatasvir, and GS-9857 in patients with genotype 1 hepatitis C virus infection in an open-label, phase 2 trial. Gastroenterology 2016; 151: 893-901.e1. <annotation><p><italic toggle="yes"> (Among 197 patients with chronic hepatitis C, genotype 1, treated with sofosbuvir-velpatsavir-voxilaprevier for 6, 8 or 12 weeks, SVR rates were 100% with the 12 week regimen regardness of previous therapy or cirrhosis, while side effects were generally mild, but one patient with cirrhosis discontinued therapy early because of ALT levels above 5 times ULN and mild bilirubin increases, which resolved within 4 weeks of stopping).</italic></p></annotation><pub-id pub-id-type="pmid">27486034</pub-id></mixed-citation>
+          </ref>
+          <ref id="Sofosbuvir.R88">
+            <mixed-citation publication-type="journal">Gane EJ, Kowdley KV, Pound D, Stedman CA, Davis M, Etzkorn K, Gordon SC, et al. Efficacy of sofosbuvir, velpatasvir, and GS-9857 in patients with hepatitis C virus genotype 2, 3, 4, or 6 infections in an open-label, phase 2 trial. Gastroenterology 2016; 151: 902-9. <annotation><p><italic toggle="yes">(Among 128 patients with chronic hepatitis C, genotypes 2, 3, 4 or 6, who were treated with sofosbuvr-velpatsavir-voxilaprevirf or 6, 8 or 12 weeks, SVR rates were 97-100% with 12 weeks of therapy and adverse events were generally mild; no patient developed clinically apparent liver injury, hepatic decompensation or a late rise in serum ALT levels).</italic></p></annotation><pub-id pub-id-type="pmid">27486033</pub-id></mixed-citation>
+          </ref>
+          <ref id="Sofosbuvir.R89">
+            <mixed-citation publication-type="journal">Gane EJ, Schwabe C, Hyland RH, Yang Y, Svarovskaia E, Stamm LM, Brainard DM, et al. Efficacy of the combination of sofosbuvir, velpatasvir, and the NS3/4A protease inhibitor GS-9857 in treatment-na&#x000ef;ve or previously treated patients with hepatitis C virus genotype 1 or 3 infections. Gastroenterology 2016; 151: 448-456.e1. <annotation><p><italic toggle="yes"> (Among 161 patients with chronic hepatitis C treated with sofosbuvir, velpatasvir and voxilaprevir for 4, 6 or 8 weeks, SVR rates of 89-100% were obtained only with the 8-week courses, and no patient developed hepatic decompensation or clinically apparent liver injury with jaundice).</italic></p></annotation><pub-id pub-id-type="pmid">27240903</pub-id></mixed-citation>
+          </ref>
+          <ref id="Sofosbuvir.R90">
+            <mixed-citation publication-type="journal">Lawitz E, Poordad F, Hyland RH, Wang J, Liu L, Dvory-Sobol H, Brainard DM, et al. Ledipasvir/sofosbuvir-based treatment of patients with chronic genotype-1 HCV infection and cirrhosis: results from two Phase II studies. Antivir Ther 2016; 21: 679-87. <annotation><p><italic toggle="yes">(Among 146 patients with cirrhosis and chronic hepatitis C, genotype 1, treated with 8 weeks of sofosbuvir and ledipasvir combined with ribavirin, vedroprevir or GS9669, the SVR rate ranged from 82-95% and no liver related adverse events were reported).</italic></p></annotation><pub-id pub-id-type="pmid">27348483</pub-id></mixed-citation>
+          </ref>
+          <ref id="Sofosbuvir.R91">
+            <mixed-citation publication-type="journal">Ingiliz P, Christensen S, Kimhofer T, Hueppe D, Lutz T, Schewe K, Busch H, et al. Sofosbuvir and ledipasvir for 8 weeks for the treatment of chronic hepatitis C virus (HCV) infection in HCV-monoinfected and HIV-HCV-coinfected individuals: results from the German Hepatitis C Cohort (GECCO-01). Clin Infect Dis 2016; 63: 1320-4. <annotation><p><italic toggle="yes"> (Among 193 patients with chronic hepatitis C treated with sofosbuvir and ledipasvir for 8 weeks, 186 [94%] had an SVR; serious adverse events were not reported).</italic></p></annotation><pub-id pub-id-type="pmid">27535952</pub-id></mixed-citation>
+          </ref>
+          <ref id="Sofosbuvir.R92">
+            <mixed-citation publication-type="journal">Kwok RM, Ahn J, Schiano TD, Te HS, Potosky DR, Tierney A, Satoskar R, et al. Sofosbuvir plus ledispasvir for recurrent hepatitis C in liver transplant recipients. Liver Transpl 2016; 22: 1536-43. <annotation><p><italic toggle="yes">(Among 204 patients with chronic hepatitis C after liver transplantation who were treated with sofosbuvir and ledipasvir for 8 or 12 weeks, the SVR rate was 96% and "no significant serious adverse events were documented" although 4 patients died, and one suffered graft rejection and one stopped therapy early because of a rise in both ALT and bilirubin levels).</italic></p></annotation><pub-id pub-id-type="pmid">27543748</pub-id></mixed-citation>
+          </ref>
+          <ref id="Sofosbuvir.R93">
+            <mixed-citation publication-type="journal">Ben&#x000ed;tez-Guti&#x000e9;rrez L, de Mendoza C, Ba&#x000f1;os I, Duca A, Arias A, Trevi&#x000f1;o A, Requena S, et al. Drug-induced lung injury in a liver transplant patient treated With sofosbuvir. Transplant Proc 2016; 48: 2515-8. <annotation><p><italic toggle="yes">(Among 24 liver transplant recipients with chronic hepatitis C treated with sofosbuvir containing antiviral regimens, 23 [95%] achieved an SVR, but one developed severe respiratory failure [suspected drug induced lung injury] 10 days after starting therapy, which was successfully treated with prednisone and she was later was successfully treated with 24 weeks of daclatasvir and simeprevir and achieved an SVR).</italic></p></annotation><pub-id pub-id-type="pmid">27742338</pub-id></mixed-citation>
+          </ref>
+          <ref id="Sofosbuvir.R94">
+            <mixed-citation publication-type="journal">Alonso S, Riveiro-Barciela M, Fernandez I, Rinc&#x000f3;n D, Real Y, Llerena S, Gea F, et al. Effectiveness and safety of sofosbuvir-based regimens plus an NS5A inhibitor for patients with HCV genotype 3 infection and cirrhosis. results of a multicenter real-life cohort. J Viral Hepat 2017; 24: 304-11. <annotation><p><italic toggle="yes">(Among 208 cirrhotic patients with chronic hepatitis C, genotype 3, treated with sofosbuvir and either daclatasvir or lepidasvir with or without ribavirin, the overall SVR rate was 94% and 7 patients developed hepatic decompensation, 3 of whom died).</italic></p></annotation><pub-id pub-id-type="pmid">27935168</pub-id></mixed-citation>
+          </ref>
+          <ref id="Sofosbuvir.R95">
+            <mixed-citation publication-type="journal">Pol S, Bourliere M, Lucier S, Hezode C, Dorival C, Larrey D, Bronowicki JP, et al.; ANRS/AFEF HEPATHER study group. Safety and efficacy of daclatasvir-sofosbuvir in HCV genotype 1-mono-infected patients. J Hepatol 2017; 66: 39-47. <annotation><p><italic toggle="yes"> (Among 768 patients with chronic hepatitis C treated in community practice with sofosbuvir and daclatasvir, the overall SVR rate was 95% and was similar for 12 and 24 weeks of treatment, with or without ribavirin; there were 5 deaths, 2 from end stage liver disease that were considered unrelated to therapy).</italic></p></annotation><pub-id pub-id-type="pmid">27622858</pub-id></mixed-citation>
+          </ref>
+          <ref id="Sofosbuvir.R96">
+            <mixed-citation publication-type="journal">Welzel TM, Petersen J, Herzer K, Ferenci P, Gschwantler M, Wedemeyer H, Berg T, et al. Daclatasvir plus sofosbuvir, with or without ribavirin, achieved high sustained virological response rates in patients with HCV infection and advanced liver disease in a real-world cohort. Gut 2016; 65: 1861-70. <annotation><p><italic toggle="yes"> (Among 460 patients with chronic hepatitis C treated with sofosbuvir and daclatasvir in a European compassionate use program between 2014 and 2015, the overall SVR rate was 91%, while 94 [19%] had a serious adverse event and 28 died [6%], most commonly from hepatic failure; there were no reports of reactivation of hepatitis B).</italic></p></annotation><pub-id pub-id-type="pmid">27605539</pub-id></mixed-citation>
+          </ref>
+          <ref id="Sofosbuvir.R97">
+            <mixed-citation publication-type="journal">Sperl J, Horvath G, Halota W, Ruiz-Tapiador JA, Streinu-Cercel A, Jancoriene L, Werling K, et al. Efficacy and safety of elbasvir/grazoprevir and sofosbuvir/pegylated interferon/ribavirin: A phase III randomized controlled trial. J Hepatol 2016; 65: 1112-9. <annotation><p><italic toggle="yes">(Among 257 patients with chronic hepatitis C, genotypes 1 and 4, SVR rates were 99% with 12 weeks of elbasvir and grazoprevir and 90.5% with 12 weeks of sofosbuvir, peginterferon and ribavirin; adverse events were more frequent in the interferon treated subjects, but there were no deaths and no liver related serious adverse events or late ALT elevations).</italic></p></annotation><pub-id pub-id-type="pmid">27542322</pub-id></mixed-citation>
+          </ref>
+          <ref id="Sofosbuvir.R98">
+            <mixed-citation publication-type="journal">Feld JJ, Maan R, Zeuzem S, Kuo A, Nelson DR, Di Bisceglie AM, Manns MP, et al. Effectiveness and safety of sofosbuvir-based regimens for chronic HCV genotype 3 infection: results of the HCV-TARGET Study. Clin Infect Dis 2016; 63: 776-83. <annotation><p><italic toggle="yes"> (Among 178 patients with chronic hepatitis C, genotype 3, treated with sofosbuvir and ribavirin, the overall response rate was 60% and 11 patients had a decompensation event, arising 0.1 to 24 weeks after starting, all with a previous history of decompensation).</italic></p></annotation><pub-id pub-id-type="pmid">27325691</pub-id></mixed-citation>
+          </ref>
+          <ref id="Sofosbuvir.R99">
+            <mixed-citation publication-type="journal">Coilly A, Fougerou-Leurent C, de Ledinghen V, Houssel-Debry P, Duvoux C, Di Martino V, Radenne S, et al.; ANRS C023 CUPILT study group. Multicentre experience using daclatasvir and sofosbuvir to treat hepatitis C recurrence - The ANRS CUPILT study. J Hepatol 2016; 65: 711-8. <annotation><p><italic toggle="yes">(Among 137 patients with recurrent hepatitis C after liver transplantation treated in a compassionate use program with sofosbuvir and daclatasvir between 2013 and 2015, the overall SVR rate was 96% and was no higher with addition of ribavirin; the serious adverse event rate was 18%, 2 patients had an episode of graft rejection, and 2 died [1.5%], one of hyperosmolar coma arising within a week of starting therapy and one of hepatocellular carcinoma).</italic></p></annotation><pub-id pub-id-type="pmid">27262758</pub-id></mixed-citation>
+          </ref>
+          <ref id="Sofosbuvir.R100">
+            <mixed-citation publication-type="journal">Bourli&#x000e8;re M, Gordon SC, Flamm SL, Cooper CL, Ramji A, Tong M, Ravendhran N, et al.; POLARIS-1 and POLARIS-4 Investigators. Sofosbuvir, velpatasvir, and voxilaprevir for previously treated HCV infection. N Engl J Med 2017; 376: 2134-46. <annotation><p><italic toggle="yes">(Among 708 patients with chronic hepaittis C and previous therapy direct acting antivirals, SVR rates were 98% for sofosbuvir-velpatasvir-voxilaprevir vs 91% with sofosbuvir-velpatasvir alone and adverse events more frequent with triple therapy included headache, diarrhea and nausea; only one patient had an ALT elevation above 5 times ULN).</italic></p></annotation><pub-id pub-id-type="pmid">28564569</pub-id></mixed-citation>
+          </ref>
+          <ref id="Sofosbuvir.R101">
+            <mixed-citation publication-type="journal">Jacobson IM, Lawitz E, Gane EJ, Willems BE, Ruane PJ, Nahass RG, Borgia SM, et al. Efficacy of 8 weeks of sofosbuvir, velpatasvir, and voxilaprevir in patients with chronic HCV infection: 2 phase 3 randomized trials. Gastroenterology 2017; 153: 113-22. <annotation><p><italic toggle="yes">(Among 828 treatment-naive patients with chronic hepatitis C, genotypes 1 through 6, who were treated with 8 weeks of sofosbuvir-velpatasvir-voxilaprevir or 12 weeks of sofosbuvir-velpatasvir alone, SVR rates were 95-98%, and adverse events were generally mild, one patient developed transient elevations of ALT more than 5 times ULN, but there were no serious hepatic adverse events and no early discontinuations for liver related test abnormalities).</italic></p></annotation><pub-id pub-id-type="pmid">28390869</pub-id></mixed-citation>
+          </ref>
+          <ref id="Sofosbuvir.R102">
+            <mixed-citation publication-type="journal">Lawitz E, Poordad F, Wells J, Hyland RH, Yang Y, Dvory-Sobol H, Stamm LM, et al. Sofosbuvir-velpatasvir-voxilaprevir with or without ribavirin in direct-acting antiviral-experienced patients with genotype 1 hepatitis C virus. Hepatology 2017; 65: 1803-9. <annotation><p><italic toggle="yes">(Among 49 patients with chronic hepatitis C, genotype 1, previously treated with direct acting antiviral agents, who were treated with sofosbuvir-velpatasivr-voxilaprevir, with or without ribavirin for 12 weeks, all except 1 had an SVR and adverse events were generally mild, one patient developed transient elevations of ALT more than 5 times ULN, but there were no serious hepatic adverse events and no early discontinuations for liver related test abnormalities).</italic></p></annotation><pub-id pub-id-type="pmid">28220512</pub-id></mixed-citation>
+          </ref>
+          <ref id="Sofosbuvir.R103">
+            <mixed-citation publication-type="journal">Gane EJ, Shiffman ML, Etzkorn K, Morelli G, Stedman C, Davis MN, Hinestrosa F, et al.; GS-US-342-1553 Investigators. Sofosbuvir-velpatasvir with ribavirin for 24 weeks in HCV patients previously treated with a direct-acting antiviral regimen. Hepatology 2017; 66: 1083-9. <annotation><p><italic toggle="yes"> (Among 69 patients with chronic hepatitis C who had failed to respond to a course of direct acting antiviral therapy and were treated with a 24-week course of sofosbuvir-velpatasvir and ribavirin, the SVR rate was 91% and adverse events were largely due to ribavirin, and there were no ALT elevations after the initial decrease).</italic></p></annotation><pub-id pub-id-type="pmid">28498551</pub-id></mixed-citation>
+          </ref>
+          <ref id="Sofosbuvir.R104">
+            <mixed-citation publication-type="journal">Liu CJ, Chuang WL, Sheen IS, Wang HY, Chen CY, Tseng KC, Chang TT, et al. Efficacy of ledipasvir and sofosbuvir treatment of HCV infection in patients coinfected with HBV. Gastroenterology 2018; 154: 989-97. <annotation><p><italic toggle="yes"> (Among 111 Taiwanese patients with chronic hepatitis C and HBsAg in serum who were treated with sofosbuvir and ledipasvir for 12 weeks, all achieved an SVR [100%] and 31 of 37 [87%] without detectable HBV DNA initially developed low levels during therapy, while 39 of 74 [53%] with detectable HBV DNA initially had a rise in concentration; only 5 of the 70 patients with HBV reactivation had modest ALT elevations of whom 3 received anti-HBV therapy).</italic></p></annotation><pub-id pub-id-type="pmid">29174546</pub-id></mixed-citation>
+          </ref>
+          <ref id="Sofosbuvir.R105">
+            <mixed-citation publication-type="journal">Bersoff-Matcha SJ, Cao K, Jason M, Ajao A, Jones SC, Meyer T, Brinker A. Hepatitis B virus reactivation associated with direct-acting antiviral therapy for chronic hepatitis C virus: a review of cases reported to the U.S. Food and Drug Administration adverse event reporting system. Ann Intern Med 2017; 166: 792-8. <annotation><p><italic toggle="yes"> (FDA summary of 29 reports of HBV reactivation among patients with chronic hepatitis C being treated with DAAs, presenting 14-196 days after starting therapy with various DAA regimens, 3 resulting in death, 19 from Japan, 5 from the US, many treated after a delay in identifying the cause of sudden worsening of liver disease).</italic></p></annotation><pub-id pub-id-type="pmid">28437794</pub-id></mixed-citation>
+          </ref>
+          <ref id="Sofosbuvir.R106">
+            <mixed-citation publication-type="journal">Mahale P, Glenn JS, O'Brien TR. Hepatitis B virus reactivation associated with direct-acting antiviral therapy for chronic hepatitis C virus. Ann Intern Med 2017; 167: 759-60. <annotation><p><italic toggle="yes"> (Letter in response to Bersoff-Matcha [2017] suggesting that some cases of sudden worsening of liver disease in HBsAg positive patients might be due to superinfections with hepatitis D [Delta] virus).</italic></p></annotation><pub-id pub-id-type="pmid">29159388</pub-id></mixed-citation>
+          </ref>
+          <ref id="Sofosbuvir.R107">
+            <mixed-citation publication-type="journal">Bersoff-Matcha SJ, Cao K, Jason M, Jones SC, Brinker A. Hepatitis B virus reactivation associated with direct-acting antiviral therapy for chronic hepatitis C virus. Ann Intern Med 2017; 167: 760. <annotation><p><italic toggle="yes">(Reply to the letter to the editor by Mahale [2017] by the authors).</italic></p></annotation><pub-id pub-id-type="pmid">29159389</pub-id></mixed-citation>
+          </ref>
+          <ref id="Sofosbuvir.R108">
+            <mixed-citation publication-type="journal">Serper M, Forde KA, Kaplan DE. Rare clinically significant hepatic events and hepatitis B reactivation occur more frequently following rather than during direct-acting antiviral therapy for chronic hepatitis C: Data from a national US cohort. J Viral Hepat 2018; 25: 187-97. <annotation><p><italic toggle="yes">(Analysis of the large VA Medical system database of 17,400 veterans with chronic hepaittis C as well as anti-HBc who received oral DAA therapy, identified only 2 cases of HBV reactivation with serum ALT elevations above 300 U/L among 97 HBsAg positive patients).</italic></p></annotation><pub-id pub-id-type="pmid">28845882</pub-id></mixed-citation>
+          </ref>
+          <ref id="Sofosbuvir.R109">
+            <mixed-citation publication-type="journal">Aggeletopoulou I, Konstantakis C, Manolakopoulos S, Triantos C. Risk of hepatitis B reactivation in patients treated with direct-acting antivirals for hepatitis C. World J Gastroenterol 2017; 23: 4317-23. <annotation><p><italic toggle="yes">(Reivew of the litrature on reactivation of HBV during antiviral therapy of chronic hepatitis C summarizing 7 cases in the literature).</italic></p></annotation><pub-id pub-id-type="pmid">28706414</pub-id></mixed-citation>
+          </ref>
+          <ref id="Sofosbuvir.R110">
+            <mixed-citation publication-type="journal">Calvaruso V, Ferraro D, Licata A, Bavetta MG, Petta S, Bronte F, Colomba G, et al. HBV reactivation in patients with HCV/HBV cirrhosis on treatment with direct-acting antivirals. J Viral Hepat 2018; 25: 72-9. <annotation><p><italic toggle="yes">(Among 104 patients with cirrhosis and chronic hepatitis C who were treated with DAAs, reactivation of HBV occurred in 3 of 4 HBsAg positive patients not on anti-HBV therapy, but none developed ALT elevations or clinically apparent acute liver injury).</italic></p></annotation><pub-id pub-id-type="pmid">28703895</pub-id></mixed-citation>
+          </ref>
+          <ref id="Sofosbuvir.R111">
+            <mixed-citation publication-type="journal">Loggi E, Gitto S, Galli S, Minichiello M, Conti F, Grandini E, Scuteri A, et al. Hepatitis B virus reactivation among hepatitis C patients treated with direct-acting antiviral therapies in routine clinical practice. J Clin Virol 2017; 93: 66-70. <annotation><p><italic toggle="yes">(Among 137 Italian adults with chronic hepatitis C treated with DAAs during a one year period, reactivation [without ALT elevations] occurred in 1 of 2 subjects with HBsAg, but in none of 42 with anti-HBc without HBsAg).</italic></p></annotation><pub-id pub-id-type="pmid">28654775</pub-id></mixed-citation>
+          </ref>
+          <ref id="Sofosbuvir.R112">
+            <mixed-citation publication-type="journal">Huang R, Yan X, Xia J, Wang J, Wu C. Letter: hepatitis B virus reactivation in patients with chronic hepatitis C during direct-acting anti-viral therapy. Aliment Pharmacol Ther 2017; 45: 1558. <annotation><p><italic toggle="yes">(Letter in response to Londono [2017] pointing out the differing definitions of HBV reactivation and "occult" hepatitis B used in the literature).</italic></p></annotation><pub-id pub-id-type="pmid">28503862</pub-id></mixed-citation>
+          </ref>
+          <ref id="Sofosbuvir.R113">
+            <mixed-citation publication-type="journal">Londo&#x000f1;o MC, Carri&#x000f3;n JA, Forns X. Letter: hepatitis B reactivation in patients with chronic hepatitis C during direct-acting antiviral therapy-authors' reply. Aliment Pharmacol Ther 2017; 45: 1559-60. <annotation><p><italic toggle="yes">(Reply to the letter to the editor by Huang [2017] by the authors).</italic></p></annotation><pub-id pub-id-type="pmid">28503869</pub-id></mixed-citation>
+          </ref>
+          <ref id="Sofosbuvir.R114">
+            <mixed-citation publication-type="journal">Kawagishi N, Suda G, Onozawa M, Kimura M, Maehara O, Ito J, Nakai M, et al. Hepatitis B virus reactivation during hepatitis C direct-acting antiviral therapy in patients with previous HBV infection. J Hepatol 2017; 67: 1106-8. <annotation><p><italic toggle="yes">(Letter describing course of 5 of 84 patients with chronic hepatitis C and serologic evidence of previous HBV infection [anti-HBc without HBsAg] developed evidence of HBV reactivation during various DAA regimens that was not accompanied by ALT elevations, but was persistent after DAA treatment in two patients).</italic></p></annotation><pub-id pub-id-type="pmid">28438688</pub-id></mixed-citation>
+          </ref>
+          <ref id="Sofosbuvir.R115">
+            <mixed-citation publication-type="journal">Fabbri G, Mastrorosa I, Vergori A, Mazzotta V, Pinnetti C, Grisetti S, Zaccarelli M, et al. Reactivation of occult HBV infection in an HIV/HCV co-infected patient successfully treated with sofosbuvir/ledipasvir: a case report and review of the literature. BMC Infect Dis 2017; 17: 182. <annotation><p><italic toggle="yes"> (54 year old woman with HCV/HIV coinfection and anti-HBc without HBsAg in serum developed reactivation of hepatitis B [HBsAg and HBeAg positive] with acute hepatitis and jaundice 4 weeks after stoping DAA therapy [bilirubin 7.1 mg/dL&#x0003c; ALT 435 U/L, HBV DNA 6.1 log IU/mL], jaundice and aminotransferase elevations resolving within a month of starting entecavir).</italic></p></annotation><pub-id pub-id-type="pmid">28249574</pub-id></mixed-citation>
+          </ref>
+          <ref id="Sofosbuvir.R116">
+            <mixed-citation publication-type="journal">Belperio PS, Shahoumian TA, Mole LA, Backus LI. Evaluation of hepatitis B reactivation among 62,920 veterans treated with oral hepatitis C antivirals. Hepatology 2017; 66: 27-36. <annotation><p><italic toggle="yes">(Analysis of VA Medical Database of 62,920 veterans with chronic hepatitis C treated with oral DAAs of whom 9 had evidence of HBV reactivation, 8 in patients with HBsAg and 1 with anti-HBc without HBsAg in serum, but only 3 patients had ALT elevations above twice ULN).</italic></p></annotation><pub-id pub-id-type="pmid">28240789</pub-id></mixed-citation>
+          </ref>
+          <ref id="Sofosbuvir.R117">
+            <mixed-citation publication-type="journal">Yeh ML, Huang CF, Hsieh MH, Ko YM, Chen KY, Liu TW, Lin YH, et al. Reactivation of hepatitis B in patients of chronic hepatitis C with hepatitis B virus infection treated with direct acting antivirals. J Gastroenterol Hepatol 2017; 32: 1754-62. <annotation><p><italic toggle="yes"> (Among 64 patients with chronic hepatitis C and serologic evidence of ongoing or previous HBV infection who were treated with various DAA regimens, 4 of 7 HBsAg positive [57%], but none of 57 anti-HBc positive, HBsAg negative subjects developed HBV reactivation but all cases were subclinical, ALT elevations occurring in only one).</italic></p></annotation><pub-id pub-id-type="pmid">28230928</pub-id></mixed-citation>
+          </ref>
+          <ref id="Sofosbuvir.R118">
+            <mixed-citation publication-type="journal">Londo&#x000f1;o MC, Lens S, Mari&#x000f1;o Z, Bonacci M, Ariza X, Broquetas T, Pla A, et al. Hepatitis B reactivation in patients with chronic hepatitis C undergoing anti-viral therapy with an interferon-free regimen. Aliment Pharmacol Ther 2017; 45: 1156-61. <annotation><p><italic toggle="yes"> (Among 352 patients with chronic hepatitis C receiving DAA treatment, 5 of 10 [50%] with concurrent HBsAg and 1 of 64 with anti-HBc without HBsAg developed a 1 log IU/mL increase in HBV DNA levels, but elevations were modest and none developed ALT elevations or clinically apparent liver injury).</italic></p></annotation><pub-id pub-id-type="pmid">28206681</pub-id></mixed-citation>
+          </ref>
+          <ref id="Sofosbuvir.R119">
+            <mixed-citation publication-type="journal">Kawagishi N, Suda G, Onozawa M, Kimura M, Maehara O, Ohara M, Izumi T, et al. Comparing the risk of hepatitis B virus reactivation between direct-acting antiviral therapies and interferon-based therapies for hepatitis C. J Viral Hepat 2017; 24: 1098-106. <annotation><p><italic toggle="yes">(Among 151 patients with chronic hepatitis C undergoing antiviral therapy, reactivation of HBV occurred in 1 of 4 patients with HBsAg in serum, and 5 of 151 with anti-HBc without HBsAg, but peak HBV DNA levels were low and all cases were without ALT elevations or symptoms and all 6 occurred in 79 patients receiving oral DAAs [8%] and none in the 72 who received interferon-based therapies [0%]).</italic></p></annotation><pub-id pub-id-type="pmid">28632923</pub-id></mixed-citation>
+          </ref>
+          <ref id="Sofosbuvir.R120">
+            <mixed-citation publication-type="journal">M&#x000fc;cke VT, M&#x000fc;cke MM, Peiffer KH, Weiler N, Welzel TM, Sarrazin C, Zeuzem S, et al. No evidence of hepatitis B virus reactivation in patients with resolved infection treated with direct-acting antivirals for hepatitis C in a large real-world cohort. Aliment Pharmacol Ther 2017; 46: 432-9. <annotation><p><italic toggle="yes">(Among 848 patients with chronic hepatitis C treated in the "real world" with DAAs, 5 of 9 patients with HBsAg developed HBV reactivation [3 ultimately requiring anti-HBV therapy] and 8 of 263 patients with anti-HBc without HBsAg had low, but detectable levels of HBV DNA during therapy, but without ALT elevations).</italic></p></annotation><pub-id pub-id-type="pmid">28627791</pub-id></mixed-citation>
+          </ref>
+          <ref id="Sofosbuvir.R121">
+            <mixed-citation publication-type="journal">In brief: Hepatitis B reactivation with direct-acting antiviral drugs for hepatitis C. Med Lett Drugs Ther 2016; 58 (1506): 140. <annotation><p><italic toggle="yes">(Brief summary of the FDA warning letter concerning HBV reactivation caused by DAA therapies of hepatitis C).</italic></p></annotation><pub-id pub-id-type="pmid">27755511</pub-id></mixed-citation>
+          </ref>
+          <ref id="Sofosbuvir.R122">
+            <mixed-citation publication-type="journal">Sulkowski MS, Chuang WL, Kao JH, Yang JC, Gao B, Brainard DM, Han KH, et al. No evidence of reactivation of hepatitis B virus among patients treated with ledipasvir-sofosbuvir for hepatitis C virus infection. Clin Infect Dis 2016; 63: 1202-4. <annotation><p><italic toggle="yes"> (Among 173 Taiwanese and Korean patients with chronic hepatitis C treated with 12 weeks of sofosbuvir and ledipasvir, the SVR rate was 98% and retrospective testing of follow up samples demonstrated anti-HBc without HBsAg in 103 [60%], two of whom had low and unquantifiable levels of HBV DNA, but none had acute ALT elevations or clinical evidence of HBV reactivation).</italic></p></annotation><pub-id pub-id-type="pmid">27486112</pub-id></mixed-citation>
+          </ref>
+          <ref id="Sofosbuvir.R123">
+            <mixed-citation publication-type="journal">Wang C, Ji D, Chen J, Shao Q, Li B, Liu J, Wu V, et al. Hepatitis due to Reactivation of hepatitis B virus in endemic areas among patients with hepatitis C treated with direct-acting antiviral agents. Clin Gastroenterol Hepatol 2017; 15: 132-6. <annotation><p><italic toggle="yes"> (Among 327 Chinese patients with chronic hepatitis C treated with various DAA regimens, the overall SVR rate was 99% and 3 of 10 patients [30%] with HBsAg in serum developed clinically apparent HBV reactivation [and one died], compared to one of 124 patients [1%] with anti-HBc without HBsAg and none of 193 without anti-HBc).</italic></p></annotation><pub-id pub-id-type="pmid">27392759</pub-id></mixed-citation>
+          </ref>
+          <ref id="Sofosbuvir.R124">
+            <mixed-citation publication-type="journal">Hayashi K, Ishigami M, Ishizu Y, Kuzuya T, Honda T, Nishimura D, Goto H, et al. A case of acute hepatitis B in a chronic hepatitis C patient after daclatasvir and asunaprevir combination therapy: hepatitis B virus reactivation or acute self-limited hepatitis? Clin J Gastroenterol 2016; 9: 252-6. <annotation><p><italic toggle="yes"> (83 year old woman with chronic hepatitis C and no HBsAg in serum was treated with daclatasvir and asunapevir and achieved an SVR, but presented 5 months later with an acute reactivation of hepatitis B).</italic></p></annotation><pub-id pub-id-type="pmid">27329484</pub-id></mixed-citation>
+          </ref>
+          <ref id="Sofosbuvir.R125">
+            <mixed-citation publication-type="journal">Takayama H, Sato T, Ikeda F, Fujiki S. Reactivation of hepatitis B virus during interferon-free therapy with daclatasvir and asunaprevir in patient with hepatitis B virus/hepatitis C virus co-infection. Hepatol Res 2016; 46: 489-91. <annotation><p><italic toggle="yes"> (69 year old Japanese man with chronic hepatitis C and HBsAg in serum with low levels of HBV DNA developed reactivation of HBV 5 to 6 weeks after starting daclatasvir and asunaprevir with rise in ALT levels to 237 U/L, HBV DNA 10 million IU/mL and response to withdrawal of HCV therapy and addition of entecavir).</italic></p></annotation><pub-id pub-id-type="pmid">26297529</pub-id></mixed-citation>
+          </ref>
+          <ref id="Sofosbuvir.R126">
+            <mixed-citation publication-type="journal">Kutala BK, Mouri F, Castelnau C, Bouton V, Giuily N, Boyer N, Asselah T, et ak. Efficacy and safety of sofosbuvir-based therapies in patients with advanced liver disease in a real-life cohort. Hepat Med 2017; 9: 67-73. <annotation><p><italic toggle="yes"> (Among 374 patients with chronic hepatitis C and cirrhosis or advanced fibrosis who were treated with sofosbuvir, SVR rates were 82% with ribavirin, 97% with daclatasvir and 79% with simeprevir, and hepatic decompensation occurred in only one patient who received ribavirin; no details provided).</italic></p></annotation><pub-id pub-id-type="pmid">29296102</pub-id></mixed-citation>
+          </ref>
+          <ref id="Sofosbuvir.R127">
+            <mixed-citation publication-type="journal">Navarro J, Laguno M, Vilchez HH, Guardiola JM, Carrion JA, Force L, Cair&#x000f3; M, et al.; Catalano-Balear Study Group. Efficacy and safety of direct antiviral agents in a cohort of cirrhotic HCV/HIV-coinfected patients. J Antimicrob Chemother 2017; 72: 2850-6. <annotation><p><italic toggle="yes">(Among 170 cirrhotic patients with chronic hepatitis C and HIV coinfection treated with DAAs at 13 Spanish hospitals, the overall SVR rate was 93% and 4 patients [2.4%] developed hepatic decompensation during therapy).</italic></p></annotation><pub-id pub-id-type="pmid">29091196</pub-id></mixed-citation>
+          </ref>
+          <ref id="Sofosbuvir.R128">
+            <mixed-citation publication-type="journal">Medeiros T, Salviato CM, do Ros&#x000e1;rio NF, Saraiva GDN, Esberard EBC, Almeida JR, Xavier AR, et al. Adverse effects of direct acting antiviral-based regimens in chronic hepatitis C patients: a Brazilian experience. Int J Clin Pharm 2017; 39: 1304-11. <annotation><p><italic toggle="yes">(Among 102 Brazilian patients with chronic hepatitis C treated with DAAs for 12 or 24 weeks, 100% had an SVR and adverse events were usually mild; no mention of ALT elevations or hepatic decompensation).</italic></p></annotation><pub-id pub-id-type="pmid">29079938</pub-id></mixed-citation>
+          </ref>
+          <ref id="Sofosbuvir.R129">
+            <mixed-citation publication-type="journal">Wyles D, Br&#x000e4;u N, Kottilil S, Daar ES, Ruane P, Workowski K, Luetkemeyer A, et al; ASTRAL-5 Investigators. Sofosbuvir and velpatasvir for the treatment of hepatitis C virus in patients coinfected with human immunodeficiency virus type 1: an open-label, phase 3 study. Clin Infect Dis 2017; 65: 6-12. <annotation><p><italic toggle="yes"> (Among 106 patients with chronic hepatitis C and HIV coinfection treated with sofosbuvir and velpatasvir for 12 weeks, the SVR rate was 95% and serious adverse events occurred in only 2 patients, one of whom with cirrhosis had worsening of ALT and bilirubin levels and stopped therapy early but achieved an SVR).</italic></p></annotation><pub-id pub-id-type="pmid">28369210</pub-id></mixed-citation>
+          </ref>
+          <ref id="Sofosbuvir.R130">
+            <mixed-citation publication-type="journal">Calleja JL, Crespo J, Rinc&#x000f3;n D, Ruiz-Antor&#x000e1;n B, Fernandez I, Perell&#x000f3; C, Gea F, et al.; Spanish Group for the Study of the Use of Direct-acting Drugs Hepatitis C Collaborating Group. Effectiveness, safety and clinical outcomes of direct-acting antiviral therapy in HCV genotype 1 infection: Results from a Spanish real-world cohort. J Hepatol 2017; 66: 1138-48. <annotation><p><italic toggle="yes">(Among 1758 patients with chronic hepatitis C treated with sofosbuvir and ledipasvir with or without ribavirin at 35 Spanish centers, the SVR rate was 96%, and 97 patients had a serious adverse event and 16 hepatic decompensation [1%], all of whom had cirrhosis and 3 of whom died of liver failure).</italic></p></annotation><pub-id pub-id-type="pmid">28189751</pub-id></mixed-citation>
+          </ref>
+          <ref id="Sofosbuvir.R131">
+            <mixed-citation publication-type="journal">Suda KJ, Halbur DJ, Hunkler RJ, Matusiak LM, Schumock GT. Spending on hepatitis C antivirals in the United States, 2009-2015. Pharmacotherapy 2017; 37: 65-70. <annotation><p><italic toggle="yes">(Analysis of expenditures for therapy of hepatitis C in the US between 2009 and 2015 showed a rise from $77 million in 2009 to $1 billion in 2011 and $18 billion in 2015, the major expenditures being for sofosbuvir).</italic></p></annotation><pub-id pub-id-type="pmid">27859444</pub-id></mixed-citation>
+          </ref>
+          <ref id="Sofosbuvir.R132">
+            <mixed-citation publication-type="journal">Tamori A, Abiru S, Enomoto H, Kioka K, Korenaga M, Tani J, Enomoto M, et al. Low incidence of hepatitis B virus reactivation and subsequent hepatitis in patients with chronic hepatitis C receiving direct-acting antiviral therapy. J Viral Hepat 2018; 25: 608-11. <annotation><p><italic toggle="yes">(Among patients with chronic hepatitis C treated with DAAs, HBV reactivation occurred in 3 of 22 patients [14%] with concurrent HBsAg [and not on anti-HBV therapy] and in 1 of 765 [&#x0003c;1%] with resolved hepatitis B, but none of the affected patients had ALT elevations or clinically apparent acute liver injury).</italic></p></annotation><pub-id pub-id-type="pmid">29194858</pub-id></mixed-citation>
+          </ref>
+          <ref id="Sofosbuvir.R133">
+            <mixed-citation publication-type="journal">Butt AA, Yan P, Shaikh OS, Abou-Samra AB. Hepatitis B reactivation and outcomes in persons treated with directly acting antiviral agents against hepatitis C virus: results from ERCHIVES. Aliment Pharmacol Ther 2018; 47: 412-20. <annotation><p><italic toggle="yes"> (Among patients with chronic hepatitis C treated in the VA Medical system, 9 of 377 [2%] with HBsAg receiving DAAs and 37 of 209 [18%] receiving peginterferon and ribavirin developed HBV reactivation).</italic></p></annotation><pub-id pub-id-type="pmid">29181838</pub-id></mixed-citation>
+          </ref>
+          <ref id="Sofosbuvir.R134">
+            <mixed-citation publication-type="journal">Buggisch P, Vermehren J, Mauss S, G&#x000fc;nther R, Schott E, Pathil A, Boeker K, et al. Real-world effectiveness of 8-week treatment with ledipasvir/sofosbuvir in chronic hepatitis C. J Hepatol 2017 Nov 11. pii: S0168-8278(17)32431-5. [Epub ahead of print] <annotation><p><italic toggle="yes">(Among 2,404 Germans with chronic hepatitis C treated with sofosbuvir and ledipasvir f in community practice, SVR rates were similar with 8 weeks [85.1%] as 12 weeks [85.5%], but serious adverse events were less common with 8 weeks [1.7% vs 2.8%]).</italic></p></annotation><pub-id pub-id-type="pmid">29133244</pub-id></mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec id="Sofosbuvir.OTHER_REFERENCE_LINKS" sec-type="link-group">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=(zonisamide+AND+isoxazoles/AE)+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%222009/11/1%22%5BEDat%5D%3A%222999/12/31%22%5BEDat%5D)">Recent References on Sofosbuvir: from PubMed.gov</ext-link>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=zonisamide">Trials on Sofosbuvir: from ClinicalTrials.gov</ext-link>
+            </p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

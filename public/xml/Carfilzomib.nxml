@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Carfilzomib" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Carfilzomib</book-part-id>
+      <title-group>
+        <title>Carfilzomib</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>17</day>
+          <month>1</month>
+          <year>2017</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="CardiacGlycosides" document-type="chapter">Cardiac Glycosides</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="CarglumicAcid" document-type="chapter">Carglumic Acid</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Carfilzomib.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Carfilzomib.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Carfilzomib is an irreversible proteasome inhibitor and antineoplastic agent that is used in treatment of refractory multiple myeloma. Carfilzomib is associated with a low rate of serum enzyme elevations during treatment and has been implicated to rare instances of clinically apparent, acute liver injury some of which have been fatal.</p>
+        </sec>
+        <sec id="Carfilzomib.Background">
+          <title>Background</title>
+          <p>Carfilzomib (kar filz&#x02019; oh mib) is an orally available, small molecule inhibitor of the 26S proteasome, the intracellular complex that degrades proteins involved in cell signaling and cell cycle regulation. Blocking proteasome activity prevents activation of factors involved in cell growth and resistance to chemotherapy induced apoptosis, leading to cancer cell death. Carfilzomib was the second proteasome inhibitor developed as an antineoplastic agent, differing from the initial (bortezomib) in being an irreversible inhibitor and not being metabolized by the CYP 3A4 system. Clinical trials of carfilzomib in patients with multiple myeloma showed at least partial responses in patients who were resistant to other antineoplastic agents including bortezomib. Carfilzomib received accelerated approval for use in the United States in 2012 for therapy of previously treated, refractory or relapsing multiple myeloma. Carfilzomib is available in powdered form in single use vials of 60 mg under the brand name Kyprolis. The typical starting dose is 20 mg per meter-squared per day intravenously for two days each week for 3 weeks, and then in cycles after a rest period. It is typically administered with dexamethasone with or without lenalidomide. Common side effects include fatigue, nausea, diarrhea, constipation, anorexia, fatigue, dyspnea, thrombocytopenia, neutropenia, anemia peripheral neuropathy, rash and fever. Infusion reactions are not uncommon with the first cycle of carfilzomib and dexamethasone pretreatment is recommended. Other uncommon, but potentially severe side effects include peripheral neuropathy, cardiac and pulmonary toxicity, bone marrow suppression and tumor lysis syndrome.</p>
+        </sec>
+        <sec id="Carfilzomib.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>In large clinical trials of carfilzomib, elevations in serum aminotransferase levels were common, occurring in 8% to 13% of patients. However, values greater than 5 times the upper limit of normal (ULN) were uncommon, occurring in 1% to 2% of recipients. In several studies there were reports of clinically apparent liver injury including acute liver failure in patients receiving carfilzomib; however, in most instances multiple concomitant medications were being taken (such as lenalidomide) and the specific role of carfilzomib in causing the liver injury was not always clear. The onset of injury was typically during the first cycle of therapy. The clinical features and pattern of injury in clinically apparent cases of liver injury due to carfilzomib have not been described in the published literature. Hepatotoxicity is listed as a warning in the product label for carfilzomib and monitoring of serum enzymes during treatment is recommended.</p>
+          <p>Likelihood score: D (Possible cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Carfilzomib.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The mechanisms of liver injury accounting for serum enzyme elevations and hepatic toxicity during carfilzomib therapy are not known. Carfilzomib is metabolized peripherally by plasma peptidases and only a proportion is metabolized in the liver through the CYP 3A4 pathway. Carfilzomib has minimal effect on CYP 3A4 activity and does not appear to be susceptible to drug-drug interactions with agents that inhibit or induce hepatic CYP 3A4 activity.</p>
+        </sec>
+        <sec id="Carfilzomib.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>Serum aminotransferase elevations above 5 times the upper limit of normal (if confirmed) should lead to dose reduction or temporary cessation. Clinically apparent liver injury should prompt immediate interruption of carfilzomib therapy. There is little information on cross reactivity in risk for hepatic injury between carfilzomib and other cancer chemotherapeutic agents, including the tyrosine kinase inhibitors and other proteasome inhibitors such as bortezomib.</p>
+          <p>Drug Class: <related-object source-id="livertox" document-id="AntineoplasticAgents">Antineoplastic Agents</related-object>, <related-object source-id="livertox" document-id="ProteinKinaseInhibit">Protein Kinase Inhibitors</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Carfilzomib.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <boxed-text position="anchor" id="Carfilzomib.BPI" orientation="portrait">
+          <p>
+            <bold>REPRESENTATIVE TRADE NAMES</bold>
+          </p>
+          <p>Carfilzomib &#x02013; Kyprolis&#x000ae;</p>
+          <p>
+            <bold>DRUG CLASS</bold>
+          </p>
+          <p>Antineoplastic Agents</p>
+          <p>
+            <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?label=all&#x00026;query=Carfilzomib">COMPLETE LABELING</ext-link>
+          </p>
+          <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+        </boxed-text>
+      </sec>
+      <sec id="Carfilzomib.CHEMICAL_FORMULA_AND_STRUCTU">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Carfilzomib.T1" position="anchor" orientation="portrait">
+          <table>
+            <thead>
+              <tr>
+                <th id="hd_h_Carfilzomib.T1_1_1_1_1" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Carfilzomib.T1_1_1_1_2" rowspan="1" colspan="1">CAS REGISTRY NO.</th>
+                <th id="hd_h_Carfilzomib.T1_1_1_1_3" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Carfilzomib.T1_1_1_1_4" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Carfilzomib.T1_1_1_1_1" rowspan="1" colspan="1">Carfilzomib</td>
+                <td headers="hd_h_Carfilzomib.T1_1_1_1_2" rowspan="1" colspan="1">
+                  <bold>
+                    <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135195928">868540-17-4</ext-link>
+                  </bold>
+                </td>
+                <td headers="hd_h_Carfilzomib.T1_1_1_1_3" rowspan="1" colspan="1">C40-H57-N5-O7</td>
+                <td headers="hd_h_Carfilzomib.T1_1_1_1_4" rowspan="1" colspan="1">
+                  <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Carfilzomib_structure.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait">
+                    <alt-text>Carfilzomib chemical structure</alt-text>
+                  </graphic>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Carfilzomib.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 17 January 2017</p>
+        <ref-list id="Carfilzomib.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Carfilzomib.R1">
+            <mixed-citation publication-type="other">Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999.<annotation><p><italic toggle="yes">(Review of hepatotoxicity published in 1999 before the availability of proteasome inhibitors such as bortezomib or carfilzomib).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Carfilzomib.R2">
+            <mixed-citation publication-type="other">DeLeve LD. Erlotinib. Cancer chemotherapy. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013, pp. 556.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of cancer chemotherapeutic agents; bortezomib is listed as causing hepatocellular injury, but carfilzomib is not discussed).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Carfilzomib.R3">
+            <mixed-citation publication-type="other">Chabner BA, Barnes J, Neal J, Olson E, Mujagic H, Sequist L, Wilson W, et al. Targeted therapies: tyrosine kinase inhibitors, monoclonal antibodies, and cytokines. In, Brunton LL, Chabner BA, Knollman BC, eds. Goodman &#x00026; Gilman's the pharmacological basis of therapeutics. 12th ed. New York: McGraw-Hill, 2011, pp. 1731-54.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Carfilzomib.R4">
+            <mixed-citation publication-type="journal">Carfilzomib (Kryprolis) for multiple myeloma. Med Lett Drugs Ther 2012; 54 (1406): 103-4. Review. <annotation><p><italic toggle="yes">(Concise review of mechanism of action, efficacy and safety of carfilzomib as therapy for multiple myeloma shortly after its approval in the US; mentions hepatic failure as a serious adverse reaction).</italic></p></annotation><pub-id pub-id-type="pmid">23282792</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carfilzomib.R5">
+            <mixed-citation publication-type="journal">Jagannath S, Vij R, Stewart AK, Trudel S, Jakubowiak AJ, Reiman T, Somlo G, Bahlis N, et al. An open-label single-arm pilot phase II study (PX-171-003-A0) of low-dose, single-agent carfilzomib in patients with relapsed and refractory multiple myeloma. Clin Lymphoma Myeloma Leuk 2012; 12: 310-8. <annotation><p><italic toggle="yes">(Among 46 patients with refractory multiple myeloma treated with carfilzomib, 7 were partial responders; side effects included anemia [74%], fatigue [70%] and thrombocytopenia [50%]; no mention of ALT elevations or hepatotoxicity and no deaths were considered secondary to therapy).</italic></p></annotation><pub-id pub-id-type="pmid">23040437</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carfilzomib.R6">
+            <mixed-citation publication-type="journal">Siegel DS, Martin T, Wang M, Vij R, Jakubowiak AJ, Lonial S, Trudel S, et al. A phase 2 study of single-agent carfilzomib (PX-171-003-A1) in patients with relapsed and refractory multiple myeloma. Blood 2012; 120: 2817-25. <annotation><p><italic toggle="yes">(Among 266 patients with refractory multiple myeloma treated with carfilzomib, the overall response rate was 24% and side effects included fatigue, anemia, nausea, thrombocytopenia, and peripheral neuropathy; among 12 deaths were 2 from hepatic failure, one of which was considered possibly or probably related to carfilzomib therapy).</italic></p></annotation><pub-id pub-id-type="pmid">22833546</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carfilzomib.R7">
+            <mixed-citation publication-type="journal">Jakubowiak AJ, Dytfeld D, Griffith KA, Lebovic D, Vesole DH, Jagannath S, Al-Zoubi A, et al. A phase 1/2 study of carfilzomib in combination with lenalidomide and low-dose dexamethasone as a frontline treatment for multiple myeloma. Blood 2012; 120: 1801-9. <annotation><p><italic toggle="yes">(Among 53 patients with multiple myeloma treated with carfilzomib, lenalidomide and dexamethasone in 28 day cycles, elevated liver tests occurred in 8% of patients).</italic></p></annotation><pub-id pub-id-type="pmid">22665938</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carfilzomib.R8">
+            <mixed-citation publication-type="journal">Kortuem KM, Stewart AK. Carfilzomib. Blood 2013; 121: 893-7. <annotation><p><italic toggle="yes">(Overview of the second generation proteasome inhibitor carfilzomib which, unlike bortezomib, is an irreversible inhibitor and is not metabolized by the CYP 3A4 system to a major extent).</italic></p></annotation><pub-id pub-id-type="pmid">23393020</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carfilzomib.R9">
+            <mixed-citation publication-type="journal">Siegel D, Martin T, Nooka A, Harvey RD, Vij R, Niesvizky R, Badros AZ, et al. Integrated safety profile of single-agent carfilzomib: experience from 526 patients enrolled in 4 phase II clinical studies. Haematologica 2013; 98: 1753-61. <annotation><p><italic toggle="yes">(Summary of safety assessment in 526 patients with advanced multiple myeloma treated with carfilzomib; any hepatic event occurred in 99 [19%] of patients, increased AST in 66 [12%] and ALT in 43 [8%] and hepatic failure in 2, but no patient had concurrent ALT and bilirubin elevation attributable to carfilzomib).</italic></p></annotation><pub-id pub-id-type="pmid">23935022</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carfilzomib.R10">
+            <mixed-citation publication-type="journal">Herndon TM, Deisseroth A, Kaminskas E, Kane RC, Koti KM, Rothmann MD, Habtemariam B, et al. U.S. Food and Drug Administration approval: carfilzomib for the treatment of multiple myeloma. Clin Cancer Res 2013; 19: 4559-63. <annotation><p><italic toggle="yes">(Description of the accelerated approval of carfilzomib as therapy for multiple myeloma from the FDA; review of adverse reactions among 526 treated patients mentions AST elevations occurring in 66 [13%], with 6 [~1%] above 5 times ULN, and that 2 patients died of hepatic failure having entered the study with normal liver tests).</italic></p></annotation><pub-id pub-id-type="pmid">23775332</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carfilzomib.R11">
+            <mixed-citation publication-type="journal">Bringhen S, Petrucci MT, Larocca A, Conticello C, Rossi D, Magarotto V, Musto P, et al. Carfilzomib, cyclophosphamide, and dexamethasone in patients with newly diagnosed multiple myeloma: a multicenter, phase 2 study. Blood 2014; 124: 63-9. <annotation><p><italic toggle="yes">(Among 58 patients with multiple myeloma treated with carfilzomib combined with cyclophosphamide and dexamethasone, 95% had at least a partial response; ALT or AST elevations occurred in 4 patients [7%], but all were less than 5 times ULN).</italic></p></annotation><pub-id pub-id-type="pmid">24855212</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carfilzomib.R12">
+            <mixed-citation publication-type="journal">Harvey RD. Incidence and management of adverse events in patients with relapsed and/or refractory multiple myeloma receiving single-agent carfilzomib. Clin Pharmacol 2014; 6: 87-96. <annotation><p><italic toggle="yes">(Review of the published adverse reactions of carfilzomib therapy and recommendations for their management; among 37 deaths occurring during or shortly after therapy, seven were considered at least possibly related to carfilzomib, including one due to hepatic failure).</italic></p></annotation><pub-id pub-id-type="pmid">24855395</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carfilzomib.R13">
+            <mixed-citation publication-type="journal">Shely RN, Ratliff PD. Carfilzomib-associated tumor lysis syndrome. Pharmacotherapy 2014; 34: e34-7. <annotation><p><italic toggle="yes">(55 year old man with multiple myeloma developed tumor lysis syndrome after first two infusions of carfilzomib, with marked rises in uric acid [15.9 mg/dL] and phosphorus [10.4 mg/dL] and death on day 8; no mention of liver tests).</italic></p></annotation><pub-id pub-id-type="pmid">24390940</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carfilzomib.R14">
+            <mixed-citation publication-type="journal">Wang H, Guan F, Chen D, Dou QP, Yang H. An analysis of the safety profile of proteasome inhibitors for treating various cancers. Expert Opin Drug Saf 2014: 13: 1043-54. <annotation><p><italic toggle="yes">(Review of efficacy and safety of bortezomib and second generation proteasome inhibitors including carfilzomib, marizomib, ixazomib and oprozomib, states that "Carfilzomib has a favorable and tolerable safety profile"; no discussion of hepatotoxicity or serum enzyme elevations). </italic></p></annotation><pub-id pub-id-type="pmid">25005844</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carfilzomib.R15">
+            <mixed-citation publication-type="journal">Lendvai N, Hilden P, Devlin S, Landau H, Hassoun H, Lesokhin AM, Tsakos I, et al. A phase 2 single-center study of carfilzomib 56 mg/m2 with or without low-dose dexamethasone in relapsed or refractory multiple myeloma. Blood 2014 Jun 24. [Epub ahead of print] <annotation><p><italic toggle="yes">(Among 44 patient with refractory multiple myeloma previously treated with bortezomib given carfilzomib, 55% had at least a partial response and side effects included lymphopenia [55%], thrombocytopenia [32%], hypertension [25%], pneumonia [18%] and heart failure [11%]; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">24963043</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carfilzomib.R16">
+            <mixed-citation publication-type="journal">Schlafer D, Shah KS, Panjic EH, Lonial S. Safety of proteasome inhibitors for treatment of multiple myeloma. Expert Opin Drug Saf 2016: 1-17. [Epub ahead of print] <annotation><p><italic toggle="yes">(Review of the toxicities of the proteasome inhibitors; does not mention hepatotoxicity or ALT elevations).</italic></p></annotation><pub-id pub-id-type="pmid">27841029</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carfilzomib.R17">
+            <mixed-citation publication-type="journal">Muchtar E, Gatt ME, Rouvio O, Ganzel C, Chubar E, Suriu C, Tadmor T, et al. Efficacy and safety of salvage therapy using carfilzomib for relapsed or refractory multiple myeloma patients: a multicentre retrospective observational study. Br J Haematol 2016; 172: 89-96. <annotation><p><italic toggle="yes">(Among 135 patients with relapsed or refractory multiple myeloma treated with carfilzomib usually in combination with dexamethasone and often with lenilidamide, the overall response rate was 47% and adverse events included liver enzyme elevations in 19% which were above 5 times ULN in 4% and 1 of 7 deaths was attributed to acute hepatic failure death considered related to therapy).</italic></p></annotation><pub-id pub-id-type="pmid">26567759</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carfilzomib.R18">
+            <mixed-citation publication-type="journal">Dimopoulos MA, Moreau P, Palumbo A, Joshua D, Pour L, H&#x000e1;jek R, Facon T, et al; ENDEAVOR Investigators.. Carfilzomib and dexamethasone versus bortezomib and dexamethasone for patients with relapsed or refractory multiple myeloma (ENDEAVOR): a randomised, phase 3, open-label, multicentre study. Lancet Oncol 2016; 17: 27-38. <annotation><p><italic toggle="yes">(Among 929 patients with refractory multiple myeloma treated with dexamethasone and carfilzomib or bortezomib, progression-free but not overall survival was longer with carfilzomib than bortezomib, while adverse event rates were similar, ALT elevations occurring in 4.5% vs 3.9% and rising above 5 times ULN in 1.1% vs 0.4%).</italic></p></annotation><pub-id pub-id-type="pmid">26671818</pub-id></mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec id="Carfilzomib.OTHER_REFERENCE_LINKS" sec-type="link-group">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=Carfilzomib+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D%3A%222999/12/31%22%5BEDat%5D)">Recent References on Carfilzomib: from PubMed.gov</ext-link>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Carfilzomib">Trials on Carfilzomib: from ClinicalTrials.gov</ext-link>
+            </p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

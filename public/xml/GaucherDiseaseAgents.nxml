@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="GaucherDiseaseAgents" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">GaucherDiseaseAgents</book-part-id>
+      <title-group>
+        <title>Gaucher Disease Agents</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>5</day>
+          <month>3</month>
+          <year>2018</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="GastrointestinalAgen" document-type="chapter">Gastrointestinal Agents</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Gefitinib" document-type="chapter">Gefitinib</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="GaucherDiseaseAgents.OVERVIEW">
+        <title>OVERVIEW</title>
+        <p content-type="pubmed-excerpt">Gaucher disease is genetic, multisystem disease caused by an inherited deficiency in the lysosomal enzyme, &#x003b2;-glucocerebrosidase. The disease is named for the French physician who first described it (Philippe Gaucher: 1882). Clinical features include anemia, thrombocytopenia, enlargement of the liver and spleen and bone dysplasia. Some forms have neurologic involvement as well. Symptoms are caused by the accumulation of glucosylceramide in lysosomes of the reticuloendothelial system, predominantly in macrophages of bone, liver and spleen. Gaucher disease is categorized into three clinical forms. Type 1 or adult, non-neuropathic Gaucher disease is the most common form and typically presents with splenomegaly, anemia and thrombocytopenia in adolescence or adulthood. Type 2 or acute infantile neuropathic Gaucher disease presents in the perinatal period with enlargement of the liver and spleen, and progressive neurologic involvement and disability leading to death in the first years of life. Type 3 or childhood, chronic neuropathic Gaucher disease is intermediate in severity between types 1 and 2, and presents in childhood or early adulthood with neurologic and liver involvement which can be progressive. Gaucher disease affects an estimated 1 in 50,000 to 100,000 persons, over 90% being type 1. Therapies have been developed for type 1 Gaucher disease which ameliorate its course and improve symptoms. There is no specific cure of Gaucher disease.</p>
+        <p content-type="pubmed-excerpt">The initial and now standard therapy of Gaucher disease is enzyme replacement, based upon regular infusions of the missing enzymes, glucocerebrosidase. The active enzyme can be prepared from human tissue (placentas) or produced by recombinant DNA technology. Recently, new approaches to therapy have been introduced including substrate restriction, based upon inhibiting enzymes upstream of glucocerebrosidase and, thus, limiting the damaging accumulation of its ultimate harmful substrate, glucosylceramide, which normally is metabolized to glucocerebroside upon which the enzyme acts. Future therapies might employ drugs that modify the folding or trafficking of glucocerebrosidase inside the cell, making it more effective. Ultimately, gene therapy to replace the abnormal enzyme may become a reality.</p>
+        <p content-type="pubmed-excerpt">Current therapies for Gaucher disease discussed in LiverTox include the following:</p>
+        <list list-type="bullet">
+          <list-item>
+            <p><related-object source-id="livertox" document-id="Glucocerebrosidase">Glucocerebrosidase (Enzyme Replacement Therapy)</related-object>
+<list list-type="bullet"><list-item><p><related-object source-id="livertox" document-id="Glucocerebrosidase">Alglucerase alfa (Ceredase: 1991)</related-object></p></list-item><list-item><p><related-object source-id="livertox" document-id="Glucocerebrosidase">Imiglucerase (Cerezyme: 1995)</related-object></p></list-item><list-item><p><related-object source-id="livertox" document-id="Glucocerebrosidase">Taliglucerase alfa (Elelyso: 2012)</related-object></p></list-item><list-item><p><related-object source-id="livertox" document-id="Glucocerebrosidase">Velaglucerase alfa (Vpriv: 2010)</related-object></p></list-item></list></p>
+          </list-item>
+          <list-item>
+            <p>Glucosylceramide Synthase Inhibitors (Substrate Restriction Therapy)</p>
+            <list list-type="bullet">
+              <list-item>
+                <p>
+                  <related-object source-id="livertox" document-id="Eliglustat">Eliglustat (Cerdelga: 2014)</related-object>
+                </p>
+              </list-item>
+              <list-item>
+                <p>
+                  <related-object source-id="livertox" document-id="Miglustat">Miglustat (Zavesca: 2003)</related-object>
+                </p>
+              </list-item>
+            </list>
+          </list-item>
+        </list>
+      </sec>
+      <sec id="GaucherDiseaseAgents.ANNOTATED_BIBLIOGRA">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 05 March 2018</p>
+        <ref-list id="GaucherDiseaseAgents.ANNOTATED_BIBLIOGRA.reflist0">
+          <ref id="GaucherDiseaseAgents.R1">
+            <mixed-citation publication-type="journal">Elstein D, Zimran A. Review of the safety and efficacy of imiglucerase treatment of Gaucher disease. Biologics 2009; 3: 407-17. <annotation><p><italic toggle="yes"> (Review of the pathogenesis and clinical features of Gaucher disease, types 1, 2 and 3, as well as the development of enzyme replacement therapy and long term efficacy and safety of imiglucerase, a human recombinant form of glucocerebrosidase that was given intravenously every 2 weeks and largely replaced the placental tissue derived product [alglucerase], which was given 3 times weekly).</italic></p></annotation><pub-id pub-id-type="pmid">19774208</pub-id></mixed-citation>
+          </ref>
+          <ref id="GaucherDiseaseAgents.R2">
+            <mixed-citation publication-type="journal">Velaglucerase (Vpriv) for Gaucher's disease. Med Lett Drugs Ther 2010; 52 (1337): 36. <annotation><p><italic toggle="yes">(Concise review of the mechanism of action, efficacy and cost of velaglucerase, shortly after this second recombinant form of glucocerebrosidase was approved as therapy of type 1 Gaucher disease; no discussion of adverse events).</italic></p></annotation><pub-id pub-id-type="pmid">20508578</pub-id></mixed-citation>
+          </ref>
+          <ref id="GaucherDiseaseAgents.R3">
+            <mixed-citation publication-type="journal">Eliglustat (Cerdelga)--an oral drug for Gaucher disease. Med Lett Drugs Ther 2015; 57 (1472): e100-1. <annotation><p><italic toggle="yes">(Concise review of the mechanism of action, clinical efficacy, adverse effects, drug-drug interactions and costs of eliglustat shortly after its approval for Gaucher disease in the US, lists its adverse effects of fatigue, headache, nausea, diarrhea and back pain, but does not mention ALT elevations or clinically apparent liver injury).</italic></p></annotation><pub-id pub-id-type="pmid">26147895</pub-id></mixed-citation>
+          </ref>
+          <ref id="GaucherDiseaseAgents.R4">
+            <mixed-citation publication-type="journal">Zimran A, Wajnrajch M, Hernandez B, Pastores GM. Taliglucerase alfa: safety and efficacy across 6 clinical studies in adults and children with Gaucher disease. Orphanet J Rare Dis 2018; 13: 36. <annotation><p><italic toggle="yes">(A summary analysis of 6 clinical trials of taliglucerase alfa in at least 59 adults and 16 children with Gaucher disease treated for up to 5 years found that adverse events were mild and transient including arthralgia, headache and pruritus and de novo anti-taliglucerase antibodies; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">29471850</pub-id></mixed-citation>
+          </ref>
+          <ref id="GaucherDiseaseAgents.R5">
+            <mixed-citation publication-type="journal">Zimran A, Belmatoug N, Bembi B, Deegan P, Elstein D, Fernandez-Sasso D, Giraldo P, et al.; GOS Study group. Demographics and patient characteristics of 1209 patients with Gaucher disease: Descriptive analysis from the Gaucher Outcome Survey (GOS). Am J Hematol 2018; 93: 205-12. <annotation><p><italic toggle="yes">(Summary of clinical features of 1209 patients [95% type 1] enrolled in an international Gaucher disease registry between 2010 and 2017, including 887 [73%] who received at least one therapy, most commonly imiglucerase [66%], velaglucerase [57%], alglucerase [12%], taliglucerase [10%] and miglustat [10%], does not mention adverse events or liver related complications of treatment).</italic></p></annotation><pub-id pub-id-type="pmid">29090476</pub-id></mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

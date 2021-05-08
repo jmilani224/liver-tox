@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Telotristat" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Telotristat</book-part-id>
+      <title-group>
+        <title>Telotristat</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>7</day>
+          <month>4</month>
+          <year>2019</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Telmisartan" document-type="chapter">Telmisartan</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Temazepam" document-type="chapter">Temazepam</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Telotristat.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Telotristat.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Telotristat is an oral, small molecule inhibitor of tryptophan hydroxylase that is used in the treatment of symptoms of carcinoid syndrome. Telotristat is associated with modest rate of minor serum enzyme elevations during therapy but has not been linked to cases of clinically apparent liver injury.</p>
+        </sec>
+        <sec id="Telotristat.Background">
+          <title>Background</title>
+          <p>Telotristat (tel oh' tri stat) is an oral small molecule inhibitor of tryptophan hydroxylase, an enzyme that is responsible for the rate-limiting step in serotonin (5-hydroxtryptamine) synthesis. Serotonin is a neuroactive signaling molecule that is produced in excess by some neuroendocrine tumors and causes the symptoms of carcinoid syndrome (flushing, diarrhea, abdominal pain and heart valvular complications). Carcinoid syndrome is typically treated with somatostatin analogues that inhibit the growth of neuroendocrine tumors. However, treatment with somatostatin analogues (such as octreotide, lanreotide and pasireotide) does not always control symptoms of carcinoid syndrome, particularly the diarrhea and abdominal discomfort. Telotristat does not decrease the neuroendocrine tumor size or growth but lowers the peripheral synthesis of serotonin which leads to decreased plasma levels. In several small, prelicensure clinical trials, telotristat therapy was associated with a decrease in diarrhea in at least half of treated patients with carcinoid syndrome, with residual diarrheal symptoms despite stable doses of somatostatin analogues. Telotristat was approved for this indication in the United States in 2017 and is available in tablets of 250 mg under the brand name Xermelo. The recommended adult dosage is 250 mg three times daily. Common adverse events include nausea, constipation, flatulence, anorexia, and abdominal pain. Rare, but potentially severe adverse events include severe constipation and depression.</p>
+        </sec>
+        <sec id="Telotristat.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>In small clinical trials of telotristat in patients with neuroendocrine tumors and symptomatic diarrhea despite stable doses of somatostatin analogues, transient, asymptomatic and mild serum elevations of ALT occurred in 4% to 5% and of GGT in 6% to 9% of treated subjects. Apparent liver injury with jaundice was not observed in the several prelicensure clinical trials and has not been reported in the limited clinical experience with this agent since its approval.</p>
+          <p>Likelihood score: E (unlikely cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Telotristat.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The reason why telotristat might cause serum enzyme elevations is not known but may be a direct toxicity to hepatocytes caused by inhibition of tryptophan hydroxylase or related enzyme activities. Telotristat has little effect on hepatic cytochrome P450 enzymes and has not been implicated in clinically significant drug-drug interactions.</p>
+        </sec>
+        <sec id="Telotristat.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>Serum enzyme elevations can occur during telotristat therapy, but they are usually transient and only mild-to-moderate in severity, rarely requiring dose modification. Patients who develop ALT or AST elevations above 5 times the ULN should discontinue telotristat, at least temporarily, until the abnormalities resolve or another cause is identified. There is no known cross sensitivity to hepatic injury among the different small molecule enzyme inhibitors.</p>
+          <p>Drug Class: <related-object source-id="livertox" document-id="AntineoplasticAgents">Antineoplastic Agents</related-object>; <related-object source-id="livertox" document-id="GastrointestinalAgen">Gastrointestinal Agents</related-object>, Antidiarrheal Agents</p>
+        </sec>
+      </sec>
+      <sec id="Telotristat.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <boxed-text position="anchor" id="Telotristat.BPI" orientation="portrait">
+          <p>
+            <bold>REPRESENTATIVE TRADE NAMES</bold>
+          </p>
+          <p>Telotristat &#x02013; Xermelo&#x000ae;</p>
+          <p>
+            <bold>DRUG CLASS</bold>
+          </p>
+          <p>Antineoplastic Agents</p>
+          <p>
+            <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Telotristat">COMPLETE LABELING</ext-link>
+          </p>
+          <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+        </boxed-text>
+      </sec>
+      <sec id="Telotristat.CHEMICAL_FORMULA_AND_STRUCTU">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Telotristat.T1" position="anchor" orientation="portrait">
+          <table>
+            <thead>
+              <tr>
+                <th id="hd_h_Telotristat.T1_1_1_1_1" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Telotristat.T1_1_1_1_2" rowspan="1" colspan="1">CAS REGISTRY NO</th>
+                <th id="hd_h_Telotristat.T1_1_1_1_3" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Telotristat.T1_1_1_1_4" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Telotristat.T1_1_1_1_1" rowspan="1" colspan="1">Telotristat</td>
+                <td headers="hd_h_Telotristat.T1_1_1_1_2" rowspan="1" colspan="1">
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135264261">1033805-28-5</ext-link>
+                </td>
+                <td headers="hd_h_Telotristat.T1_1_1_1_3" rowspan="1" colspan="1">C25-H22-Cl-F3-N6-O3</td>
+                <td headers="hd_h_Telotristat.T1_1_1_1_4" rowspan="1" colspan="1">
+                  <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Telotristat_structure.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait">
+                    <alt-text>Telotristat chemical structure</alt-text>
+                  </graphic>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Telotristat.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 07 April 2019</p>
+        <ref-list id="Telotristat.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Telotristat.R1">
+            <mixed-citation publication-type="other">Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999.<annotation><p><italic toggle="yes">(Review of hepatotoxicity published in 1999 before the availability of therapies for carcinoid syndrome).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Telotristat.R2">
+            <mixed-citation publication-type="other">DeLeve LD. Cancer chemotherapy. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013, p. 549-68.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of cancer chemotherapeutic agents; does not discuss telotristat).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Telotristat.R3">
+            <mixed-citation publication-type="other">Wellstein A, Giaccone G, Atkins MB, Sausville EA. Pathway-targeted therapies: monoclonal antibodies, protein kinase inhibitors, and various small molecules. In, Brunton LL, Hilal-Dandan R, Knollman BC, eds. Goodman &#x00026; Gilman's the pharmacological basis of therapeutics. 13th ed. New York: McGraw-Hill, 2018, pp. 1203-36.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Telotristat.R4">
+            <mixed-citation publication-type="journal">Kulke MH, O'Dorisio T, Phan A, Bergsland E, Law L, Banks P, Freiman J, et al. Telotristat etiprate, a novel serotonin synthesis inhibitor, in patients with carcinoid syndrome and diarrhea not adequately controlled by octreotide. Endocr Relat Cancer 2014; 21: 705-14. <annotation><p><italic toggle="yes">(Among 23 patients with carcinoid syndrome and diarrhea despite somatostatin analogue therapy treated with telotristat [150, 250, 350 or 500 mg] vs placebo 3 times daily for 4 weeks, improvement in diarrhea occurred more frequently with telotristat than placebo [75% vs 20%], while ALT elevations were less common [17% vs 40%] and were less than twice baseline in all).</italic></p></annotation><pub-id pub-id-type="pmid">25012985</pub-id></mixed-citation>
+          </ref>
+          <ref id="Telotristat.R5">
+            <mixed-citation publication-type="journal">Pavel M, H&#x000f6;rsch D, Caplin M, Ramage J, Seufferlein T, Valle J, Banks P, et al. Telotristat etiprate for carcinoid syndrome: a single-arm, multicenter trial. J Clin Endocrinol Metab 2015; 100: 1511-9. <annotation><p><italic toggle="yes">(Among 15 patients with metastatic neuroendocrine tumors and carcinoid syndrome with diarrhea despite somatostatin analogue therapy treated with telotristat [150 to 500 mg 3 times daily] for 12 weeks, all had some decrease in stool frequency and common side effects were abdominal pain and diarrhea; 1 patient had transient ALT and AST elevations and 1 had GGT elevations, but all were less than twice ULN and none were accompanied by jaundice).</italic></p></annotation><pub-id pub-id-type="pmid">25636046</pub-id></mixed-citation>
+          </ref>
+          <ref id="Telotristat.R6">
+            <mixed-citation publication-type="journal">Telotristat ethyl(Xermelo) for carcinoid syndrome diarrhea. Med Lett Drugs Ther 2017; 59 (1525): 119-20. <annotation><p><italic toggle="yes">(Concise review of the mechanism of action, clinical efficacy, safety and costs of telotristat for diarrhea due to carcinoid syndrome shortly after its approval in the US; mentions common adverse events of nausea, headache, depression, flatulence, decreased appetite, edema, fever and GGT elevations, but makes no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">28699933</pub-id></mixed-citation>
+          </ref>
+          <ref id="Telotristat.R7">
+            <mixed-citation publication-type="journal">Kulke MH, H&#x000f6;rsch D, Caplin ME, Anthony LB, Bergsland E, &#x000d6;berg K, Welin S, et al. Telotristat ethyl, a tryptophan hydroxylase inhibitor for the treatment of carcinoid syndrome. J Clin Oncol 2017; 35: 14-23. <annotation><p><italic toggle="yes">(Among 35 patients with carcinoid syndrome and diarrhea despite somatostatin analogue therapy, response rates in reduction of diarrhea were greater with telotristat [250 mg, 44% and 500 mg, 42%] than placebo [20%] given 3 times daily for 12 weeks, and adverse event rates were similar except for nausea [13% and 31% vs 11%] and ALT [4% vs none] and GGT elevations [9% vs none], but no patient developed clinically apparent liver injury or jaundice).</italic></p></annotation><pub-id pub-id-type="pmid">27918724</pub-id></mixed-citation>
+          </ref>
+          <ref id="Telotristat.R8">
+            <mixed-citation publication-type="journal">Markham A. Telotristat ethyl: first global approval. Drugs 2017; 77: 793-8. <annotation><p><italic toggle="yes">(Review of the structure, mechanism of action, pharmacology, history of development, clinical efficacy and safety of telotristat shortly after its approval in the US; does not mention ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">28382568</pub-id></mixed-citation>
+          </ref>
+          <ref id="Telotristat.R9">
+            <mixed-citation publication-type="journal">Pavel M, Gross DJ, Benavent M, Perros P, Srirajaskanthan R, Warner RRP, Kulke MH, et al. Telotristat ethyl in carcinoid syndrome: safety and efficacy in the TELECAST phase 3 trial. Endocr Relat Cancer 2018; 25: 309-22. <annotation><p><italic toggle="yes">(Among 76 patients with carcinoid syndrome and inadequate control of diarrhea on somatostatin analogue therapy treated with telotristat [250 mg or 500 mg] or placebo 3 times daily for 12 weeks, a subset of whom continued telotristat therapy [titrated to 500 mg] for 36 weeks, symptoms of diarrhea decreased more with telotristat therapy than placebo while adverse event rates were similar; ALT elevations occurred in 4.5% and GGT elevations in 6% of those on extended therapy, the enzyme elevations not accompanied by jaundice but led to early discontinuation in 2 patients [3%]).</italic></p></annotation><pub-id pub-id-type="pmid">29330194</pub-id></mixed-citation>
+          </ref>
+          <ref id="Telotristat.R10">
+            <mixed-citation publication-type="journal">Anthony LB, Kulke MH, Caplin ME, Bergsland E, &#x000d6;berg K, Pavel M, H&#x000f6;rsch D, et al. Long-term safety experience with telotristat ethyl across five clinical studies in patients with carcinoid syndrome. Oncologist 2019 Jan 16. [Epub ahead of print] <annotation><p><italic toggle="yes">(Among 239 patients with carcinoid syndrome and diarrhea who were treated with telotristat in 5 clinical trials, adverse events were mostly mild-to-moderate in severity and similar in overall rate in patients receiving placebo; ALT elevations not discussed but there were no hepatic serious adverse events).</italic></p></annotation><pub-id pub-id-type="pmid">30651397</pub-id></mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec id="Telotristat.OTHER_REFERENCE_LINKS" sec-type="link-group">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=Telotristat/AE+AND+Human%5BMH%5D+AND+(jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI+OR+hepatitis,+toxic%5BMH%5D)">Recent References on Telotristat: from PubMed.gov</ext-link>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Telotristat">Trials on Telotristat: from ClinicalTrials.gov</ext-link>
+            </p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

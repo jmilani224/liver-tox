@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="CarglumicAcid" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">CarglumicAcid</book-part-id>
+      <title-group>
+        <title>Carglumic Acid</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>10</day>
+          <month>10</month>
+          <year>2016</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Carfilzomib" document-type="chapter">Carfilzomib</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Cariprazine" document-type="chapter">Cariprazine</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="CarglumicAcid.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="CarglumicAcid.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Carglumic acid is an orphan drug and a derivative of N-acetylglutamate that activates the first enzyme in the urea cycle that is responsible for removal and detoxification of ammonia, making this drug a valuable agent for therapy of hyperammonemia caused by rare forms of urea cycle defects. Clinical experience with carglumic acid is limited, but it has not been linked to significant serum enzyme elevations during therapy or to instances of clinically apparent acute liver injury.</p>
+        </sec>
+        <sec id="CarglumicAcid.Background">
+          <title>Background</title>
+          <p>Carglumic (kar gloo' mik) acid is a small molecule that resembles N-acetylglutamate, a normal occurring metabolite that activates the enzyme carbamoyl phosphate synthetase I (CPS-1), the first step in the urea cycle which is responsible for removal and detoxification of ammonia. Carglumic acid is used to treat the severe hyperammonemia that occurs in the urea cycle disorder caused by deficiency of hepatic N-acetylglutamate synthase (NAGS) which normally produces N-acetylglutamate. Carglumic acid was shown to decrease ammonia levels during acute exacerbation of NAGS deficiency as well as decreasing levels chronically between acute episodes. Carglumic acid was approved as oral therapy of NAGS deficiency in the United States in 2010. It has been used experimentally and off-label to treat other genetic as well as acquired causes of severe hyperammonemia including idiopathic cases due to valproate and cancer chemotherapy and secondary genetic cases due to organic acidurias such as isovaleric, methylmalonic and propionic aciduria. Carglumic acid is available in tablets of 200 mg under the brand name Carbaglu. The initial dose for acute hyperammonemia is 100 to 250 mg/kg daily given in 2 to 4 divided doses. The typical dose for maintenance therapy is 100 mg/kg daily. The tablets are not swallowed whole, but rather dispersed in small amounts of water just before oral administration. Side effects are generally dose related and can include nausea, vomiting, abdominal pain, diarrhea, and fever.</p>
+        </sec>
+        <sec id="CarglumicAcid.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>The urea cycle disorders include at least 8 genetic conditions, one of the more rare causes being NAGS. Because this condition is so rare, carglumic acid was given orphan disease drug status and approval was based on open labelled treatment studies of only 40 patients. In these studies, carglumic acid was not linked to serum enzyme elevations during treatment or to episodes of acute, clinically apparent liver injury or jaundice. Since approval, there have been no published reports of hepatotoxicity attributed to carglumic acid and the product label does not mention liver injury as an adverse event.</p>
+          <p>Likelihood score: E (unlikely cause of clinically apparent liver injury, but experience with its use is limited).</p>
+        </sec>
+        <sec id="CarglumicAcid.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The mechanism by which carglumic acid might cause serum aminotransferase elevations or liver injury is not known. It is a modified form of glutamic acid that is produced naturally in hepatocytes and is likely metabolized by many cells.</p>
+          <p>Drug Class: Genetic Disorder Agents, Urea Cycle Disorder Agents (Hyperammonemia)</p>
+          <p>Other drugs in the Subclass: Lactulose, <related-object source-id="livertox" document-id="Phenylbutyrate">Phenylbutyrate</related-object>, <related-object source-id="livertox" document-id="Rifaximin">Rifaximin</related-object>, <related-object source-id="livertox" document-id="Phenylbutyrate">Sodium Benzoate</related-object></p>
+        </sec>
+      </sec>
+      <sec id="CarglumicAcid.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <boxed-text position="anchor" id="CarglumicAcid.BPI" orientation="portrait">
+          <p>
+            <bold> REPRESENTATIVE TRADE NAMES</bold>
+          </p>
+          <p>Carglumic Acid &#x02013; Carbaglu&#x000ae;</p>
+          <p>
+            <bold>DRUG CLASS</bold>
+          </p>
+          <p>Urea Cycle Disorder Agents</p>
+          <p>
+            <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Carglumic%20Acid">COMPLETE LABELING</ext-link>
+          </p>
+          <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+        </boxed-text>
+      </sec>
+      <sec id="CarglumicAcid.CHEMICAL_FORMULAS_AND_STRU">
+        <title>CHEMICAL FORMULAS AND STRUCTURES</title>
+        <table-wrap id="CarglumicAcid.T1" position="anchor" orientation="portrait">
+          <table>
+            <thead>
+              <tr>
+                <th id="hd_h_CarglumicAcid.T1_1_1_1_1" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_CarglumicAcid.T1_1_1_1_2" rowspan="1" colspan="1">CAS REGISTRY NUMBER</th>
+                <th id="hd_h_CarglumicAcid.T1_1_1_1_3" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_CarglumicAcid.T1_1_1_1_4" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_CarglumicAcid.T1_1_1_1_1" rowspan="1" colspan="1">Carglumic Acid</td>
+                <td headers="hd_h_CarglumicAcid.T1_1_1_1_2" rowspan="1" colspan="1">
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135075870">1188-38-1</ext-link>
+                </td>
+                <td headers="hd_h_CarglumicAcid.T1_1_1_1_3" rowspan="1" colspan="1">C6-H10-N2-O5</td>
+                <td headers="hd_h_CarglumicAcid.T1_1_1_1_4" rowspan="1" colspan="1">
+                  <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="CarglumicAcid_structure.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait">
+                    <alt-text>Carglumic Acid structure</alt-text>
+                  </graphic>
+                </td>
+              </tr>
+              <tr>
+                <td headers="hd_h_CarglumicAcid.T1_1_1_1_1" rowspan="1" colspan="1">N-acetylglutamate</td>
+                <td headers="hd_h_CarglumicAcid.T1_1_1_1_2" rowspan="1" colspan="1">
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://chem.sis.nlm.nih.gov/chemidplus/direct.jsp?regno=1188-37-1">1188-37-1</ext-link>
+                </td>
+                <td headers="hd_h_CarglumicAcid.T1_1_1_1_3" rowspan="1" colspan="1">C7-H11-N-O5</td>
+                <td headers="hd_h_CarglumicAcid.T1_1_1_1_4" rowspan="1" colspan="1">
+                  <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="N-acetylglutamate_structure.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait">
+                    <alt-text>N-acetylglutamate structure</alt-text>
+                  </graphic>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="CarglumicAcid.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 10 October 2016</p>
+        <p>Abbreviation used for urea cycle enzyme deficiencies: N-acetylglutamate synthase (NAGS).</p>
+        <ref-list id="CarglumicAcid.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="CarglumicAcid.R1">
+            <mixed-citation publication-type="journal">Bachmann C, Kr&#x000e4;henb&#x000fc;hl S, Colombo JP, Schubiger G, Jaggi KH, T&#x000f6;nz O. N-acetylglutamate synthetase deficiency: a disorder of ammonia detoxication. N Engl J Med 1981; 304: 543. <annotation><p><italic toggle="yes">( Initial description of a newborn with hyperammonemia that could not be attributed to a known urea cycle defect, but was associated with lack of N-acetylglutamate synthase (NAGS), N-acetylglutamate being the activator of cabamylphosphate synthetase [CPS], the first enzyme in the urea cycle).</italic></p></annotation><pub-id pub-id-type="pmid">7453791</pub-id></mixed-citation>
+          </ref>
+          <ref id="CarglumicAcid.R2">
+            <mixed-citation publication-type="journal">Schubiger G, Bachmann C, Barben P, Colombo JP, T&#x000f6;nz O, Sch&#x000fc;pbach D. N-acetylglutamate synthetase deficiency: diagnosis, management and follow-up of a rare disorder of ammonia detoxication. Eur J Pediatr 1991; 150: 353-6. <annotation><p><italic toggle="yes">(Nine year follow up of a patient with NAGS deficiency [Bachman 1981] who was maintained on a protein restricted diet and oral N-carbamylglutamate, but who died during an episode of coma after seizures).</italic></p></annotation><pub-id pub-id-type="pmid">2044610</pub-id></mixed-citation>
+          </ref>
+          <ref id="CarglumicAcid.R3">
+            <mixed-citation publication-type="journal">Colombo JP. N-acetylglutamate synthetase (NAGS) deficiency. Adv Exp Med Biol 1994; 368: 135-43. <annotation><p><italic toggle="yes">(Review of the pathogenesis, clinical features and potential therapies of NAGS deficiency which includes use of oral N-carbamylglutamate which is taken up by mitochondria and activates CPS-1 and urea cycle consumption of ammonia).</italic></p></annotation><pub-id pub-id-type="pmid">7741005</pub-id></mixed-citation>
+          </ref>
+          <ref id="CarglumicAcid.R4">
+            <mixed-citation publication-type="journal">Levrat V, Forest I, Fouilhoux A, Acquaviva C, Vianey-Saban C, Guffon N. Carglumic acid: an additional therapy in the treatment of organic acidurias with hyperammonemia? Orphanet J Rare Dis 2008; 3: 2. <annotation><p><italic toggle="yes">(Two newborns with severe hyperammonemia were treated successfully with carglumic acid; one with methylmalonic and one propionic aciduria, both associated with decrease in NAGS).</italic></p></annotation><pub-id pub-id-type="pmid">18234091</pub-id></mixed-citation>
+          </ref>
+          <ref id="CarglumicAcid.R5">
+            <mixed-citation publication-type="journal">Thompson CA. Carglumic acid approved to treat genetic hyperammonemia. Am J Health Syst Pharm 2010; 67: 690. <annotation><p><italic toggle="yes">(News report announcing approval of carglumic acid by the FDA and explaining its mechanism of action and clinical use).</italic></p></annotation><pub-id pub-id-type="pmid">20410539</pub-id></mixed-citation>
+          </ref>
+          <ref id="CarglumicAcid.R6">
+            <mixed-citation publication-type="journal">Kasapkara CS, Ezgu FS, Okur I, Tumer L, Biberoglu G, Hasanoglu A. N-carbamylglutamate treatment for acute neonatal hyperammonemia in isovaleric acidemia. Eur J Pediatr 2011; 170: 799-801. <annotation><p><italic toggle="yes">(A newborn who developed severe hyperammonemia on the 3rd day of life was found to have isovaleric acidemia and was treated with a single dose of carglumic acid [150 mg/kg], with rapid decline in ammonia levels [568 to 72 &#x000b5;g/dL] within 6 hours and the child remained well thereafter on a protein restricted diet).</italic></p></annotation><pub-id pub-id-type="pmid">21207059</pub-id></mixed-citation>
+          </ref>
+          <ref id="CarglumicAcid.R7">
+            <mixed-citation publication-type="journal">Gramage Caro T, V&#x000e9;lez-D&#x000ed;az-Pallar&#x000e9;s M, Serna P&#x000e9;rez J, Bermejo Vicedo T. [Carglumic acid for treatment of valproic acid-induced hyperammonaemia in a paediatric patient]. Farm Hosp 2012; 36: 437-8. Spanish. <annotation><p><italic toggle="yes">(A 30 month old boy with refractory epilepsy was treated with valproate for several months and developed hyperammonemia [165.9 &#x000b5;mol/L] with normal routine liver tests, and was treated with carglumic acid while slowly withdrawn from valproate, which was withdrawn with carglumic acid after 58 days with no subsequent increase in ammonia levels).</italic></p></annotation><pub-id pub-id-type="pmid">22858088</pub-id></mixed-citation>
+          </ref>
+          <ref id="CarglumicAcid.R8">
+            <mixed-citation publication-type="journal">Cartagena A, Prasad AN, Rupar CA, Strong M, Tuchman M, Ah Mew N, Prasad C. Recurrent encephalopathy: NAGS (N-acetylglutamate synthase) deficiency in adults. Can J Neurol Sci 2013; 40: 3-9. <annotation><p><italic toggle="yes">(Review of the pathogenesis of NAGS and individual case report in a 38 year old man with long history of fluctuating neurologic symptoms who was found to have hyperammonemia [434 &#x000b5;mol/L] and treated successfully with long term carglumic acid).</italic></p></annotation><pub-id pub-id-type="pmid">23250120</pub-id></mixed-citation>
+          </ref>
+          <ref id="CarglumicAcid.R9">
+            <mixed-citation publication-type="journal">Abacan M, Boneh A. Use of carglumic acid in the treatment of hyperammonaemia during metabolic decompensation of patients with propionic acidaemia. Mol Genet Metab 2013; 109: 397-401. <annotation><p><italic toggle="yes">(Three children with propionic acidemia with episodic bouts of hyperammonemia were treated with carglumic acid and had improvements in ammonia levels within 24 hours of starting treatment).</italic></p></annotation><pub-id pub-id-type="pmid">23791308</pub-id></mixed-citation>
+          </ref>
+          <ref id="CarglumicAcid.R10">
+            <mixed-citation publication-type="journal">Fern&#x000e1;ndez Colomer B, Rekarte Garc&#x000ed;a S, Garc&#x000ed;a L&#x000f3;pez JE, P&#x000e9;rez Gonz&#x000e1;lez C, Montes Granda M, Coto Cotallo GD. [Valproate-induced hyperammonemic encephalopathy in a neonate: treatment with carglumic acid]. An Pediatr (Barc) 2014; 81: 251-5. <annotation><p><italic toggle="yes">(A 20 day old boy with subdural hematoma and seizures developed hyperammonemia within 2 days of starting valproate [398 &#x000b5;mol/L] and improved rapidly and remained normal after stopping valproate and administration of carnitine, carglumic acid and phenylbutyrate; no mention of adverse events).</italic></p></annotation><pub-id pub-id-type="pmid">24315420</pub-id></mixed-citation>
+          </ref>
+          <ref id="CarglumicAcid.R11">
+            <mixed-citation publication-type="journal">Kasapkara CS, Kan&#x0011f;&#x00131;n M, Ta&#x0015f; FF, Top&#x000e7;u Y, Demir R, Ozbek MN. Unusual cause of hyperammonemia in two cases with short-term and long-term valproate therapy successfully treated by single dose carglumic acid. J Pediatr Neurosci 2013; 8: 250-2. <annotation><p><italic toggle="yes">(Two boys, ages 1.5 and 15 years, developed hyperammonemia [189 and 283 &#x000b5;g/dL] and confusion while taking valproate for seizures, both responding rapidly without relapse after stopping valproate and administration of a single dose of carglumic acid [100 mg/kg]).</italic></p></annotation><pub-id pub-id-type="pmid">24470826</pub-id></mixed-citation>
+          </ref>
+          <ref id="CarglumicAcid.R12">
+            <mixed-citation publication-type="journal">van Karnebeek CD, Sly WS, Ross CJ, Salvarinova R, Yaplito-Lee J, Santra S, Shyr C, et al. Mitochondrial carbonic anhydrase VA deficiency resulting from CA5A alterations presents with hyperammonemia in early childhood. Am J Hum Genet 2014; 94: 453-61. <annotation><p><italic toggle="yes">(Description of 4 children with early onset hyperammonemia who had deficiency of carbonic anhydrase VA, 3 of whom responded to carglumic acid with control of hyperammonemia).</italic></p></annotation><pub-id pub-id-type="pmid">24530203</pub-id></mixed-citation>
+          </ref>
+          <ref id="CarglumicAcid.R13">
+            <mixed-citation publication-type="journal">Lazier J, Lupichuk SM, Sosova I, Khan AA. Hyperammonemic encephalopathy in an adenocarcinoma patient managed with carglumic acid. Curr Oncol 2014; 21: e736-9. <annotation><p><italic toggle="yes">(A 24 year old man with metastatic gastric carcinoma developed encephalopathy and hyperammonemia after treatment with cisplatin, epirubicin and capecitabine, and responded to carglumic acid therapy but relapsed on stopping and died in hyperammonemic coma 2 weeks later; genetic testing failed to show a urea cycle disorder or NAGS deficiency).</italic></p></annotation><pub-id pub-id-type="pmid">25302046</pub-id></mixed-citation>
+          </ref>
+          <ref id="CarglumicAcid.R14">
+            <mixed-citation publication-type="journal">Mart&#x000ed;n-Hern&#x000e1;ndez E, Ald&#x000e1;miz-Echevarr&#x000ed;a L, Castej&#x000f3;n-Ponce E, Pedr&#x000f3;n-Giner C, Couce ML, Serrano-Nieto J, Pintos-Morell G, et al. Urea cycle disorders in Spain: an observational, cross-sectional and multicentric study of 104 cases. Orphanet J Rare Dis 2014; 9: 187. <annotation><p><italic toggle="yes">(Cross sectional analysis of 104 patients with urea cycle disorders from 98 families and 21 centers in Spain found most common form was ornithine transcarbamylase deficiency [64%], followed by type 1 citrullinemia [21%] and argininosuccinic aciduria [10%], most were treated with essential amino acid replacement, some with sodium benzoate or phenylbutyrate and one with carglumic acid [with NAGS deficiency]).</italic></p></annotation><pub-id pub-id-type="pmid">25433810</pub-id></mixed-citation>
+          </ref>
+          <ref id="CarglumicAcid.R15">
+            <mixed-citation publication-type="journal">Valayannopoulos V, Baruteau J, Delgado MB, Cano A, Couce ML, Del Toro M, Donati MA, et al. Carglumic acid enhances rapid ammonia detoxification in classical organic acidurias with a favourable risk-benefit profile: a retrospective observational study. Orphanet J Rare Dis 2016; 11: 32. <annotation><p><italic toggle="yes">(Among 41 patients with organic acidurias who were treated during 48 episodes of hyperammonemia with carglumic acid for 1-15 [mean=5.5] days, all had prompt normalization of ammonia levels [median time to normal 1.5 days] and most adverse events were considered unrelated; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">27030250</pub-id></mixed-citation>
+          </ref>
+          <ref id="CarglumicAcid.R16">
+            <mixed-citation publication-type="journal">Matoori S, Leroux JC. Recent advances in the treatment of hyperammonemia. Adv Drug Deliv Rev 2015; 90: 55-68. <annotation><p><italic toggle="yes">(Review of the causes and treatments of hyperammonemia focusing upon newer agents such as rifaximin, sodium benzoate and phenylbutyrate; carglumic acid is indicated for the rare genetic defect of N-acetylglutamate synthetase deficiency, acting to replace NAG and activate the first enzyme of the urea cycle; no discussion of side effects except for bitter taste).</italic></p></annotation><pub-id pub-id-type="pmid">25895618</pub-id></mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec id="CarglumicAcid.OTHER_REFERENCE_LINKS" sec-type="link-group">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=(Carglumic%20Acid)+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D%3A%222999/12/31%22%5BEDat%5D)">Recent References on Carglumic Acid: from PubMed.gov</ext-link>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Carglumic%20Acid">: from ClinicalTrials.gov</ext-link>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Carglumic%20Acid">Trials on Carglumic Acid: from ClinicalTrials.gov</ext-link>
+            </p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Meropenem" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Meropenem</book-part-id>
+      <title-group>
+        <title>Meropenem</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>17</day>
+          <month>1</month>
+          <year>2017</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Mercaptopurine" document-type="chapter">Mercaptopurine</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Mesalamine" document-type="chapter">Mesalamine</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Meropenem.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Meropenem.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Meropenem is a carbapenem antibiotic with broad spectrum of activity that is administered intravenously and used for severe bacterial infections due to sensitive agents. Meropenem is a common cause of mild transient aminotransferase elevations and can rarely result in clinically apparent, cholestatic liver injury.</p>
+        </sec>
+        <sec id="Meropenem.Background">
+          <title>Background</title>
+          <p>Meropenem (mer" oh pen' em) is a broad spectrum, beta-lactam carbapenem antibiotic that acts by binding to the penicillin binding proteins and disrupting bacterial cell wall integrity and synthesis. Meropenem has a broad spectrum of activity against many aerobic and anaerobic gram-positive and gram-negative organisms, including Staphylococcus aureus, Streptococcus pyogenes, Streptococcus agalactiae, viridans group streptococci, Enterococcus faecalis, Pseudomonas aeruginosa, Escherichia coli, Proteus mirabilis, Bacteroides fragilis and Peptostreptococcus species. Meropenem was approved for use in the United States in 1996 and is currently indicated for the treatment of severe or complicated skin, tissue, intraabdominal and urogenital infections as well as sepsis due to susceptible organisms. Its use is generally reserved for severe infections in hospitalized patients. The recommended dosage is 0.5 to 1 gram given intravenously every 8 hours, with dose adjustment for renal impairment. Meropenem is available in vials of 500 mg or 1 gram of lyophilized powder for injection in generic forms and under the brand name Merrem. The most common side effects are diarrhea, nausea and vomiting, skin rash and pruritus.</p>
+        </sec>
+        <sec id="Meropenem.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>Serum aminotransferase elevations have been reported in 1% to 6% of recipients of intravenous meropenem when given for up to 14 days. These elevations are usually transient, mild and asymptomatic; and rarely require dose adjustment. Meropenem has also been linked to rare cases of cholestatic jaundice that usually arises after 1 to 3 weeks of therapy. Immunoallergic features may be present, but are rarely prominent. Autoantibodies are rare. Most cases are mild and self-limited, but at least one instance of vanishing bile duct syndrome related to meropenem therapy has been published (Case 1). Meropenem has not been reported to cause acute liver failure.</p>
+          <p>Likelihood score: D (possible rare cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Meropenem.Mechanism_of_Liver_Injury">
+          <title>Mechanism of Liver Injury</title>
+          <p>The cause of the mild, transient serum enzyme elevations during meropenem therapy is not known. The cholestatic hepatitis attributed to the carbapenems is probably immunoallergic and resembles the rare clinically apparent liver injury that has been linked to penicillins and cephalosporins.</p>
+        </sec>
+        <sec id="Meropenem.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>The liver injury due to the meropenem is usually mild and self-limited. Rarely, meropenem and other carbapenems can cause a clinically apparent and protracted cholestatic hepatitis that is usually self-limiting, but can lead to vanishing bile duct syndrome. In patients with vanishing bile duct syndrome, corticosteroids are often used, but have not been shown to be beneficial and are best avoided. Some patients may benefit from symptomatic therapy of the pruritus associated with cholestasis using antihistamines, ursodiol or cholestyramine. There is little information on possible cross sensitivity to liver injury among the different beta-lactam antibiotics, but patients with clinically apparent liver injury due to meropenem should probably avoid reexposure as well as other carbapenems.</p>
+          <p>References to the safety and potential hepatotoxicity of meropenem are given in the Overview section on Carbapenems.</p>
+          <p>Drug Class: <related-object source-id="livertox" document-id="Antiinfective">Antiinfective Agents</related-object>, <related-object source-id="livertox" document-id="Carbapenems">Carbapenems</related-object></p>
+          <p>Other Drugs in the Subclass, Carbapenems: <related-object source-id="livertox" document-id="Doripenem">Doripenem</related-object>, <related-object source-id="livertox" document-id="Ertapenem">Ertapenem</related-object>, <related-object source-id="livertox" document-id="Imipenemcilastatin">Imipenem</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Meropenem.CASE_REPORT">
+        <title>CASE REPORT</title>
+        <sec id="Meropenem.Case_1._Cholestatic_hepatitis_">
+          <title>Case 1. Cholestatic hepatitis and vanishing bile duct syndrome due to meropenem</title>
+          <p>(Modified from: Schumaker AL, Okulicz JF. Meropenem-induced vanishing bile duct syndrome. Pharmacotherapy 2010; 30: 335e-338e. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/pubmed/20812433">PubMed Citation</ext-link>).</p>
+          <p>A 60 year old woman developed jaundice and pruritus 3 weeks after starting treatment with intravenous meropenem (1 g twice daily) for a brain abscess. Her medical history included type 2 diabetes, diabetic neprhopathy, hypertension and hyperlipidemia for which she was taking glipizide (5 mg daily), atorvastatin (40 mg daily), telmistartan (80 mg daily), and calcium acetate (667 mg thrice daily) long term. Two months before presentation with jaundice she developed a brain abscess thought to be a complication of otitis media. Cultures were negative and she was initially treated with ceftriaxone and metronidazole. Levetiracetam (250 mg twice daily) was started for control of seizures. Because of antibiotic induced leukopenia, her antibiotic regimen was changed to merepenem, which was continued for 3 weeks and discontinued promptly when she developed jaundice. At that time, examination revealed jaundice, but no fever, rash, lymphadenopathy, splenomegaly or hepatomegaly. Laboratory results showed a serum bilirubin of 11.2 mg/dL (direct 9.9 mg/dL), ALT 83 U/L, AST 238 U/L, alkaline phosphatase 1467 U/L and GGT 230 U/L. These values had been normal before she started meropenem (Table). The prothrombin time was 15.6 seconds and blood counts were normal. Serum creatinine was mildly elevated, but stable (2.4 mg/dL). Tests for hepatitis B and C were negative as were routine autoantibodies. Abdominal ultrasound followed by ERCP showed no abnormalities of the gallbladder or bile ducts. A liver biopsy showed marked cholestasis, mild inflammation and paucity of bile ducts in portal areas. She was treated with ursodiol and followed without other specific therapy. Her liver tests gradually improved, but she was still jaundiced 5 months later.</p>
+          <sec id="Meropenem.Key_Points">
+            <title>Key Points</title>
+            <table-wrap id="Meropenem.T1" position="anchor" orientation="portrait">
+              <table>
+                <tbody>
+                  <tr>
+                    <td valign="top" rowspan="1" colspan="1">
+                      <bold>Medication:</bold>
+                    </td>
+                    <td valign="top" rowspan="1" colspan="1">Meropenem</td>
+                  </tr>
+                  <tr>
+                    <td valign="top" rowspan="1" colspan="1">
+                      <bold>Pattern:</bold>
+                    </td>
+                    <td valign="top" rowspan="1" colspan="1">Cholestatic (R = 0.2)</td>
+                  </tr>
+                  <tr>
+                    <td valign="top" rowspan="1" colspan="1">
+                      <bold>Severity:</bold>
+                    </td>
+                    <td valign="top" rowspan="1" colspan="1">4+ (prolonged Jaundice)</td>
+                  </tr>
+                  <tr>
+                    <td valign="top" rowspan="1" colspan="1">
+                      <bold>Latency:</bold>
+                    </td>
+                    <td valign="top" rowspan="1" colspan="1">3 weeks</td>
+                  </tr>
+                  <tr>
+                    <td valign="top" rowspan="1" colspan="1">
+                      <bold>Recovery:</bold>
+                    </td>
+                    <td valign="top" rowspan="1" colspan="1">Incomplete at 5 months</td>
+                  </tr>
+                  <tr>
+                    <td valign="top" rowspan="1" colspan="1">
+                      <bold>Other medications:</bold>
+                    </td>
+                    <td valign="top" rowspan="1" colspan="1">Glipizide, atorvastatin, telmistartan, calcium, ceftriaxone, metronidazole, levetiracetam</td>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Meropenem.Laboratory_Values">
+            <title>Laboratory Values</title>
+            <table-wrap id="Meropenem.T2" position="anchor" orientation="portrait">
+              <table>
+                <tbody>
+                  <tr>
+                    <td rowspan="1" colspan="1">
+                      <bold>Time After Starting</bold>
+                    </td>
+                    <td rowspan="1" colspan="1">
+                      <bold>Time After Stopping</bold>
+                    </td>
+                    <td rowspan="1" colspan="1">
+                      <bold>ALT* (U/L)</bold>
+                    </td>
+                    <td rowspan="1" colspan="1">
+                      <bold>Alk P* (U/L)</bold>
+                    </td>
+                    <td rowspan="1" colspan="1">
+                      <bold>Bilirubin* (mg/dL)</bold>
+                    </td>
+                    <td rowspan="1" colspan="1">
+                      <bold>Other</bold>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Pre</td>
+                    <td rowspan="1" colspan="1"/>
+                    <td rowspan="1" colspan="1">25</td>
+                    <td rowspan="1" colspan="1">100</td>
+                    <td rowspan="1" colspan="1">0.5</td>
+                    <td rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">0</td>
+                    <td rowspan="1" colspan="1"/>
+                    <td rowspan="1" colspan="1">25</td>
+                    <td rowspan="1" colspan="1">100</td>
+                    <td rowspan="1" colspan="1">0.5</td>
+                    <td rowspan="1" colspan="1">Meropenem started</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">1 week</td>
+                    <td rowspan="1" colspan="1"/>
+                    <td rowspan="1" colspan="1">25</td>
+                    <td rowspan="1" colspan="1">100</td>
+                    <td rowspan="1" colspan="1">0.5</td>
+                    <td rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">3 weeks</td>
+                    <td rowspan="1" colspan="1">0</td>
+                    <td rowspan="1" colspan="1">83</td>
+                    <td rowspan="1" colspan="1">1320</td>
+                    <td rowspan="1" colspan="1">11.2</td>
+                    <td rowspan="1" colspan="1">Meropenem stopped</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">4 weeks</td>
+                    <td rowspan="1" colspan="1">1 week</td>
+                    <td rowspan="1" colspan="1">180</td>
+                    <td rowspan="1" colspan="1">1467</td>
+                    <td rowspan="1" colspan="1">16</td>
+                    <td rowspan="1" colspan="1">ERCP</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">5 weeks</td>
+                    <td rowspan="1" colspan="1">2 weeks</td>
+                    <td rowspan="1" colspan="1">130</td>
+                    <td rowspan="1" colspan="1">1350</td>
+                    <td rowspan="1" colspan="1">22</td>
+                    <td rowspan="1" colspan="1">Liver biopsy</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">6 weeks</td>
+                    <td rowspan="1" colspan="1">3 weeks</td>
+                    <td rowspan="1" colspan="1">110</td>
+                    <td rowspan="1" colspan="1">1020</td>
+                    <td rowspan="1" colspan="1">27</td>
+                    <td rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">7 weeks</td>
+                    <td rowspan="1" colspan="1">4 weeks</td>
+                    <td rowspan="1" colspan="1">90</td>
+                    <td rowspan="1" colspan="1">625</td>
+                    <td rowspan="1" colspan="1">22</td>
+                    <td rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">8 weeks</td>
+                    <td rowspan="1" colspan="1">5 weeks</td>
+                    <td rowspan="1" colspan="1">100</td>
+                    <td rowspan="1" colspan="1">500</td>
+                    <td rowspan="1" colspan="1">23</td>
+                    <td rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">10 weeks</td>
+                    <td rowspan="1" colspan="1">7 weeks</td>
+                    <td rowspan="1" colspan="1">90</td>
+                    <td rowspan="1" colspan="1">320</td>
+                    <td rowspan="1" colspan="1">19</td>
+                    <td rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">14 weeks</td>
+                    <td rowspan="1" colspan="1">11 weeks</td>
+                    <td rowspan="1" colspan="1">50</td>
+                    <td rowspan="1" colspan="1">400</td>
+                    <td rowspan="1" colspan="1">13</td>
+                    <td rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">18 weeks</td>
+                    <td rowspan="1" colspan="1">15 weeks</td>
+                    <td rowspan="1" colspan="1">30</td>
+                    <td rowspan="1" colspan="1">280</td>
+                    <td rowspan="1" colspan="1">11</td>
+                    <td rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">19 weeks</td>
+                    <td rowspan="1" colspan="1">16 weeks</td>
+                    <td rowspan="1" colspan="1">50</td>
+                    <td rowspan="1" colspan="1">250</td>
+                    <td rowspan="1" colspan="1">8</td>
+                    <td rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td colspan="2" rowspan="1">Normal Values</td>
+                    <td rowspan="1" colspan="1">&#x0003c;40</td>
+                    <td rowspan="1" colspan="1">&#x0003c;148</td>
+                    <td rowspan="1" colspan="1">
+                      <bold>&#x0003c;1.2</bold>
+                    </td>
+                    <td rowspan="1" colspan="1"/>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+            <p>* Values estimated from Figure 1.</p>
+          </sec>
+          <sec id="Meropenem.Comment">
+            <title>Comment</title>
+            <p>While the carbapenems can commonly cause asymptomatic serum enzyme elevations, clinically apparent liver injury from their use is quite rare. The few case reports in the literature suggest that the carbapenems cause a cholestatic hepatitis much like occurs with the penicillins and cephalosporins with a latency of 1 to 3 weeks and a mild, self-limiting course. The current report, however, demonstrates that severe cholestatic liver injury can result in bile duct damage and loss and, if sufficiently severe, can lead to prolonged cholestasis and jaundice and even end stage liver disease. While penicillin- and carbapenem induced cholestatic liver injury is believed to be immunologically mediated, patients do not always have immunoallergic features, such as rash, fever, facial edema and eosinophilia.</p>
+          </sec>
+        </sec>
+      </sec>
+      <sec id="Meropenem.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <boxed-text position="anchor" id="Meropenem.BPI" orientation="portrait">
+          <p>
+            <bold>REPRESENTATIVE TRADE NAMES</bold>
+          </p>
+          <p>Meropenem &#x02013; Generic, Merrem&#x000ae;</p>
+          <p>
+            <bold>DRUG CLASS</bold>
+          </p>
+          <p>Antiinfective Agents</p>
+          <p>
+            <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=meropenem">COMPLETE LABELING</ext-link>
+          </p>
+          <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+        </boxed-text>
+      </sec>
+      <sec id="Meropenem.CHEMICAL_FORMULA_AND_STRUCTURE">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Meropenem.T3" position="anchor" orientation="portrait">
+          <table>
+            <thead>
+              <tr>
+                <th id="hd_h_Meropenem.T3_1_1_1_1" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Meropenem.T3_1_1_1_2" rowspan="1" colspan="1">CAS REGISTRY NO</th>
+                <th id="hd_h_Meropenem.T3_1_1_1_3" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Meropenem.T3_1_1_1_4" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Meropenem.T3_1_1_1_1" rowspan="1" colspan="1">Meropenem</td>
+                <td headers="hd_h_Meropenem.T3_1_1_1_2" rowspan="1" colspan="1">
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135017839">119478-56-7</ext-link>
+                </td>
+                <td headers="hd_h_Meropenem.T3_1_1_1_3" rowspan="1" colspan="1">C17-H25-N3-O5-S.H2-O</td>
+                <td headers="hd_h_Meropenem.T3_1_1_1_4" rowspan="1" colspan="1">
+                  <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Meropenem_Structure.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait">
+                    <alt-text>Meropenem chemical structure</alt-text>
+                  </graphic>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Meropenem.OTHER_REFERENCE_LINKS" sec-type="link-group">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=meropenem/AE+AND+Human%5BMH%5D+AND+(%20drug-induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%222009/1/1%22%5BEDat%5D%3A%222999/12/31%22%5BEDat%5D)">Recent References on Meropenem: from PubMed.gov</ext-link>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=meropenem">Trials on Meropenem: from ClinicalTrials.gov</ext-link>
+            </p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

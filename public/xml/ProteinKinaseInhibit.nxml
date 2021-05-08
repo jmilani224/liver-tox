@@ -1,0 +1,565 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="ProteinKinaseInhibit" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">ProteinKinaseInhibit</book-part-id>
+      <title-group>
+        <title>Protein Kinase Inhibitors</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>5</day>
+          <month>4</month>
+          <year>2021</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="HIVProteaseInhibitor" document-type="chapter">Protease Inhibitors (HIV)</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="ProtonPumpInhibitors" document-type="chapter">Proton Pump Inhibitors</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="ProteinKinaseInhibit.OVERVIEW">
+        <title>OVERVIEW</title>
+        <p content-type="pubmed-excerpt">The kinase inhibitors are a large group of unique and potent antineoplastic agents which specifically target protein kinases that are altered in cancer cells and that account for some of their abnormal growth. Protein kinases are ubiquitous intracellular and cell surface proteins that play critical roles in cell signaling pathways involved in metabolism, injury responses, adaption, growth and differentiation. They act by adding a phosphate group to a protein (phosphorylation), usually on a specific amino acid which often makes the protein or enzyme "active". The human genome has more than 500 protein kinases and they can be classified as (1) tyrosine, (2) serine-theonine or (3) nonspecific (both), based upon their amino acid specificity. Many protein kinases are cell surface receptors and act to initiate an intracellular pathway of activation, after the receptor is engaged by its ligand, typically a cytokine or growth factor. Inhibitors of these kinases are called protein kinase receptor inhibitors. Other kinases are intracellular and take part in cell signaling. These kinases can be targeted by "non-receptor" protein kinases. Finally, some kinase inhibitors have specificity for multiple kinases and are called "multi-kinase inhibitors."</p>
+        <p content-type="pubmed-excerpt">Protein kinases can be specifically involved in cell growth, proliferation and differentiation and mutations may lead to unregulated growth and proliferation that is typical of cancerous cells. These mutated protein kinases represent an attractive target for anticancer agents. The potent activity and lack of generalized toxicity of the kinase inhibitors relate to the specificity of antagonist for the mutated protein. In like manner, their toxicity often relates to off-target activity, either to the unmutated kinase or to closely related, normal kinases.</p>
+        <p content-type="pubmed-excerpt">The protein kinases can be categorized based upon the amino acid that they phosphorylate: either serine, threonine or tyrosine. The tyrosine kinase receptor inhibitors were the initial and are perhaps the best characterized kinase inhibitors. The protein kinase inhibitors are relatively recently developed agents, all having been introduced since 2001. They are unique and represent a major advance in cancer chemotherapy, away from broadly cytotoxic agents and towards drugs that specifically target the molecular abnormalities of cancer cells. The initial tyrosine kinase inhibitor approved for use in the United States was imatinib (Gleevec: 2001) which is used to treat Philadelphia chromosome positive chronic lymphocytic leukemia, which has a mutated kinase receptor (BCR-ABL) that is created by the specific translocation that creates the Philadelphia chromosome. Imatinib is a specific inhibitor of the BCR-ABL kinase. The introduction of this first protein kinase inhibitor was followed by more than a dozen others within the next 10 years.</p>
+        <p>While most kinase inhibitors are antineoplastic agents, a few are also used for benign conditions including macular degeneration (pegaptanib), rheumatoid arthritis (tofacitinib) and idiopathic pulmonary fibrosis (nintedanib). Generally, however, the side effect profile of kinase inhibitors are such that they are reserved for severe, progressive, debilitating or potentially fatal conditions.</p>
+        <p>The protein kinase inhibitors all have some degree of hepatotoxicity and many have been linked to cases of clinically apparent liver injury which can be severe and even fatal. Interestingly, some of the cases of liver injury attributed to the protein kinase antagonists had features of autoimmunity, so that the liver injury may be caused by an immunologic reaction to metabolic products of the agent itself, rather than off-target activity of the inhibitor. In addition, at least two protein kinase inhibitors (imatinib and nilotinib) have been linked to instances of reactivation of hepatitis B. It is not clear whether this relates to a specific activity of the kinase inhibitor on hepatitis B virus replication or whether it is due to immunosuppression. Other kinase inhibitors have been linked to cases of rare and idiosyncratic liver injury, which can be hepatocellular or cholestatic and is typically self-limited but may be fatal.</p>
+        <p>The Table below lists the protein kinase inhibitors discussed in LiverTox, their brand name, predominant protein kinase (PK) specificity, year of approval in the United States, likelihood score, and major clinical uses.</p>
+        <sec id="ProteinKinaseInhibit.PROTEIN_KINASE_INHI">
+          <title>
+            <underline>PROTEIN KINASE INHIBITORS</underline>
+          </title>
+          <p>
+            <italic toggle="yes">Underlined Generic Names link to a LiverTox record.</italic>
+          </p>
+          <table-wrap id="ProteinKinaseInhibit.Tc" orientation="portrait" position="anchor">
+            <table frame="hsides" rules="groups">
+              <tbody>
+                <tr>
+                  <td colspan="5" valign="top" align="left" scope="col" rowspan="1">
+                    <bold>CANCER</bold>
+                  </td>
+                </tr>
+                <tr>
+                  <td valign="top" align="left" scope="row" rowspan="1" colspan="1">
+                    <bold>Generic Name</bold>
+                    <break/>
+                    <bold>Brand Name</bold>
+                  </td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">
+                    <bold>Kinase Target</bold>
+                  </td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">
+                    <bold>Approval</bold>
+                  </td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">
+                    <bold>Likelihood<break/>Score&#x02020;</bold>
+                  </td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">
+                    <bold>Major Uses&#x02020;&#x02020;</bold>
+                  </td>
+                </tr>
+                <tr>
+                  <td valign="top" align="left" scope="row" rowspan="1" colspan="1"><related-object link-type="booklink" source-id="livertox" document-id="Abemaciclib" document-type="chapter">Abemaciclib</related-object><break/>Verzenio</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">Cyclin dependent kinase 4/6</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">2017</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">E*</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">Breast cancer</td>
+                </tr>
+                <tr>
+                  <td valign="top" align="left" scope="row" rowspan="1" colspan="1"><related-object link-type="booklink" source-id="livertox" document-id="Acalabrutinib" document-type="chapter">Acalabrutinib</related-object><break/>Calquence</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">Bruton kinase</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">2017</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">D</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">Mantel cell lymphoma</td>
+                </tr>
+                <tr>
+                  <td valign="top" align="left" scope="row" rowspan="1" colspan="1"><related-object link-type="booklink" source-id="livertox" document-id="Afatinib" document-type="chapter">Afatinib</related-object><break/>Gilotrif</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">EGFR, HER2</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">2013</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">D</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">NSCLC</td>
+                </tr>
+                <tr>
+                  <td valign="top" align="left" scope="row" rowspan="1" colspan="1"><related-object link-type="booklink" source-id="livertox" document-id="Alectinib" document-type="chapter">Alectinib</related-object><break/>Alecensa</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">ALK</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">2015</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">D</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">NSCLC</td>
+                </tr>
+                <tr>
+                  <td valign="top" align="left" scope="row" rowspan="1" colspan="1"><related-object link-type="booklink" source-id="livertox" document-id="Axitinib" document-type="chapter">Axitinib</related-object><break/>Inlyta</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">VEGFR 1-3</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">2012</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">E</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">Renal cell cancer</td>
+                </tr>
+                <tr>
+                  <td valign="top" align="left" scope="row" rowspan="1" colspan="1"><related-object link-type="booklink" source-id="livertox" document-id="EncorafenibBinimetin" document-type="chapter">Binimetinib</related-object><break/>Mektovi</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">BRAF</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">2018</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">E*</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">Melanoma</td>
+                </tr>
+                <tr>
+                  <td valign="top" align="left" scope="row" rowspan="1" colspan="1"><related-object link-type="booklink" source-id="livertox" document-id="Bortezomib" document-type="chapter">Bortezomib</related-object><break/>Velcade</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">Proteasome</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">2003</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">C</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">Multiple myeloma, Mantle cell lymphoma</td>
+                </tr>
+                <tr>
+                  <td valign="top" align="left" scope="row" rowspan="1" colspan="1"><related-object link-type="booklink" source-id="livertox" document-id="Bosutinib" document-type="chapter">Bosutinib</related-object><break/>Bosulif</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">BCR-ABL, scr</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">2012</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">E*</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">CML, resistant</td>
+                </tr>
+                <tr>
+                  <td valign="top" align="left" scope="row" rowspan="1" colspan="1"><related-object link-type="booklink" source-id="livertox" document-id="Brigatinib" document-type="chapter">Brigatinib</related-object><break/>Alunbrig</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">ALK</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">2017</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">E*</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">NSCLC</td>
+                </tr>
+                <tr>
+                  <td valign="top" align="left" scope="row" rowspan="1" colspan="1"><related-object link-type="booklink" source-id="livertox" document-id="Cabozantinib" document-type="chapter">Cabozantinib</related-object><break/>Cometriq, Cabometyx</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">MET, VEGFR-2</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">2012</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">E*</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">Medullary thyroid cancer, Renal cell cancer</td>
+                </tr>
+                <tr>
+                  <td valign="top" align="left" scope="row" rowspan="1" colspan="1"><related-object link-type="booklink" source-id="livertox" document-id="Carfilzomib" document-type="chapter">Carfilzomib</related-object><break/>Kyprolis</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">Proteasome</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">2012</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">E*</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">Multiple myeloma, resistant</td>
+                </tr>
+                <tr>
+                  <td valign="top" align="left" scope="row" rowspan="1" colspan="1"><related-object link-type="booklink" source-id="livertox" document-id="Ceritinib" document-type="chapter">Ceritinib</related-object><break/>Zykadia</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">ALK</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">2014</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">D</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">NSCLC</td>
+                </tr>
+                <tr>
+                  <td valign="top" align="left" scope="row" rowspan="1" colspan="1"><related-object link-type="booklink" source-id="livertox" document-id="Cobimetinib" document-type="chapter">Cobimetinib</related-object><break/>Cotellic</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">MEK</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">2015</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">D</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">Melanoma</td>
+                </tr>
+                <tr>
+                  <td valign="top" align="left" scope="row" rowspan="1" colspan="1"><related-object link-type="booklink" source-id="livertox" document-id="Copanlisib" document-type="chapter">Copanlisib</related-object><break/>Aliqopa</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">PI3K&#x003b1;/&#x003b4;</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">2017</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">E*</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">Follicular lymphoma</td>
+                </tr>
+                <tr>
+                  <td valign="top" align="left" scope="row" rowspan="1" colspan="1"><related-object link-type="booklink" source-id="livertox" document-id="Crizotinib" document-type="chapter">Crizotinib</related-object><break/>Xalkori</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">ALK</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">2011</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">D</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">NSCLC</td>
+                </tr>
+                <tr>
+                  <td valign="top" align="left" scope="row" rowspan="1" colspan="1"><related-object link-type="booklink" source-id="livertox" document-id="Dabrafenib" document-type="chapter">Dabrafenib</related-object><break/>Tafinlar</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">BRAF</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">2013</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">E*</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">Melanoma</td>
+                </tr>
+                <tr>
+                  <td valign="top" align="left" scope="row" rowspan="1" colspan="1"><related-object link-type="booklink" source-id="livertox" document-id="Dacomitinib" document-type="chapter">Dacomitinib</related-object><break/>Vizimpro</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">HER1,2,3</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">2018</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">E*</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">NSCLC</td>
+                </tr>
+                <tr>
+                  <td valign="top" align="left" scope="row" rowspan="1" colspan="1"><related-object link-type="booklink" source-id="livertox" document-id="Dasatinib" document-type="chapter">Dasatinib</related-object><break/>Sprycel</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">BCR-ABL, src</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">2006</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">D</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">CML, resistant</td>
+                </tr>
+                <tr>
+                  <td valign="top" align="left" scope="row" rowspan="1" colspan="1"><related-object link-type="booklink" source-id="livertox" document-id="Duvelisib" document-type="chapter">Duvelisib</related-object><break/>Copiktra</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">PI3K</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">2018</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">E*</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">CLL, Small cell lymphoma</td>
+                </tr>
+                <tr>
+                  <td valign="top" align="left" scope="row" rowspan="1" colspan="1"><related-object link-type="booklink" source-id="livertox" document-id="Enasidenib" document-type="chapter">Enasidenib</related-object><break/>IDHIFA</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">Mutant IDH-2</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">2017</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">E*</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">AML</td>
+                </tr>
+                <tr>
+                  <td valign="top" align="left" scope="row" rowspan="1" colspan="1"><related-object link-type="booklink" source-id="livertox" document-id="EncorafenibBinimetin" document-type="chapter">Encorafenib</related-object><break/>Braftovi</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">BRAF</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">2018</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">E*</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">Melanoma</td>
+                </tr>
+                <tr>
+                  <td valign="top" align="left" scope="row" rowspan="1" colspan="1"><related-object link-type="booklink" source-id="livertox" document-id="Erlotinib" document-type="chapter">Erlotinib</related-object><break/>Tarceva</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">EGFR, HER1</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">2004</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">C</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">NSCLC, Pancreatic cancer</td>
+                </tr>
+                <tr>
+                  <td valign="top" align="left" scope="row" rowspan="1" colspan="1"><related-object link-type="booklink" source-id="livertox" document-id="Gefitinib" document-type="chapter">Gefitinib</related-object><break/>Iressa</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">EGFR</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">2009</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">C</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">NSCLC</td>
+                </tr>
+                <tr>
+                  <td valign="top" align="left" scope="row" rowspan="1" colspan="1"><related-object link-type="booklink" source-id="livertox" document-id="Gilteritinib" document-type="chapter">Gilteritinib</related-object><break/>Xospata</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">FLT3</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">2018</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">E*</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">AML</td>
+                </tr>
+                <tr>
+                  <td valign="top" align="left" scope="row" rowspan="1" colspan="1"><related-object link-type="booklink" source-id="livertox" document-id="Glasdegib" document-type="chapter">Glasdegib</related-object><break/>Daurismo</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">Hedgehog</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">2018</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">E*</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">AML</td>
+                </tr>
+                <tr>
+                  <td valign="top" align="left" scope="row" rowspan="1" colspan="1"><related-object link-type="booklink" source-id="livertox" document-id="Ibrutinib" document-type="chapter">Ibrutinib</related-object><break/>Imbruvica</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">Bruton kinase</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">2013</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">D</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">Mantle cell lymphoma, CLL</td>
+                </tr>
+                <tr>
+                  <td valign="top" align="left" scope="row" rowspan="1" colspan="1"><related-object link-type="booklink" source-id="livertox" document-id="Idelalisib" document-type="chapter">Idelalisib</related-object><break/>Zydelig</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">PI3K&#x003b4;</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">2014</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">D</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">CLL, Non-Hodgkin lymphoma</td>
+                </tr>
+                <tr>
+                  <td valign="top" align="left" scope="row" rowspan="1" colspan="1"><related-object link-type="booklink" source-id="livertox" document-id="Imatinib" document-type="chapter">Imatinib</related-object><break/>Gleevec</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">BCR-ABL, c-Kit</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">2001</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">B</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">CML, GIST</td>
+                </tr>
+                <tr>
+                  <td valign="top" align="left" scope="row" rowspan="1" colspan="1"><related-object link-type="booklink" source-id="livertox" document-id="Ivosidenib" document-type="chapter">Ivosidenib</related-object><break/>Tibsovo</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">Mutant IHD-1</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">2018</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">E*</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">AML</td>
+                </tr>
+                <tr>
+                  <td valign="top" align="left" scope="row" rowspan="1" colspan="1"><related-object link-type="booklink" source-id="livertox" document-id="Ixazomib" document-type="chapter">Ixazomib</related-object><break/>Ninlaro</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">26S Proteasome</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">2015</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">E*</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">Multiple myeloma</td>
+                </tr>
+                <tr>
+                  <td valign="top" align="left" scope="row" rowspan="1" colspan="1"><related-object link-type="booklink" source-id="livertox" document-id="Lapatinib" document-type="chapter">Lapatinib</related-object><break/>Tykerb</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">EGFR, HER2</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">2007</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">D</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">Breast cancer, HER2 positive</td>
+                </tr>
+                <tr>
+                  <td valign="top" align="left" scope="row" rowspan="1" colspan="1"><related-object link-type="booklink" source-id="livertox" document-id="Larotrectinib" document-type="chapter">Larotrectinib</related-object><break/>Vitrakvi</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">NTRK</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">2018</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">E*</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">Solid tumors</td>
+                </tr>
+                <tr>
+                  <td valign="top" align="left" scope="row" rowspan="1" colspan="1"><related-object link-type="booklink" source-id="livertox" document-id="Lenvatinib" document-type="chapter">Lenvatinib</related-object><break/>Lenvima</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">VEGFR 1-3, FGF 1-4, PDGF, c-Kit, RET</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">2015<break/>2016<break/>2018</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">D</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">Thyroid cancer<break/>Renal cell cancer<break/>Hepatocellular cancer</td>
+                </tr>
+                <tr>
+                  <td valign="top" align="left" scope="row" rowspan="1" colspan="1"><related-object link-type="booklink" source-id="livertox" document-id="Lorlatinib" document-type="chapter">Lorlatinib</related-object><break/>Lorbrena</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">ALK</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">2018</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">E*</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">NSCLC</td>
+                </tr>
+                <tr>
+                  <td valign="top" align="left" scope="row" rowspan="1" colspan="1"><related-object link-type="booklink" source-id="livertox" document-id="Midostaurin" document-type="chapter">Midostaurin</related-object><break/>Rydapt</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">FLT3</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">2018</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">E*</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">AML</td>
+                </tr>
+                <tr>
+                  <td valign="top" align="left" scope="row" rowspan="1" colspan="1"><related-object link-type="booklink" source-id="livertox" document-id="Neratinib" document-type="chapter">Neratinib</related-object><break/>Nerlynx</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">HER2</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">2017</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">E*</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">Breast cancer</td>
+                </tr>
+                <tr>
+                  <td valign="top" align="left" scope="row" rowspan="1" colspan="1"><related-object link-type="booklink" source-id="livertox" document-id="Nilotinib" document-type="chapter">Nilotinib</related-object><break/>Tasigna</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">BCR-ABL</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">2007</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">E*</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">CML, resistant</td>
+                </tr>
+                <tr>
+                  <td valign="top" align="left" scope="row" rowspan="1" colspan="1"><related-object link-type="booklink" source-id="livertox" document-id="Niraparib" document-type="chapter">Niraparib</related-object><break/>Zejula</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">PARP</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">2017</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">E*</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">Ovarian cancer</td>
+                </tr>
+                <tr>
+                  <td valign="top" align="left" scope="row" rowspan="1" colspan="1"><related-object link-type="booklink" source-id="livertox" document-id="Olaparib" document-type="chapter">Olaparib</related-object><break/>Lynparza</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">PARP</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">2014<break/>2018</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">E</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">Ovarian cancer<break/>Advanced breast cancer</td>
+                </tr>
+                <tr>
+                  <td valign="top" align="left" scope="row" rowspan="1" colspan="1"><related-object link-type="booklink" source-id="livertox" document-id="Osimertinib" document-type="chapter">Osimertinib</related-object><break/>Tagrisso</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">EGFR</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">2015</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">E*</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">NSCLC, refractory</td>
+                </tr>
+                <tr>
+                  <td valign="top" align="left" scope="row" rowspan="1" colspan="1"><related-object link-type="booklink" source-id="livertox" document-id="Palbociclib" document-type="chapter">Palbociclib</related-object><break/>Ibrance</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">ER+, HER2</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">2015</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">E*</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">Breast cancer, HER2 negative</td>
+                </tr>
+                <tr>
+                  <td valign="top" align="left" scope="row" rowspan="1" colspan="1"><related-object link-type="booklink" source-id="livertox" document-id="Pazopanib" document-type="chapter">Pazopanib</related-object><break/>Votrient</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">VEGFR 1-3</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">2009</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">C</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">Renal cell cancer</td>
+                </tr>
+                <tr>
+                  <td valign="top" align="left" scope="row" rowspan="1" colspan="1"><related-object link-type="booklink" source-id="livertox" document-id="Pexidartinib" document-type="chapter">Pexidartinib</related-object><break/>Turalio</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">CSF1, FLT3</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">2019</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">B</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">Tenosynovial giant cell tumor</td>
+                </tr>
+                <tr>
+                  <td valign="top" align="left" scope="row" rowspan="1" colspan="1"><related-object link-type="booklink" source-id="livertox" document-id="Ponatinib" document-type="chapter">Ponatinib</related-object><break/>Iclusig</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">BCR-ABL</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">2013</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">E*</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">CML, ALL</td>
+                </tr>
+                <tr>
+                  <td valign="top" align="left" scope="row" rowspan="1" colspan="1"><related-object link-type="booklink" source-id="livertox" document-id="Regorafenib" document-type="chapter">Regorafenib</related-object><break/>Stivarga</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">VEGFR 1-3, PDGF</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">2012</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">D</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">Colorectal cancer, GIST</td>
+                </tr>
+                <tr>
+                  <td valign="top" align="left" scope="row" rowspan="1" colspan="1"><related-object link-type="booklink" source-id="livertox" document-id="Ribociclib" document-type="chapter">Ribociclib</related-object><break/>Kisqali</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">Cyclin dependent kinase 4/6</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">2017</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">C</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">Breast cancer</td>
+                </tr>
+                <tr>
+                  <td valign="top" align="left" scope="row" rowspan="1" colspan="1"><related-object link-type="booklink" source-id="livertox" document-id="Rucaparib" document-type="chapter">Rucaparib</related-object><break/>Rubraca</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">PARP</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">2016</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">D*</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">Ovarian cancer, advanced</td>
+                </tr>
+                <tr>
+                  <td valign="top" align="left" scope="row" rowspan="1" colspan="1"><related-object link-type="booklink" source-id="livertox" document-id="Ruxolitinib" document-type="chapter">Ruxolitinib</related-object><break/>Jakafi</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">Janus kinase</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">2011<break/>2014<break/>2019</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">C</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">Myelofibrosis<break/>Polycythemia vera<break/>Acute graft-vs-host disease, steroid-resistant</td>
+                </tr>
+                <tr>
+                  <td valign="top" align="left" scope="row" rowspan="1" colspan="1"><related-object link-type="booklink" source-id="livertox" document-id="Selumetinib" document-type="chapter">Selumetinib</related-object><break/>Koselugo</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">MEK 1/2</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">2020</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">E*</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">Neurofibromatosis type 1</td>
+                </tr>
+                <tr>
+                  <td valign="top" align="left" scope="row" rowspan="1" colspan="1"><related-object link-type="booklink" source-id="livertox" document-id="Sonidegib" document-type="chapter">Sonidegib</related-object><break/>Odomzo</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">Hedgehog</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">2015</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">E*</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">Basal cell skin cancer</td>
+                </tr>
+                <tr>
+                  <td valign="top" align="left" scope="row" rowspan="1" colspan="1"><related-object link-type="booklink" source-id="livertox" document-id="Sorafenib" document-type="chapter">Sorafenib</related-object><break/>Nexavar</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">VEGFR 1-3</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">2005<break/>2007<break/>2013</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">C</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">Renal cell cancer<break/>Hepatocellular cancer<break/>Thyroid cancer</td>
+                </tr>
+                <tr>
+                  <td valign="top" align="left" scope="row" rowspan="1" colspan="1"><related-object link-type="booklink" source-id="livertox" document-id="Sunitinib" document-type="chapter">Sunitinib</related-object><break/>Sutent</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">PDGF, c-Kit</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">2006</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">D</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">CML, resistant; GIST, renal cell cancer</td>
+                </tr>
+                <tr>
+                  <td valign="top" align="left" scope="row" rowspan="1" colspan="1"><related-object link-type="booklink" source-id="livertox" document-id="Talazoparib" document-type="chapter">Talazoparib</related-object><break/>Talzenna</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">PARP</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">2018</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">E*</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">Breast cancer</td>
+                </tr>
+                <tr>
+                  <td valign="top" align="left" scope="row" rowspan="1" colspan="1"><related-object link-type="booklink" source-id="livertox" document-id="Trametinib" document-type="chapter">Trametinib</related-object><break/>Mekinist</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">MEK 1/2</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">2013</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">E*</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">Melanoma</td>
+                </tr>
+                <tr>
+                  <td valign="top" align="left" scope="row" rowspan="1" colspan="1"><related-object link-type="booklink" source-id="livertox" document-id="Vandetanib" document-type="chapter">Vandetanib</related-object><break/>Caprelsa</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">VEGFR 2</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">2011</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">E*</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">Medullary thyroid cancer</td>
+                </tr>
+                <tr>
+                  <td valign="top" align="left" scope="row" rowspan="1" colspan="1"><related-object link-type="booklink" source-id="livertox" document-id="Vemurafenib" document-type="chapter">Vemurafenib</related-object><break/>Zelboraf</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">BRAF</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">2011</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">E*</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">Melanoma</td>
+                </tr>
+                <tr>
+                  <td valign="top" align="left" scope="row" rowspan="1" colspan="1"><related-object link-type="booklink" source-id="livertox" document-id="Vismodegib" document-type="chapter">Vismodegib</related-object><break/>Erivedge</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">Hedgehog</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">2012</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">D</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">Basal cell skin cancer</td>
+                </tr>
+                <tr>
+                  <td valign="top" align="left" scope="row" rowspan="1" colspan="1"><related-object link-type="booklink" source-id="livertox" document-id="Zanubrutinib" document-type="chapter">Zanubrutinib</related-object><break/>Brukinsa</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">BTK</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">2019</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">E*</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">Mantel cell lymphoma</td>
+                </tr>
+                <tr>
+                  <td colspan="5" valign="top" align="left" scope="col" rowspan="1">
+                    <bold>MISCELLANEOUS</bold>
+                  </td>
+                </tr>
+                <tr>
+                  <td valign="top" align="left" scope="row" rowspan="1" colspan="1">
+                    <bold>Generic Name</bold>
+                    <break/>
+                    <bold>Brand Name</bold>
+                  </td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">
+                    <bold>Kinase Target</bold>
+                  </td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">
+                    <bold>Approval</bold>
+                  </td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">
+                    <bold>Likelihood<break/>Score&#x02020;</bold>
+                  </td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">
+                    <bold>Major Uses&#x02020;&#x02020;</bold>
+                  </td>
+                </tr>
+                <tr>
+                  <td valign="top" align="left" scope="row" rowspan="1" colspan="1"><related-object link-type="booklink" source-id="livertox" document-id="Baricitinib" document-type="chapter">Baricitinib</related-object><break/>Olumiant</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">Janus kinase</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">2018</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">E*</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">Rheumatoid arthritis</td>
+                </tr>
+                <tr>
+                  <td valign="top" align="left" scope="row" rowspan="1" colspan="1"><related-object link-type="booklink" source-id="livertox" document-id="Fostamatinib" document-type="chapter">Fostamatinib</related-object><break/>Tavalisse</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">Spleen tyrosine kinase</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">2017</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">E*</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">Immune thrombocytopenia</td>
+                </tr>
+                <tr>
+                  <td valign="top" align="left" scope="row" rowspan="1" colspan="1"><related-object link-type="booklink" source-id="livertox" document-id="Lonafarnib" document-type="chapter">Lonafarnib</related-object><break/>Zokinvy</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">FTase</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">2020</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">E*</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">Progeria syndrome</td>
+                </tr>
+                <tr>
+                  <td valign="top" align="left" scope="row" rowspan="1" colspan="1"><related-object link-type="booklink" source-id="livertox" document-id="Nintedanib" document-type="chapter">Nintedanib</related-object><break/>Ofev</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">VEGFR, FGFR, PDGFR</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">2014</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">E*</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">Pulmonary fibrosis</td>
+                </tr>
+                <tr>
+                  <td valign="top" align="left" scope="row" rowspan="1" colspan="1"><related-object link-type="booklink" source-id="livertox" document-id="MacularDegenerAgents" document-type="chapter">Pegaptanib</related-object><break/>Macugen</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">VEGFR 1-3</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">2004</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">E</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">Macular degeneration</td>
+                </tr>
+                <tr>
+                  <td valign="top" align="left" scope="row" rowspan="1" colspan="1"><related-object link-type="booklink" source-id="livertox" document-id="Tofacitinib" document-type="chapter">Tofacitinib</related-object><break/>Xeljanz</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">Janus kinase</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">2012<break/>2017<break/>2018</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">E*</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">Rheumatoid arthritis<break/>Psoriatic arthritis<break/>Ulcerative colitis</td>
+                </tr>
+              </tbody>
+            </table>
+          </table-wrap>
+          <p><bold>&#x02020;</bold> Likelihood Score indicates the likelihood of association with drug induced liver injury, based upon the known potential of the drug to cause such injury.</p>
+          <p><bold>&#x02020;&#x02020;</bold> Abbreviations: ALL, acute lymphocytic leukemia; AML, acute myeloid leukemia; CLL, chronic lymphocytic leukemia; CML, chronic myelogenous leukemia; GIST, gastrointestinal stromal tumor; NSCLC, non-small cell lung cancer.</p>
+        </sec>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

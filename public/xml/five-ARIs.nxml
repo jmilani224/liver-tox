@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="five-ARIs" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">five-ARIs</book-part-id>
+      <title-group>
+        <title>Alpha Reductase Inhibitors</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>9</day>
+          <month>1</month>
+          <year>2018</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Alpha_Peginterferon" document-type="chapter">Alpha Interferon</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Alprazolam" document-type="chapter">Alprazolam</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="five-ARIs.OVERVIEW">
+        <title>OVERVIEW</title>
+        <p content-type="pubmed-excerpt">The 5-alpha reductase inhibitors are a family of agents used to treat benign prostatic hypertrophy. They act by inhibiting the steroid 5-alpha reductase which catalyzes the conversion of testosterone to dihydrotestosterone. Dihydrotestosterone is an important prostatic growth factor and its inhibition causes gradual shrinkage of prostate. Both of the available agents lower serum concentrations of dihydrotestosterone without affecting serum testosterone and usually with minimal antiandrogenic effects.</p>
+        <p content-type="pubmed-excerpt">The 5-alpha reductase inhibitors in clinical use in the United States include two agents of similar chemical structure (azasteroids) and activity: finasteride (Proscar: 1992) and dutasteride (Avodart: 2001). Both agents cause a reduction in the size of the prostate, improve urinary flow and suppress prostate-specific antigen (PSA) levels. Both finasteride and dutasteride are associated with a low rate (&#x0003c;1%) of serum enzyme elevations during chronic therapy, which are usually mild-to-moderate in severity, self-limited in course, and rarely require dose modification or discontinuation. Neither of the 5-alpha reductase inhibitors in current use has been linked to clinically apparent acute liver injury.</p>
+        <p content-type="pubmed-excerpt">The 5-alpha reductase inhibitors used for benign prostatic hypertrophy are discussed individually, with references on their hepatotoxicity given together at the end of this introductory section.</p>
+        <p>Drug Class: <related-object source-id="livertox" document-id="BPHAgents">Benign Prostatic Hypertrophy Agents</related-object>, 5-Alpha Reductase Inhibitors</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>
+              <related-object source-id="livertox" document-id="Dutasteride">Dutasteride</related-object>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <related-object source-id="livertox" document-id="Finasteride">Finasteride</related-object>
+            </p>
+          </list-item>
+        </list>
+      </sec>
+      <sec id="five-ARIs.CHEMICAL_FORMULAS_AND_STRUCTUR">
+        <title>CHEMICAL FORMULAS AND STRUCTURES</title>
+        <table-wrap id="five-ARIs.T1" position="anchor" orientation="portrait">
+          <table>
+            <tbody>
+              <tr>
+                <th id="hd_b_five-ARIs.T1_1_1_1_1" align="center" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_b_five-ARIs.T1_1_1_1_2" align="center" rowspan="1" colspan="1">CAS REGISTRY NUMBER</th>
+                <th id="hd_b_five-ARIs.T1_1_1_1_3" align="center" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_b_five-ARIs.T1_1_1_1_4" align="center" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+              <tr>
+                <td headers="hd_b_five-ARIs.T1_1_1_1_1" valign="middle" align="center" rowspan="1" colspan="1">Dutasteride</td>
+                <td headers="hd_b_five-ARIs.T1_1_1_1_2" valign="middle" align="center" rowspan="1" colspan="1">
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135109202">164656-23-9</ext-link>
+                </td>
+                <td headers="hd_b_five-ARIs.T1_1_1_1_3" valign="middle" align="center" rowspan="1" colspan="1">C27-H30-F6-N2-O2</td>
+                <td headers="hd_b_five-ARIs.T1_1_1_1_4" valign="middle" align="center" rowspan="1" colspan="1">
+                  <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Dutasteride_Structure_000.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait">
+                    <alt-text>Dutasteride Chemical Structure</alt-text>
+                  </graphic>
+                </td>
+              </tr>
+              <tr>
+                <td headers="hd_b_five-ARIs.T1_1_1_1_1" valign="middle" align="center" rowspan="1" colspan="1">Finasteride</td>
+                <td headers="hd_b_five-ARIs.T1_1_1_1_2" valign="middle" align="center" rowspan="1" colspan="1">
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135016317">98319-26-7</ext-link>
+                </td>
+                <td headers="hd_b_five-ARIs.T1_1_1_1_3" valign="middle" align="center" rowspan="1" colspan="1">C23-H36-N2-O2</td>
+                <td headers="hd_b_five-ARIs.T1_1_1_1_4" valign="middle" align="center" rowspan="1" colspan="1">
+                  <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Finasteride_Structure_000.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait">
+                    <alt-text>Finasteride Chemical Structure</alt-text>
+                  </graphic>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="five-ARIs.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 09 January 2018</p>
+        <ref-list id="five-ARIs.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="five-ARIs.R1">
+            <mixed-citation publication-type="other">Zimmerman HJ. Hormonal derivatives and related drugs. In, Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999, pp. 555-88.<annotation><p><italic toggle="yes">(Expert review of hepatotoxicity published in 1999; the 5-alpha reductase inhibitors are not discussed).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="five-ARIs.R2">
+            <mixed-citation publication-type="other">Chitturi S, Farrell GC. Adverse effects of hormones and hormone antagonists on the liver. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd Edition. Amsterdam: Elsevier, 2013. pp 605-20.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of sex hormones; the 5-alpha reductase inhibitors are not discussed).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="five-ARIs.R3">
+            <mixed-citation publication-type="other">Snyder PJ. 5-alpha reductase inhibitors. Androgens. In, Brunton LL, Chabner BA, Knollman BC. Goodman &#x00026; Gilman&#x02019;s The pharmacological basis of therapeutics, 12th ed. New York: McGraw-Hill, 2011. p 1205.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics; 5-alpha reductase inhibitors include finasteride which primarily blocks the type II form of the enzyme and dutasteride which blocks both type I and II forms).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="five-ARIs.R4">
+            <mixed-citation publication-type="journal">Finasteride for benign prostatic hypertrophy. Med Lett Drugs Ther 1992; 34: 83-84. <annotation><p><italic toggle="yes">(Brief summary of efficacy and safety of finasteride shortly after its approval in the US; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">1380630</pub-id></mixed-citation>
+          </ref>
+          <ref id="five-ARIs.R5">
+            <mixed-citation publication-type="journal">McConnell JD, Bruskewitz R, Walsh P, Andriole G, Lieber M, Holtgrewe HL, Albertsen P, et al. The effect of finasteride on the risk of acute urinary retention and the need for surgical treatment among men with benign prostatic hyperplasia. Finasteride Long-Term Efficacy and Safety Study Group. N Engl J Med 1998; 338: 557-63. <annotation><p><italic toggle="yes">(Controlled trial of 4 year course of finasteride vs placebo in 3040 men with symptomatic benign prostatic hypertrophy; side effects included impotence [8.1% vs 3.7%], breast tenderness and enlargement [0.5% vs 0.1%] and rash [0.5% vs 0.1%]; no mention of hepatotoxicity or ALT elevations).</italic></p></annotation><pub-id pub-id-type="pmid">9475762</pub-id></mixed-citation>
+          </ref>
+          <ref id="five-ARIs.R6">
+            <mixed-citation publication-type="journal">Marberger MJ. Long-term effects of finasteride in patients with benign prostatic hyperplasia: a double-blind, placebo-controlled, multicenter study. PROWESS Study Group. Urology 1998; 51: 677-86. <annotation><p><italic toggle="yes">(Controlled trial of finasteride vs placebo in 3270 men treated for 2 years; side effects of finasteride were similar to placebo except for sexually related symptoms, no mention of liver injury or ALT elevations).</italic></p></annotation><pub-id pub-id-type="pmid">9610579</pub-id></mixed-citation>
+          </ref>
+          <ref id="five-ARIs.R7">
+            <mixed-citation publication-type="journal">Dutasteride (Avodart) for benign prostatic hyperplasia. Med Lett Drugs Ther 2002; 44: 109-10. <annotation><p><italic toggle="yes">(Brief summary of efficacy and safety of dutasteride shortly after its approval in the United States; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">12500154</pub-id></mixed-citation>
+          </ref>
+          <ref id="five-ARIs.R8">
+            <mixed-citation publication-type="journal">Roehrborn CG, Boyle P, Nickel JC, Hoefner K, Andriole G; ARIA3001 ARIA3002 and ARIA3003 Study Investigators. Efficacy and safety of a dual inhibitor of 5-alpha-reductase types 1 and 2 (dutasteride) in men with benign prostatic hyperplasia. Urology 2002; 60: 434-41. <annotation><p><italic toggle="yes">(Pooled analysis of 3 trials of dutasteride in 4325 men with symptoms of benign prostatic hypertrophy showing 25% decrease in prostate size; side effects included impotence in ~5%, no mention of hepatotoxicity or ALT elevations).</italic></p></annotation><pub-id pub-id-type="pmid">12350480</pub-id></mixed-citation>
+          </ref>
+          <ref id="five-ARIs.R9">
+            <mixed-citation publication-type="journal">Libecco JF, Bergfeld WF. Finasteride in the treatment of alopecia. Expert Opin Pharmacother 2004; 5: 933-40. <annotation><p><italic toggle="yes">(Review of chemistry, pharmacology, metabolism, efficacy for hair growth, and safety of finasteride; no mention of hepatotoxicity or ALT elevations).</italic></p></annotation><pub-id pub-id-type="pmid">15102575</pub-id></mixed-citation>
+          </ref>
+          <ref id="five-ARIs.R10">
+            <mixed-citation publication-type="journal">Mart&#x000ed;nez de Guzm&#x000e1;n M, Mart&#x000ed;nez-Crespo JJ. [Finasteride-induced hepatitis]. Farm Hosp 2006; 30: 385. Spanish. <annotation><p><italic toggle="yes">(Two cases of mild enzyme elevations on long term finasteride therapy for hair growth; 18 and 42 year old men with mild serum ALT elevations [78 and 71 U/L] without symptoms or jaundice, improving on stopping finasteride, one had a positive rechallenge).</italic></p></annotation><pub-id pub-id-type="pmid">17298197</pub-id></mixed-citation>
+          </ref>
+          <ref id="five-ARIs.R11">
+            <mixed-citation publication-type="journal">Naslund MJ, Miner M. A review of the clinical efficacy and safety of 5 alpha-reductase inhibitors for the enlarged prostate. Clin Ther 2007; 29: 17-25. <annotation><p><italic toggle="yes">(Systematic review of literature on efficacy and safety of dutasteride and finasteride; similar rates of adverse events reported with each agent and were largely of sexual nature; no mention of hepatotoxicity or ALT elevations).</italic></p></annotation><pub-id pub-id-type="pmid">17379044</pub-id></mixed-citation>
+          </ref>
+          <ref id="five-ARIs.R12">
+            <mixed-citation publication-type="journal">Chalasani N, Fontana RJ, Bonkovsky HL, Watkins PB, Davern T, Serrano J, Yang H, Rochon J; Drug Induced Liver Injury Network (DILIN). Causes, clinical features, and outcomes from a prospective study of drug-induced liver injury in the United States. Gastroenterology 2008; 135: 1924-34. <annotation><p><italic toggle="yes">(Among 300 cases of drug induced liver disease in the US collected between 2004 and 2008, none were attributed to either dutasteride or finasteride).</italic></p></annotation><pub-id pub-id-type="pmid">18955056</pub-id></mixed-citation>
+          </ref>
+          <ref id="five-ARIs.R13">
+            <mixed-citation publication-type="journal">De Nunzio C, Miano R, Trucchi A, Finazzi Agr&#x000f2; Tubaro A. Finasteride for prostatic disease: an updated and comprehensive review. Expert Opin Drug Metab Toxicol 2008; 4: 1561-8. <annotation><p><italic toggle="yes">(Review of pharmacology, clinical efficacy and safety of finasteride, no mention of liver injury or ALT elevations in the list of adverse events).</italic></p></annotation><pub-id pub-id-type="pmid">19040331</pub-id></mixed-citation>
+          </ref>
+          <ref id="five-ARIs.R14">
+            <mixed-citation publication-type="journal">Keam SJ, Scott LJ. Dutasteride: a review of its use in the management of prostate disorders. Drugs 2008; 68: 463-85. <annotation><p><italic toggle="yes">(Review of chemistry, pharmacology, clinical efficacy and safety of dutasteride; "Clinical laboratory measurements were unaffected by dutasteride therapy. Abnormalities occurred in similar proportions of dutasteride or placebo recipients").</italic></p></annotation><pub-id pub-id-type="pmid">18318566</pub-id></mixed-citation>
+          </ref>
+          <ref id="five-ARIs.R15">
+            <mixed-citation publication-type="journal">Reuben A, Koch DG, Lee WM; Acute Liver Failure Study Group. Drug-induced acute liver failure: results of a U.S. multicenter, prospective study. Hepatology 2010; 52: 2065-76. <annotation><p><italic toggle="yes">(Among 1198 patients with acute liver failure enrolled in a US prospective study between 1998 and 2007, 133 were attributed to drug induced liver injury, but none were attributed to dutasteride, finasteride or an agent used as therapy of benign prostatic hypertrophy).</italic></p></annotation><pub-id pub-id-type="pmid">20949552</pub-id></mixed-citation>
+          </ref>
+          <ref id="five-ARIs.R16">
+            <mixed-citation publication-type="journal">Mella JM, Perret MC, Manzotti M, Catalano HN, Guyatt G. Efficacy and safety of finasteride therapy for androgenetic alopecia: a systematic review. Arch Dermatol 2010; 146: 1141-50. <annotation><p><italic toggle="yes">(Systematic review of safety and efficacy of finasteride [1 and 5 mg daily] in 12 studies with 3927 patients with male pattern baldness, includes discussion of sexual adverse events only).</italic></p></annotation><pub-id pub-id-type="pmid">20956649</pub-id></mixed-citation>
+          </ref>
+          <ref id="five-ARIs.R17">
+            <mixed-citation publication-type="journal">Rossi A, Cantisani C, Scarn&#x000f2; M, Trucchia A, Fortuna MC, Calvieri S. Finasteride, 1 mg daily administration on male androgenetic alopecia in different age groups: 10-year follow-up. Dermatol Ther 2011; 24: 455-61. <annotation><p><italic toggle="yes">(Among 118 men with male pattern baldness treated with finasteride [1 mg daily] for up to 10 years, side effects occurred in 5.9% and were mostly related to libido, erectile function and ejaculation; no mention of severe adverse events, ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">21910805</pub-id></mixed-citation>
+          </ref>
+          <ref id="five-ARIs.R18">
+            <mixed-citation publication-type="journal">Nickel JC, Gilling P, Tammela TL, Morrill B, Wilson TH, Rittmaster RS. Comparison of dutasteride and finasteride for treating benign prostatic hyperplasia: the Enlarged Prostate International Comparator Study (EPICS). BJU Int 2011; 108: 388-94. <annotation><p><italic toggle="yes">(Among 1630 men with symptomatic prostatic hypertrophy treated with either finasteride or dutasteride for 12 months of whom 448 were continued on dutasteride in an open label study for up to 3 years, adverse events were similar and largely related to sexual desire and function; no mention of hepatotoxicity or ALT elevations).</italic></p></annotation><pub-id pub-id-type="pmid">21631695</pub-id></mixed-citation>
+          </ref>
+          <ref id="five-ARIs.R19">
+            <mixed-citation publication-type="journal">Kaplan SA, Chung DE, Lee RK, Scofield S, Te AE. A 5-year retrospective analysis of 5&#x003b1;-reductase inhibitors in men with benign prostatic hyperplasia: finasteride has comparable urinary symptom efficacy and prostate volume reduction, but less sexual side effects and breast complications than dutasteride. Int J Clin Pract 2012; 66: 1052-5. <annotation><p><italic toggle="yes"> (Among 378 men with benign prostatic hyperplasia treated with dutasteride or finasteride for up to 5 years, side effects included loss of sexual desire and function; no mention of hepatotoxicity or ALT elevations).</italic></p></annotation><pub-id pub-id-type="pmid">23067029</pub-id></mixed-citation>
+          </ref>
+          <ref id="five-ARIs.R20">
+            <mixed-citation publication-type="journal">Park T, Choi JY. Efficacy and safety of dutasteride for the treatment of symptomatic benign prostatic hyperplasia (BPH): a systematic review and meta-analysis. World J Urol 2014; 32: 1093-105. <annotation><p><italic toggle="yes">(Systematic review of safety and efficacy of dutasteride in controlled trials of therapy of BPH discusses symptom adverse events, but does not mention ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">24500194</pub-id></mixed-citation>
+          </ref>
+          <ref id="five-ARIs.R21">
+            <mixed-citation publication-type="journal">Gubelin Harcha W, Barboza Mart&#x000ed;nez J, Tsai TF, Katsuoka K, Kawashima M, Tsuboi R, Barnes A, et al. A randomized, active- and placebo-controlled study of the efficacy and safety of different doses of dutasteride versus placebo and finasteride in the treatment of male subjects with androgenetic alopecia. J Am Acad Dermatol 2014; 70: 489-98. <annotation><p><italic toggle="yes">(Among 917 men with male pattern baldness treated with dutasteride, finasteride or placebo for 24 weeks, overall adverse events were similar and the "number of subjects with postbaseline laboratory and vital signs outside threshold values were similar across treatment groups").</italic></p></annotation><pub-id pub-id-type="pmid">24411083</pub-id></mixed-citation>
+          </ref>
+          <ref id="five-ARIs.R22">
+            <mixed-citation publication-type="journal">Chalasani N, Bonkovsky HL, Fontana R, Lee W, Stolz A, Talwalkar J, Reddy KR, et al.; United States Drug Induced Liver Injury Network. Features and outcomes of 899 patients with drug-induced liver injury: The DILIN Prospective Study. Gastroenterology 2015; 148: 1340-52.e7. <annotation><p><italic toggle="yes">(Among 899 cases of drug induced liver injury enrolled in a US prospective study between 2004 and 2013, no cases were attributed to dutasteride or finasteride).</italic></p></annotation><pub-id pub-id-type="pmid">25754159</pub-id></mixed-citation>
+          </ref>
+          <ref id="five-ARIs.R23">
+            <mixed-citation publication-type="journal">Yuan JQ, Mao C, Wong SY, Yang ZY, Fu XH, Dai XY, Tang JL. Comparative effectiveness and safety of monodrug therapies for lower urinary tract symptoms associated with benign prostatic hyperplasia: a network meta-analysis. Medicine (Baltimore) 2015; 94: e974. <annotation><p><italic toggle="yes"> (In a metaanalysis of efficacy and safety of single agents, including finasteride and dutasteride, for relief of symptoms of benign prostatic hypertrophy, the authors conclude that "drug therapies were typically safe"; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">26166130</pub-id></mixed-citation>
+          </ref>
+          <ref id="five-ARIs.R24">
+            <mixed-citation publication-type="journal">Hirshburg JM, Kelsey PA, Therrien CA, Gavino AC, Reichenberg JS. Adverse effects and safety of 5-alpha reductase inhibitors (finasteride, dutasteride): a systematic review. J Clin Aesthet Dermatol 2016; 9: 56-62. <annotation><p><italic toggle="yes">(Systematic review of side effects of dutasteride and finasteride focusing on prostate cancer, psychiatric symptoms and sexual health in both men and women; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">27672412</pub-id></mixed-citation>
+          </ref>
+          <ref id="five-ARIs.R25">
+            <mixed-citation publication-type="journal">Tsunemi Y, Irisawa R, Yoshiie H, Brotherton B, Ito H, Tsuboi R, Kawashima M, Manyak M; ARI114264 Study Group. Long-term safety and efficacy of dutasteride in the treatment of male patients with androgenetic alopecia. J Dermatol 2016; 43: 1051-8. <annotation><p><italic toggle="yes">(Among 120 patients with alopecia treated with dutasteride for up to 1 year, adverse events inlcuded erectile dysfunction [12%] and decrease in libido [8%]; while increases in ALT levels were reported to occur, their frequency, severity and outcome were not reported).</italic></p></annotation><pub-id pub-id-type="pmid">26893187</pub-id></mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

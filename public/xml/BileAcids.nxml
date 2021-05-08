@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="BileAcids" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">BileAcids</book-part-id>
+      <title-group>
+        <title>Bile Acids</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>25</day>
+          <month>9</month>
+          <year>2017</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="BileAcidResins" document-type="chapter">Bile Acid Resins or Sequestrants</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Biperiden" document-type="chapter">Biperiden</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="BileAcids.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="BileAcids.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Bile acids are a large family of molecules that have a steroidal structure and are synthesized from cholesterol in the liver and actively secreted along with cholesterol and phospholipids into the bile. Bile flowing from the liver is concentrated in the gallbladder and, in response to a meal, released into the upper intestine. In the intestines, bile acids act as detergents and help to emulsify fats, aiding in their digestion and absorption. After participating in digestion in the small bowel, bile acids are almost completely (95%) reabsorbed in the distal ileum and then retaken up from portal blood by the liver (enterohepatic circulation). The primary bile acids synthesized in the liver are cholic and chenodeoxycholic acid which are typically conjugated to glycine or taurine before secretion. In the intestine, the primary bile acids are often converted by colonic bacteria to the secondary bile acids, predominantly deoxycholic acid and lithocholic acid. The reabsorbed bile acids are transported to the liver in portal blood. Conjugated bile acids are then retaken up by hepatocytes via the sodium taurocholate cotransporter (NTCT), while unconjugated bile acids are taken up by organic anion transporters that also take up bilirubin and other anions. The total bile acid pool in humans is tightly controlled by a coordinated regulation of expression of genes involved with synthesis, secretion, reabsorption and reuptake of bile acids by the liver. The major components of the bile acid pool are cholic and chenodeoxycholic acid with lesser amounts deoxycholic and lithocholic acid and minor amounts of ursodeoxycholic acid.</p>
+          <p>Bile acids also act as signaling molecules and are important in regulation of their own synthesis, uptake and secretion as well as control of cholesterol synthesis and regulation of lipid and glucose metabolism. Bile acid levels are increased in the serum and liver in patients with obstructive jaundice or cholestasis and, perhaps because of their inherent detergent activities, can cause hepatocyte injury. Thus, increased bile acid levels in hepatocytes may account for some of the liver damage in cholestatic liver diseases.</p>
+          <p>Bile acids can be used as therapeutic agents, particularly in patients with cholestatic liver diseases where administered bile acids (such as ursodeoxycholic acid) replace the more lipophilic and toxic bile acids that accumulate during cholestasis. Bile acids are also useful for the medical treatment (dissolution) of gallstones by increasing bile acid and decreasing cholesterol concentrations in bile (causing a less saturated bile). Bile acids can also be useful as replacement therapy in patients with bile acid synthetic defects. Finally, the other metabolic effects of bile acids can be useful in treating metabolic diseases including nonalcoholic steatohepatitis. Four bile acids are currently approved for use in the United States and several others are under active investigation. Cholic acid is used for treatment of inherited defects in bile acid synthesis, chenodeoxycholic (chenodiol) and ursodeoxycholic (ursodiol) acid for gallstone dissolution, and obeticholic and ursodiol for chronic cholestatic liver diseases, specifically primary biliary cirrhosis. Obeticholic acid is under evaluation as therapy of other liver diseases including sclerosing cholangitis and nonalcoholic steatohepatitis. Ursodiol is used off label to prevent, treat or ameliorate several uncommon forms of liver disease, including intrahepatic cholestasis of pregnancy, sinusoidal obstruction syndrome, graft-vs-host disease, cystic fibrosis associated liver disease, parenteral nutrition related liver injury and even acute, drug induced liver injury. The long term efficacy in ameliorating the course of these diseases is, however, unproven.</p>
+          <p>Separate documents are available in LiverTox for each of the currently available bile acids. References given in this overview section are limited to general publications on bile acid metabolism and use as therapeutic agents.</p>
+          <p>Drug Class: <related-object source-id="livertox" document-id="GastrointestinalAgen">Gastrointestinal Agents</related-object></p>
+          <list list-type="bullet">
+            <list-item>
+              <p>
+                <related-object source-id="livertox" document-id="Chenodiol">Chenodiol (Chenodeoxycholic Acid)</related-object>
+              </p>
+            </list-item>
+            <list-item>
+              <p>
+                <related-object source-id="livertox" document-id="CholicAcid">Cholic Acid</related-object>
+              </p>
+            </list-item>
+            <list-item>
+              <p>
+                <related-object source-id="livertox" document-id="ObeticholicAcid">Obeticholic Acid</related-object>
+              </p>
+            </list-item>
+            <list-item>
+              <p>
+                <related-object source-id="livertox" document-id="Ursodiol">Ursodiol (Ursodeoxycholic Acid)</related-object>
+              </p>
+            </list-item>
+          </list>
+        </sec>
+      </sec>
+      <sec id="BileAcids.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <boxed-text position="anchor" id="BileAcids.BPI" orientation="portrait">
+          <p>
+            <bold>REPRESENTATIVE TRADE NAMES</bold>
+          </p>
+          <p>Chenodiol &#x02013; Generic, Chenodal&#x000ae;</p>
+          <p>Cholic Acid &#x02013; Cholbam&#x000ae;</p>
+          <p>Obeticholic Acid &#x02013; Ocaliva&#x000ae;</p>
+          <p>Ursodiol &#x02013; Generic, Actigall&#x000ae;</p>
+          <p>
+            <bold>DRUG CLASS</bold>
+          </p>
+          <p>Gastrointestinal Agents</p>
+          <p>
+            <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Bile+Acids">COMPLETE LABELING</ext-link>
+          </p>
+          <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+        </boxed-text>
+      </sec>
+      <sec id="BileAcids.CHEMICAL_FORMULAS_AND_STRUCTUR">
+        <title>CHEMICAL FORMULAS AND STRUCTURES</title>
+        <table-wrap id="BileAcids.T1" position="anchor" orientation="portrait">
+          <table>
+            <thead>
+              <tr>
+                <th id="hd_h_BileAcids.T1_1_1_1_1" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_BileAcids.T1_1_1_1_2" rowspan="1" colspan="1">CAS REGISTRY NUMBER</th>
+                <th id="hd_h_BileAcids.T1_1_1_1_3" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_BileAcids.T1_1_1_1_4" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_BileAcids.T1_1_1_1_1" rowspan="1" colspan="1">Chenodiol</td>
+                <td headers="hd_h_BileAcids.T1_1_1_1_2" rowspan="1" colspan="1">
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://134973140">474-25-9</ext-link>
+                </td>
+                <td headers="hd_h_BileAcids.T1_1_1_1_3" rowspan="1" colspan="1">C24-H40-O4</td>
+                <td headers="hd_h_BileAcids.T1_1_1_1_4" rowspan="1" colspan="1">
+                  <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Chenodiol_Structure.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait">
+                    <alt-text>Bile Acids Chemical Structure</alt-text>
+                  </graphic>
+                </td>
+              </tr>
+              <tr>
+                <td headers="hd_h_BileAcids.T1_1_1_1_1" rowspan="1" colspan="1">Cholic Acid</td>
+                <td headers="hd_h_BileAcids.T1_1_1_1_2" rowspan="1" colspan="1">
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://134972659">81-25-4</ext-link>
+                </td>
+                <td headers="hd_h_BileAcids.T1_1_1_1_3" rowspan="1" colspan="1">C24-H40-O5</td>
+                <td headers="hd_h_BileAcids.T1_1_1_1_4" rowspan="1" colspan="1">
+                  <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="CholicAcid_Structure.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait">
+                    <alt-text>Bile Acids Chemical Structure</alt-text>
+                  </graphic>
+                </td>
+              </tr>
+              <tr>
+                <td headers="hd_h_BileAcids.T1_1_1_1_1" rowspan="1" colspan="1">Obeticholic Acid</td>
+                <td headers="hd_h_BileAcids.T1_1_1_1_2" rowspan="1" colspan="1">
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135263637">459789-99-2</ext-link>
+                </td>
+                <td headers="hd_h_BileAcids.T1_1_1_1_3" rowspan="1" colspan="1">C26-H44-O4</td>
+                <td headers="hd_h_BileAcids.T1_1_1_1_4" rowspan="1" colspan="1">
+                  <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ObeticholicAcid_Structure.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait">
+                    <alt-text>Bile Acids Chemical Structure</alt-text>
+                  </graphic>
+                </td>
+              </tr>
+              <tr>
+                <td headers="hd_h_BileAcids.T1_1_1_1_1" rowspan="1" colspan="1">Ursodiol</td>
+                <td headers="hd_h_BileAcids.T1_1_1_1_2" rowspan="1" colspan="1">
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://134974576">128-13-2</ext-link>
+                </td>
+                <td headers="hd_h_BileAcids.T1_1_1_1_3" rowspan="1" colspan="1">C24-H40-O4</td>
+                <td headers="hd_h_BileAcids.T1_1_1_1_4" rowspan="1" colspan="1">
+                  <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Ursodiol_Structure.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait">
+                    <alt-text>Bile Acids Chemical Structure</alt-text>
+                  </graphic>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="BileAcids.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 25 September 2017</p>
+        <p>Abbreviations used: NASH, nonalcoholic steatohepatitis; PBC, primary biliary cholangitis; PSC, primary sclerosing cholangitis.</p>
+        <ref-list id="BileAcids.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="BileAcids.R1">
+            <mixed-citation publication-type="other">Zimmerman HJ. Bile acid derivatives. Miscellaneous drugs and diagnostic chemicals. In, Zimmerman, HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999: pp. 721.<annotation><p><italic toggle="yes">(Expert review of hepatotoxicity published in 1999; mentions that chenodiol led to aminotransferase elevations in 30-50% of treated patients and at least 4 instances of overt hepatitis occurred in recipients, but it has been largely replaced by ursodiol which has been associated with only &#x0201c;trivial&#x0201d; elevations in ALT levels).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="BileAcids.R2">
+            <mixed-citation publication-type="other">Sharkey KA, Wallace JL. Treatment of disorders of bowel motility and water flux: anti-emetics; agents used in biliary and pancreatic disease. In, Brunton LL, Chabner BA, Knollman BC, eds. Goodman &#x00026; Gilman's the pharmacological basis of therapeutics. 12th ed. New York: McGraw-Hill, 2011, pp. 1323-50.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="BileAcids.R3">
+            <mixed-citation publication-type="journal">Thistle JL, Hofmann AF. Efficacy and specificity of chenodeoxycholic acid therapy for dissolving gallstones. N Engl J Med 1973; 289: 655-9. <annotation><p><italic toggle="yes">(Among 53 patients with radiolucent gallstones treated with chenodiol, cholic acid or placebo for 6 months, stone size decreased in 61% of chenodiol but in none of the cholic acid or placebo recipients; AST elevations above twice ULN occurred in 29% of patients, but levels returned to normal despite continuing treatment).</italic></p></annotation><pub-id pub-id-type="pmid">4580472</pub-id></mixed-citation>
+          </ref>
+          <ref id="BileAcids.R4">
+            <mixed-citation publication-type="journal">Hofmann AF, Thistle JL, Klein PD, Szczepanik PA, Yu PY. Chenotherapy for gallstone dissolution. II. Induced changes in bile composition and gallstone response. JAMA 1978; 239: 1138-44. <annotation><p><italic toggle="yes">(Chenodiol but not cholic acid or placebo therapy was associated with disease in cholesterol saturation of bile; the amount of change, however, did not correlate with success of therapy in dissolving gallstones).</italic></p></annotation><pub-id pub-id-type="pmid">628065</pub-id></mixed-citation>
+          </ref>
+          <ref id="BileAcids.R5">
+            <mixed-citation publication-type="journal">Thistle JL, Hofmann AF, Ott BJ, Stephens DH. Chenotherapy for gallstone dissolution. I. Efficacy and safety. JAMA 1978; 239: 1041-6. <annotation><p><italic toggle="yes">(Among 90 patients with radiolucent gallstones treated with chenodiol, response rates increased with time, with higher doses and smaller stones; mild elevations in AST occurred in 16% of patients but were transient, resolving with dose modification and not associated with jaundice or symptoms).</italic></p></annotation><pub-id pub-id-type="pmid">342729</pub-id></mixed-citation>
+          </ref>
+          <ref id="BileAcids.R6">
+            <mixed-citation publication-type="journal">Schoenfield LJ, Lachin JM. Chenodiol(chenodeoxycholic acid) for dissolution of gallstones: the National Cooperative Gallstone Study. A controlled trial of efficacy and safety. Ann Intern Med 1981; 95; 257-82. <annotation><p><italic toggle="yes">(Among 916 patients with radiolucent gallstones treated with chenodiol [350 or 750 mg daily] vs placebo for 2 years, gallstone dissolution occurred in 5% and 13.5% vs 0% and ALT elevations in 13% to 19% vs 13% which were above 3 times ULN in 5% to 8% vs 4% while biopsies showed nonspecific changes only; ALT elevations resolved even without stopping in most and among 17 who stopped therapy, 6 had recurrence on restarting; no patient developed clinically apparent liver injury).</italic></p></annotation><pub-id pub-id-type="pmid">7023307</pub-id></mixed-citation>
+          </ref>
+          <ref id="BileAcids.R7">
+            <mixed-citation publication-type="journal">Miyai K, Javitt NB, Gochman N, Jones HM, Baker D. Hepatotoxicity of bile acids in rabbits: ursodeoxycholic acid is less toxic than chenodeoxycholic acid. Lab Invest 1982; 46: 428-37. <annotation><p><italic toggle="yes">(Feeding rabbits chenodeoxycholic and lithocholic acid led to increases in ALT levels, histologic changes in the liver and significant mortality compared to no treatment or use of ursodiol).</italic></p></annotation><pub-id pub-id-type="pmid">7200166</pub-id></mixed-citation>
+          </ref>
+          <ref id="BileAcids.R8">
+            <mixed-citation publication-type="journal">Roda E, Bazzoli F, Labate AM, Mazzella G, Roda A, Sama C, Festi D, et al. Ursodeoxycholic acid vs. chenodeoxycholic acid as cholesterol gallstone-dissolving agents: a comparative randomized study. Hepatology 1982; 2: 804-10. <annotation><p><italic toggle="yes">(Among 223 patients with gallstones treated with ursodiol or chenodiol at 2 doses for 12 months, rates of gallstone dissolution were similar at the higher doses but greater for ursodiol at the lower doses; ALT elevations occurred only in chenodiol groups [14%], but there were no concurrent elevations in Alk P or bilirubin).</italic></p></annotation><pub-id pub-id-type="pmid">7141392</pub-id></mixed-citation>
+          </ref>
+          <ref id="BileAcids.R9">
+            <mixed-citation publication-type="journal">Erlinger S, Le Go A, Husson JM, Fevery J. Franco-Belgian cooperative study of ursodeoxycholic acid in the medical dissolution of gallstones: a double-blind, randomized, dose-response study, and comparison with chenodeoxycholic acid. Hepatology 1984; 4: 308-14. <annotation><p><italic toggle="yes">(Among 197 patients with radiolucent gallstones treated with ursodiol or chenodiol, stone dissolution rates were similar and diarrhea was less with ursodiol [5% vs 23%], and ALT elevations were transient and mild [less than twice normal] in all except one patient [3%] on chenodiol).</italic></p></annotation><pub-id pub-id-type="pmid">6706305</pub-id></mixed-citation>
+          </ref>
+          <ref id="BileAcids.R10">
+            <mixed-citation publication-type="journal">Poupon RE, Balkau B, Eschw&#x000e8;ge E, Poupon R. A multicenter, controlled trial of ursodiol for the treatment of primary biliary cirrhosis. UDCA-PBC Study Group. N Engl J Med 1991; 324: 1548-54. <annotation><p><italic toggle="yes">(Among 146 patients with PBC treated with ursodiol [13-15 mg daily] or placebo for 2 years, ALT, Alk P and bilirubin levels and liver histology [except for fibrosis] improved with ursodiol but not placebo; one patient on ursodiol required discontinuation because of worsening of pruritus; no mention of hepatotoxicity or other toxicities).</italic></p></annotation><pub-id pub-id-type="pmid">1674105</pub-id></mixed-citation>
+          </ref>
+          <ref id="BileAcids.R11">
+            <mixed-citation publication-type="journal">Daugherty CC, Setchell KD, Heubi JE, Balistreri WF. Resolution of liver biopsy alterations in three siblings with bile acid treatment of an inborn error of bile acid metabolism(delta 4-3-oxosteroid 5 beta-reductase deficiency). Hepatology 1993; 18: 1096-101. <annotation><p><italic toggle="yes">(Among 3 siblings with a bile acid synthetic defect and severe liver disease, treatment with cholic acid and ursodiol was followed by resolution of jaundice and improvements in ALT, Alk P and liver histology).</italic></p></annotation><pub-id pub-id-type="pmid">8225213</pub-id></mixed-citation>
+          </ref>
+          <ref id="BileAcids.R12">
+            <mixed-citation publication-type="journal">Heathcote EJ, Cauch-Dudek K, Walker V, Bailey RJ, Blendis LM, Ghent CN, Michieletti P, et al. The Canadian Multicenter Double-blind Randomized Controlled Trial of ursodeoxycholic acid in primary biliary cirrhosis. Hepatology 1994; 19: 1149-56. <annotation><p><italic toggle="yes">(Among 222 patients with PBC treated with ursodiol [14 mg/kg daily] or placebo for 24 months, ALT, Alk P and bilirubin levels and some features of histology [not fibrosis] improved with ursodiol therapy, but symptoms did not change and there were no differences in rates of death or liver transplantation; no mention of hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">8175136</pub-id></mixed-citation>
+          </ref>
+          <ref id="BileAcids.R13">
+            <mixed-citation publication-type="journal">Lindor KD, Dickson ER, Baldus WP, Jorgensen RA, Ludwig J, Murtaugh PA, Harrison JM, et al. Ursodeoxycholic acid in the treatment of primary biliary cirrhosis. Gastroenterology 1994; 106: 1284-90. <annotation><p><italic toggle="yes">(Among 180 patients with PBC treated with ursodiol [13-15 mg/kg daily] or placebo for up to 4 years, there were improvements in Alk P, ALT, AST and bilirubin with ursodiol, but no significant change in liver histology or symptoms and a non-significant decrease in liver transplantation and mortality; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">8174890</pub-id></mixed-citation>
+          </ref>
+          <ref id="BileAcids.R14">
+            <mixed-citation publication-type="journal">Combes B, Carithers RL Jr, Maddrey WC, Lin D, McDonald MF, Wheeler DE, Eigenbrodt EH, et al. A randomized, double-blind, placebo-controlled trial of ursodeoxycholic acid in primary biliary cirrhosis. Hepatology 1995; 22: 759-66. <annotation><p><italic toggle="yes">(Among 151 patients with PBC treated with ursodiol [10-12 mg/kg] or placebo for 2 years, decreases in bilirubin, ALT and Alk P as well as histological features improved mostly in patients with earlier stage disease, but there was no overall effect on rates of mortality or liver transplantation).</italic></p></annotation><pub-id pub-id-type="pmid">7657280</pub-id></mixed-citation>
+          </ref>
+          <ref id="BileAcids.R15">
+            <mixed-citation publication-type="journal">Colombo C, Battezzati PM, Podda M, Bettinardi N, Giunta A. Ursodeoxycholic acid for liver disease associated with cystic fibrosis: a double-blind multicenter trial. The Italian Group for the Study of Ursodeoxycholic Acid in Cystic Fibrosis. Hepatology 1996; 23: 1484-90. <annotation><p><italic toggle="yes">(Among 55 patients with cystic fibrosis with liver disease treated with ursodiol [15 mg/kg daily], taurine, both or placebo, GGT, ALT and AST levels improved more in ursodiol treated patients and &#x0201c;no severe side effects were reported&#x0201d;, although one ursodiol treated patient developed jaundice and decompensation after 7 months and was withdrawn and underwent liver transplantation).</italic></p></annotation><pub-id pub-id-type="pmid">8675168</pub-id></mixed-citation>
+          </ref>
+          <ref id="BileAcids.R16">
+            <mixed-citation publication-type="journal">Hempfling W, Dilger K, Beuers U. Systematic review: ursodeoxycholic acid--adverse effects and drug interactions. Aliment Pharmacol Ther 2003; 18: 963-72. <annotation><p><italic toggle="yes">(Systematic review of side effects of ursodiol mentions that no severe adverse events or liver toxicities were reported in controlled clinical trials for gallstones or chronic cholestatic liver diseases, but instances of clinical decompensation were reported in patients with preexisting cirrhosis, suggesting that it should be used with caution in patients with advanced disease).</italic></p></annotation><pub-id pub-id-type="pmid">14616161</pub-id></mixed-citation>
+          </ref>
+          <ref id="BileAcids.R17">
+            <mixed-citation publication-type="journal">Bove KE, Heubi JE, Balistreri WF, Setchell KD. Bile acid synthetic defects and liver disease: a comprehensive review. Pediatr Dev Pathol 2004; 7: 315-34. <annotation><p><italic toggle="yes">(Extensive review of the inherited forms of defective bile acid synthesis which are often accompanied by progressive cholestatic liver injury some of which respond to treatment with oral bile acids, including 3&#x003b2;-OH steroid dehydrogenase, 5&#x003b2;-reductase and mitochondrial C-27 hydroxylase deficiencies as well as several peroxisomal defects [Zellweger syndrome]).</italic></p></annotation><pub-id pub-id-type="pmid">15383928</pub-id></mixed-citation>
+          </ref>
+          <ref id="BileAcids.R18">
+            <mixed-citation publication-type="journal">Paumgartner G. Medical treatment of cholestatic liver diseases: From pathobiology to pharmacological targets. World J Gastroenterol 2006; 12: 4445-51. <annotation><p><italic toggle="yes">(Review of the pathogenesis of gallstone formation and medical therapies for gallstone dissolution).</italic></p></annotation><pub-id pub-id-type="pmid">16874853</pub-id></mixed-citation>
+          </ref>
+          <ref id="BileAcids.R19">
+            <mixed-citation publication-type="journal">Chiang JY. Bile acids: regulation of synthesis. J Lipid Res 2009; 50: 1955-66. <annotation><p><italic toggle="yes">(Review of the pathways of cholic and chenodeoxycholic acid synthesis and their regulation via FXR, FGF19, FGFR4 and CYP7A1).</italic></p></annotation><pub-id pub-id-type="pmid">19346330</pub-id></mixed-citation>
+          </ref>
+          <ref id="BileAcids.R20">
+            <mixed-citation publication-type="journal">Gonzales E, Gerhardt MF, Fabre M, Setchell KD, Davit-Spraul A, Vincent I, Heubi JE, et al. Oral cholic acid for hereditary defects of primary bile acid synthesis: a safe and effective long-term therapy. Gastroenterology 2009; 137: 1310-1320. <annotation><p><italic toggle="yes">(Among 15 patients with bile acid synthesis defects treated with oral bile acids [ursodiol and cholic acid initially and eventually cholic acid alone for all except one patient: 3-9 mg/kg daily] for 5-15 years, all had lasting clinical improvements shown by repeat liver biopsies in 14; overdose of cholic acid was marked by diarrhea, pruritus and increases in GGT and ALT that responded to dose modification).</italic></p></annotation><pub-id pub-id-type="pmid">19622360</pub-id></mixed-citation>
+          </ref>
+          <ref id="BileAcids.R21">
+            <mixed-citation publication-type="journal">Lindor KD, Kowdley KV, Luketic VA, Harrison ME, McCashland T, Befeler AS, Harnois D, et al. High-dose ursodeoxycholic acid for the treatment of primary sclerosing cholangitis. Hepatology 2009; 50: 808-14. <annotation><p><italic toggle="yes">(Among 150 patients with sclerosing cholangitis treated with ursodiol [high doses: 28-30 mg/kg daily] or placebo for up to 5 years, improvements in ALT, Alk P and bilirubin were more common with ursodiol, but so were serious adverse events and clinical outcomes [death, liver transplantation and complications of cirrhosis]).</italic></p></annotation><pub-id pub-id-type="pmid">19585548</pub-id></mixed-citation>
+          </ref>
+          <ref id="BileAcids.R22">
+            <mixed-citation publication-type="journal">Song P, Zhang Y, Klaassen CD. Dose-response of five bile acids on serum and liver bile acid concentrations and hepatotoxicty in mice. Toxicol Sci 2011; 123: 359-67. <annotation><p><italic toggle="yes">(Feeding of various concentrations of 5 different bile acids to mice demonstrated clear toxicity with lithocholic, cholic, deoxycholic and chenodeoxycholic acid, but little or no toxicity with ursodeoxycholic acid).</italic></p></annotation><pub-id pub-id-type="pmid">21747115</pub-id></mixed-citation>
+          </ref>
+          <ref id="BileAcids.R23">
+            <mixed-citation publication-type="journal">Joutsiniemi T, Timonen S, Leino R, Palo P, Ekblad U. Ursodeoxycholic acid in the treatment of intrahepatic cholestasis of pregnancy: a randomized controlled trial. Arch Gynecol Obstet 2014; 289: 541-7. <annotation><p><italic toggle="yes">(Among 20 pregnant women with intrahepatic cholestasis of pregnancy treated with ursodiol [45 mg daily] or placebo for 14 days, itching scores and serum levels of ALT and bilirubin improved more with ursodiol than placebo treatment).</italic></p></annotation><pub-id pub-id-type="pmid">23978872</pub-id></mixed-citation>
+          </ref>
+          <ref id="BileAcids.R24">
+            <mixed-citation publication-type="journal">Chalasani N, Bonkovsky HL, Fontana R, Lee W, Stolz A, Talwalkar J, Reddy KR, et al.; United States Drug Induced Liver Injury Network. Features and outcomes of 899 patients with drug-induced liver injury: The DILIN Prospective Study. Gastroenterology 2015; 148: 1340-1352. <annotation><p><italic toggle="yes">(Among 899 cases of drug induced liver injury enrolled in a US prospective study between 2004 and 2013, none were attributed to ursodiol or other bile acid therapies).</italic></p></annotation><pub-id pub-id-type="pmid">25754159</pub-id></mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec id="BileAcids.OTHER_REFERENCE_LINKS" sec-type="link-group">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=(Bile+Acids/AE)+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D%3A%222999/12/31%22%5BEDat%5D)">Recent References on Bile Acids: from PubMed.gov</ext-link>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Bile+Acids">Trials on Bile Acids: from ClinicalTrials.gov</ext-link>
+            </p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

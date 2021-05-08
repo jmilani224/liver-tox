@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Fenoprofen" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Fenoprofen</book-part-id>
+      <title-group>
+        <title>Fenoprofen</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>25</day>
+          <month>1</month>
+          <year>2018</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Fenofibrate" document-type="chapter">Fenofibrate</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="FentanylAndAnalogues" document-type="chapter">Fentanyl</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Fenoprofen.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Fenoprofen.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Fenoprofen is a nonsteroidal antiinflammatory drug (NSAID) used in the treatment of acute pain and chronic arthritis. Fenoprofen has been linked to a low rate of serum enzyme elevations during therapy and to rare instances of clinically apparent acute liver injury.</p>
+        </sec>
+        <sec id="Fenoprofen.Background">
+          <title>Background</title>
+          <p>Fenoprofen (fen" oh proe' fen) belongs to the propionic derivative class of NSAIDs similar to naproxen, ketoprofen, flurbiprofen and ibuprofen. Like other NSAIDs, fenoprofen is a cyclo-oxygenase (Cox-1 and -2) inhibitor that blocks the formation of prostaglandins that are important in pain and inflammatory pathways. Fenoprofen has analgesic as well as antipyretic and antiinflammatory activities. Fenoprofen was approved in the United States in 1976 and is still in clinical use. Current indications include chronic joint pain due to osteoarthritis and rheumatoid arthritis, as well as mild-to-moderate acute pain. The recommended dose in adults with pain is 200 mg every 4 to 6 hours. Higher doses are used for chronic arthritis, in the range of 400 to 600 mg 3 or 4 times per day, with a maximum dose of 3,200 mg daily. Fenoprofen is available by prescription only in the form of capsules or tablets of 200, 300, 400 and 600 mg in both generic and trade formulations (Nalfon). As with other NSAIDs, fenoprofen is generally well tolerated, but side effects can include headache, dizziness, somnolence, gastrointestinal upset, nausea, abdominal discomfort, diarrhea, peripheral edema and hypersensitivity reactions.</p>
+        </sec>
+        <sec id="Fenoprofen.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>Prospective studies show that up to 15% of patients taking fenoprofen experience at least transient serum aminotransferase elevations. These elevations are generally transient, mild and asymptomatic, and may resolve even with drug continuation. Marked aminotransferase elevations (&#x0003e;3 fold elevated) occur in &#x0003c;1% of patients. Clinically apparent liver injury with jaundice from fenoprofen is very rare and only individual case reports have been published. The latency to onset has been rapid, often within a few days of starting. The pattern of enzyme elevations has ranged from cholestatic to hepatocellular. Immunoallergic features are present in some cases (low grade fever, rash), but are generally not prominent, and autoantibody formation is rare. Most cases resolve promptly on stopping therapy. Fenoprofen is not mentioned in large case series on drug induced liver injury or acute liver failure.</p>
+          <p>Likelihood score: D (possible rare cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Fenoprofen.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The mechanism of fenoprofen hepatotoxicity is not known, but likely to be due to an idiosyncratic reaction to an intermediate of its metabolism. Fenoprofen is extensively metabolized by the liver.</p>
+        </sec>
+        <sec id="Fenoprofen.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>Severity ranges from asymptomatic elevations in serum aminotransferase levels to symptomatic hepatitis with or without jaundice. There are no convincing cases of fulminant hepatic failure, chronic hepatitis or vanishing bile duct syndrome attributable to fenoproten use in the published literature. Patients with fenoprofen induced liver injury should avoid other propionic acid derivatives such as flurbiprofen, ibuprofen, ketoprofen and naproxen.</p>
+          <p>Drug Class: <related-object source-id="livertox" document-id="NonsteroidalAntiinfl">Nonsteroidal Antiinflammatory Drugs</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Fenoprofen.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <boxed-text position="anchor" id="Fenoprofen.BPI" orientation="portrait">
+          <p>
+            <bold>REPRESENTATIVE TRADE NAMES</bold>
+          </p>
+          <p>Fenoprofen &#x02013; Generic, Nalfon&#x000ae;</p>
+          <p>
+            <bold>DRUG CLASS</bold>
+          </p>
+          <p>Nonsteroidal Antiinflammatory Drugs</p>
+          <p>
+            <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Fenoprofen">COMPLETE LABELING</ext-link>
+          </p>
+          <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+        </boxed-text>
+      </sec>
+      <sec id="Fenoprofen.CHEMICAL_FORMULA_AND_STRUCTUR">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Fenoprofen.T1" position="anchor" orientation="portrait">
+          <table>
+            <thead>
+              <tr>
+                <th id="hd_h_Fenoprofen.T1_1_1_1_1" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Fenoprofen.T1_1_1_1_2" rowspan="1" colspan="1">CAS REGISTRY NUMBER</th>
+                <th id="hd_h_Fenoprofen.T1_1_1_1_3" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Fenoprofen.T1_1_1_1_4" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Fenoprofen.T1_1_1_1_1" rowspan="1" colspan="1">Fenoprofen</td>
+                <td headers="hd_h_Fenoprofen.T1_1_1_1_2" rowspan="1" colspan="1">
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135078856">29679-58-1</ext-link>
+                </td>
+                <td headers="hd_h_Fenoprofen.T1_1_1_1_3" rowspan="1" colspan="1">C15-H14-O3</td>
+                <td headers="hd_h_Fenoprofen.T1_1_1_1_4" rowspan="1" colspan="1">
+                  <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Fenoprofen_structure.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait">
+                    <alt-text>Fenoprofen Chemical Structure</alt-text>
+                  </graphic>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Fenoprofen.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 25 January 2018</p>
+        <ref-list id="Fenoprofen.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Fenoprofen.R1">
+            <mixed-citation publication-type="other">Zimmerman HJ. Drugs used to treat rheumatic and musculospastic disease. In, Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999, pp. 517-53.<annotation><p><italic toggle="yes">(Expert review of hepatotoxicity published in 1999; fenoprofen is listed as having a low incidence of hepatotoxicity, only two cases having been described in the literature).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Fenoprofen.R2">
+            <mixed-citation publication-type="other">Lewis JH, Stine JG. Nonsteroidal anti-inflammatory drugs and leukotriene receptor antagonists: pathology and clinical presentation of hepatotoxicity. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd. Amsterdam: Elsevier, 2013, pp. 369-401.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of NSAIDs mentions that a few cases of hepatotoxicity from fenoprofen have been reported).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Fenoprofen.R3">
+            <mixed-citation publication-type="other">Grosser T, Smyth E, FitzGerald GA. Anti-inflammatory, antipyretic, and analgesic agents; pharmacotherapy of gout. In, Brunton LL, Chabner B, Knollman B, eds. Goodman &#x00026; Gilman's the pharmacological basis of therapeutics. 12th ed. New York: McGraw-Hill, 2011, pp. 959-1004.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Fenoprofen.R4">
+            <mixed-citation publication-type="journal">Stennet DJ, Simonson W, Hall CA. Fenoprofen-induced hepatotoxicity. Am J Hosp Pharm 1978; 35: 901. <annotation><p><italic toggle="yes">(68 year old woman developed fatigue and jaundice 7 weeks after starting fenoprofen [bilirubin 3.1 mg/dL, AST 591 U/L, Alk P 20 U/L], resolving within 1 week of stopping).</italic></p></annotation><pub-id pub-id-type="pmid">677132</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fenoprofen.R5">
+            <mixed-citation publication-type="journal">Andrejak M, Davion T, Gineston JL, Capron JP. Cross hepatotoxicity between non-steroidal anti-inflammatory drugs. Br Med J (Clin Res Ed) 1987; 295 (6591): 180-1. <annotation><p><italic toggle="yes">(67 year old woman with chronic arthritis developed jaundice within 2 weeks of starting naproxen [bilirubin 4.6 mg/dL, ALT 450 U/L, Alk P 280 U/L], resolving rapidly upon stopping and recurring within 5 days of subsequently starting fenoprofen [bilirubin not given, ALT ~260 U/L, Alk P ~350 U/L]).</italic></p></annotation><pub-id pub-id-type="pmid">3115366</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fenoprofen.R6">
+            <mixed-citation publication-type="journal">Kromann-Andersen H, Pedersen A. Reported adverse reactions to and consumption of nonsteroidal anti-inflammatory drugs in Denmark over a 17-year period. Dan Med Bull 1988; 35: 187-92. <annotation><p><italic toggle="yes">(Over a 17 year period, 3521 suspected adverse drug reactions due to NSAIDs were reported to a Danish National Registry, 41 of which were attributed to fenoprofen of which 7% were liver related, none of which were fatal).</italic></p></annotation><pub-id pub-id-type="pmid">2966038</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fenoprofen.R7">
+            <mixed-citation publication-type="journal">Hannequin JR, Doffoel M, Schmutz G. [Hepatitis secondary to current non-steroidal anti-inflammatory agents]. Rev Rhum Mal Osteoartic 1988 Dec; 55(12): 983-8. French. <annotation><p><italic toggle="yes">(Review of published literature on hepatotoxicity of NSAIDs mentions 28 cases attributed to ibuprofen, 21 sulindac, 6 piroxicam, 5 diclofenac, 5 indomethacin, 4 naproxen and 1 fenoprofen; no details given).</italic></p></annotation><pub-id pub-id-type="pmid">3070713</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fenoprofen.R8">
+            <mixed-citation publication-type="journal">Brewer EJ, Giannini EH, Baum J, Bernstein B, Fink CW, Emery HM, Schaller JG. Aspirin and fenoprofen (Nalfon) in the treatment of juvenile rheumatoid arthritis results of the double blind-trial. A segment II study. J Rheumatol 1982; 9: 123-8. <annotation><p><italic toggle="yes">(Among 99 children with juvenile rheumatoid arthritis treated with aspirin or fenoprofen for 12 weeks, pain control was similar, but side effects were more with aspirin, ALT elevations arising in 5 children on aspirin [4 required discontinuation], but none on fenoprofen).</italic></p></annotation><pub-id pub-id-type="pmid">7045360</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fenoprofen.R9">
+            <mixed-citation publication-type="journal">Brooke JW. Fenoprofen therapy in large-joint osteoarthritis: double-blind comparison with aspirin and longterm experience. J Rheumatol 1976; 2: 71-5. <annotation><p><italic toggle="yes">(Among 30 patients with osteoarthritis treated with fenoprofen, aspirin or placebo for 6 weeks in a cross over design, aspirin and fenoprofen were superior to placebo in reducing pain and stiffness, and blood chemistry test results did not change; in a subsequent 2 year open label study in 71 patients, one patient with cholecystitis developed transient "hepatitis", but after recovery was able to restart fenoprofen without recurrence).</italic></p></annotation><pub-id pub-id-type="pmid">781234</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fenoprofen.R10">
+            <mixed-citation publication-type="journal">Blechman WJ, Zane S. Fenoprofen calcium in steroid treated rheumatoid arthritis: efficacy, safety, and steroid-sparing effect. J Rheumatol 1976; 2: 38-42. <annotation><p><italic toggle="yes">(Among 27 patients with rheumatoid arthritis treated with fenoprofen or placebo in a 16 week cross over study, "no significant abnormal values were observed in the clinical laboratory examinations").</italic></p></annotation><pub-id pub-id-type="pmid">781229</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fenoprofen.R11">
+            <mixed-citation publication-type="journal">McIlwain HH. Fenoprofen calcium versus aspirin in the treatment of acute inflammatory soft-tissue injuries. J Med 1985; 16: 429-38. <annotation><p><italic toggle="yes">(Among 95 patients with acute soft tissue injury treated for 3-5 days with either aspirin or fenoprofen, pain control was similar with both agents and adverse events were mild-to-moderate and more frequent with aspirin; no liver related adverse events reported).</italic></p></annotation><pub-id pub-id-type="pmid">3913725</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fenoprofen.R12">
+            <mixed-citation publication-type="journal">Zimmerman HJ. Update of hepatotoxicity due to classes of drugs in common clinical use: non-steroid drugs, anti-inflammatory drugs, antibiotics, antihypertensives, and cardiac and psychotropic agents. Semin Liver Dis 1990; 10: 322-8. <annotation><p><italic toggle="yes">(Extensive review of NSAID related liver injury states that fenoprofen and flurbiprofen have rarely been implicated in liver injury, a table lists the pattern of enzyme elevations as being hepatocellular).</italic></p></annotation><pub-id pub-id-type="pmid">2281340</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fenoprofen.R13">
+            <mixed-citation publication-type="journal">Walker AM. Quantitative studies of the risk of serious hepatic injury in persons using nonsteroidal antiinflammatory drugs. Arthritis Rheum 1997; 40: 201-8. <annotation><p><italic toggle="yes"> (Review of population based studies of NSAID use and hepatic injury; frequency of clinically apparent liver injury from NSAIDs overall was ~10 cases per 100,000 patient-years of use; fenoprofen and flurbiprofen are not specifically discussed).</italic></p></annotation><pub-id pub-id-type="pmid">9041931</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fenoprofen.R14">
+            <mixed-citation publication-type="journal">Lacroix I, Lapeyre-Mestre M, Bagheri H, Pathak A, Montastruc JL; Club de Reflexion des cabinets de Groupe de Gastro-Enterologie (CREGG); General Practitioner Networks. Nonsteroidal anti-inflammatory drug-induced liver injury: a case-control study in primary care. Fundam Clin Pharmacol 2004; 18: 201-6. <annotation><p><italic toggle="yes"> (Case controlled study of patients presenting with suspected drug induced liver injury in a general practice context in Southern France found 88 cases which were matched with 178 controls; 22 cases vs 16 controls had been exposed to NSAIDs; 5 diclofenac, 4 ibuprofen, 4 ketoprofen, 2 niflumic acid, 1 flurbiprofen and 1 meloxicam, rest to salicylates which were used as frequently in controls as cases; there were no fatalities and cases were more common in women than men; no mention of fenoprofen).</italic></p></annotation><pub-id pub-id-type="pmid">15066135</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fenoprofen.R15">
+            <mixed-citation publication-type="journal">Rubenstein JH, Laine L. Systematic review: the hepatotoxicity of non-steroidal anti-inflammatory drugs. Aliment Pharmacol Ther 2004; 20: 373-80. <annotation><p><italic toggle="yes">(NSAIDs are the most commonly used drugs in the US and account for a large proportion of cases of hepatic injury, but the frequency is quite rare. Among 7 population based studies, hospitalization occurred in 22.4/100,000 patient-years of NSAID use [rate ratio=1.5] and deaths from liver injury occurred in ~1/100,000 patient-years; frequency of injury did not increase with age and was no more common in women than men; in case controlled studies, a higher odds ratio for liver injury was found with sulindac, indomethacin, piroxicam and diclofenac; no mention of fenoprofen).</italic></p></annotation><pub-id pub-id-type="pmid">15298630</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fenoprofen.R16">
+            <mixed-citation publication-type="journal">Bj&#x000f6;rnsson Ejerlstad P, Bergqvist A, Olsson R. Fulminant drug-induced hepatic failure leading to death or liver transplantation in Sweden. Scand J Gastroenterol 2005; 40: 1095-1101. <annotation><p><italic toggle="yes"> (Survey of all cases of fatal drug induced liver injury from the Swedish Adverse Drug Reporting system from 1966-2002; among 103 cases, none were attributed to fenoprofen).</italic></p></annotation><pub-id pub-id-type="pmid">16165719</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fenoprofen.R17">
+            <mixed-citation publication-type="journal">Lapeyre-Mestre M, de Castro AM, Bareille MP, Garcia del Pozo J, Requejo AA, Arias LM, Montastruc J-L, et al. Non-steroidal anti-inflammatory drug-related hepatic damage in France and Spain: analysis from national spontaneous reporting systems. Fundam Clin Pharmacol 2006; 20: 391-5. <annotation><p><italic toggle="yes"> (Analysis of reports of liver injury from NSAIDs from France and Spain from 1982-2001; fenoprofen listed as associated with 27 hepatic reactions from France, but the odds ratio for injury was not elevated and clinical details of injury not given).</italic></p></annotation><pub-id pub-id-type="pmid">16867024</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fenoprofen.R18">
+            <mixed-citation publication-type="journal">Arellano FM, Yood MU, Wentworth CE, Oliveria SA, Rivero E, Verman A, Rothman K. Use of cyclo-oxygenase 2 inhibitors (COX-2) and prescription non-steroidal anti-inflammatory drugs (NSAIDS) in UK and USA populations. Implications for COX-2 cardiovascular profile. Pharmacoepidemiol Drug Saf 2006; 15: 861-72. <annotation><p><italic toggle="yes"> (Surveys from the UK and USA indicate that ibuprofen, naproxen and diclofenac were the most commonly used NSAIDs; fenoprofen was not among the top 10 agents used).</italic></p></annotation><pub-id pub-id-type="pmid">17086563</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fenoprofen.R19">
+            <mixed-citation publication-type="journal">Chalasani N, Fontana RJ, Bonkovsky HL, Watkins PB, Davern T, Serrano J, Yang H, Rochon J; Drug Induced Liver Injury Network (DILIN). Causes, clinical features, and outcomes from a prospective study of drug-induced liver injury in the United States. Gastroenterology 2008; 135: 1924-34. <annotation><p><italic toggle="yes"> (Among 300 cases of drug induced liver disease in the US collected from 2004 to 2008, NSAIDs were implicated as a sole agent in 8 cases [4 diclofenac, 2 celecoxib, 1 meloxicam and 1 oxaprozin] and as one of several agents in 3 cases [1 diclofenac, 1 celecoxib, 1 ibuprofen]; none were attributed to fenoprofen).</italic></p></annotation><pub-id pub-id-type="pmid">18955056</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fenoprofen.R20">
+            <mixed-citation publication-type="journal">Bessone F. Non-steroidal anti-inflammatory drugs: What is the actual risk of liver damage? World J Gastroenterol 2010; 16: 5651-61. <annotation><p><italic toggle="yes"> (Review of estimated frequency of drug induced liver injury due to NSAIDs from large published epidemiological studies; no discussion of fenoprofen).</italic></p></annotation><pub-id pub-id-type="pmid">21128314</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fenoprofen.R21">
+            <mixed-citation publication-type="journal">Reuben A, Koch DG, Lee WM; Acute Liver Failure Study Group. Drug-induced acute liver failure: results of a U.S. multicenter, prospective study. Hepatology 2010; 52: 2065-76. <annotation><p><italic toggle="yes">(Among 1198 patients with acute liver failure enrolled in a US prospective study between 1998 and 2007, 133 were attributed to drug induced liver injury and 7 to NSAIDs, including 4 to bromfenac, 2 diclofenac and 1 etodolac, but none to fenoprofen, ketoprofen, ibuprofen or naproxen).</italic></p></annotation><pub-id pub-id-type="pmid">20949552</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fenoprofen.R22">
+            <mixed-citation publication-type="journal">Gulmez SE, Larrey D, Pageaux GP, Lignot S, Lassalle R, Jov&#x000e9; J, Gatta A, et al. Transplantation for acute liver failure in patients exposed to NSAIDs or paracetamol (acetaminophen): the multinational case-population SALT study. Drug Saf 2013; 36: 135-44. <annotation><p><italic toggle="yes"> (Among 600 patients undergoing liver transplantation for acute liver failure at 52 European liver transplant centers between 2005 and 2007, 301 were considered idiopathic and had received a medication within 30 days of onset, including acetaminophen in 192 and NSAIDs in 40 cases, but fenoprofen was not specifically mentioned).</italic></p></annotation><pub-id pub-id-type="pmid">23743692</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fenoprofen.R23">
+            <mixed-citation publication-type="journal">Lapeyre-Mestre M, Grolleau S, Montastruc JL; Association Fran&#x000e7;aise des Centres R&#x000e9;gionaux de Pharmacovigilance (CRPV). Adverse drug reactions associated with the use of NSAIDs: a case/noncase analysis of spontaneous reports from the French pharmacovigilance database 2002-2006. Fundam Clin Pharmacol 2013; 27: 223-30. <annotation><p><italic toggle="yes"> (Analysis of serious adverse events reporting to a French pharmacovigilance database found highest cumulative rates for liver related reports for nimesulide [0.15 per million defined daily doses], followed by diclofenac [0.09], ketoprofen [0.09], piroxicam [0.06], naproxen [0.04] and meloxicam [0.03] being significant in case/noncase analyses for nimesulide, diclofenac and piroxicam only; no mention of fenoprofen).</italic></p></annotation><pub-id pub-id-type="pmid">21929527</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fenoprofen.R24">
+            <mixed-citation publication-type="journal">Bj&#x000f6;rnsson ES, Bergmann OM, Bj&#x000f6;rnsson HK, Kvaran RB, Olafsson S Incidence, presentation and outcomes in patients with drug-induced liver injury in the general population of Iceland. Gastroenterology 2013; 144: 1419-25. <annotation><p><italic toggle="yes">(In a population based study of drug induced liver injury from Iceland, 96 cases were identified over a 2 year period, including 6 attributed to diclofenac [ranking 2nd], but none were due to fenoprofen).</italic></p></annotation><pub-id pub-id-type="pmid">23419359</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fenoprofen.R25">
+            <mixed-citation publication-type="journal">Chalasani N, Bonkovsky HL, Fontana R, Lee W, Stolz A, Talwalkar J, Reddy KR, et al.; United States Drug Induced Liver Injury Network. Features and outcomes of 899 patients with drug-induced liver injury: The DILIN Prospective Study. Gastroenterology 2015; 148: 1340-52.e7. <annotation><p><italic toggle="yes">(Among 899 cases of drug induced liver injury enrolled in a US prospective study between 2004 and 2013, 28 cases were attributed to an NSAID including 15 to diclofenac, 3 celecoxib, 3 meloxicam, 2 oxaprozin, 2 etodolac, and 1 each for ibuprofen, sulindac and valdecoxib, but none for flurbiprofen or fenoprofen).</italic></p></annotation><pub-id pub-id-type="pmid">25754159</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fenoprofen.R26">
+            <mixed-citation publication-type="journal">Schmeltzer PA, Kosinski AS, Kleiner DE, Hoofnagle JH, Stolz A, Fontana RJ, Russo MW; Drug-Induced Liver Injury Network (DILIN). Liver injury from nonsteroidal anti-inflammatory drugs in the United States. Liver Int 2016; 36: 603-9. <annotation><p><italic toggle="yes">(Among 1231 cases of suspected drug induced liver injury enrolled in a prospective study in the US between 2004 and 2014, 30 [2%] were considered due to an NSAID, including diclofenac [n=16], celecoxib [3], meloxicam [3], etodolac [2], oxaprozin [2], ibuprofen [2] and sulindac [1], while none were attributed to fenoprofen).</italic></p></annotation><pub-id pub-id-type="pmid">26601797</pub-id></mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec id="Fenoprofen.OTHER_REFERENCE_LINKS" sec-type="link-group">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=(Fenoprofen/AE)+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D%3A%222999/12/31%22%5BEDat%5D)">Recent References on Fenoprofen: from PubMed.gov</ext-link>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Fenoprofen">Trials on Fenoprofen: from ClinicalTrials.gov</ext-link>
+            </p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

@@ -1,0 +1,1179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Infliximab" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Infliximab</book-part-id>
+      <title-group>
+        <title>Infliximab</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>10</day>
+          <month>2</month>
+          <year>2017</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="InfertilityAgents" document-type="chapter">Infertility Agents</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="InotuzumabOzogamicin" document-type="chapter">Inotuzumab Ozogamicin</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Infliximab.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Infliximab.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Infliximab is a monoclonal antibody to human tumor necrosis factor alpha (TNF&#x003b1;) which has potent antiinflammatory activity and is used in the therapy of severe inflammatory bowel disease and rheumatoid arthritis. Infliximab has been linked to many instances of idiosyncratic acute liver injury and is a well known cause of reactivation of hepatitis B.</p>
+        </sec>
+        <sec id="Infliximab.Background">
+          <title>Background</title>
+          <p>Infliximab (in flix' i mab) is a mouse-human chimeric monoclonal antibody to TNF&#x003b1; which binds avidly to serum and tissue bound TNF&#x003b1;, causing its inactivation and degradation. Inhibition of TNF&#x003b1; activity leads to modulation of the inflammatory and pain pathways activated by this cytokine. Infliximab was approved for use in the United States in 1998 and current indications include rheumatoid arthritis, ankylosing spondylitis, psoriatic arthritis and severe psoriasis, Crohn disease (adult and pediatric) and ulcerative colitis. Infliximab is considered a disease modifying antirheumatic drug (DMARD) and has been shown to improve symptoms as well as joint and cartilage damage in the inflammatory arthritides. Infliximab is available in vials containing 100 mg under the brand name of Remicade. The dose of infliximab varies by indication (50 to 200 mg per intravenous infusion) and it is generally given at 1, 2 and 6 weeks, and then in a maintenance dose at 8 week intervals. Common side effects include rash and fever. Rare but potentially severe side effects include seizures, heart failure, renal failure, bone marrow suppression, hypersensitivity reactions and Stevens Johnson syndrome. TNF&#x003b1; antagonists are also capable of causing immune suppression, resulting in reactivation of microbial infections including tuberculosis and hepatitis B.</p>
+        </sec>
+        <sec id="Infliximab.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>Infliximab has been associated with at least four forms of hepatic injury which have quite separate causes and different clinical outcomes. First, infliximab can cause serum aminotransferase elevations, which generally arise after 2 to 5 infusions. These elevations can be transient and are usually asymptomatic, but in some instances they become progressively higher with each infusion necessitating discontinuation (Case 2). Serum alkaline phosphatase levels may also rise, but generally to a lesser degree. Progression to symptomatic hepatitis with jaundice can also occur, but the liver test abnormalities usually resolve within 4 to 12 weeks of stopping treatment. Patients with this form of infliximab hepatotoxicity usually tolerate etanercept without similar problems.</p>
+          <p>A second type of liver injury associated with infliximab use is a hepatocellular injury typically associated with autoimmune markers. Infliximab induces autoantibodies including antinuclear (ANA), smooth muscle (SMA) and double-stranded DNA autoantibodies (anti-dsDNA), in a high proportion of patients. These autoantibodies are usually not accompanied by clinically apparent autoimmune conditions. In rare instances, however, a lupus-like syndrome or frank autoimmune hepatitis accompanies these autoantibodies. These complications generally arise after 6 or more months of therapy and are usually symptomatic, although the course is often anicteric and mild. The autoimmune hepatitis is marked by a hepatocellular pattern of serum enzyme elevations and the presence of ANA or other autoantibodies. Liver biopsy usually shows changes typical of autoimmune hepatitis, such as interface hepatitis, focal liver cell necrosis and intense mononuclear cell infiltrates that may include plasma cells. The liver injury usually improves upon stopping infliximab and starting corticosteroids, but can be severe and lead to death or need for emergency liver transplant.</p>
+          <p>A third form of Infliximab induced liver injury is a cholestatic form of liver injury that can arise as early as a few days to up to 24 weeks after starting therapy. Symptoms include jaundice and pruritus, and liver biopsy shows cholestasis with mild inflammation. The course can be prolonged, but is usually self-limiting (Case 1). Autoantibodies and immunoallergic features are typically not present.</p>
+          <p>A fourth type of hepatic injury caused by infliximab is reactivation of chronic hepatitis B (Case 3). Patients receiving infliximab for an autoimmune condition who are also HBsAg carriers can have a reactivation of hepatitis B virus (HBV) activity with rise in serum HBV DNA concentrations, followed by abnormal ALT levels and clinically apparent hepatitis with jaundice. Reactivation of hepatitis B can be severe and the mortality rate among jaundiced cases is at least 10%. The rise in HBV DNA levels usually occurs within the first few months of infliximab therapy, but is clinically silent until after ALT levels rise 2 to 6 months later. Therapy with lamivudine (or other oral antiviral agents with activity against HBV such as entecavir or tenofovir) appears to prevent reactivation of hepatitis B, and early intervention (before onset of symptoms) with antivirals may ameliorate the course of illness. Much more rarely, reactivation occurs in patients with anti-HBc without HBsAg (serologic pattern of previous HBV infection). The anti-TNF inhibitors have little or no effects on hepatitis C virus levels and have been safely used in patients with chronic hepatitis C.</p>
+          <p>Likelihood score: A (well established cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Infliximab.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The mechanism of liver injury caused by infliximab is probably due to autoimmunity caused by the immunomodulatory therapy. While a high proportion of patients develop autoantibodies either de novo or in rising titer, only rare persons develop clinically apparent autoimmune conditions, such as lupus-like syndrome or autoimmune hepatitis. The cholestatic forms of injury may have a different pathogenesis. Because infliximab is a monoclonal antibody, it is not metabolized by the liver except as is typical for most proteins.</p>
+        </sec>
+        <sec id="Infliximab.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>The liver injury caused by infliximab is usually mild and rapidly reversed once therapy is stopped. However, fatal instances of HBV reactivation and induction of autoimmune hepatitis due to infliximab have been reported, and regular monitoring of patients early during the course of infliximab is recommended. Patients who are to start infliximab therapy should be screened for evidence of hepatitis B, and those with preexisting HBsAg should be offered prophylaxis with an oral antiviral agent such as lamivudine, tenofovir or entecavir. Patients who develop an autoimmune hepatitis-like syndrome during infliximab therapy may not recover promptly with stopping the TNF&#x003b1; antagonist and may require corticosteroid therapy. In this event, the dose of the corticosteroid should be kept to a minimum to control the disease and, ultimately, attempts should be made to withdraw immune suppression (or decrease to levels used before administration of infliximab). Rechallenge with infliximab (or switching to adalimumab or certolizumab) has not been reported, but there does not appear to be cross reactivity in hepatic injury between infliximab and etanercept, which is not a monoclonal antibody but rather a modified form of the TNF&#x003b1; receptor.</p>
+          <p>References on the hepatotoxicity and safety of infliximab and other anti-TNF agents are given together at the end of the Overview section on the Tumor Necrosis Factor Antagonists.</p>
+          <p>Drug Class: <related-object source-id="livertox" document-id="AntirheumaticAgents">Antirheumatic Agents</related-object>; Dermatologic Agents; Gastrointestinal Agents, Inflammatory Bowel Disease Agents</p>
+          <p>Other Drugs in the Subclass, <related-object source-id="livertox" document-id="TNFAntagonists">Tumor Necrosis Factor Antagonists</related-object>: <related-object source-id="livertox" document-id="Adalimumab">Adalimumab</related-object>, <related-object source-id="livertox" document-id="Certolizumab">Certolizumab</related-object>, <related-object source-id="livertox" document-id="Etanercept">Etanercept</related-object>, <related-object source-id="livertox" document-id="Golimumab">Golimumab</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Infliximab.CASE_REPORTS">
+        <title>CASE REPORTS</title>
+        <sec id="Infliximab.Case_1._Cholestatic_hepatitis">
+          <title>Case 1. Cholestatic hepatitis associated with infliximab therapy.</title>
+          <p>[Modified from: Menghini VV, Arora AS. Infliximab-associated reversible cholestatic liver disease. Mayo Clin Proc 2001; 76: 84-6. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/pubmed/11155419">PubMed Citation</ext-link>)</p>
+          <p>A 44 year old woman with long standing Crohn disease on a regimen of mesalamine, mercaptopurine (150 mg/day) and prednisone (10 mg/day) was started on infliximab (5 mg/kg infusions). 19 days after the initial infusion she developed fatigue, anorexia and nausea, followed a few days later by dark urine, jaundice and pruritus. Evaluation demonstrated jaundice without fever, rash or signs of chronic liver disease. She denied risk factors for viral hepatitis and excessive alcohol use. She was taking no over-the-counter or herbal medications. She had modest elevations in serum aminotransferase levels (ALT 149 U/L, AST 119 U/L), no elevation in alkaline phosphatase (55 U/L), but marked elevation in gamma glutamyl transpeptidase (GGT) with an initial bilirubin was 7.4 mg/dL (Table). She had no eosinophilia. Tests for hepatitis A, B and C were negative and autoantibodies were negative except for a weakly positive antinuclear antibody. She continued to worsen over the ensuing week. Ultrasound of the abdomen was unrevealing, and retrograde cholangiopancreatography was normal. A liver biopsy showed bland cholestasis with minimal inflammation and no fibrosis. With conservative management, she improved and two months after initial presentation her liver tests had returned to normal. She continued her chronic regimen of mercaptopurine and prednisone.</p>
+          <sec id="Infliximab.Key_Points1">
+            <title>Key Points</title>
+            <table-wrap id="Infliximab.T1" position="anchor" orientation="portrait">
+              <table>
+                <tbody>
+                  <tr>
+                    <td rowspan="1" colspan="1">Medication:</td>
+                    <td rowspan="1" colspan="1">Infliximab (single infusion of 5 mg/kg)</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Pattern:</td>
+                    <td rowspan="1" colspan="1">Mixed (R=3)</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Severity:</td>
+                    <td rowspan="1" colspan="1">3+ (jaundice, hospitalization)</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Latency:</td>
+                    <td rowspan="1" colspan="1">19 days</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Recovery:</td>
+                    <td rowspan="1" colspan="1">2 months</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Other medications:</td>
+                    <td rowspan="1" colspan="1">Chronically, mercaptopurine, prednisone, mesalamine, folic acid and oral contraceptives (for many years)</td>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Infliximab.Laboratory_Values1">
+            <title>Laboratory Values</title>
+            <table-wrap id="Infliximab.T2" position="anchor" orientation="portrait">
+              <table>
+                <thead>
+                  <tr>
+                    <th id="hd_h_Infliximab.T2_1_1_1_1" rowspan="1" colspan="1">Time After Infusion</th>
+                    <th id="hd_h_Infliximab.T2_1_1_1_2" rowspan="1" colspan="1">AST (U/L)</th>
+                    <th id="hd_h_Infliximab.T2_1_1_1_3" rowspan="1" colspan="1">Alk P (U/L)</th>
+                    <th id="hd_h_Infliximab.T2_1_1_1_4" rowspan="1" colspan="1">Bilirubin (mg/dL)</th>
+                    <th id="hd_h_Infliximab.T2_1_1_1_5" rowspan="1" colspan="1">Other</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td headers="hd_h_Infliximab.T2_1_1_1_1" rowspan="1" colspan="1">Pre</td>
+                    <td headers="hd_h_Infliximab.T2_1_1_1_2" rowspan="1" colspan="1">38</td>
+                    <td headers="hd_h_Infliximab.T2_1_1_1_3" rowspan="1" colspan="1">57</td>
+                    <td headers="hd_h_Infliximab.T2_1_1_1_4" rowspan="1" colspan="1">1.0</td>
+                    <td headers="hd_h_Infliximab.T2_1_1_1_5" rowspan="1" colspan="1">Before infusion</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Infliximab.T2_1_1_1_1" rowspan="1" colspan="1">21 days</td>
+                    <td headers="hd_h_Infliximab.T2_1_1_1_2" rowspan="1" colspan="1">119</td>
+                    <td headers="hd_h_Infliximab.T2_1_1_1_3" rowspan="1" colspan="1">55</td>
+                    <td headers="hd_h_Infliximab.T2_1_1_1_4" rowspan="1" colspan="1">7.4</td>
+                    <td headers="hd_h_Infliximab.T2_1_1_1_5" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Infliximab.T2_1_1_1_1" rowspan="1" colspan="1">23 days</td>
+                    <td headers="hd_h_Infliximab.T2_1_1_1_2" rowspan="1" colspan="1">163</td>
+                    <td headers="hd_h_Infliximab.T2_1_1_1_3" rowspan="1" colspan="1">65</td>
+                    <td headers="hd_h_Infliximab.T2_1_1_1_4" rowspan="1" colspan="1">12.3</td>
+                    <td headers="hd_h_Infliximab.T2_1_1_1_5" rowspan="1" colspan="1">GGT 581 U/L</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Infliximab.T2_1_1_1_1" rowspan="1" colspan="1">26 days</td>
+                    <td headers="hd_h_Infliximab.T2_1_1_1_2" rowspan="1" colspan="1">223</td>
+                    <td headers="hd_h_Infliximab.T2_1_1_1_3" rowspan="1" colspan="1">301</td>
+                    <td headers="hd_h_Infliximab.T2_1_1_1_4" rowspan="1" colspan="1">19.2</td>
+                    <td headers="hd_h_Infliximab.T2_1_1_1_5" rowspan="1" colspan="1">ERCP normal</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Infliximab.T2_1_1_1_1" rowspan="1" colspan="1">28 days</td>
+                    <td headers="hd_h_Infliximab.T2_1_1_1_2" rowspan="1" colspan="1">153</td>
+                    <td headers="hd_h_Infliximab.T2_1_1_1_3" rowspan="1" colspan="1">261</td>
+                    <td headers="hd_h_Infliximab.T2_1_1_1_4" rowspan="1" colspan="1">16.8</td>
+                    <td headers="hd_h_Infliximab.T2_1_1_1_5" rowspan="1" colspan="1">Liver biopsy</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Infliximab.T2_1_1_1_1" rowspan="1" colspan="1">32 days</td>
+                    <td headers="hd_h_Infliximab.T2_1_1_1_2" rowspan="1" colspan="1">104</td>
+                    <td headers="hd_h_Infliximab.T2_1_1_1_3" rowspan="1" colspan="1">282</td>
+                    <td headers="hd_h_Infliximab.T2_1_1_1_4" rowspan="1" colspan="1">13.8</td>
+                    <td headers="hd_h_Infliximab.T2_1_1_1_5" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Infliximab.T2_1_1_1_1" rowspan="1" colspan="1">12 weeks</td>
+                    <td headers="hd_h_Infliximab.T2_1_1_1_2" rowspan="1" colspan="1">13</td>
+                    <td headers="hd_h_Infliximab.T2_1_1_1_3" rowspan="1" colspan="1">56</td>
+                    <td headers="hd_h_Infliximab.T2_1_1_1_4" rowspan="1" colspan="1">1.1</td>
+                    <td headers="hd_h_Infliximab.T2_1_1_1_5" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Infliximab.T2_1_1_1_1" rowspan="1" colspan="1">
+                      <bold>Normal</bold>
+                    </td>
+                    <td headers="hd_h_Infliximab.T2_1_1_1_2" rowspan="1" colspan="1">
+                      <bold>&#x0003c;40</bold>
+                    </td>
+                    <td headers="hd_h_Infliximab.T2_1_1_1_3" rowspan="1" colspan="1">
+                      <bold>&#x0003c;213</bold>
+                    </td>
+                    <td headers="hd_h_Infliximab.T2_1_1_1_4" rowspan="1" colspan="1">
+                      <bold>&#x0003c;1.2</bold>
+                    </td>
+                    <td headers="hd_h_Infliximab.T2_1_1_1_5" rowspan="1" colspan="1"/>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Infliximab.Comment1">
+            <title>Comment</title>
+            <p>An early report documenting a cholestatic hepatitis arising 19 days after an initial infusion of infliximab. The hepatitis was not accompanied by appearance of autoantibodies and there was no evidence for reactivation of an underlying hepatitis. The liver biopsy was characterized by a bland cholestasis. In the absence of exposures to other potential causes of drug induced liver injury, it is difficult to ascribe this episode to anything except infliximab. Nevertheless, the time to onset, pattern of presentation and course, while being typical of drug induced liver injury, are atypical of the hepatotoxicity of infliximab and more typical of mercaptopurine. The concurrent use of prednisone and mercaptopurine may have altered the clinical course; both agents were continued.</p>
+          </sec>
+        </sec>
+        <sec id="Infliximab.Case_2._Serum_aminotransferas">
+          <title>Case 2. Serum aminotransferase elevations following infliximab therapy.</title>
+          <p>[Modified from: Garc&#x000ed;a Aparicio AM, Rey JR, Sanz AH, Alvarez JS. Successful treatment with etanercept in a patient with hepatotoxicity closely related to infliximab. Clin Rheumatol 2007; 26: 811-3. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/pubmed/16550301">PubMed Citation</ext-link>]</p>
+          <p>A 48 year old man with long standing, symptomatic ankylosing spondylitis was started on infliximab (5 mg/kg) infusions which were planned to be given at 0, 2 and 6 weeks, followed by every 8 weeks thereafter. The infusions were followed by marked improvement in his clinical symptoms and inflammatory markers. Serum aminotransferase levels, which had been normal before therapy, were slightly elevated after the second infusion and rose even higher after the third and fourth (Table). He remained asymptomatic and anicteric without rash, fever or signs of hepatic disease. Tests for hepatitis A, B and C were negative as were serum autoantibodies. An abdominal ultrasound showed no abnormalities. He denied significant alcohol intake. Other medications included nonsteroidal antiinflammatory agents only, which had been discontinued early. Once his serum aminotransferase levels rose above 10 times the upper limit of normal (week 22), the infliximab infusions were stopped, and he was monitored on no therapy. ALT levels fell to normal within 10 weeks, and he was started on etanercept infusions (25 mg twice weekly), which led to a prompt clinical response and serum enzymes remained normal during the subsequent 20 weeks of treatment.</p>
+          <sec id="Infliximab.Key_Points2">
+            <title>Key Points</title>
+            <table-wrap id="Infliximab.T3" position="anchor" orientation="portrait">
+              <table>
+                <tbody>
+                  <tr>
+                    <td rowspan="1" colspan="1">Medication:</td>
+                    <td rowspan="1" colspan="1">Infliximab (4 infusions of 5 mg/kg)</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Pattern:</td>
+                    <td rowspan="1" colspan="1">Hepatocellular (R=8.2)</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Severity:</td>
+                    <td rowspan="1" colspan="1">1+ (enzyme elevations without jaundice)</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Latency:</td>
+                    <td rowspan="1" colspan="1">6 weeks</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Recovery:</td>
+                    <td rowspan="1" colspan="1">10 weeks after stopping</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Other medications:</td>
+                    <td rowspan="1" colspan="1">Flogoprofen (NSAID)</td>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Infliximab.Laboratory_Values2">
+            <title>Laboratory Values</title>
+            <table-wrap id="Infliximab.T4" position="anchor" orientation="portrait">
+              <table>
+                <thead>
+                  <tr>
+                    <th id="hd_h_Infliximab.T4_1_1_1_1" rowspan="1" colspan="1">Time after first infusion</th>
+                    <th id="hd_h_Infliximab.T4_1_1_1_2" rowspan="1" colspan="1">Time after stopping</th>
+                    <th id="hd_h_Infliximab.T4_1_1_1_3" rowspan="1" colspan="1">ALT<break/> (U/L)</th>
+                    <th id="hd_h_Infliximab.T4_1_1_1_4" rowspan="1" colspan="1">GGT<break/> (U/L)</th>
+                    <th id="hd_h_Infliximab.T4_1_1_1_5" rowspan="1" colspan="1">Bilirubin (mg/dL)</th>
+                    <th id="hd_h_Infliximab.T4_1_1_1_6" rowspan="1" colspan="1">Other</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td headers="hd_h_Infliximab.T4_1_1_1_1" rowspan="1" colspan="1">Pre</td>
+                    <td headers="hd_h_Infliximab.T4_1_1_1_2" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Infliximab.T4_1_1_1_3" rowspan="1" colspan="1">35</td>
+                    <td headers="hd_h_Infliximab.T4_1_1_1_4" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Infliximab.T4_1_1_1_5" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Infliximab.T4_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Infliximab.T4_1_1_1_1" rowspan="1" colspan="1">0</td>
+                    <td headers="hd_h_Infliximab.T4_1_1_1_2" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Infliximab.T4_1_1_1_3" rowspan="1" colspan="1">32</td>
+                    <td headers="hd_h_Infliximab.T4_1_1_1_4" rowspan="1" colspan="1">32</td>
+                    <td headers="hd_h_Infliximab.T4_1_1_1_5" rowspan="1" colspan="1">Normal</td>
+                    <td headers="hd_h_Infliximab.T4_1_1_1_6" rowspan="1" colspan="1">First infusion</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Infliximab.T4_1_1_1_1" rowspan="1" colspan="1">2 weeks</td>
+                    <td headers="hd_h_Infliximab.T4_1_1_1_2" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Infliximab.T4_1_1_1_3" rowspan="1" colspan="1">35</td>
+                    <td headers="hd_h_Infliximab.T4_1_1_1_4" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Infliximab.T4_1_1_1_5" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Infliximab.T4_1_1_1_6" rowspan="1" colspan="1">Second infusion</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Infliximab.T4_1_1_1_1" rowspan="1" colspan="1">6 weeks</td>
+                    <td headers="hd_h_Infliximab.T4_1_1_1_2" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Infliximab.T4_1_1_1_3" rowspan="1" colspan="1">60</td>
+                    <td headers="hd_h_Infliximab.T4_1_1_1_4" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Infliximab.T4_1_1_1_5" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Infliximab.T4_1_1_1_6" rowspan="1" colspan="1">Third infusion</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Infliximab.T4_1_1_1_1" rowspan="1" colspan="1">14 weeks</td>
+                    <td headers="hd_h_Infliximab.T4_1_1_1_2" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Infliximab.T4_1_1_1_3" rowspan="1" colspan="1">382</td>
+                    <td headers="hd_h_Infliximab.T4_1_1_1_4" rowspan="1" colspan="1">88</td>
+                    <td headers="hd_h_Infliximab.T4_1_1_1_5" rowspan="1" colspan="1">0.6</td>
+                    <td headers="hd_h_Infliximab.T4_1_1_1_6" rowspan="1" colspan="1">Fourth infusion</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Infliximab.T4_1_1_1_1" rowspan="1" colspan="1">22 weeks</td>
+                    <td headers="hd_h_Infliximab.T4_1_1_1_2" rowspan="1" colspan="1">0</td>
+                    <td headers="hd_h_Infliximab.T4_1_1_1_3" rowspan="1" colspan="1">656</td>
+                    <td headers="hd_h_Infliximab.T4_1_1_1_4" rowspan="1" colspan="1">140</td>
+                    <td headers="hd_h_Infliximab.T4_1_1_1_5" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Infliximab.T4_1_1_1_6" rowspan="1" colspan="1">Infliximab stopped</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Infliximab.T4_1_1_1_1" rowspan="1" colspan="1">26 weeks</td>
+                    <td headers="hd_h_Infliximab.T4_1_1_1_2" rowspan="1" colspan="1">4 weeks</td>
+                    <td headers="hd_h_Infliximab.T4_1_1_1_3" rowspan="1" colspan="1">370</td>
+                    <td headers="hd_h_Infliximab.T4_1_1_1_4" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Infliximab.T4_1_1_1_5" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Infliximab.T4_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Infliximab.T4_1_1_1_1" rowspan="1" colspan="1">32 weeks</td>
+                    <td headers="hd_h_Infliximab.T4_1_1_1_2" rowspan="1" colspan="1">10 weeks</td>
+                    <td headers="hd_h_Infliximab.T4_1_1_1_3" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Infliximab.T4_1_1_1_4" rowspan="1" colspan="1">45</td>
+                    <td headers="hd_h_Infliximab.T4_1_1_1_5" rowspan="1" colspan="1">Normal</td>
+                    <td headers="hd_h_Infliximab.T4_1_1_1_6" rowspan="1" colspan="1">Etanercept started</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Infliximab.T4_1_1_1_1" rowspan="1" colspan="1">38 weeks</td>
+                    <td headers="hd_h_Infliximab.T4_1_1_1_2" rowspan="1" colspan="1">4 months</td>
+                    <td headers="hd_h_Infliximab.T4_1_1_1_3" rowspan="1" colspan="1">35</td>
+                    <td headers="hd_h_Infliximab.T4_1_1_1_4" rowspan="1" colspan="1">Normal</td>
+                    <td headers="hd_h_Infliximab.T4_1_1_1_5" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Infliximab.T4_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Infliximab.T4_1_1_1_1" rowspan="1" colspan="1">44 weeks</td>
+                    <td headers="hd_h_Infliximab.T4_1_1_1_2" rowspan="1" colspan="1">5 months</td>
+                    <td headers="hd_h_Infliximab.T4_1_1_1_3" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Infliximab.T4_1_1_1_4" rowspan="1" colspan="1">30</td>
+                    <td headers="hd_h_Infliximab.T4_1_1_1_5" rowspan="1" colspan="1">Normal</td>
+                    <td headers="hd_h_Infliximab.T4_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Infliximab.T4_1_1_1_1" rowspan="1" colspan="1">1 year</td>
+                    <td headers="hd_h_Infliximab.T4_1_1_1_2" rowspan="1" colspan="1">6 months</td>
+                    <td headers="hd_h_Infliximab.T4_1_1_1_3" rowspan="1" colspan="1">25</td>
+                    <td headers="hd_h_Infliximab.T4_1_1_1_4" rowspan="1" colspan="1">Normal</td>
+                    <td headers="hd_h_Infliximab.T4_1_1_1_5" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Infliximab.T4_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Infliximab.T4_1_1_1_1 hd_h_Infliximab.T4_1_1_1_2" colspan="2" rowspan="1">
+                      <bold>Normal</bold>
+                    </td>
+                    <td headers="hd_h_Infliximab.T4_1_1_1_3" rowspan="1" colspan="1">
+                      <bold>&#x0003c;45</bold>
+                    </td>
+                    <td headers="hd_h_Infliximab.T4_1_1_1_4" rowspan="1" colspan="1">
+                      <bold>&#x0003c;50</bold>
+                    </td>
+                    <td headers="hd_h_Infliximab.T4_1_1_1_5" rowspan="1" colspan="1">
+                      <bold>&#x0003c;1.2</bold>
+                    </td>
+                    <td headers="hd_h_Infliximab.T4_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+            <p>* Some values are estimated from Figure 1.</p>
+          </sec>
+          <sec id="Infliximab.Comment2">
+            <title>Comment</title>
+            <p>This patient developed serum aminotransferase elevations without jaundice or symptoms starting after 2 infusions of infliximab, leading to its discontinuation after 4 infusions when ALT levels were greater than 10-fold elevated. The patient had had an excellent clinical response to infliximab and was switched to etanercept, a non-monoclonal antibody based TNFa blocker, which yielded a similar clinical response without ALT elevations. The cause of the ALT elevations during infliximab therapy is not known, but in this situation it did not appear to be immunologically mediated.</p>
+          </sec>
+        </sec>
+        <sec id="Infliximab.Case_3._Reactivation_of_hepat">
+          <title>Case 3. Reactivation of hepatitis B during infliximab therapy.</title>
+          <p>[Modified from: Ojiro K, Naganuma M, Ebinuma H, Kunimoto H, Tada S, Ogata H, Iwao Y, et al. Reactivation of hepatitis B in a patient with Crohn's disease treated using infliximab. J Gastroenterol 2008; 43: 397-401. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/pubmed/18592158">PubMed Citation</ext-link>]</p>
+          <p>A 43 year old woman with Crohn disease and the HBsAg carrier state who had been treated unsuccessfully with corticosteroids and sulfasalazine was started on intravenous infliximab in a regimen of 5 mg/kg at 0, 2 and 6 weeks, followed by repeat infusions every 8 weeks. After the third infusion, mercaptopurine was added. She was known to be HBsAg-positive for several years, but was asymptomatic of liver disease and had always had normal serum aminotransferase levels as well as absence of HBeAg, and no or only low levels of HBV DNA in serum. After the fourth infusion of infliximab, however, her HBV DNA and ALT levels began to rise and lamivudine (100 mg daily) was started (Table). After the sixth infusion when HBV ALT levels reached 5 times the upper limit of normal, infliximab, sulfasalazine and mercaptopurine were stopped. Despite lamivudine therapy, HBV DNA levels subsequently rose to &#x0003e;10 million copies/mL and ALT peaked at 350 U/L. A liver biopsy showed moderate chronic hepatitis and mild fibrosis. She began to improve thereafter and lamivudine was continued. Three months later, serum aminotransferase levels were again normal and HBV DNA was undetectable, but her Crohn disease was again active. Infliximab was restarted, but she had no further evidence of reactivation of hepatitis B.</p>
+          <sec id="Infliximab.Key_Points3">
+            <title>Key Points</title>
+            <table-wrap id="Infliximab.T5" position="anchor" orientation="portrait">
+              <table>
+                <tbody>
+                  <tr>
+                    <td rowspan="1" colspan="1">Medication:</td>
+                    <td rowspan="1" colspan="1">Infliximab (6 infusions of 5 mg/kg)</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Pattern:</td>
+                    <td rowspan="1" colspan="1">Probably hepatocellular (alkaline phosphatase levels not provided)</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Severity:</td>
+                    <td rowspan="1" colspan="1">1+ (enzyme elevations without jaundice)</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Latency:</td>
+                    <td rowspan="1" colspan="1">4-5 months</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Recovery:</td>
+                    <td rowspan="1" colspan="1">3-4 months after stopping</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Other medications:</td>
+                    <td rowspan="1" colspan="1">Mercaptopurine, sulfasalazine, lamivudine</td>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Infliximab.Laboratory_Values3">
+            <title>Laboratory Values</title>
+            <table-wrap id="Infliximab.T6" position="anchor" orientation="portrait">
+              <table>
+                <thead>
+                  <tr>
+                    <th id="hd_h_Infliximab.T6_1_1_1_1" rowspan="1" colspan="1">Time after first infusion</th>
+                    <th id="hd_h_Infliximab.T6_1_1_1_2" rowspan="1" colspan="1">Infliximab Infusions</th>
+                    <th id="hd_h_Infliximab.T6_1_1_1_3" rowspan="1" colspan="1">ALT* (U/L)</th>
+                    <th id="hd_h_Infliximab.T6_1_1_1_4" rowspan="1" colspan="1">HBV DNA* (copies/mL)</th>
+                    <th id="hd_h_Infliximab.T6_1_1_1_5" rowspan="1" colspan="1">Other</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td headers="hd_h_Infliximab.T6_1_1_1_1" rowspan="1" colspan="1">Pre</td>
+                    <td headers="hd_h_Infliximab.T6_1_1_1_2" rowspan="1" colspan="1">0</td>
+                    <td headers="hd_h_Infliximab.T6_1_1_1_3" rowspan="1" colspan="1">15</td>
+                    <td headers="hd_h_Infliximab.T6_1_1_1_4" rowspan="1" colspan="1">&#x0003c;2000</td>
+                    <td headers="hd_h_Infliximab.T6_1_1_1_5" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Infliximab.T6_1_1_1_1" rowspan="1" colspan="1">1 month</td>
+                    <td headers="hd_h_Infliximab.T6_1_1_1_2" rowspan="1" colspan="1">2</td>
+                    <td headers="hd_h_Infliximab.T6_1_1_1_3" rowspan="1" colspan="1">25</td>
+                    <td headers="hd_h_Infliximab.T6_1_1_1_4" rowspan="1" colspan="1">&#x0003c;2000</td>
+                    <td headers="hd_h_Infliximab.T6_1_1_1_5" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Infliximab.T6_1_1_1_1" rowspan="1" colspan="1">2 months</td>
+                    <td headers="hd_h_Infliximab.T6_1_1_1_2" rowspan="1" colspan="1">3</td>
+                    <td headers="hd_h_Infliximab.T6_1_1_1_3" rowspan="1" colspan="1">40</td>
+                    <td headers="hd_h_Infliximab.T6_1_1_1_4" rowspan="1" colspan="1">300,000</td>
+                    <td headers="hd_h_Infliximab.T6_1_1_1_5" rowspan="1" colspan="1">Lamivudine started</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Infliximab.T6_1_1_1_1" rowspan="1" colspan="1">4 months</td>
+                    <td headers="hd_h_Infliximab.T6_1_1_1_2" rowspan="1" colspan="1">4</td>
+                    <td headers="hd_h_Infliximab.T6_1_1_1_3" rowspan="1" colspan="1">38</td>
+                    <td headers="hd_h_Infliximab.T6_1_1_1_4" rowspan="1" colspan="1">200,000</td>
+                    <td headers="hd_h_Infliximab.T6_1_1_1_5" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Infliximab.T6_1_1_1_1" rowspan="1" colspan="1">6 months</td>
+                    <td headers="hd_h_Infliximab.T6_1_1_1_2" rowspan="1" colspan="1">5</td>
+                    <td headers="hd_h_Infliximab.T6_1_1_1_3" rowspan="1" colspan="1">57</td>
+                    <td headers="hd_h_Infliximab.T6_1_1_1_4" rowspan="1" colspan="1">200,000</td>
+                    <td headers="hd_h_Infliximab.T6_1_1_1_5" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Infliximab.T6_1_1_1_1" rowspan="1" colspan="1">8 months</td>
+                    <td headers="hd_h_Infliximab.T6_1_1_1_2" rowspan="1" colspan="1">6</td>
+                    <td headers="hd_h_Infliximab.T6_1_1_1_3" rowspan="1" colspan="1">60</td>
+                    <td headers="hd_h_Infliximab.T6_1_1_1_4" rowspan="1" colspan="1">1,200,000</td>
+                    <td headers="hd_h_Infliximab.T6_1_1_1_5" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Infliximab.T6_1_1_1_1" rowspan="1" colspan="1">8.5 months</td>
+                    <td headers="hd_h_Infliximab.T6_1_1_1_2" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Infliximab.T6_1_1_1_3" rowspan="1" colspan="1">145</td>
+                    <td headers="hd_h_Infliximab.T6_1_1_1_4" rowspan="1" colspan="1">20,000,000</td>
+                    <td headers="hd_h_Infliximab.T6_1_1_1_5" rowspan="1" colspan="1">Infliximab held</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Infliximab.T6_1_1_1_1" rowspan="1" colspan="1">9 months</td>
+                    <td headers="hd_h_Infliximab.T6_1_1_1_2" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Infliximab.T6_1_1_1_3" rowspan="1" colspan="1">239</td>
+                    <td headers="hd_h_Infliximab.T6_1_1_1_4" rowspan="1" colspan="1">300,000</td>
+                    <td headers="hd_h_Infliximab.T6_1_1_1_5" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Infliximab.T6_1_1_1_1" rowspan="1" colspan="1">9.5 months</td>
+                    <td headers="hd_h_Infliximab.T6_1_1_1_2" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Infliximab.T6_1_1_1_3" rowspan="1" colspan="1">320</td>
+                    <td headers="hd_h_Infliximab.T6_1_1_1_4" rowspan="1" colspan="1">10,000</td>
+                    <td headers="hd_h_Infliximab.T6_1_1_1_5" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Infliximab.T6_1_1_1_1" rowspan="1" colspan="1">9.7 months</td>
+                    <td headers="hd_h_Infliximab.T6_1_1_1_2" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Infliximab.T6_1_1_1_3" rowspan="1" colspan="1">245</td>
+                    <td headers="hd_h_Infliximab.T6_1_1_1_4" rowspan="1" colspan="1">4,000</td>
+                    <td headers="hd_h_Infliximab.T6_1_1_1_5" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Infliximab.T6_1_1_1_1" rowspan="1" colspan="1">10 months</td>
+                    <td headers="hd_h_Infliximab.T6_1_1_1_2" rowspan="1" colspan="1">7</td>
+                    <td headers="hd_h_Infliximab.T6_1_1_1_3" rowspan="1" colspan="1">19</td>
+                    <td headers="hd_h_Infliximab.T6_1_1_1_4" rowspan="1" colspan="1">&#x0003c;100</td>
+                    <td headers="hd_h_Infliximab.T6_1_1_1_5" rowspan="1" colspan="1">Infliximab restarted</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Infliximab.T6_1_1_1_1" rowspan="1" colspan="1">1 year</td>
+                    <td headers="hd_h_Infliximab.T6_1_1_1_2" rowspan="1" colspan="1">8</td>
+                    <td headers="hd_h_Infliximab.T6_1_1_1_3" rowspan="1" colspan="1">15</td>
+                    <td headers="hd_h_Infliximab.T6_1_1_1_4" rowspan="1" colspan="1">&#x0003c;100</td>
+                    <td headers="hd_h_Infliximab.T6_1_1_1_5" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Infliximab.T6_1_1_1_1" rowspan="1" colspan="1">1.3 years</td>
+                    <td headers="hd_h_Infliximab.T6_1_1_1_2" rowspan="1" colspan="1">9</td>
+                    <td headers="hd_h_Infliximab.T6_1_1_1_3" rowspan="1" colspan="1">11</td>
+                    <td headers="hd_h_Infliximab.T6_1_1_1_4" rowspan="1" colspan="1">&#x0003c;100</td>
+                    <td headers="hd_h_Infliximab.T6_1_1_1_5" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Infliximab.T6_1_1_1_1 hd_h_Infliximab.T6_1_1_1_2" colspan="2" rowspan="1">
+                      <bold>Normal</bold>
+                    </td>
+                    <td headers="hd_h_Infliximab.T6_1_1_1_3" rowspan="1" colspan="1">
+                      <bold>&#x0003c;50</bold>
+                    </td>
+                    <td headers="hd_h_Infliximab.T6_1_1_1_4" rowspan="1" colspan="1">
+                      <bold>None</bold>
+                    </td>
+                    <td headers="hd_h_Infliximab.T6_1_1_1_5" rowspan="1" colspan="1"/>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+            <p>* Some values are estimated from Figure 1.</p>
+          </sec>
+          <sec id="Infliximab.Comment3">
+            <title>Comment</title>
+            <p>This patient had a mild episode of reactivation of hepatitis B (without jaundice or hepatic decompensation) while being treated with infliximab for Crohn disease. The timing of onset of reactivation is typically after 1 to 4 months of treatment. Initially, HBV DNA levels rise and, 1 to 2 months later, ALT levels increase and symptoms and jaundice may arise. This patient&#x02019;s relatively mild course may have been due to the fact that lamivudine was started promptly when HBV DNA levels rose. While lamivudine is a potent inhibitor of HBV replication, it generally requires 1 to 3 months of therapy before its full effects are present. Thus, starting lamivudine after reactivation has begun is often not successful. Most studies of immune suppression in HBsAg carriers have shown that prophylaxis is more effective than early intervention. Once lamivudine had been given for several months, the patient was able to tolerate infliximab without further evidence of reactivation. The lamivudine, however, should be continued.</p>
+          </sec>
+        </sec>
+      </sec>
+      <sec id="Infliximab.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <boxed-text position="anchor" id="Infliximab.BPI" orientation="portrait">
+          <p>
+            <bold>REPRESENTATIVE TRADE NAMES</bold>
+          </p>
+          <p>Infliximab &#x02013; Remicade&#x000ae;</p>
+          <p>
+            <bold>DRUG CLASS</bold>
+          </p>
+          <p>Antirheumatic Agents; Dermatologic Agents; Gastrointestinal Agents</p>
+          <p>
+            <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=infliximab">COMPLETE LABELING</ext-link>
+          </p>
+          <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+        </boxed-text>
+      </sec>
+      <sec id="Infliximab.CHEMICAL_FORMULA_AND_STRUCTUR">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Infliximab.T7" position="anchor" orientation="portrait">
+          <table>
+            <thead>
+              <tr>
+                <th id="hd_h_Infliximab.T7_1_1_1_1" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Infliximab.T7_1_1_1_2" rowspan="1" colspan="1">CAS REGISTRY NUMBER</th>
+                <th id="hd_h_Infliximab.T7_1_1_1_3" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Infliximab.T7_1_1_1_4" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Infliximab.T7_1_1_1_1" rowspan="1" colspan="1">Infliximab</td>
+                <td headers="hd_h_Infliximab.T7_1_1_1_2" rowspan="1" colspan="1">
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135305802">170277-31-3</ext-link>
+                </td>
+                <td headers="hd_h_Infliximab.T7_1_1_1_3" rowspan="1" colspan="1">Monoclonal antibody</td>
+                <td headers="hd_h_Infliximab.T7_1_1_1_4" rowspan="1" colspan="1">Not Available</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Infliximab.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 10 February 2017</p>
+        <ref-list id="Infliximab.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Infliximab.R1">
+            <mixed-citation publication-type="other">Zimmerman HJ. Drugs used to treat rheumatic and musculospastic disease. In, Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999, pp. 517-54.<annotation><p><italic toggle="yes">(Expert review of hepatotoxicity published in 1999; no mention of either infliximab or etanercept).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R2">
+            <mixed-citation publication-type="other">Reuben A. Hepatotoxicity of immunosuppressive drugs. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013, pp. 569-91.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of immunosuppressive agents published in 2013; all of the monoclonal anti-TNF agents have been linked to cases of hepatoxicity ranging in severity from asymptomatic aminotransferase elevations to acute liver failure).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R3">
+            <mixed-citation publication-type="other">Wallace JL, Sharkey KA. Pharmacotherapy of inflammatory bowel disease. In, Brunton LL, Chabner KA, Knollman KC, eds. Goodman &#x00026; Gilman's the pharmacological basis of therapeutics. 12th ed. New York: McGraw-Hill, 2011, pp. 1351-62.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R4">
+            <mixed-citation publication-type="journal">Maini R, St Clair EW, Breedveld F, Furst D, Kalden J, Weisman M, Smolen J, et al. Infliximab (chimeric anti-tumour necrosis factor alpha monoclonal antibody) versus placebo in rheumatoid arthritis patients receiving concomitant methotrexate: a randomised phase III trial. ATTRACT Study Group. Lancet 1999; 354: 1932-9. <annotation><p><italic toggle="yes">(Controlled trial of infliximab vs placebo for 30 weeks in 428 patients with rheumatoid arthritis receiving methotrexate, found no difference in rates of ALT elevations between the two groups [37% vs 29%] and no cases of clinically apparent liver injury).</italic></p></annotation><pub-id pub-id-type="pmid">10622295</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R5">
+            <mixed-citation publication-type="journal">Menghini VV, Arora AS. Infliximab-associated reversible cholestatic liver disease. Mayo Clin Proc 2001; 76: 84-6. <annotation><p><italic toggle="yes">(44 year old woman with Crohn disease developed fatigue 19 days after single infusion of infliximab with subsequent jaundice [bilirubin 7.4 rising to 19.2 mg/dL, Alk P 55 U/L, ALT 149 U/L], liver biopsy showed bland cholestasis, ANA was weakly positive; abnormalities resolved in 2 months: Case 1).</italic></p></annotation><pub-id pub-id-type="pmid">11155419</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R6">
+            <mixed-citation publication-type="journal">Saleem G, Li SC, MacPherson BR, Cooper SM. Hepatitis with interface inflammation and IgG, IgM, and IgA anti-double-stranded DNA antibodies following infliximab therapy: comment on the article by Charles et al. Arthritis Rheum 2001; 44: 1966-8. <annotation><p><italic toggle="yes">(36 year old woman with rheumatoid arthritis developed symptoms shortly after third monthly infusion of infliximab with subsequent jaundice [bilirubin 16.6 mg/dL, ALT 448 U/L] and increase in ANA titer [1:160] with IgG antibodies to dsDNA, improving rapidly with prednisone therapy).</italic></p></annotation><pub-id pub-id-type="pmid">11508453</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R7">
+            <mixed-citation publication-type="journal">Biancone L, Pavia M, De Vecchio Blanco G, D'Inca R, Castiglione F, De Nigris F, Doldo P, et al. Hepatitis B and C virus infection in Crohn's disease. Inflamm Bowel Dis 2001; 7: 287-94. <annotation><p><italic toggle="yes">(Among 332 Italian patients with Crohn disease, 7.4% had anti-HCV and 2.1% HBsAg compared to 5.1% and 2.1% of Italian controls; no clear change in hepatitis with therapy of Crohn disease in small numbers of cases studied retrospectively).</italic></p></annotation><pub-id pub-id-type="pmid">11720317</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R8">
+            <mixed-citation publication-type="journal">Day R. Adverse reactions to TNF-alpha inhibitors in rheumatoid arthritis. Lancet 2002; 359: 540-1. <annotation><p><italic toggle="yes">(Editorial on the severe side effects of long term anti-TNF therapy in rheumatoid arthritis focusing upon reactivation of tuberculosis, induction of a lupus-like syndrome and rare instances of cancer; no mention of hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">11867103</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R9">
+            <mixed-citation publication-type="journal">Hanauer SB, Feagan BG, Lichtenstein GR, Mayer LF, Schreiber S, Colombel JF, Rachmilewitz D, et al.; ACCENT I Study Group. Maintenance infliximab for Crohn's disease: the ACCENT I randomised trial. Lancet 2002; 359: 1541-9. <annotation><p><italic toggle="yes">(Randomized trial of infliximab vs placebo in 573 patients with Crohn disease; no mention of hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">12047962</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R10">
+            <mixed-citation publication-type="journal">Biancone L, Del Vecchio Blanco G, Pallone F, Castiglione F, Bresci G,Sturniolo G; Italian Group for the Study of the Colon and Rectum. Immunomodulatory drugs in Crohn's disease patients with hepatitis B or C virus infection. Gastroenterology 2002; 122: 593-4. <annotation><p><italic toggle="yes">(Further analysis of 4 patients with Crohn disease and hepatitis B who received immunomodulatory medications; no instances of reactivation).</italic></p></annotation><pub-id pub-id-type="pmid">11845808</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R11">
+            <mixed-citation publication-type="journal">Michel M, Duvoux C, Hezode C, Cherqui D. Fulminant hepatitis after infliximab in a patient with hepatitis B virus treated for an adult onset still's disease. J Rheumatol 2003; 30: 1624-5. <annotation><p><italic toggle="yes">(Patients with adult Still disease and HBsAg [without HBeAg or HBV DNA] developed fever, rash and severe hepatitis after a second infusion of infliximab [direct bilirubin 14.6 mg/dL, ALT 30 times ULN], progressing to acute liver failure and liver transplant but without detectable HBV DNA; no testing for delta hepatitis).</italic></p></annotation><pub-id pub-id-type="pmid">12858469</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R12">
+            <mixed-citation publication-type="journal">Ostuni P, Botsios C, Punzi L, Sfriso P, Todesco S. Hepatitis B reactivation in a chronic hepatitis B surface antigen carrier with rheumatoid arthritis treated with infliximab and low dose methotrexate. Ann Rheum Dis 2003; 62: 686-7. <annotation><p><italic toggle="yes">(59 year old man with rheumatoid arthritis and HBsAg in serum developed hepatitis 18 months after starting infliximab [bilirubin 1.3 mg/dL, ALT 573 U/L] with presence of IgM anti-HBc and increase in serum HBV DNA polymerase activity; resolution in 2 months).</italic></p></annotation><pub-id pub-id-type="pmid">12810441</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R13">
+            <mixed-citation publication-type="journal">Peterson JR, Hsu FC, Simkin PA, Wener MH. Effect of tumour necrosis factor alpha antagonists on serum transaminases and viraemia in patients with rheumatoid arthritis and chronic hepatitis C infection. Ann Rheum Dis 2003; 62: 1078-82. <annotation><p><italic toggle="yes">(Monitoring of 24 patients with both rheumatoid arthritis and hepatitis C found no overall changes in ALT, AST, Alk P or HCV RNA levels during therapy with etanercept or infliximab over a period of 2-34 months).</italic></p></annotation><pub-id pub-id-type="pmid">14583571</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R14">
+            <mixed-citation publication-type="journal">Furst DE, Schiff MH, Fleischmann RM, Strand V, Birbara CA, Compagnone D, Fischkoff SA, et al. Adalimumab, a fully human anti tumor necrosis factor-alpha monoclonal antibody, and concomitant standard antirheumatic therapy for the treatment of rheumatoid arthritis: results of STAR (Safety Trial of Adalimumab in Rheumatoid Arthritis). J Rheumatol 2003; 30: 2563-71. <annotation><p><italic toggle="yes">(Controlled trial of 24 weeks of adalimumab vs placebo in 636 patients with rheumatoid arthritis; adverse events were similar between the two groups with no differences in mean ALT or AST levels; adalimumab group had higher rates of de novo autoantibody formation [ANA 27% vs 15%, anti-DNA 13% vs 1%]).</italic></p></annotation><pub-id pub-id-type="pmid">14719195</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R15">
+            <mixed-citation publication-type="journal">Weinblatt ME, Keystone EC, Furst DE, Moreland LW, Weisman MH, Birbara CA, Teoh LA, et al. Adalimumab, a fully human anti-tumor necrosis factor alpha monoclonal antibody, for the treatment of rheumatoid arthritis in patients taking concomitant methotrexate: the ARMADA trial. Arthritis Rheum 2003; 48: 35-45. <annotation><p><italic toggle="yes">(Controlled trial of 24 weeks of adalimumab vs placebo in 271 patients with rheumatoid arthritis found no significant changes in serum ALT levels and no instance of clinically apparent liver injury).</italic></p></annotation><pub-id pub-id-type="pmid">12528101</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R16">
+            <mixed-citation publication-type="journal">Khanna D, McMahon M, Furst DE. Safety of tumour necrosis factor-alpha antagonists. Drug Saf 2004; 27: 307-24. <annotation><p><italic toggle="yes">(Review of safety of anti-TNF agents based on literature and FDA reports found no evidence of worsening of hepatitis C during therapy, but there was a chance of reactivation of hepatitis B, at least by infliximab; no discussion of hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">15061685</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R17">
+            <mixed-citation publication-type="journal">Oniankitan O, Cuvoux C, Challine D, Mallat A, Chevalier X, Pawlotsky J-M, Claudepierre P. Infliximab therapy for rheumatic diseases in patients with chronic hepatitis B or C. J Rheumatol 2004; 31: 107-9. <annotation><p><italic toggle="yes">(Two patients with rheumatoid arthritis treated for one year with infliximab had no worsening of liver disease; one with hepatitis B was on lamivudine, one with hepatitis C had no change in HCV RNA levels).</italic></p></annotation><pub-id pub-id-type="pmid">14705228</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R18">
+            <mixed-citation publication-type="journal">Esteve M, Saro C, Gonzalez-Huix F, Suarez F, Fone M, Viver JM. Chronic hepatitis B reactivation following infliximab therapy in Crohn's disease patients: need for primary prophylaxis. Gut 2004; 53: 1363-5. <annotation><p><italic toggle="yes">(Among 3 patients with hepatitis B and Crohn disease, 2 developed a severe flare of hepatitis B after 2-3 months of infliximab therapy; the patient who did not suffer reactivation was being treated with lamivudine).</italic></p></annotation><pub-id pub-id-type="pmid">15306601</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R19">
+            <mixed-citation publication-type="journal">Parke FA, Reveille JD. Anti-tumor necrosis factor agents for rheumatoid arthritis in the setting of chronic hepatitis C infection. Arthritis Rheum 2004; 51: 800-4. <annotation><p><italic toggle="yes">(Among 5 patients with rheumatoid arthritis and HCV infection who were treated with etanercept or infliximab for 8-49 months, none had worsening of serum ALT levels and HCV RNA levels were stable or decreased).</italic></p></annotation><pub-id pub-id-type="pmid">15478165</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R20">
+            <mixed-citation publication-type="journal">Feletar M, Brockbank JE, Schentag CT, Lapp V, Gladman DD. Treatment of refractory psoriatic arthritis with infliximab: a 12 month observational study of 16 patients. Ann Rheum Dis 2004; 63: 156-61. <annotation><p><italic toggle="yes">(Among 16 patients with psoriasis treated with infliximab, 3 developed asymptomatic ALT elevations [141, 434 and 150 U/L], leading to early discontinuation; all resolved rapidly, 2 were on methotrexate).</italic></p></annotation><pub-id pub-id-type="pmid">14722204</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R21">
+            <mixed-citation publication-type="journal">Magliocco MA, Gottlieb AB. Etanercept therapy for patients with psoriatic arthritis and concurrent hepatitis C virus infection: report of 3 cases. J Am Acad Dermatol 2004; 51: 580-4. <annotation><p><italic toggle="yes">(Three men, ages 51-54 years, with psoriasis and chronic hepatitis C received etanercept for 3-7 months with no change in serum ALT or AST levels and slight decrease in HCV RNA levels in two).</italic></p></annotation><pub-id pub-id-type="pmid">15389194</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R22">
+            <mixed-citation publication-type="journal">Calabrese LH, Zein N, Vassilopoulos D. Safety of antitumour necrosis factor(anti-TNF) therapy in patients with chronic viral infections: hepatitis C, hepatitis B, and HIV infection. Ann Rheum Dis 2004; 63 Suppl 2: ii18-ii24. <annotation><p><italic toggle="yes">(Review of the safety and complications of anti-TNF therapy in patients with concurrent hepatitis B or C or HIV infection).</italic></p></annotation><pub-id pub-id-type="pmid">15479865</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R23">
+            <mixed-citation publication-type="journal">Eriksson C, Engstrand S, Sundqvist KG, Rantap&#x000e4;&#x000e4;-Dahlqvist S. Autoantibody formation in patients with rheumatoid arthritis treated with anti-TNF alpha. Ann Rheum Dis 2005; 64: 403-7. <annotation><p><italic toggle="yes">(Among 53 patients with rheumatoid arthritis treated with infliximab, ANA titers frequently increased and a proportion of patients developed anti-dsDNA while symptoms improved and rheumatoid factor titers fell).</italic></p></annotation><pub-id pub-id-type="pmid">15297281</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R24">
+            <mixed-citation publication-type="journal">Anelli MG, Torres DD, Manno C, Scioscia C, Iannone F, Covelli M, Schena FP, et al. Improvement of renal function and disappearance of hepatitis B virus DNA in a patient with rheumatoid arthritis and renal amyloidosis following treatment with infliximab. Arthritis Rheum 2005; 52: 2519-20. <annotation><p><italic toggle="yes">(36 year old woman with rheumatoid arthritis, amyloidosis with presence of HBsAg and anti-HDV in serum was treated successfully with infliximab without reactivation, despite lack of antiviral prophylaxis; serum ALT levels, however rose perhaps due to worsening of delta hepatitis).</italic></p></annotation><pub-id pub-id-type="pmid">16052569</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R25">
+            <mixed-citation publication-type="journal">Germano V, Picchianti Diamanti A, Baccano G, Natale E, Onetti Muda A, Priori R, Valesini G. Autoimmune hepatitis associated with infliximab in a patient with psoriatic arthritis. Ann Rheum Dis 2005; 64: 1519-20. <annotation><p><italic toggle="yes">(53 year old woman with psoriasis developed persistent ALT elevations after 6 infusions of infliximab [ALT 234 U/L], with rise in antinuclear and anti-smooth muscle antibodies, liver biopsy showing chronic hepatitis and mild fibrosis, improving with stopping infliximab).</italic></p></annotation><pub-id pub-id-type="pmid">16162908</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R26">
+            <mixed-citation publication-type="journal">Infliximab: lymphomas and severe hepatitis. Prescrire Int 2005; 14: 179. <annotation><p><italic toggle="yes">(FDA reported 35 cases of severe liver damage due to infliximab including fatal cases of acute liver failure, autoimmune hepatitis and exacerbations of chronic hepatitis B).</italic></p></annotation><pub-id pub-id-type="pmid">16285074</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R27">
+            <mixed-citation publication-type="journal">Magro F, Pereira P, Carneiro F, Veloso FT. Reactive hepatitis in a patient with Crohn's disease successfully treated with infliximab: does tumor necrosis factor alpha play a role in reactive hepatitis? Inflamm Bowel Dis 2005; 11: 88-90. <annotation><p><italic toggle="yes">(21 year old woman with Crohn disease had elevations in ALT [198 U/L] and Alk P [440 U/L], which improved after infliximab therapy and correlated with disease activity).</italic></p></annotation><pub-id pub-id-type="pmid">15674127</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R28">
+            <mixed-citation publication-type="journal">Mizuta M, Schuster MG. Cytomegalovirus hepatitis associated with use of anti-tumor necrosis factor-alpha antibody. Clin Infect Dis 2005; 40: 1071-2. <annotation><p><italic toggle="yes">(45 year old woman with Crohn disease developed fever and abnormal liver tests [ALT 282 U/L, Alk P 845 U/L, bilirubin 1.1 mg/dL], and liver biopsy showing changes of cytomegalovirus hepatitis, resolving rapidly with ganciclovir therapy).</italic></p></annotation><pub-id pub-id-type="pmid">15825012</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R29">
+            <mixed-citation publication-type="journal">Wendling D, Auge B, Bettinger D, Lohse A, Le Huede G, Bresson-Hadni S, Toussirot E, et al. Reactivation of a latent precore mutant hepatitis B virus related chronic hepatitis during infliximab treatment for severe spondyloarthropathy. Ann Rheum Dis 2005; 64: 788-9. <annotation><p><italic toggle="yes">(35 year old woman with HBsAg [normal ALT levels and no HBeAg] and ankylosing spondylitis developed rising levels of HBV DNA followed by ALT elevations after starting infliximab therapy and improved on lamivudine therapy).</italic></p></annotation><pub-id pub-id-type="pmid">15834064</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R30">
+            <mixed-citation publication-type="journal">Zein NN; Etanercept Study Group. Etanercept as an adjuvant to interferon and ribavirin in treatment-naive patients with chronic hepatitis C virus infection: a phase 2 randomized, double-blind, placebo-controlled study. J Hepatol 2005; 42: 315-22. <annotation><p><italic toggle="yes">(Controlled trial of adding etanercept to interferon and ribavirin therapy of chronic hepatitis C found similar rates of sustained response [32% vs 42%] and no evidence of worsening of hepatitis during etanercept therapy).</italic></p></annotation><pub-id pub-id-type="pmid">15791697</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R31">
+            <mixed-citation publication-type="journal">Ueno Y, Tanaka S, Shimamoto M, Miyanaka Y, Hiyama T, Ito M, Kitadai Y, et al. Infliximab therapy for Crohn's disease in a patient with chronic hepatitis B. Dig Dis Sci 2005; 50: 163-6. <annotation><p><italic toggle="yes">(19 year old woman with Crohn disease and HBsAg, developed rise in HBV DNA levels followed by ALT increase after starting infliximab, resolving within 2 months of stopping, without antiviral therapy).</italic></p></annotation><pub-id pub-id-type="pmid">15712655</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R32">
+            <mixed-citation publication-type="journal">Scheinfeld N. Adalimumab: a review of side effects. Expert Opin Drug Saf 2005; 4: 637-41. <annotation><p><italic toggle="yes">(Review of side effects of adalimumab therapy mentions that it can induce a lupus-like syndrome [~0.1%] and minor ALT elevations).</italic></p></annotation><pub-id pub-id-type="pmid">16011443</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R33">
+            <mixed-citation publication-type="journal">Schreiber S, Rutgeerts P, Fedorak RN, Khaliq-Kareemi M, Kamm MA, Boivin M, Bernstein CN, et al.; CDP870 Crohn's Disease Study Group. A randomized, placebo-controlled trial of certolizumab pegol (CDP870) for treatment of Crohn's disease. Gastroenterology 2005; 129: 807-18. <annotation><p><italic toggle="yes">(Preliminary results of a controlled trial of certolizumab in 292 patients with Crohn disease; "Serial hematologic and biochemical measurements did not show the treatment to have any untoward events").</italic></p></annotation><pub-id pub-id-type="pmid">16143120</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R34">
+            <mixed-citation publication-type="journal">Kaushik VV, Moots RJ. CDP-870 (certolizumab) in rheumatoid arthritis. Expert Opin Biol Ther 2005; 5: 601-6. <annotation><p><italic toggle="yes">(Review of safety and efficacy of certolizumab in rheumatoid arthritis; no serious side effects reported and no mention of hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">15934837</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R35">
+            <mixed-citation publication-type="journal">Bratcher JM, Korelitz BI. Toxicity of infliximab in the course of treatment of Crohn's disease. Expert Opin Drug Saf 2006; 5: 9-16. <annotation><p><italic toggle="yes">(Review of safety of infliximab for Crohn disease; postmarketing reports of occasional cases of acute liver failure, jaundice, autoimmune hepatitis and cholestasis; single case report of cholestatic hepatitis).</italic></p></annotation><pub-id pub-id-type="pmid">16370952</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R36">
+            <mixed-citation publication-type="journal">Desai SB, Furst DE. Problems encountered during anti-tumour necrosis factor therapy. Best Pract Res Clin Rheumatol 2006; 20: 757-90. <annotation><p><italic toggle="yes">(Extensive review of side effects of use of anti-TNF blockers; in 7 reports on 29 patients with hepatitis C, no flares of disease occurred on infliximab or etanercept; 11 report cases of use in hepatitis B with at least 3 instances of reactivation, one fatal, largely with infliximab and methotrexate).</italic></p></annotation><pub-id pub-id-type="pmid">16979537</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R37">
+            <mixed-citation publication-type="journal">Ierardi E, Della Valle N, Nacchiero MC, De Francesco V, Stoppino G, Panella C. Infliximab single administration followed by acute liver injury. Inflamm Bowel Dis 2006; 12: 1089-91. <annotation><p><italic toggle="yes">(28 year old man with ulcerative colitis developed jaundice 9 days after initial infusion of infliximab [peak bilirubin ~6.5 mg/dL, ALT 4 times ULN], resolving within 6 weeks).</italic></p></annotation><pub-id pub-id-type="pmid">17075352</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R38">
+            <mixed-citation publication-type="journal">Ierardi E, Della Valle N, Nacchiero MC, De Francesco V, Stoppino G, Panella C. Onset of liver damage after a single administration of infliximab in a patient with refractory ulcerative colitis. Clin Drug Investig 2006; 26: 673-6. <annotation><p><italic toggle="yes">(Authors report same case as described in Inflamm Bowel Dis 2006).</italic></p></annotation><pub-id pub-id-type="pmid">17163303</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R39">
+            <mixed-citation publication-type="journal">Millonig G, Kern M, Ludwiczek O, Nachbaur K, Vogel W. Subfulminant hepatitis B after infliximab in Crohn's disease: need for HBV-screening? World J Gastroenterol 2006; 12: 974-6. <annotation><p><italic toggle="yes">(50 year old man with Crohn disease developed acute hepatitis 1 month after 3rd infusion of infliximab [bilirubin 2.2 rising to 35 mg/dL, ALT 983 U/L, GGT 109 U/L] found to have HBsAg, IgM anti-HBc, anti-HBe and high levels of HBV DNA, improved rapidly on lamivudine therapy and stopping infliximab; testing of stored serum collected before therapy showed that he was HBsAg positive).</italic></p></annotation><pub-id pub-id-type="pmid">16521231</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R40">
+            <mixed-citation publication-type="journal">Roux CH, Brocq O, Breuil V, Albert C, Euller-Ziegler L. Safety of anti-TNF-alpha therapy in rheumatoid arthritis and spondylarthropathies with concurrent B or C chronic hepatitis. Rheumatology (Oxford) 2006; 45: 1294-7. <annotation><p><italic toggle="yes">(Retrospective analysis of 6 patients with chronic hepatitis and inflammatory arthritis treated with anti-TNF agents for 3-39 months, none had rise in ALT or viral levels during therapy, but 3 with hepatitis B were also on lamivudine).</italic></p></annotation><pub-id pub-id-type="pmid">16603583</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R41">
+            <mixed-citation publication-type="journal">S&#x000e1;nchez Carazo JL, Mahiques Santos L, Oliver Martinez V. Safety of etanercept in psoriasis: a critical review. Drug Saf 2006; 29: 675-85. <annotation><p><italic toggle="yes">(Review of safety of etanercept focusing upon psoriasis; no discussion of hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">16872241</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R42">
+            <mixed-citation publication-type="journal">Soto-Fern&#x000e1;ndez S, Gonz&#x000e1;lez-Carro P, De Pedro-Esteban A, Legaz-Huidobro ML, P&#x000e9;rez-Rold&#x000e1;n F, Roncero Garcia-Escribano O, Valbuena-Gonz&#x000e1;lez M, et al. [Infliximab-induced hepatitis in a patient with Crohn's disease]. Gastroenterol Hepatol 2006; 29: 321-2. Spanish. <annotation><p><italic toggle="yes">(43 year old woman with Crohn disease developed asymptomatic elevations in ALT [289 U/L] after third infusion of infliximab, resolving rapidly, but more severe recurrence and symptoms upon restarting infusions 6 months later [ALT 1497 U/L, Alk P 71 U/L, bilirubin 0.6 mg/dL], resolving within a few months; all viral and autoimmune markers were negative).</italic></p></annotation><pub-id pub-id-type="pmid">16733041</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R43">
+            <mixed-citation publication-type="journal">Wahie S, Alexandroff A, Reynolds NJ. Hepatitis: a rare, but important, complication of infliximab therapy for psoriasis. Clin Exp Dermatol 2006; 31: 460-1. <annotation><p><italic toggle="yes">(64 year old man with psoriasis developed enzyme elevations [ALT 569 U/L, GGT 77 U/L, bilirubin normal] 1 week after a second infusion of infliximab, which resolved within 4 weeks and did not recur with etanercept therapy).</italic></p></annotation><pub-id pub-id-type="pmid">16681606</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R44">
+            <mixed-citation publication-type="journal">Nathan DM, Angus PW, Gibson PR. Hepatitis B and C virus infections and anti-tumor necrosis factor-. therapy: guidelines for clinical approach. J Gastro Hepatol 2006; 31: 1366-71. <annotation><p><italic toggle="yes">(Review and proposed guidelines for use of anti-TNF therapy in patients with underlying chronic viral hepatitis; recommended screening for HBV and HCV, careful monitoring during therapy and prophylaxis or early intervention with lamivudine in HBsAg-positive patients).</italic></p></annotation><pub-id pub-id-type="pmid">16911678</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R45">
+            <mixed-citation publication-type="journal">Rokhsar C, Rabhan N, Cohen SR. Etanercept monotherapy for a patient with psoriasis, psoriatic arthritis, and concomitant hepatitis C infection. J Am Acad Dermatol 2006; 54: 361-2. <annotation><p><italic toggle="yes">(53 year old man with severe psoriasis and hepatic fibrosis caused by methotrexate and hepatitis C responded well to etanercept, while HCV RNA levels were unchanged).</italic></p></annotation><pub-id pub-id-type="pmid">16443079</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R46">
+            <mixed-citation publication-type="journal">Cecchi R, Bartoli L. Psoriasis and hepatitis C treated with anti-TNF alpha therapy (etanercept). Dermatol Online J 2006; 12: 4. <annotation><p><italic toggle="yes">(45 year old man with psoriasis and hepatitis C was treated with etanercept for 12 months and had no change in serum enzyme or HCV RNA levels).</italic></p></annotation><pub-id pub-id-type="pmid">17459290</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R47">
+            <mixed-citation publication-type="journal">De Simone C, Paradisi A, Capizzi R, Carbone A, Siciliano M, Amerio PL. Etanercept therapy in two patients with psoriasis and concomitant hepatitis C. J Am Acad Dermatol 2006; 54: 1102-4. <annotation><p><italic toggle="yes">(Letter in response to Magliocco [2004] reporting two patients with psoriasis and hepatitis C who tolerated 12 months of etanercept therapy, with no change in serum tests and slight decrease in HCV RNA levels).</italic></p></annotation><pub-id pub-id-type="pmid">16713482</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R48">
+            <mixed-citation publication-type="journal">Calabrese LH, Zein NN, Vassilopoulos D. Hepatitis B virus(HBV) reactivation with immunosuppressive therapy in rheumatic diseases: assessment and preventive strategies. Ann Rheum Dis 2006; 65: 983-9. <annotation><p><italic toggle="yes">(Review of the problem of reactivation of hepatitis B in patients with rheumatic diseases treated with immunosuppressive agents, with recommendations on prevention).</italic></p></annotation><pub-id pub-id-type="pmid">16627542</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R49">
+            <mixed-citation publication-type="journal">Koike R, Takeuchi T, Eguchi K, Miyasaka N; Japan College of Rheumatology. Update on the Japanese guidelines for the use of infliximab and etanercept in rheumatoid arthritis. Mod Rheumatol 2007; 17: 451-8. <annotation><p><italic toggle="yes">(Review of guidelines for the use of infliximab and etanercept in rheumatoid arthritis; no mention of hepatotoxicity or need to screen for hepatitis B).</italic></p></annotation><pub-id pub-id-type="pmid">18084695</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R50">
+            <mixed-citation publication-type="journal">Vassilopoulos D, Calabrese LH. Risks of immunosuppressive therapies including biologic agents in patients with rheumatic diseases and co-existing chronic viral infections. Curr Opin Rheumatol 2007; 19: 619-25. <annotation><p><italic toggle="yes">(Review of use of anti-TNF agents in patients with chronic hepatitis B, C and HIV infection).</italic></p></annotation><pub-id pub-id-type="pmid">17917544</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R51">
+            <mixed-citation publication-type="journal">Sakellariou GT, Chatzigiannis I. Long-term anti-TNFalpha therapy for ankylosing spondylitis in two patients with chronic HBV infection. Clin Rheumatol 2007; 26: 950-2. <annotation><p><italic toggle="yes">(Two patients with ankylosing spondylitis and inactive HBsAg carrier state who were treated with infliximab; 43 year old man developed reactivation after 14 weeks [ALT 49 U/L, HBV DNA positive] and was successfully treated with lamivudine; 41 year old man had ALT elevations [85 U/L], but no reactivation even when later switched to etanercept).</italic></p></annotation><pub-id pub-id-type="pmid">16865308</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R52">
+            <mixed-citation publication-type="journal">Garc&#x000ed;a Aparicio AM, Rey JR, Sanz AH, Alvarez JS. Successful treatment with etanercept in a patient with hepatotoxicity closely related to infliximab. Clin Rheumatol 2007; 26: 811-3. <annotation><p><italic toggle="yes">(48 year old man with ankylosing spondylitis developed mild ALT elevations [60 U/L] after second and higher levels [ALT 382 rising to 656 U/L, Alk P 166 U/L, bilirubin 0.6 mg/dL, ANA negative] after third and fourth infusion of infliximab, with no recurrence on switching to etanercept: Case 2).</italic></p></annotation><pub-id pub-id-type="pmid">16550301</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R53">
+            <mixed-citation publication-type="journal">Hansen RA, Gartlehner G, Powell GE, Sandler RS. Serious adverse events with infliximab: analysis of spontaneously reported adverse events. Clin Gastroenterol Hepatol 2007; 5: 729-35. <annotation><p><italic toggle="yes">(Analysis of 15,763 spontaneous, postmarketing adverse event reports attributed to infliximab found that reports of lymphoma and serious infections were more common than could be expected; no mention of rates of reporting liver injury, jaundice or hepatitis).</italic></p></annotation><pub-id pub-id-type="pmid">17481964</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R54">
+            <mixed-citation publication-type="journal">Linardaki G, Katsarou O, Ioannidou P, Karafoulidou A, Boki K. Effective etanercept treatment for psoriatic arthritis complicating concomitant human immunodeficiency virus and hepatitis C virus infection. J Rheumatol 2007; 34: 1353-5. <annotation><p><italic toggle="yes">(45 year old man with HIV-HCV coinfection and psoriasis was successfully treated with etanercept without worsening of hepatitis while on antiretroviral therapy; ALT levels remained normal, but serial HCV RNA levels were not provided).</italic></p></annotation><pub-id pub-id-type="pmid">17552060</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R55">
+            <mixed-citation publication-type="journal">Madonia S, Orlando A, Scimeca D, Olivo M, Rossi F, Cottone M. Occult hepatitis B and infliximab-induced HBV reactivation. Inflamm Bowel Dis 2007; 13: 508-9. <annotation><p><italic toggle="yes">(41 year old woman developed acute hepatitis with HBsAg, anti-HBe and HBV DNA after restarting infliximab and prednisone [25 mg/day] for Crohn disease [peak bilirubin 5.5 mg/dL, ALT 10 times ULN], resolving within 2 months with clearance of HBsAg; was known to have been HBsAg negative, but authors suspected HBV reactivation and reverse seroconversion, although anti-HBc and anti-HBs status before therapy was not known).</italic></p></annotation><pub-id pub-id-type="pmid">17206687</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R56">
+            <mixed-citation publication-type="journal">Sandborn WJ, Feagan BG, Stoinov S, Honiball PJ, Rutgeerts P, Mason D, Bloomfield R, et al.; PRECISE 1 Study Investigators. Certolizumab pegol for the treatment of Crohn's disease. N Engl J Med 2007; 357: 228-38. <annotation><p><italic toggle="yes">(Controlled trial of certolizumab for 26 weeks in 662 adults with Crohn disease; "No clinically significant changes in laboratory values occurred in either study group"; no mention of hepatotoxicity or ALT elevations).</italic></p></annotation><pub-id pub-id-type="pmid">17634458</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R57">
+            <mixed-citation publication-type="journal">Ozorio G, McGarity B, Bak H, Jordan AS, Lau H, Marshall C. Autoimmune hepatitis following infliximab therapy for ankylosing spondylitis. Med J Aust 2007; 187: 524-6. <annotation><p><italic toggle="yes">(56 year old woman with ankylosing spondylitis developed rising levels of serum enzymes after 3 infusions of infliximab which was stopped after sixth infusion [bilirubin was 5.7 mg/dL, ALT 621 U/L, Alk P 521 U/L, ANA 1:640, SMA 1:2560: all previously negative or normal]; biopsy suggested autoimmune hepatitis, patient improved with prednisolone and stopping infliximab; no follow up beyond 3 months).</italic></p></annotation><pub-id pub-id-type="pmid">17979620</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R58">
+            <mixed-citation publication-type="journal">Tobon GJ, Ca&#x000f1;as C, Jaller JJ, Restrepo JC, Anaya JM. Serious liver disease induced by infliximab. Clin Rheumatol 2007; 26: 578-81. <annotation><p><italic toggle="yes">(Two case reports; 39 and 54 year old women with rheumatoid arthritis developed symptoms after 8 and 17 months of infliximab therapy [bilirubin 15.2 mg/dL and not given, ALT 2560 and 291 U/L, Alk P 840 U/L and not given, ANA 1:640 and 1:160], both were treated with corticosteroids, the first required liver transplant and the second recovered).</italic></p></annotation><pub-id pub-id-type="pmid">16547695</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R59">
+            <mixed-citation publication-type="journal">Colbert C, Chavarria A, Berkelhammer C. Fulminant hepatic failure in chronic hepatitis B on withdrawal of corticosteroids. Azathioprine and infliximab for Crohn's disease. Inflamm Bowel Dis 2007; 13: 1453-4. <annotation><p><italic toggle="yes">(54 year old man with chronic hepatitis B and Crohn disease developed decompensated cirrhosis while on infliximab and azathioprine; stopping therapy and starting lamivudine was followed by a fatal flare of disease and acute liver failure).</italic></p></annotation><pub-id pub-id-type="pmid">17600380</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R60">
+            <mixed-citation publication-type="journal">Marotte H, Fontanges E, Bailly F, Zoulim F, Trepo C, Miossec P. Etanercept treatment for three months is safe in patients with rheumatological manifestations associated with hepatitis C virus. Rheumatology (Oxford) 2007; 46: 97-9. <annotation><p><italic toggle="yes">(Among 9 patients with chronic hepatitis C and rheumatologic symptoms treated with etanercept for 3 months, serum ALT levels were stable and HCV RNA levels [present in 5] did not change).</italic></p></annotation><pub-id pub-id-type="pmid">16720634</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R61">
+            <mixed-citation publication-type="journal">Aslanidis S, Vassiliadis T, Pyrpasopoulou A, Douloumpakas I, Zamboulis C. Inhibition of TNF alpha does not induce viral reactivation in patients with chronic hepatitis C infection: two cases. Clin Rheumatol 2007; 26: 261-4. <annotation><p><italic toggle="yes">(Two patients, 41 year old man and 47 year old woman with chronic hepatitis C were treated with infliximab for 6 and 13 months and had no change in serum ALT, AST or HCV RNA levels [1 had anti-HCV without HCV RNA before therapy]).</italic></p></annotation><pub-id pub-id-type="pmid">16924392</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R62">
+            <mixed-citation publication-type="journal">Moum B, Konopski Z, Tufteland KF, Jahnsen J. Occurrence of hepatoxicity and elevated liver enzymes in a Crohn's disease patient treated with infliximab. Inflamm Bowel Dis 2007; 13: 1584-6. <annotation><p><italic toggle="yes"> (45 year old woman with Crohn disease developed elevations in ALT 5 weeks after starting infliximab [peak bilirubin 3.0 mg/dL, ALT 13 times ULN, Alk P not given, ANA negative], resolving within 6 weeks of stopping).</italic></p></annotation><pub-id pub-id-type="pmid">17663423</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R63">
+            <mixed-citation publication-type="journal">Cansu DU, Kalifoglu T, Korkmaz C. Short-term course of chronic hepatitis B and C under treatment with etanercept associated with different disease modifying antirheumatic drugs without antiviral prophylaxis. J Rheumatol 2008; 35: 421-4. <annotation><p><italic toggle="yes">(Five patients with inflammatory arthritis, 3 with HCV, 1 with HBV and 1 with both, were treated with etanercept for 12-23 months; none had change in serum ALT or AST levels; viral levels fluctuated, but without a specific pattern).</italic></p></annotation><pub-id pub-id-type="pmid">18203328</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R64">
+            <mixed-citation publication-type="journal">Thi&#x000e9;fen G, Morelet A, Heurgu&#x000e9; A, Diebold MD, Eschard JP. Infliximab-induced hepatitis: absence of cross-toxicity with etanercept. Joint Bone Spine 2008; 75: 737-9. <annotation><p><italic toggle="yes">(48 year old man with ankylosing spondylitis developed rising ALT levels [188 to 393 to 412 U/L] and ANA [1:200 to 1:1600] after 6 infusions of infliximab, which fell to normal 3 months after stopping, and patient was then treated with etanercept for 30 months without changes in ALT levels).</italic></p></annotation><pub-id pub-id-type="pmid">18693125</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R65">
+            <mixed-citation publication-type="journal">Dominique L. Liver toxicity of TNF-&#x003b1; antagonists. Joint Bone Spine 2008; 75: 636-8. <annotation><p><italic toggle="yes">(Editorial in response to Thiefin [2008]).</italic></p></annotation><pub-id pub-id-type="pmid">18952478</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R66">
+            <mixed-citation publication-type="journal">Farah M, Al Rashidi A, Owen DA, Yoshida EM, Reid GD. Granulomatous hepatitis associated with etanercept therapy. J Rheumatol 2008; 35: 349-51. <annotation><p><italic toggle="yes">(17 year old woman with an inflammatory arthritis developed abnormal liver tests without symptoms 4 months after restarting etanercept [bilirubin normal, ALT 162 U/L, Alk P 267 U/L], a biopsy showing granulomas and bile duct injury, the injury improving but not resolving completely on stopping etanercept and using ursodiol).</italic></p></annotation><pub-id pub-id-type="pmid">18260163</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R67">
+            <mixed-citation publication-type="journal">Fathalla BM, Goldsmith DP, Pascasio JM, Baldridge A. Development of autoimmune hepatitis in a child with systemic-onset juvenile idiopathic arthritis during therapy with etanercept. J Clin Rheumatol 2008; 14: 297-8. <annotation><p><italic toggle="yes">(9 year old girl with juvenile idiopathic (rheumatoid) arthritis developed abdominal pain and jaundice 10 months after starting etanercept [bilirubin 12.0 mg/dL, ALT 354 U/L, GGT 388 U/L, ANA 1:640, IgG 3637 mg/dL], stopping etanercept and starting prednisone and azathioprine led to resolution, normal liver tests and negative ANA: Case 1, etanercept).</italic></p></annotation><pub-id pub-id-type="pmid">18824922</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R68">
+            <mixed-citation publication-type="journal">Ferri C, Ferraccioli G, Ferrari D, Galeazzi M, Lapadula G, Montecucco C, Triolo G, et al; GISEA Group. Safety of anti-tumor necrosis factor-alpha therapy in patients with rheumatoid arthritis and chronic hepatitis C virus infection. J Rheumatol 2008; 35: 1944-9. <annotation><p><italic toggle="yes">(Prospective study in 31 patients with rheumatoid arthritis and hepatitis C treated with anti-TNF agents for 7-44 months [adalimumab 3, etanercept 17; infliximab 11]; mean levels of HCV RNA and ALT did not change; fluctuations occurred in a few patients, but no correlation found between changes in viral RNA and ALT levels).</italic></p></annotation><pub-id pub-id-type="pmid">18688917</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R69">
+            <mixed-citation publication-type="journal">Garc&#x000ed;a-Sim&#x000f3;n S, Saliente Call&#x000e9;n S, L&#x000f3;pez Avila A, Rabell I&#x000f1;igo S. [Hepatic cytolysis from infliximab]. Farm Hosp 2008; 32: 250-2. Spanish. <annotation><p><italic toggle="yes">(32 year old man with psoriasis developed marked but asymptomatic elevations in serum enzymes after third infusion of infliximab [ALT 1,150 U/L, GGT 185 U/L without change in ANA titer], which resolved 5 months after stopping).</italic></p></annotation><pub-id pub-id-type="pmid">19128733</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R70">
+            <mixed-citation publication-type="journal">Harada K, Akai Y, Koyama S, Ikenaka Y, Saito Y. A case of autoimmune hepatitis exacerbated by the administration of etanercept in the patient with rheumatoid arthritis. Clin Rheumatol 2008; 27: 1063-6. <annotation><p><italic toggle="yes">(50 year old woman with rheumatoid arthritis developed abdominal pain 2 weeks after a first injection of etanercept [bilirubin 1.2 mg/dL, ALT 300 U/L, Alk P 488 U/L, ANA 1:1280]; biopsy suggested autoimmune hepatitis and patient responded to prednisone therapy; may have had mild autoimmune hepatitis before starting therapy and also received diclofenac).</italic></p></annotation><pub-id pub-id-type="pmid">18563514</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R71">
+            <mixed-citation publication-type="journal">Chalasani N, Fontana RJ, Bonkovsky HL, Watkins PB, Davern T, Serrano J, Yang H, Rochon J; Drug Induced Liver Injury Network (DILIN). Causes, clinical features, and outcomes from a prospective study of drug-induced liver injury in the United States. Gastroenterology 2008; 135: 1924-34. <annotation><p><italic toggle="yes">(Among 300 cases of drug induced liver disease in the US collected from 2004 to 2008, etanercept was implicated in 3 cases, but infliximab was not linked to any).</italic></p></annotation><pub-id pub-id-type="pmid">18955056</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R72">
+            <mixed-citation publication-type="journal">Becker H, Willeke P, Domschke W, Gaubitz M. Etanercept tolerance in a patient with previous infliximab-induced hepatitis. Clin Rheumatol 2008; 27: 1597-8. <annotation><p><italic toggle="yes">(Letter in response to Harada [2008]; 41 year old woman with seronegative rheumatoid arthritis developed elevated enzymes [ALT 1061 U/L, Alk P 244 U/L] after 3 years of infliximab therapy [ANA rising from 1:160 to 1:640], responding to stopping infliximab and prednisone therapy, later tolerating etanercept without ALT elevations and ANA levels falling to baseline).</italic></p></annotation><pub-id pub-id-type="pmid">18795397</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R73">
+            <mixed-citation publication-type="journal">Leak AM, Rincon-Aznar B. Hepatotoxicity associated with etanercept in psoriatic arthritis. J Rheumatol 2008; 35: 2286-7. <annotation><p><italic toggle="yes">(50 year old woman with psoriatic arthritis developed jaundice after 2 months of etanercept [50 mg/week] [bilirubin 2.4 mg/dL, ALT ~550 U/L, Alk P ~325 U/L], resolving within 3 months of stopping; but the patient later tolerated a lower dose of etanercept without recurrence of hepatitis, but she continued to have borderline high Alk P levels).</italic></p></annotation><pub-id pub-id-type="pmid">19004062</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R74">
+            <mixed-citation publication-type="journal">Marques M, Magro F, Cardoso H, Carneiro F, Portugal R, Lopes J, Costa Santos C. Infliximab-induced lupus-like syndrome associated with autoimmune hepatitis. Inflamm Bowel Dis 2008; 14: 723-5. <annotation><p><italic toggle="yes">(34 year old woman with ulcerative colitis developed symptoms and liver tests abnormalities [ALT 412 U/L, Alk P 152, bilirubin normal, ANA 1:3210, IgG 1840 mg/dL] after fourth infusion of infliximab, biopsy showing changes of autoimmune hepatitis; patient worsened despite stopping infliximab for 5 months, then responded to prednisone).</italic></p></annotation><pub-id pub-id-type="pmid">17929297</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R75">
+            <mixed-citation publication-type="journal">Ojiro K, Naganuma M, Ebinuma H, Kunimoto H, Tada S, Ogata H, Iwao Y, et al. Reactivation of hepatitis B in a patient with Crohn's disease treated using infliximab. J Gastroenterol 2008; 43: 397-401. <annotation><p><italic toggle="yes">(43 year old woman with Crohn disease and HBsAg developed detectable HBV DNA after fourth infusion of infliximab and flare of hepatitis 6 months later despite therapy with lamivudine, resolving after 3 months; later tolerated infliximab with concurrent lamivudine therapy: Case 3).</italic></p></annotation><pub-id pub-id-type="pmid">18592158</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R76">
+            <mixed-citation publication-type="journal">Cansu DU, Kalifoglu T, Korkmaz C. Short-term course of chronic hepatitis B and C under treatment with etanercept associated with different disease modifying antirheumatic drugs without antiviral prophylaxis. J Rheumatol 2008; 35: 421-4. <annotation><p><italic toggle="yes">(Among 2 patients with HBsAg who received etanercept therapy for 12 and 13 months, serum HBV DNA levels rose minimally [from undetectable to 514 and 36 copies/mL] and ALT levels did not change; in 4 patients with hepatitis C treated with etanercept for 13-234 months, HCV RNA levels rose in 3, but ALT levels were only minimally elevated [&#x0003c;2 times ULN]).</italic></p></annotation><pub-id pub-id-type="pmid">18203328</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R77">
+            <mixed-citation publication-type="journal">Lev&#x000e4;mpi T, Korpela M, Vuolteenaho K, Moilanen E. Etanercept and adalimumab treatment in patients with rheumatoid arthritis and spondyloarthropathies in clinical practice: adverse events and other reasons leading to discontinuation of the treatment. Rheumatol Int 2008; 28: 261-9. <annotation><p><italic toggle="yes">(Among 17 patients with inflammatory arthritides who stopped anti-TNF therapy because of side effects, none were for hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">17846778</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R78">
+            <mixed-citation publication-type="journal">Collazo MH, Gonz&#x000e1;lez JR, Torres EA. Etanercept therapy for psoriasis in a patient with concomitant hepatitis C and liver transplant. P R Health Sci J 2008; 27: 346-7. <annotation><p><italic toggle="yes">(49 year old man with psoriasis underwent liver transplantation for liver cancer due to HCV and alcoholic cirrhosis and was treated with etanercept with excellent clinical results, as shown by decreases in ALT and HCV RNA levels [from 822 to 1.3 million IU/mL).</italic></p></annotation><pub-id pub-id-type="pmid">19069362</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R79">
+            <mixed-citation publication-type="journal">Cavazzana I, Ceribelli A, Cattaneo R, Franceschini F. Treatment with etanercept in six patients with chronic hepatitis C infection and systemic autoimmune diseases. Autoimmun Rev 2008; 8: 104-6. <annotation><p><italic toggle="yes">(Among 6 patients with inflammatory arthritis and anti-HCV who were treated with etanercept, none had worsening of hepatitis and HCV RNA levels changed minimally [174,770 to 348,218 IU/mL]).</italic></p></annotation><pub-id pub-id-type="pmid">19014870</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R80">
+            <mixed-citation publication-type="journal">Domm S, Cinatl J, Mrowietz U. The impact of treatment with tumour necrosis factor-alpha antagonists on the course of chronic viral infections: a review of the literature. Br J Dermatol 2008; 159: 1217-28. <annotation><p><italic toggle="yes">(Review of literature on efficacy and safety of TNF antagonists in patients with chronic hepatitis B and C recommends screening and monitoring).</italic></p></annotation><pub-id pub-id-type="pmid">18945310</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R81">
+            <mixed-citation publication-type="journal">Cassano N, Vena GA. Etanercept treatment in a hemodialysis patient with severe cyclosporine-resistant psoriasis and hepatitis C virus infection. Int J Dermatol 2008; 47: 980-1. <annotation><p><italic toggle="yes">(69 year old man on hemodialysis with severe psoriasis and chronic hepatitis C was treated successfully with etanercept without worsening or change in hepatitis C markers or ALT levels).</italic></p></annotation><pub-id pub-id-type="pmid">18937672</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R82">
+            <mixed-citation publication-type="journal">Boetticher NC, Peine CJ, Kwo P, Abrams GA, Patel T, Aqel B, Boardman L, et al. A randomized, double-blinded, placebo-controlled multicenter trial of etanercept in the treatment of alcoholic hepatitis. Gastroenterology 2008; 135: 1953-60. <annotation><p><italic toggle="yes">(Controlled trial in 48 patients with moderate-to-severe acute alcoholic hepatitis found a higher 6 month mortality rate with etanercept [58%] than placebo therapy [23%]).</italic></p></annotation><pub-id pub-id-type="pmid">18848937</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R83">
+            <mixed-citation publication-type="journal">Takeuchi T, Tatsuki Y, Nogami Y, Ishiguro N, Tanaka Y, Yamanaka H, Kamatani N, et al. Postmarketing surveillance of the safety profile of infliximab in 5000 Japanese patients with rheumatoid arthritis. Ann Rheum Dis 2008; 67: 189-94. <annotation><p><italic toggle="yes">(Among 5000 patients treated with infliximab for at least 6 months, 28% developed adverse events [6% serious], including 3.9% with hepatobiliary events [0.04% serious], but no details given).</italic></p></annotation><pub-id pub-id-type="pmid">17644554</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R84">
+            <mixed-citation publication-type="journal">Carroll MB, Bond MI. Use of tumor necrosis factor-alpha inhibitors in patients with chronic hepatitis B infection. Semin Arthritis Rheum 2008; 38: 208-17. <annotation><p><italic toggle="yes">(73 year old woman with rheumatoid arthritis and chronic hepatitis B with high levels of HBV DNA in serum was treated with etanercept and given lamivudine and later adefovir without sustained effects and later followed on no antiviral therapy with no change in liver histology over a 5 year period).</italic></p></annotation><pub-id pub-id-type="pmid">18221983</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R85">
+            <mixed-citation publication-type="journal">Zingarelli S, Air&#x000f2; Frassi M, Bazzani C, Scarsi M, Puoti M. Prophylaxis and therapy of HBV infection in 20 patients treated with disease modifying antirheumatic drugs or with biological agents for rheumatic diseases. Reumatismo 2008; 60: 22-7. <annotation><p><italic toggle="yes">(Retrospective analysis of results of treating 20 patients with rheumatic conditions and serum HBsAg using immunosuppressive agents, all tolerating therapy well, and reactivation prevented by prophylactic antiviral therapy).</italic></p></annotation><pub-id pub-id-type="pmid">18432322</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R86">
+            <mixed-citation publication-type="journal">Montiel PM, Solis JA, Chirinos JA, a Casis B, S&#x000e1;hez F, Rodr&#x000ed;ez S. Hepatitis B virus reactivation during therapy with etanercept in an HBsAg-negative and anti-HBs-positive patient. Liver Int 2008; 28: 718-20. <annotation><p><italic toggle="yes">(73 year old man with ankylosing spondylitis, amyloidosis and anti-HBc without HBsAg in serum was treated with etanercept and prednisone and developed symptomatic hepatitis 14 months later [bilirubin 2.0 mg/dL, ALT 65 U/L, GGT 121 U/L] with appearance of HBsAg and HBV DNA [1507 U/mL], resolving on lamivudine and later restarting etanercept while continuing lamivudine without reactivation).</italic></p></annotation><pub-id pub-id-type="pmid">18433400</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R87">
+            <mixed-citation publication-type="journal">Conde-Taboada A, Mu&#x000f1;oz JP, Mu&#x000f1;oz LC, L&#x000f3;-pez Bran E. Infliximab treatment for severe psoriasis in a patient with active hepatitis B virus infection. J Am Acad Dermatol 2009; 60: 1077-80. <annotation><p><italic toggle="yes">(36 year old man with psoriasis and chronic hepatitis B successfully treated with combination of lamivudine and infliximab with fall of ALT levels [from 349 to 39 U/L] and HBV DNA [&#x0003e;110,000 to 1266 copies/mL] after 6 months of treatment, but no further follow up).</italic></p></annotation><pub-id pub-id-type="pmid">19467387</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R88">
+            <mixed-citation publication-type="journal">Burmester GR, Mease P, Dijkmans BA, Gordon K, Lovell D, Panaccione R, Perez J, et al. Adalimumab safety and mortality rates from global clinical trials of six immune-mediated inflammatory diseases. Ann Rheum Dis 2009; 68: 1863-9. <annotation><p><italic toggle="yes">(Among 19,041 patients treated with adalimumab in 36 clinical trials, serious infections occurred in 1-5 patients per year; no discussion of hepatotoxicity or ALT levels).</italic></p></annotation><pub-id pub-id-type="pmid">19147611</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R89">
+            <mixed-citation publication-type="journal">Zingarelli S, Frassi M, Bazzani C, Scarsi M, Puoti M, Air&#x000f2; P. Use of tumor necrosis factor-alpha-blocking agents in hepatitis B virus-positive patients: reports of 3 cases and review of the literature. J Rheumatol 2009; 36: 1188-94. <annotation><p><italic toggle="yes">(3 patients with rheumatoid arthritis and HBsAg in serum treated with etanercept, infliximab or adalimumab for up to 3 years; 2 with lamivudine prophylaxis did not develop reactivation, 1 without prophylaxis developed mild reactivation at 6 months and was successfully treated with lamivudine; review of literature found reactivation to occur in 12 of 16 patients not given prophylaxis, but only mild rise in HBV DNA in 1 of 7 on lamivudine).</italic></p></annotation><pub-id pub-id-type="pmid">19447932</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R90">
+            <mixed-citation publication-type="journal">Robinson H, Walker-Bone K. Anti-TNF-alpha therapy for rheumatoid arthritis among patients with chronic hepatitis B infection. Rheumatology (Oxford) 2009; 48: 448-50. <annotation><p><italic toggle="yes">(63 year old woman with rheumatoid arthritis and inactive hepatitis B treated with various combinations of etanercept, adalimumab, prednisone and methotrexate had no evidence of significant reactivation after 2 years of therapy; on review of literature, authors conclude that prophylaxis is not usually necessary).</italic></p></annotation><pub-id pub-id-type="pmid">19223285</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R91">
+            <mixed-citation publication-type="journal">Caramaschi P, Bambara LM, Pieropan S, Tinazzi I, Volpe A, Biasi D. Anti-TNFalpha blockers, autoantibodies and autoimmune diseases. Joint Bone Spine 2009; 76: 333-42. <annotation><p><italic toggle="yes">(Review of frequency of appearance of autoantibodies and autoimmune conditions during anti-TNF therapy).</italic></p></annotation><pub-id pub-id-type="pmid">19539516</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R92">
+            <mixed-citation publication-type="journal">Carlsen KM, Riis L, Madsen OR. Toxic hepatitis induced by infliximab in a patient with rheumatoid arthritis with no relapse after switching to etanercept. Clin Rheumatol 2009; 28: 1001-3. <annotation><p><italic toggle="yes">(38 year old woman with rheumatoid arthritis developed rising ALT levels after 7 infusions of infliximab [ALT 234 U/L, bilirubin normal, ANA negative]; resolving with stopping and no recurrence on switching to etanercept).</italic></p></annotation><pub-id pub-id-type="pmid">19370307</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R93">
+            <mixed-citation publication-type="journal">Chung SJ, Kim JK, Park MC, Park YB, Lee SK. Reactivation of hepatitis B viral infection in inactive HBsAg carriers following anti-tumor necrosis factor-alpha therapy. J Rheumatol 2009; 36: 2416-20. <annotation><p><italic toggle="yes">(Among 103 patients with rheumatoid arthritis or psoriasis treated with anti-TNF agents for 15-52 weeks, 8 were HBsAg-positive, but only 1 suffered reactivation; after third infusion with rise in ALT at week 14 peaking at 1054 U/L, HBV DNA 3.1 million copies/mL, entecavir therapy resulted in prompt improvements).</italic></p></annotation><pub-id pub-id-type="pmid">19797507</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R94">
+            <mixed-citation publication-type="journal">Dufour C, Giacchino R, Ghezzi P, Tonelli R, Ferretti E, Pitto A, Pistoia V, et al. Etanercept as a salvage treatment for refractory aplastic anemia. Pediatr Blood Cancer 2009; 52: 522-5. <annotation><p><italic toggle="yes">(17 year old man with aplastic anemia and chronic hepatitis C developed mild, transient ALT elevations [peak 176 U/L] during etanercept therapy).</italic></p></annotation><pub-id pub-id-type="pmid">19061218</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R95">
+            <mixed-citation publication-type="journal">Fairhurst DA, Sheehan-Dare R. Autoimmune hepatitis associated with infliximab in a patient with palmoplantar pustular psoriasis. Clin Exp Dermatol 2009; 34: 421-2. <annotation><p><italic toggle="yes">(22 year old woman with psoriasis developed rising ALT levels after third infusion of infliximab, peaking at ALT 1663 U/L 55 days after last infusion with rising in ANA [1:40 to 1:640] and a liver biopsy suggestive of autoimmune hepatitis, resolving with prednisone therapy; short follow up and no mention of bilirubin levels).</italic></p></annotation><pub-id pub-id-type="pmid">19309375</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R96">
+            <mixed-citation publication-type="journal">Kluger N, Girard C, Guillot B, Bessis D. Efficiency and safety of etanercept after acute hepatitis induced by infliximab for psoriasis. Acta Derm Venereol 2009; 89: 332-4. <annotation><p><italic toggle="yes">(46 year old woman with psoriasis developed rise in ALT [369 U/L] after a fourth infusion of infliximab with negative ANA and bilirubin of 1.5 mg/dL, resolving within 6 weeks of stopping and no recurrence with etanercept).</italic></p></annotation><pub-id pub-id-type="pmid">19479148</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R97">
+            <mixed-citation publication-type="journal">Li S, Kaur PP, Chan V, Berney S. Use of tumor necrosis factor-alpha(TNF-alpha) antagonists infliximab, etanercept, and adalimumab in patients with concurrent rheumatoid arthritis and hepatitis B or hepatitis C: a retrospective record review of 11 patients. Clin Rheumatol 2009; 28: 787-91. <annotation><p><italic toggle="yes">(Retrospective analysis of 11 patients with rheumatoid arthritis and either hepatitis B [n=3] or C [n=8] during 3 to 60 months anti-TNF therapy, 3 had transient minimal ALT elevations [peak levels 51, 73 and 51 U/L] without symptoms or jaundice).</italic></p></annotation><pub-id pub-id-type="pmid">19291350</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R98">
+            <mixed-citation publication-type="journal">Massarotti M, Marasini B. Successful treatment with etanercept of a patient with psoriatic arthritis after adalimumab-related hepatotoxicity. Int J Immunopathol Pharmacol 2009; 22: 547-9. <annotation><p><italic toggle="yes">(46 year old man with psoriatic arthritis developed rising ALT levels [19 to 96 to 252 U/L] 2 months after starting adalimumab, with resolution within 2 months of stopping and no recurrence after switching to etanercept).</italic></p></annotation><pub-id pub-id-type="pmid">19505409</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R99">
+            <mixed-citation publication-type="journal">Murakami A, Tanaka Y, Ueda M, Nagano Y, Kunisaki R, Morimoto M, Enaka M, et al. Hepatocellular carcinoma occurring in a young Crohn's disease patient. Pathol Int 2009; 59: 492-6. <annotation><p><italic toggle="yes">(25 year old man with 12 year history of Crohn disease developed hepatocellular carcinoma [HCC] without cirrhosis approximately one year after starting infliximab; no other risk factors identified; review of literature identified 7 cases of HCC in patients with Crohn disease, mean age 20 years, all had received azathioprine and 2 infliximab, none had cirrhosis or viral hepatitis).</italic></p></annotation><pub-id pub-id-type="pmid">19563414</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R100">
+            <mixed-citation publication-type="journal">Wetter DA, Davis MD. Lupus-like syndrome attributable to anti-tumor necrosis factor alpha therapy in 14 patients during an 8-year period at Mayo Clinic. Mayo Clin Proc 2009; 84: 979-84. <annotation><p><italic toggle="yes">(Retrospective analysis of 14 cases of lupus-like syndrome arising during anti-TNF therapy [13 infliximab, 1 adalimumab] over 8 year period; all were ANA positive and most had anti-dsDNA, onset with rash, serositis, fatigue, arthralgias, oral ulcers, but no renal or CNS involvement, all improved on stopping and tolerated other, but not the same anti-TNF agent; no hepatic manifestations mentioned).</italic></p></annotation><pub-id pub-id-type="pmid">19880688</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R101">
+            <mixed-citation publication-type="journal">Rodr&#x000ed;guez Gil FJ, Mart&#x000ed;nez Crespo JJ, Garc&#x000ed;a Belmonte D, Nicol&#x000e1;s de Prado I, de Prado Serrano R. [Jaundice in a patient treated with etanercept]. Gastroenterol Hepatol 2009; 32: 584-5. Spanish. <annotation><p><italic toggle="yes">(62 year old woman with primary biliary cirrhosis on ursodiol with mild elevations in Alk P and bilirubin was started on etanercept for psoriasis and 2 months later developed deepening jaundice despite improvements in Alk P and ALT; bilirubin rose gradually to 12.7 mg/dL 5 months after stopping and subsequently fell to baseline as Alk P and ALT levels rose).</italic></p></annotation><pub-id pub-id-type="pmid">19523718</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R102">
+            <mixed-citation publication-type="journal">Shao LM, Chen MY, Cai JT. Meta-analysis: the efficacy and safety of certolizumab pegol in Crohn's disease. Aliment Pharmacol Ther 2009; 29: 605-14. <annotation><p><italic toggle="yes">(Metaanalysis of safety in 3 controlled trials of certolizumab in 1313 patients with Crohn disease; no increase in serious adverse events except for infections, but no specific data on rates of ALT elevation or liver injury provided).</italic></p></annotation><pub-id pub-id-type="pmid">19183161</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R103">
+            <mixed-citation publication-type="journal">Smolen J, Landew&#x000e9; RB, Mease P, Brzezicki J, Mason D, Luijtens K, van Vollenhoven RF, et al. Efficacy and safety of certolizumab pegol plus methotrexate in active rheumatoid arthritis: the RAPID 2 study. A randomised controlled trial. Ann Rheum Dis 2009; 68: 797-804. <annotation><p><italic toggle="yes">(Controlled trial of methotrexate with or without certolizumab in 619 patients with rheumatoid arthritis; ALT elevations occurred in 5% of patients on methotrexate alone vs 2% on the combination; 5 cases of tuberculosis on certolizumab, but no mention of clinically apparent liver injury).</italic></p></annotation><pub-id pub-id-type="pmid">9015207</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R104">
+            <mixed-citation publication-type="journal">Charpin C, Guis S, Colson P, Borentain P, Matt&#x000e9;i JP, Alcaraz P, Balandraud N, et al. Safety of TNF-blocking agents in rheumatic patients with serology suggesting past hepatitis B state: results from a cohort of 21 patients. Arthritis Res Ther 2009; 11: R179. <annotation><p><italic toggle="yes">(21 patients with rheumatic conditions who had anti-HBc without HBsAg in serum and were monitored during 7-56 months of therapy with infliximab [4], etanercept [14] or adalimumab [2]; anti-HBs titers decreased minimally, and no patient developed HBV DNA or HBsAg or features of reactivation).</italic></p></annotation><pub-id pub-id-type="pmid">19941642</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R105">
+            <mixed-citation publication-type="journal">Frankel AJ, Van Voorhees AS, Hsu S, Korman NJ, Lebwohl MG, Bebo BF Jr, Gottlieb AB; National Psoriasis Foundation. Treatment of psoriasis in patients with hepatitis C: from the Medical Board of the National Psoriasis Foundation. J Am Acad Dermatol 2009; 61: 1044-55. <annotation><p><italic toggle="yes">(Recommend that infliximab and etanercept be considered second line agents in patients with psoriasis and hepatitis C, and conclude that more studies are needed).</italic></p></annotation><pub-id pub-id-type="pmid">19811848</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R106">
+            <mixed-citation publication-type="journal">Prignano F, Zanieri F, Milani S, Lotti T. Switch from etanercept to efalizumab in a psoriatic patient with HCV infection: a case report. Dermatol Ther 2009; 22: 386-90. <annotation><p><italic toggle="yes">(40 year old man with severe psoriasis and chronic hepatitis C was treated with etanercept and then efalizumab for six months without worsening of hepatitis or significant change in HCV RNA levels).</italic></p></annotation><pub-id pub-id-type="pmid">19580583</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R107">
+            <mixed-citation publication-type="journal">Giannitti C, Benucci M, Caporali R, Manganelli S, Bellisai F, Sebastiani GD, Galeazzi M. Efficacy and safety of anti-TNF-alpha therapy combined with cyclosporine A in patients with rheumatoid arthritis and concomitant hepatitis C virus infection. Int J Immunopathol Pharmacol 2009; 22: 543-6. <annotation><p><italic toggle="yes">(7 patients with rheumatoid arthritis and chronic hepatitis C were treated with cyclosporine and either etanercept or adalimumab and had clinical improvements with no worsening of liver disease, but instead mild decreases in ALT [38 to 26 U/L] and HCV RNA levels [7.1 to 2.3 million IU/mL]).</italic></p></annotation><pub-id pub-id-type="pmid">19505408</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R108">
+            <mixed-citation publication-type="journal">Wendling D, Di Martino V, Prati C, Toussirot E, Herbein G. Spondyloarthropathy and chronic B hepatitis. Effect of anti-TNF therapy. Joint Bone Spine 2009; 76: 308-11. <annotation><p><italic toggle="yes">(Four patients with chronic hepatitis B and spondylitis treated with infliximab or etanercept; two who did not received prophylaxis with lamivudine developed rising HBV DNA levels within a month of starting therapy, which then responded to lamivudine therapy).</italic></p></annotation><pub-id pub-id-type="pmid">19346146</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R109">
+            <mixed-citation publication-type="journal">Kaiser T, Moessner J, Patel K, McHutchison JG, Tillmann HL. Life threatening liver disease during treatment with monoclonal antibodies. BMJ 2009; 338: b508. <annotation><p><italic toggle="yes">(66 year old man with psoriasis was treated with efalizumab [anti-CD11a] and then adalimumab [anti-TNF] and 11 days later developed jaundice and severe hepatitis [bilirubin 9.1 rising to 52 mg/dL, ALT 549 U/L, Alk P 131 U/L], with HBsAg being detected and slow, but eventual recovery).</italic></p></annotation><pub-id pub-id-type="pmid">19224957</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R110">
+            <mixed-citation publication-type="journal">Shale MJ, Seow CH, Coffin CS, Kaplan GG, Panaccione R, Ghosh S. Review article: chronic viral infection in the anti-tumour necrosis factor therapy era in inflammatory bowel disease. Aliment Pharmacol Ther 2010; 31: 20-34. <annotation><p><italic toggle="yes">(Extensive review of literature on effects of anti-TNF therapies on underlying chronic hepatitis B and C; among 28 HBV-infected patients, reactivation was common in those not on antiviral therapy, more frequent with monoclonal antibodies than etanercept; among 110 HCV-infected patients, little evidence of worsening of disease and in some instances a decrease in HCV RNA levels).</italic></p></annotation><pub-id pub-id-type="pmid">19681818</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R111">
+            <mixed-citation publication-type="journal">Mancini S, Amorotti E, Vecchio S, Ponz de Leon M, Roncucci L. Infliximab-related hepatitis: discussion of a case and review of the literature. Intern Emerg Med 2010 <annotation><p><italic toggle="yes">(33 year old man with psoriasis developed fatigue and ALT elevations followed by jaundice after a third infusion of infliximab [bilirubin 3.7 mg/dL, ALT 2132 U/L, Alk P 594 U/L, ANA 1:320 and positive anti-dsDNA], responding to corticosteroids [becoming ANA negative], which were discontinued without relapse).</italic></p></annotation><pub-id pub-id-type="pmid">20107930</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R112">
+            <mixed-citation publication-type="journal">Smith LS, Nelson M, Dolder CR. Certolizumab pegol: a TNF-{alpha} antagonist for the treatment of moderate-to-severe Crohn's disease. Ann Pharmacother 2010; 44: 333-42. <annotation><p><italic toggle="yes">(Review of structure, mechanism of action, pharmacology, safety and efficacy of certolizumab focusing upon Crohn disease; no mention of liver injury or ALT elevations).</italic></p></annotation><pub-id pub-id-type="pmid">20118143</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R113">
+            <mixed-citation publication-type="journal">Lichtenstein GR, Thomsen O&#x000d8;, Schreiber S, Lawrance IC, Hanauer SB, Bloomfield R, Sandborn WJ; Precise 3 Study Investigators. Continuous therapy with certolizumab pegol maintains remission of patients with Crohn's disease for up to 18 months. Clin Gastroenterol Hepatol 2010; 8: 600-9. <annotation><p><italic toggle="yes">(Among 241 patients with Crohn disease continued on certolizumab for up to 80 weeks, 2 patients developed tuberculosis, 1 a lupus-like syndrome, 16 [11%] ANA and 4 [2%] anti-dsDNA reactivity; no mention of liver injury or ALT elevations).</italic></p></annotation><pub-id pub-id-type="pmid">20117244</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R114">
+            <mixed-citation publication-type="journal">Sokolove J, Strand V, Greenberg JD, Curtis JR, Kavanaugh A, Kremer JM, Anofrei A, et al.; CORRONA Investigators. Risk of elevated liver enzymes associated with TNF inhibitor utilisation in patients with rheumatoid arthritis. Ann Rheum Dis 2010; 69: 1612-7. <annotation><p><italic toggle="yes">(Retrospective analysis of ALT and AST elevations among 6861 patients with rheumatoid arthritis enrolled in a North American database receiving TNF inhibitors followed for an average of 1.5 years with ~1.7 determinations yearly; any elevation of ALT or AST occurred in 5.4% of visits, &#x0003e;2 times ULN in 0.6%, &#x0003e;5 times ULN in 0.1%; rates slightly higher for those on infliximab alone or combined with methotrexate and leflunomide).</italic></p></annotation><pub-id pub-id-type="pmid">20448284</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R115">
+            <mixed-citation publication-type="journal">Khokhar OS, Lewis JH. Hepatotoxicity of agents used in the management of inflammatory bowel disease. Dig Dis 2010; 28: 508-18. <annotation><p><italic toggle="yes">(Review of the hepatotoxicity of drugs used to treat inflammatory bowel disease focusing upon sulfasalazine, thiopurines, TNF inhibitors, and methotrexate).</italic></p></annotation><pub-id pub-id-type="pmid">20926880</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R116">
+            <mixed-citation publication-type="journal">Poulin Y, Th&#x000e9;rien G. Drug-induced hepatitis and lupus during infliximab treatment for psoriasis: case report and literature review. J Cutan Med Surg 2010; 14: 100-4. <annotation><p><italic toggle="yes">(40 year old woman with psoriasis developed raised ALT after 22 weeks of infliximab treatment [5 infusions], with rise in ALT to 136 and then 536 U/L and symptoms of rash, arthralgias and joint swelling, positive ANA [1:60] and liver biopsy showing chronic hepatitis, resolving with 4 weeks of prednisone therapy and no recurrence in subsequent 4 years).</italic></p></annotation><pub-id pub-id-type="pmid">20338127</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R117">
+            <mixed-citation publication-type="journal">Haennig A, Bonnet D, Thebault S, Alric L. Infliximab-induced acute hepatitis during Crohn's disease therapy: absence of cross-toxicity with adalimumab. Gastroenterol Clin Biol 2010; 34: e7-8. <annotation><p><italic toggle="yes">(46 year old man with Crohn disease developed elevations in ALT [284 and 528 U/L] without Alk P and bilirubin elevations or symptoms after first 3 doses of infliximab, falling to normal in 3 months and not recurring during 6 months of adalimumab therapy).</italic></p></annotation><pub-id pub-id-type="pmid">20189334</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R118">
+            <mixed-citation publication-type="journal">Cravo M, Silva R, Serrano M. Autoimmune hepatitis induced by infliximab in a patient with Crohn's disease with no relapse after switching to adalimumab. BioDrugs 2010; 24 Suppl 1:25-7. <annotation><p><italic toggle="yes">(38 year old woman with Crohn disease, was on and off infliximab for 8 years, developed abnormal liver tests [bilirubin normal, ALT 191 U/L, ANA 1:640], responding to prednisolone and azathioprine within 12 weeks and later treated with adalimumab without worsening of liver disease, but on long term azathioprine [50 mg/day]).</italic></p></annotation><pub-id pub-id-type="pmid">21175232</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R119">
+            <mixed-citation publication-type="journal">Katsanos KH, Tsianos VE, Zois CD, Zioga H, Vagias I, Zervou E, Christodoulou DK, et al.; Northwest Greece IBD Study Group. Inflammatory bowel disease and hepatitis B and C in Western Balkans: a referral centre study and review of the literature. J Crohns Colitis 2010; 4: 450-65. <annotation><p><italic toggle="yes">(Among 482 patients with inflammatory bowel disease, 11 had HBV and 4 HCV, antiviral therapy for which did not worsen the underlying bowel disease).</italic></p></annotation><pub-id pub-id-type="pmid">21122543</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R120">
+            <mixed-citation publication-type="journal">Song MS, Lee SB, Sohn S, Oh JH, Yoon KL, Han JW, Kim CH. Infliximab treatment for refractory Kawasaki disease in Korean children. Korean Circ J 2010; 40: 334-8. <annotation><p><italic toggle="yes">(Among 16 children with Kawasaki disease treated with infliximab, one 4 month old boy developed an acute hepatitis followed by cholecystitis during therapy).</italic></p></annotation><pub-id pub-id-type="pmid">20664742</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R121">
+            <mixed-citation publication-type="journal">Goujon C, Dahel K, B&#x000e9;rd F, Guillot I, Gunera-Saad N, Nicolas JF. Autoimmune hepatitis in two psoriasis patients treated with inflixmab. J Am Acad Dermatol 2010; 63: e43-4. <annotation><p><italic toggle="yes">(Two cases of autoimmune hepatitis during infliximab therapy, 37 and 51 year old men with psoriasis developed symptoms 4-6 weeks after a third infusion [bilirubin 0.8 and 3.2 mg/dL, ALT 1126 and 768 U/L, Alk P 181 and 391 U/L, ANA 1:200 and 1:2560], one resolving upon stopping and one after treatment with ursodiol, corticosteroids and azathioprine).</italic></p></annotation><pub-id pub-id-type="pmid">20633783</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R122">
+            <mixed-citation publication-type="journal">Fotiadou C, Lazaridou E, Ioannides D. Safety of anti-tumour necrosis factor-&#x003b1; agents in psoriasis patients who were chronic hepatitis B carriers: a retrospective report of seven patients and brief review of the literature. J Eur Acad Dermatol Venereol 2011; 25: 471-4. <annotation><p><italic toggle="yes">(Seven patients with psoriasis and HBsAg carrier state were treated with adalimumab, etanercept or infliximab for 6-24 months with lamivudine prophylaxis and none suffered reactivation, HBV DNA being undetectable or present at low levels).</italic></p></annotation><pub-id pub-id-type="pmid">20561122</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R123">
+            <mixed-citation publication-type="journal">Carroll MB, Forgione MA. Use of tumor necrosis factor alpha inhibitors in hepatitis B surface antigen-positive patients: a literature review and potential mechanisms of action. Clin Rheumatol 2010; 29: 1021-9. <annotation><p><italic toggle="yes">(Review of literature on anti-TNF therapy in patients with hepatitis B identified 35 cases, 7 cases of reactivation occurred, including 7 of 17 on infliximab, but none of 12 on etanercept or 6 on adalimumab; 18 received lamivudine, but only 7 as prophylaxis).</italic></p></annotation><pub-id pub-id-type="pmid">20556450</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R124">
+            <mixed-citation publication-type="journal">Caporali R, Bobbio-Pallavicini F, Atzeni F, Sakellariou G, Caprioli M, Montecucco C, Sarzi-Puttini P. Safety of tumor necrosis factor alpha blockers in hepatitis B virus occult carriers (hepatitis B surface antigen negative/anti-hepatitis B core antigen positive) with rheumatic diseases. Arthritis Care Res (Hoboken) 2010; 62: 749-54. <annotation><p><italic toggle="yes">(Among 732 patients treated with anti-TNF agents, 5 had HBsAg and were given prophylaxis with lamivudine and 67 had anti-HBc without HBsAg [25 on infliximab, 23 etanercept, 19 adalimumab], none of whom developed HBsAg or reactivation during an average follow up of 3.5 years).</italic></p></annotation><pub-id pub-id-type="pmid">20535784</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R125">
+            <mixed-citation publication-type="journal">Reuben A, Koch DG, Lee WM; Acute Liver Failure Study Group. Drug-induced acute liver failure: results of a U.S. multicenter, prospective study. Hepatology 2010; 52: 2065-76. <annotation><p><italic toggle="yes">(Among 1198 patients with acute liver failure enrolled in a US prospective study between 1998 and 2007, 133 were attributed to drug induced liver injury, but none were attributed to infliximab or other anti-TNF agents).</italic></p></annotation><pub-id pub-id-type="pmid">20949552</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R126">
+            <mixed-citation publication-type="journal">Ferrajolo C, Capuano A, Verhamme KM, Schuemie M, Rossi F, Stricker BH, Sturkenboom MC. Drug-induced hepatic injury in children: a case/non-case study of suspected adverse drug reactions in VigiBase. Br J Clin Pharmacol 2010; 70: 721-8. <annotation><p><italic toggle="yes">(World wide pharmacovigilance database containing 9036 hepatic adverse drug reactions in children, included 60 due to infliximab making it rank 18th in frequency). </italic></p></annotation><pub-id pub-id-type="pmid">21039766</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R127">
+            <mixed-citation publication-type="journal">Gandhi RK, Pickup T, Sheth PB. Is etanercept safe for treating plaque psoriasis in a patient with chronic hepatitis C virus infection? Arch Dermatol 2010; 146: 1151-2. <annotation><p><italic toggle="yes">(58 year old man with severe psoriasis and hepatitis C was treated successfully with etanercept and was reported to become HCV RNA negative during treatment).</italic></p></annotation><pub-id pub-id-type="pmid">20956650</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R128">
+            <mixed-citation publication-type="journal">Garavaglia MC, Altomare G. Etanercept therapy in patients with psoriasis and concomitant HCV infection. Int J Immunopathol Pharmacol 2010; 23: 965-9. <annotation><p><italic toggle="yes">(5 patients with psoriasis and chronic hepatitis C were treated with etanercept for up to 2 years; HCV RNA and ALT levels changed minimally in 4 and rose in 1 who was then treated with peginterferon and ribavirin).</italic></p></annotation><pub-id pub-id-type="pmid">20943071</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R129">
+            <mixed-citation publication-type="journal">Prestinari F, Ferguglia G, Laria G. Etanercept in a patient with severe psoriasis and latent viral hepatic disease and latent tuberculosis. Am J Clin Dermatol 2010; 11 Suppl 1: 57-8. <annotation><p><italic toggle="yes">(63 year old man with psoriasis, tuberculin positivity and anti-HBc without HBsAg was treated with isoniazid and etanercept without reactivation or appearance of liver injury).</italic></p></annotation><pub-id pub-id-type="pmid">20586514</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R130">
+            <mixed-citation publication-type="journal">Bordas X, Mart&#x000ed;n Sala S. [Etanercept and chronic infection by HCV and HBV]. Actas Dermosifiliogr. 2010; 101 Suppl 1: 82-7. Spanish. <annotation><p><italic toggle="yes">(Review of the safety of antirheumatic agents in patients with chronic viral hepatitis, and case report of 55 year old woman with psoriasis and chronic hepatitis B treated with lamivudine and etanercept with no worsening of liver disease and improvement in psoriasis).</italic></p></annotation><pub-id pub-id-type="pmid">20492886</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R131">
+            <mixed-citation publication-type="journal">Vassilopoulos D, Apostolopoulou A, Hadziyannis E, Papatheodoridis GV, Manolakopoulos S, Koskinas J, Manesis EK, et al. Long-term safety of anti-TNF treatment in patients with rheumatic diseases and chronic or resolved hepatitis B virus infection. Ann Rheum Dis 2010; 69: 1352-5. <annotation><p><italic toggle="yes">(Among 131 patients with rheumatic conditions treated with anti-TNF, 14 had HBsAg [all were given prophylactic anti-HBV therapy], 19 had anti-HBs alone [from vaccination] and 19 anti-HBc [from previous infection]; during an average of 2 years of therapy, one patient with HBsAg on lamivudine developed rising titers of HBV DNA and was successfully treated with tenofovir, while all others had no change in serologic status or ALT levels).</italic></p></annotation><pub-id pub-id-type="pmid">20472596</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R132">
+            <mixed-citation publication-type="journal">Paradisi A, Caldarola G, Capizzi R, Siciliano M, Annichiarico E, Vecchio FM, Amerio PL, et al. Safety of etanercept in patients with psoriasis and hepatitis C virus assessed by liver histopathology: preliminary data. J Am Acad Dermatol 2010; 62: 1067-9. <annotation><p><italic toggle="yes">(Two men, ages 43 and 62 years, with severe psoriasis and chronic hepatitis C were treated with etanercept; monitoring of serum ALT and HCV RNA levels and liver histology showed no change during 12 months of therapy).</italic></p></annotation><pub-id pub-id-type="pmid">20466184</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R133">
+            <mixed-citation publication-type="journal">Kim YJ, Bae SC, Sung YK, Kim TH, Jun JB, Yoo DH, Kim TY, et al. Possible reactivation of potential hepatitis B virus occult infection by tumor necrosis factor-alpha blocker in the treatment of rheumatic diseases. J Rheumatol 2010; 37: 346-50. <annotation><p><italic toggle="yes">(Among 266 Korean patients with rheumatic conditions receiving anti-TNF therapy, 8 had HBsAg and 88 anti-HBc without HBsAg; 2 of the 8 HBsAg-positive patients developed reactivation and ALT elevations were more common in the anti-HBc-positive group [16%] than the antibody-negative group [6%], but reactivation was not demonstrated and clinical features were not given).</italic></p></annotation><pub-id pub-id-type="pmid">20008922</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R134">
+            <mixed-citation publication-type="journal">F&#x000e9;au S, Causse X, Corondan A, Michenet P, Autret-Leca E. [Acute drug-induced hepatitis during adalimumab and ibuprofen treatment]. Gastroenterol Clin Biol 2010; 34: 420-2. French. <annotation><p><italic toggle="yes">(61 year old man with rheumatoid arthritis on adalimumab for 15 months and occasional ibuprofen developed hepatitis [bilirubin 2.9 mg/dL, ALT 2491 U/L, Alk P 292 U/L, ANA negative], resolving within 4 months of stopping medications and increasing prednisone dose)</italic></p></annotation><pub-id pub-id-type="pmid">20494537</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R135">
+            <mixed-citation publication-type="journal">Adar T, Mizrahi M, Pappo O, Scheiman-Elazary A, Shibolet O. Adalimumab-induced autoimmune hepatitis. J Clin Gastroenterol 2010; 44: e20-2. <annotation><p><italic toggle="yes">(36 year old woman with psoriasis and Crohn disease developed nausea after starting adalimumab, and after 3 months liver tests were found to be abnormal [bilirubin 0.7 mg/dL, ALT 1265 U/L, Alk P 102 U/L, ANA 1:80], resolving within 2 months of stopping therapy and starting prednisone and azathioprine).</italic></p></annotation><pub-id pub-id-type="pmid">19593165</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R136">
+            <mixed-citation publication-type="journal">Bj&#x000f6;rnsson E, Talwalkar J, Treeprasertsuk S, Kamath PS, Takahashi N, Sanderson S, Neuhauser M, Lindor K. Drug-induced autoimmune hepatitis: clinical characteristics and prognosis. Hepatology 2010; 51: 2040-8. <bold><bold><bold><bold><bold><bold><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/pubmed/20512992">PubMed Citation</ext-link>
+</bold></bold></bold></bold></bold></bold><annotation><p><italic toggle="yes">(<bold><bold><bold><bold><bold><bold>Among 261 cases of autoimmune hepatitis seen at the Mayo Clinic between 1997 and 2007, 24 were attributed to drugs, 11 to minocylcine, 11 to nitrofurantoin, but none due to anti-TNF agents; all responded to corticosteroid therapy and did not relapse when withdrawn</bold></bold></bold></bold></bold></bold>).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R137">
+            <mixed-citation publication-type="journal">Kuroda T, Wada Y, Kobayashi D, Sato H, Murakami S, Nakano M, Narita I. Effect of etanercept and entecavil in a patient with rheumatoid arthritis who is a hepatitis B carrier: a review of the literature. Rheumatol Int 2010 [Epub] <annotation><p><italic toggle="yes">(48 year old woman with rheumatoid arthritis and inactive hepatitis B was treated with entecavir and etanercept with good response and no evidence of reactivation of hepatitis B).</italic></p></annotation><pub-id pub-id-type="pmid">20062998</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R138">
+            <mixed-citation publication-type="journal">Ventura F, Gomes J, Duarte Mda L, Fernandes JC, Brito C. Efficacy and safety of etanercept in patients with psoriasis and hepatitis C. Eur J Dermatol 2010; 20: 808-9. <annotation><p><italic toggle="yes">(Two patients, a 35 year old man and 47 year old woman with both psoriasis and chronic hepatitis C were treated with etanercept with no change in serum ALT [36 to 44 U/L and 40 to 36 U/L], while HCV RNA levels increased in one and decreased in the other).</italic></p></annotation><pub-id pub-id-type="pmid">20923749</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R139">
+            <mixed-citation publication-type="journal">Koike T, Harigai M, Inokuma S, Ishiguro N, Ryu J, Takeuchi T, Tanaka Y, et al. Postmarketing surveillance of safety and effectiveness of etanercept in Japanese patients with rheumatoid arthritis. Mod Rheumatol 2011; 21: 343-51. <annotation><p><italic toggle="yes">(Summary of 6 month postmarketing surveillance of 13,894 Japanese patients with rheumatoid arthritis treated with etanercept; adverse events were reported in 31% and were severe in 6.2%, severe reactions including pneumonia and interstitial lung disease; abnormal liver tests were reported in 328 patients [2.4%], which were severe in 15 [0.1%]).</italic></p></annotation><pub-id pub-id-type="pmid">21264488</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R140">
+            <mixed-citation publication-type="journal">Stine JG, Bass M, Ibrahim D, Khokhar OS, Lewis JH. Dermatologists' awareness of and screening practices for hepatitis B virus infection before initiating tumor necrosis factor-&#x003b1; inhibitor therapy. South Med J 2011; 104: 781-8. <annotation><p><italic toggle="yes">(Results of email questionnaire sent to 1,000 US dermatologists found that 52% of 62 respondents were aware of guidelines for screening for HBV before using anti-TNF agents, but only 42% routinely screened patients and none of the 62 had ever seen a case of HBV reactivation).</italic></p></annotation><pub-id pub-id-type="pmid">22089354</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R141">
+            <mixed-citation publication-type="journal">P&#x000e9;rez-Alvarez R, D&#x000ed;az-Lagares C, Garc&#x000ed;a-Hern&#x000e1;ndez F, Lopez-Roses L, Brito-Zer&#x000f3;n P, P&#x000e9;rez-de-Lis M, Retamozo S, et al.; BIOGEAS Study Group. Hepatitis B virus (HBV) reactivation in patients receiving tumor necrosis factor (TNF)-targeted therapy: analysis of 257 cases. Medicine (Baltimore) 2011; 90: 359-71. <annotation><p><italic toggle="yes">(Systematic review of literature identified 257 patients with preexisting HBV markers who received anti-TNF therapy, reactivation occurred in 39% of 89 patients with HBsAg [5 had acute liver failure and 4 died], but only 5% of 168 with anti-HBc without HBsAg [1 died]; lamivudine prophylaxis decreased, but did not eliminate reactivation [62% vs 23% in HBsAg carriers]).</italic></p></annotation><pub-id pub-id-type="pmid">22033451</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R142">
+            <mixed-citation publication-type="journal">Brunasso AM, Puntoni M, Gulia A, Massone C. Safety of anti-tumour necrosis factor agents in patients with chronic hepatitis C infection: a systematic review. Rheumatology (Oxford) 2011; 50: 1700-11. <annotation><p><italic toggle="yes">(Systematic review of literature identified 153 patients with chronic hepatitis C treated with anti-TNF agents, mostly etanercept, with only 1 with definite worsening of disease on treatment).</italic></p></annotation><pub-id pub-id-type="pmid">21690185</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R143">
+            <mixed-citation publication-type="journal">Doyle A, Forbes G, Kontorinis N. Autoimmune hepatitis during infliximab therapy for Crohn's disease: a case report. J Crohns Colitis 2011; 5: 253-5. <annotation><p><italic toggle="yes">(60 year old man with Crohn disease who did not improve on prednisone and azathioprine therapy developed rising levels of ALT 14 weeks after starting infliximab [bilirubin not given, ALT 1307 U/L, Alk P 272 U/L], which resolved on stopping infliximab and starting prednisone).</italic></p></annotation><pub-id pub-id-type="pmid">21575891</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R144">
+            <mixed-citation publication-type="journal">Goldfeld DA, Verna EC, Lefkowitch J, Swaminath A. Infliximab-induced autoimmune hepatitis with successful switch to adalimumab in a patient with Crohn's disease: the index case. Dig Dis Sci 2011; 56: 3386-8. <annotation><p><italic toggle="yes">(58 year old woman with Crohn disease developed ALT elevations [6 times ULN] 6 months after starting infliximab [peak ALT 210 U/L, ANA 1:2560], resolving within 4 months of stopping and later tolerating adalimumab without recurrence).</italic></p></annotation><pub-id pub-id-type="pmid">21597977</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R145">
+            <mixed-citation publication-type="journal">Manzano-Alonso ML, Castellano-Tortajada G. Reactivation of hepatitis B virus infection after cytotoxic chemotherapy or immunosuppressive therapy. World J Gastroenterol 2011; 17: 1531-7. <annotation><p><italic toggle="yes">(Review of reactivation of hepatitis B with chemotherapy or immune suppression discusses 11 cases attributed to infliximab and 7 to etanercept).</italic></p></annotation><pub-id pub-id-type="pmid">21472116</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R146">
+            <mixed-citation publication-type="journal">Aithal GP. Hepatotoxicity related to antirheumatic drugs. Nat Rev Rheumatol 2011; 7: 139-50. <annotation><p><italic toggle="yes">(Review of liver injury due to antirheumatic drugs discusses ALT elevations caused by anti-TNF agents and autoimmune hepatitis due to infliximab).</italic></p></annotation><pub-id pub-id-type="pmid">21263458</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R147">
+            <mixed-citation publication-type="journal">Doubrawa E, Ricca RA, Malucelli TO, Pizzol VI, Barros DH, Paiva ES. Use of infliximab in a patient with rheumatoid arthritis and chronic hepatitis B. Rev Bras Reumatol 2012; 52: 653-5. <annotation><p><italic toggle="yes">(56 year old man with rheumatoid arthritis and HBsAg was treated with infliximab for 15 months while receiving tenofovir and lamivudine for hepatitis B and had no evidence of reactivation).</italic></p></annotation><pub-id pub-id-type="pmid">22885430</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R148">
+            <mixed-citation publication-type="journal">Abramson A, Menter A, Perrillo R. Psoriasis, hepatitis B, and the tumor necrosis factor-alpha inhibitory agents: a review and recommendations for management. J Am Acad Dermatol 2012; 67: 1349-61. <annotation><p><italic toggle="yes">(Systematic review of the literature on risk of reactivation of hepatitis B in patients with psoriasis on anti-TNF therapy found considerable risk in patients with HBsAg who do not receive antiviral prophylaxis, but no reported cases of reactivation among patients with anti-HBc without HBsAg).</italic></p></annotation><pub-id pub-id-type="pmid">22727462</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R149">
+            <mixed-citation publication-type="journal">Titos Arcos JC, Hallal H, Robles M, Andrade RJ. Recurrent hepatotoxicity associated with etanercept and adalimumab but not with infliximab in a patient with rheumatoid arthritis. Rev Esp Enferm Dig 2012; 104: 282-4. <annotation><p><italic toggle="yes">(47 year old woman with rheumatoid arthritis was found to have abnormal liver tests 2 years after starting etanercept [ALT 13 times ULN, ANA positive], resolving within 80 days of stopping and recurring 2 months after starting adalimumab [ALT 4 times ULN], but not after switching to infliximab).</italic></p></annotation><pub-id pub-id-type="pmid">22662786</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R150">
+            <mixed-citation publication-type="journal">Iwamoto M, Minota S. Successful treatment with very low-dose etanercept in a patient with etanercept-induced liver dysfunction. Rheumatol Int 2011; 31: 20349067<annotation><p><italic toggle="yes">(37 year old woman with rheumatoid arthritis developed ALT elevations without symptoms 12 weeks after starting etanercept which continued to rise to week 20 [ALT 170 U/L], but later tolerated etanercept at a reduced dose with enzyme elevations).</italic></p></annotation><pub-id pub-id-type="pmid">20349067</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R151">
+            <mixed-citation publication-type="journal">Naveau S, Chollet-Martin S, Dharancy S, Mathurin P, Jouet P, Piquet MA, Davion T, et al; Foie-Alcool group of the Association Fran&#x000e7;aise pour l'Etude du Foie. A double-blind randomized controlled trial of infliximab associated with prednisolone in acute alcoholic hepatitis. Hepatology 2004; 39: 1390-7. <annotation><p><italic toggle="yes">(A prospective randomized controlled trial of infliximab in 36 patients with severe acute alcoholic hepatitis was stopped early because of excess mortality in the infliximab [39%] vs placebo [18%] treated patients, probably due to increased risk of infections).</italic></p></annotation><pub-id pub-id-type="pmid">15122768</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R152">
+            <mixed-citation publication-type="journal">Subramaniam K, Chitturi S, Brown M, Pavli P. Infliximab-induced autoimmune hepatitis in Crohn's disease treated with budesonide and mycophenolate. Inflamm Bowel Dis. 2011; 17: E149-50. <annotation><p><italic toggle="yes">(33 year old man with Crohn disease developed symptoms and liver test abnormalities 5 months after starting infliximab [bilirubin normal, ALT 1227 U/L, Alk P 132 U/L, ANA 1:1280], resolving only after treatment with budesonide and mycophenolate).</italic></p></annotation><pub-id pub-id-type="pmid">21987301</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R153">
+            <mixed-citation publication-type="journal">Vigan&#x000f2; M, Degasperi E, Aghemo A, Lampertico P, Colombo M. Anti-TNF drugs in patients with hepatitis B or C virus infection: safety and clinical management. Expert Opin Biol Ther 2012; 12: 193-207. <annotation><p><italic toggle="yes"> (Systematic review of effects of anti-TNF agents on hepatitis B and C, concluding that patients with hepatitis B should receive antiviral prophylaxis whereas those with hepatitis C need not).</italic></p></annotation><pub-id pub-id-type="pmid">22188392</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R154">
+            <mixed-citation publication-type="journal">Grasland A, Sterpu R, Boussoukaya S, Mahe I. Autoimmune hepatitis induced by adalimumab with successful switch to abatacept. Eur J Clin Pharmacol 2012; 68: 895-8. d <annotation><p><italic toggle="yes">(35 year old woman with rheumatoid arthritis developed liver enzyme elevations 2 months after swithcing from etanercept to adalimumab [bilirubin normal, ALT 266 U/L, Alk P normal, ANA 1:80, SMA 1:320], resolving after stopping and increasing dose of prednisone; later tolerating abatacept [anti-CTLA4]).</italic></p></annotation><pub-id pub-id-type="pmid">22205272</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R155">
+            <mixed-citation publication-type="journal">Di Minno MN, Iervolino S, Peluso R, Russolillo A, Lupoli R, Scarpa R, Di Minno G, et al; CaRRDS Study Group. Hepatic steatosis and disease activity in subjects with psoriatic arthritis receiving tumor necrosis factor-&#x003b1; blockers. J Rheumatol 2012; 39: 1042-6. <annotation><p><italic toggle="yes">(48 patients with psoriatic arthritis and hepatic steatosis by ultrasound were monitored prospectively during anti-TNF treament; steatosis increased in 47% of anti-TNF treated patients, but only 19% of controls).</italic></p></annotation><pub-id pub-id-type="pmid">22422493</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R156">
+            <mixed-citation publication-type="journal">Anelli MG, Scioscia C, Grattagliano I, Lapadula G. Old and new antirheumatic drugs and the risk of hepatotoxicity. Ther Drug Monit 2012; 34: 622-8. <annotation><p><italic toggle="yes">(Review of hepatotoxicity of antirheumatic agents).</italic></p></annotation><pub-id pub-id-type="pmid">23128910</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R157">
+            <mixed-citation publication-type="journal">Kinnunen U, F&#x000e4;rkkil&#x000e4; M, M&#x000e4;kisalo H. A case report: ulcerative colitis, treatment with an antibody against tumor necrosis factor (infliximab), and subsequent liver necrosis. J Crohns Colitis 2012; 6: 724-7. <annotation><p><italic toggle="yes">(46 year old woman with ulcerative colitis developed jaundice a month after the second infusion of infliximab [bilirubin 16.6 mg/dL, ALT 1826 U/L, Alk P 283 U/L, INR 3.6, ANA negative], with progressive liver failure and liver transplantation).</italic></p></annotation><pub-id pub-id-type="pmid">22398069</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R158">
+            <mixed-citation publication-type="journal">Park SH, Yang SK, Lim YS, Shim JH, Yang DH, Jung KW, et al. Clinical courses of chronic hepatitis B virus infection and inflammatory bowel disease in patients with both diseases. Inflamm Bowel Dis 2012; 18: 2004-10. <annotation><p><italic toggle="yes">(Among 4153 Korean pateints with inflammatory bowel disease, 134 [3.2%] had HBsAg but only 23 [17%] had abnormal liver tests, but mortality rate was higher in HBsAg-positive than -negative group [5.2% vs 0.4%], with 2 deaths from liver failure and 3 liver cancer).</italic></p></annotation><pub-id pub-id-type="pmid">22337144</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R159">
+            <mixed-citation publication-type="journal">Causs&#x000e9; S, Bouquin R, Wylomanski S, Flamant M, Joubert M, Dr&#x000e9;no B, Qu&#x000e9;reux G. [Infliximab-induced hepatitis during treatment of vulvar Crohn's disease]. Ann Dermatol Venereol 2013; 140: 46-51. French. <annotation><p><italic toggle="yes">(29 year old woman with Crohn disease developed ALT elevations 6 days after an initial infusion of infliximab, levels rising to 22 times ULN one month later and remaining elevated until treated with prednisone 2-3 months later).</italic></p></annotation><pub-id pub-id-type="pmid">23328360</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R160">
+            <mixed-citation publication-type="journal">Efe C. Drug induced autoimmune hepatitis and TNF-&#x003b1; blocking agents: is there a real relationship? Autoimmun Rev 2013; 12: 337-9. <annotation><p><italic toggle="yes">(Review of evidence that anti-TNF agents induced autoimmune hepatitis commenting on the rarity of clinically apparent liver injury and the underlying autoimmune diathesis of most treated patients).</italic></p></annotation><pub-id pub-id-type="pmid">22841985</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R161">
+            <mixed-citation publication-type="journal">Arai O, Omoto K, Notohara K, Shibata N, Kuboki M, Ikeda H. A case of infliximab-related liver damage -case report and literature review-. Nihon Shokakibyo Gakkai Zasshi 2013; 110: 104-11. <annotation><p><italic toggle="yes">(Abstract; 50 year old woman with Behcet disease developed liver injury after the fourth infusion of infliximab, which did not improve despite stopping infliximab, later responding to corticosteroids).</italic></p></annotation><pub-id pub-id-type="pmid">23303236</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R162">
+            <mixed-citation publication-type="journal">Lin MV, Blonski W, Buchner AM, Reddy KR, Lichtenstein GR. The influence of anti-TNF therapy on the course of chronic hepatitis C virus infection in patients with inflammatory bowel disease. Dig Dis Sci 2013; 58: 1149-56. <annotation><p><italic toggle="yes">(Among 4274 patients with inflammatory bowel disease and 3523 with hepatitis C seen in a single health care system, 37 had both, 5 of whom received anti-TNF, none of whom developed flares of hepatitis C during therapy).</italic></p></annotation><pub-id pub-id-type="pmid">23179145</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R163">
+            <mixed-citation publication-type="journal">Weiler-Normann C, Schramm C, Quaas A, Wiegard C, Glaubke C, Pannicke N, M&#x000f6;ller S, et al. Infliximab as a rescue treatment in difficult-to-treat autoimmune hepatitis. J Hepatol 2013; 58: 529-34. <annotation><p><italic toggle="yes">(11 patients with autoimmune hepatitis that was poorly controlled with conventional medications were treated with infusions of infliximab, with improvements in all and sustained response even after stopping in some; infectious complications were common).</italic></p></annotation><pub-id pub-id-type="pmid">23178709</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R164">
+            <mixed-citation publication-type="journal">Navarro R, Vilarrasa E, Herranz P, Puig L, Bordas X, Carrascosa JM, Taberner R, et al. Safety and effectiveness of ustekinumab and antitumour necrosis factor therapy in patients with psoriasis and chronic viral hepatitis B or C: a retrospective, multicentre study in a clinical setting. Br J Dermatol 2013; 168: 609-16. <annotation><p><italic toggle="yes">(Among patients with psoriasis and hepatitis B [n=5] or C [n=20], none had significant worsening of disease during courses of ustekinumab [4] or anti-TNF therapy; all patients with hepatitis B received antiviral prophylaxis).</italic></p></annotation><pub-id pub-id-type="pmid">22985451</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R165">
+            <mixed-citation publication-type="journal">Kuwabara H, Fukuda A, Tsuda Y, Shibayama Y. Precore mutant hepatitis B virus-associated fulminant hepatitis during infliximab therapy for rheumatoid arthritis. Clin Rheumatol 2013; 32 Suppl 1: S47-9. <annotation><p><italic toggle="yes">(73 year old woman with rheumatoid arthritis and HBsAg positivity [HBeAg negative, normal ALT] developed fatal reactivation of hepatitis B after a year of infliximab [bilirubin 15.7 mg/dL, ALT 544 U.L, GGT 130 U/L, HBV DNA and IgM anti-HBc positive], progressing to hepatic failure and death 18 days later).</italic></p></annotation><pub-id pub-id-type="pmid">20379839</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R166">
+            <mixed-citation publication-type="journal">Ghabril M, Bonkovsky HL, Kum C, Davern T, Hayashi PH, Kleiner DE, Serrano J, et al; U.S. Drug-Induced Liver Injury Network. Liver injury from tumor necrosis factor-&#x003b1; antagonists: analysis of thirty-four cases. Clin Gastroenterol Hepatol 2013; 11: 558-64. <annotation><p><italic toggle="yes">(Description of 6 cases of liver injury attributed to anti-TNF agents [3 infliximab, 2 etanercept, 1 adalimumab] in 5 women and 1 man, mean age 32 years with time to onset of 2 to 52 weeks; 3 were ANA positive and 5 were treated with prednisone; all resolved; review of 28 cases described in the literature, most due to infliximab [26], one resulting in liver transplant).</italic></p></annotation><pub-id pub-id-type="pmid">23333219</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R167">
+            <mixed-citation publication-type="journal">Bj&#x000f6;rnsson ES, Bergmann OM, Bj&#x000f6;rnsson HK, Kvaran RB, Olafsson S. Incidence, presentation and outcomes in patients with drug-induced liver injury in the general population of Iceland. Gastroenterology 2013; 144: 1419-25. <annotation><p><italic toggle="yes">(In a population based study of drug induced liver injury from Iceland, 96 cases were identified over a 2 year period, including 4 [1 with jaundice] attributed to infliximab [ranking 3rd], for an estimated incidence of 1 per 148 persons exposed).</italic></p></annotation><pub-id pub-id-type="pmid">23419359</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R168">
+            <mixed-citation publication-type="journal">Pompili M, Biolato M, Miele L, Grieco A. Tumor necrosis factor-&#x003b1; inhibitors and chronic hepatitis C: a comprehensive literature review. World J Gastroenterol 2013; 19: 7867-73. <annotation><p><italic toggle="yes">(Systematic review of the literature on the safety of TNF antagonists in patients with chronic HCV infection identified reports on a total of 216 patients, and only rare instances of worsening of liver disease during therapy).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R169">
+            <mixed-citation publication-type="journal">Kim E, Bressler B, Schaeffer DF, Yoshida EM. Severe cholestasis due to adalimumab in a Crohn's disease patient. World J Hepatol 2013; 5: 592-5. <annotation><p><italic toggle="yes">(39 year old woman with Crohn disease developed jaundice and itching 7 months after adding adalimumab to azathioprine [bilirubin 9.8 mg/dL, ALT 15 U/L, Alk P 183 U/L, ANA negative], biopsy showing bland cholestasis and injury, resolving 10 weeks after stopping both drugs, but later tolerating azathioprine alone).</italic></p></annotation><pub-id pub-id-type="pmid">24179620</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R170">
+            <mixed-citation publication-type="journal">Zhang X, Zhang F, Wu D, Bao C, Zhu P, Zhang X, Huang C, et al. Safety of infliximab therapy in rheumatoid arthritis patients with previous exposure to hepatitis B virus. Int J Rheum Dis 2013; 16: 408-12. <annotation><p><italic toggle="yes">(Among 234 Chinese patients with rheumatoid arthritis treated with infliximab for 26 weeks, 41 had preexisting antibody to hepatitis B without HBsAg, of whom none developed biochemical or virologic evidence of reactivation during therapy).</italic></p></annotation><pub-id pub-id-type="pmid">23992260</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R171">
+            <mixed-citation publication-type="journal">Italian Group for the Study of Inflammatory Bowel Disease, Armuzzi A, Biancone L, Daperno M, Coli A, Pugliese D, Annese V, Aratari A, et al. Adalimumab in active ulcerative colitis: a "real-life" observational study. Dig Liver Dis 2013; 45: 738-43. <annotation><p><italic toggle="yes">(Retrospective analysis of the efficacy and safety of adalimumab in ulcerative colitis from 22 Italian centers identified 88 patients; side effects were reported in 12 patents, but none were due to liver injury).</italic></p></annotation><pub-id pub-id-type="pmid">23683530</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R172">
+            <mixed-citation publication-type="journal">Colina F, Molero A, Cas&#x000ed;s B, Mart&#x000ed;nez-Montiel P. Infliximab-related hepatitis: a case study and literature review. Dig Dis Sci 2013; 58: 3362-7. <annotation><p><italic toggle="yes">(52 year old woman with ulcerative colitis developed liver test abnormalities after the 4th infusion of infliximab [bilirbin 0.6 mg/dL, ALT 683 U/L, Alk P 218 U/L, ANA positive], which remained elevated when infliximab was stopped, but became normal with prednisone therapy; discusses 28 cases from 25 publications in the literature).</italic></p></annotation><pub-id pub-id-type="pmid">23645381</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R173">
+            <mixed-citation publication-type="journal">Carvalheiro J, Mendes S, Sofia C. Infliximab induced liver injury in Crohn's disease: A challenging diagnosis. J Crohns Colitis 2013 Nov 29. [Epub ahead of print] <annotation><p><italic toggle="yes">(24 year old man with Crohn disease developed serum enzyme elevations after a 2nd infusion of infliximab, which increased over the next 5 months [bilirubin not given, peak ALT 211 U/L, Alk P 388 U/L] and then fell back into the normal range 8 months after switching to adalamumab).</italic></p></annotation><pub-id pub-id-type="pmid">24291019</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R174">
+            <mixed-citation publication-type="journal">Dang LJ, Lubel JS, Gunatheesan S, Hosking P, Su J. Drug-induced lupus and autoimmune hepatitis secondary to infliximab for psoriasis. Australas J Dermatol 2014 55: 75-9. <annotation><p><italic toggle="yes">(47 year old woman with psoriasis had rise in ALT after fourth injection of infliximab [ALT 210 U/L, ANA 1:2560], responding to corticosteroids and later tolerating ustekinumab [anti-IL12 and -IL23]).</italic></p></annotation><pub-id pub-id-type="pmid">23651182</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R175">
+            <mixed-citation publication-type="journal">Rossi RE, Parisi I, Despott EJ, Burroughs AK, O'Beirne J, Conte D, Hamilton MI, Murray CD. Anti-tumour necrosis factor agent and liver injury: literature review, recommendations for management. World J Gastroenterol 2014; 20: 17352-9. <annotation><p><italic toggle="yes">(Review of the literature on liver injury during anti-TNF therapy stresses that most ALT elevations are mild-to-moderate and self-limiting even with continuation of therapy).</italic></p></annotation><pub-id pub-id-type="pmid">25516646</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R176">
+            <mixed-citation publication-type="journal">Olfa H, Aroua G, Wissem M, Wafa BM, Hichem L, Nabil BC, Fethia B, et al. [Fulminant acute hepatitis B after infliximab treatment in Crohn's disease]. Tunis Med 2014; 92: 349-50. French. <annotation><p><italic toggle="yes">(23 year old Tunisian man with Crohn disease developed fever and fatigue 5 weeks after the 7th infusion of infliximab [ALT 70 times ULN, bilirubin and Ak P not given, prothrombin index 30%, HBsAg and IgM anti-HBc positive], with progressive liver failure, coma and death within 10 days of presentation; testing before treatment indicated that he was negative for anti-HBc suggesting acute hepatitis B rather than HBV reactivation as the cause).</italic></p></annotation><pub-id pub-id-type="pmid">25504398</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R177">
+            <mixed-citation publication-type="journal">Yilmaz B, Roach EC, Koklu S. Infliximab leading to autoimmune hepatitis: an increasingly recognized side effect. Dig Dis Sci 2014; 59: 2602-3. <annotation><p><italic toggle="yes"> (39 year old woman with ankylosing spondylitis developed enzyme elevations after a fourth infusion of infliximab [ALT 500-600 U/L, bilirubin and Alk P not given], responding rapidly to prednisolone and azathioprine therapy; no mention of long term outcome).</italic></p></annotation><pub-id pub-id-type="pmid">25146841</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R178">
+            <mixed-citation publication-type="journal">Bonacini M, Ghabril M, Bonkovsky HL. Hepatotoxicity of anti-TNF agents. Dig Dis Sci 2014; 59: 1070-1. <annotation><p><italic toggle="yes">(Letter in response to Colina [2013] mentioning results from their 6 cases and literature review [Ghabril 2013]).</italic></p></annotation><pub-id pub-id-type="pmid">24652111</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R179">
+            <mixed-citation publication-type="journal">Carvalheiro J, Mendes S, Sofia C. Infliximab induced liver injury in Crohn's disease: a challenging diagnosis. J Crohns Colitis 2014; 8: 436-7. <annotation><p><italic toggle="yes">(24 year old man with Crohn disease developed liver enzyme elevations after a second infusion of infliximab [bilirubin not given, ALT 211 U/L, Alk P 388 U/L], biopsy showing chronic hepatitis and cholestasis, improving slowly after switching to adalimumab).</italic></p></annotation><pub-id pub-id-type="pmid">24291019</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R180">
+            <mixed-citation publication-type="journal">Hern&#x000e1;ndez N, Bessone F, S&#x000e1;nchez A, di Pace M, Brahm J, Zapata R, A Chirino R, et al. Profile of idiosyncratic drug induced liver injury in Latin America. An analysis of published reports. Ann Hepatol 2014; 13: 231-9. <annotation><p><italic toggle="yes">(Systematic review of literature of drug induced liver injury in Latin American countries published from 1996 to 2012 identified 176 cases, the most common implicated agents being nimesulide [n=53: 30%], cyproterone [n=18], nitrofurantoin [n=17], antituberculosis drugs [n=13] and flutamide [n=12: 7%]; but none were attributed to a TNF antagonist).</italic></p></annotation><pub-id pub-id-type="pmid">24552865</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R181">
+            <mixed-citation publication-type="journal">Shelton E, Chaudrey K, Sauk J, Khalili H, Masia R, Nguyen DD, Yajnik V, et al. New onset idiosyncratic liver enzyme elevations with biological therapy in inflammatory bowel disease. Aliment Pharmacol Ther 2015; 41: 972-9. <annotation><p><italic toggle="yes">(Among 1753 patients with inflammatory bowel disease receiving anti-TNF therapies between 2009 and 2013, 102 developed ALT elevations but half could be attributed to another cause and the 48 attributed to infliximab [45 of 1170: 3%] or adalumumab [3 of 575: 0.5%], 34 patients [71%] recovering despite continuation of therapy, 4 stopping therapy and 10 switching to an alternative agent without suffering recurrence).</italic></p></annotation><pub-id pub-id-type="pmid">25756190</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R182">
+            <mixed-citation publication-type="journal">Bauer H, Luxembourger C, Gottenberg JE, Fournier S, Abravanel F, Cantagrel A, Chatelus E, et al.; Club Rhumatismes et Inflammation, a section of the French Society of Rheumatology. Outcome of hepatitis E virus infection in patients with inflammatory arthritides treated with immunosuppressants: a French retrospective multicenter study. Medicine (Baltimore) 2015; 94: e675. <annotation><p><italic toggle="yes">(Survey of French physicians treating patients with rheumatic diseases identified 23 patients who developed acute hepatitis E while being treated with immunosuppressive regimens [10 on anti-TNF, 4 rituximab, 2 abatacept, 2 tocilizumab and 16 receiving methotrexate, 4 leflunomide and 1 cyclosporine]; all recovered and cleared HEV RNA, some after reduction in immunosuppression and 5 with ribavirin therapy).</italic></p></annotation><pub-id pub-id-type="pmid">25860212</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R183">
+            <mixed-citation publication-type="journal">Di Bisceglie AM, Lok AS, Martin P, Terrault N, Perrillo RP, Hoofnagle JH. Recent US Food and Drug Administration warnings on hepatitis B reactivation with immune-suppressing and anticancer drugs: just the tip of the iceberg? Hepatology 2015; 61: 703-11. <annotation><p><italic toggle="yes">(Review of the pathogenesis, clinical course, treatment and prevention of HBV reactivation in patients receiving immunosuppressive or anticancer therapies, with particular focus on rituximab and ofatumumab).</italic></p></annotation><pub-id pub-id-type="pmid">25412906</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R184">
+            <mixed-citation publication-type="journal">Capkin E, Karkucak M, Cosar AM, Ak E, Karaca A, Gokmen F, Budak BS, Tosun M. Treatment of ankylosing spondylitis with TNF inhibitors does not have adverse effect on results of liver function tests: a longitudinal study. Int J Rheum Dis 2015; 18: 548-52. <annotation><p><italic toggle="yes"> (Among 94 patients with ankylosing spondylitis treated with infliximab [n=28], adalimumab [n=32] or etanercept [n=34], there was no change in mean ALT levels after 3 and 6 months of therapy).</italic></p></annotation><pub-id pub-id-type="pmid">24612551</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R185">
+            <mixed-citation publication-type="journal">Petr&#x000ed;kov&#x000e1; J, Jar&#x0010d;u&#x00161;ka P, Svajdler M, Pella D, Macejov&#x000e1; Z. Autoimmune hepatitis triggered by adalimumab and allergic reactions after various anti-TNF&#x003b1; therapy agents in a patient with rheumatoid arthritis. Isr Med Assoc J 2015; 17: 256-8. <annotation><p><italic toggle="yes"> (33 year old woman with rheumatoid arthritis developed fatigue after 3 doses of adalimumab [bilirubin not given, ALT 888 U/L, Alk P 348 U/L, ANA positive], biopsy showing interface hepatitis, resolving with prednisolone; later having allergic reactions to etanercept and certolizumab, but responding to anakinra).</italic></p></annotation><pub-id pub-id-type="pmid">26040057</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R186">
+            <mixed-citation publication-type="journal">Shelton E, Chaudrey K, Sauk J, Khalili H, Masia R, Nguyen DD, Yajnik V, Ananthakrishnan AN. New onset idiosyncratic liver enzyme elevations with biological therapy in inflammatory bowel disease. Aliment Pharmacol Ther 2015; 41: 972-9. <annotation><p><italic toggle="yes"> (Among 1753 patients with inflammatory bowel disease treated with anti-TNF agents, 102 [6%] developed ALT elevations, but half could be attributed to other causes; among 48 with suspected anti-TNF injury [45 infliximab, 3 adalimumab], 34 resolved spontaneously and were able to continue therapy, 10 switched to another agent without recurrence, 4 were treated with corticosteroids).</italic></p></annotation><pub-id pub-id-type="pmid">25756190</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R187">
+            <mixed-citation publication-type="journal">Cetkovska P, Lomicova I, Mukensnabl P, Kroes AC. Anti-tumour necrosis factor treatment of severe psoriasis complicated by Epstein-Barr Virus hepatitis and subsequently by chronic hepatitis. Dermatol Ther 2015; 28: 369-72. <annotation><p><italic toggle="yes">(38 year old woman with ulcerative colitis developed liver injury after 5th dose of infliximab [bilirubin 20.6 mg/dL, ALT 600 U/L, Alk P 180 U/L, ANA positive, EBV viremia], resolving with galganciclovir therapy, later tolerating adalimumab).</italic></p></annotation><pub-id pub-id-type="pmid">26278774</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R188">
+            <mixed-citation publication-type="journal">Rodrigues S, Lopes S, Magro F, Cardoso H, Horta e Vale AM, Marques M, Mariz E, et al. Autoimmune hepatitis and anti-tumor necrosis factor alpha therapy: A single center report of 8 cases. World J Gastroenterol 2015; 21: 7584-8. <annotation><p><italic toggle="yes"> (Among more than 600 patients treated with anti-TNF agents over a 7 year period, 8 developed autoimmune hepatitis [7 on infliximab, 1 adalimumab]; 3 men, 5 women, most with ANA, 2 symptomatic, no mention of jaundice; all responding to corticosteroids, 2 requiring long term therapy).</italic></p></annotation><pub-id pub-id-type="pmid">26140007</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R189">
+            <mixed-citation publication-type="journal">Parra RS, Feitosa MR, Machado VF, Ramalho LN, da Rocha JJ, Feres O. Infliximab-associated fulminant hepatic failure in ulcerative colitis: a case report. J Med Case Rep 2015; 9: 249. <annotation><p><italic toggle="yes">(38 year old with ulcerative colitis developed liver injury after 5 doses of infliximab [ALT 408 U/L] with progression to liver failure requiring liver transplantatoin [bilirubin 23.4 mg/dL, ALT 2177 U/L, Alk P not given, INR 4.1], no mention of ANA or corticosteroid therapy).</italic></p></annotation><pub-id pub-id-type="pmid">26518665</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R190">
+            <mixed-citation publication-type="journal">Bj&#x000f6;rnsson ES, Gunnarsson BI, Gr&#x000f6;ndal G, Jonasson JG, Einarsdottir R, Ludviksson BR, Gudbj&#x000f6;rnsson B, Olafsson S. Risk of drug-induced liver injury from tumor necrosis factor antagonists. Clin Gastroenterol Hepatol 2015; 13: 602-8. <annotation><p><italic toggle="yes"> (Among 11 cases of liver injury from anti-TNF agents identified over a 5 year period in Iceland, 9 were due to infliximab [among 1076 patients treated=1:120], 1 adalimumab [270 treated] and 1 etanercept [430 treated]; 8 women, 3 men; latency 1 to 6 months; 5 were jaundiced [peak bilirubin 0.6-7.6 mg/dL, ALT 169-1658 U/L, Alk P 71-916 U/L], 8 hepatocellular, 2 cholestatic and 1 mixed injury; 8 had ANA, 5 were treated with corticosteroids [only 1 long term], 8 were switched to another anti-TNF agent without recurrence).</italic></p></annotation><pub-id pub-id-type="pmid">25131534</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R191">
+            <mixed-citation publication-type="journal">Chalasani N, Bonkovsky HL, Fontana R, Lee W, Stolz A, Talwalkar J, Reddy KR, et al.; United States Drug Induced Liver Injury Network. Features and outcomes of 899 patients with drug-induced liver injury: The DILIN Prospective Study. Gastroenterology 2015; 148: 1340-52. <annotation><p><italic toggle="yes">(Among 899 cases of drug induced liver injury enrolled in a US prospective study between 2004 and 2013, 6 cases [0.7%] were attributed to a tumor necrosis factor antagonist, including 3 to infliximab, 2 etanercept and 1 adalimumab, but none to certolizumab or golimumab).</italic></p></annotation><pub-id pub-id-type="pmid">25754159</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R192">
+            <mixed-citation publication-type="journal">Cheng FK, Bridges EE, Betteridge JD. Drug-induced liver injury from initial dose of infliximab. Mil Med 2015; 180: e723-4. <annotation><p><italic toggle="yes">(27 year old man with ulcerative colitis developed ALT elevations within days of first infusion of infliximab [ALT 213 U/L, bilirubin and Alk P not given], with rapid resolution and recurrence within days of a second infusion [ALT 474 U/L]).</italic></p></annotation><pub-id pub-id-type="pmid">26032391</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R193">
+            <mixed-citation publication-type="journal">Mostamand S, Schroeder S, Schenkein J, Miloh T. Infliximab associated immunomediated hepatitis in children with iInflammatory bowel disease. J Pediatr Gastroenterol Nutr 2016 Jan 29. [Epub ahead of print] <annotation><p><italic toggle="yes">(2 children, boy age 12 and girl age 15 with ulcerative colitis developed liver test abnormalities 4 to 5 months after starting infliximab [bilirubin 0.5 and not given, ALT 234 and 260 U/L, GGT not given and 117 U/L, both ANA negative], liver biopsies showing inflammation and necrosis, resolving within 1 to 3 months of stopping infliximab).</italic></p></annotation><pub-id pub-id-type="pmid">26835903</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R194">
+            <mixed-citation publication-type="journal">Chiu YM, Tang CH, Hung ST, Yang YW, Fang CH, Lin HY. A real-world risk analysis of biological treatment (adalimumab and etanercept) in a country with a high prevalence of tuberculosis and chronic liver disease: a nationwide population-based study. Scand J Rheumatol 2016: 1-5. [Epub ahead of print] <annotation><p><italic toggle="yes">(Nationwide population-based data on use of adalimumab [n=4049] and etanercept [n=5117] between 2007 and 2011, identified higher rates of serious hepatic events for adalimumab vs etanercept [0.75 vs 0.39 per 100 person years] as well as higher rates of tuberculosis [1.62 vs 0.57 per 100 person-years]).</italic></p></annotation><pub-id pub-id-type="pmid">27766916</pub-id></mixed-citation>
+          </ref>
+          <ref id="Infliximab.R195">
+            <mixed-citation publication-type="journal">Parisi I, O'Beirne J, Rossi RE, Tsochatzis E, Manousou P, Theocharidou E, et al. Elevated liver enzymes in inflammatory bowel disease: the role and safety of infliximab. Eur J Gastroenterol Hepatol 2016; 28: 786-91. <annotation><p><italic toggle="yes">(In a retrospective analysis of liver test abnormalities in 305 patients with inflammatory bowel disease followed between 2008 and 2013, ALT elevations arose in 36% of patients, only slightly more commonly in those on infliximab [n=176: 39%] than on other agents [n=129: 33%], most elevations being mild and resolving spontaneously).</italic></p></annotation><pub-id pub-id-type="pmid">27015138</pub-id></mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec id="Infliximab.OTHER_REFERENCE_LINKS" sec-type="link-group">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=(Infliximab/AE)+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D%3A%222999/12/31%22%5BEDat%5D)">Recent References on Infliximab: from PubMed.gov</ext-link>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Infliximab">Trials on Infliximab: from ClinicalTrials.gov</ext-link>
+            </p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

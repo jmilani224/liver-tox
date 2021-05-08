@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Enzalutamide" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Enzalutamide</book-part-id>
+      <title-group>
+        <title>Enzalutamide</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>5</day>
+          <month>7</month>
+          <year>2017</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Entecavir" document-type="chapter">Entecavir</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="EnzymeReplacementThe" document-type="chapter">Enzyme Replacement Therapy</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Enzalutamide.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Enzalutamide.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Enzalutamide is a nonsteroidal antiandrogen used to treat metastatic castration-resistant prostate cancer. Enzalutamide is associated with a low rate of serum enzyme elevation during therapy, but has not been linked to cases of clinically apparent liver injury with jaundice.</p>
+        </sec>
+        <sec id="Enzalutamide.Background">
+          <title>Background</title>
+          <p>Enzalutamide (en" za loo' ta mide) is an androgen receptor antagonist which binds to the intracellular receptor and prevents its translocation to the nucleus and subsequent DNA binding thereby blocking its activity. Therapy with enzalutamide has been shown to prolong relapse free as well as overall survival in men with metastatic, castration-resistant prostate cancer who had previously failed other forms of treatment. Enzalutamide was approved for use in the United States in 2012. Enzalutamide is available as capsules of 40 mg under the brand name Xtandi, and the typical dose is 160 mg by mouth once daily. Common side effects include fatigue, diarrhea, anorexia, weight loss, constipation, joint and muscle pain, hot flushes, headaches, dizziness, and edema. Rare, but potentially serious side effects include seizures and posterior reversible encephalopathy.</p>
+        </sec>
+        <sec id="Enzalutamide.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>In preregistration controlled trials, serum aminotransferase elevations occurred in up to 10% patients treated with enzalutamide, but similar somewhat high rates occurred in patients receiving placebo (~9%). The liver test abnormalities were generally mild, transient and not associated with symptoms or jaundice. ALT elevations above 5 times the ULN were rare (0.2%) and also no more frequent than with placebo therapy. In addition, clinically apparent liver injury with jaundice was not reported in the preregistration trials of enzalutamide, and clinically apparent liver injury and hepatitis are not mentioned in the product label. Since the approval and more wide scale use of enzalutamide, there have been no publications or descriptions of the clinical features of hepatotoxicity with jaundice associated with its use. Thus, clinically apparent liver injury due to enzalutamide must be rare, if it occurs at all.</p>
+          <p>Likelihood score: E (unlikely cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Enzalutamide.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The cause of the liver enzyme elevations that occur during enzalutamide therapy is unknown. Enzalutamide is extensively metabolized in the liver predominantly by CYP 3A4 and 2D6 and is a strong inducer of CYP 3A4 and a moderate inducer of 2D6. Enzalutamide is susceptible to drug-drug interactions with inhibitors, inducers or substrates of these microsomal enzymes.</p>
+        </sec>
+        <sec id="Enzalutamide.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>The liver injury linked to enzalutamide therapy has been generally mild, consisting of transient and asymptomatic elevations in serum aminotransferase levels. Enzalutamide has not been linked to cases of acute liver failure, chronic hepatitis or vanishing bile duct syndrome. There is no information on cross sensitivity to hepatic injury between enzalutamide and other antiandrogens, such as flutamide, bicalutamide, or abiraterone.</p>
+          <p>Drug Class: <related-object source-id="livertox" document-id="AntineoplasticAgents">Antineoplastic Agents</related-object>, <related-object source-id="livertox" document-id="Anti-androgens">Antiandrogens</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Enzalutamide.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <boxed-text position="anchor" id="Enzalutamide.BPI" orientation="portrait">
+          <p>
+            <bold>REPRESENTATIVE TRADE NAMES</bold>
+          </p>
+          <p>Enzalutamide &#x02013; Xtandi&#x000ae;</p>
+          <p>
+            <bold>DRUG CLASS</bold>
+          </p>
+          <p>Antineoplastic Agents</p>
+          <p>
+            <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Enzalutamide">COMPLETE LABELING</ext-link>
+          </p>
+          <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+        </boxed-text>
+      </sec>
+      <sec id="Enzalutamide.CHEMICAL_FORMULA_AND_STRUCT">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Enzalutamide.T1" position="anchor" orientation="portrait">
+          <table>
+            <thead>
+              <tr>
+                <th id="hd_h_Enzalutamide.T1_1_1_1_1" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Enzalutamide.T1_1_1_1_2" rowspan="1" colspan="1">CAS REGISTRY NUMBER</th>
+                <th id="hd_h_Enzalutamide.T1_1_1_1_3" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Enzalutamide.T1_1_1_1_4" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Enzalutamide.T1_1_1_1_1" rowspan="1" colspan="1">Enzalutamide</td>
+                <td headers="hd_h_Enzalutamide.T1_1_1_1_2" rowspan="1" colspan="1">
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135261179">915087-33-1</ext-link>
+                </td>
+                <td headers="hd_h_Enzalutamide.T1_1_1_1_3" rowspan="1" colspan="1">C21-H16-F4-N4-O2</td>
+                <td headers="hd_h_Enzalutamide.T1_1_1_1_4" rowspan="1" colspan="1">
+                  <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Enzalutamide_Structure.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait">
+                    <alt-text>Enzalutamide Chemical Structure</alt-text>
+                  </graphic>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Enzalutamide.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 05 July 2017</p>
+        <ref-list id="Enzalutamide.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Enzalutamide.R1">
+            <mixed-citation publication-type="other">Zimmerman HJ. Hepatotoxic effects of oncotherapeutic and immunosuppressive agents. In, Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999, pp. 673-708.<annotation><p><italic toggle="yes"> (Expert review of hepatotoxicity of cancer chemotherapeutic agents published in 1999 before the availability of enzalutamide).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Enzalutamide.R2">
+            <mixed-citation publication-type="other">DeLeve LD. Cancer chemotherapy. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam, Elsevier, 2013, p. 541-68.<annotation><p><italic toggle="yes"> (Review of hepatotoxicity of cancer chemotherapeutic agents; enzalutamide is not discussed).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Enzalutamide.R3">
+            <mixed-citation publication-type="other">Moy B, Lee RJ, Smith M. Hormone therapy in prostate cancer. Natural products in cancer chemotherapy: hormones and related agents. In, Brunton LL, Chabner BA, Knollman BC, eds. Goodman &#x00026; Gilman's the pharmacological basis of therapeutics. 12th ed. New York: McGraw-Hill, 2011, pp. 1763-9.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics discusses the androgen receptor antagonists flutamide, bicalutamide and nilutamide, but not enzalutamide).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Enzalutamide.R4">
+            <mixed-citation publication-type="journal">Tran C, Ouk S, Clegg NJ, Chen Y, Watson PA, Arora V, Wongvipat J, et al. Development of a second-generation antiandrogen for treatment of advanced prostate cancer. Science 2009; 324: 787-90. <annotation><p><italic toggle="yes">(Description of development of unique antiandrogen molecules that block the translocation of the androgen receptor to the nucleus and the transcriptional activity of the receptor).</italic></p></annotation><pub-id pub-id-type="pmid">19359544</pub-id></mixed-citation>
+          </ref>
+          <ref id="Enzalutamide.R5">
+            <mixed-citation publication-type="journal">Scher HI, Fizazi K, Saad F, Taplin ME, Sternberg CN, Miller K, de Wit R, et al.; AFFIRM Investigators. Increased survival with enzalutamide in prostate cancer after chemotherapy. N Engl J Med 2012; 367: 1187-97. <annotation><p><italic toggle="yes">(Among 1199 adult men with castration-resistant prostate cancer treated with enzalutamide [160 mg daily] or placebo, mean survival was improved from 13.6 to 17.3 months and side effects included abnormal ALT, AST or bilirubin in 1% on enzalutamide vs 2% on placebo).</italic></p></annotation><pub-id pub-id-type="pmid">22894553</pub-id></mixed-citation>
+          </ref>
+          <ref id="Enzalutamide.R6">
+            <mixed-citation publication-type="journal">Enzalutamide (Xtandi) for prostate cancer. Med Lett Drugs Ther 2013; 55 (1411): e20. <annotation><p><italic toggle="yes">(Concise summary of the mechanism of action, clinical efficacy, safety and costs of enzalutamide shortly after its approval in the US; does not mention ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">23467121</pub-id></mixed-citation>
+          </ref>
+          <ref id="Enzalutamide.R7">
+            <mixed-citation publication-type="journal">Tombal B, Borre M, Rathenborg P, Werbrouck P, Van Poppel H, Heidenreich A, Iversen P, et al. Enzalutamide monotherapy in hormone-naive prostate cancer: primary analysis of an open-label, single-arm, phase 2 study. Lancet Oncol 2014; 15: 592-600. <annotation><p><italic toggle="yes">(Among 67 men with hormone treatment naive prostate cancer treated with enzalutamide [160 mg daily] for 25 weeks, prostate specific antigen levels decreased by more than 80% in 62 patients [93%], and side effects included gynecomastia, fatigue, hot flush, diarrhea, and nausea, while &#x0201c;no hepatic adverse events were reported for any patient&#x0201d;).</italic></p></annotation><pub-id pub-id-type="pmid">24739897</pub-id></mixed-citation>
+          </ref>
+          <ref id="Enzalutamide.R8">
+            <mixed-citation publication-type="journal">Bennett LL, Ingason A. Enzalutamide (Xtandi) for patients with metastatic, resistant prostate cancer. Ann Pharmacother 2014; 48: 530-7. <annotation><p><italic toggle="yes">(Review of the pharmacology, clinical efficacy and safety of enzalutamide; mentions that it is "generally well tolerated" and does not mention ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">24458946</pub-id></mixed-citation>
+          </ref>
+          <ref id="Enzalutamide.R9">
+            <mixed-citation publication-type="journal">Beer TM, Armstrong AJ, Rathkopf DE, Loriot Y, Sternberg CN, Higano CS, Iversen P, et al.; PREVAIL Investigators. Enzalutamide in metastatic prostate cancer before chemotherapy. N Engl J Med 2014; 371: 424-33. <annotation><p><italic toggle="yes">(Among 1717 men with metastatic prostate cancer treated with enzalutamide or placebo, overall and progression free survival were improved with enzalutamide and its side effects included fatigue, back pain, constipation, arthralgia, hot flushes, diarrhea and poor appetite; ALT elevations occurred in 1% of patients in both groups and were rarely above 5 times ULN).</italic></p></annotation><pub-id pub-id-type="pmid">24881730</pub-id></mixed-citation>
+          </ref>
+          <ref id="Enzalutamide.R10">
+            <mixed-citation publication-type="journal">Chalasani N, Bonkovsky HL, Fontana R, Lee W, Stolz A, Talwalkar J, Reddy KR, et al.; United States Drug Induced Liver Injury Network. Features and outcomes of 899 patients with drug-induced liver injury: The DILIN Prospective Study. Gastroenterology 2015; 148: 1340-52.e7. <annotation><p><italic toggle="yes">(Among 899 cases of drug induced liver injury enrolled in a US prospective study between 2004 and 2013, 49 [5.5%] were attributed to antineoplastic agents of which only 1 was due to an antiandrogen [bicalutamide]).</italic></p></annotation><pub-id pub-id-type="pmid">25754159</pub-id></mixed-citation>
+          </ref>
+          <ref id="Enzalutamide.R11">
+            <mixed-citation publication-type="journal">Joshua AM, Shore ND, Saad F, Chi KN, Olsson CA, Emmenegger U, Scholz M, et al.; Enzalutamide Expanded Access Study Investigators. Safety of enzalutamide in patients with metastatic castration-resistant prostate cancer previously treated with docetaxel: expanded access in North America. Prostate 2015; 75: 836-44. <annotation><p><italic toggle="yes">(Among 507 patients with metastatic, castration-resistant prostate cancer receiving enzalutamide in an open access program until commercial availability [mean duration 2.6 months], there was "no clinical laboratory evidence of drug-related hepatotoxicity").</italic></p></annotation><pub-id pub-id-type="pmid">25683285</pub-id></mixed-citation>
+          </ref>
+          <ref id="Enzalutamide.R12">
+            <mixed-citation publication-type="journal">Tombal B, Borre M, Rathenborg P, Werbrouck P, Van Poppel H, Heidenreich A, Iversen P, et al. Long-term efficacy and safety of enzalutamide monotherapy in hormone-na&#x000ef;ve prostate cancer: 1- and 2-year open-label follow-up results. Eur Urol 2015; 68: 787-94. <annotation><p><italic toggle="yes">(Among 67 patients with hormone na&#x000ef;ve prostate cancer treated with enzalutamide for 25 weeks [Tombal 2014], 45 remained on therapy for 2 years with sustained decreases in prostate specific antigen levels; no hepatic adverse events were mentioned).</italic></p></annotation><pub-id pub-id-type="pmid">25687533</pub-id></mixed-citation>
+          </ref>
+          <ref id="Enzalutamide.R13">
+            <mixed-citation publication-type="journal">Ning YM, Brave M, Maher VE, Zhang L, Tang S, Sridhara R, Kim G, et al. U.S. Food and Drug Administration Approval Summary: enzalutamide for the treatment of patients with chemotherapy-na&#x000ef;ve metastatic castration-resistant prostate cancer. Oncologist 2015; 20: 960-6. <annotation><p><italic toggle="yes">(Summary of the clinical efficacy and safety analysis of trials of enzalutamide therapy of advanced prostate cancer that led to its approval by the FDA; mentions side effects of fatigue, back pain, diarrhea, hot flush, edema, muscle pain and weakness, headache, diarrhea and insomnia, but does not mention ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">26070917</pub-id></mixed-citation>
+          </ref>
+          <ref id="Enzalutamide.R14">
+            <mixed-citation publication-type="journal">Higano CS, Beer TM, Taplin ME, Efstathiou E, Hirmand M, Forer D, Scher HI. Long-term safety and antitumor activity in the phase 1-2 study of enzalutamide in pre- and post-docetaxel castration-resistant prostate cancer. Eur Urol 2015; 68: 795-801. <annotation><p><italic toggle="yes">(Among 140 patients with castration-resistant prostate cancer continued on enzalutamide therapy for up to 4 years, no new safety concerns arose and there was no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">25698064</pub-id></mixed-citation>
+          </ref>
+          <ref id="Enzalutamide.R15">
+            <mixed-citation publication-type="journal">Shore ND, Chowdhury S, Villers A, Klotz L, Siemens DR, Phung D, van Os S, et al. Efficacy and safety of enzalutamide versus bicalutamide for patients with metastatic prostate cancer (TERRAIN): a randomised, double-blind, phase 2 study. Lancet Oncol 2016; 17: 153-63. <annotation><p><italic toggle="yes">(Among 375 patients with metastatic prostate cancer treated with enzalutamide [160 mg] vs bicalutamide [50 mg] once daily, median progression free survival was greater with enzalutamide [15.7 vs 5.8 months] and side effect rates were similar, ALT elevations occurring in 2.2% vs 1.1% with only 1 patient in each group having elevations above 5 times ULN; no mention of clinically apparent liver injury).</italic></p></annotation><pub-id pub-id-type="pmid">26774508</pub-id></mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec id="Enzalutamide.OTHER_REFERENCE_LINKS" sec-type="link-group">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=(Enzalutamide/AE)+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D%3A%222999/12/31%22%5BEDat%5D)">Recent References on Enzalutamide: from PubMed.gov</ext-link>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Enzalutamide">Trials on Enzalutamide: from ClinicalTrials.gov</ext-link>
+            </p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

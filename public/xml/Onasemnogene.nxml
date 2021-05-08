@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Onasemnogene" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Onasemnogene</book-part-id>
+      <title-group>
+        <title>Onasemnogene Abeparvovec</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>20</day>
+          <month>8</month>
+          <year>2020</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Omeprazole" document-type="chapter">Omeprazole</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Opioids" document-type="chapter">Opioids</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Onasemnogene.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Onasemnogene.Introduction">
+          <title>Introduction</title>
+          <p content-type="pubmed-excerpt">Onasemnogene abeparvovec is a unique gene therapy agent used to correct the abnormal gene responsible for spinal muscular atrophy type 1, a rare progressive neuromuscular disorder that typically leads to disability and death within the first two years of life. Onasemnogene abeparvovec is given as a one-time intravenous infusion and has been linked to serum aminotransferase elevations which can be associated with jaundice and severe acute liver injury.</p>
+        </sec>
+        <sec id="Onasemnogene.Background">
+          <title>Background</title>
+          <p>Onasemnogene abeparvovec (on&#x0201d; a sem&#x02019; noe jeen a&#x0201d; be par&#x02019; voe vek) is a biologic agent and gene therapy designed to correct the gene defect of spinal muscular atrophy (SMA), a rare inherited disease that results in progressive neuromuscular disability leading to severe muscle weakness, paralysis, need for ventilatory support and death usually within the first two years of life. The disease is due to a genetic deficiency in survival motor neuron (SMN) caused by a bi-allelic loss-of-function mutation in the SMN1 gene which is critical for motor neuron survival. The severity of SMA varies based upon the activity and number of copies of the SMN2 gene which ordinarily contributes only a small proportion of needed SMN activity because of the unstable protein variant that it encodes. Despite this limitation, SMN2 expression can partially compensate for the reduction of SMN activity in patients with SMA1, particularly if the SMN2 gene is present in more than 2 copies. Onasemnogene abeparvovec consists of an adeno-associated virus type 9 (AAV9) carrying complementary DNA encoding the missing SMN1 protein. A single infusion leads to widespread and sustained expression of the normal SMN protein in motor neurons as well as other cell types including in heart, muscle, pancreas and liver. In pilot studies a single infusion of onasemnogene abeparvovec led to long term improvements in motor function in infants with SMA1 and survival without ventilatory support beyond the ages predicted by natural history studies of this ordinarily fatal genetic disorder. Onasemnogene abeparvovec was approved for use in the United States in infants with genetically proven SMA1 in 2019. Trials of onasemnogene abeparvovec in other types of SMA and in older subjects are currently ongoing. The recommended dose is 1.1 x 10<sup>14</sup> vector genomes per kg body weight infused over 60 minutes on a single occasion. Treatment with high doses of systemic corticosteroids starting one day before the infusion and continuing for at least 30 days in gradually reducing doses is recommended. Onasemnogene abeparvovec is available under the commercial name Zolgensma. Adverse events associated with the gene therapy include local injection reactions, nausea, ALT elevations and hypersensitivity reactions. Importantly, serum ALT and AST elevations occur in a high proportion of patients and regular monitoring for the first 3 months after the infusion is required.</p>
+        </sec>
+        <sec id="Onasemnogene.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>Prospective studies suggest that 90% of subjects who receive onasemnogene abeparvovec develop some degree of serum aminotransferase elevations during the 1 to 2 months after receipt of the infusion. In a small proportion of infants the elevations are as high as 10 to 20 times the ULN. These abnormalities can be ameliorated, if not prevented, by prophylactic therapy with corticosteroids. Typically, methylprednisolone in doses of 1 mg per kilogram body weight is given the day before the infusion and two days afterward, whereupon it is continued in gradually decreasing doses and with switching to oral prednisolone for a total of 4 weeks. Serum ALT and AST elevations typically arise within the first week after the initial infusion and can reappear during the period of corticosteroid dose reduction. Importantly, in postmarketing studies in more than 300 infants with SMA1, at least two instances of ALT elevations with jaundice and evidence of severe hepatic dysfunction were reported. Reinstitution of high doses of methylprednisolone was followed by clinical recovery and both patients were ultimately able to stop corticosteroids and had evidence of long term improvement in muscle function and development. Onasemnogene abeparvovec should be administered only by physicians with expertise in the management of SMA and in use of this gene therapy and its adverse effects.</p>
+          <p>Likelihood score: D (possible cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Onasemnogene.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The mechanism of onasemnogene abeparvovec hepatotoxicity is thought to be an immunologic response to the expression of viral vector or SMN gene products by the liver. The liver injury typically arises concurrent with the appearance of anti-AAV9 antibodies. Of interest, cases of severe hepatotoxicity were also observed in early phase clinical trials of a genetic therapy using a related AAV vector (AAV8) in patients with X-linked myotubular myopathy. In addition, liver injury was identified in preclinical studies done in rhesus macaques given an AAV9 vector carrying the human SMN gene. These findings suggest that a number of related AAV vectors may be associated with dose dependent liver injury in susceptible individuals.</p>
+        </sec>
+        <sec id="Onasemnogene.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>Onasemnogene abeparvovec hepatotoxicity is usually responsive to an increase in dose of corticosteroids or their reinstitution if they have been discontinued. Infants receiving this gene therapy should be monitored before and at regular intervals for at least 3 months. Infants with ALT or AST elevations above 10 times ULN after onasemnogene abeparvovec therapy should be treated with reinstitution of high dose corticosteroids and followed carefully during subsequent dose reductions.</p>
+          <p>Drug Class: Gene Therapy</p>
+        </sec>
+      </sec>
+      <sec id="Onasemnogene.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <p>
+          <bold>REPRESENTATIVE TRADE NAMES</bold>
+        </p>
+        <p>Onasemnogene Abeparvovec &#x02013; Zolgensma&#x000ae;</p>
+        <p>
+          <bold>DRUG CLASS</bold>
+        </p>
+        <p>Gene Therapy</p>
+        <p>
+          <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Onasemnogene">COMPLETE LABELING</ext-link>
+        </p>
+        <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+      </sec>
+      <sec id="Onasemnogene.CHEMICAL_FORMULA_AND_STRUCT">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Onasemnogene.Tc" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th id="hd_h_Onasemnogene.Tc_1_1_1_1" valign="top" align="left" scope="col" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Onasemnogene.Tc_1_1_1_2" valign="top" align="left" scope="col" rowspan="1" colspan="1">CAS REGISTRY NUMBER</th>
+                <th id="hd_h_Onasemnogene.Tc_1_1_1_3" valign="top" align="left" scope="col" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Onasemnogene.Tc_1_1_1_4" valign="top" align="left" scope="col" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Onasemnogene.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Onasemnogene<break/>Abeparvovec</td>
+                <td headers="hd_h_Onasemnogene.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">1922968-73-7</td>
+                <td headers="hd_h_Onasemnogene.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">Not Applicable</td>
+                <td headers="hd_h_Onasemnogene.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">Not Available</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Onasemnogene.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 20 August 2020</p>
+        <p>Abbreviations: AAV, adenovirus associated virus; SMA, spinal muscular atrophy; SMN, survival motor neuron.</p>
+        <ref-list id="Onasemnogene.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Onasemnogene.REF.smith.2018">
+            <mixed-citation publication-type="book">Smith MD, Metcalf CS, Wilcox KS. Pharmacology of the epilepsies. In, Brunton LL, Hilal-Dandan R, Knollman BC, eds. Goodman &#x00026; Gilman&#x02019;s the pharmacological basis of therapeutics. 13th ed. New York: McGraw-Hill, 2018, pp. 303-26.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Onasemnogene.REF.kolb.2017.883">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Kolb</surname>
+                  <given-names>SJ</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Coffey</surname>
+                  <given-names>CS</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Yankey</surname>
+                  <given-names>JW</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Krosschell</surname>
+                  <given-names>K</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Arnold</surname>
+                  <given-names>WD</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Rutkove</surname>
+                  <given-names>SB</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Swoboda</surname>
+                  <given-names>KJ</given-names>
+                </name>
+                <etal/>
+              </person-group>
+              <article-title>NeuroNEXT Clinical Trial Network on behalf of the NN101 SMA Biomarker Investigators. Natural history of infantile-onset spinal muscular atrophy.</article-title>
+              <source>Ann Neurol</source>
+              <year>2017</year>
+              <volume>82</volume>
+              <fpage>883</fpage>
+              <lpage>91</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Natural history study of 26 infants with SMA1 demonstrating the rate of motor function deterioration, respiratory failure and survival in untreated infants).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">29149772</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Onasemnogene.REF.mendell.2017.1713">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Mendell</surname>
+                  <given-names>JR</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Al-Zaidy</surname>
+                  <given-names>S</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Shell</surname>
+                  <given-names>R</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Arnold</surname>
+                  <given-names>WD</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Rodino-Klapac</surname>
+                  <given-names>LR</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Prior</surname>
+                  <given-names>TW</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Lowes</surname>
+                  <given-names>L</given-names>
+                </name>
+                <etal/>
+              </person-group>
+              <article-title>Single-dose gene-replacement therapy for spinal muscular atrophy.</article-title>
+              <source>N Engl J Med</source>
+              <year>2017</year>
+              <volume>377</volume>
+              <issue>18</issue>
+              <fpage>1713</fpage>
+              <lpage>22</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Pilot study of onasemnogene abeparvovec given in two dose levels to 15 infants with SMA type 1 found that motor function was preserved and most children were alive and not dependent upon ventilatory support at 2 years of age; three children had ALT and AST elevations following the single infusion of the viral vector with the completatory DNA encoding SMN protein, but all responded to corticosteroid therapy with resolution of the enzyme elevations without long term corticosteroid therapy).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">29091557</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Onasemnogene.REF.alzaidy.2019.307">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Al-Zaidy</surname>
+                  <given-names>SA</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Kolb</surname>
+                  <given-names>SJ</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Lowes</surname>
+                  <given-names>L</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Alfano</surname>
+                  <given-names>LN</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Shell</surname>
+                  <given-names>R</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Church</surname>
+                  <given-names>KR</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Nagendran</surname>
+                  <given-names>S</given-names>
+                </name>
+                <etal/>
+              </person-group>
+              <article-title>AVXS-101 (Onasemnogene Abeparvovec) for SMA1: comparative study with a prospective natural history cohort.</article-title>
+              <source>J Neuromuscul Dis</source>
+              <year>2019</year>
+              <volume>6</volume>
+              <fpage>307</fpage>
+              <lpage>17</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Further follow up of pilot study of onasemnogene abeparvovec [Mendell 2017] and comparison to natural history studies [Kolb 2017] found improved survival [no deaths during 24-33 months of follow up] and improved motor function in infants receiving gene therapy with no new treatment related serious adverse events after the two ALT elevations reported previously).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">31381526</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Onasemnogene.REF.hoy.2019.1255">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Hoy</surname>
+                  <given-names>SM</given-names>
+                </name>
+              </person-group>
+              <article-title>Onasemnogene abeparvovec: first global approval.</article-title>
+              <source>Drugs</source>
+              <year>2019</year>
+              <volume>79</volume>
+              <fpage>1255</fpage>
+              <lpage>62</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Review of the development, mechanism of action, in vitro and in vivo effects, clinical efficacy and safety of onasemnogene abeparvovec for infants less than 2 years of age with SMA1 and bi-allelic SMN1 mutations given in a dose of 1.1 x 10<sup>14</sup> vector genomes/kg in a replication incompetent, self-complementary AAV9 capsid with a copy of the gene encoding the full length human SMN protein under control of the cytomegalovirus enhancer/chicken beta-actin hybrid promoter).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">31270752</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Onasemnogene.REF.mahajan.2019.127">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Mahajan</surname>
+                  <given-names>R.</given-names>
+                </name>
+              </person-group>
+              <article-title>Onasemnogene abeparvovec for spinal muscular atrophy: the costlier drug ever.</article-title>
+              <source>Int J Appl Basic Med Res</source>
+              <year>2019</year>
+              <volume>9</volume>
+              <fpage>127</fpage>
+              <lpage>8</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Editorial on the approval of onasemnogene abeparvovec for spinal muscular atrophy makes the point that it is the most costly drug ever).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">31392173</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Onasemnogene.REF7">
+            <element-citation publication-type="journal">
+              <article-title>Zolgensma - one-time gene therapy for spinal muscular atrophy.</article-title>
+              <source>Med Lett Drugs Ther</source>
+              <year>2019</year>
+              <volume>61</volume>
+              <issue>1577</issue>
+              <fpage>113</fpage>
+              <lpage>4</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Concise review of the mechanism of action, clinical efficacy, safety and cost of onasemnogene abeparvovec shortly after its approval in the US as therapy of SMA1 in children below the age of 2, mentions that the infusion can result in significant hepatotoxicity and patients should be given prophylactic corticosteroids).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">31381549</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Onasemnogene.REF.stevens.2020.1001">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Stevens</surname>
+                  <given-names>D</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Claborn</surname>
+                  <given-names>MK</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Gildon</surname>
+                  <given-names>BL</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Kessler</surname>
+                  <given-names>TL</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Walker</surname>
+                  <given-names>C</given-names>
+                </name>
+              </person-group>
+              <article-title>Onasemnogene abeparvovec-xioi: gene therapy for spinal muscular atrophy.</article-title>
+              <source>Ann Pharmacother</source>
+              <year>2020</year>
+              <volume>54</volume>
+              <fpage>1001</fpage>
+              <lpage>9</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Review of the mechanism of action, clinical efficacy and safety of onasemnogene abeparvovec mentions that two treatment related serious adverse events occurred in the initial trial, elevations in serum ALT levels of 14 and 31 times upper limit of normal that resolved with corticosteroid therapy; no further hepatic adverse events being reported in clinical trials and registration studies, although the product has a black box warning about liver injury and prophylactic corticosteroids are recommended).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32204605</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Onasemnogene.REF.waldrop.2020.e20200729">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Waldrop</surname>
+                  <given-names>MA</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Karingada</surname>
+                  <given-names>C</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Storey</surname>
+                  <given-names>MA</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Powers</surname>
+                  <given-names>B</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Iammarino</surname>
+                  <given-names>MA</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Miller</surname>
+                  <given-names>NF</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Alfano</surname>
+                  <given-names>LN</given-names>
+                </name>
+                <etal/>
+              </person-group>
+              <article-title>Gene therapy for spinal muscular atrophy: safety and early outcomes.</article-title>
+              <source>Pediatrics</source>
+              <year>2020</year>
+              <volume>146</volume>
+              <elocation-id>e20200729</elocation-id>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Among 21 infants [ages 1 to 23 months] with SMA1 treated with onasemnogene abeparvovec, 89% had improvements in motor function and 11% stabilization, while ALT elevations arose between weeks 1 and 10 in 19 [90%] children and were above 5 times ULN in 6 [29%], highest elevations arising in older infants and those who were noncompliant or intolerant of the recommended corticosteroid doses; all elevations were self-limited, and none were symptomatic or associated with bilirubin elevations).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32843442</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Onasemnogene.REF.feldman.2020.252">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Feldman</surname>
+                  <given-names>AG</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Parsons</surname>
+                  <given-names>JA</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Dutmer</surname>
+                  <given-names>CM</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Veerapandiyan</surname>
+                  <given-names>A</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Hafberg</surname>
+                  <given-names>E</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Maloney</surname>
+                  <given-names>N</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Mack</surname>
+                  <given-names>CL</given-names>
+                </name>
+              </person-group>
+              <article-title>Subacute liver failure following gene replacement therapy for spinal muscular atrophy type I.</article-title>
+              <source>J Pediatr</source>
+              <year>2020</year>
+              <volume>225</volume>
+              <fpage>252</fpage>
+              <lpage>258.e1</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Two infants with SMA1, ages 6 and 20 months, who were treated with onasemnogene abeparvovec developed marked serum aminotransferase elevations and jaundice 7 and 8 weeks after the infusion, despite premedication with methylprednisolone and continuation in tapering doses [bilirubin 7.6 and 3.5 mg/dL, ALT 2014 and 1034 U/L, GGT 273 and 572 U/L, Alk P 1074 and 437 U/L, INR 5.3 and 1.5], both responding to reinstitution of high dose intravenous methylprednisone and ultimately resolving without need for long term corticosteroids and with improved motor function suggesting successful gene transfer).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32473148</pub-id>
+            </element-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec sec-type="link-group" id="Onasemnogene.OTHER_REFERENCE_LINKS">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <label>1</label>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=(Onasemnogene+AND+Abeparvovec/AE)+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%222009/11/1%22%5BEDat%5D:%222999/12/31%22%5BEDat%5D)">Recent References on Onasemnogene Abeparvovec: from PubMed.gov</ext-link>
+            </p>
+          </list-item>
+          <list-item>
+            <label>2</label>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Onasemnogene%20Abeparvovec">Trials on Onasemnogene Abeparvovec: from ClinicalTrials.gov</ext-link>
+            </p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

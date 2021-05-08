@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Meclizine" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Meclizine</book-part-id>
+      <title-group>
+        <title>Meclizine</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>16</day>
+          <month>1</month>
+          <year>2017</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Mechlorethamine" document-type="chapter">Mechlorethamine</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="MefenamicAcid" document-type="chapter">Mefenamic Acid</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Meclizine.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Meclizine.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Meclizine is a first generation antihistamine that is used largely to treat vertigo and motion sickness. Meclizine has not been linked to instances of clinically apparent acute liver injury.</p>
+        </sec>
+        <sec id="Meclizine.Background">
+          <title>Background</title>
+          <p>Meclizine (mek' li zeen) is a first generation antihistamine that belongs to the piperazine class of these agents (with cyclizine and hydroxyzine) which are used largely for their antiemetic and sedative effects. Meclizine is used mostly for the treatment of vertigo and symptoms of nausea, vomiting and dizziness associated with motion sickness. Meclizine was first approved for use in the United States in 1957 and is available in tablets and capsules of 12.5, 25 and 50 mg in multiple generic forms and under the trade name Antivert. Meclizine is available in both prescription and nonprescription forms. The recommended adult oral dose for motion sickness is 25 to 50 mg taken one hour before travel. The recommended dose for vertigo is 25 to 100 mg daily in divided doses. Common side effects include sedation, impairment of motor function, confusion, dizziness, blurred vision, dry mouth and throat, palpitations, tachycardia, abdominal distress, constipation and headache. Antihistamines can worsen urinary retention and glaucoma.</p>
+        </sec>
+        <sec id="Meclizine.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>Despite widespread use, meclizine has not been linked to liver test abnormalities or to clinically apparent liver injury. The reason for its safety may relate to low daily dose and limited duration of use.</p>
+          <p>Likelihood score: E (unlikely to be a cause of clinically apparent liver injury).</p>
+          <p>References on the safety and potential hepatotoxicity of antihistamines are given together after the Overview section on Antihistamines.</p>
+          <p>Drug Class: <related-object source-id="livertox" document-id="Antihistamines">Antihistamines</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Meclizine.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <boxed-text position="anchor" id="Meclizine.BPI" orientation="portrait">
+          <p>
+            <bold>REPRESENTATIVE TRADE NAMES</bold>
+          </p>
+          <p>Meclizine &#x02013; Generic, Antivert&#x000ae;</p>
+          <p>
+            <bold>DRUG CLASS</bold>
+          </p>
+          <p>Antihistamines</p>
+          <p>
+            <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Meclizine">COMPLETE LABELING</ext-link>
+          </p>
+          <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+        </boxed-text>
+      </sec>
+      <sec id="Meclizine.CHEMICAL_FORMULA_AND_STRUCTURE">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Meclizine.T1" position="anchor" orientation="portrait">
+          <table>
+            <thead>
+              <tr>
+                <th id="hd_h_Meclizine.T1_1_1_1_1" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Meclizine.T1_1_1_1_2" rowspan="1" colspan="1">CAS REGISTRY NUMBER</th>
+                <th id="hd_h_Meclizine.T1_1_1_1_3" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Meclizine.T1_1_1_1_4" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Meclizine.T1_1_1_1_1" rowspan="1" colspan="1">Meclizine</td>
+                <td headers="hd_h_Meclizine.T1_1_1_1_2" rowspan="1" colspan="1">569-65-3</td>
+                <td headers="hd_h_Meclizine.T1_1_1_1_3" rowspan="1" colspan="1">C25-H27-Cl-N2</td>
+                <td headers="hd_h_Meclizine.T1_1_1_1_4" rowspan="1" colspan="1">
+                  <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Meclizine_Structure.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait">
+                    <alt-text>Meclizine Chemical Structure</alt-text>
+                  </graphic>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Meclizine.OTHER_REFERENCE_LINKS" sec-type="link-group">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=(Meclizine/AE)+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D%3A%222999/12/31%22%5BEDat%5D)">Recent References on Meclizine: from PubMed.gov</ext-link>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Meclizine">Trials on Meclizine: from ClinicalTrials.gov</ext-link>
+            </p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

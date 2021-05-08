@@ -1,0 +1,1260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Trimipramine" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Trimipramine</book-part-id>
+      <title-group>
+        <title>Trimipramine</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>5</day>
+          <month>4</month>
+          <year>2020</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Trimetrexate" document-type="chapter">Trimetrexate</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Triprolidine" document-type="chapter">Triprolidine</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Trimipramine.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Trimipramine.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Trimipramine is a tricyclic antidepressant used in the therapy of major (endogenous) as well as reactive (exogenous) depression. In clinical trials, trimipramine therapy was not associated with an increased rate of elevations in serum aminotransferase levels, and it has yet to be linked to instances of clinically apparent acute liver injury.</p>
+        </sec>
+        <sec id="Trimipramine.Background">
+          <title>Background</title>
+          <p>Trimipramine (trye mip' ra meen) is a tricyclic antidepressant that is believed to act by enhancing serotonergic and dopaminergic neurotransmission. Like most tricyclic antidepressants, trimipramine is a weak inhibitor of serotonin, norepinephrine and dopamine reuptake, but also has direct antagonist activity for some serotonin and adrenergic receptors. Trimipramine has been shown to alleviate symptoms of depression, both in patients with neurotic or situation depression as well as those with major, endogenous depression. Trimipramine was approved for use in the United States in 1979 and is still clinically available, although now not widely used. Trimipramine is available as capsules of 25, 50 and 100 mg generically and under the brand name Surmontil. The typical initial dosage in adults is 75 mg daily in divided doses, which can be modified to once daily and increased in total dose based upon efficacy and tolerance to as highly as 150 to 200 mg once daily. Common side effects are diarrhea, nausea, vomiting, fatigue, drowsiness, headache, insomnia, weight gain and sexual dysfunction. Rare potential side effects include increased suicide risk, cardiac arrhythmias, urinary retention and acute serotonin syndrome.</p>
+        </sec>
+        <sec id="Trimipramine.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>In clinical trials, liver test abnormalities were uncommon in patients taking trimipramine (&#x0003c;1%) and generally no more frequent than in placebo or comparator arm recipients. No instances of acute, clinically apparent liver injury attributed to trimipramine have been reported. Most other tricyclic antidepressants in clinical use have been associated with occasional instances of acute liver injury, usually arising within 2 to 8 weeks of starting therapy. The pattern of serum enzyme elevations varied from hepatocellular to cholestatic and autoimmune features were uncommon. Immunoallergic features (rash, fever, eosinophilia) can occur, but are not prominent. Most cases of acute liver injury due to tricyclic antidepressants are mild-to-moderate in severity and resolve within one to three months. Acute liver failure due to tricyclic antidepressants has been described, but is very rare. No such cases have been linked to trimipramine use but it is rarely used.</p>
+          <p>Likelihood score: D (possible rare cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Trimipramine.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The mechanism by which trimipramine might cause liver injury is not known. Trimipramine is metabolized at least in part by the liver, but it has not been linked to significant drug-drug interactions.</p>
+        </sec>
+        <sec id="Trimipramine.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>The serum aminotransferase elevations that occur on amoxapine therapy are usually self-limited and do not require dose modification or discontinuation of therapy. No instances of acute liver failure or vanishing bile duct syndrome due to trimipramine have been reported. There is no information on cross sensitivity to liver injury between trimipramine and other tricyclic antidepressants, but switching to another class of agents (such as the selective serotonin reuptake inhibitors) is probably prudent.</p>
+          <p>Drug Class: <related-object link-type="booklink" source-id="livertox" document-id="Antidepressants" document-type="chapter">Antidepressant Agents</related-object></p>
+          <p>Other Drugs in the Subclass, Tricyclics: <related-object link-type="booklink" source-id="livertox" document-id="Amitriptyline" document-type="chapter">Amitriptyline</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Amoxapine" document-type="chapter">Amoxapine</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Clomipramine" document-type="chapter">Clomipramine</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Desipramine" document-type="chapter">Desipramine</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Doxepin" document-type="chapter">Doxepin</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Imipramine" document-type="chapter">Imipramine</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Nortriptyline" document-type="chapter">Nortriptyline</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Protriptyline" document-type="chapter">Protriptyline</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Trimipramine.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <p>
+          <bold>REPRESENTATIVE TRADE NAMES</bold>
+        </p>
+        <p>Trimipramine &#x02013; Generic, Surmontil&#x000ae;</p>
+        <p>
+          <bold>DRUG CLASS</bold>
+        </p>
+        <p>Antidepressant Agents</p>
+        <p>
+          <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Trimipramine">COMPLETE LABELING</ext-link>
+        </p>
+        <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+      </sec>
+      <sec id="Trimipramine.CHEMICAL_FORMULA_AND_STRUCT">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Trimipramine.Tc" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <tbody>
+              <tr>
+                <th id="hd_b_Trimipramine.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_b_Trimipramine.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">CAS REGISTRY NO.</th>
+                <th id="hd_b_Trimipramine.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_b_Trimipramine.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+              <tr>
+                <td headers="hd_b_Trimipramine.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Trimipramine</td>
+                <td headers="hd_b_Trimipramine.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://134976446">739-71-9</ext-link>
+                </td>
+                <td headers="hd_b_Trimipramine.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">C20-H26-N2</td>
+                <td headers="hd_b_Trimipramine.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">
+                  <related-object link-type="ext-image-back-link" source-id="pubchem" document-id="134976446" document-id-type="sid" document-type="summary" object-id="134976446" object-id-type="sid" object-type="image"/>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Trimipramine.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 05 April 2020</p>
+        <p>Abbreviations: MAO inhibitor, monoamine oxidase inhibitor; SSRI, selective serotonin reuptake inhibitor; SNRI, serotonin and norepinephrine reuptake inhibitor.</p>
+        <ref-list id="Trimipramine.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Trimipramine.REF.zimmerman.1999">
+            <mixed-citation publication-type="book">Zimmerman HJ. Antidepressants. In, Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999, pp. 493-8.<annotation><p><italic toggle="yes">(Expert review of hepatotoxicity published in 1999, trimipramine is listed as a tricyclic antidepressant with a very low incidence of hepatotoxicity).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Trimipramine.REF.larrey.2007">
+            <mixed-citation publication-type="book">Larrey D. Hepatotoxicity of psychotropic drugs and drugs of abuse. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 2nd ed. New York: Informa Healthcare USA, 2007, pp. 443-62.<annotation><p><italic toggle="yes">(Review of hepatotoxicity published in 2007; mentions that trimipramine, like other imipramine antidepressants, has been implicated in rare cases of acute hepatitis).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Trimipramine.REF.odonnell.2018">
+            <mixed-citation publication-type="book">O'Donnell JM, Bies RR, Shelton RC. Drug therapy of depression and anxiety disorders. In, Brunton LL, Hilal-Dandan R, Knollman BC, eds. Goodman &#x00026; Gilman&#x02019;s the pharmacological basis of therapeutics. 13th ed. New York: McGraw-Hill, 2018, pp. 267-77.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Trimipramine.REF.salzmann.1965.1105">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Salzmann</surname>
+                  <given-names>MM</given-names>
+                </name>
+              </person-group>
+              <article-title>A controlled trial with trimipramine, a new anti-depressant drug.</article-title>
+              <source>Br J Psychiatry</source>
+              <year>1965</year>
+              <volume>111</volume>
+              <fpage>1105</fpage>
+              <lpage>6</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Among 27 depressed patients treated with either imipramine or trimipramine for an unstated duration, response rates were better with trimipramine; no description of side effects was provided).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">5320547</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Trimipramine.REF.burke.1967.1216">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Burke</surname>
+                  <given-names>BV</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Sainsbury</surname>
+                  <given-names>MJ</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Mezo</surname>
+                  <given-names>BA</given-names>
+                </name>
+              </person-group>
+              <article-title>A comparative trial of amitriptyline and trimipramine in the treatment of depression.</article-title>
+              <source>Med J Aust</source>
+              <year>1967</year>
+              <volume>1</volume>
+              <fpage>1216</fpage>
+              <lpage>8</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Among 26 patients with severe depression treated with either amitriptyline or trimipramine for 4 weeks, only 19 could complete the study and efficacy and side effects were similar with the two agents; no mention of ALT elevations or hepatotoxicity).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">5339123</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Trimipramine.REF.young.1979.1315">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Young</surname>
+                  <given-names>JP</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Lader</surname>
+                  <given-names>MH</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Hughes</surname>
+                  <given-names>WC</given-names>
+                </name>
+              </person-group>
+              <article-title>Controlled trial of trimipramine, monoamine oxidase inhibitors, and combined treatment in depressed outpatients.</article-title>
+              <source>Br Med J</source>
+              <year>1979</year>
+              <volume>2</volume>
+              <issue>6201</issue>
+              <fpage>1315</fpage>
+              <lpage>7</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Among 135 patients with depression treated with trimipramine, an MAO inhibitor or both for 6 weeks, trimipramine alone was more effective than the combination or the MAO inhibitor alone; side effects were not specifically addressed and no mention of ALT elevations or hepatotoxicity).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">391342</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Trimipramine.REF.settle.1980.266">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Settle</surname>
+                  <given-names>EC</given-names>
+                  <suffix>Jr</suffix>
+                </name>
+                <name name-style="western">
+                  <surname>Ayd</surname>
+                  <given-names>FJ</given-names>
+                  <suffix>Jr</suffix>
+                </name>
+              </person-group>
+              <article-title>Trimipramine: twenty years' worldwide clinical experience.</article-title>
+              <source>J Clin Psychiatry</source>
+              <year>1980</year>
+              <volume>41</volume>
+              <fpage>266</fpage>
+              <lpage>74</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Review of the 20 year clinical experience with trimipramine [largely in Europe] before its approval in the US in 1979 mentions that side effects are similar to those with other tricyclics, the most common being sedation, dry mouth, tremor, headaches and, more rarely, excitation and agitation; no mention of ALT elevations or hepatotoxicity).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">7400104</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Trimipramine.REF.rifkin.1980.124">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Rifkin</surname>
+                  <given-names>A</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Saraf</surname>
+                  <given-names>K</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Kane</surname>
+                  <given-names>J</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Ross</surname>
+                  <given-names>D</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Klein</surname>
+                  <given-names>DF</given-names>
+                </name>
+              </person-group>
+              <article-title>A comparison of trimipramine and imipramine: a controlled study.</article-title>
+              <source>J Clin Psychiatry</source>
+              <year>1980</year>
+              <volume>41</volume>
+              <fpage>124</fpage>
+              <lpage>9</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Among 38 hospitalized patients with depression treated with trimipramine or imipramine for 3 weeks, clinical efficacy was similar, but side effects were less with trimipramine; no mention of ALT elevations or hepatotoxicity; 10 patients did not complete the study due to "uncooperativeness", clinical deterioration or adverse reactions).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">7364735</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Trimipramine.REF.assalian.1985.90">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Assalian</surname>
+                  <given-names>P</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Rosengarten</surname>
+                  <given-names>MD</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Phillips</surname>
+                  <given-names>R</given-names>
+                </name>
+              </person-group>
+              <article-title>A comparative trial of the antidepressant, anxiolytic, and cardiovascular effects of trimipramine and doxepin in depressed hospitalized patients.</article-title>
+              <source>J Clin Psychiatry</source>
+              <year>1985</year>
+              <volume>46</volume>
+              <fpage>90</fpage>
+              <lpage>4</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Among 25 hospitalized patients with depression treated with trimipramine or doxepin for 4 weeks, results of monitoring of laboratory tests were not provided).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">2857709</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Trimipramine.REF.cournoyer.1987.385">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Cournoyer</surname>
+                  <given-names>G</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>de Montigny</surname>
+                  <given-names>C</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Ouellette</surname>
+                  <given-names>J</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Langlois</surname>
+                  <given-names>R</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Elie</surname>
+                  <given-names>R</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Caille</surname>
+                  <given-names>G</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>le Morvan</surname>
+                  <given-names>P.</given-names>
+                </name>
+              </person-group>
+              <article-title>A comparative double-blind controlled study of trimipramine and amitriptyline in major depression: lack of correlation with 5-hydroxytryptamine reuptake blockade.</article-title>
+              <source>J Clin Psychopharmacol</source>
+              <year>1987</year>
+              <volume>7</volume>
+              <fpage>385</fpage>
+              <lpage>93</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Among 34 patients with major depression treated with trimipramine or amitriptyline for 21 days, routine laboratory test results did not change in either group).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">3323262</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Trimipramine.REF.cassidy.1987">
+            <mixed-citation publication-type="book">Cassidy S, Henry J. Fatal toxicity of antidepressant drugs in overdose. Br Med J (Clin Res Ed) 1987; 295(6605): 1021-4. Erratum in Br Med J (Clin Res Ed) 1987; 295(6610): 1382.<annotation><p><italic toggle="yes">(Analysis of prescription rates and overdose fatality reports in the UK between 1975 and 1984 found the highest fatal toxicity indices for tricyclic antidepressants [38 deaths per million] compared to MAO inhibitors [27], with high rates of amitriptyline [46], nortriptyline [39], imipramine [28] and trimipramine [28]).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Trimipramine.REF.lapierre.1989.17">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Lapierre</surname>
+                  <given-names>YD</given-names>
+                </name>
+              </person-group>
+              <article-title>A review of trimipramine. 30 years of clinical use.</article-title>
+              <source>Drugs</source>
+              <year>1989</year>
+              <volume>38</volume>
+              <supplement>Suppl 1</supplement>
+              <fpage>17</fpage>
+              <lpage>24</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Summary of more than 25 trials of trimipramine in comparison to placebo and other antidepressants found the side effect profile similar to other tricyclic antidepressants; no mention of ALT elevations or hepatotoxicity).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">2693051</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Trimipramine.REF.bender.2003.61">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Bender</surname>
+                  <given-names>S</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Olbrich</surname>
+                  <given-names>HM</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Fischer</surname>
+                  <given-names>W</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Hornstein</surname>
+                  <given-names>C</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Schoene</surname>
+                  <given-names>W</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Falkai</surname>
+                  <given-names>P</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Haarmann</surname>
+                  <given-names>C</given-names>
+                </name>
+                <etal/>
+                <collab>Trimipramine Study Group</collab>
+              </person-group>
+              <article-title>Antipsychotic efficacy of the antidepressant trimipramine: a randomized, double-blind comparison with the phenothiazine perazine.</article-title>
+              <source>Pharmacopsychiatry</source>
+              <year>2003</year>
+              <volume>36</volume>
+              <fpage>61</fpage>
+              <lpage>9</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Among 95 patients with acute schizophrenia treated with trimipramine or perazine for 36 days, the antipsychotic effect of the phenothiazine was greater; no mention of changes in ALT levels or hepatotoxicity).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">12734763</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Trimipramine.REF.wehmeier.2005.13">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Wehmeier</surname>
+                  <given-names>PM</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Kluge</surname>
+                  <given-names>M</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Maras</surname>
+                  <given-names>A</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Riemann</surname>
+                  <given-names>D</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Berger</surname>
+                  <given-names>M</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Kohnen</surname>
+                  <given-names>R</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Dittmann</surname>
+                  <given-names>RW</given-names>
+                </name>
+                <etal/>
+              </person-group>
+              <article-title>Fluoxetine versus trimipramine in the treatment of depression in geriatric patients.</article-title>
+              <source>Pharmacopsychiatry</source>
+              <year>2005</year>
+              <volume>38</volume>
+              <fpage>13</fpage>
+              <lpage>6</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Among 41 elderly patients with major depression treated with trimipramine or fluoxetine for 6 weeks, both efficacy and side effects were similar; one patient on trimipramine developed abnormal ALT levels, but specifics and outcome were not provided).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">15706460</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Trimipramine.REF.gutscher.2013.227">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Gutscher</surname>
+                  <given-names>K</given-names>
+                </name>
+              </person-group>
+              <article-title>Rauber-L&#x000fc;, Haller M, Braun M, Kupferschmidt H, Kullak-Ublick GA, Ceschi A. Patterns of toxicity and factors influencing severity in acute adult trimipramine poisoning.</article-title>
+              <source>Br J Clin Pharmacol</source>
+              <year>2013</year>
+              <volume>75</volume>
+              <fpage>227</fpage>
+              <lpage>35</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Over an 18 year period, 230 cases of suspected trimipramine overdose were reported to a Swiss Toxicology Registry, mostly due to suicide attempt, symptoms being somnolence [61%], tachycardia [19%], coma [18%] and convulsions [6%], with fatal outcome in 3 patients [8.4-25 g doses] caused by cardiovascular collapse; no mention of liver manifestations or hepatic failure).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">22642681</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Trimipramine.REF.lucena.2003.249">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Lucena</surname>
+                  <given-names>MI</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Carvajal</surname>
+                  <given-names>A</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Andrade</surname>
+                  <given-names>RJ</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Velasco</surname>
+                  <given-names>A</given-names>
+                </name>
+              </person-group>
+              <article-title>Antidepressant-induced hepatotoxicity.</article-title>
+              <source>Expert Opin Drug Saf</source>
+              <year>2003</year>
+              <volume>2</volume>
+              <fpage>249</fpage>
+              <lpage>62</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Review of hepatotoxicity of antidepressants; antidepressant use has increased markedly between 1992 and 2002, accounting for 5% of cases of hepatotoxicity; SSRIs are less likely to cause injury than tricyclics and MAO inhibitors; trimipramine is not mentioned).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">12904104</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Trimipramine.REF.degner.2004.s39">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Degner</surname>
+                  <given-names>D</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Grohmann</surname>
+                  <given-names>R</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Kropp</surname>
+                  <given-names>S</given-names>
+                </name>
+              </person-group>
+              <article-title>R&#x000fc;E, Bender S, Engel RR, Schmidt LG. Severe adverse drug reactions of antidepressants: results of the German multicenter drug surveillance program AMSP.</article-title>
+              <source>Pharmacopsychiatry</source>
+              <year>2004</year>
+              <volume>37</volume>
+              <supplement>Suppl 1</supplement>
+              <fpage>S39</fpage>
+              <lpage>45</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Analysis of adverse drug reactions reported from 1993-2000 in 35 psychiatric hospitals; 0.3% of trimipramine recipients had a severe adverse event which was hepatic in approximately one-third, these rates being similar to the overall rates of tricyclics).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">15052513</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Trimipramine.REF.desanty.2007.1201">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>DeSanty</surname>
+                  <given-names>KP</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Amabile</surname>
+                  <given-names>CM</given-names>
+                </name>
+              </person-group>
+              <article-title>Antidepressant-induced liver injury.</article-title>
+              <source>Ann Pharmacother</source>
+              <year>2007</year>
+              <volume>41</volume>
+              <fpage>1201</fpage>
+              <lpage>11</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Review of drug induced liver injury and reports of injury from MAO inhibitors, SSRIs, tricyclics and atypical agents; no specific discussion of trimipramine).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">17609231</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Trimipramine.REF.reuben.2010.2065">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Reuben</surname>
+                  <given-names>A</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Koch</surname>
+                  <given-names>DG</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Lee</surname>
+                  <given-names>WM</given-names>
+                </name>
+                <collab>Acute Liver Failure Study Group</collab>
+              </person-group>
+              <article-title>Drug-induced acute liver failure: results of a U.S. multicenter, prospective study.</article-title>
+              <source>Hepatology</source>
+              <year>2010</year>
+              <volume>52</volume>
+              <fpage>2065</fpage>
+              <lpage>76</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Among 1198 patients with acute liver failure enrolled in a US prospective study between 1998 and 2007, 133 were attributed to drug induced liver injury, including 4 from psychotropic agents [quetiapine, nefazodone, fluoxetine, venlafaxine], but none were linked to tricyclic antidepressants).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">20949552</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Trimipramine.REF.park.2013.207">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Park</surname>
+                  <given-names>SH</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Ishino</surname>
+                  <given-names>R</given-names>
+                </name>
+              </person-group>
+              <article-title>Liver injury associated with antidepressants.</article-title>
+              <source>Curr Drug Saf</source>
+              <year>2013</year>
+              <volume>8</volume>
+              <fpage>207</fpage>
+              <lpage>23</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Review of drug induced liver injury due to antidepressants including SSRIs; trimipramine is not discussed).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">23914755</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Trimipramine.REF.bj_rnsson.2013.1419">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Bj&#x000f6;rnsson</surname>
+                  <given-names>ES</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Bergmann</surname>
+                  <given-names>OM</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Bj&#x000f6;rnsson</surname>
+                  <given-names>HK</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Kvaran</surname>
+                  <given-names>RB</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Olafsson</surname>
+                  <given-names>S</given-names>
+                </name>
+              </person-group>
+              <article-title>Incidence, presentation and outcomes in patients with drug-induced liver injury in the general population of Iceland.</article-title>
+              <source>Gastroenterology</source>
+              <year>2013</year>
+              <volume>144</volume>
+              <fpage>1419</fpage>
+              <lpage>25</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(In a population based study of drug induced liver injury from Iceland, 96 cases were identified over a 2 year period, one being attributed to an SSRI [venlafaxine], but none to a tricyclic antidepressant).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">23419359</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Trimipramine.REF.voican.2014.404">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Voican</surname>
+                  <given-names>CS</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Corruble</surname>
+                  <given-names>E</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Naveau</surname>
+                  <given-names>S</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Perlemuter</surname>
+                  <given-names>G</given-names>
+                </name>
+              </person-group>
+              <article-title>Antidepressant-induced liver injury: a review for clinicians.</article-title>
+              <source>Am J Psychiatry</source>
+              <year>2014</year>
+              <volume>171</volume>
+              <fpage>404</fpage>
+              <lpage>15</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Review of the frequency and clinical features of drug induced liver injury due to antidepressants; imipramine, desipramine and amitriptyline are discussed, but not trimipramine).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">24362450</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Trimipramine.REF.hern_ndez.2014.231">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Hern&#x000e1;ndez</surname>
+                  <given-names>N</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Bessone</surname>
+                  <given-names>F</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>S&#x000e1;nchez</surname>
+                  <given-names>A</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>di Pace</surname>
+                  <given-names>M</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Brahm</surname>
+                  <given-names>J</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Zapata</surname>
+                  <given-names>R, A</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Chirino</surname>
+                  <given-names>R</given-names>
+                </name>
+                <etal/>
+              </person-group>
+              <article-title>Profile of idiosyncratic drug induced liver injury in Latin America. An analysis of published reports.</article-title>
+              <source>Ann Hepatol</source>
+              <year>2014</year>
+              <volume>13</volume>
+              <fpage>231</fpage>
+              <lpage>9</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Systematic review of literature of drug induced liver injury in Latin American countries published from 1996 to 2012 identified 176 cases, only one of which was attributed to an antidepressant [amitriptyline] and none to a MAO inhibitor, SSRI or SNRI).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">24552865</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Trimipramine.REF.chalasani.2015.1340">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Chalasani</surname>
+                  <given-names>N</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Bonkovsky</surname>
+                  <given-names>HL</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Fontana</surname>
+                  <given-names>R</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Lee</surname>
+                  <given-names>W</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Stolz</surname>
+                  <given-names>A</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Talwalkar</surname>
+                  <given-names>J</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Reddy</surname>
+                  <given-names>KR</given-names>
+                </name>
+                <etal/>
+                <collab>United States Drug Induced Liver Injury Network</collab>
+              </person-group>
+              <article-title>Features and outcomes of 899 patients with drug-induced liver injury: The DILIN Prospective Study.</article-title>
+              <source>Gastroenterology</source>
+              <year>2015</year>
+              <volume>148</volume>
+              <fpage>1340</fpage>
+              <lpage>52.e7</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Among 899 cases of drug induced liver injury enrolled in a US prospective study between 2004 and 2013, 20 cases [2%] were attributed to&#x000a0;antidepressants&#x000a0;including 9 due to SNRIs [7 to duloxetine, 1 each to nefazodone and trazodone], 5 to bupropion, 5 to SSRIs [3 to escitalopram, and 1 each to fluoxetine and sertraline], and only 1 to tricyclics [imipramine], but none to trimipramine).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">25754159</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Trimipramine.REF.woo.2015.1201">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Woo</surname>
+                  <given-names>HJ</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Kim</surname>
+                  <given-names>HY</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Choi</surname>
+                  <given-names>ES</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Cho</surname>
+                  <given-names>YH</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Kim</surname>
+                  <given-names>Y</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Lee</surname>
+                  <given-names>JH</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Jang</surname>
+                  <given-names>E</given-names>
+                </name>
+              </person-group>
+              <article-title>Drug-induced liver injury: A 2-year retrospective study of 1169 hospitalized patients in a single medical center.</article-title>
+              <source>Phytomedicine</source>
+              <year>2015</year>
+              <volume>22</volume>
+              <fpage>1201</fpage>
+              <lpage>5</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Among 1169 inpatients seen at a single Korean referral medical center over a 2 year period, 11 developed suspected drug induced liver injury, 6 attributed to dietary supplements and 5 to conventional drugs including 2 antidepressants [minocycline, donepezil, warfarin, gabapentin/milnacipran, and antihistamines]).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">26598920</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Trimipramine.REF.voican.2016.e0155234">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Voican</surname>
+                  <given-names>CS</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Martin</surname>
+                  <given-names>S</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Verstuyft</surname>
+                  <given-names>C</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Corruble</surname>
+                  <given-names>E</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Perlemuter</surname>
+                  <given-names>G</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Colle</surname>
+                  <given-names>R</given-names>
+                </name>
+              </person-group>
+              <article-title>Liver function test abnormalities in depressed patients treated with antidepressants: a real-world systematic observational study in psychiatric settings.</article-title>
+              <source>PLoS One</source>
+              <year>2016</year>
+              <volume>11</volume>
+              <elocation-id>e0155234</elocation-id>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Among 321 psychiatric inpatients, only 116 [36%] had liver tests performed and only 18 during therapy with an antidepressant, 3 of which were suspected to have drug induced liver injury, 1 each with escitalopram, venlafaxine and amitriptyline, all without jaundice and 2 without symptoms, all 3 resolving).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">27171561</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Trimipramine.REF.friedrich.2016.pyv126">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Friedrich</surname>
+                  <given-names>ME</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Akimova</surname>
+                  <given-names>E</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Huf</surname>
+                  <given-names>W</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Konstantinidis</surname>
+                  <given-names>A</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Papageorgiou</surname>
+                  <given-names>K</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Winkler</surname>
+                  <given-names>D</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Toto</surname>
+                  <given-names>S</given-names>
+                </name>
+                <etal/>
+              </person-group>
+              <article-title>Drug-induced liver injury during antidepressant treatment: results of AMSP, a drug surveillance program.</article-title>
+              <source>Int J Neuropsychopharmacol</source>
+              <year>2016</year>
+              <volume>19</volume>
+              <issue>4</issue>
+              <comment>pii</comment>
+              <elocation-id>pyv126</elocation-id>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Among 184,234 psychiatric inpatients from 80 hospitals, 149 cases [0.08%] of drug induced liver injury were reported including 71 of 50,201 patients treated with tricyclics, 18 of 11,876 receiving trimipramine and 2 of 2,016 receiving nortriptyline).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">26721950</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Trimipramine.REF.gahr.2016.769">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Gahr</surname>
+                  <given-names>M</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Zeiss</surname>
+                  <given-names>R</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Lang</surname>
+                  <given-names>D</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Connemann</surname>
+                  <given-names>BJ</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Hiemke</surname>
+                  <given-names>C</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Sch&#x000f6;nfeldt-Lecuona</surname>
+                  <given-names>C</given-names>
+                </name>
+              </person-group>
+              <article-title>Drug-Induced liver injury associated with antidepressive psychopharmacotherapy: an explorative assessment based on quantitative signal detection using different MedDRA terms.</article-title>
+              <source>J Clin Pharmacol.</source>
+              <year>2016</year>
+              <volume>56</volume>
+              <fpage>769</fpage>
+              <lpage>78</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Using data on adverse drug reaction reports from the Uppsala Monitoring Center of WHO, there were higher relative hepatotoxicity reports for nefazodone, agomelatine, many tricyclics and mirtazapine).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">26470856</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Trimipramine.REF.chen.2017.30464">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Chen</surname>
+                  <given-names>VC</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Lin</surname>
+                  <given-names>CF</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Hsieh</surname>
+                  <given-names>YH</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Liang</surname>
+                  <given-names>HY</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Huang</surname>
+                  <given-names>KY</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Chiu</surname>
+                  <given-names>WC</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Lee</surname>
+                  <given-names>Y</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>McIntyre</surname>
+                  <given-names>RS</given-names>
+                </name>
+                <etal/>
+              </person-group>
+              <article-title>Hepatocellular carcinoma and&#x000a0;antidepressants: a nationwide population-based study.</article-title>
+              <source>Oncotarget</source>
+              <year>2017</year>
+              <volume>8</volume>
+              <fpage>30464</fpage>
+              <lpage>70</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Among almost 50,000 cases of hepatocellular carcinoma registered in the Taiwan National Health Insurance Research Database, the rate of antidepressant use was lower than in approximately 250,000 matched controls from the database).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">27783998</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Trimipramine.REF.ferrajolo.2018.95">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Ferrajolo</surname>
+                  <given-names>C</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Scavone</surname>
+                  <given-names>C</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Donati</surname>
+                  <given-names>M</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Bortolami</surname>
+                  <given-names>O</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Stoppa</surname>
+                  <given-names>G</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Motola</surname>
+                  <given-names>D</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Vannacci</surname>
+                  <given-names>A</given-names>
+                </name>
+                <etal/>
+                <collab>DILI-IT Study Group</collab>
+              </person-group>
+              <article-title>Antidepressant-Induced Acute liver injury: a case-control study in an Italian inpatient population.</article-title>
+              <source>Drug Saf</source>
+              <year>2018</year>
+              <volume>41</volume>
+              <fpage>95</fpage>
+              <lpage>102</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Among 179 cases of hospitalizations for unexplained acute liver injury enrolled in an Italian prospective study between 2010 and 2014, 17 had been exposed to&#x000a0;antidepressants&#x000a0;including citalopram [n=4], sertraline [n=3], amitriptyline [n=3] and paroxetine [n=2], clomipramine [n=1] and amitriptyline [n=1]).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">28770534</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Trimipramine.REF.billioti_de_gage.2018.673">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Billioti de Gage</surname>
+                  <given-names>S</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Collin</surname>
+                  <given-names>C</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Le-Tri</surname>
+                  <given-names>T</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Pariente</surname>
+                  <given-names>A</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>B&#x000e9;gaud</surname>
+                  <given-names>B</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Verdoux</surname>
+                  <given-names>H</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Dray-Spira</surname>
+                  <given-names>R</given-names>
+                </name>
+                <etal/>
+              </person-group>
+              <article-title>Antidepressants and hepatotoxicity: a cohort study among 5 million individuals registered in the French National Health Insurance Database.</article-title>
+              <source>CNS Drugs</source>
+              <year>2018</year>
+              <volume>32</volume>
+              <fpage>673</fpage>
+              <lpage>84</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Among 5 million persons identified in a national French health insurance database who started an antidepressant between 2010 and 2015, 382 developed serious liver injury resulting in hospitalization, rates per 100,0000 persons-years being 19 for SSRIs, 22 venlafaxine, 13 duloxetine, and 33 mirtazapine; conventional tricyclics and MAO inhibitors not discussed).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">29959758</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Trimipramine.REF.pladevallvila.2019.383">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Pladevall-Vila</surname>
+                  <given-names>M</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Potteg&#x000e5;rd</surname>
+                  <given-names>A</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Schink</surname>
+                  <given-names>T</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Reutfors</surname>
+                  <given-names>J</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Morros</surname>
+                  <given-names>R</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Poblador-Plou</surname>
+                  <given-names>B</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Timmer</surname>
+                  <given-names>A</given-names>
+                </name>
+                <etal/>
+              </person-group>
+              <article-title>Risk of acute liver injury in agomelatine and other antidepressant users in four European countries: a cohort and nested case-control study using automated health data sources.</article-title>
+              <source>CNS Drugs</source>
+              <year>2019</year>
+              <volume>33</volume>
+              <fpage>383</fpage>
+              <lpage>95</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Analysis of data sources from 4 European countries identified 3.2 million persons initiating antidepressant therapy among whom there was no increased risk for acute liver injury for agomelatine compared to citalopram, an SSRI with a low rate of hepatotoxicity).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">30830574</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Trimipramine.REF33">
+            <element-citation publication-type="journal">
+              <article-title>Drugs for depression.</article-title>
+              <source>Med Lett Drugs Ther</source>
+              <year>2020</year>
+              <volume>62</volume>
+              <issue>1592</issue>
+              <fpage>25</fpage>
+              <lpage>32</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Concise review of the mechanism of action, clinical efficacy, safety and costs of drugs for depression, mentions that tricyclics and MAO inhibitors remain valuable alternatives for treatment of moderate to severe depression, despite concerns about their safety; hepatotoxicity is mentioned only for nefazodone [now rarely used because of severe hepatotoxicity] and duloxetine [in heavy drinkers]).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32320387</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Trimipramine.REF.ueberberg.2020.60">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Ueberberg</surname>
+                  <given-names>B</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Frommberger</surname>
+                  <given-names>U</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Messer</surname>
+                  <given-names>T</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Zwanzger</surname>
+                  <given-names>P</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Kuhn</surname>
+                  <given-names>J</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Anghelescu</surname>
+                  <given-names>I</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Ackermann</surname>
+                  <given-names>K</given-names>
+                </name>
+                <etal/>
+              </person-group>
+              <article-title>Drug-induced liver injury (DILI) in patients with depression treated with antidepressants: a retrospective multicenter study.</article-title>
+              <source>Pharmacopsychiatry</source>
+              <year>2020</year>
+              <volume>53</volume>
+              <fpage>60</fpage>
+              <lpage>4</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Among 329 psychiatric inpatients with depression seen at 6 psychiatric centers in Germany, 17 [5%] had serum aminotransferase elevations but none had clinically apparent liver injury, most commonly implicated drugs included mirtazapine, agomelatine, citalopram and venlafaxine).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">31958850</pub-id>
+            </element-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec sec-type="link-group" id="Trimipramine.OTHER_REFERENCE_LINKS">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <label>1</label>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/pubmed?cmd=search&#x00026;pubmedfilters=true&#x00026;term=(Trimipramine%2FAE)+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice%2FCI+OR+bile+duct+diseases%2FCI+OR+liver%2FDE+OR+liver+diseases%2FCI)+AND+(%221900%2F1%2F1%22%5BEDat%5D%3A%222999%2F12%2F31%22%5BEDat%5D)">Recent References on Trimipramine: from PubMed.gov</ext-link>
+            </p>
+          </list-item>
+          <list-item>
+            <label>2</label>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.clinicaltrials.gov/ct2/results?term=Trimipramine">Trials on Trimipramine: from ClinicalTrials.gov</ext-link>
+            </p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

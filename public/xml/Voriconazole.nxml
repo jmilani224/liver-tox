@@ -1,0 +1,429 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Voriconazole" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Voriconazole</book-part-id>
+      <title-group>
+        <title>Voriconazole</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>17</day>
+          <month>5</month>
+          <year>2017</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Vorapaxar" document-type="chapter">Vorapaxar</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Vorinostat" document-type="chapter">Vorinostat</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Voriconazole.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Voriconazole.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Voriconazole is a triazole antifungal agent used primarily in the treatment or prevention of aspergillosis and candidal infections. Voriconazole therapy is associated with transient, asymptomatic serum aminotransferase elevations and is a known cause of clinically apparent acute drug induced liver injury.</p>
+        </sec>
+        <sec id="Voriconazole.Background">
+          <title>Background</title>
+          <p>Voriconazole (vor" i kon' a zole) is a synthetic triazole and a derivative of fluconazole, which is believed to act through inhibition of the fungal 14&#x003b1;-ergosterol demethylase that is responsible for converting lanosterol to ergosterol, which blocks cell membrane synthesis. Voriconazole has a broad spectrum of activity particularly against candida and aspergillus. Voriconazole was approved for use in the United States in 2002. Current indications include treatment of invasive aspergillosis, esophageal candidiasis and serious candidal infections. It is also used as empiric antifungal therapy in patients with neutropenia and persistent fever as well as preventive antifungal therapy in high risk individuals. Voriconazole is available as tablets of 50 and 200 mg, in an oral suspension (40 mg/mL) and in a parenteral formulation generically and under the brand name Vfend. Serious fungal infections are typically treated initially with intravenous voriconazole (4 to 6 mg/kg every 12 hours) for 3 to 10 days, followed by more prolonged therapy with oral forms (20 mg every 12 hours). Common side effects include nausea, photosensitivity, hallucinations, headache, visual disturbances and rash.</p>
+        </sec>
+        <sec id="Voriconazole.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>Transient elevations in serum aminotransferase levels occur in 11% to 19% of patients on voriconazole. These elevations are usually asymptomatic and self-limited, but approximately 1% of patients require discontinuation of voriconazole because of ALT elevations. Clinically apparent hepatotoxicity is uncommon, but may be more frequent than with fluconazole and itraconazole. The injury arises within the first month of therapy and the pattern of serum enzyme elevations has been variable from cholestatic to hepatocellular. Several cases of acute liver failure attributed to voriconazole have been reported. Immunoallergic features and autoantibodies are uncommon. Recovery upon stopping therapy generally takes 6 to 10 weeks but, in some cases, the time to complete resolution may be prolonged.</p>
+          <p>Likelihood score: B (likely cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Voriconazole.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The cause of clinically apparent hepatotoxicity from voriconazole is unknown; however, it may have some correlation to the ability of voriconazole to alter human sterol synthesis. Because voriconazole is a substrate for several P450 enzymes (CYP 2C19, 2C9, 3A4), it has the potential to cause significant drug-drug interactions, including elevations in plasma levels of other medications that are metabolized by these P450 enzymes, sometimes resulting in toxicity. Alternatively, voriconazole plasma levels might be affected by CYP inhibitors.</p>
+        </sec>
+        <sec id="Voriconazole.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>The severity of the liver injury from voriconazole ranges from mild and transient enzyme elevations to symptomatic or severe hepatitis leading to liver transplantation or death. Cases of acute liver failure have been described due to voriconazole, but not chronic liver injury or vanishing bile duct syndrome. Most cases of voriconazole hepatotoxicity resolve with discontinuation of the medication, but the improvements may be delayed and typically require 1 to 3 months. Rechallenge may lead to recurrence and should be avoided. Testing for serum bilirubin and aminotransferase levels is rercommended at the time of starting and weekly during the first month of voriconazole therapy and monthly thereafter. The relationship between voriconazole trough plasma levels of hepatotoxicity is, however, controversial. There is little information on cross reactivity of hepatic injury between voriconazole and other antifungal azoles, such as ketoconazole, itraconazole, fluconazole and posaconazole. While a few reports suggest that there is little cross reactivity, other azoles should be started with caution in patients who have suffered clinically apparent hepatotoxicity attributed to voriconazole.</p>
+          <p>Drug Class: <related-object source-id="livertox" document-id="AntifungalAgents">Antifungal Agents</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Voriconazole.CASE_REPORT">
+        <title>CASE REPORT</title>
+        <sec id="Voriconazole.Case_1._Fulminant_liver_fai">
+          <title>Case 1. Fulminant liver failure following voriconazole therapy in a child with AIDS.</title>
+          <p>[Modified from: Scherpbier H, Hilhorst M, Kuijpers T. Liver failure in a child receiving highly active antiretroviral therapy and voriconazole. Clin Infect Dis 2003; 37: 828-30. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/pubmed/12955645">PubMed Citation</ext-link>]</p>
+          <p>A 10 year old with HIV infection and AIDS developed serum enzyme elevations within a day of starting voriconazole for esophageal candidiasis after failure of itraconazole, fluconazole, amphotericin B and flucytosine. Serum aminotransferase levels continued to rise and voriconazole was stopped on day 7. The patient&#x02019;s liver function deteriorated rapidly even after stopping voriconazole treatment. Tests for hepatitis A, B and C were negative. Because of worsening hepatic function, her antiretroviral medications were also stopped, but her liver disease progressed to hepatic failure, coma and death 28 days after starting voriconazole.</p>
+          <sec id="Voriconazole.Key_Points">
+            <title>Key Points</title>
+            <table-wrap id="Voriconazole.T1" position="anchor" orientation="portrait">
+              <table>
+                <tbody>
+                  <tr>
+                    <td rowspan="1" colspan="1">Medication:</td>
+                    <td rowspan="1" colspan="1">Voriconazole</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Pattern:</td>
+                    <td rowspan="1" colspan="1">Hepatocellular (R=28)</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Severity:</td>
+                    <td rowspan="1" colspan="1">5+ (death from hepatic failure)</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Latency:</td>
+                    <td rowspan="1" colspan="1">1 day to serum aminotransferase elevations, 1 week to jaundice</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Recovery:</td>
+                    <td rowspan="1" colspan="1">None</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Other medications:</td>
+                    <td rowspan="1" colspan="1">Amprenavir, didanosine, nevirapine, lopinavir/ritonavir</td>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Voriconazole.Laboratory_Values">
+            <title>Laboratory Values</title>
+            <table-wrap id="Voriconazole.T2" position="anchor" orientation="portrait">
+              <table>
+                <thead>
+                  <tr>
+                    <th id="hd_h_Voriconazole.T2_1_1_1_1" rowspan="1" colspan="1">Time After Starting</th>
+                    <th id="hd_h_Voriconazole.T2_1_1_1_2" rowspan="1" colspan="1">Time After Stopping</th>
+                    <th id="hd_h_Voriconazole.T2_1_1_1_3" rowspan="1" colspan="1">ALT (U/L)</th>
+                    <th id="hd_h_Voriconazole.T2_1_1_1_4" rowspan="1" colspan="1">AST (U/L)</th>
+                    <th id="hd_h_Voriconazole.T2_1_1_1_5" rowspan="1" colspan="1">Alk P (U/L)</th>
+                    <th id="hd_h_Voriconazole.T2_1_1_1_6" rowspan="1" colspan="1">Bilirubin (mg/dL)</th>
+                    <th id="hd_h_Voriconazole.T2_1_1_1_7" rowspan="1" colspan="1">Other</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td headers="hd_h_Voriconazole.T2_1_1_1_1" rowspan="1" colspan="1">-12 days</td>
+                    <td headers="hd_h_Voriconazole.T2_1_1_1_2" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Voriconazole.T2_1_1_1_3" rowspan="1" colspan="1">23</td>
+                    <td headers="hd_h_Voriconazole.T2_1_1_1_4" rowspan="1" colspan="1">54</td>
+                    <td headers="hd_h_Voriconazole.T2_1_1_1_5" rowspan="1" colspan="1">104</td>
+                    <td headers="hd_h_Voriconazole.T2_1_1_1_6" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Voriconazole.T2_1_1_1_7" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Voriconazole.T2_1_1_1_1" rowspan="1" colspan="1">1 day</td>
+                    <td headers="hd_h_Voriconazole.T2_1_1_1_2" rowspan="1" colspan="1">0</td>
+                    <td headers="hd_h_Voriconazole.T2_1_1_1_3" rowspan="1" colspan="1">53</td>
+                    <td headers="hd_h_Voriconazole.T2_1_1_1_4" rowspan="1" colspan="1">127</td>
+                    <td headers="hd_h_Voriconazole.T2_1_1_1_5" rowspan="1" colspan="1">113</td>
+                    <td headers="hd_h_Voriconazole.T2_1_1_1_6" rowspan="1" colspan="1">0.2</td>
+                    <td headers="hd_h_Voriconazole.T2_1_1_1_7" rowspan="1" colspan="1">Voriconazole started</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Voriconazole.T2_1_1_1_1" rowspan="1" colspan="1">7 days</td>
+                    <td headers="hd_h_Voriconazole.T2_1_1_1_2" rowspan="1" colspan="1">0</td>
+                    <td headers="hd_h_Voriconazole.T2_1_1_1_3 hd_h_Voriconazole.T2_1_1_1_4 hd_h_Voriconazole.T2_1_1_1_5 hd_h_Voriconazole.T2_1_1_1_6" colspan="4" rowspan="1">Voriconazole stopped</td>
+                    <td headers="hd_h_Voriconazole.T2_1_1_1_7" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Voriconazole.T2_1_1_1_1" rowspan="1" colspan="1">9 days</td>
+                    <td headers="hd_h_Voriconazole.T2_1_1_1_2" rowspan="1" colspan="1">2 days</td>
+                    <td headers="hd_h_Voriconazole.T2_1_1_1_3" rowspan="1" colspan="1">209</td>
+                    <td headers="hd_h_Voriconazole.T2_1_1_1_4" rowspan="1" colspan="1">1401</td>
+                    <td headers="hd_h_Voriconazole.T2_1_1_1_5" rowspan="1" colspan="1">215</td>
+                    <td headers="hd_h_Voriconazole.T2_1_1_1_6" rowspan="1" colspan="1">2.0</td>
+                    <td headers="hd_h_Voriconazole.T2_1_1_1_7" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Voriconazole.T2_1_1_1_1" rowspan="1" colspan="1">12 days</td>
+                    <td headers="hd_h_Voriconazole.T2_1_1_1_2" rowspan="1" colspan="1">5 days</td>
+                    <td headers="hd_h_Voriconazole.T2_1_1_1_3" rowspan="1" colspan="1">553</td>
+                    <td headers="hd_h_Voriconazole.T2_1_1_1_4" rowspan="1" colspan="1">5977</td>
+                    <td headers="hd_h_Voriconazole.T2_1_1_1_5" rowspan="1" colspan="1">-</td>
+                    <td headers="hd_h_Voriconazole.T2_1_1_1_6" rowspan="1" colspan="1">3.2</td>
+                    <td headers="hd_h_Voriconazole.T2_1_1_1_7" rowspan="1" colspan="1">Antiretrovirals stopped</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Voriconazole.T2_1_1_1_1" rowspan="1" colspan="1">16 days</td>
+                    <td headers="hd_h_Voriconazole.T2_1_1_1_2" rowspan="1" colspan="1">9 days</td>
+                    <td headers="hd_h_Voriconazole.T2_1_1_1_3" rowspan="1" colspan="1">842</td>
+                    <td headers="hd_h_Voriconazole.T2_1_1_1_4" rowspan="1" colspan="1">8534</td>
+                    <td headers="hd_h_Voriconazole.T2_1_1_1_5" rowspan="1" colspan="1">-</td>
+                    <td headers="hd_h_Voriconazole.T2_1_1_1_6" rowspan="1" colspan="1">5.9</td>
+                    <td headers="hd_h_Voriconazole.T2_1_1_1_7" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Voriconazole.T2_1_1_1_1" rowspan="1" colspan="1">4 weeks</td>
+                    <td headers="hd_h_Voriconazole.T2_1_1_1_2" rowspan="1" colspan="1">3 weeks</td>
+                    <td headers="hd_h_Voriconazole.T2_1_1_1_3" rowspan="1" colspan="1">334</td>
+                    <td headers="hd_h_Voriconazole.T2_1_1_1_4" rowspan="1" colspan="1">593</td>
+                    <td headers="hd_h_Voriconazole.T2_1_1_1_5" rowspan="1" colspan="1">-</td>
+                    <td headers="hd_h_Voriconazole.T2_1_1_1_6" rowspan="1" colspan="1">6.3</td>
+                    <td headers="hd_h_Voriconazole.T2_1_1_1_7" rowspan="1" colspan="1">Death</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Voriconazole.T2_1_1_1_1 hd_h_Voriconazole.T2_1_1_1_2" colspan="2" rowspan="1">
+                      <bold>Normal Values</bold>
+                    </td>
+                    <td headers="hd_h_Voriconazole.T2_1_1_1_3" rowspan="1" colspan="1">
+                      <bold>&#x0003c;45</bold>
+                    </td>
+                    <td headers="hd_h_Voriconazole.T2_1_1_1_4" rowspan="1" colspan="1">
+                      <bold>&#x0003c;40</bold>
+                    </td>
+                    <td headers="hd_h_Voriconazole.T2_1_1_1_5" rowspan="1" colspan="1">
+                      <bold>&#x0003c;120</bold>
+                    </td>
+                    <td headers="hd_h_Voriconazole.T2_1_1_1_6" rowspan="1" colspan="1">
+                      <bold>&#x0003c;1.2</bold>
+                    </td>
+                    <td headers="hd_h_Voriconazole.T2_1_1_1_7" rowspan="1" colspan="1"/>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Voriconazole.Comment">
+            <title>Comment</title>
+            <p>While there was a temporal relationship between starting voriconazole and the onset of serum aminotransferase elevations, this child was receiving several other potentially hepatotoxic agents and serum enzymes were slightly elevated before voriconazole was started. Although she had been on a stable antiretroviral regimen for many months, the voriconazole, by inhibiting CYP 3A4 activity, may have caused elevations in her antiretroviral drug levels leading to hepatotoxicity. Also unusual was the discrepancy between AST and ALT elevations which suggests muscle or heart injury as well. Nevertheless, other aspects of the case suggest the role of voriconazole in an acute hepatitis-like clinical syndrome arising within a week of starting medication. As is typical, recovery can be delayed, and the disease may progress during the 1 to 4 weeks after stopping medication.</p>
+          </sec>
+        </sec>
+      </sec>
+      <sec id="Voriconazole.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <boxed-text position="anchor" id="Voriconazole.BPI" orientation="portrait">
+          <p>
+            <bold>REPRESENTATIVE TRADE NAMES</bold>
+          </p>
+          <p>Voriconazole &#x02013; Generic, Vfend&#x000ae;</p>
+          <p>
+            <bold>DRUG CLASS</bold>
+          </p>
+          <p>Antifungal Agents</p>
+          <p>
+            <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=voriconazole">COMPLETE LABELING</ext-link>
+          </p>
+          <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+        </boxed-text>
+      </sec>
+      <sec id="Voriconazole.CHEMICAL_FORMULA_AND_STRUCT">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Voriconazole.T3" position="anchor" orientation="portrait">
+          <table>
+            <thead>
+              <tr>
+                <th id="hd_h_Voriconazole.T3_1_1_1_1" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Voriconazole.T3_1_1_1_2" rowspan="1" colspan="1">CAS REGISTRY NUMBER</th>
+                <th id="hd_h_Voriconazole.T3_1_1_1_3" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Voriconazole.T3_1_1_1_4" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Voriconazole.T3_1_1_1_1" rowspan="1" colspan="1">Voriconazole</td>
+                <td headers="hd_h_Voriconazole.T3_1_1_1_2" rowspan="1" colspan="1">
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135029377">137234-62-9</ext-link>
+                </td>
+                <td headers="hd_h_Voriconazole.T3_1_1_1_3" rowspan="1" colspan="1">C16-H14-F3-N5-O</td>
+                <td headers="hd_h_Voriconazole.T3_1_1_1_4" rowspan="1" colspan="1">
+                  <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="voriconazole.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait">
+                    <alt-text>Image of Voriconazole Chemical Structure</alt-text>
+                  </graphic>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Voriconazole.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 17 May 2017</p>
+        <ref-list id="Voriconazole.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Voriconazole.R1">
+            <mixed-citation publication-type="other">Zimmerman HJ. Antifungal agents. In, Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999, pp. 609-11.<annotation><p><italic toggle="yes">(Expert review of hepatotoxicity of antifungal agents published in 1999 before the availability of voriconazole).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Voriconazole.R2">
+            <mixed-citation publication-type="other">Moseley RH. Antifungal agents. Antibacterial and antifungal agents. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013, pp. 470-81. <italic toggle="yes">(Review of hepatotoxicity of antifungal agents</italic><annotation><p><italic toggle="yes">; mentions that asymptomatic elevations in liver enzymes occur in 5-15% of patients treated with voriconazole, and that life-threatening, acute hepatocellular injury have been linked to its use).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Voriconazole.R3">
+            <mixed-citation publication-type="other">Bennett JE. Antimicrobial agents: antifungal agents. In, Brunton LL, Chabner BA, Knollman BC, eds. Goodman &#x00026; Gilman&#x02019;s the pharmacological basis of therapeutics. 12th ed. New York: McGraw-Hill, 2011, pp. 1571-92.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics; voriconazole is similar to fluconazole, but has expanded activity in vitro; it has nonlinear metabolism through CYP 2C19, 2C9 and 3A4 and plasma levels can vary greatly).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Voriconazole.R4">
+            <mixed-citation publication-type="journal">Scherpbier H, Hilhorst M, Kuijpers T. Liver failure in a child receiving highly active antiretroviral therapy and voriconazole. Clin Infect Dis 2003; 37: 828-30. <annotation><p><italic toggle="yes">(10 year old girl with AIDS on antiretroviral therapy developed ALT elevations 1 day after starting voriconazole for resistant esophageal candidiasis, requiring discontinuation of voriconazole after 7 days [bilirubin 0.3 rising to 6.3 mg/dL, ALT 23 to 209 U/L, Alk P 113 to 215 U/L], with progressive liver failure and death 28 days later: Case 1).</italic></p></annotation><pub-id pub-id-type="pmid">12955645</pub-id></mixed-citation>
+          </ref>
+          <ref id="Voriconazole.R5">
+            <mixed-citation publication-type="journal">Walsh TJ, Lutsar I, Driscoll T, Dupont B, Roden M, Ghahramani P, Hodges M, et al. Voriconazole in the treatment of aspergillosis, scedosporiosis and other invasive fungal infections in children. Pediatr Infect Dis J 2002; 21: 240-8. <annotation><p><italic toggle="yes">(Experience in treating 69 children with invasive fungal infections with voriconazole for an average of 3 months, 8 had ALT [12%: 127-620 U/L], 5 Alk P [7%: 694-1214 U/L] and 9 bilirubin [13%: 1.7-14.8 mg/dL] elevations; 2 requiring discontinuation; no deaths from liver failure).</italic></p></annotation><pub-id pub-id-type="pmid">12005089</pub-id></mixed-citation>
+          </ref>
+          <ref id="Voriconazole.R6">
+            <mixed-citation publication-type="journal">Denning DW, Ribaud P, Milpied N, Caillot D, Herbrecht R, Thiel E, Haas A, et al. Efficacy and safety of voriconazole in the treatment of acute invasive aspergillosis. Clin Infect Dis 2002; 34: 563-71. <annotation><p><italic toggle="yes">(Open label study with monitoring for liver injury in 137 patients with aspergillosis; 20 patients required discontinuation of voriconazole because of ALT elevations, usually during the first month; unclear whether the cases were clinically apparent or resolved with stopping).</italic></p></annotation><pub-id pub-id-type="pmid">11807679</pub-id></mixed-citation>
+          </ref>
+          <ref id="Voriconazole.R7">
+            <mixed-citation publication-type="journal">Walsh TJ, Pappas P, Winston DJ, Lazarus HM, Petersen F, Raffalli J, Yanovich S, et al.; National Institute of Allergy and Infectious Diseases Mycoses Study Group. Voriconazole compared with liposomal amphotericin B for empirical antifungal therapy in patients with neutropenia and persistent fever. N Engl J Med 2002; 346: 225-34. <annotation><p><italic toggle="yes">(Randomized trial in 837 patients with fever and neutropenia; ALT levels rose to &#x0003e;5 times baseline in 7% of patients on voriconazole and 8% on amphotericin B; no clinically apparent hepatitis or acute liver failure).</italic></p></annotation><pub-id pub-id-type="pmid">11807146</pub-id></mixed-citation>
+          </ref>
+          <ref id="Voriconazole.R8">
+            <mixed-citation publication-type="journal">Spellberg B, Rieg G, Bayer A, Edwards JE Jr. Lack of cross-hepatotoxicity between fluconazole and voriconazole. Clin Infect Dis 2003; 36: 1091-3. <annotation><p><italic toggle="yes">(32 year old man with fungal meningitis developed ALT elevations 13 days after starting fluconazole which continued to increase despite dose reduction, peaking at ALT 967 U/L, Alk P 132 U/L, but normal bilirubin; switching to voriconazole was followed by fall towards normal).</italic></p></annotation><pub-id pub-id-type="pmid">12684933</pub-id></mixed-citation>
+          </ref>
+          <ref id="Voriconazole.R9">
+            <mixed-citation publication-type="journal">Fischer MA, Winkelmayer WC, Rubin RH, Avorn J. The hepatotoxicity of antifungal medications in bone marrow transplant recipients. Clin Infect Dis 2005; 41: 301-7. <annotation><p><italic toggle="yes">(Among 587 patients undergoing bone marrow transplantation, 123 had evidence of liver injury after transplant; case control analysis found increased rate of liver injury associated with fluconazole and amphotericin; ketoconazole, itraconazole and voriconazole were infrequently used and could not be evaluated).</italic></p></annotation><pub-id pub-id-type="pmid">16007524</pub-id></mixed-citation>
+          </ref>
+          <ref id="Voriconazole.R10">
+            <mixed-citation publication-type="journal">Wingard J, Leather H. Hepatotoxicity associated with antifungal therapy after bone marrow transplantation. Clin Infect Dis 2005; 41: 308-10. <annotation><p><italic toggle="yes">(Editorial in response to the article by Fisher et al. [2005]; discusses the difficulties of detection, diagnosis, attribution and management of liver test abnormalities after bone marrow transplantation).</italic></p></annotation><pub-id pub-id-type="pmid">16007525</pub-id></mixed-citation>
+          </ref>
+          <ref id="Voriconazole.R11">
+            <mixed-citation publication-type="journal">Song J, Deresinski S. Hepatotoxicity of antifungal agents. Curr Opin Investig Drugs 2005; 6: 170-7. <annotation><p><italic toggle="yes">(Extensive review of hepatotoxicity from antifungals; pooled data on 2090 patients treated with voriconazole found ALT elevations in 11% to 19%, discontinuation for ALT elevations in 1%; in addition, 19 cases [0.9%] of hepatic failure have been reported in patients receiving voriconazole in clinical trials).</italic></p></annotation><pub-id pub-id-type="pmid">15751740</pub-id></mixed-citation>
+          </ref>
+          <ref id="Voriconazole.R12">
+            <mixed-citation publication-type="journal">Girois SB, Chapuis F, Decullier E, Revol BG. Adverse effects of antifungal therapies in invasive fungal infections: review and meta-analysis. Eur J Clin Microbiol Infect Dis 2006; 25: 138-49. <annotation><p><italic toggle="yes">(Systematic review of adverse effects of antifungal therapy in 54 studies with 9228 patients; hepatotoxicity reported in 14.1-18.6% on amphotericin, 1.9% on fluconazole, and 31.6% on itraconazole, but great variation in definitions and intensity of monitoring; voriconazole not discussed).</italic></p></annotation><pub-id pub-id-type="pmid">16622909</pub-id></mixed-citation>
+          </ref>
+          <ref id="Voriconazole.R13">
+            <mixed-citation publication-type="journal">den Hollander JG, van Arkel C, Rijnders BJ, Lugtenburg PJ, de Marie S, Levin M-D. Incidence of voriconazole hepatotoxicity during intravenous and oral treatment for invasive fungal infections. J Antimicrob Chemother 2006; 57: 1248-50. <annotation><p><italic toggle="yes">(Retrospective analysis of 46 patients treated with iv vs oral voriconazole; 24 patients [61%] developed ALT elevations above 3 times normal, usually within first few weeks, similar with iv and oral therapy).</italic></p></annotation><pub-id pub-id-type="pmid">16556632</pub-id></mixed-citation>
+          </ref>
+          <ref id="Voriconazole.R14">
+            <mixed-citation publication-type="journal">Husain S, Paterson DL, Studer S, Pilewski J, Crespo M, Zaldonis D, Shutt K, et al. Voriconazole prophylaxis in lung transplant recipients. Am J Transplant 2006; 6: 3008-16. <annotation><p><italic toggle="yes">(Comparison of voriconazole vs itraconazole prophylaxis against invasive fungal infections after lung transplantation; 45% of patients on voriconazole vs 15% of itraconazole developed ALT levels above 3 times normal, and discontinuation required for ALT elevations in 14% vs 7%; all ultimately resolved).</italic></p></annotation><pub-id pub-id-type="pmid">17062003</pub-id></mixed-citation>
+          </ref>
+          <ref id="Voriconazole.R15">
+            <mixed-citation publication-type="journal">Porte L, Khatibi S, Hajj LE, Cassaing S, Berry A, Massip P, Linas MD, et al. Scedosporium apiospermum mycetoma with bone involvement successfully treated with voriconazole. Trans R Soc Trop Med Hyg 2006; 100: 891-4. <annotation><p><italic toggle="yes">(49 year old woman with Madura foot who failed to respond to multiple other antifungals had clinical response to voriconazole, but developed abnormal liver tests with Alk P 616 U/L and ALT ~2-3 times normal, but after 18 months developed abdominal pain with ALT 17 times normal and voriconazole was stopped with prompt fall of enzymes to normal).</italic></p></annotation><pub-id pub-id-type="pmid">16714039</pub-id></mixed-citation>
+          </ref>
+          <ref id="Voriconazole.R16">
+            <mixed-citation publication-type="journal">Sambatakou H, Dupont B, Lode H, Denning DW. Voriconazole treatment for subacute invasive and chronic pulmonary aspergillosis. Am J Med 2006; 119: 527. e17-24. <annotation><p><italic toggle="yes">(32 patients with aspergillosis given voriconazole for 4-24 weeks; 13 [41%] had abnormalities of liver tests, often in first 4 weeks, two were severe, but other abnormalities resolved even on therapy).</italic></p></annotation><pub-id pub-id-type="pmid">16750972</pub-id></mixed-citation>
+          </ref>
+          <ref id="Voriconazole.R17">
+            <mixed-citation publication-type="journal">Tan K, Brayshaw N, Tomaszewski K, Troke P, Wood N. Investigation of the potential relationships between plasma voriconazole concentrations and visual adverse events or liver function test abnormalities. J Clin Pharmacol 2006; 46: 235-43. <annotation><p><italic toggle="yes">(Prospective analysis of relationship between plasma levels of voriconazole and ALT elevations; ALT elevations occurred in 2-5% of patients and did not correlate with plasma levels, whereas AST, Alk P and bilirubin elevations did).</italic></p></annotation><pub-id pub-id-type="pmid">16432276</pub-id></mixed-citation>
+          </ref>
+          <ref id="Voriconazole.R18">
+            <mixed-citation publication-type="journal">Levin MD, den Hollander JG, van der Holt B, Rijnders BJ, van Vliet M, Sonneveld P, van Schaik RHN. Hepatotoxicity of oral and intravenous voriconazole in relation to cytochrome P450 polymorphisms. J Antimicrob Chemother 2007; 60: 1104-7. <annotation><p><italic toggle="yes">(Among 86 patients on voriconazole, P450 polymorphisms in CYP 2C19, 2C9, and 3A5 did not correlate with individual degree of rises in bilirubin, Alk P, GGT, ALT or AST levels).</italic></p></annotation><pub-id pub-id-type="pmid">17827141</pub-id></mixed-citation>
+          </ref>
+          <ref id="Voriconazole.R19">
+            <mixed-citation publication-type="journal">Foo H, Gottlieb T. Lack of cross-hepatotoxicity between voriconazole and posaconazole. Clin Infect Dis 2007; 45: 803-5. <annotation><p><italic toggle="yes">(70 year old man developed cholestatic liver enzyme elevations within a month of starting amphotericin and voriconazole [bilirubin normal, Alk P 1210 U/L, ALT 104 U/L], which fell towards normal when switched to posaconazole).</italic></p></annotation><pub-id pub-id-type="pmid">17712772</pub-id></mixed-citation>
+          </ref>
+          <ref id="Voriconazole.R20">
+            <mixed-citation publication-type="journal">Eiden C, Peyri&#x000e8;re H, Cociglio M, Djezzar S, Hansel S, Blayac J, Hillaire-Buys D. Adverse effects of voriconazole: analysis of the French pharmacovigilance database. Ann Pharmacother 2007; 41: 755-63. <annotation><p><italic toggle="yes">(In first 4 years of use of voriconazole in France, 227 adverse events were reported to a Federal registry, including 52 hepatic events, usually serum aminotransferase elevations only; 2 deaths).</italic></p></annotation><pub-id pub-id-type="pmid">17456542</pub-id></mixed-citation>
+          </ref>
+          <ref id="Voriconazole.R21">
+            <mixed-citation publication-type="journal">Howard A, Hoffman J, Sheth A. Clinical application of voriconazole concentrations in the treatment of invasive aspergillosis. Ann Pharmacother 2008; 42: 1859-64. <annotation><p><italic toggle="yes">(Review of literature on usefulness of monitoring voriconazole drug levels both for efficacy and safety).</italic></p></annotation><pub-id pub-id-type="pmid">19017830</pub-id></mixed-citation>
+          </ref>
+          <ref id="Voriconazole.R22">
+            <mixed-citation publication-type="journal">Chalasani N, Fontana RJ, Bonkovsky HL, Watkins PB, Davern T, Serrano J, Yang H, Rochon J; Drug Induced Liver Injury Network (DILIN). Causes, clinical features, and outcomes from a prospective study of drug-induced liver injury in the United States. Gastroenterology 2008; 135: 1924-34. <annotation><p><italic toggle="yes">(Among 300 cases of drug induced liver disease in the US collected from 2004 to 2008, two cases were attributed to fluconazole, and one to ketoconazole, one to itraconazole, none to voriconazole).</italic></p></annotation><pub-id pub-id-type="pmid">18955056</pub-id></mixed-citation>
+          </ref>
+          <ref id="Voriconazole.R23">
+            <mixed-citation publication-type="journal">Neely M, Rushing T, Kovacs A, Jelliffe R, Hoffman J. Voriconazole pharmacokinetics and pharmacodynamics in children. Clin Infect Dis 2010; 50: 27-36. <annotation><p><italic toggle="yes">(Among 46 children treated wtih voriconazole in various doses, 10 had ALT elevations on therapy, peaking at 63 days at an average of 8 fold baseline; no information on outcome or clinical features of injury; no correlation of ALT elevations with drug levels).</italic></p></annotation><pub-id pub-id-type="pmid">19951112</pub-id></mixed-citation>
+          </ref>
+          <ref id="Voriconazole.R24">
+            <mixed-citation publication-type="journal">Cadena J, Levine DJ, Angel LF, Maxwell PR, Brady R, Sanchez JF, Michalek JE, et al. Antifungal prophylaxis with voriconazole or itraconazole in lung transplant recipients: hepatotoxicity and effectiveness. Am J Transpl 2009; 9: 2085-91. <annotation><p><italic toggle="yes">(Retrospective analysis of safety of prophylaxis with voriconazole and inhaled amphotericin B [35 patients] vs itraconazole [32] in lung transplant recipients; 12 voriconazole but no itraconazole treated patients developed liver injury; details not provided). </italic></p></annotation><pub-id pub-id-type="pmid">19645709</pub-id></mixed-citation>
+          </ref>
+          <ref id="Voriconazole.R25">
+            <mixed-citation publication-type="journal">Ueda K, Nannya Y, Kumano K, Hangaishi A, Takahashi T, Imai Y, Kurokawa M. Monitoring trough concentration of voriconazole is important to ensure successful antifungal therapy and to avoid hepatic damage in patients with hematological disorders. Int J Hematol 2009; 89: 592-9. <annotation><p><italic toggle="yes">(Liver enzyme elevations occurred only with voriconazole levels over 6 mg/L).</italic></p></annotation><pub-id pub-id-type="pmid">19340528</pub-id></mixed-citation>
+          </ref>
+          <ref id="Voriconazole.R26">
+            <mixed-citation publication-type="journal">Matsumoto K, Ikawa K, Abematsu K, Fukunaga N, Nishida K, Fukamizu T, Shimodozono Y, et al. Correlation between voriconazole trough plasma concentration and hepatotoxicity in patients with different CYP2C19 genotypes. Int J Antimicrob Agents. 2009; 34: 91-4. <italic toggle="yes">(Study of effect of CYP2C19 polymorphism on the relationship between voriconazole trough concentrations and hepatotoxicity in 29 Japanese patients with fungal infections; 10 [34.5%] of 29 patients</italic> with &#x02265;3.9 mg/<italic toggle="yes">L</italic><annotation><p><italic toggle="yes">developed liver enzyme elevations).</italic></p></annotation><pub-id pub-id-type="pmid">19261446</pub-id></mixed-citation>
+          </ref>
+          <ref id="Voriconazole.R27">
+            <mixed-citation publication-type="journal">Bj&#x000f6;rnsson E, Davidsdottir L. The long-term follow-up after idiosyncratic drug-induced liver injury with jaundice. J Hepatol 2009; 50: 511-7. <annotation><p><italic toggle="yes">(In long term follow up of 685 patients with drug induced liver injury in Sweden, 8 were found to have developed cirrhosis, 5 of whom died including a 34 year old man with fluconazole hepatotoxicity who died 4 years later of complications of cirrhosis, possibly alcoholic).</italic></p></annotation><pub-id pub-id-type="pmid">19155082</pub-id></mixed-citation>
+          </ref>
+          <ref id="Voriconazole.R28">
+            <mixed-citation publication-type="journal">Antifungal drugs. Treat Guidel Med Lett 2009; 7: 95-102. <annotation><p><italic toggle="yes">(Concise summary of therapy of fungal infections with recommendations on agents, dosage and duration of treatment and safety; voriconazole is similar in activity to itraconazole; serum concentrations can accumulate and should be monitored, drug-drug interactions are common).</italic></p></annotation><pub-id pub-id-type="pmid">19940816</pub-id></mixed-citation>
+          </ref>
+          <ref id="Voriconazole.R29">
+            <mixed-citation publication-type="journal">Wang JL, Chang CH, Young-Xu Y, Chan KA. Systematic review and meta-analysis of the tolerability and hepatotoxicity of antifungals in empirical and definitive therapy for invasive fungal infection. Antimicrob Agents Chemother 2010; 54: 2409-19. <annotation><p><italic toggle="yes">(Systematic review of 39 controlled trials in more than 8000 patients, found liver enzyme elevations in 19.7% of patients on voriconazole, but few patients had to stop therapy for this reason; rate for itraconazole was 18.9%, fluconazole 10%).</italic></p></annotation><pub-id pub-id-type="pmid">20308378</pub-id></mixed-citation>
+          </ref>
+          <ref id="Voriconazole.R30">
+            <mixed-citation publication-type="journal">Ferrajolo C, Capuano A, Verhamme KM, Schuemie M, Rossi F, Stricker BH, Sturkenboom MC. Drug-induced hepatic injury in children: a case/non-case study of suspected adverse drug reactions in VigiBase. Br J Clin Pharmacol 2010; 70: 721-8. <annotation><p><italic toggle="yes">(Worldwide pharmacovigilance database contained 9036 hepatic adverse drug reactions in children, voriconazole ranked 21st with 52 cases [odds ratio 10.7] and fluconazole 30th with 42 cases [odds ratio 8.6]; no other antifungal agent listed in the top 40 causes).</italic></p></annotation><pub-id pub-id-type="pmid">21039766</pub-id></mixed-citation>
+          </ref>
+          <ref id="Voriconazole.R31">
+            <mixed-citation publication-type="journal">Amigues I, Cohen N, Chung D, Seo SK, Plescia C, Jakubowski A, Barker J, et al. Hepatic safety of voriconazole after allogeneic hematopoietic stem cell transplantation. Biol Blood Marrow Transplant 2010; 16: 46-52. <annotation><p><italic toggle="yes">(Retrospective review of 200 stem cell transplant recipients treated with voriconazole; 34% developed ALT or AST elevations &#x0003e;3 times ULN, but none had clinically apparent liver injury, liver failure or died).</italic></p></annotation><pub-id pub-id-type="pmid">20053331</pub-id></mixed-citation>
+          </ref>
+          <ref id="Voriconazole.R32">
+            <mixed-citation publication-type="journal">Alffenaar JW, van Assen S, de Monchy JG, Uges DR, Kosterink JG, van der Werf TS. Intravenous voriconazole after toxic oral administration. Antimicrob Agents Chemother 2010; 54: 2741-2. <annotation><p><italic toggle="yes">(58 year old man with invasive aspergillosis developed liver test abnormalities 3 months after starting oral voriconazole accompanied by erythematous blistering rash that resolved with stopping drug and, neverthelss, did not recur with administration of intravenous voriconazole).</italic></p></annotation><pub-id pub-id-type="pmid">20385853</pub-id></mixed-citation>
+          </ref>
+          <ref id="Voriconazole.R33">
+            <mixed-citation publication-type="journal">Reuben A, Koch DG, Lee WM; Acute Liver Failure Study Group. Drug-induced acute liver failure: results of a U.S. multicenter, prospective study. Hepatology 2010; 52: 2065-76. <annotation><p><italic toggle="yes">(Among 1198 patients with acute liver failure enrolled in a US prospective study between 1998 and 2007, 133 were attributed to drug induced liver injury, including 6 due to antifungal agents including 3 due to terbinafine, 2 to ketaconazole and one to itraconazole, but none to vorconazole).</italic></p></annotation><pub-id pub-id-type="pmid">20949552</pub-id></mixed-citation>
+          </ref>
+          <ref id="Voriconazole.R34">
+            <mixed-citation publication-type="journal">Gorski E, Esterly JS, Postelnick M, Trifilio S, Fotis M, Scheetz MH. Evaluation of hepatotoxicity with off-label oral-treatment doses of voriconazole for invasive fungal infections. Antimicrob Agents Chemother 2011; 55: 184-9. <annotation><p><italic toggle="yes">(Among 109 patients with suspected invasive fungal infections treated with voriconazole for at least 7 days, higher doses were associated with more frequent Alk P, but not ALT or bilirubin levels; elevations above 3 times ULN of bilirubin occurring in 9%, ALT in 15%, and Alk P in 17% of patients).</italic></p></annotation><pub-id pub-id-type="pmid">20974867</pub-id></mixed-citation>
+          </ref>
+          <ref id="Voriconazole.R35">
+            <mixed-citation publication-type="journal">Belaiche S, Roustit M, Bedouch P, Quetant S, Saint-Raymond C, Pison C. Management of voriconazole hepatotoxicity in a lung transplant patient. Transpl Infect Dis 2011 ; 13: 309-11. <annotation><p><italic toggle="yes">(46 year old woman with lung transplant and persistent pulmonary aspergillosis developed rising ALT and Alk P levels without symptoms 10 days after starting voriconazole [bilirubin not given, ALT 223 U/L, Alk P 369 U/L], which resolved with reduction of the voriconazole dose, allowing for long term therapy).</italic></p></annotation><pub-id pub-id-type="pmid">21176020</pub-id></mixed-citation>
+          </ref>
+          <ref id="Voriconazole.R36">
+            <mixed-citation publication-type="journal">Antifungal drugs. Treat Guidel Med Lett 2012;10: 61-8. <annotation><p><italic toggle="yes">(Concise summary of therapy of fungal infections with recommendations on agents, dosage and duration of treatment and safety; side effects include blurred vision, photophobia, fever, nausea, rash, photosensitivity, Stevens-Johnson syndrome, periostitis, confusion, anaphylactoid infusion reactions, and increased "transaminase levels").</italic></p></annotation><pub-id pub-id-type="pmid">22825657</pub-id></mixed-citation>
+          </ref>
+          <ref id="Voriconazole.R37">
+            <mixed-citation publication-type="journal">Saito T, Fujiuchi S, Tao Y, Sasaki Y, Ogawa K, Suzuki K, Tada A, et al; NHO Pulmonary Fungosis Research Group. Efficacy and safety of voriconazole in the treatment of chronic pulmonary aspergillosis: experience in Japan. Infection 2012; 40: 661-7. <annotation><p><italic toggle="yes">(Among 77 patients with chronic pulmonary aspergillosis treated wtih voriconazole, 12 [16%] developed liver test abnormalities and 2 required drug discontinuation; no details given).</italic></p></annotation><pub-id pub-id-type="pmid">22956473</pub-id></mixed-citation>
+          </ref>
+          <ref id="Voriconazole.R38">
+            <mixed-citation publication-type="journal">Luong ML, Hosseini-Moghaddam SM, Singer LG, Chaparro C, Azad S, Lazar N, Boutros PC, et al. Risk factors for voriconazole hepatotoxicity at 12 weeks in lung transplant recipients. Am J Transplant 2012; 12: 1929-35. <annotation><p><italic toggle="yes">(Among 105 lung transplant recipients treated with voriconazole, 54 [51%] developed hepatotoxicity which led to discontinuation in 36 [34%], with a median time to onset of 14 days [range 7 to 84 days]).</italic></p></annotation><pub-id pub-id-type="pmid">22486950</pub-id></mixed-citation>
+          </ref>
+          <ref id="Voriconazole.R39">
+            <mixed-citation publication-type="journal">Mitsani D, Nguyen MH, Shields RK, Toyoda Y, Kwak EJ, Silveira FP, Pilewski JM, et al. Prospective, observational study of voriconazole therapeutic drug monitoring among lung transplant recipients receiving prophylaxis: factors impacting levels of and associations between serum troughs, efficacy, and toxicity. Antimicrob Agents Chemother 2012; 56: 2371-7. <annotation><p><italic toggle="yes">(Among 93 patients with lung transplanted treated prophylactically with voriconazole for at least 3 months, plasma trough levels correlated with efficacy, but not toxicity; 10 patients had ALT elevations above 5 times ULN, but no mention of clinically apparent liver injury).</italic></p></annotation><pub-id pub-id-type="pmid">22330924</pub-id></mixed-citation>
+          </ref>
+          <ref id="Voriconazole.R40">
+            <mixed-citation publication-type="journal">Chu HY, Jain R, Xie H, Pottinger P, Fredricks DN. Voriconazole therapeutic drug monitoring: retrospective cohort study of the relationship to clinical outcomes and adverse events. BMC Infect Dis 2013; 13: 105. <annotation><p><italic toggle="yes"> (Among 108 patients treated with voriconazole for invasive fungal infections, plasma levels ranged widely but did not correlate with clinical outcomes or hepatotoxicity, 15% had ALT elevations above 5 times ULN or Alk P elevations above 3 times ULN).</italic></p></annotation><pub-id pub-id-type="pmid">23442261</pub-id></mixed-citation>
+          </ref>
+          <ref id="Voriconazole.R41">
+            <mixed-citation publication-type="journal">Sol&#x000ed;s-Mu&#x000f1;oz P, L&#x000f3;pez JC, Bernal W, Willars C, Verma A, Heneghan MA, Wendon J, et al. Voriconazole hepatotoxicity in severe liver dysfunction. J Infect 2013; 66: 80-6. <annotation><p><italic toggle="yes"> (Among 29 patients with severe liver disease treated with voriconazole for suspected invasive aspergillosis, 20 [69%] developed increases in serum enzymes during treatment, but none developed acute liver failure).</italic></p></annotation><pub-id pub-id-type="pmid">23041040</pub-id></mixed-citation>
+          </ref>
+          <ref id="Voriconazole.R42">
+            <mixed-citation publication-type="journal">Bj&#x000f6;rnsson ES, Bergmann OM, Bj&#x000f6;rnsson HK, Kvaran RB, Olafsson S. Incidence, presentation and outcomes in patients with drug-induced liver injury in the General population of Iceland. Gastroenterology 2013; 144: 1419-25. <annotation><p><italic toggle="yes">(In a population based study of drug induced liver injury from Iceland, 96 cases were identified over a 2 year period, but none were attributed to voriconazole or other antifungal agents). </italic></p></annotation><pub-id pub-id-type="pmid">23419359</pub-id></mixed-citation>
+          </ref>
+          <ref id="Voriconazole.R43">
+            <mixed-citation publication-type="journal">Suzuki Y, Tokimatsu I, Sato Y, Kawasaki K, Sato Y, Goto T, Hashinaga K, et al. Association of sustained high plasma trough concentration of voriconazole with the incidence of hepatotoxicity. Clin Chim Acta 2013; 424: 119-22. <annotation><p><italic toggle="yes"> (Among 39 Japanese patients treated with voriconazole, 11 developed ALT elevations, which were more frequent among those with higher voriconazole trough levels).</italic></p></annotation><pub-id pub-id-type="pmid">23747486</pub-id></mixed-citation>
+          </ref>
+          <ref id="Voriconazole.R44">
+            <mixed-citation publication-type="journal">Kao WY, Su CW, Huang YS, Chou YC, Chen YC, Chung WH, Hou MC, et al. Risk of oral anti-fungal agent-induced liver injury in Taiwanese. Br J Clin Pharmacol 2014; 77: 180-9. <annotation><p><italic toggle="yes">(Analysis of Taiwan National Health Insurance database from 2002-2008 identified 52 patients with drug induced liver injury among 90,847 users of oral antifungal agents, including 28 [54%] due to ketoconazole, 12 fluconazole, 8 griseofulvin, 3 itraconazole, 2 terbinafine, but voraconazole was not included in the analysis).</italic></p></annotation><pub-id pub-id-type="pmid">23750489</pub-id></mixed-citation>
+          </ref>
+          <ref id="Voriconazole.R45">
+            <mixed-citation publication-type="journal">Zonios D, Yamazaki H, Murayama N, Natarajan V, Palmore T, Childs R, Skinner J, et al. Voriconazole metabolism, toxicity, and the effect of cytochrome P450 2C19 genotype. J Infect Dis 2014; 209: 1941-8. <annotation><p><italic toggle="yes">(Among 95 patients treated with voriconazole between 2005 and 2007 at the NIH Clinical Center, drug levels were highly variable and ALT elevations leading to discontinuation occurred in 6 patients, usually arising within 7 days, ALT rising to peak of 137 to 1064 U/L, one with jaundice and recurrence on rechallenge with voriconazole, but not posa- or flu-conazole).</italic></p></annotation><pub-id pub-id-type="pmid">24403552</pub-id></mixed-citation>
+          </ref>
+          <ref id="Voriconazole.R46">
+            <mixed-citation publication-type="journal">Raschi E, Poluzzi E, Koci A, Caraceni P, Ponti FD. Assessing liver injury associated with antimycotics: Concise literature review and clues from data mining of the FAERS database. World J Hepatol 2014; 6: 601-12. <annotation><p><italic toggle="yes">(Analysis of the FDA database on adverse reactions [2004 to 2011] identified 68,115 reports of liver injury including 1964 due to antifungal agents, the most common being terbinafine [422], fluconazole [412], voriconazole [361], amphotericin B [265], itraconazole [182], ketaconazole [94] and posaconazole [70]; among 112 cases with acute liver failure with, the major causes were fluconazole [31], terbinafine [27], and voriconazole [19]).</italic></p></annotation><pub-id pub-id-type="pmid">25232453</pub-id></mixed-citation>
+          </ref>
+          <ref id="Voriconazole.R47">
+            <mixed-citation publication-type="journal">Chalasani N, Bonkovsky HL, Fontana R, Lee W, Stolz A, Talwalkar J, Reddy KR, et al.; United States Drug Induced Liver Injury Network. Features and outcomes of 899 patients with drug-induced liver injury: The DILIN Prospective Study. Gastroenterology 2015; 148: 1340-52.e7. <annotation><p><italic toggle="yes">(Among 899 cases of drug induced liver injury enrolled in a US prospective study between 2004 and 2013, 14 cases [1.6%] were attributed to antifungal agents including 6 triazoles [3 with jaundice and 2 hospitalized, no deaths], 4 due to fluconazole, 1 ketoconazole and 1 voriconazole).</italic></p></annotation><pub-id pub-id-type="pmid">25754159</pub-id></mixed-citation>
+          </ref>
+          <ref id="Voriconazole.R48">
+            <mixed-citation publication-type="journal">Lo Re V 3rd, Carbonari DM, Lewis JD, Forde KA, Goldberg DS, Reddy KR, Haynes K, et al. Oral azole antifungal medications and risk of acute liver injury, overall and by chronic liver disease status. Am J Med 2016; 129: 283-91. <annotation><p><italic toggle="yes"> (Among 478 persons treated with oral vorconazole analyzed from a Kaiser Permanente clinical database, the incidence of ALT or AST elevations above 200 U/L was 18.2% and severe acute liver injury 1.7%; rates that were an order of magnitude higher than those with fluconazole, ketoconazole and itraconazole).</italic></p></annotation><pub-id pub-id-type="pmid">26597673</pub-id></mixed-citation>
+          </ref>
+          <ref id="Voriconazole.R49">
+            <mixed-citation publication-type="journal">Lopez JL, Tayek JA. Voriconazole-induced hepatitis via simvastatin- and lansoprazole-mediated drug interactions: a case report and review of the literature. Drug Metab Dispos 2016; 44: 124-6. <annotation><p><italic toggle="yes"> (44 year old man taking voriconazole for more than a year developed jaundice within 10 days of starting lansoprazole [bilirubin 13.0 mg/dL, ALT 362 U/L, Alk P 406 U/L], which resolved on stopping but recurred 16 months later two weeks after starting simvastatin [bilirubin 15.4 mg/dL, ALT 893 U/L, Alk P 789 U/L], resolving rapidly on stopping; authors hypothesize that voriconazole was the cause of the liver injury, its plasma levels being affected by effects of the lanosprazole and simvastatin on drug metabolism).</italic></p></annotation><pub-id pub-id-type="pmid">26502771</pub-id></mixed-citation>
+          </ref>
+          <ref id="Voriconazole.R50">
+            <mixed-citation publication-type="journal">Kyriakidis I, Tragiannidis A, Munchen S, Groll AH. Clinical hepatotoxicity associated with antifungal agents. Expert Opin Drug Saf 2017; 16: 149-65. <annotation><p><italic toggle="yes">(Review of the hepatotoxicity of antifungal agents states that all antifungal agents may cause hepatic toxicity and discusses fluconazole, itraconazole, voriconazole, posaconazole and isavuconazole, but not ketoconazole).</italic></p></annotation><pub-id pub-id-type="pmid">27927037</pub-id></mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec id="Voriconazole.OTHER_REFERENCE_LINKS" sec-type="link-group">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=(voriconazole)+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%222010/1/1%22%5BEDat%5D%3A%222999/12/31%22%5BEDat%5D)">Recent References on Voriconazole: from PubMed.gov</ext-link>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=voriconazole">Trials on Voriconazole: from ClinicalTrials.gov</ext-link>
+            </p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Aminoglycosides" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Aminoglycosides</book-part-id>
+      <title-group>
+        <title>Aminoglycosides</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>12</day>
+          <month>4</month>
+          <year>2019</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Amiloride" document-type="chapter">Amiloride</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Amiodarone" document-type="chapter">Amiodarone</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Aminoglycosides.OVERVIEW">
+        <title>OVERVIEW</title>
+        <p content-type="pubmed-excerpt">The aminoglycosides are natural products and semisynthetic derivatives from a variety of actinomycetes and have potent activity against many gram negative bacteria. The first aminoglycoside used in clinical practice was streptomycin which was derived from Streptomyces griseus and was the first effective agent against mycobacterium tuberculosis. The discovery and characterization of the antibacterial activity of streptomycin led to the award of the Nobel Prize in Medicine to Selman Waksman and his coworkers. The aminoglycosides have a common structure of two or more amino sugars joined in glycosidic linkage to a hexose nucleus. The aminoglycosides are believed to act by binding to ribosomes of bacteria and blocking protein synthesis.</p>
+        <p content-type="pubmed-excerpt">Aminoglycosides in current use in the United States include streptomycin, gentamicin, tobramycin, amikacin, plazomicin and neomycin. The aminoglycosides are poorly absorbed orally and typically are given parenterally, either by intravenous or intramuscular injection. Gentamicin, tobramycin and amikacin are given parenterally and are used for severe gram negative bacterial infections usually in combination with penicillins or cephalosporins. Streptomycin is now rarely used and largely as adjunctive therapy of multi-drug resistant tuberculosis. Plazomicin is a recently introduced agent and is given intravenously as monotherapy for complicated urinary tract infections or acute pyelonephritis. Plazomicin is a semi-synthetic aminoglycoside which has been modified to evade conventional forms of aminoglycoside resistance. Neomycin is used orally to treat hepatic encephalopathy. Because it is poorly absorbed orally, neomycin causes a decrease in intestinal bacteria, thereby decreasing ammonia production and absorption from the colon.</p>
+        <p content-type="pubmed-excerpt">The aminoglycosides all have serious toxicities which often limit their applicability and the dose and duration of therapy. The common serious adverse effects of the aminoglycosides are ototoxicity, neuropathy and nephrotoxicity. Liver injury from the aminoglycosides is rare, perhaps because the other side effects of aminoglycosides limit the amount that can be given. Isolated case reports of idiosyncratic hepatotoxicity have been published for most, but not all of the aminoglycosides. These resports have not always been very convincing.</p>
+        <p>Each aminoglycoside is discussed separately while the references for all aminoglycosides (except streptomycin, given in the section on therapy of tuberculosis) are provided below. The following are links to each drug record.</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>
+              <related-object source-id="livertox" document-id="Amikacin">Amikacin</related-object>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <related-object source-id="livertox" document-id="Gentamicin">Gentamicin</related-object>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <related-object source-id="livertox" document-id="Neomycin">Neomycin</related-object>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <related-object source-id="livertox" document-id="Plazomicin">Plazomicin</related-object>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <related-object source-id="livertox" document-id="Streptomycin">Streptomycin</related-object>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <related-object source-id="livertox" document-id="Tobramycin">Tobramycin</related-object>
+            </p>
+          </list-item>
+        </list>
+      </sec>
+      <sec id="Aminoglycosides.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 12 April 2019</p>
+        <ref-list id="Aminoglycosides.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Aminoglycosides.R1">
+            <mixed-citation publication-type="other">Zimmerman HJ. Aminoglycosides. Hepatic injury from the treatment of infectious and parasitic diseases. In, Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999. p 589.<annotation><p><italic toggle="yes">(Expert review of hepatotoxicity of aminoglycosides published in 1999; &#x0201c;few instances of significant hepatic injury have been attributed to agents in this group&#x0201d;).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Aminoglycosides.R2">
+            <mixed-citation publication-type="other">Moseley RH. Antibacterial and Antifungal Agents. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd Edition. Amsterdam: Elsevier, 2013. p. 463-81.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of antibacterial medications does not discuss the aminoglycosides).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Aminoglycosides.R3">
+            <mixed-citation publication-type="other">MacDougall C. Aminoglycosides. In, Brunton LL, Hilal-Dandan R, Knollman BC, eds. Goodman &#x00026; Gilman&#x02019;s the pharmacological basis of therapeutics. 13th ed. New York: McGraw-Hill, 2018, pp. 1039-48.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Aminoglycosides.R4">
+            <mixed-citation publication-type="journal">Gentry LO. Efficacy and safety of cefamandole plus either gentamicin or tobramycin in therapy of severe gram-negative bacterial infections. J Infect Dis 1978; 137 Suppl: S144-9. <annotation><p><italic toggle="yes">(Prospective study in 31 patients given cephalosporin and standard [n=20] or high doses [n=11] of either gentamicin [12] or tobramycin [19]; higher doses were associated with more increases in Alk P [27% vs 5%] and ALT [27% vs 0%], one patient with jaundice had acute hepatitis B).</italic></p></annotation><pub-id pub-id-type="pmid">349093</pub-id></mixed-citation>
+          </ref>
+          <ref id="Aminoglycosides.R5">
+            <mixed-citation publication-type="journal">Mor F, Leibovici L, Cohen O, Wysenbeek AJ. Prospective evaluation of liver function tests in patients treated with aminoglycosides. DICP 1990; 24: 135-7. <annotation><p><italic toggle="yes">(Prospective study in 104 patients given gentamicin and 10 given amikacin found no change in ALT, LDH or bilirubin levels, but mild increases in Alk P in 23% of patients; no symptomatic hepatitis).</italic></p></annotation><pub-id pub-id-type="pmid">2309507</pub-id></mixed-citation>
+          </ref>
+          <ref id="Aminoglycosides.R6">
+            <mixed-citation publication-type="journal">Lucena MI, Andrade RJ. [Aminoglycoside nephrotoxicity and obstructive jaundice] Med Clin (Barc) 1995; 105: 457-60. Spanish. <annotation><p><italic toggle="yes">(Review of the increased risk of nephrotoxicity in patients with obstructive jaundice).</italic></p></annotation><pub-id pub-id-type="pmid">7490937</pub-id></mixed-citation>
+          </ref>
+          <ref id="Aminoglycosides.R7">
+            <mixed-citation publication-type="journal">Nisly SA, Ray SM, Moye RA. Tobramycin-induced hepatotoxicity. Ann Pharmacother 2007; 41: 2061-5. <annotation><p><italic toggle="yes">(Patient with pseudomonas bacteremia treated with multiple antibiotics, developed elevations in AST [970 U/L], ALT [315 U/L] and Alk P [432 U/L] and mild jaundice within days of starting tobramycin; changing antibiotics did not affect enzyme elevations until tobramycin was stopped with resolution in 1-2 weeks; apparently no symptoms or allergic signs).</italic></p></annotation><pub-id pub-id-type="pmid">17956959</pub-id></mixed-citation>
+          </ref>
+          <ref id="Aminoglycosides.R8">
+            <mixed-citation publication-type="journal">Lindblad A, Hultcrantz R, Strandvik B. High doses of aminoglycosides did not produce liver toxicity in patients with cystic fibrosis. J Hepatol 1994; 20: 201-5. <annotation><p><italic toggle="yes">(Five patients with cystic fibrosis underwent yearly liver biopsies; those on intermittent aminoglycoside therapy showed no hepatic abnormalities and liver tests were normal in all).</italic></p></annotation><pub-id pub-id-type="pmid">8006400</pub-id></mixed-citation>
+          </ref>
+          <ref id="Aminoglycosides.R9">
+            <mixed-citation publication-type="journal">Nassberger L, DePierre J. High doses of aminoglycoside antibiotics do not induce liver toxicity because uptake is limited. J Hepatol 1994; 21: 1156. <annotation><p><italic toggle="yes">(Letter in response to Lindblad et al. postulating that lack of hepatic injury is due to limited uptake of aminoglycosides in the liver compared to kidney and inner ear).</italic></p></annotation><pub-id pub-id-type="pmid">7699252</pub-id></mixed-citation>
+          </ref>
+          <ref id="Aminoglycosides.R10">
+            <mixed-citation publication-type="journal">Chalasani N, Fontana RJ, Bonkovsky HL, Watkins PB, Davern T, Serrano J, Yang H, Rochon J; Drug Induced Liver Injury Network (DILIN). Causes, clinical features, and outcomes from a prospective study of drug-induced liver injury in the United States. Gastroenterology 2008; 135: 1924-34. <annotation><p><italic toggle="yes">(Among 300 cases of drug induced liver disease in the US collected from 2004 to 2008, 1 case was initially attributed to gentamicin, but later considered unlikely to be related; no other aminoglycoside was listed).</italic></p></annotation><pub-id pub-id-type="pmid">18955056</pub-id></mixed-citation>
+          </ref>
+          <ref id="Aminoglycosides.R11">
+            <mixed-citation publication-type="journal">Wang YP, Shi B, Chen YX, Xu J, Jiang CF, Xie WF. Drug-induced liver disease: an 8-year study of patients from one gastroenterological department. J Dig Dis 2009; 10: 195-200. <annotation><p><italic toggle="yes">(30 cases of drug induced liver disease were seen at a single large hospital in Bejing between 2000 and 2007, including one case of cholestatic hepatitis attributed to gentamicin arising 1 day after starting therapy with ALT 2.6 times ULN, Alk P 2.3 times ULN, bilirubin 6.8 mg/dL, with few other details that might separate it from jaundice of sepsis).</italic></p></annotation><pub-id pub-id-type="pmid">19659787</pub-id></mixed-citation>
+          </ref>
+          <ref id="Aminoglycosides.R12">
+            <mixed-citation publication-type="journal">Kwon H, Lee SH, Kim SE, Lee JH, Jee YK, Kang HR, Park BJ, et al. Spontaneously reported hepatic adverse drug events in Korea: multicenter study. J Korean Med Sci 2012; 27: 268-73. <annotation><p><italic toggle="yes">(Summary of 2 years of adverse event reporting in Korea; of 9360 reports, 567 were liver related, including 5 attributed to aminoglycosides; no details provided).</italic></p></annotation><pub-id pub-id-type="pmid">22379337</pub-id></mixed-citation>
+          </ref>
+          <ref id="Aminoglycosides.R13">
+            <mixed-citation publication-type="journal">Hern&#x000e1;ndez N, Bessone F, S&#x000e1;nchez A, di Pace M, Brahm J, Zapata R, A Chirino R, et al. Profile of idiosyncratic drug induced liver injury in Latin America. An analysis of published reports. Ann Hepatol 2014; 13: 231-9. <annotation><p><italic toggle="yes">(Systematic review of literature of drug induced liver injury in Latin American countries published from 1996 to 2012 identified 176 cases, none of which, however, were linked to use of aminoglycosides).</italic></p></annotation><pub-id pub-id-type="pmid">24552865</pub-id></mixed-citation>
+          </ref>
+          <ref id="Aminoglycosides.R14">
+            <mixed-citation publication-type="journal">Chalasani N, Bonkovsky HL, Fontana R, Lee W, Stolz A, Talwalkar J, Reddy KR, et al.; United States Drug Induced Liver Injury Network. Features and outcomes of 899 patients with drug-induced liver injury: The DILIN Prospective Study. Gastroenterology 2015; 148: 1340-52.e7. <annotation><p><italic toggle="yes">(Among 899 cases of drug induced liver injury enrolled in a US prospective study between 2004 and 2013, 323 [36%] cases were due to antibiotics, but none were attributed to an aminoglycoside antibiotic).</italic></p></annotation><pub-id pub-id-type="pmid">25754159</pub-id></mixed-citation>
+          </ref>
+          <ref id="Aminoglycosides.R15">
+            <mixed-citation publication-type="journal">Connolly LE, Riddle V, Cebrik D, Armstrong ES, Miller LG. A multicenter, randomized, double-blind, phase 2 study of the efficacy and safety of plazomicin compared with levofloxacin in the treatment of complicated urinary tract infection and acute pyelonephritis. Antimicrob Agents Chemother 2018; 62 (4). <annotation><p><italic toggle="yes"> (Among 145 patients with complicated urinary tract infections or pyelonephritis treated with intravenous plazomicin [10 or 15 mg/kg] or levofloxacin [750 mg] once daily for 5 days, microbiological response rates were similar in all 3 groups, but adverse event rates were less with plazomicin and there were no instances of clinically apparent liver injury with jaundice).</italic></p></annotation><pub-id pub-id-type="pmid">29378708</pub-id></mixed-citation>
+          </ref>
+          <ref id="Aminoglycosides.R16">
+            <mixed-citation publication-type="journal">Shaeer KM, Zmarlicka MT, Chahine EB, Piccicacco N, Cho JC. Plazomicin, a next-generation aminoglycoside. Pharmacotherapy 2019; 39: 77-93. <annotation><p><italic toggle="yes"> (Review of the chemistry, pharmacology, clinical efficacy and safety of plazomicin; mentions that nephrotoxicity and ototoxicity are rare; no discussion of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">30511766</pub-id></mixed-citation>
+          </ref>
+          <ref id="Aminoglycosides.R17">
+            <mixed-citation publication-type="other">
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.accessdata.fda.gov/scripts/cder/daf/">https://www.accessdata.fda.gov/scripts/cder/daf/</ext-link>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(FDA Drug Approvals website that has product labels [package inserts], letters of approval and full FDA scientific review of the new drug application for safety and efficacy; mentions that ALT elevations during plazomicin therapy occurred in 0.3% or less of treated subjects, rates that were similar to those of comparator agents).</italic>
+                </p>
+              </annotation>
+            </mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec id="Aminoglycosides.OTHER_REFERENCE_LINKS" sec-type="link-group">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=aminoglycosides/AE+AND+Human%5BMH%5D+AND+(jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI+OR+hepatitis,+toxic%5BMH%5D)+AND+(%222005/1/1%22%5BEDat%5D%3A%222999/12/31%22%5BEDat%5D)">Recent References on Aminoglycosides: from PubMed.gov</ext-link>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=aminoglycosides">Trials on Aminoglycosides: from ClinicalTrials.gov</ext-link>
+            </p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

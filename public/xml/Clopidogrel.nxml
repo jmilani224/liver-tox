@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Clopidogrel" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Clopidogrel</book-part-id>
+      <title-group>
+        <title>Clopidogrel</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>17</day>
+          <month>10</month>
+          <year>2017</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Clonidine" document-type="chapter">Clonidine</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Clorazepate" document-type="chapter">Clorazepate</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Clopidogrel.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Clopidogrel.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Clopidogrel is an inhibitor of platelet aggregation that is used to decrease the risk of myocardial infarction and stroke in patients known to have atherosclerosis. Clopidogrel has been linked to rare instances of idiosyncratic, clinically apparent acute liver injury.</p>
+        </sec>
+        <sec id="Clopidogrel.Background">
+          <title>Background</title>
+          <p>Clopidogrel (kloe pid' oh grel) is an inhibitor of adenosine diphosphate (ADP)-induced platelet aggregation and is used widely to decrease the risk of myocardial infarction and stoke in patients who have documented coronary or cerebrovascular disease or previous heart attack or stroke. Activated platelets release ADP which binds to platelet receptors, causing activation of intracellular glycoprotein IIb/IIIA complex which triggers platelet adherence and aggregation. The aggregation of platelets plays an important role in the growth of atheromatous plaques, which can lead to coronary, cerebral and peripheral arterial occlusions. In large clinical trials, clopidogrel therapy has been shown to decrease the frequency of recurrence of myocardial infarction and stroke. Clopidogrel was approved for use in the United States in 1997 and is widely used, with more than 1.5 million prescriptions filled yearly. Current indications include reduction of atherosclerotic events (myocardial infarction, stroke, vascular death) in patients with documented atherosclerosis and in patients with acute myocardial infarction or unstable angina. Clopidogrel is available in 75 mg tablets generically and under the brand name of Plavix. The usual dose is 75 mg daily, sometimes with a loading dose of 300 mg on day one. Side effects are not common, but can include headache, dizziness, fatigue, gastrointestinal upset, nausea, arthralgias and rash.</p>
+        </sec>
+        <sec id="Clopidogrel.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>Clopidogrel is associated with serum enzyme elevations in 1% to 3% of patients during therapy. In several large clinical trials, elevations of serum ALT were no more frequent with clopidogrel as with placebo (or in comparator arms) and no instances of clinically apparent liver injury were reported. Since marketing and release, however, there have been more than a dozen published case reports of clinically apparent liver injury attributed to clopidogrel. The onset of symptoms was within 2 to 24 weeks (averaging 6 weeks) of starting, with fatigue and jaundice. Several patients had an accompanying fever but rash and eosinophilia were not common. The usual pattern of liver enzyme elevations was hepatocellular, but cases with mixed or cholestatic enzyme elevations have also been described (Case 1). Autoantibodies were rarely present. Most cases were self-limited with recovery within 1 to 2 months, but rare cases of acute liver failure or hepatic decompensation with death or need for liver transplantation have been described.</p>
+          <p>Likelihood score: B (highly likely but rare cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Clopidogrel.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The mechanism of clopidogrel hepatotoxicity is not known, but is clearly idiosyncratic and may be due to the complex hepatic metabolism of the clopidogrel molecule. Immunoallergic features are usually not prominent, but hypersensitivity reactions to clopidogrel have been described. The effectiveness of clopidogrel is dependent upon its activation in the liver by CYP 2C19 and poor metabolizers of this enzyme may not respond adequately to its antiplatelet activity. Furthermore, it is susceptible to drug-drug interactions with agents that induce or inhibit CYP 2C19.</p>
+        </sec>
+        <sec id="Clopidogrel.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>The severity of liver injury associated with clopidogrel ranges from transient, mild serum enzyme elevations to clinically apparent acute hepatitis that can be severe and lead to death. Most cases resolve with drug withdrawal within 1 to 3 months. Rechallenge with clopidogrel usually results in recurrence of liver injury and should be avoided. However, there does not appear to be cross sensitivity to the liver injury between clopidogrel and ticlopidine or dipyridamole.</p>
+          <p>Drug Class: <related-object source-id="livertox" document-id="Anticoagulants">Antithrombotic Agents</related-object>, <related-object source-id="livertox" document-id="Anticoagulants">Antiplatelet Agents</related-object></p>
+          <p>Other Drugs in the Subclass, Antiplatelet Agents: <related-object source-id="livertox" document-id="Aspirin">Aspirin</related-object>, <related-object source-id="livertox" document-id="Cangrelor">Cangrelor</related-object>, <related-object source-id="livertox" document-id="Dipyridamole">Dipyridamole</related-object>, <related-object source-id="livertox" document-id="Prasugrel">Prasugrel</related-object>, <related-object source-id="livertox" document-id="Ticagrelor">Ticagrelor</related-object>, <related-object source-id="livertox" document-id="Ticlopidine">Ticlopidine</related-object>, <related-object source-id="livertox" document-id="Vorapaxar">Vorapaxar</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Clopidogrel.CASE_REPORT">
+        <title>CASE REPORT</title>
+        <sec id="Clopidogrel.Case_1._Acute_cholestatic_he">
+          <title>Case 1. Acute cholestatic hepatitis due to clopidogrel.</title>
+          <p>[Modified from: Chau TN, Yim KF, Mok NS, Chan WK, Leung VK, Leung MF, Lai ST. Clopidogrel-induced hepatotoxicity after percutaneous coronary stenting. Hong Kong Med J 2005; 11: 414-6. [<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/pubmed/16219965">PubMed Citation</ext-link>]</p>
+          <p>A 74 year old man with a history of hypertension and ischemic heart disease presented with retrosternal chest pain and underwent cardiac catheterization which showed complete occlusion of the left anterior descending and 80% occlusion of the left circumflex artery for which he underwent successful percutaneous stenting. Clopidogrel was started in preparation of the coronary artery stenting and continued after discharge. Four weeks later and 41 days after starting clopidogrel he developed dark urine and jaundice. He had no previous history of liver disease, drug allergies, alcohol abuse, or risk factors for viral hepatitis. Other medications included aspirin, isosorbide dinitrate and metoprolol, all of which had been taken for several years. Laboratory testing showed a serum bilirubin of 5.3 mg/dL, ALT 212 U/L and alkaline phosphatase 172 U/L (Table). Serum albumin concentrations and prothrombin time were normal. Tests for acute hepatitis A, B, C (including HCV RNA) and E were negative as were smooth muscle and antinuclear antibodies. Abdominal ultrasound showed no hepatic masses or evidence of biliary obstruction. Four days after onset of jaundice, clopidogrel was stopped, while other medications were continued. Liver tests worsened for the first few days after presentation, but then began to improve and were within the normal range 3 months later.</p>
+          <sec id="Clopidogrel.Key_Points">
+            <title>Key Points</title>
+            <table-wrap id="Clopidogrel.T1" position="anchor" orientation="portrait">
+              <table>
+                <thead>
+                  <tr>
+                    <th id="hd_h_Clopidogrel.T1_1_1_1_1" rowspan="1" colspan="1">Medication:</th>
+                    <td rowspan="1" colspan="1">Clopidogrel (75 mg daily for 41 days)</td>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <th headers="hd_h_Clopidogrel.T1_1_1_1_1" id="hd_b_Clopidogrel.T1_1_1_1_1" rowspan="1" colspan="1">Pattern:</th>
+                    <td headers="hd_b_Clopidogrel.T1_1_1_1_1" rowspan="1" colspan="1">Mixed (R=3.5)</td>
+                  </tr>
+                  <tr>
+                    <th headers="hd_h_Clopidogrel.T1_1_1_1_1" id="hd_b_Clopidogrel.T1_1_1_2_1" rowspan="1" colspan="1">Severity:</th>
+                    <td headers="hd_b_Clopidogrel.T1_1_1_2_1" rowspan="1" colspan="1">3+ (jaundice, hospitalization)</td>
+                  </tr>
+                  <tr>
+                    <th headers="hd_h_Clopidogrel.T1_1_1_1_1" id="hd_b_Clopidogrel.T1_1_1_3_1" rowspan="1" colspan="1">Latency:</th>
+                    <td headers="hd_b_Clopidogrel.T1_1_1_3_1" rowspan="1" colspan="1">41 days</td>
+                  </tr>
+                  <tr>
+                    <th headers="hd_h_Clopidogrel.T1_1_1_1_1" id="hd_b_Clopidogrel.T1_1_1_4_1" rowspan="1" colspan="1">Recovery:</th>
+                    <td headers="hd_b_Clopidogrel.T1_1_1_4_1" rowspan="1" colspan="1">3 months</td>
+                  </tr>
+                  <tr>
+                    <th headers="hd_h_Clopidogrel.T1_1_1_1_1" id="hd_b_Clopidogrel.T1_1_1_5_1" rowspan="1" colspan="1">Other medications:</th>
+                    <td headers="hd_b_Clopidogrel.T1_1_1_5_1" rowspan="1" colspan="1">Aspirin, isosorbide dinitrate, metoprolol</td>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Clopidogrel.Laboratory_Values">
+            <title>Laboratory Values</title>
+            <table-wrap id="Clopidogrel.T2" position="anchor" orientation="portrait">
+              <table>
+                <thead>
+                  <tr>
+                    <th id="hd_h_Clopidogrel.T2_1_1_1_1" rowspan="1" colspan="1">Time After Starting</th>
+                    <th id="hd_h_Clopidogrel.T2_1_1_1_2" rowspan="1" colspan="1">Time After Stopping</th>
+                    <th id="hd_h_Clopidogrel.T2_1_1_1_3" rowspan="1" colspan="1">ALT* (U/L)</th>
+                    <th id="hd_h_Clopidogrel.T2_1_1_1_4" rowspan="1" colspan="1">Alk P* (U/L)</th>
+                    <th id="hd_h_Clopidogrel.T2_1_1_1_5" rowspan="1" colspan="1">Bilirubin* (mg/dL)</th>
+                    <th id="hd_h_Clopidogrel.T2_1_1_1_6" rowspan="1" colspan="1">Other</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td headers="hd_h_Clopidogrel.T2_1_1_1_1" rowspan="1" colspan="1">1 day</td>
+                    <td headers="hd_h_Clopidogrel.T2_1_1_1_2" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Clopidogrel.T2_1_1_1_3" rowspan="1" colspan="1">30</td>
+                    <td headers="hd_h_Clopidogrel.T2_1_1_1_4" rowspan="1" colspan="1">65</td>
+                    <td headers="hd_h_Clopidogrel.T2_1_1_1_5" rowspan="1" colspan="1">0.5</td>
+                    <td headers="hd_h_Clopidogrel.T2_1_1_1_6" rowspan="1" colspan="1">Clopidogrel started</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Clopidogrel.T2_1_1_1_1" rowspan="1" colspan="1">1 week</td>
+                    <td headers="hd_h_Clopidogrel.T2_1_1_1_2" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Clopidogrel.T2_1_1_1_3" rowspan="1" colspan="1">25</td>
+                    <td headers="hd_h_Clopidogrel.T2_1_1_1_4" rowspan="1" colspan="1">75</td>
+                    <td headers="hd_h_Clopidogrel.T2_1_1_1_5" rowspan="1" colspan="1">0.5</td>
+                    <td headers="hd_h_Clopidogrel.T2_1_1_1_6" rowspan="1" colspan="1">Cardiac catheterization</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Clopidogrel.T2_1_1_1_1" rowspan="1" colspan="1">2 weeks</td>
+                    <td headers="hd_h_Clopidogrel.T2_1_1_1_2" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Clopidogrel.T2_1_1_1_3" rowspan="1" colspan="1">25</td>
+                    <td headers="hd_h_Clopidogrel.T2_1_1_1_4" rowspan="1" colspan="1">70</td>
+                    <td headers="hd_h_Clopidogrel.T2_1_1_1_5" rowspan="1" colspan="1">0.4</td>
+                    <td headers="hd_h_Clopidogrel.T2_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Clopidogrel.T2_1_1_1_1" rowspan="1" colspan="1">6 weeks</td>
+                    <td headers="hd_h_Clopidogrel.T2_1_1_1_2" rowspan="1" colspan="1">0</td>
+                    <td headers="hd_h_Clopidogrel.T2_1_1_1_3" rowspan="1" colspan="1">212</td>
+                    <td headers="hd_h_Clopidogrel.T2_1_1_1_4" rowspan="1" colspan="1">172</td>
+                    <td headers="hd_h_Clopidogrel.T2_1_1_1_5" rowspan="1" colspan="1">5.3</td>
+                    <td headers="hd_h_Clopidogrel.T2_1_1_1_6" rowspan="1" colspan="1">Clopidogrel stopped</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Clopidogrel.T2_1_1_1_1" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Clopidogrel.T2_1_1_1_2" rowspan="1" colspan="1">2 days</td>
+                    <td headers="hd_h_Clopidogrel.T2_1_1_1_3" rowspan="1" colspan="1">253</td>
+                    <td headers="hd_h_Clopidogrel.T2_1_1_1_4" rowspan="1" colspan="1">202</td>
+                    <td headers="hd_h_Clopidogrel.T2_1_1_1_5" rowspan="1" colspan="1">5.8</td>
+                    <td headers="hd_h_Clopidogrel.T2_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Clopidogrel.T2_1_1_1_1" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Clopidogrel.T2_1_1_1_2" rowspan="1" colspan="1">3 days</td>
+                    <td headers="hd_h_Clopidogrel.T2_1_1_1_3" rowspan="1" colspan="1">205</td>
+                    <td headers="hd_h_Clopidogrel.T2_1_1_1_4" rowspan="1" colspan="1">185</td>
+                    <td headers="hd_h_Clopidogrel.T2_1_1_1_5" rowspan="1" colspan="1">3.6</td>
+                    <td headers="hd_h_Clopidogrel.T2_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Clopidogrel.T2_1_1_1_1" rowspan="1" colspan="1">7 weeks</td>
+                    <td headers="hd_h_Clopidogrel.T2_1_1_1_2" rowspan="1" colspan="1">5 days</td>
+                    <td headers="hd_h_Clopidogrel.T2_1_1_1_3" rowspan="1" colspan="1">140</td>
+                    <td headers="hd_h_Clopidogrel.T2_1_1_1_4" rowspan="1" colspan="1">155</td>
+                    <td headers="hd_h_Clopidogrel.T2_1_1_1_5" rowspan="1" colspan="1">2.0</td>
+                    <td headers="hd_h_Clopidogrel.T2_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Clopidogrel.T2_1_1_1_1" rowspan="1" colspan="1">10 weeks</td>
+                    <td headers="hd_h_Clopidogrel.T2_1_1_1_2" rowspan="1" colspan="1">1 month</td>
+                    <td headers="hd_h_Clopidogrel.T2_1_1_1_3" rowspan="1" colspan="1">86</td>
+                    <td headers="hd_h_Clopidogrel.T2_1_1_1_4" rowspan="1" colspan="1">110</td>
+                    <td headers="hd_h_Clopidogrel.T2_1_1_1_5" rowspan="1" colspan="1">0.4</td>
+                    <td headers="hd_h_Clopidogrel.T2_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Clopidogrel.T2_1_1_1_1" rowspan="1" colspan="1">17 weeks</td>
+                    <td headers="hd_h_Clopidogrel.T2_1_1_1_2" rowspan="1" colspan="1">3 months</td>
+                    <td headers="hd_h_Clopidogrel.T2_1_1_1_3" rowspan="1" colspan="1">25</td>
+                    <td headers="hd_h_Clopidogrel.T2_1_1_1_4" rowspan="1" colspan="1">90</td>
+                    <td headers="hd_h_Clopidogrel.T2_1_1_1_5" rowspan="1" colspan="1">0.4</td>
+                    <td headers="hd_h_Clopidogrel.T2_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Clopidogrel.T2_1_1_1_1 hd_h_Clopidogrel.T2_1_1_1_2" colspan="2" rowspan="1">
+                      <bold>Normal Values</bold>
+                    </td>
+                    <td headers="hd_h_Clopidogrel.T2_1_1_1_3" rowspan="1" colspan="1">
+                      <bold>&#x0003c;40</bold>
+                    </td>
+                    <td headers="hd_h_Clopidogrel.T2_1_1_1_4" rowspan="1" colspan="1">
+                      <bold>&#x0003c;115</bold>
+                    </td>
+                    <td headers="hd_h_Clopidogrel.T2_1_1_1_5" rowspan="1" colspan="1">
+                      <bold>&#x0003c;1.2</bold>
+                    </td>
+                    <td headers="hd_h_Clopidogrel.T2_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+            <p>* Some values estimated from figure.</p>
+          </sec>
+          <sec id="Clopidogrel.Comment">
+            <title>Comment</title>
+            <p>A typical example of an acute liver injury with jaundice attributed to clopidogrel. Typical were the time of onset (4-5 weeks), the mixed pattern of serum enzyme elevations and the mild self-limited nature of the injury, with improvement starting within a week of stopping the medication. While the liver injury from clopidogrel resembles that of ticlopidine, there are some differences. Both agents are associated with acute liver injury that usually arises within 1 to 12 weeks of starting. However, the injury tends to be more hepatocellular with clopidogrel and the time to recovery slightly shorter. Interestingly, there does not seem to be cross sensitivity to hepatic injury between clopidogrel and ticlopidine, despite their similar chemical structures and mechanisms of action.</p>
+          </sec>
+        </sec>
+      </sec>
+      <sec id="Clopidogrel.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <boxed-text position="anchor" id="Clopidogrel.BPI" orientation="portrait">
+          <p>
+            <bold>REPRESENTATIVE TRADE NAMES</bold>
+          </p>
+          <p>Clopidogrel &#x02013; Generic, Plavix&#x000ae;</p>
+          <p>
+            <bold>DRUG CLASS</bold>
+          </p>
+          <p>Antithrombotic Agents</p>
+          <p>
+            <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Clopidogrel">COMPLETE LABELING</ext-link>
+          </p>
+          <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+        </boxed-text>
+      </sec>
+      <sec id="Clopidogrel.CHEMICAL_FORMULA_AND_STRUCTU">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Clopidogrel.T3" position="anchor" orientation="portrait">
+          <table>
+            <thead>
+              <tr>
+                <th id="hd_h_Clopidogrel.T3_1_1_1_1" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Clopidogrel.T3_1_1_1_2" rowspan="1" colspan="1">CAS REGISTRY NUMBER</th>
+                <th id="hd_h_Clopidogrel.T3_1_1_1_3" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Clopidogrel.T3_1_1_1_4" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Clopidogrel.T3_1_1_1_1" rowspan="1" colspan="1">Clopidogrel</td>
+                <td headers="hd_h_Clopidogrel.T3_1_1_1_2" rowspan="1" colspan="1">
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135032924">90055-48-4</ext-link>
+                </td>
+                <td headers="hd_h_Clopidogrel.T3_1_1_1_3" rowspan="1" colspan="1">C16-H16-Cl-N-O2-S</td>
+                <td headers="hd_h_Clopidogrel.T3_1_1_1_4" rowspan="1" colspan="1">
+                  <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Clopidogrel_Structure.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait">
+                    <alt-text>Clopidogrel Chemical Structure</alt-text>
+                  </graphic>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Clopidogrel.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 17 October 2017</p>
+        <ref-list id="Clopidogrel.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Clopidogrel.R1">
+            <mixed-citation publication-type="other">Zimmerman HJ. Platelet aggregation inhibitors. Drugs used in cardiovascular disease. In, Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999, pp. 641-3.<annotation><p><italic toggle="yes">(Textbook of hepatotoxicity published in 1999 discusses ticlopidine, but not clopidogrel).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Clopidogrel.R2">
+            <mixed-citation publication-type="other">De Marzio DH, Navarro VJ. Hepatotoxicity of cardiovascular and antidiabetic drugs: antihypertensives. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013, p. 528.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of antiplatelet drugs mentions that clopidogrel like ticlopidine can cause liver injury although less commonly, and some patients with ticlopidine liver injury can tolerate clopidogrel without recurrence).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Clopidogrel.R3">
+            <mixed-citation publication-type="other">Weitz JI. Blood coagulation and anticoagulant, fibrinolytic, and antiplatelet drugs. In, Brunton LL, Chabner BA, Knollman BC, eds. Goodman &#x00026; Gilman's the pharmacological basis of therapeutics. 12th ed. New York: McGraw-Hill, 2011, pp. 849-76.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Clopidogrel.R4">
+            <mixed-citation publication-type="journal">A randomised, blinded, trial of clopidogrel versus aspirin in patients at risk of ischaemic events (CAPRIE). CAPRIE Steering Committee. Lancet 1996; 348: 1329-39. <annotation><p><italic toggle="yes">(Among 19,185 patients treated with either aspirin or clopidogrel and followed for an average of 1.9 years, abnormal liver tests were reported in 3% on clopidogrel vs 3.2% on aspirin and were severe in 0.5% vs 0.7%).</italic></p></annotation><pub-id pub-id-type="pmid">8918275</pub-id></mixed-citation>
+          </ref>
+          <ref id="Clopidogrel.R5">
+            <mixed-citation publication-type="journal">Zeolla MM, Carson JJ. Successful use of clopidogrel for cerebrovascular accident in a patient with suspected ticlopidine-induced hepatotoxicity. Ann Pharmacoth 1999; 33: 939-41. <annotation><p><italic toggle="yes">(79 year old woman developed elevations in serum enzymes 5 weeks after starting ticlopidine [bilirubin 0.3 mg/dL, ALT 1008 U/L, Alk P 648 U/L] without jaundice or symptoms, and levels fell to near normal within 20 days of switching to clopidogrel and were completely normal 4 months later).</italic></p></annotation><pub-id pub-id-type="pmid">10492495</pub-id></mixed-citation>
+          </ref>
+          <ref id="Clopidogrel.R6">
+            <mixed-citation publication-type="journal">Jarvis B, Simpson K. Clopidogrel: a review of its use in the prevention of atherothrombosis. Drugs 2000; 60: 347-77. <annotation><p><italic toggle="yes">(Review of the mechanism of action, pharmacokinetics, efficacy and safety of clopidogrel; side effects are slightly less common with clopidogrel than aspirin, serum enzyme elevations occurring in 3% vs 3.2% [CAPRIE]).</italic></p></annotation><pub-id pub-id-type="pmid">10983738</pub-id></mixed-citation>
+          </ref>
+          <ref id="Clopidogrel.R7">
+            <mixed-citation publication-type="journal">Willens HJ. Clopidogrel-induced mixed hepatocellular and cholestatic liver injury. Am J Ther 2000; 7: 317-8. <annotation><p><italic toggle="yes">(81 year old woman developed fatigue and anorexia 2 weeks and jaundice 4 weeks after starting clopidogrel [bilirubin 3.0 mg/dL, ALT 507 U/L, Alk P 636 U/L], resolving within 2 months of stopping).</italic></p></annotation><pub-id pub-id-type="pmid">11317178</pub-id></mixed-citation>
+          </ref>
+          <ref id="Clopidogrel.R8">
+            <mixed-citation publication-type="journal">Sgro C, Clinard F, Ouazir K, Chanay H, Allard C, Guilleminet C, Lenoir C, et al. Incidence of drug-induced hepatic injuries: a French population-based study. Hepatology 2002; 36: 451-5. <annotation><p><italic toggle="yes">(Among 34 cases of drug induced liver injury identified in a population based survey in France [1997-2000], 1 case was attributed to clopidogrel, occurring in a 75 year old woman [bilirubin 6.6 mg/dL, ALT 8 times ULN, Alk P 2 times ULN], resolving within 1 month).</italic></p></annotation><pub-id pub-id-type="pmid">12143055</pub-id></mixed-citation>
+          </ref>
+          <ref id="Clopidogrel.R9">
+            <mixed-citation publication-type="journal">Dur&#x000e1;n Quintana JA, Jim&#x000e9;nez S&#x000e1;enz M, Montero AR, Guti&#x000e9;rrez MH. [Clopidogrel probably induced hepatic toxicity]. Med Clin (Barc) 2002; 119: 37. Spanish. <annotation><p><italic toggle="yes">(77 year old man developed jaundice 6 months after starting clopidogrel [bilirubin 13 mg/dL, ALT 786 U/L, Alk P 474 U/L], resolving within 4 months of stopping).</italic></p></annotation><pub-id pub-id-type="pmid">12062007</pub-id></mixed-citation>
+          </ref>
+          <ref id="Clopidogrel.R10">
+            <mixed-citation publication-type="journal">Ramos Ramos JC, Sanz Moreno J, Calvo Carrasco L, Garc&#x000ed;a D&#x000ed;az Jde D. [Clopidogrel-induced hepatotoxicity]. Med Clin (Barc) 2003; 120: 156-7. Spanish. <annotation><p><italic toggle="yes">(89 year old woman developed jaundice 8 weeks after starting clopidogrel [bilirubin 24.9 rising to 33.8 mg/dL, ALT 720 U/L, Alk P 118 U/L], resolving within 5 months of stopping).</italic></p></annotation><pub-id pub-id-type="pmid">12605844</pub-id></mixed-citation>
+          </ref>
+          <ref id="Clopidogrel.R11">
+            <mixed-citation publication-type="journal">Wolf I, Mouallem M, Rath S, Farfel Z. Clopidogrel-induced systemic inflammatory response syndrome. Mayo Clin Proc 2003; 78: 618-20. <annotation><p><italic toggle="yes">(50 year old woman developed fever, weakness and rash 2 weeks after starting clopidogrel [bilirubin 1.3 mg/dL, ALT 149 U/L, Alk P 132 U/L], resolving rapidly upon stopping and with positive rechallenge [fever and tachycardia within 4 hours]).</italic></p></annotation><pub-id pub-id-type="pmid">12744550</pub-id></mixed-citation>
+          </ref>
+          <ref id="Clopidogrel.R12">
+            <mixed-citation publication-type="other">Batwa F, Lamoureaux E, Friedman G. Clopidogrel-induced liver injury [case report]. Can J Gastroenterol 2003; 17: 232. Not in PubMed<annotation><p><italic toggle="yes">(Cited in Goyal et al. [2009], 84 year old woman developed mixed pattern of liver injury 56 days after starting clopidogrel, with resolution on follow up).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Clopidogrel.R13">
+            <mixed-citation publication-type="journal">Beltran-Robles M, Marquez Saavedra E, Sanchez-Mu&#x000f1;D, Romero-Gomez M. Hepatotoxicity induced by clopidogrel. J Hepatol 2004; 40: 560-2. <annotation><p><italic toggle="yes">(59 year old man developed abnormal liver tests 4 days after starting clopidogrel [bilirubin 0.5 mg/dL, ALT 318 U/L, Alk P 100 U/L], resolving in 11 days of stopping and recurring within 4 days of restarting [ALT 119]).</italic></p></annotation><pub-id pub-id-type="pmid">15123377</pub-id></mixed-citation>
+          </ref>
+          <ref id="Clopidogrel.R14">
+            <mixed-citation publication-type="journal">Chau TN, Yim KF, Mok NS, Chan WK, Leung VK, Leung MF, Lai ST. Clopidogrel-induced hepatotoxicity after percutaneous coronary stenting. Hong Kong Med J 2005; 11: 414-6. <annotation><p><italic toggle="yes">(74 year old man developed jaundice 5 weeks after starting clopidogrel [bilirubin 5.3 mg/dL, ALT 212 U/L, Alk P 172 U/L], resolving within 4 weeks of stopping: Case 1).</italic></p></annotation><pub-id pub-id-type="pmid">16219965</pub-id></mixed-citation>
+          </ref>
+          <ref id="Clopidogrel.R15">
+            <mixed-citation publication-type="journal">Ng JA, Goldberg N, Tafreshi MJ. Clopidogrel-induced hepatotoxicity and fever. Pharmacotherapy 2006; 26: 1023-6. <annotation><p><italic toggle="yes">(59 year old woman developed fever 3 days after starting clopidogrel [bilirubin 1.5 mg/dL, ALT 536 U/L, Alk P 247 U/L, eosinophils 10%], fevers and laboratory abnormalities resolving with stopping, and recurring on restarting clopidogrel but then able to tolerate ticlopidine).</italic></p></annotation><pub-id pub-id-type="pmid">16878371</pub-id></mixed-citation>
+          </ref>
+          <ref id="Clopidogrel.R16">
+            <mixed-citation publication-type="journal">H&#x000f6;llm&#x000fc;ller I, Stadlmann S, Graziadei I, Vogel W. Clinico-histopathological characteristics of clopidogrel-induced hepatic injury: case report and review of literature. Eur J Gastroenterol Hepatol 2006; 18: 931-4. <annotation><p><italic toggle="yes">(80 year old man developed jaundice 6 weeks after starting clopidogrel [bilirubin 13.2 rising to 20.8 mg/dL, ALT 854 U/L, Alk P 221 U/L], resolving within 2 months of stopping).</italic></p></annotation><pub-id pub-id-type="pmid">16825915</pub-id></mixed-citation>
+          </ref>
+          <ref id="Clopidogrel.R17">
+            <mixed-citation publication-type="journal">L&#x000f3;pez-Vicente J, Garfia C, L&#x000f3;pez-Medrano F, Yela C. [Hepatic toxicity and clopidogrel-induced systemic inflammatory response syndrome]. Rev Esp Cardiol 2007; 60: 323-4. Spanish. <annotation><p><italic toggle="yes">(63 year old man developed fever and abdominal pain 4 weeks after starting clopidogrel [bilirubin 1.0 mg/dL, ALT 204, Alk P 682 U/L, eosinophils 3037/&#x000b5;L], resolving upon stopping clopidogrel).</italic></p></annotation><pub-id pub-id-type="pmid">17394881</pub-id></mixed-citation>
+          </ref>
+          <ref id="Clopidogrel.R18">
+            <mixed-citation publication-type="journal">Chalasani N, Fontana RJ, Bonkovsky HL, Watkins PB, Davern T, Serrano J, Yang H, Rochon J; Drug Induced Liver Injury Network (DILIN). Causes, clinical features, and outcomes from a prospective study of drug-induced liver injury in the United States. Gastroenterology 2008; 135: 1924-34. <annotation><p><italic toggle="yes">(Among 300 cases of drug induced liver disease in the US collected between 2004 and 2008, none were attributed to ticlopidine or clopidogrel).</italic></p></annotation><pub-id pub-id-type="pmid">18955056</pub-id></mixed-citation>
+          </ref>
+          <ref id="Clopidogrel.R19">
+            <mixed-citation publication-type="journal">Wiper A, Schmitt M, Roberts DH. Clopidogrel-induced hepatotoxicity. J Postgrad Med 2008; 54: 152. <annotation><p><italic toggle="yes">(56 year old man developed fatigue 2 months after starting clopidogrel [bilirubin normal, ALT ~450 U/L, Alk P ~680 U/L], resolving in 4 weeks but recurring upon restarting).</italic></p></annotation><pub-id pub-id-type="pmid">18480537</pub-id></mixed-citation>
+          </ref>
+          <ref id="Clopidogrel.R20">
+            <mixed-citation publication-type="journal">Blombery PA, Russell PA, Daffy JR. An unusual case of recurrent fever, jaundice and right upper quadrant pain. Med J Aust 2009; 191: 396-7. <annotation><p><italic toggle="yes">(66 year old man developed jaundice 2 months after starting clopidogrel [bilirubin 5.8 mg/dL, ALT 344 U/L, Alk P 357 U/L], with improvement on stopping and recurrence within a day of restarting clopidogrel [fever and jaundice], with biopsy showing granulomas, complete resolution 2 months after permanently stopping).</italic></p></annotation><pub-id pub-id-type="pmid">19807633</pub-id></mixed-citation>
+          </ref>
+          <ref id="Clopidogrel.R21">
+            <mixed-citation publication-type="journal">Goyal RK, Srivastava D, Lessnau KD. Clopidogrel-induced hepatocellular injury and cholestatic jaundice in an elderly patient: case report and review of the literature. Pharmacotherapy 2009; 29: 608-12. <annotation><p><italic toggle="yes">(78 year old woman developed jaundice 2-3 weeks after starting clopidogrel [bilirubin 7.3 rising to 13 mg/dL, ALT 234 U/L, Alk P 1011 U/L], improving on stopping, and worsening on restarting clopidogrel and resolving upon permanent discontinuation; review of 12 published cases).</italic></p></annotation><pub-id pub-id-type="pmid">19397467</pub-id></mixed-citation>
+          </ref>
+          <ref id="Clopidogrel.R22">
+            <mixed-citation publication-type="journal">Anselmino M, Moretti C, Ravera L, Sheiban I. Clopidogrel treatment in a patient with ticlopidine-induced hepatitis following percutaneous coronary stenting. Minerva Cardioangiol 2010; 58: 277-80. <annotation><p><italic toggle="yes">(81 year old woman developed jaundice 45 days after starting ticlopidine [details not given] and recovered after stopping; one year later clopidogrel was started without recurrence of liver injury).</italic></p></annotation><pub-id pub-id-type="pmid">20440256</pub-id></mixed-citation>
+          </ref>
+          <ref id="Clopidogrel.R23">
+            <mixed-citation publication-type="journal">Kastalli S, El A&#x000ef;dli S, Za&#x000ef;em A, ben Abdallah H, Daghfous R. Fatal liver injury associated with clopidogrel. Fundam Clin Pharmacol 2010; 24: 433-5. <annotation><p><italic toggle="yes">(63 year old man developed jaundice 19 days after starting clopidogrel which was continued until 54 days when he was admitted with ascites and jaundice [bilirubin 4.8 mg/dL, ALT 336 U/L, Alk P 186 U/L, prothrombin index 27%], developing progressive coma and dying 2 days later).</italic></p></annotation><pub-id pub-id-type="pmid">19895648</pub-id></mixed-citation>
+          </ref>
+          <ref id="Clopidogrel.R24">
+            <mixed-citation publication-type="journal">Reuben A, Koch DG, Lee WM; Acute Liver Failure Study Group. Drug-induced acute liver failure: results of a U.S. multicenter, prospective study. Hepatology 2010; 52: 2065-76. <annotation><p><italic toggle="yes"> (Among 1198 patients with acute liver failure enrolled in a US prospective study between 1998 and 2007, 133 were attributed to drug induced liver injury, but none were due to clopidogrel or other antiplatelet medications).</italic></p></annotation><pub-id pub-id-type="pmid">20949552</pub-id></mixed-citation>
+          </ref>
+          <ref id="Clopidogrel.R25">
+            <mixed-citation publication-type="journal">Leighton SP, Gordon C, Shand A. Clopidogrel, Turkey and a red herring? BMJ Case Rep 2011; 2011. pii: bcr0120113776. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/pubmed/22700934">PubMed Citation</ext-link><annotation><p><italic toggle="yes"> (61 year old man with history of stroke and TIAs developed jaundice one month after starting clopidogrel [bilirubin 3.3 mg/dL, ALT 3636 U/L, Alk P 364 U/L] which improved after stopping clopidogrel, but was then found to be acute hepatitis E, probably acquired while traveling in Turkey).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Clopidogrel.R26">
+            <mixed-citation publication-type="journal">Monteiro PH, Dos Santos Pinheiro L, Alvoeiro L, Lucas M, Victorino RM. Clopidogrel-induced liver failure. JRSM Short Rep 2011; 2: 40. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/pubmed/21637401">PubMed Citation</ext-link><annotation><p><italic toggle="yes">(80 year old woman with diabetes and coronary artery disease developed nausea and dyspnea 1 month after starting clopidogrel [bilirubin 1.7 mg/dL, ALT 190 U/L, GGT 166 U/L, INR rising to 1.6] who worsened for a week, but then resolved within 1 month once clopidogrel was stopped).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Clopidogrel.R27">
+            <mixed-citation publication-type="journal">Pisapia R, Abdeddaim A, Mariano A, Rianda A, Vincenzi L, Taibi C, Baiocchini A, et al. Acute hepatitis associated with clopidogrel: a case report and review of the literature. Am J Ther 2015; 22: e8-e13. <annotation><p><italic toggle="yes">(53 year old woman developed fatigue, rash followed by jaundice 3 months after starting atorvastatin and 2 days after starting clopidogrel [bilirubin 5 mg/dL, ALT 1603 U/L, Alk P 408 U/L, INR 1.14], and did not improve after stopping atorvastatin [bilirubin rising to 24.5, INR 1.8], but did after stopping clopidogrel).</italic></p></annotation><pub-id pub-id-type="pmid">23846525</pub-id></mixed-citation>
+          </ref>
+          <ref id="Clopidogrel.R28">
+            <mixed-citation publication-type="journal">Zahno A, Bouitbir J, Maseneni S, Lindinger PW, Brecht K, Kr&#x000e4;henb&#x000fc;hl S. Hepatocellular toxicity of clopidogrel: Mechanisms and risk factors. Free Radic Biol Med 2013; 65C: 208-16. <annotation><p><italic toggle="yes">(In vitro studies of clopidogrel effects on hepatocytes suggested that low cellular glutathione and high CYP 3A4 activity may predispose to hepatotoxicity). </italic></p></annotation><pub-id pub-id-type="pmid">23770199</pub-id></mixed-citation>
+          </ref>
+          <ref id="Clopidogrel.R29">
+            <mixed-citation publication-type="journal">Bj&#x000f6;rnsson ES, Bergmann OM, Bj&#x000f6;rnsson HK, Kvaran RB, Olafsson S. Incidence, presentation and outcomes in patients with drug-induced liver injury in the general population of Iceland. Gastroenterology 2013; 144: 1419-25. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/pubmed/23419359">PubMed Citation</ext-link><annotation><p><italic toggle="yes">(In a population based study of drug induced liver injury from Iceland, 96 cases were identified over a 2 year period, but none were attributed to clopidogrel).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Clopidogrel.R30">
+            <mixed-citation publication-type="journal">Hern&#x000e1;ndez N, Bessone F, S&#x000e1;nchez A, di Pace M, Brahm J, Zapata R, A Chirino R, et al. Profile of idiosyncratic drug induced liver injury in Latin America: an analysis of published reports. Ann Hepatol 2014; 13: 231-9. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/pubmed/24552865">PubMed Citation</ext-link><annotation><p><italic toggle="yes">(Among 176 reports of drug induced liver injury from Latin America published between 1996 and 2012, none were attributed to clopidogrel).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Clopidogrel.R31">
+            <mixed-citation publication-type="journal">Chalasani N, Bonkovsky HL, Fontana R, Lee W, Stolz A, Talwalkar J, Reddy KR, et al.; United States Drug Induced Liver Injury Network. Features and outcomes of 899 patients with drug-induced liver injury: The DILIN Prospective Study. Gastroenterology 2015; 148: 1340-52.e7. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/pubmed/25754159">PubMed Citation</ext-link><annotation><p><italic toggle="yes">(Among 899 cases of drug induced liver injury enrolled in a US prospective study between 2004 and 2013, none were due to clopidogrel).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Clopidogrel.R32">
+            <mixed-citation publication-type="journal">Kapila A, Chhabra L, Locke AD, Patel P, Khanna A, Reddy CM, Young MF. An idiosyncratic reaction to clopidogrel. Perm J 2015; 19: 74-6. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/pubmed/25663208">PubMed Citation</ext-link><annotation><p><italic toggle="yes"> (75 year old woman developed fever 5 days after starting clopidogrel [bilirubin 1.6 mg/dL, ALT 716 U/L, Alk P 160 U/L], which resolved rapidly upon stopping and rechallenge resulted in rise in ALT [42 to 92 U/L] and AST [49 to 120 U/L] within two days).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Clopidogrel.R33">
+            <mixed-citation publication-type="journal">Keshmiri H, Behal A, Shroff S, Berkelhammer C. Clopidogrel-induced severe hepatitis: a case report and literature review. Case Reports Hepatol 2016; 2016: 8068276. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/pubmed/27429813">PubMed Citation</ext-link><annotation><p><italic toggle="yes">(34 year old man developed jaundice 4 months after starting clopidogrel [bilirubin 5.7 mg/dL, ALT 1393 U/L, Alk P 130 U/L, INR 1.5], worsening for a week and improving thereafter on a brief course of prednisone and ursodiol).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Clopidogrel.R34">
+            <mixed-citation publication-type="journal">Etxeberria Lekuona D, M&#x000e9;ndez L&#x000f3;pez I, Mercado MR, Oteiza J, Arteaga M, Jarne V. [Cholestasic toxic hepatitis due to clopidogrel in a patient with multiple conditions]. An Sist Sanit Navar 2016; 39: 143-8. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/pubmed/27125614">PubMed Citation</ext-link><annotation><p><italic toggle="yes"> (78 year old man with diabetes and renal insufficiency developed metabolic acidosis and liver test abnormalities 4 months after starting clopidogrel [bilirubin 2.1 mg/dL, ALT 106 U/L, Alk P 1441 U/L], laboratory tests improving, but not completely upon stopping).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Clopidogrel.R35">
+            <mixed-citation publication-type="journal">Papagni S, Bonifati C, Dagostino F, Murgo AM. [Clopidogrel- induced hepatotoxicity in hemodialyzed patient: a case report]. G Ital Nefrol 2016; 33. pii: gin/33.1.7. Italian. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/pubmed/26913747">PubMed Citation</ext-link><annotation><p><italic toggle="yes">(71 year old diabetic on hemodialysis developed jaundice and ascites shortly after starting clopidogrel, which improved slowly upon stopping).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Clopidogrel.R36">
+            <mixed-citation publication-type="journal">Drug interaction: Clopidogrel and PPIs. Med Lett Drugs Ther 2017; 59 (1515): 39-40. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/pubmed/28222065">PubMed Citation</ext-link><annotation><p><italic toggle="yes"> (Concurrent use of clopidogrel and omeprazole may decrease the antiplatelet activity, but the clinical significance of the effect has not been shown).</italic></p></annotation></mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec id="Clopidogrel.OTHER_REFERENCE_LINKS" sec-type="link-group">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=(Clopidogrel/AE)+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D%3A%222999/12/31%22%5BEDat%5D)">Recent References on Clopidogrel: from PubMed.gov</ext-link>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Clopidogrel">Trials on Clopidogrel: from ClinicalTrials.gov</ext-link>
+            </p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

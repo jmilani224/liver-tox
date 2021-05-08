@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="ChelatingAgents" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">ChelatingAgents</book-part-id>
+      <title-group>
+        <title>Chelating Agents</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>23</day>
+          <month>1</month>
+          <year>2017</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Chaparral" document-type="chapter">Chaparral</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Chenodiol" document-type="chapter">Chenodiol (Chenodeoxycholic Acid)</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="ChelatingAgents.OVERVIEW">
+        <title>OVERVIEW</title>
+        <p content-type="pubmed-excerpt">Chelating agents are used to reduce blood and tissue levels of injurious heavy metals. Chelating agents are generally classified based upon the target heavy metal &#x02013; iron, copper, mercury and lead being the major targets. Some chelating agents have a high degree of specificity for the target metal, while others chelate multiple agents. Specificity is important in regard to safety, as chelation of other metals or minerals may lead to serious side effects, for instance, lowering of calcium or phosphate levels as occurs with EDTA. The most important step in management of excessive heavy metal accumulation or poisoning is to avoid or eliminate the source of the exposure. Pharmacological interventions are complementary, but are effective and can be life saving.</p>
+        <p content-type="pubmed-excerpt">The iron chelating agents currently in use include deferoxamine, deferasirox and deferiprone, all of which are highly specific for iron and have little or no effect on levels of copper, lead, calcium, magnesium or phosphate. Deferasirox and deferiprone can be administered orally, whereas deferoxamine requires parenteral administration.</p>
+        <p content-type="pubmed-excerpt">The copper chelating agents in current use include penicillamine, trientine and dimercaprol. These agents are used largely to treat Wilson disease, the complications of which are caused by excessive body copper accumulation. Dimercaprol (also known as British anti-Lewisite [BAL]) must be given intravenously and is generally used only for acute or advanced symptomatic Wilson disease. It is also effective in lowering levels of other heavy metals including arsenic and mercury. Penicillamine and trientine are orally available and are the mainstays of prevention and therapy of Wilson disease. Trientine is generally better tolerated than penicillamine, which has many difficult side effects including acute liver injury. Nevertheless, penicillamine appears to be more effective in the initial management of symptomatic Wilson disease and is preferred as a first line therapy. Zinc is also used to treat Wilson disease, but it appears to act by inhibition of absorption of copper from the diet rather than chelation of copper from serum or tissue.</p>
+        <p>The lead and other heavy metal chelators include succimer (dimercaptonol), dimercaprol (BAL), and ethylenediaminetetraacetic acid (EDTA). Succimer is orally available and appears to be more effective and better tolerated that the other therapies, which require intravenous administration. These agents are also used for arsenic, mercury and cadmium poisoning.</p>
+        <p>The chelating agents are rare causes of liver injury, the only agent convincingly linked to causing idiosyncratic acute liver injury with jaundice being penicillamine which usually causes of an immunoallergic, mostly cholestatic hepatitis with a short incubation period.</p>
+        <p>The following chelating agents are discussed individually or jointly in LiverTox:</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Arsenic Chelators <list list-type="bullet"><list-item><p><related-object source-id="livertox" document-id="Dimercaprol">Dimercaprol</related-object></p></list-item></list></p>
+          </list-item>
+          <list-item>
+            <p><related-object source-id="livertox" document-id="WilsonDiseaseAgents">Copper Chelators (for Wilson Disease)</related-object>
+<list list-type="bullet"><list-item><p><related-object source-id="livertox" document-id="Dimercaprol">Dimercaprol</related-object></p></list-item><list-item><p><related-object source-id="livertox" document-id="Penicillamine">Penicillamine</related-object></p></list-item><list-item><p><related-object source-id="livertox" document-id="Trientine">Trientine</related-object></p></list-item><list-item><p><related-object source-id="livertox" document-id="Zinc">Zinc</related-object></p></list-item></list></p>
+          </list-item>
+          <list-item>
+            <p>Iron Chelators <list list-type="bullet"><list-item><p><related-object source-id="livertox" document-id="Deferasirox">Deferasirox</related-object></p></list-item><list-item><p><related-object source-id="livertox" document-id="Deferiprone">Deferiprone</related-object></p></list-item><list-item><p><related-object source-id="livertox" document-id="Deferoxamine">Deferoxamine</related-object></p></list-item></list></p>
+          </list-item>
+          <list-item>
+            <p>Lead Chelators <list list-type="bullet"><list-item><p><related-object source-id="livertox" document-id="Dimercaprol">Dimercaprol</related-object></p></list-item><list-item><p>EDTA [not in LiverTox]</p></list-item><list-item><p><related-object source-id="livertox" document-id="Succimer">Succimer</related-object></p></list-item></list></p>
+          </list-item>
+          <list-item>
+            <p>Mercury Chelators <list list-type="bullet"><list-item><p><related-object source-id="livertox" document-id="Dimercaprol">Dimercaprol</related-object></p></list-item></list></p>
+          </list-item>
+        </list>
+      </sec>
+      <sec id="ChelatingAgents.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 23 January 2017</p>
+        <ref-list id="ChelatingAgents.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="ChelatingAgents.R1">
+            <mixed-citation publication-type="other">Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999.<annotation><p><italic toggle="yes">(Review of hepatotoxicity published in 1999 includes discussion of penicillamine and deferoxamine).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="ChelatingAgents.R2">
+            <mixed-citation publication-type="other">Byrns MC, Penning TM. Treatment of metal exposure. Environmental toxicology: carcinogens and heavy metals. In, Brunton LL, Chabner BA, Knollman BC, eds. Goodman &#x00026; Gilman's the pharmacological basis of therapeutics. 12th ed. New York: McGraw-Hill, 2011, pp. 1872-76.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="ChelatingAgents.R3">
+            <mixed-citation publication-type="journal">Chalasani N, Bonkovsky HL, Fontana R, Lee W, Stolz A, Talwalkar J, Reddy KR, et al.; United States Drug Induced Liver Injury Network. Features and outcomes of 899 patients with drug-induced liver injury: The DILIN Prospective Study. Gastroenterology 2015; 148: 1340-52.e7. <annotation><p><italic toggle="yes">(Among 899 cases of drug induced liver injury enrolled in a US prospective study between 2004 and 2013, 2 cases [0.2%] were attributed to chelating agents, one to penicillamine [acute icteric hepatitis arising within few weeks of starting penicillamine for scleroderma] and one to deferasirox [asymptomatic ALT elevations without jaundice which resolved rapidly with stopping, but recurred with rechallenge]).</italic></p></annotation><pub-id pub-id-type="pmid">25754159</pub-id></mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Alirocumab" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Alirocumab</book-part-id>
+      <title-group>
+        <title>Alirocumab</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>19</day>
+          <month>2</month>
+          <year>2018</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Alfuzosin" document-type="chapter">Alfuzosin</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Aliskiren" document-type="chapter">Aliskiren</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Alirocumab.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Alirocumab.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Alirocumab is a human monoclonal antibody to PCSK9 (proprotein convertase subtilisin/kexin type 9), a circulating protein that modulates the activity of the LDL cholesterol receptor in the liver. The monoclonal antibody lowers serum LDL cholesterol and is used to treat severe hypercholesterolemia. Alirocumab therapy has been associated with a low rate of serum aminotransferase elevations and has yet to be linked to instances of clinically apparent acute liver injury.</p>
+        </sec>
+        <sec id="Alirocumab.Background">
+          <title>Background</title>
+          <p>Alirocumab (al" i rok' ue mab) is a human IgG1 monoclonal antibody to proprotein convertase subtilisin/kexin type 9 (PCSK9), a serine protease that decreases the activity of the LDL cholesterol receptor in the liver. Inhibition of PCSK9 increases the low density lipoprotein (LDL) cholesterol receptor, leading to an increased uptake of LDL particles and a decrease in serum LDL cholesterol. Patients with a genetic deficiency in PCSK9 have low levels of LDL cholesterol, and inhibition of the protein activity with monoclonal antibody leads to a marked lowering of LDL cholesterol. In several controlled trials, alirocumab was shown to lower LDL cholesterol in persons with heterozygosity for familial hypercholesterolemia and in persons at risk for atherosclerosis who have been unable to achieve adequate cholesterol lowering with standard lipid lowering agents (statins). Alirocumab was approved for use in the United States in 2015. The current indications are limited to patients with severe hypercholesterolemia who are heterozygous for familial hypercholesterolemia or who have had clinical complications of atherosclerosis and an inadequate response to standard therapies. Alirocumab should be given in combination with advice on diet and exercise and is usually used in combination with oral lipid lowering agents such as statins. Alirocumab is available in solution in single use syringes or pens of 75 or 150 mg/mL under the brand name Praluent. The recommended initial dose is 75 mg administered subcutaneously every two weeks, which can be raised to 150 mg every two weeks based upon tolerance and response. Side effects are uncommon and rarely serious, but include injection site reactions (7%) and myalgia (4%). Rare, but potentially serious side effects may include memory impairment, neurocognitive defects, confusion and hypersensitivity reactions.</p>
+        </sec>
+        <sec id="Alirocumab.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>In premarketing studies, liver test abnormalities were uncommon in patients taking alirocumab and rates of abnormalities were only slightly higher than in patients receiving placebo injections. Some degree of ALT elevation was reported in 2.5% with alirocumab vs 1.7% with placebo injections. ALT or AST values greater than 3 times the upper limit of normal (ULN) occurred in 1.7% of persons on alirocumab vs 1.4% on placebo. No instances of acute, clinically apparent liver injury attributed to alirocumab were reported during the prelicensure evaluation and none have been reported since. However, alirocumab has had limited use and has been available commercially for a short time only.</p>
+          <p>Likelihood score: E (unlikely cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Alirocumab.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>Alirocumab is a human monoclonal antibody and is metabolized in many tissues to polypeptides and amino acids which are unlikely to be toxic. Monoclonal antibody therapy sometimes causes immune mediated liver injury, but such events have not been described in alirocumab or evolocumab.</p>
+        </sec>
+        <sec id="Alirocumab.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>Therapy with alirocumab and other monoclonal antibodies to PCSK9 have been well tolerated with rates of adverse events similar to those with placebo or comparator treatments. Local injection site reactions occur with these agents, but are generally mild and improve with continued therapy. Monoclonal antibodies to PCSK9 has not been linked to significant elevations in serum enzymes or bilirubin or to clinically apparent liver injury. Patients who develop serum aminotransferase elevations above 3 times the upper limit of normal should be evaluated for other causes of liver injury including drug-induced injury from another antilipemic agent.</p>
+          <p>Drug Class: <related-object source-id="livertox" document-id="Lipid-LoweringAgents">Antilipemic Agents</related-object>; <related-object source-id="livertox" document-id="MonoclonalAntibodies">Monoclonal Antibodies</related-object>, Anti-PCSK9</p>
+          <p>Other Drugs in the Class: <related-object source-id="livertox" document-id="Evolocumab">Evolocumab</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Alirocumab.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <boxed-text position="anchor" id="Alirocumab.BPI" orientation="portrait">
+          <p>
+            <bold>REPRESENTATIVE TRADE NAMES</bold>
+          </p>
+          <p>Alirocumab &#x02013; Praluent&#x000ae;</p>
+          <p>
+            <bold>DRUG CLASS</bold>
+          </p>
+          <p>Antilipemic Agents</p>
+          <p>
+            <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Alirocumab">COMPLETE LABELING</ext-link>
+          </p>
+          <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+        </boxed-text>
+      </sec>
+      <sec id="Alirocumab.CHEMICAL_FORMULA_AND_STRUCTUR">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Alirocumab.T1" position="anchor" orientation="portrait">
+          <table>
+            <thead>
+              <tr>
+                <th id="hd_h_Alirocumab.T1_1_1_1_1" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Alirocumab.T1_1_1_1_2" rowspan="1" colspan="1">CAS REGISTRY NO.</th>
+                <th id="hd_h_Alirocumab.T1_1_1_1_3" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Alirocumab.T1_1_1_1_4" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Alirocumab.T1_1_1_1_1" rowspan="1" colspan="1">Alirocumab</td>
+                <td headers="hd_h_Alirocumab.T1_1_1_1_2" rowspan="1" colspan="1">
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://381126738">1245916-14-6</ext-link>
+                </td>
+                <td headers="hd_h_Alirocumab.T1_1_1_1_3" rowspan="1" colspan="1">Monoclonal Antibody</td>
+                <td headers="hd_h_Alirocumab.T1_1_1_1_4" rowspan="1" colspan="1">Not Available</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Alirocumab.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 19 February 2018</p>
+        <ref-list id="Alirocumab.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Alirocumab.R1">
+            <mixed-citation publication-type="other">Zimmerman HJ. Drugs used in the treatment of hypercholesterolemia and hyperlipidemia. In, Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999, pp. 660-2.<annotation><p><italic toggle="yes">(Expert review of hepatotoxicity of lipid lowering drugs published in 1999; before the availability of alirocumab).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Alirocumab.R2">
+            <mixed-citation publication-type="other">Halegoua-De Marzio D, Navarro VJ. Lipid-regulating agents. Hepatotoxicity of cardiovascular and antidiabetic drugs. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 2nd ed. New York: Informa Healthcare USA, 2007, pp. 5268.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of lipid lowering drugs before the availability of alirocumab).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Alirocumab.R3">
+            <mixed-citation publication-type="other">Bersot TP. Drug therapy for hypercholesterolemia and dyslipidemia. In, Brunton LL, Lazo JS, Parker KL, eds. Goodman &#x00026; Gilman&#x02019;s the pharmacological basis of therapeutics. 11th ed. New York: McGraw-Hill, 2006, pp. 877-908.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Alirocumab.R4">
+            <mixed-citation publication-type="journal">Stein EA, Gipe D, Bergeron J, Gaudet D, Weiss R, Dufour R, Wu R, et al. Effect of a monoclonal antibody to PCSK9, REGN727/SAR236553, to reduce low-density lipoprotein cholesterol in patients with heterozygous familial hypercholesterolaemia on stable statin dose with or without ezetimibe therapy: a phase 2 randomised controlled trial. Lancet 2012; 380 (9836): 29-36. <annotation><p><italic toggle="yes">(Among 77 patients with heterozygosity for familial hypercholesterolemia on high doses of statins treated with 1 of 4 regimens of alirocumab or placebo for 12 weeks, LDL cholesterol levels decreased in a dose dependent manner; there were no serious adverse events related to therapy and no patient had serum ALT elevations above 3 times ULN).</italic></p></annotation><pub-id pub-id-type="pmid">22633824</pub-id></mixed-citation>
+          </ref>
+          <ref id="Alirocumab.R5">
+            <mixed-citation publication-type="journal">McKenney JM, Koren MJ, Kereiakes DJ, Hanotin C, Ferrand AC, Stein EA. Safety and efficacy of a monoclonal antibody to proprotein convertase subtilisin/kexin type 9 serine protease, SAR236553/REGN727, in patients with primary hypercholesterolemia receiving ongoing stable atorvastatin therapy. J Am Coll Cardiol 2012; 59: 2344-53. <annotation><p><italic toggle="yes">(Among 183 patients with hypercholesterolemia [LDL-cholesterol &#x0003e;100 mg/dL], despite maximal statin doses, treated with anti-PCSK9 or placebo every 2 or 4 weeks for 12 weeks, none had ALT elevations above 3 times ULN or significant changes in laboratory values).</italic></p></annotation><pub-id pub-id-type="pmid">22463922</pub-id></mixed-citation>
+          </ref>
+          <ref id="Alirocumab.R6">
+            <mixed-citation publication-type="journal">Roth EM, McKenney JM, Hanotin C, Asset G, Stein EA. Atorvastatin with or without an antibody to PCSK9 in primary hypercholesterolemia. N Engl J Med 2012; 367: 1891-900. <annotation><p><italic toggle="yes">(Among 92 patients with hypercholesterolemia treated with atorvastatin and either alirocumab or placebo for 8 weeks, mean decline in LDL cholesterol was 66-73% with alirocumab and there were no episodes of ALT elevations above 3 times ULN during therapy).</italic></p></annotation><pub-id pub-id-type="pmid">23113833</pub-id></mixed-citation>
+          </ref>
+          <ref id="Alirocumab.R7">
+            <mixed-citation publication-type="journal">Giugliano RP, Desai NR, Kohli P, Rogers WJ, Somaratne R, Huang F, Liu T, et al.; LAPLACE-TIMI 57 Investigators. Efficacy, safety, and tolerability of a monoclonal antibody to proprotein convertase subtilisin/kexin type 9 in combination with a statin in patients with hypercholesterolaemia (LAPLACE-TIMI 57): a randomised, placebo-controlled, dose-ranging, phase 2 study. Lancet 2012; 380 (9858): 2007-17. <annotation><p><italic toggle="yes">(Among 631 patients with hypercholesterolemia, despite statin use, treated with anti-PCSK9 [70, 105 or 140 mg] or placebo every 2 or 4 weeks, a marked, dose related decline in LDL cholesterol occurred and there were no treatment related serious adverse events and no changes in laboratory values from baseline compared to placebo).</italic></p></annotation><pub-id pub-id-type="pmid">23141813</pub-id></mixed-citation>
+          </ref>
+          <ref id="Alirocumab.R8">
+            <mixed-citation publication-type="journal">Kereiakes DJ, Robinson JG, Cannon CP, Lorenzato C, Pordy R, Chaudhari U, Colhoun HM. Efficacy and safety of the proprotein convertase subtilisin/kexin type 9 inhibitor alirocumab among high cardiovascular risk patients on maximally tolerated statin therapy: The ODYSSEY COMBO I study. Am Heart J 2015 169: 906-915.e13. <annotation><p><italic toggle="yes">(Among 316 patients with coronary artery disease and hypercholesterolemia, despite high doses of statins, who were treated with alirocumab [75 mg] or placebo injections every 2 weeks, LDL cholesterol levels decreased by 48% and adverse events including laboratory test abnormalities were similar between groups).</italic></p></annotation><pub-id pub-id-type="pmid">26027630</pub-id></mixed-citation>
+          </ref>
+          <ref id="Alirocumab.R9">
+            <mixed-citation publication-type="journal">Robinson JG, Farnier M, Krempf M, Bergeron J, Luc G, Averna M, Stroes ES, et al.; ODYSSEY LONG TERM Investigators. Efficacy and safety of alirocumab in reducing lipids and cardiovascular events. N Engl J Med 2015; 372: 1489-99. <annotation><p><italic toggle="yes">(Among 2341 patients at high or moderate risk for cardiovascular events and hypercholesterolemia, despite high doses of statins, who were treated with alirocumab [150 mg] or placebo injections every two weeks, adverse events more common with alirocumab included injection site reactions [5.9% vs 4.2%], myalgia [5.4% vs 2.9%], neurocognitive events [1.2% vs 0.5%] and ophthalmologic events [2.9% vs 1.9%], but ALT elevations above 3 times ULN occurred at similar rates [1.8% vs 2.1%]).</italic></p></annotation><pub-id pub-id-type="pmid">25773378</pub-id></mixed-citation>
+          </ref>
+          <ref id="Alirocumab.R10">
+            <mixed-citation publication-type="journal">Cannon CP, Cariou B, Blom D, McKenney JM, Lorenzato C, Pordy R, Chaudhari U, et al.; ODYSSEY COMBO II Investigators. Efficacy and safety of alirocumab in high cardiovascular risk patients with inadequately controlled hypercholesterolaemia on maximally tolerated doses of statins: the ODYSSEY COMBO II randomized controlled trial. Eur Heart J 2015; 36: 1186-94. <annotation><p><italic toggle="yes">(Among 720 patients with hypercholesterolemia, despite high doses of statins, treated with either alirocumab or ezetimibe for up to 104 weeks, rates of side effects were similar in the two groups and ALT elevations above 3 times ULN occurred in 1.7% on alirocumab vs 0.4% on ezetimibe, but there were no episodes of clinically apparent liver injury).</italic></p></annotation><pub-id pub-id-type="pmid">25687353</pub-id></mixed-citation>
+          </ref>
+          <ref id="Alirocumab.R11">
+            <mixed-citation publication-type="journal">Koren MJ, Roth EM, McKenney JM, Gipe D, Hanotin C, Ferrand AC, Wu R, et al. Safety and efficacy of alirocumab 150 mg every 2 weeks, a fully human proprotein convertase subtilisin/kexin type 9 monoclonal antibody: A Phase II pooled analysis. Postgrad Med 2015; 127: 125-32. <annotation><p><italic toggle="yes">(Pooled analysis of 3 phase II trials of alirocumab [n=108] vs placebo [n=77] for 8-12 weeks, found no significant difference in rates of adverse events and no instance of ALT elevations above 3 times ULN in either group).</italic></p></annotation><pub-id pub-id-type="pmid">25609019</pub-id></mixed-citation>
+          </ref>
+          <ref id="Alirocumab.R12">
+            <mixed-citation publication-type="journal">Chalasani N, Bonkovsky HL, Fontana R, Lee W, Stolz A, Talwalkar J, Reddy KR, et al.; United States Drug Induced Liver Injury Network. Features and outcomes of 899 patients with drug-induced liver injury: The DILIN Prospective Study. Gastroenterology 2015; 148: 1340-52. <annotation><p><italic toggle="yes">(Among 899 cases of drug induced liver injury enrolled in a US prospective study between 2004 and 2013, 41 cases were attributed to lipid lowering agents including 31 to statins, 5 to niacin and 5 to fibrates, but none to alirocumab or evolocumab).</italic></p></annotation><pub-id pub-id-type="pmid">25754159</pub-id></mixed-citation>
+          </ref>
+          <ref id="Alirocumab.R13">
+            <mixed-citation publication-type="journal">Navarese EP, Kolodziejczak M, Schulze V, Gurbel PA, Tantry U, Lin Y, Brockmeyer M, et al. Effects of proprotein convertase subtilisin/kexin type 9 antibodies in adults with hypercholesterolemia: a systematic review and meta-analysis. Ann Intern Med 2015; 163: 40-51. <annotation><p><italic toggle="yes">(Systematic review of the literature on efficacy and safety of anti-PCSK9 monoclonal antibody therapy [both alirocumab and evolocumab] in patients with hypercholesterolemia concludes that these agents are safe and effective, leading to marked reductions in LDL cholesterol without increasing serious adverse events; does not discuss ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">25915661</pub-id></mixed-citation>
+          </ref>
+          <ref id="Alirocumab.R14">
+            <mixed-citation publication-type="journal">Moriarty PM, Thompson PD, Cannon CP, Guyton JR, Bergeron J, Zieve FJ, Bruckert E, et al.; ODYSSEYALTERNATIVE Investigators. Efficacy and safety of alirocumab vs ezetimibe in statin-intolerant patients, with a statin rechallenge arm: The ODYSSEYALTERNATIVE randomized trial. J Clin Lipidol 2015; 9: 758-69. <annotation><p><italic toggle="yes"> (Among 313 patients with hypercholesterolemia and statin intolerance treated with alirocumab or ezetimibe or atorvastatin for 24 weeks, alirocumab produced greater reductions in LDL-cholesterol than ezetimibe with slightly lower rates of myalgia than atorvastatin [25% vs 27%], and there were no ALT elevations above 3 times ULN in any group).</italic></p></annotation><pub-id pub-id-type="pmid">26687696</pub-id></mixed-citation>
+          </ref>
+          <ref id="Alirocumab.R15">
+            <mixed-citation publication-type="journal">Jones PH, Bays HE, Chaudhari U, Pordy R, Lorenzato C, Miller K, Robinson JG. Safety of alirocumab (a PCSK9 monoclonal antibody) from 14 randomized trials. Am J Cardiol 2016; 118: 1805-11. <annotation><p><italic toggle="yes"> (Among 5234 patients treated with alirocumab or placebo or ezetimide in 14 controlled trials, overall adverse event rates, including serious events and deaths, were similar in the three groups, although local injection reactions were more common with alirocumab; rates of ALT elevations were also similar [2.7 and 2.9% vs 2.3% with placebo and 2.6% with ezetimibe] and there were no cases of ALT elevations with jaundice that could not be attributed to other causes [2 in patients treated with alirocumab, 2 with placebo]).</italic></p></annotation><pub-id pub-id-type="pmid">27729106</pub-id></mixed-citation>
+          </ref>
+          <ref id="Alirocumab.R16">
+            <mixed-citation publication-type="journal">Stroes E, Guyton JR, Lepor N, Civeira F, Gaudet D, Watts GF, Baccara-Dinet MT, et al.; ODYSSEY CHOICE II Investigators. Efficacy and safety of alirocumab 150 mg every 4 weeks in patients with hypercholesterolemia not on a statin therapy: the ODYSSEY CHOICE II Study. J Am Heart Assoc 2016; 5. pii: e003421. <annotation><p><italic toggle="yes">(Among 233 patients with hypercholesterolemia, not on statin therapy, who were treated with one of two doses of alirocumab or placebo injections for 24 weeks, adverse event rates were similar except for injection site reactions [13.8% vs 3.5% vs none with placebo], and ALT elevations above 3 times ULN occurred in only 1 alirocumab [0.6%] vs no placebo recipient).</italic></p></annotation><pub-id pub-id-type="pmid">27625344</pub-id></mixed-citation>
+          </ref>
+          <ref id="Alirocumab.R17">
+            <mixed-citation publication-type="journal">Orringer CE, Jacobson TA, Saseen JJ, Brown AS, Gotto AM, Ross JL, Underberg JA. Update on the use of PCSK9 inhibitors in adults: Recommendations from an Expert Panel of the National Lipid Association. J Clin Lipidol 2017; 11: 880-90. <annotation><p><italic toggle="yes">(Revised recommendations on the use of monoclonal anti-PCSK9 therapies by an expert panel suggesting their use in all patients at high or moderate risk for atherosclerotic cardiovascular disease who have intolerance or inadequate control of cholesterol levels using maximal doses of conventional agents).</italic></p></annotation><pub-id pub-id-type="pmid">28532784</pub-id></mixed-citation>
+          </ref>
+          <ref id="Alirocumab.R18">
+            <mixed-citation publication-type="journal">Bays HE, Leiter LA, Colhoun HM, Thompson D, Bessac L, Pordy R, Toth PP. Alirocumab treatment and achievement of non-high-density lipoprotein cholesterol and apolipoprotein B goals in patients with hypercholesterolemia. J Am Heart Assoc 2017; 6. pii: e005639. <annotation><p><italic toggle="yes">(Among 4983 patients with hypercholesterolemia enrolled in 10 controlled trials of alirocumab, total and serious adverse event rates were similar in all groups except for injection site reactions which were greater with alirocumab; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">28862926</pub-id></mixed-citation>
+          </ref>
+          <ref id="Alirocumab.R19">
+            <mixed-citation publication-type="journal">El Shahawy M, Cannon CP, Blom DJ, McKenney JM, Cariou B, Lecorps G, Pordy R, Chaudhari U, Colhoun HM et al. Efficacy and safety of alirocumab versus ezetimibe over 2 years (from ODYSSEY COMBO II). Am J Cardio 2017; 120: 931-9. <annotation><p><italic toggle="yes"> (Among 720 patients with inadequate control of cholesterol levels with maximal doses of statins who were treated with alirocumab or ezetimibe for up to 2 years, adverse event rates were similar, ALT elevations above 3 times ULN occurred in 2.1% on alirocumab vs 0.8% on ezetimibe, but the abnormalities were usually a single value and no patient developed clinically apparent liver injury).</italic></p></annotation><pub-id pub-id-type="pmid">28750828</pub-id></mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec id="Alirocumab.OTHER_REFERENCE_LINKS" sec-type="link-group">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=Alirocumab+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D%3A%222999/12/31%22%5BEDat%5D)">Recent References on Alirocumab: from PubMed.gov</ext-link>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Alirocumab">Trials on Alirocumab: from ClinicalTrials.gov</ext-link>
+            </p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

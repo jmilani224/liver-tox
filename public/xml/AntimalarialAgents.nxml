@@ -1,0 +1,501 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="AntimalarialAgents" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">AntimalarialAgents</book-part-id>
+      <title-group>
+        <title>Antimalarial Agents</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>2</day>
+          <month>2</month>
+          <year>2017</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Lipid-LoweringAgents" document-type="chapter">Antilipemic Agents</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="AntineoplasticAgents" document-type="chapter">Antineoplastic Agents</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="AntimalarialAgents.OVERVIEW">
+        <title>OVERVIEW</title>
+        <p content-type="pubmed-excerpt">Malaria is one of the world&#x02019;s most common and important infectious diseases, affecting 200 to 300 million persons and accounting for half a million deaths yearly, mostly children. Malaria in humans is caused by four Plasmodium species, P. falciparum, vivax, ovale and malariae and is spread by the bite of the female Anopheles mosquito. The majority of infections and deaths due to malaria occur in Africa and Asia. Between 1000 and 1500 cases are reported in the United States each year, virtually all being related to travel to endemic areas, and deaths being very rare and usually associated with misdiagnosis, inadequate therapy or lack of compliance.</p>
+        <p content-type="pubmed-excerpt">The major drugs used to treat malaria include amodiaquine (Camoquin, Flavoquine), artemisinin derivatives (artesunate: Adamsunate; artemether-lumefantrine, Coartem), atovaquone/proguanil (Malarone), chloroquine (Aralen), mefloquine (Lariam), mepacrine or quinacrine (Atabrine), primaquine (generic only), sulfadoxine/pyrimethamine (Fansidar), and quinine (Qualaquin). Not all of these agents are available in the United States, but the majority of therapy of malaria is administered in Africa and Asia where these agents and others are available.</p>
+        <p content-type="pubmed-excerpt">Quinine was the initial drug used for prophylaxis and therapy of malaria, being the active component of Cinchona bark that was used for centuries in South America for chills and fever, and that was introduced into Western medicine by Jesuit priests returning from Peru in the 17th Century. Quinine is active against malaria, but has been replaced by synthetic aminoquinolone derivatives such as chloroquine that are more potent and better tolerated. Quinine is still used rarely for therapy of chloroquine-resistant P. falciparum malaria. Quinine can cause an acute allergic response with fever, nausea, abdominal pain and liver injury, but it is rarely severe.</p>
+        <p>Chloroquine has been the standard antimalarial drug since its development during World War II and is used both for therapy and prophylaxis. Chloroquine resistance has become a growing problem, particularly for P. falciparum infections. Chloroquine rarely causes hepatic injury, although it can cause an acute exacerbation of porphyria cutanea tarda with hepatic involvement.</p>
+        <p>Amodiaquine is an aminoquinolone structurally related to chloroquine which has some advantages, but which can cause severe hepatitis and agranulocytosis which led to its abandonment as prophylaxis. It is still used in combination with other agents for therapy of chloroquine-resistant P. falciparum.</p>
+        <p>Mefloquine is an aminoquinoline similar to quinine which is used both for prophylaxis and treatment of malaria, it being effective against many chloroquine-resistant P. falciparum infections. Mefloquine resistance has become a growing problem with it use as monotherapy. Mefloquine has only rarely been linked to hepatic injury, but it has frequent neuro-psychiatric side effects which has led to limitations on its use.</p>
+        <p>Mepacrine is an acridine dye that was developed in the 1920s and found to have activity against P. vivax and falciparum infection. It was extensively used by the U.S. military in the South Pacific during World War II when it was known as atabrine. It was largely replaced by chloroquine thereafter, but found new uses in the treatment of other parasitic diseases and as an antiinflammatory agent in the therapy of lupus erythematosus. Mepacrine is commonly referred to as quinacrine in the United States, but it currently is not approved for any use, although available in some countries abroad or via the internet.</p>
+        <p>Primaquine is an aminoquinolone that has been used for many decades as prophylaxis and therapy of malaria. It shares cross resistance with chloroquine. Primaquine has not been linked to cases of clinically apparent liver injury.</p>
+        <p>The combination of atovaquone with proguanil is used for prevention and therapy of chloroquine-resistant P. falciparum infection. This combination has been linked to transient serum enzyme elevations and to rare instances of clinically apparent liver injury.</p>
+        <p>The combination of pyrimethamine and sulfadoxine (referred to as Fansidar) is also no longer used for prophylaxis against malaria because of hepatotoxicity and severe allergic reactions, but it is still used in combination with other agents in the treatment of P. falciparum malaria.</p>
+        <p>Artemisinin is an ancient Chinese herbal medication used for malarial fevers and recently shown to have excellent potency with a distinctive mode of action and little cross-resistance with the aminoquinolones. Artemisinin derivatives have been developed for oral and parenteral use and introduced throughout the world in combination with other agents for therapy of malaria. These derivatives include artesumate, artemisinin, dihydroartemisinin, artemether and arteether, many of which have been linked to instances of idiosyncratic liver injury. The combination of artemether with lumefantrine is available as therapy of P. falciparum malaria in the United States.</p>
+        <p>The description of the hepatotoxicity of the antimalarial agents includes some information on dose regimens, but these short descriptions should not be used to guide therapy. Specific recommendations on the therapy of malaria with details on diagnosis, management, drug dosage and safety are available at the Centers for Disease Control and Prevention (CDC) website: http://www.cdc.gov/MALARIA/.</p>
+        <p>The different antimalarial agents are discussed separately with appropriate references. All relevant references to hepatotoxicity of the antimalarials are also given below.</p>
+        <p>The following links are to individual drug records.</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>
+              <related-object source-id="livertox" document-id="ArtemisininDerivativ">Artemisinin</related-object>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <related-object source-id="livertox" document-id="Amodiaquine">Amodiaquine</related-object>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <related-object source-id="livertox" document-id="Atovaquone">Atovaquone</related-object>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <related-object source-id="livertox" document-id="Chloroquine">Chloroquine</related-object>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <related-object source-id="livertox" document-id="Mefloquine">Mefloquine</related-object>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <related-object source-id="livertox" document-id="Mepacrine">Mepacrine</related-object>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <related-object source-id="livertox" document-id="Primaquine">Primaquine</related-object>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <related-object source-id="livertox" document-id="Proguanil">Proguanil</related-object>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <related-object source-id="livertox" document-id="Quinine">Quinine</related-object>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <related-object source-id="livertox" document-id="PyrimethamineSulfado">Sulfadoxine-Pyrimethamine</related-object>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <related-object source-id="livertox" document-id="Tafenoquine">Tafenoquine</related-object>
+            </p>
+          </list-item>
+        </list>
+      </sec>
+      <sec id="AntimalarialAgents.ANNOTATED_BIBLIOGRAPH">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 02 February 2017</p>
+        <ref-list id="AntimalarialAgents.ANNOTATED_BIBLIOGRAPH.reflist0">
+          <ref id="AntimalarialAgents.R1">
+            <mixed-citation publication-type="other">Zimmerman HJ. Antiprotozoal agents. In, Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999, pp. 623-5.<annotation><p><italic toggle="yes">(Expert review of hepatotoxicity published in 1999; amodiaquine has been associated with many cases of severe hepatitis, some fatal; chloroquine has little hepatotoxic effect; mefloquine can lead to elevated ALT levels; primaquine has not been linked to hepatic injury in humans; quinine is an ancient drug that causes granulomatous hepatitis rarely; pyrimethamine/sulfadoxine can cause acute hepatic injury which is usually attributed to the sulfonamide component; the book predated the availability of atovaquone/proguanil and the artemisinin derivatives).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="AntimalarialAgents.R2">
+            <mixed-citation publication-type="other">Vinetz JM, Clain J, Bounkeua V, Eastman RT, Fidock D. Chemotherapy of malaria. In, Brunton LL, Chabner BA, Knollman BC, eds. Goodman &#x00026; Gilman&#x02019;s the pharmacological basis of therapeutics. 12th ed. New York: McGraw-Hill, 2011, pp. 1383-418.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="AntimalarialAgents.R3">
+            <mixed-citation publication-type="other">Livingood CS, Dieuaide FR. Untoward reactions attributable to atabrine. JAMA 1945; 129: 1091. Not in PubMed<annotation><p><italic toggle="yes">(Describes several forms of eczematoid dermatitis in soldiers taking atabrine as prophylaxis against malaria in the Pacific theater; rare cases had accompanying severe hepatitis that can be fatal).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="AntimalarialAgents.R4">
+            <mixed-citation publication-type="journal">Linden IH, Steffen CG, Newcomer VD, Chapman M. Development of porphyria during chloroquine therapy for chronic discoid lupus erythematosus. Calif Med 1954; 81: 235-7. <annotation><p><italic toggle="yes">(48 year old man with discoid lupus developed acute porphyria 3 days after starting chloroquine with fever and uroporphyrins in urine).</italic></p></annotation><pub-id pub-id-type="pmid">13190438</pub-id></mixed-citation>
+          </ref>
+          <ref id="AntimalarialAgents.R5">
+            <mixed-citation publication-type="journal">Glick L. Fatal agranulocytosis during treatment with amodiaquine. Br Med J 1957; 1: 932. <annotation><p><italic toggle="yes">(53 year old woman with photosensitive rash given amodiaquine for 8 weeks developed fatal agranulocytosis and jaundice; on autopsy, the liver was enlarged and had a nutmeg appearance).</italic></p></annotation><pub-id pub-id-type="pmid">13413258</pub-id></mixed-citation>
+          </ref>
+          <ref id="AntimalarialAgents.R6">
+            <mixed-citation publication-type="journal">Pomeroy H, Warren C, Mills D, Clark GM. The effect of amodiaquin (Camoquin) on the course of rheumatoid arthritis. Arthritis Rheum 1959; 2: 396-402. <annotation><p><italic toggle="yes">(Placebo controlled crossover study of amodiaquine in 7 elderly patients with rheumatoid arthritis; mentions in discussion that 2 of 32 patients receiving amodiaquine at their institution developed jaundice after 4 and 16 weeks of therapy, one dying of liver failure).</italic></p></annotation><pub-id pub-id-type="pmid">14433954</pub-id></mixed-citation>
+          </ref>
+          <ref id="AntimalarialAgents.R7">
+            <mixed-citation publication-type="journal">Bepler CR, Baier HN, McCracken S, Rentschler CL, Rogers FB, Lansbury J. A 15-month controlled study of the effects of amodiaquin (Camoquin) in rheumatoid arthritis. Arthritis Rheum 1959; 2: 403-13. <annotation><p><italic toggle="yes">(Placebo controlled crossover study of amodiaquine in 14 patients with rheumatoid arthritis; 400 mg dose was not tolerated; long term 50 mg daily doses led to jaundice in 2, Alk P elevations in 2 and AST in 4 [peak levels 100 U/L]).</italic></p></annotation><pub-id pub-id-type="pmid">13799077</pub-id></mixed-citation>
+          </ref>
+          <ref id="AntimalarialAgents.R8">
+            <mixed-citation publication-type="journal">Perry HO, Bartholomew LG, Hanlon DG. Nearly fatal reaction to amodiaquine. JAMA 1962; 179: 598-601. <annotation><p><italic toggle="yes">(33 year old man with systemic lupus developed fever and fatigue after 6 days of intermittent amodiaquine with rash and neutropenia [bilirubin 2.3 mg/dL, AST 101 U/L], had a rapid response to corticosteroid therapy; neutropenia lasted 2 weeks).</italic></p></annotation><pub-id pub-id-type="pmid">14485571</pub-id></mixed-citation>
+          </ref>
+          <ref id="AntimalarialAgents.R9">
+            <mixed-citation publication-type="other">Cripps DJ, Curtis AC. Toxic effect of chloroquine on porphyria hepatica. Arch Dermatol 1962; 86: 575. Not in PubMed<annotation><p><italic toggle="yes">(3 patients with porphyria had exacerbation of disease after 3-4 days of chloroquine with fever, tachycardia, increase in Alk P, an increase in porphyrin excretion, and rapid improvement on stopping).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="AntimalarialAgents.R10">
+            <mixed-citation publication-type="journal">Sweeney GD, Saunders SJ, Dowdle EB, Eales L. Effects of chloroquine on patients with cutaneous porphyria of the &#x0201c;symptomatic&#x0201d; type. Br Med J 1965; 1: 1281-5. <annotation><p><italic toggle="yes">(Administration of chloroquine to 9 patients with porphyria led to fever and AST elevations [as high as 2000 U/L] and mild increases in serum bilirubin in association with increased porphyrin excretion).</italic></p></annotation><pub-id pub-id-type="pmid">14278818</pub-id></mixed-citation>
+          </ref>
+          <ref id="AntimalarialAgents.R11">
+            <mixed-citation publication-type="journal">Felsher BF, Redeker AG. Effect of chloroquine on hepatic uroporphyrin metabolism in patients with porphyria cutanea tarda. Medicine (Baltimore) 1966; 45: 575-83. <annotation><p><italic toggle="yes">(In patients with porphyria cutanea tarda, chloroquine caused a 3.5- to 28-fold increase in uroporphyrin excretion, usually accompanied by fever and ALT elevations [48-69 U/L] with centrolobular necrosis on liver biopsy, thereafter, patients were refractory to the side effects and treatment often induced a clinical remission).</italic></p></annotation><pub-id pub-id-type="pmid">5925910</pub-id></mixed-citation>
+          </ref>
+          <ref id="AntimalarialAgents.R12">
+            <mixed-citation publication-type="journal">Di Maio VJ, Henry LD. Chloroquine poisoning. South Med J 1974; 67: 1031-5. <annotation><p><italic toggle="yes">(Analysis of 27 cases of fatal overdose of chloroquine from the files of the Armed Forces Institute of Pathology: 13 suicidal, 9 accidental and 1 homicidal; 6 in children ages 1-4 years, rapid onset of vomiting, respiratory difficulties and convulsions; largely cardiotoxic).</italic></p></annotation><pub-id pub-id-type="pmid">4851012</pub-id></mixed-citation>
+          </ref>
+          <ref id="AntimalarialAgents.R13">
+            <mixed-citation publication-type="journal">Thornsvard CT, Guider BA, Kimball DB. An unusual reaction to chloroquine-primaquine. JAMA 1976; 235: 1719-20. <annotation><p><italic toggle="yes">(39 year old woman developed fever abdominal pain, myalgias and red urine 2 days after starting chloroquine-primaquine prophylaxis [bilirubin 0.8 mg/dL, AST &#x0003e;300 U/L, Alk P 60 U/L], porphyrin testing indicated porphyria cutanea tarda).</italic></p></annotation><pub-id pub-id-type="pmid">946467</pub-id></mixed-citation>
+          </ref>
+          <ref id="AntimalarialAgents.R14">
+            <mixed-citation publication-type="journal">Dibella NJ, Nuss DD, Aeling JL, Andrezotti RJ. Treatment of severe psoriasis with pyrimethamine. Arch Dermatol 1977; 113: 172-4. <annotation><p><italic toggle="yes">(Open label study of pyrimethamine in 7 patients with psoriasis; one patient with alcoholic cirrhosis developed AST of 371 U/L after 7 days without change in bilirubin or Alk P; liver biopsy showed fat in this patient, but biopsies in other patients on therapy were normal).</italic></p></annotation><pub-id pub-id-type="pmid">836694</pub-id></mixed-citation>
+          </ref>
+          <ref id="AntimalarialAgents.R15">
+            <mixed-citation publication-type="journal">Gillespie P, Wagner F. Amodiaquine agranulocytosis. Med J Aust 1977; 1: 298-9. <annotation><p><italic toggle="yes">(26 year old woman on amodiaquine prophylaxis developed skin abscess, septicemia and white count of 300/&#x000b5;L with no neutrophils; liver tests were &#x0201c;consistent with hepatocellular damage&#x0201d;, but no specifics given).</italic></p></annotation><pub-id pub-id-type="pmid">859490</pub-id></mixed-citation>
+          </ref>
+          <ref id="AntimalarialAgents.R16">
+            <mixed-citation publication-type="journal">Katz B, Weetch M, Chopra S. Quinine-induced granulomatous hepatitis. Br Med J 1983; 286: 264-5. <annotation><p><italic toggle="yes">(65 year old woman developed episodic fever, nausea and polyarthralgias after 5 months of intermittent quinine use for leg cramps [bilirubin 0.5 mg/dL, ALT 460 U/L, Alk P 375 U/L], biopsy showing granulomas; rechallenge was followed by fever and ALT rise to 480 U/L).</italic></p></annotation><pub-id pub-id-type="pmid">6402064</pub-id></mixed-citation>
+          </ref>
+          <ref id="AntimalarialAgents.R17">
+            <mixed-citation publication-type="journal">Nirodi NS. Quinine induced granulomatous hepatitis. Br Med J (Clin Res Ed) 1983; 286: 647. <italic toggle="yes"><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/pubmed/6402190">PubMed Citation</ext-link>
+</italic><annotation><p><italic toggle="yes">(Letter questioning the presence of granulomas in case of Katz et al. [1983]).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="AntimalarialAgents.R18">
+            <mixed-citation publication-type="journal">Cainelli T, Di Padova C, Marchesi L, Gori G, Rovagnati P, Podenzani SA, Bessone E, et al. Hydroxychloroquine versus phlebotomy in the treatment of porphyria cutanea tarda. Br J Dermatol 1983; 108: 593-600. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/pubmed/%206849826">PubMed Citation</ext-link><annotation><p><italic toggle="yes">(Controlled trial of hydroxychloroquine vs twice-monthly phlebotomy in 61 patients with porphyria cutanea tarda; porphyrin excretion greater with hydroxychloroquine, but worsening liver histology found in both groups).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="AntimalarialAgents.R19">
+            <mixed-citation publication-type="journal">Gibb W, Isenberg DA, Snaith MC. Mepacrine induced hepatitis. Ann Rheum Dis 1985; 44: 861-2. <annotation><p><italic toggle="yes">(37 year old woman with systemic lupus developed jaundice 6 weeks after starting mepacrine [bilirubin 0.3 mg/dL, ALT 210 U/L, Alk P 160 U/L], resolving within 2 months of stopping).</italic></p></annotation><pub-id pub-id-type="pmid">4083944</pub-id></mixed-citation>
+          </ref>
+          <ref id="AntimalarialAgents.R20">
+            <mixed-citation publication-type="journal">Hatton CS, Peto TE, Bunch C, Pasvol G, Russell SJ, Singer CR, Edwards G, et al. Frequency of severe neutropenia associated with amodiaquine prophylaxis against malaria. Lancet 1986; 1: 411-4. <annotation><p><italic toggle="yes">(7 cases of severe neutropenia [0-400/&#x000b5;L] after 3-13 weeks of amodiaquine, lasting 3-20 days, all with recovery; some patients were jaundiced, but no specifics given).</italic></p></annotation><pub-id pub-id-type="pmid">2868340</pub-id></mixed-citation>
+          </ref>
+          <ref id="AntimalarialAgents.R21">
+            <mixed-citation publication-type="journal">Hirschel B. Amodiaquine and hepatitis. Ann Intern Med 1986; 105: 467. <annotation><p><italic toggle="yes">(Mentions that there have been 20 cases of agranulocytosis [12 with hepatitis] in Switzerland among travelers taking amodiaquine, and describes two patients who acquired malaria despite this prophylaxis).</italic></p></annotation><pub-id pub-id-type="pmid">3740693</pub-id></mixed-citation>
+          </ref>
+          <ref id="AntimalarialAgents.R22">
+            <mixed-citation publication-type="journal">Woodtli W, Vonmoos P, Siegrist P, Zollikofer H. [Amodiaquine-induced hepatitis with leukopenia]. Schweiz Med Wochenschr 1986; 116: 966-8. German. <annotation><p><italic toggle="yes">(Two cases; 40 and 55 year old travelers with fever and dark urine arising 4 and 8 weeks after starting amodiaquine [bilirubin 0.8 and 6 mg/dL, ALT 320 and 50 U/L, Alk P 171 and 186 U/L], resolving within 1-2 months of stopping, positive rechallenge in both).</italic></p></annotation><pub-id pub-id-type="pmid">3764379</pub-id></mixed-citation>
+          </ref>
+          <ref id="AntimalarialAgents.R23">
+            <mixed-citation publication-type="journal">Larrey D, Castot A, P&#x000eb;ssayre D, Merigot P, Machayekhy JP, Feldmann G, Lenoir A, et al. Amodiaquine-induced hepatitis. A report of seven cases. Ann Intern Med 1986; 104: 801-3. <annotation><p><italic toggle="yes">(Report of 7 cases of liver injury due to amodiaquine prophylaxis: 6 men and 1 woman, ages 34-64 years, taking 200-800 mg/week for 4-15 weeks, no eosinophilia or rash; 4 anicteric cases with fatigue and abdominal pain [ALT 3-6.5 times ULN, Alk P 0.6-2.7 times ULN], rapid resolution in all; 3 jaundiced cases [bilirubin 17.5-39.7 mg/dL, ALT 11-77 times ULN, Alk P 1.5-4.5 times ULN], slow resolution and minor ALT or GGT elevations persisted for more than a year).</italic></p></annotation><pub-id pub-id-type="pmid">2871789</pub-id></mixed-citation>
+          </ref>
+          <ref id="AntimalarialAgents.R24">
+            <mixed-citation publication-type="journal">Desaint B, Conrad M, Florent C, Legendre C, Levy VG. [Is amodiaquine(Flavoquine) hepatotoxic?]. Gastroenterol Clin Biol 1986; 10: 440. <annotation><p><italic toggle="yes">(Two cases of amodiaquine hepatotoxicity; 41 year old woman developed fatigue and jaundice 3 weeks after starting therapy [bilirubin 24.6 mg/dL, ALT 1700 U/L, Alk P 300 U/L], resolving within two months of stopping; 35 year woman old developed fatigue and abdominal pain [ALT 600 U/L] 3 months after starting amodiaquine and jaundice at 5 months [bilirubin 14.3 mg/dL, ALT 150 U/L, Alk P 213 U/L], and ascites, requiring 4 months to resolve).</italic></p></annotation><pub-id pub-id-type="pmid">3732752</pub-id></mixed-citation>
+          </ref>
+          <ref id="AntimalarialAgents.R25">
+            <mixed-citation publication-type="journal">Amouretti M, Raymond JM, Baldit C, Dumas F, Couzigou P, B&#x000e9;raud C. [Amodiaquine (Flavoquine) is hepatotoxic]. Gastroenterol Clin Biol 1986; 10: 855. French. <annotation><p><italic toggle="yes">(38 year old woman developed fatigue followed by jaundice 5 weeks after switching from chloroquine to amodiaquine [bilirubin 8.8 mg/dL, ALT 1136 U/L], with subsequent hepatic failure and death, autopsy showed massive hepatic necrosis).</italic></p></annotation><pub-id pub-id-type="pmid">3803831</pub-id></mixed-citation>
+          </ref>
+          <ref id="AntimalarialAgents.R26">
+            <mixed-citation publication-type="journal">Neftel KA, Woodtly W, Schmid M, Frick PG, Fehr J. Amodiaquine-induced agranulocytosis and liver damage. Br Med J 1986; 292: 721-3. <annotation><p><italic toggle="yes">(Seven cases of agranulocytosis [5 with liver involvement] and 2 of liver damage alone, seen between 1981-83; agranulocytosis arose 38-69 days after starting amodiaquine for malaria prophylaxis, persisting for 8-45 days, all with infectious complications, leading to death in 2 patients; 2 with liver damage alone were a 55 year old man and 35 year old woman who developed jaundice 42 and 120 days after starting amodiaquine [bilirubin 2.9 and 48.5 mg/dL, ALT 142 and 651 U/L, Alk P 126 and 166 U/L], one fatal).</italic></p></annotation><pub-id pub-id-type="pmid">3082410</pub-id></mixed-citation>
+          </ref>
+          <ref id="AntimalarialAgents.R27">
+            <mixed-citation publication-type="journal">Charmot G, Goujon C. [Minor hepatitis probably caused by amodiaquine]. Bull Soc Pathol Exot Filiales 1987; 80: 266-70. <annotation><p><italic toggle="yes">(8 patients, ages 21 to 56 years; 4 men and 4 women, found to have asymptomatic ALT elevations [86-577 U/L] without jaundice 25-300 days after starting amodiaquine, resolving within 1 week).</italic></p></annotation><pub-id pub-id-type="pmid">3608009</pub-id></mixed-citation>
+          </ref>
+          <ref id="AntimalarialAgents.R28">
+            <mixed-citation publication-type="journal">St&#x000fc;rchler D, Sch&#x000e4;r M, Gyr N. Leucopenia and abnormal liver function in travelers on malaria chemoprophylaxis. J Trop Med Hyg 1987; 90: 239-43. <annotation><p><italic toggle="yes">(Analysis of 451 travelers from Switzerland on malarial prophylaxis found higher ALT levels in those on amodiaquine than on chloroquine or no prophylaxis).</italic></p></annotation><pub-id pub-id-type="pmid">3669125</pub-id></mixed-citation>
+          </ref>
+          <ref id="AntimalarialAgents.R29">
+            <mixed-citation publication-type="journal">Bernuau J, Larrey D, Campillo B, Degott C, Verdier F, Rueff B, Pessayre D, et al. Amodiaquine-induced fulminant hepatitis. J Hepatol 1988; 6: 109-12. <annotation><p><italic toggle="yes">(2 men and 1 woman, ages 12, 41 and 51 years, developed jaundice 4-10 months after starting amodiaquine prophylaxis [bilirubin 30.9, 31.6 and 10.5 mg/dL, ALT 13-47 times ULN, Alk P 1.8-2.2 times ULN], all dying of hepatic failure or requiring liver transplant; liver histology showed massive necrosis).</italic></p></annotation><pub-id pub-id-type="pmid">3346531</pub-id></mixed-citation>
+          </ref>
+          <ref id="AntimalarialAgents.R30">
+            <mixed-citation publication-type="journal">Fogh S, Schapira A, Bygbjerg IC, Jepsen S, Mordhorst CH, Kuijlen K, Ravn P, et al. Malaria chemoprophylaxis in travellers to east Africa: a comparative prospective study of chloroquine plus proguanil with chloroquine plus sulfadoxine-pyrimethamine. Br Med J (Clin Res Ed) 1988; 296: 820-2. <annotation><p><italic toggle="yes">(Controlled trial of chloroquine with proguanil vs sulfadoxine-pyrimethamine is 767 travelers to Africa; similar efficacy and side effects; no mention of hepatic adverse events).</italic></p></annotation><pub-id pub-id-type="pmid">3130927</pub-id></mixed-citation>
+          </ref>
+          <ref id="AntimalarialAgents.R31">
+            <mixed-citation publication-type="journal">Raymond JM, Dumas F, Baldit C, Couzigou P, Beraud C, Amouretti M. Fatal acute hepatitis due to amodiaquine. J Clin Gastroenterol 1989; 11: 602-3. <annotation><p><italic toggle="yes">(38 year old woman developed fatigue, dark urine and then jaundice 5 weeks after switching from chloroquine to amodiaquine [bilirubin 8.8 mg/dL, ALT 1,136 U/L] with rapid improvement on stopping, but relapse 1 week after restarting [bilirubin 21.8 mg/dL, ALT 1010 U/L, Alk P 313 U/L] and progressive hepatic failure and death; autopsy showed massive necrosis).</italic></p></annotation><pub-id pub-id-type="pmid">2794450</pub-id></mixed-citation>
+          </ref>
+          <ref id="AntimalarialAgents.R32">
+            <mixed-citation publication-type="journal">Reisinger EC, Horstmann RD, Dietrich M. Tolerance of mefloquine alone and in combination with sulfadoxine-pyrimethamine in the prophylaxis of malaria. Trans R Soc Trop Med Hyg 1989; 83: 474-7. <annotation><p><italic toggle="yes">(Controlled trial of mefloquine alone versus mefloquine and sulfadoxine/pyrimethamine in 175 travelers; ALT or AST became abnormal in 18%, peak ALT 122 U/L with similar rates in both groups; all resolving spontaneously).</italic></p></annotation><pub-id pub-id-type="pmid">2694482</pub-id></mixed-citation>
+          </ref>
+          <ref id="AntimalarialAgents.R33">
+            <mixed-citation publication-type="journal">Phillips-Howard PA, West LJ. Serious adverse drug reactions to pyrimethamine-sulphadoxine, pyrimethamine-dapsone and to amodiaquine in Britain. J R Soc Med 1990; 83: 82-5. <annotation><p><italic toggle="yes">(Analysis of postmarketing adverse event reports on antimalarial drugs from UK sources; major problems were Stevens Johnson syndrome and agranulocytosis; serious hepatotoxicity occurred in 1:111,000 pyrimethamine-sulphadoxine, 1:75,200 pyrimethamine-dapsone and 1:15,500 amodiaquine users; far fewer with chloroquine-proguanil).</italic></p></annotation><pub-id pub-id-type="pmid">2138674</pub-id></mixed-citation>
+          </ref>
+          <ref id="AntimalarialAgents.R34">
+            <mixed-citation publication-type="journal">Mathur S, Dooley J, Scheuer PJ. Quinine induced granulomatous hepatitis and vasculitis. BMJ 1990; 300: 613. <annotation><p><italic toggle="yes">(67 year old man with fever, rash and polyarthralgias after 2 months of intermittent quinine therapy for leg cramps [bilirubin 0.6 mg/dL, AST 100 U/L, Alk P 1668 U/L], granulomas on liver biopsy and rapid recovery upon stopping).</italic></p></annotation><pub-id pub-id-type="pmid">2108777</pub-id></mixed-citation>
+          </ref>
+          <ref id="AntimalarialAgents.R35">
+            <mixed-citation publication-type="journal">Punukollu RC, Kumar S, Mullen KD. Quinine hepatotoxicity: an under recognized or rare phenomenon? Arch Intern Med 1990; 150: 1112-3. <annotation><p><italic toggle="yes">(37 year old woman developed fever, headache, arthralgias and abdominal pain without rash 2-3 weeks after starting quinine for leg cramps [bilirubin 1.8 mg/dL, ALT 128 U/L, Alk P 327 U/L, eosinophils 6%], rapid improvement with stopping quinine, normal in 1 week; positive rechallenge to one dose with fever and ALT to 64 U/L).</italic></p></annotation><pub-id pub-id-type="pmid">2331190</pub-id></mixed-citation>
+          </ref>
+          <ref id="AntimalarialAgents.R36">
+            <mixed-citation publication-type="journal">Clarke JB, Neftel K, Kitteringham NR, Park BK. Detection of antidrug IgG antibodies in patients with adverse drug reactions to amodiaquine. Int Arch Allergy Appl Immunol 1991; 95: 369-75. <annotation><p><italic toggle="yes">(Amodiaquine antibodies found in 6 of 7 patients with adverse reactions and 7 of 22 without while on amodiaquine prophylaxis; reactivity not blocked by other aminoquinones).</italic></p></annotation><pub-id pub-id-type="pmid">1959977</pub-id></mixed-citation>
+          </ref>
+          <ref id="AntimalarialAgents.R37">
+            <mixed-citation publication-type="journal">Lobel HO, Miani M, Eng T, Bernard KW, Hightower AW, Campbell CC. Long-term malaria prophylaxis with weekly mefloquine. Lancet 1993; 341: 848-51. <annotation><p><italic toggle="yes">(Study on 421 Peace Corps volunteers in West Africa on different antimalarial regimens including mefloquine, chloroquine and proguanil; no serious adverse events; ALT levels not monitored; mefloquine decreased P. falciparum infection rate).</italic></p></annotation><pub-id pub-id-type="pmid">8096560</pub-id></mixed-citation>
+          </ref>
+          <ref id="AntimalarialAgents.R38">
+            <mixed-citation publication-type="journal">Steffen R, Fuchs E, Schildknecht J, Naef U, Funk M, Schlagenhauf P, Phillips-Howard P, et al. Mefloquine compared with other malaria chemoprophylactic regimens in tourists visiting east Africa. Lancet 1993; 341: 1299-303. <annotation><p><italic toggle="yes">(In flight questionnaires of returning travelers from East Africa between 1985 and 1991; side effects reported by 17-35%, higher with combinations; 4 deaths, evidently from malaria).</italic></p></annotation><pub-id pub-id-type="pmid">8098447</pub-id></mixed-citation>
+          </ref>
+          <ref id="AntimalarialAgents.R39">
+            <mixed-citation publication-type="journal">Boudreau E, Schuster B, Sanchez J, Novakowski W, Johnson R, Redmond D, Hanson R, et al. Tolerability of prophylactic malaria regimens. Trop Med Parasitol 1993; 44: 257-65. <annotation><p><italic toggle="yes">(Controlled trial of mefloquine vs chloroquine in 359 US Marines for 12 weeks; no differences in ALT levels between groups; mefloquine caused mild psychological side effects and insomnia).</italic></p></annotation><pub-id pub-id-type="pmid">8256107</pub-id></mixed-citation>
+          </ref>
+          <ref id="AntimalarialAgents.R40">
+            <mixed-citation publication-type="journal">Palmer KJ, Holliday SM, Brogden RN. Mefloquine. A review of its antimalarial activity, pharmacokinetic properties and therapeutic efficacy. Drugs 1993; 45: 430-75. <annotation><p><italic toggle="yes">(Review on mefloquine which is used as prophylaxis and treatment of chloroquine-resistant P. falciparum malaria; transient increases of ALT have been observed with prophylactic and therapeutic regimens; 4 cases of hepatitis have been reported to the manufacturer).</italic></p></annotation><pub-id pub-id-type="pmid">7682911</pub-id></mixed-citation>
+          </ref>
+          <ref id="AntimalarialAgents.R41">
+            <mixed-citation publication-type="journal">Makin AJ, Wendon J, Fitt S, Portmann BC, Williams R. Fulminant hepatic failure secondary to hydroxychloroquine. Gut 1994; 35: 569-70. <annotation><p><italic toggle="yes">(Two cases; 27 year old woman developed nausea after 2 weeks of hydroxychloroquine [bilirubin 9.4 mg/dL, ALT 2575 U/L, INR 3.3], with subsequent liver failure and death in 4 days; 16 year old woman developed jaundice after 2 weeks of therapy with hydroxychloroquine [bilirubin 24.4 mg/dL, AST 544 U/L] and renal failure; underwent liver transplant, but died 6 days later).</italic></p></annotation><pub-id pub-id-type="pmid">8175002</pub-id></mixed-citation>
+          </ref>
+          <ref id="AntimalarialAgents.R42">
+            <mixed-citation publication-type="journal">Perez JA, Stryker J, Arsura EL, Hewitt JM. Probable quinine-induced hepatotoxicity. West J Med 1994; 160: 59-60. <annotation><p><italic toggle="yes">(74 year old developed fever, abdominal pain and jaundice one month after starting quinine for leg cramps [bilirubin 7.2 mg/dL, ALT 241 U/L, Alk P 314 U/L, ESR 65], biopsy showing granulomas and rapid resolution upon stopping).</italic></p></annotation><pub-id pub-id-type="pmid">8128710</pub-id></mixed-citation>
+          </ref>
+          <ref id="AntimalarialAgents.R43">
+            <mixed-citation publication-type="journal">Man-Song-Hing M, Wells G. Meta-analysis of efficacy of quinine for treatment of nocturnal leg cramps in elderly people. BMJ 1995; 10: 13-7. <annotation><p><italic toggle="yes">(Meta analysis of 107 patients from 6 clinical trials of quinine for leg cramps; quinine reduced number of nights without leg cramps by 27%; no discussion of hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">7827545</pub-id></mixed-citation>
+          </ref>
+          <ref id="AntimalarialAgents.R44">
+            <mixed-citation publication-type="journal">Liu AC. Hepatotoxic reaction to chloroquine phosphate in a patient with previously unrecognized porphyria cutanea tarda. West J Med 1995; 162: 548-51. <annotation><p><italic toggle="yes">(61 year old woman developed nausea and fever 1 day after single dose of chloroquine with red urine [bilirubin 1.1 mg/dL, ALT 2724 U/L, Alk P 115 U/L], later diagnosed as having porphyria cutanea tarda).</italic></p></annotation><pub-id pub-id-type="pmid">7618323</pub-id></mixed-citation>
+          </ref>
+          <ref id="AntimalarialAgents.R45">
+            <mixed-citation publication-type="journal">Jaspers CAJJ, Hoperus Buma APCC, Van Thiel PPAM, Van Hulst RA, Kager PA. Tolerance of mefloquine chemoprophylaxis in Dutch military personnel. Am J Trop Med Hyg 1996; 55: 230-4. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/pubmed/%208780466">PubMed Citation</ext-link><annotation><p><italic toggle="yes">(Study of 73 volunteers on mefloquine for 25 weeks; slight increase in mean ALT levels, but no value rose above normal).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="AntimalarialAgents.R46">
+            <mixed-citation publication-type="journal">Barrett PJ, Emmins PD, Clarke PD, Bradley DJ. Comparison of adverse events associated with the use of mefloquine and combination of chloroquine and proguanil as antimalarial prophylaxis: a postal and telephone survey of travelers. BMJ 1996; 313: 525-8. <annotation><p><italic toggle="yes">(Mail questionnaire of 3851 British travelers taking mefloquine or chloroquine/proguanil for malaria prophylaxis; rates of side effects were similar [~41%], no mention of hepatic events).</italic></p></annotation><pub-id pub-id-type="pmid">8789977</pub-id></mixed-citation>
+          </ref>
+          <ref id="AntimalarialAgents.R47">
+            <mixed-citation publication-type="journal">Horney E, Lagerstedt C, Wadenvik H. [A case report. Thrombocytopenia and granulomatous hepatitis caused by quinine]. Lakartidningen 1996; 93: 361-4. Swedish. <annotation><p><italic toggle="yes">(58 year old man developed intermittent fevers while on quinine [bilirubin normal, ALT 185 U/L, GGT 145 U/L, thrombocytopenia], with recovery on stopping and recurrence on rechallenge).</italic></p></annotation><pub-id pub-id-type="pmid">8628066</pub-id></mixed-citation>
+          </ref>
+          <ref id="AntimalarialAgents.R48">
+            <mixed-citation publication-type="journal">Hou M, Horney E, Stockelberg D, Jacobsson S, Kutti J, Wadenvik H. Multiple quinine-dependent antibodies in a patient with episodic thrombocytopenia, neutropenia, lymphocytopenia, and granulomatous hepatitis. Blood 1997; 90: 4806-11. <annotation><p><italic toggle="yes">(58 year old man with recurrent, transient bouts of fever, nausea, thrombocytopenia and ALT elevations [4-6 times ULN] shown to be due to intermittent exposure to quinine, with positive rechallenge and demonstration of quinine dependent antibodies to platelets and white blood cells).</italic></p></annotation><pub-id pub-id-type="pmid">9389697</pub-id></mixed-citation>
+          </ref>
+          <ref id="AntimalarialAgents.R49">
+            <mixed-citation publication-type="journal">Ribeiro IR, Olliaro P. Safety of artemisinin and its derivatives. A review of published and unpublished clinical trials. Med Trop (Mars) 1998; 58 (Suppl 3): 50-3. <annotation><p><italic toggle="yes">(Systematic review of 108 studies of artemisinin derivatives enrolling 9241 patients found low rate of adverse events, with elevated ALT levels in only 36 patients [0.9%] and no severe adverse events that could be attributed to the drug). </italic></p></annotation><pub-id pub-id-type="pmid">10212898</pub-id></mixed-citation>
+          </ref>
+          <ref id="AntimalarialAgents.R50">
+            <mixed-citation publication-type="journal">Durrheim DN, Gammon S, Waner S, Braacke LE. Antimalarial prophylaxis: use and adverse events in visitors to the Kruger National Park. S Afr Med J 1999; 89: 170-5. <annotation><p><italic toggle="yes">(Postal survey of 7397 visitors to Kruger Park in 1996, a chloroquine-resistant area; no mention of hepatic adverse events).</italic></p></annotation><pub-id pub-id-type="pmid">10191871</pub-id></mixed-citation>
+          </ref>
+          <ref id="AntimalarialAgents.R51">
+            <mixed-citation publication-type="journal">Grieco A, Vecchio FM, Natale L, Gasbarrini G. Acute fatty liver after malaria prophylaxis with mefloquine. Lancet 1999; 353: 295-6. <annotation><p><italic toggle="yes">(46 year old woman developed nausea, weight loss and edema and was found to have enlarged and fatty liver several months after a 5 week course of mefloquine prophylaxis against malaria [ALT 41 U/L, Alk P 161 U/L, no bilirubin values given], resolving over next month; relationship to amodiaquine therapy unclear).</italic></p></annotation><pub-id pub-id-type="pmid">9929030</pub-id></mixed-citation>
+          </ref>
+          <ref id="AntimalarialAgents.R52">
+            <mixed-citation publication-type="journal">Farver DK, Lavin MN. Quinine-induced hepatotoxicity. Ann Pharmacother 1999: 33: 32-4. <annotation><p><italic toggle="yes">(57 year old developed fever, nausea and myalgias within 24 hours of starting quinine for leg cramps [temperature 39.5 oC, ALT 184 U/L, Alk P 192 U/L, bilirubin 0.7 mg/dL], resolving in 3 weeks).</italic></p></annotation><pub-id pub-id-type="pmid">9972382</pub-id></mixed-citation>
+          </ref>
+          <ref id="AntimalarialAgents.R53">
+            <mixed-citation publication-type="journal">Gotsman I, Azaz-Livshits T, Fridlender Z, Muszkat M, Ben-Chetrit E. Mefloquine-induced acute hepatitis. Pharmacotherapy 2000; 20: 1517-9. <annotation><p><italic toggle="yes">(68 year old man developed fatigue and nausea after 6 weeks of mefloquine prophylaxis [bilirubin 1.9 mg/dL, ALT 1277 U/L, LDH 7770 U/L, Alk P normal, INR 7.4], but also had atrial flutter and heart failure, rapid recovery; overall, more typical of ischemic hepatitis than drug induced liver injury).</italic></p></annotation><pub-id pub-id-type="pmid">11130224</pub-id></mixed-citation>
+          </ref>
+          <ref id="AntimalarialAgents.R54">
+            <mixed-citation publication-type="journal">van Jaarsveld CHM, Jahangier ZN, Jacobs JWG, Blaauw AAM, van Albada-Kuipers GA, ter Borg EJ, Brus HLM, et al. Toxicity of antirheumatic drugs in a randomized clinical trial of early rheumatoid arthritis. Rheumatology 2000; 39: 1374-82. <annotation><p><italic toggle="yes">(Controlled trial of 4 treatment strategies in 419 patients with early rheumatoid arthritis; side effects were common with ALT elevations in 5 patients on NSAIDs only, 1 each on gold and hydroxychloroquine, and 20 on methotrexate).</italic></p></annotation><pub-id pub-id-type="pmid">11136881</pub-id></mixed-citation>
+          </ref>
+          <ref id="AntimalarialAgents.R55">
+            <mixed-citation publication-type="journal">H&#x000f8;gh B, Clarke PD, Camus D, Nothdurft HD, Overbosch D, G&#x000fc;nther M, Joubert I, et al.; Malarone International Study Team. Atovaquone-proguanil versus chloroquine-proguanil for malaria prophylaxis in non-immune travelers: a randomised, double-blind study. Malarone International Study Team. Lancet 2000; 356: 1888-94. <annotation><p><italic toggle="yes">(Controlled trial of atovaquone vs chloroquine combined with proguanil as malaria prophylaxis in 1008 travelers; efficacy was similar, but gastrointestinal upset was more common with chloroquine [20% vs 12%]; among 180 with laboratory testing &#x0201c;No clinically important laboratory abnormalities were identified&#x0201d;).</italic></p></annotation><pub-id pub-id-type="pmid">11130385</pub-id></mixed-citation>
+          </ref>
+          <ref id="AntimalarialAgents.R56">
+            <mixed-citation publication-type="journal">Overbosch D, Schilthuis H, Bienzle U, Behrens RH, Kain KC, Clarke PD, Toovey S, et al. Malarone International Study Team. Atovaquone-proguanil versus mefloquine for malaria prophylaxis in nonimmune travelers: results from a randomized, double-blind study. Clin Infect Dis 2001; 33: 1015-21. <annotation><p><italic toggle="yes">(Controlled trial of atovaquone-proguanil vs mefloquine of malaria prophylaxis in 483 travelers; similar efficacy [100%] but neuropsychiatric side effects were more common with mefloquine [29% vs 14%] including insomnia, anxiety, vivid dreams, dizziness and trouble concentrating; no mention of liver injury and ALT levels were not monitored).</italic></p></annotation><pub-id pub-id-type="pmid">11528574</pub-id></mixed-citation>
+          </ref>
+          <ref id="AntimalarialAgents.R57">
+            <mixed-citation publication-type="journal">Orrell C, Taylor WR, Olliaro P. Acute asymptomatic hepatitis in a healthy normal volunteer exposed to 2 oral doses of amodiaquine and artesunate. Trans R Soc Trop Med Hyg 2001; 95: 517-8. <annotation><p><italic toggle="yes">(In a single dose crossover study in 15 volunteers, one developed rise in ALT from normal to peak of 483 U/L 6 weeks after dosing with amodiaquine and artesunate without symptoms or bilirubin rise, resolving in 4-8 weeks).</italic></p></annotation><pub-id pub-id-type="pmid">11706664</pub-id></mixed-citation>
+          </ref>
+          <ref id="AntimalarialAgents.R58">
+            <mixed-citation publication-type="journal">Sarkany RP. The management of porphyria cutanea tarda. Clin Exp Dermatol 2001; 26: 225-32. <annotation><p><italic toggle="yes">(History, clinical features, pathogenesis, risk factors, complications and management of porphyria cutanea tarda; caused by acquired inhibition of hepatic uroprophyrinogen decarboxylase activity and triggered by iron overload, estrogens, or chemicals such as hexachlorobenzene; &#x0201c;Low dose twice weekly chloroquine [125-250 mg] is the mainstay of therapy&#x0201d;).</italic></p></annotation><pub-id pub-id-type="pmid">11422163</pub-id></mixed-citation>
+          </ref>
+          <ref id="AntimalarialAgents.R59">
+            <mixed-citation publication-type="journal">Croft AM, Herxheimer A. Adverse effects of the antimalaria drug, mefloquine: due to primary liver damage with secondary thyroid involvement? BMC Public Health 2002; 2: 6. <annotation><p><italic toggle="yes">(Systematic review of 516 published case reports of adverse effects of mefloquine suggests that many such as malaise, fever, anorexia, headache, abdominal pain and nausea are due to &#x0201c;transient, anicteric chemical hepatitis,&#x0201d; although abnormal liver tests are found in only a proportion).</italic></p></annotation><pub-id pub-id-type="pmid">11914150</pub-id></mixed-citation>
+          </ref>
+          <ref id="AntimalarialAgents.R60">
+            <mixed-citation publication-type="journal">Croft AM, Whitehouse DP, Cook GC, Beer MD. Safety evaluation of the drugs available to prevent malaria. Expert Opin Drug Saf 2002; 1: 19-27. <annotation><p><italic toggle="yes">(Review of adverse side effects of antimalarial agents, pointing out the need for careful prospective randomized controlled trials of prophylactic regimens).</italic></p></annotation><pub-id pub-id-type="pmid">12904156</pub-id></mixed-citation>
+          </ref>
+          <ref id="AntimalarialAgents.R61">
+            <mixed-citation publication-type="journal">Angles A, Bagheri H, Montastruc JL, Magnaval JF; R&#x000e9;seau Fran&#x000e7;ais des Centres R&#x000e9;gionaux de Pharmacovigilance. [Adverse drug reactions (ADRs) to antimalarial drugs. Analysis of spontaneous report from the French pharmacovigilance database (1996-2000)]. Presse Med 2003; 32: 106-13. French. <annotation><p><italic toggle="yes">(Analysis of adverse reactions to antimalarials reported in France over 5 years; among 508 reports, 4% were hepatic, mostly ALT elevations; one case of hepatitis attributed to halofantrine).</italic></p></annotation><pub-id pub-id-type="pmid">12610379</pub-id></mixed-citation>
+          </ref>
+          <ref id="AntimalarialAgents.R62">
+            <mixed-citation publication-type="journal">Hirschel B. Questions about the antimalarial amodiaquine. Lancet 2003; 361: 1229; author reply 1229-30. <annotation><p><italic toggle="yes">(Questions the advisability of using amodiaquine because of the risk of severe granulocytopenia; authors reply that the crisis of malaria and chloroquine resistance in Africa warrants use of amodiaquine for treatment, estimated fatality rate being 1:31,000 and severe hepatotoxicity as 1:15,650).</italic></p></annotation><pub-id pub-id-type="pmid">12686075</pub-id></mixed-citation>
+          </ref>
+          <ref id="AntimalarialAgents.R63">
+            <mixed-citation publication-type="journal">Howard MA, Hibbard AB, Terrell DR, Medina PJ, Vesely SK, George JN. Quinine allergy causing acute severe systemic illness: report of 4 patients manifesting multiple hematologic, renal, and hepatic abnormalities. Proc (Bayl Univ Med Cent) 2003; 16: 21-6. <annotation><p><italic toggle="yes">(Four case reports of quinine induced thrombocytopenia with other systemic manifestations, including prominent AST [131, 992, 741 and 3735 U/L] and mild Alk P [74-170 U/L] elevations and 2 with jaundice [bilirubin 4.3 and 16.1 mg/dL]; often inadvertent quinine use from over-the-counter pills).</italic></p></annotation><pub-id pub-id-type="pmid">16278718</pub-id></mixed-citation>
+          </ref>
+          <ref id="AntimalarialAgents.R64">
+            <mixed-citation publication-type="journal">Russo MW, Galanko JA, Shrestha R, Fried MW, Watkins P. Liver transplantation for acute liver failure from drug-induced liver injury in the United States. Liver Transpl 2004; 10: 1018-23. <annotation><p><italic toggle="yes">(Among ~50,000 liver transplants reported to UNOS between 1990 and 2002, 270 [0.5%] were done for drug induced acute liver failure, none were attributed to an antimalarial agent).</italic></p></annotation><pub-id pub-id-type="pmid">15390328</pub-id></mixed-citation>
+          </ref>
+          <ref id="AntimalarialAgents.R65">
+            <mixed-citation publication-type="journal">Schlegel A. Factitious granulomatous hepatitis? Am J Med 2004; 116: 500-1. <annotation><p><italic toggle="yes">(35 year old woman with relapsing episodes of fever, abdominal pain and ALT elevations [1488 U/L] and biopsy showing small granulomas, finally confessed to intermittent, purposeful use of quinine).</italic></p></annotation><pub-id pub-id-type="pmid">15047046</pub-id></mixed-citation>
+          </ref>
+          <ref id="AntimalarialAgents.R66">
+            <mixed-citation publication-type="journal">Camus D, Djossou F, Schilthuis HJ, H&#x000f8;gh B, Dutoit E, Malvy D, Roskell NS, et al.; International Malarone Study Team. Atovaquone-proguanil versus chloroquine-proguanil for malaria prophylaxis in nonimmune pediatric travelers: results of an international, randomized, open-label study. Clin Infect Dis 2004; 38: 1716-23. <annotation><p><italic toggle="yes">(Controlled trial of atovaquone vs chloroquine combined with proguanil as malaria prophylaxis in 221 children; efficacy was similar [100%], but side effects slightly more frequent with chloroquine [mostly gastrointestinal]; no mention of liver injury or ALT elevations).</italic></p></annotation><pub-id pub-id-type="pmid">15227617</pub-id></mixed-citation>
+          </ref>
+          <ref id="AntimalarialAgents.R67">
+            <mixed-citation publication-type="journal">Taylor WR, White NJ. Antimalarial drug toxicity: a review. Drug Saf 2004; 27: 25-61. <annotation><p><italic toggle="yes">(Review of the toxicities and side effects of antimalarials; quinine can cause a characteristic hypersensitivity reaction with liver injury; chloroquine can cause worsening of acute porphyria; sulfadoxine/pyrimethamine is associated with clinically apparent liver injury similar to that of sulfonamides; mefloquine can cause transient ALT elevations and rarely hepatitis; atovaquone/proguanil can cause minor ALT elevations; quinine can cause a characteristic hypersensitivity reaction with liver injury; amodiaquine is linked to agranulocytosis and hepatitis in 1:2000 recipients; artemisinin derivatives are associated with ALT elevations in 0.9% and has been linked to rare cases of severe hepatitis; primaquine can cause hemolysis, but has not been linked to cases of hepatitis).</italic></p></annotation><pub-id pub-id-type="pmid">14720085</pub-id></mixed-citation>
+          </ref>
+          <ref id="AntimalarialAgents.R68">
+            <mixed-citation publication-type="journal">Grieshaber M, L&#x000e4;mmli J, Marcus L. Acute hepatitis and atovaquone/proguanil. J Travel Med 2005; 12: 289-90. <annotation><p><italic toggle="yes">(31 year old man developed jaundice and abdominal pain 25 days after starting atovaquone/proguanil prophylaxis [bilirubin 2.9 mg/dL, ALT 320 U/L, Alk P 445 U/L], resolving slowly within 7 weeks of stopping).</italic></p></annotation><pub-id pub-id-type="pmid">16256055</pub-id></mixed-citation>
+          </ref>
+          <ref id="AntimalarialAgents.R69">
+            <mixed-citation publication-type="journal">Patel SN, Kain KC. Atovaquone/proguanil for the prophylaxis and treatment of malaria. Expert Rev Anti Infect Ther 2005; 3: 849-61. <annotation><p><italic toggle="yes">(Review of chemistry, clinical results and safety of atovaquone/proguanil concludes that it is well tolerated; hepatotoxicity and ALT elevations were not discussed).</italic></p></annotation><pub-id pub-id-type="pmid">16307498</pub-id></mixed-citation>
+          </ref>
+          <ref id="AntimalarialAgents.R70">
+            <mixed-citation publication-type="journal">Wielgo-Polanin R, Lagarce L, Gautron E, Diquet B, Lain&#x000e9;-Cessac P. Hepatotoxicity associated with the use of a fixed combination of chloroquine and proguanil. Int J Antimicrob Agents 2005; 26: 176-8. <annotation><p><italic toggle="yes">(50 year old woman developed jaundice 4 days after starting chloroquine/proguanil for prophylaxis of malaria [bilirubin 3.6 mg/dL, ALT 600 U/L, Alk P 744 U/L], resolving within one month of stopping; had a history of previous exposures to both agents).</italic></p></annotation><pub-id pub-id-type="pmid">16009537</pub-id></mixed-citation>
+          </ref>
+          <ref id="AntimalarialAgents.R71">
+            <mixed-citation publication-type="journal">Sowunmi A, Fehintola FA, Adedeji AA, Gbotosho GO, Tambo E, Fateye BA, Happi TC, Oduola AM. Open randomized study of artesunate-amodiaquine vs. chloroquine-pyrimethamine-sulfadoxine for the treatment of uncomplicated Plasmodium falciparum malaria in Nigerian children. Trop Med Int Health 2005; 10: 1161-70. <annotation><p><italic toggle="yes">(Controlled trial of 3 day regimens of artesunate-amodiaquine vs chloroquine-pyrimethamine-sulfadoxine in 153 children with malaria; &#x0201c;biochemical &#x02026; parameters remained normal before and after treatment in all subjects&#x0201d;).</italic></p></annotation><pub-id pub-id-type="pmid">16262741</pub-id></mixed-citation>
+          </ref>
+          <ref id="AntimalarialAgents.R72">
+            <mixed-citation publication-type="journal">Fanello CI, Karema C, van Doren W, Rwagacondo CE, D'Alessandro U. Tolerability of amodiaquine and sulphadoxine-pyrimethamine, alone or in combination for the treatment of uncomplicated Plasmodium falciparum malaria in Rwandan adults. Trop Med Int Health 2006; 11: 589-96. <annotation><p><italic toggle="yes">(Controlled trial of amodiaquine vs sulfadoxine/pyrimethamine vs both in 351 patients with malaria in Rwanda; ALT levels decreased during therapy, but no mention of hepatotoxicity or hepatitis).</italic></p></annotation><pub-id pub-id-type="pmid">16640610</pub-id></mixed-citation>
+          </ref>
+          <ref id="AntimalarialAgents.R73">
+            <mixed-citation publication-type="journal">Rossmann-Ringdahl I, Olsson R. Porphyria cutanea tarda: effects and risk factors for hepatotoxicity from high-dose chloroquine treatment. Acta Derm Venereol 2007; 87: 401-5. <annotation><p><italic toggle="yes">(Retrospective analysis of 57 patients with porphyria cutanea tarda treated with chloroquine [250 mg/day for 7 days]; ALT rose in all averaging 7 times ULN [range 1.1 to 55 times] with symptoms of fever and arthralgias and increase in porphyrin excretion, higher levels in women; ALT flare was followed by remission, but relapse was common during long term follow up).</italic></p></annotation><pub-id pub-id-type="pmid">17721646</pub-id></mixed-citation>
+          </ref>
+          <ref id="AntimalarialAgents.R74">
+            <mixed-citation publication-type="journal">Markham LN, Giostra E, Hadengue A, Rossier M, Rebsamen M, Desmeules J. Emergency liver transplantation in amodiaquine-induced fulminant hepatitis. Am J Trop Med Hyg 2007; 77: 14-5. <annotation><p><italic toggle="yes">(39 year old woman developed fatigue and then jaundice ~10 weeks after starting amodiaquine prophylaxis for malaria [bilirubin 14 mg/dL, ALT 1475 U/L, Alk P 108 U/L, protime 17%]; underwent successful liver transplant 6 days later, liver showed massive necrosis).</italic></p></annotation><pub-id pub-id-type="pmid">17620624</pub-id></mixed-citation>
+          </ref>
+          <ref id="AntimalarialAgents.R75">
+            <mixed-citation publication-type="journal">Bruguera M, Herrera S. [Acute hepatitis associated with mefloquine therapy]. Gastroenterol Hepatol 2007; 30: 102-3. Spanish. <annotation><p><italic toggle="yes">(35 year old woman physician developed nausea and pruritus followed by jaundice 2 months after starting mefloquine prophylaxis [bilirubin 7.1 mg/dL, ALT 2411 U/L, Alk P 614 U/L], resolving 5 weeks after stopping: Case 1 in mefloquine).</italic></p></annotation><pub-id pub-id-type="pmid">17335720</pub-id></mixed-citation>
+          </ref>
+          <ref id="AntimalarialAgents.R76">
+            <mixed-citation publication-type="journal">Zongo I, Dorsey G, Rouamba N, Tinto H, Dokomajilar C, Guiguemde RT, Rosenthal PJ, Ouedraogo JB. Artemether-lumefantrine versus amodiaquine plus sulfadoxine-pyrimethamine for uncomplicated falciparum malaria in Burkina Faso: a randomised non-inferiority trial. Lancet 2007; 369 (9560): 491-8. <annotation><p><italic toggle="yes">(Controlled trial of artemether-lumefantrine vs sulfadoxine-pyrimethamine and amodiaquine in 521 patients with malaria; adverse event rates were similar and no mention of ALT levels or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">17292769</pub-id></mixed-citation>
+          </ref>
+          <ref id="AntimalarialAgents.R77">
+            <mixed-citation publication-type="journal">Osorio L, Gonzalez I, Olliaro P, Taylor WR. Artemisinin-based combination therapy for uncomplicated Plasmodium falciparum malaria in Colombia. Malar J 2007; 6: 25. <annotation><p><italic toggle="yes">(Controlled trial of 3 day courses of amodiaquine alone vs its combination with artemisinin in 85 patients with P. falciparum malaria; equivalence efficacy and safety; ALT elevations in 4% overall, but without clinical symptoms).</italic></p></annotation><pub-id pub-id-type="pmid">17328806</pub-id></mixed-citation>
+          </ref>
+          <ref id="AntimalarialAgents.R78">
+            <mixed-citation publication-type="journal">Giner Galva&#x000f1; V, Oltra MR, Rueda D, Esteban MJ, Red&#x000f3;n J. Severe acute hepatitis related to hydroxychloroquine in a woman with mixed connective tissue disease. Clin Rheumatol 2007; 26: 971-2. <annotation><p><italic toggle="yes">(26 year old woman with early rheumatoid arthritis developed fever and nausea within 10 hours of starting hydroxychloroquine with ALT 285 U/L [no bilirubin or Alk P levels] and rapid resolution; yet, no recurrence on restarting at a lower dose).</italic></p></annotation><pub-id pub-id-type="pmid">16575495</pub-id></mixed-citation>
+          </ref>
+          <ref id="AntimalarialAgents.R79">
+            <mixed-citation publication-type="journal">Efferth T, Romero MR, Wolf DG, Stamminger T, Marin JJ, Marschall M. The antiviral activities of artemisinin and artesunate. Clin Infect Dis 2008; 47: 804-11. <annotation><p><italic toggle="yes">(Review of in vitro data on antiviral activity of the artemisinins derived from sweet wormwood).</italic></p></annotation><pub-id pub-id-type="pmid">18699744</pub-id></mixed-citation>
+          </ref>
+          <ref id="AntimalarialAgents.R80">
+            <mixed-citation publication-type="journal">Gasasira AF, Kamya MR, Achan J, Mebrahtu T, Kalyango JN, Ruel T, Charlebois E, et al. High risk of neutropenia in HIV-infected children following treatment with artesunate plus amodiaquine for uncomplicated malaria in Uganda. Clin Infect Dis 2008; 46: 985-91. <annotation><p><italic toggle="yes">(Analysis of safety of artesunate and amodiaquine in children with malaria; ALT elevations occur in less than 1% of recipients).</italic></p></annotation><pub-id pub-id-type="pmid">18444813</pub-id></mixed-citation>
+          </ref>
+          <ref id="AntimalarialAgents.R81">
+            <mixed-citation publication-type="journal">Maiteki-Sebuguzi C, Jagannathan P, Yau VM, Clark TD, Njama-Meya D, Nzarubara B, Talisuna AO, et al. Safety and tolerability of combination antimalarial therapies for uncomplicated falciparum malaria in Ugandan children. Malar 2008; 7: 106. <annotation><p><italic toggle="yes">(Controlled trial of 3 combination regimens in 382 children with malaria in Uganda; ALT elevations occurred in 0.5% with amodiaquine/artesunate, 0.3% with amodiaquine/sulfadoxine/pyrimethamine, 0.6% with artemether-lumefantrine).</italic></p></annotation><pub-id pub-id-type="pmid">18547415</pub-id></mixed-citation>
+          </ref>
+          <ref id="AntimalarialAgents.R82">
+            <mixed-citation publication-type="journal">Adjei GO, Kurtzhals JA, Rodrigues OP, Alifrangis M, Hoegberg LC, Kitcher ED, Badoe EV, et al. Amodiaquine-artesunate vs artemether-lumefantrine for uncomplicated malaria in Ghanaian children: a randomized efficacy and safety trial with one year follow-up. Malar 2008; 7: 127. <annotation><p><italic toggle="yes">(Controlled trial of artesunate-amodiaquine vs artemether-lumefantrine in 227 children with malaria in Ghana; similar efficacy; ALT levels improved during therapy and no reports of hepatitis or ALT increases).</italic></p></annotation><pub-id pub-id-type="pmid">18620577</pub-id></mixed-citation>
+          </ref>
+          <ref id="AntimalarialAgents.R83">
+            <mixed-citation publication-type="journal">Leslie T, Mayan I, Mohammed N, Erasmus P, Kolaczinski J, Whitty CJ, Rowland M. A randomised trial of an eight-week, once weekly primaquine regimen to prevent relapse of plasmodium vivax in Northwest Frontier Province, Pakistan. PLoS One 2008; 3: e2861. <annotation><p><italic toggle="yes">(Among 200 patients with vivax malaria infection randomized to receive two regimens of primaquine in addition to chloroquine therapy for vivax malaria infection, primaquine reduced failure rates and there were "no serious or notable non-serious adverse events", except for anemia in one G6PD deficient patient).</italic></p></annotation><pub-id pub-id-type="pmid">18682739</pub-id></mixed-citation>
+          </ref>
+          <ref id="AntimalarialAgents.R84">
+            <mixed-citation publication-type="journal">Chalasani N, Fontana RJ, Bonkovsky HL, Watkins PB, Davern T, Serrano J, Yang H, Rochon J; Drug Induced Liver Injury Network (DILIN). Causes, clinical features, and outcomes from a prospective study of drug-induced liver injury in the United States. Gastroenterology 2008; 135: 1924-34. <annotation><p><italic toggle="yes">(Among 300 cases of drug induced liver disease in the US collected between 2004 and 2008, one case was attributed to artesunate [adjudicated as only "possible"], but no other antimalarial agent was listed).</italic></p></annotation><pub-id pub-id-type="pmid">18955056</pub-id></mixed-citation>
+          </ref>
+          <ref id="AntimalarialAgents.R85">
+            <mixed-citation publication-type="journal">Sirima SB, Tiono AB, Gansan&#x000e9; A, Diarra A, Ou&#x000e9;draogo A, Konat&#x000e9; AT, Kiechel JR, et al. The efficacy and safety of a new fixed-dose combination of amodiaquine and artesunate in young African children with acute uncomplicated Plasmodium falciparum. Malar J 2009; 8: 48. <annotation><p><italic toggle="yes">(Controlled trial of fixed vs &#x0201c;loose&#x0201d; dose combinations of amodiaquine and artesunate in 750 children with P. falciparum malaria; similar efficacy [92%] and safety; 7 [~1%] had ALT elevations, one &#x0003e;1000 U/L, but bilirubin normal and no symptoms).</italic></p></annotation><pub-id pub-id-type="pmid">19291301</pub-id></mixed-citation>
+          </ref>
+          <ref id="AntimalarialAgents.R86">
+            <mixed-citation publication-type="journal">Gu&#x000e9;vart E, Agu&#x000e9;mon A. [Two cases of fulminant hepatitis during a curative treatment with an artesunate-amodiaquine combination]. Med Mal Infect 2009; 39: 57-60. French. <annotation><p><italic toggle="yes">(Two cases of acute liver failure; 32 year old African woman given artesunate and amodiaquine for fever developed fatigue and anemia 3 days later with ALT 483 U/L and progressive hepatic failure; 44 year old African physician treated for fever with artesunate and amodiaquine developed fatigue after 3 and jaundice after 5 days, with ALT 15,000 U/L and progressive hepatic failure).</italic></p></annotation><pub-id pub-id-type="pmid">19013042</pub-id></mixed-citation>
+          </ref>
+          <ref id="AntimalarialAgents.R87">
+            <mixed-citation publication-type="journal">Ndiaye JL, Randrianarivelojosia M, Sagara I, Brasseur P, Ndiaye I, Faye B, Randrianasolo L, et al. Randomized, multicentre assessment of the efficacy and safety of ASAQ--a fixed-dose artesunate-amodiaquine combination therapy in the treatment of uncomplicated Plasmodium falciparum malaria. Malar J 2009; 8: 125. <annotation><p><italic toggle="yes">(Controlled trial of artesunate-amodiaquine vs artemether-lumefantine for 3 days in 940 patients with malaria; response rates and side effects were similar in the two groups; rates of ALT elevations decreased during therapy and follow up, from 9% to 6%).</italic></p></annotation><pub-id pub-id-type="pmid">19505304</pub-id></mixed-citation>
+          </ref>
+          <ref id="AntimalarialAgents.R88">
+            <mixed-citation publication-type="journal">Kayentao K, Maiga H, Newman RD, McMorrow ML, Hoppe A, Yattara O, Traore H, Kone Y, et al. Artemisinin-based combinations versus amodiaquine plus sulphadoxine-pyrimethamine for the treatment of uncomplicated malaria in Faladje, Mali. Malar J 2009; 8: 5. <annotation><p><italic toggle="yes">(Controlled trial of 3 day courses of 3 different antimalarial regimens in 397 children with malaria; no difference in side effects, but regimens with sulfadoxine-pyrimethamine had superior response rates).</italic></p></annotation><pub-id pub-id-type="pmid">19128455</pub-id></mixed-citation>
+          </ref>
+          <ref id="AntimalarialAgents.R89">
+            <mixed-citation publication-type="journal">Sinclair D, Zani B, Donegan S, Olliaro P, Garner P. Artemisinin-based combination therapy for treating uncomplicated malaria. Cochrane Database Syst Rev 2009; (3): CD007483. <annotation><p><italic toggle="yes">(Review of 50 trials of artemisinin based regimens, as therapy of malaria does not mention or discuss hepatotoxicity or ALT elevations).</italic></p></annotation><pub-id pub-id-type="pmid">19588433</pub-id></mixed-citation>
+          </ref>
+          <ref id="AntimalarialAgents.R90">
+            <mixed-citation publication-type="journal">Centers for Disease Control and Prevention(CDC). Hepatitis temporally associated with an herbal supplement containing artemisinin &#x02013; Washington, 2008. MMWR Morb Mortal Wkly Rep 2009; 58: 854-6. <annotation><p><italic toggle="yes">(Artemisinin is available in several over-the-counter herbal products; 52 year old man developed jaundice after 7 days of taking herbal product with high concentrations of artemisinin [~600 mg per day] [bilirubin 3.1 mg/dL, ALT 898 U/L, Alk P 258 U/L], resolving with within 2 weeks: Case 1 for artemisinin).</italic></p></annotation><pub-id pub-id-type="pmid">19680221</pub-id></mixed-citation>
+          </ref>
+          <ref id="AntimalarialAgents.R91">
+            <mixed-citation publication-type="journal">Mali S, Steele S, Slutsker L, Arguin PM; Centers for Disease Control and Prevention (CDC). Malaria surveillance &#x02013; United States, 2008. MMWR Surveill Summ 2010; 59: 1-15. <annotation><p><italic toggle="yes">(In 2008, there were 1298 reports of malaria in persons living in the US and 2 deaths; almost all cases were associated with travel to endemic areas, with highest risk from Western Africa).</italic></p></annotation><pub-id pub-id-type="pmid">20577158</pub-id></mixed-citation>
+          </ref>
+          <ref id="AntimalarialAgents.R92">
+            <mixed-citation publication-type="journal">Devarbhavi H, Dierkhising R, Kremers WK, Sandeep MS, Karanth D, Adarsh CK. Single-center experience with drug-induced liver injury from India: causes, outcome, prognosis, and predictors of mortality. Am J Gastroenterol 2010; 105: 2396-404. <annotation><p><italic toggle="yes">(313 cases of drug induced liver injury were seen over a 12 year period at a large hospital in Bangalore, India; none were attributed to antimalarials).</italic></p></annotation><pub-id pub-id-type="pmid">20648003</pub-id></mixed-citation>
+          </ref>
+          <ref id="AntimalarialAgents.R93">
+            <mixed-citation publication-type="journal">Ayede IA, Falade AG, Sowunmi A, Jansen FH. An open randomized clinical trial in comparing two artesunate-based combination treatments on Plasmodium falciparum malaria in Nigerian children: artesunate/sulphamethoxypyrazine/pyrimethamine (fixed dose over 24 hours) versus artesunate/amodiaquine (fixed dose over 48 hours). Malar J 2010; 9: 378. <annotation><p><italic toggle="yes">(Among 250 children with malaria treated with artesunate either with sulfamethoxypyrazine and pyrimethamine over 24 hours or with amodiaquine over 48 hours, there were no hepatic serious adverse events and mean ALT and AST levels did not change).</italic></p></annotation><pub-id pub-id-type="pmid">21194422</pub-id></mixed-citation>
+          </ref>
+          <ref id="AntimalarialAgents.R94">
+            <mixed-citation publication-type="journal">Ebringer A, Heathcote G, Baker J, Waller M, Shanks GD, Edstein MD. Evaluation of the safety and tolerability of a short higher-dose primaquine regimen for presumptive anti-relapse therapy in healthy subjects. Trans R Soc Trop Med Hyg 2011; 105: 568-73. <annotation><p><italic toggle="yes">(Among 203 Australian soldiers treated with primaquine as a higher dose 7 day regimen, there were no "clinically significant differences ... in biochemical indices before and after treatment").</italic></p></annotation><pub-id pub-id-type="pmid">21890160</pub-id></mixed-citation>
+          </ref>
+          <ref id="AntimalarialAgents.R95">
+            <mixed-citation publication-type="journal">Bojang K, Akor F, Bittaye O, Conway D, Bottomley C, Milligan P, Greenwood B. A randomised trial to compare the safety, tolerability and efficacy of three drug combinations for intermittent preventive treatment in children. PLoS One 2010; 5 (6): e11225. <annotation><p><italic toggle="yes">(Controlled trial comparing 3 regimens for prevention of endemic malaria in 1008 Gambian children, 331 of whom received amodiaquine once monthly for 2-3 months; no severe adverse reactions were detected and no mention of liver injury, hepatitis or jaundice).</italic></p></annotation><pub-id pub-id-type="pmid">20574538</pub-id></mixed-citation>
+          </ref>
+          <ref id="AntimalarialAgents.R96">
+            <mixed-citation publication-type="journal">Tine RC, Faye B, Sylla K, Ndiaye JL, Ndiaye M, Sow D, Lo AC, et al. Efficacy and tolerability of a new formulation of artesunate-mefloquine for the treatment of uncomplicated malaria in adult in Senegal: open randomized trial. Malar J 2012; 11: 416. <annotation><p><italic toggle="yes"> (310 Senegalese patients with malaria were treated with artesunate and mefloquine vs artesunate and lumefantrine for 3 days; both regimens were highly effective and well tolerated, mean serum ALT levels did not change and no serious adverse events were reported).</italic></p></annotation><pub-id pub-id-type="pmid">23234606</pub-id></mixed-citation>
+          </ref>
+          <ref id="AntimalarialAgents.R97">
+            <mixed-citation publication-type="journal">Rueangweerayut R, Phyo AP, Uthaisin C, Poravuth Y, Binh TQ, Tinto H, P&#x000e9;nali LK, et al; Pyronaridine&#x02013;Artesunate Study Team. Pyronaridine-artesunate versus mefloquine plus artesunate for malaria. N Engl J Med 2012; 366: 1298-309. <annotation><p><italic toggle="yes">(Among 1271 patients in Asia and Africa treated for malaria with an artesunate combination regimen for 3 days, ALT elevations occurred in none of 423 mefloquine treated, but in 2.5% [21 of 848] of pyronaridine-artesunate treated subjects including 15 with ALT above 5 times ULN and 2 patients with jaundice, but with symptomatic hepatitis).</italic></p></annotation><pub-id pub-id-type="pmid">22475593</pub-id></mixed-citation>
+          </ref>
+          <ref id="AntimalarialAgents.R98">
+            <mixed-citation publication-type="journal">Brasseur P, Vaillant MT, Olliaro PL. Anti-malarial drug safety information obtained through routine monitoring in a rural district of South-Western Senegal. Malar J 2012; 11: 402. <annotation><p><italic toggle="yes">(Analysis of safety information obtained through routine monitoring of of ~3,000 cases of acute malaria treated with various regimens [usually with artemisinin] in a rural district in Senegal, found no significant changes in laboratory tests except for a decrease in ALT and AST from pretreatment values, and no deaths or severe adverse event attributable to liver injury).</italic></p></annotation><pub-id pub-id-type="pmid">23216982</pub-id></mixed-citation>
+          </ref>
+          <ref id="AntimalarialAgents.R99">
+            <mixed-citation publication-type="journal">Zwang J, Dorsey G, Djimd&#x000e9; A, Karema C, M&#x000e5;rtensson A, Ndiaye JL, Sirima SB, et al. Clinical tolerability of artesunate-amodiaquine versus comparator treatments for uncomplicated falciparum malaria: an individual-patient analysis of eight randomized controlled trials in sub-Saharan Africa. Malar J 2012; 11: 260. <annotation><p><italic toggle="yes">(Among 3113 patients treated with artesunate and amodiaquine for falciparum malaria in 8 controlled trials, common treatment-emergent side effects were cough [33%], anorexia [17%], vomiting [15%], diarrhea [17%], pruritus [18%] and weakness [16%]; 4 patients [1%] developed jaundice, but no details provided).</italic></p></annotation><pub-id pub-id-type="pmid">22856598</pub-id></mixed-citation>
+          </ref>
+          <ref id="AntimalarialAgents.R100">
+            <mixed-citation publication-type="journal">Thanh NX, Trung TN, Phong NC, Quang HH, Dai B, Shanks GD, Chavchich M, et al. The efficacy and tolerability of artemisinin-piperaquine (Artequick&#x000ae;) versus artesunate-amodiaquine (Coarsucam&#x02122;) for the treatment of uncomplicated plasmodium falciparum malaria in south-central Vietnam. Malar J 2012; 11: 217. <annotation><p><italic toggle="yes">(Controlled trial comparing aremisinin with either piperaquine [n=63] for 2 days or with amodiaquine [65] for 3 days for falciparum malaria in Vietnam reported similar efficacy and tolerance; no severe adverse events reported and no mention of liver injury, jaundice or ALT elevations).</italic></p></annotation><pub-id pub-id-type="pmid">22741618</pub-id></mixed-citation>
+          </ref>
+          <ref id="AntimalarialAgents.R101">
+            <mixed-citation publication-type="journal">Askling HH, Bruneel F, Burchard G, Castelli F, Chiodini PL, Grobusch MP, Lopez-V&#x000e9;lez R, Paul M, et al.; European Society for Clinical Microbiology and Infectious Diseases Study Group on Clinical Parasitology. Management of imported malaria in Europe. Malar J 2012;11: 328. <annotation><p><italic toggle="yes">(Recommendations on treatment of malaria from a European panel; atovaquone-proguanil is a first line treatment for uncomplicated P. falciparum malaria; ALT elevations and hepatotoxicity are not mentioned).</italic></p></annotation><pub-id pub-id-type="pmid">22985344</pub-id></mixed-citation>
+          </ref>
+          <ref id="AntimalarialAgents.R102">
+            <mixed-citation publication-type="journal">Kimura M, Koga M, Kikuchi T, Miura T, Maruyama H. Efficacy and safety of atovaquone-proguanil in treating imported malaria in Japan: the second report from the research group. Parasitol Int 2012; 61: 466-9. <annotation><p><italic toggle="yes">(30 cases of P. falciparum or vivax malaria in Japan were treated successfully with atovaquone-proguanil; one patient with P. falciparum had abnormal liver tests [bilirubin 2.0 mg/dL, ALT 294 U/L], with thrombocytopenia [48,000/&#x003bc;L] that resolved within 4 weeks of treatment).</italic></p></annotation><pub-id pub-id-type="pmid">22484597</pub-id></mixed-citation>
+          </ref>
+          <ref id="AntimalarialAgents.R103">
+            <mixed-citation publication-type="journal">Advice for travelers. Treat Guidel Med Lett 2012; 10 (118): 45-56. <annotation><p><italic toggle="yes">(Concise guidelines on prevention of malaria in travelers indicates that atovaquone-proguanil is an effective prophylaxis against choloroquine resistant Plasmodium species, "...generally the best tolerated prophylactic, but it can cause headhache, insomnia, GI disturbances and mouth ulcers, and is expensive. Single case reports of Stevens Johnson syndrome and hepatitis have been published.")</italic></p></annotation><pub-id pub-id-type="pmid">22777212</pub-id></mixed-citation>
+          </ref>
+          <ref id="AntimalarialAgents.R104">
+            <mixed-citation publication-type="journal">John GK, Douglas NM, von Seidlein L, Nosten F, Baird JK, White NJ, Price RN. Primaquine radical cure of Plasmodium vivax: a critical review of the literature. Malar J 2012; 11: 280. <annotation><p><italic toggle="yes">(Review of the activity, efficacy and safey of primaquine as therapy and means of prevention of relapse of vivax malaria).</italic></p></annotation><pub-id pub-id-type="pmid">22900786</pub-id></mixed-citation>
+          </ref>
+          <ref id="AntimalarialAgents.R105">
+            <mixed-citation publication-type="journal">Baird KJ, Maguire JD, Price RN. Diagnosis and treatment of Plasmodium vivax malaria. Adv Parasitol 2012; 80: 203-70. <annotation><p><italic toggle="yes"> (Extensive review of the history and modern approach to diagnosis and treatment of vivax malaria; primaquine has been shown to be effective in preventing relapse and might play a role in the reaching of a goal of elimination of malaria transmission; side effects are few and usually minor except in persons with G6PD deficiency, a problem for the developing world).</italic></p></annotation><pub-id pub-id-type="pmid">23199489</pub-id></mixed-citation>
+          </ref>
+          <ref id="AntimalarialAgents.R106">
+            <mixed-citation publication-type="journal">Sutanto I, Tjahjono B, Basri H, Taylor WR, Putri FA, Meilia RA, Setiabudy R, et al. Randomized, open-label trial of primaquine against vivax malaria relapse in Indonesia. Antimicrob Agents Chemother 2013; 57: 1128-35. <italic toggle="yes">
+</italic><annotation><p><italic toggle="yes">(Prospective trial of three regimens for vivax malaria among 116 Indonesian soliders; primaquine was 92-98% effective in preventing relapse and "most laboratory findings" including serum ALT and alkaline phosphatase levels remained normal before, during and after treatment).</italic></p></annotation><pub-id pub-id-type="pmid">23254437</pub-id></mixed-citation>
+          </ref>
+          <ref id="AntimalarialAgents.R107">
+            <mixed-citation publication-type="journal">Schramm B, Valeh P, Baudin E, Mazinda CS, Smith R, Pinoges L, Sundaygar T, et al. Tolerability and safety of artesunate-amodiaquine and artemether-lumefantrine fixed dose combinations for the treatment of uncomplicated Plasmodium falciparum malaria: two open-label, randomized trials in Nimba County, Liberia. Malar J 2013; 12: 250. <annotation><p><italic toggle="yes">(Analysis of safety from two prospective controlled trials conducted in Liberia comparing 3 day courses of artesunate-amodiaquine to artemether-lumefantrine in treating uncomplicated Plasmodium falciparum malaria; ALT elevations occurred in 2.0-5.2% of patients and "the only clinical hepatotoxicity was mild jaundice in one patients").</italic></p></annotation><pub-id pub-id-type="pmid">23866736</pub-id></mixed-citation>
+          </ref>
+          <ref id="AntimalarialAgents.R108">
+            <mixed-citation publication-type="journal">Cordel H, Cailhol J, Matheron S, Bloch M, Godineau N, Consigny PH, Gros H, et al. Atovaquone-proguanil in the treatment of imported uncomplicated Plasmodium falciparum malaria: a prospective observational study of 553 cases. Malar J 2013; 12: 399. <annotation><p><italic toggle="yes">(Among 553 French travelers treated for uncomplicated malaria with atovaquone-proguanil, parasitemia cleared in all patients by day 7 and only 3 patients relapsed; side effects included nausea or vomiting [17%], headache [7%], and rash [2%]. "As observed in the literature, this study did not reveal any liver toxicity").</italic></p></annotation><pub-id pub-id-type="pmid">24200190</pub-id></mixed-citation>
+          </ref>
+          <ref id="AntimalarialAgents.R109">
+            <mixed-citation publication-type="journal">Bj&#x000f6;rnsson ES, Bergmann OM, Bj&#x000f6;rnsson HK, Kvaran RB, Olafsson S. Incidence, presentation and outcomes in patients with drug-induced liver injury in the general population of Iceland. Gastroenterology 2013; 144: 1419-25. (In a<annotation><p><italic toggle="yes">population based study from Iceland, 96 cases of drug induced liver injury were identified over a 2 year period [2010 and 2011], but none were attributed to an antimalarial agent).</italic></p></annotation><pub-id pub-id-type="pmid">23419359</pub-id></mixed-citation>
+          </ref>
+          <ref id="AntimalarialAgents.R110">
+            <mixed-citation publication-type="journal">Yeka A, Lameyre V, Afizi K, Fredrick M, Lukwago R, Kamya MR, Talisuna AO. Efficacy and safety of fixed-dose artesunate-amodiaquine vs. artemether-lumefantrine for repeated treatment of uncomplicated malaria in Ugandan children. PLoS One 2014; 9: e113311. <annotation><p><italic toggle="yes">(Among 413 Ugandan children with repeated [n=6027] episodes of malaria treated each time with one of two artemisinin combination regimens, cure and adverse event rates were similar and liver tests abnormalities occurred in 6.5% overall and were treatment related in 0.5%, but all resolved spontaneously and there were no instances of clinically apparent liver injury).</italic></p></annotation><pub-id pub-id-type="pmid">25436614</pub-id></mixed-citation>
+          </ref>
+          <ref id="AntimalarialAgents.R111">
+            <mixed-citation publication-type="journal">Hern&#x000e1;ndez N, Bessone F, S&#x000e1;nchez A, di Pace M, Brahm J, Zapata R, A Chirino R, et al. Profile of idiosyncratic drug induced liver injury in Latin America: an analysis of published reports. Ann Hepatol 2014; 13: 231-9. <annotation><p><italic toggle="yes">(Among 176 reports of drug induced liver injury from Latin America published between 1996 and 2012, none were attributed to an antimalarial agent).</italic></p></annotation><pub-id pub-id-type="pmid">24552865</pub-id></mixed-citation>
+          </ref>
+          <ref id="AntimalarialAgents.R112">
+            <mixed-citation publication-type="journal">Advice for travelers. Treat Guidel Med Lett 2015: 57 (1466): 52-8. <annotation><p><italic toggle="yes">(Concise guidelines on prevention of malaria in travelers).</italic></p></annotation><pub-id pub-id-type="pmid">25853663</pub-id></mixed-citation>
+          </ref>
+          <ref id="AntimalarialAgents.R113">
+            <mixed-citation publication-type="journal">Yeka A, Kigozi R, Conrad MD, Lugemwa M, Okui P, Katureebe C, Belay K, et al. Artesunate/amodiaquine versus artemether/lumefantrine for the treatment of uncomplicated malaria in Uganda: a randomized trial. J Infect Dis 2016; 213: 1134-42. <annotation><p><italic toggle="yes">(Among 602 Ugandan children with malaria treated with artesunate-amodiaquine or artemether-lumefantrine, adverse event rates were similar with the 2 regimens and there were no serious hepatic adverse events; no mention of ALT elevations).</italic></p></annotation><pub-id pub-id-type="pmid">26597254</pub-id></mixed-citation>
+          </ref>
+          <ref id="AntimalarialAgents.R114">
+            <mixed-citation publication-type="journal">Coulibaly B, Pritsch M, Bountogo M, Meissner PE, Nebi&#x000e9; E, Klose C, Kieser M, et al. Efficacy and safety of triple combination therapy with artesunate-amodiaquine-methylene blue for falciparum malaria in children: a randomized controlled trial in Burkina Faso. J Infect Dis 2015; 211: 689-97. <annotation><p><italic toggle="yes"> (Among 221 children with falciparum malaria treated with artesunate-amodiaquine with or without methylene blue for 3 days, serious adverse events were uncommon and none were liver related; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">25267980</pub-id></mixed-citation>
+          </ref>
+          <ref id="AntimalarialAgents.R115">
+            <mixed-citation publication-type="journal">Chalasani N, Bonkovsky HL, Fontana R, Lee W, Stolz A, Talwalkar J, Reddy KR, et al.; United States Drug Induced Liver Injury Network. Features and outcomes of 899 patients with drug-induced liver injury: The DILIN Prospective Study. Gastroenterology 2015; 148: 1340-52.e7. <annotation><p><italic toggle="yes">(Among 899 cases of drug induced liver injury enrolled in a US prospective study between 2004 and 2013, no cases were attributed to an antimalarial drug, but one occurred in a patient taking an herbal supplement that reportedly contained artemisinin).</italic></p></annotation><pub-id pub-id-type="pmid">25754159</pub-id></mixed-citation>
+          </ref>
+          <ref id="AntimalarialAgents.R116">
+            <mixed-citation publication-type="journal">Twomey PS, Smith BL, McDermott C, Novitt-Moreno A, McCarthy W, Kachur SP, Arguin PM. Intravenous artesunate for the treatment of severe and complicated malaria in the United States: clinical use under an investigational new drug protocol. Ann Intern Med 2015; 163: 498-506. <annotation><p><italic toggle="yes">(Among 102 US patients with severe malaria treated with intravenous artesunate, the mortality rate was 7% but all deaths were considered due to malaria; ALT or AST elevations occurred in 51%, but most were mild-to-moderate in severity and self-limited in course; there were no instances of clinically apparent liver injury attributed to antimalarial therapy).</italic></p></annotation><pub-id pub-id-type="pmid">26301474</pub-id></mixed-citation>
+          </ref>
+          <ref id="AntimalarialAgents.R117">
+            <mixed-citation publication-type="journal">Kumar S. Cholestatic liver injury secondary to artemisinin. Hepatology 2015; 62: 973-4. <annotation><p><italic toggle="yes">(43 year old woman developed jaundice 6 weeks after starting an herbal supplement containing artemisinin [bilirubin 15.4 mg/dL, ALT 675 U/L, Alk P 208 U/L, INR 1.1], resolving slowly upon withdrawal, jaundice lasting 4 months). </italic></p></annotation><pub-id pub-id-type="pmid">25980398</pub-id></mixed-citation>
+          </ref>
+          <ref id="AntimalarialAgents.R118">
+            <mixed-citation publication-type="journal">Adjei A, Narh-Bana S, Amu A, Kukula V, Nagai RA, Owusu-Agyei S, Oduro A, et al. Treatment outcomes in a safety observational study of dihydroartemisinin/piperaquine (Eurartesim(&#x000ae;)) in the treatment of uncomplicated malaria at public health facilities in four African countries. Malar J 2016; 15: 43. <annotation><p><italic toggle="yes">(Among 1002 patients with malaria treated in 4 African countries with dihydroartemisinin with piperaquine who were tested for ALT and AST, mean levels decreased during therapy and there was no "significant liver or renal impairment", but ALT levels were still elevated at day 7 in 11.5% and serum bilirubin in 7.6% of patients).</italic></p></annotation><pub-id pub-id-type="pmid">26818128</pub-id></mixed-citation>
+          </ref>
+          <ref id="AntimalarialAgents.R119">
+            <mixed-citation publication-type="journal">Silva-Pinto A, Ruas R, Almeida F, Duro R, Silva A, Abreu C, Sarmento A. Artemether-lumefantrine and liver enzyme abnormalities in non-severe Plasmodium falciparum malaria in returned travellers: a retrospective comparative study with quinine-doxycycline in a Portuguese centre. Malar J 2017; 16: 43. <annotation><p><italic toggle="yes">(Among 57 travellers treated for non-severe malaria, 10 [18%] developed liver enzyme elevations, more commonly with artemether-lumefantrine [42%] than quinine-doxycycline [5%], but none developed clinically apparent liver injury).</italic></p></annotation><pub-id pub-id-type="pmid">28122572</pub-id></mixed-citation>
+          </ref>
+          <ref id="AntimalarialAgents.R120">
+            <mixed-citation publication-type="other">http://www.cdc.gov/MALARIA/.<annotation><p><italic toggle="yes">(CDC website with information on malaria, its prevention and treatment including current guidelines which are updated regularly).</italic></p></annotation></mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec id="AntimalarialAgents.OTHER_REFERENCE_LINKS" sec-type="link-group">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=(antimalarial+NOT+clavulanic+acid)+AND+Human%5BMH%5D+AND+(jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D%3A%222999/12/31%22%5BEDat%5D)">Recent References on Antimalarials: from PubMed.gov</ext-link>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=antimalarial">Trials on Antimalarials: from ClinicalTrials.gov</ext-link>
+            </p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

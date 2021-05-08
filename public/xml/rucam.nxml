@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="rucam" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">rucam</book-part-id>
+      <title-group>
+        <title>Roussel Uclaf Causality Assessment Method (RUCAM) in Drug Induced Liver Injury</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>4</day>
+          <month>5</month>
+          <year>2019</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Narajo" document-type="chapter">Adverse Drug Reaction Probability Scale (Naranjo) in Drug Induced Liver Injury</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="ClinicalCourse" document-type="chapter">Clinical Course and Diagnosis of Drug Induced Liver Disease</related-object>
+    </book-part-meta>
+    <body>
+      <p><inline-supplementary-material xmlns:xlink="http://www.w3.org/1999/xlink" xlink:title="media" xlink:href="livertoxrucamv5.pdf" content-type="local-data">RUCAM Worksheet</inline-supplementary-material> (PDF &#x02013; 135 KB)</p>
+      <sec id="rucam.Manual_of_Operations">
+        <title>Manual of Operations</title>
+        <p><bold>Introduction</bold>. The RUCAM system is a means of assigning points for clinical, biochemical, serologic and radiologic features of liver injury which gives an overall assessment score that reflects the likelihood that the hepatic injury is due to a specific medication. Introduced in 1993, RUCAM is now widely used in assessing causality of drug induced liver injury, both in the published literature and in support of regulatory decisions regarding medications implicated in causing hepatic injury. RUCAM has been evaluated for accuracy, reproducibility and intraobserver variability and has performed moderately well. Because the RUCAM score is based upon objective measurements, however, there actually should be little or no variation in the final scores by different investigators. The variation that does occur is likely due to the ambiguity of some of the descriptions in how to assign individual scores, and variation in interpretation and understanding of how scores are assigned. In an attempt to standardize and improve the reliability of the RUCAM system, this Manual of Operations was written with the hope of minimizing variability among ratings and eventually reaching a consensus on how the individual scores of the RUCAM are obtained.</p>
+        <p><bold>Background</bold>. The RUCAM is calculated for each implicated medication, a separate RUCAM score being given for each agent that is considered. The total score consists of points for 8 separate factors in 7 categories that help define the &#x0201c;signature&#x0201d; of the drug induced liver injury. These factors are: (1) time to onset (+1 or +2); (2) course (-2, 0, +1, +2 or +3); (3) risk factors (2 scores: 0 or +1 each); (4) concomitant drugs (0, -1, -2 or -3); (5) nondrug causes of liver injury (-3, -2, 0, +1, or +2); (6) previous information on the hepatotoxicity of the drug (0, +1, or +2); and (7) response to rechallenge (-2, 0, +1, or +3). The individual points range from -3 to +3 and the total possible score ranges from -9 to +14. Scores at or near the extremes of this range are rare. The interpretation of the final score is as follows: 0 or less indicate that the drug is &#x0201c;excluded&#x0201d; as a cause; 1 to 2 that it is &#x0201c;unlikely&#x0201d;; 3 to 5 &#x0201c;possible&#x0201d;; 6 to 8 &#x0201c;probable&#x0201d;; and greater than 8, &#x0201c;highly probable&#x0201d;. When comparing RUCAM to other causality assessment instruments, other terms are sometimes used for &#x0201c;highly probable&#x0201d;, including &#x0201c;highly likely&#x0201d; and &#x0201c;definite.&#x0201d;</p>
+        <p>While the total range of the RUCAM is -9 to +14, it should be stressed that without readministration or rechallenge, the total range is actually -7 to +11. Furthermore, 2 points are allocated for special risk factors, and if a patient is not alcoholic, pregnant or above the age of 55 years, the total range of possible RUCAM scores is only -7 to +9. Finally, for cholestatic and mixed injury, the range of scores for the course of the reaction is more limited (0 to +2, rather that -2 to +3), so that the range (in the absence of rechallenge, alcohol, pregnancy or age above 55 years) is only -5 to +8. Thus, in many instances, only a &#x0201c;probable&#x0201d; rating can be assigned. Indeed, in many cases of typical augmentin induced cholestatic hepatitis, the maximum score is only 7, because the onset is typically after the drug is stopped.</p>
+        <p><bold>Step One. Calculation of the R Ratio</bold>. The initial step in the RUCAM assessment is to define whether the hepatic injury is &#x0201c;hepatocellular&#x0201d;, &#x0201c;mixed&#x0201d;, or &#x0201c;cholestatic.&#x0201d; These terms refer to the pattern of serum enzyme elevations at disease onset and not to clinical features or liver biopsy findings. The terms are defined by calculation of the &#x0201c;R ratio&#x0201d;.</p>
+        <p>The R ratio is calculated by dividing the alanine aminotransferase (ALT) by the alkaline phosphatase (Alk P), using multiples of the upper limit of the normal range for both values. The values used should be from the same day (or no more than 2 days apart) and should be those from the initial blood test results following onset of liver injury. Local normal ranges should be used to calculate the fold increase above the upper limit of the normal range (ULN).</p>
+        <disp-formula id="rucam.E">
+          <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="rucam.m1">
+            <mml:mi>R</mml:mi>
+            <mml:mi mathvariant="normal">&#x000a0;</mml:mi>
+            <mml:mo>=</mml:mo>
+            <mml:mi mathvariant="normal">&#x000a0;</mml:mi>
+            <mml:mo>(</mml:mo>
+            <mml:mi>A</mml:mi>
+            <mml:mi>L</mml:mi>
+            <mml:mi>T</mml:mi>
+            <mml:mi mathvariant="normal">&#x000a0;</mml:mi>
+            <mml:mi>v</mml:mi>
+            <mml:mi>a</mml:mi>
+            <mml:mi>l</mml:mi>
+            <mml:mi>u</mml:mi>
+            <mml:mi>e</mml:mi>
+            <mml:mi mathvariant="normal">&#x000a0;</mml:mi>
+            <mml:mo>&#x000f7;</mml:mo>
+            <mml:mi mathvariant="normal">&#x000a0;</mml:mi>
+            <mml:mi>A</mml:mi>
+            <mml:mi>L</mml:mi>
+            <mml:mi>T</mml:mi>
+            <mml:mi mathvariant="normal">&#x000a0;</mml:mi>
+            <mml:mi>U</mml:mi>
+            <mml:mi>L</mml:mi>
+            <mml:mi>N</mml:mi>
+            <mml:mo>)</mml:mo>
+            <mml:mi mathvariant="normal">&#x000a0;</mml:mi>
+            <mml:mo>&#x000f7;</mml:mo>
+            <mml:mi mathvariant="normal">&#x000a0;</mml:mi>
+            <mml:mo>(</mml:mo>
+            <mml:mi>A</mml:mi>
+            <mml:mi>l</mml:mi>
+            <mml:mi>k</mml:mi>
+            <mml:mi mathvariant="normal">&#x000a0;</mml:mi>
+            <mml:mi>P</mml:mi>
+            <mml:mi mathvariant="normal">&#x000a0;</mml:mi>
+            <mml:mi>v</mml:mi>
+            <mml:mi>a</mml:mi>
+            <mml:mi>l</mml:mi>
+            <mml:mi>u</mml:mi>
+            <mml:mi>e</mml:mi>
+            <mml:mi mathvariant="normal">&#x000a0;</mml:mi>
+            <mml:mo>&#x000f7;</mml:mo>
+            <mml:mi mathvariant="normal">&#x000a0;</mml:mi>
+            <mml:mi>A</mml:mi>
+            <mml:mi>l</mml:mi>
+            <mml:mi>k</mml:mi>
+            <mml:mi mathvariant="normal">&#x000a0;</mml:mi>
+            <mml:mi>P</mml:mi>
+            <mml:mi mathvariant="normal">&#x000a0;</mml:mi>
+            <mml:mi>U</mml:mi>
+            <mml:mi>L</mml:mi>
+            <mml:mi>N</mml:mi>
+            <mml:mo>)</mml:mo>
+          </mml:math>
+        </disp-formula>
+        <p>R ratios of &#x0003e;5 define a hepatocellular, &#x0003c;2 a cholestatic, and between 2 and 5 a mixed pattern of enzymes. If the ALT value is more than twice the upper limit of the normal range (ULN) and the Alk P is normal, the pattern should be considered hepatocellular and an R ratio need not be calculated. Similarly, if the Alk P value is more than twice ULN but the ALT is normal, the pattern should be considered cholestatic, and an R ratio need not be calculated.</p>
+        <p>In the RUCAM system, cases that are mixed are given scores as if they were cholestatic.</p>
+        <p><bold>Problems in calculating the R ratio</bold>. Five special problems arise in calculating the R ratio.</p>
+        <p>1. The timing of the blood test is critical in defining the pattern of serum enzyme elevations accurately. In some instances, an enzyme pattern that was initially hepatocellular can evolve into a mixed or even cholestatic pattern. Blood samples that are taken very early in the course of injury are more likely to show a hepatocellular pattern of injury; samples taken late in the course of an icteric case of drug induced liver injury are more likely to show a cholestatic pattern. Thus, in the literature, many cases of prolonged drug induced liver injury are called &#x0201c;cholestatic&#x0201d; even though the initial enzyme elevations were hepatocellular in pattern.</p>
+        <p>Recommendation: For the RUCAM, the values used to calculate the R ratio should be the first values obtained that qualify as being indicative of drug induced liver injury (usually when ALT or Alk P rises above 2 times the ULN or bilirubin above 2.5 mg/dL in association with enzyme elevations).</p>
+        <p>2. The Alk P may be elevated for nonhepatic reasons such as bone disease, cancer or pregnancy. Furthermore, normal levels of Alk P are higher in children than in adults and the normal range varies by age. Finally, Alk P levels may not be available.</p>
+        <p>Recommendation: In children or in clinical situations where it is suspected that Alk P elevations are from an extrahepatic source, the gamma glutamyl transpeptidase (GGT) level can be used if available, but the accuracy of using GGT as a substitute for Alk P in calculating the R ratio has yet to be shown and deserves future evaluation.</p>
+        <p>3. In some situations only AST and not ALT values are available.</p>
+        <p>Recommendation: The AST can replace the ALT values in calculation of the R ratio, but the validity of this substitution has yet to be shown and deserves future evaluation.</p>
+        <p>4. The use of ULN to calculate the R ratio can be problematic, because the ULN may vary from laboratory to laboratory and criteria for a normal ALT level remain unclear. A typical ULN for ALT is 40 or 42 U/L, but in some laboratories the ALT ULN is 55 U/L or even 66 U/L. Furthermore, studies done on normal populations suggest that the ULN for ALT varies by age and gender and should be 33 U/L for men and 19 U/L for women.</p>
+        <p>Recommendation: Until the uncertainties of the proper ULN values are resolved, the local ULN should be used to calculate the R ratio. If values are not provided, the ULN should be considered 40 U/L for ALT and 115 U/L for Alk P.</p>
+        <p>5. RUCAM does not provide instructions on how to assign an R ratio in patients with preexisting liver disease or abnormal serum enzyme levels before the medication is started. Between 5% and 20% of the normal population may have preexisting liver disease or abnormal serum enzymes, making this a common problem.</p>
+        <p>Recommendation: A reasonable approach in this situation is to use the preexisting average levels of ALT or Alk P as a upper limit of normal to calculate the R ratio. In this situation, however, both values must be calculated in the same manner.</p>
+        <p><bold>Step Two. Calculation of the RUCAM Score</bold>. Once the enzyme pattern has defined an R ratio and the type of injury, a RUCAM score can be calculated. The criteria for scoring the first 3 of the 7 categories is determined by the R ratio.</p>
+        <p><bold>1. Time to Onset</bold>. The first scores are given on the basis of time to onset or the &#x0201c;latency&#x0201d; of the hepatic injury, a very important factor in the &#x0201c;signature&#x0201d; of drug induced liver disease. The time to onset should be calculated from the first day (day 0) that the medication was given to the day of onset of the first symptom, sign or laboratory test abnormality indicative of the drug induced liver injury (whichever is first). If the onset of injury is before starting the drug, the injury is considered &#x0201c;unrelated&#x0201d; and a RUCAM should not be calculated. If the onset of injury is more than 15 days after stopping the drug in instances of hepatocellular injury, or more than 30 days after stopping in instances of mixed or cholestatic injury, the injury should be considered &#x0201c;unrelated&#x0201d; and the RUCAM should not be calculated. An exception to these rules is for drugs that are slowly metabolized, although the RUCAM system does not define what is meant by drugs that are slowly metabolized or how much of an exception should be made. The following agents typically cause a delayed hepatic injury that can arise more than 30 days after stopping therapy: amiodarone, leflunomide, and clavulanate. Finally, when the time to onset is unknown, the case should be considered &#x0201c;insufficiently documented&#x0201d; in which case a RUCAM cannot be calculated. In instances where the exact date of first exposure is not known, the date should be estimated if within a week in instances with a time to onset of &#x0003e;15 to &#x0003c;90 days; for cases with an onset of greater than 90 days, the exact day of starting the medication is unlikely to alter the scoring, but the month of starting should be known.</p>
+        <p>Cases are then assigned scores for time to onset based upon the type of injury (R value), whether the treatment medication was given for the first time, and whether the onset is during therapy or occurs after the medication is stopped. Patients with <bold>hepatocellular injury</bold> (R &#x0003e;5) receiving the medication for the first time are given 2 points if the time to onset is 5 to 90 days and they are still receiving the medication, but only 1 point if the time to onset is less than 5 or more than 90 days. Patients with hepatocellular injury who had received the medication previously are given 2 points if the time to onset is 1 to 15 days, but only 1 point if it is greater than 15 days. Patients with hepatocellular injury who have the onset of injury after stopping the medication are given 1 point if the onset is within 15 days of stopping, whether or not the drug is given for the first time. If the onset of hepatocellular injury is more than 15 days after stopping the medication, the injury should be considered &#x0201c;unrelated&#x0201d; and the RUCAM should not be calculated.</p>
+        <p>Patients with <bold>mixed</bold> or <bold>cholestatic injury</bold> who are receiving the medication for the first time are given 2 points if the time to onset is 5 to 90 days and they are still receiving the medication, but only 1 point if the time to onset is less than 5 or more than 90 days (these criteria are the same for hepatocellular injury). Patients with mixed or cholestatic injury who have received the medication in the past are given 2 points if the time to onset is 1 to 90 days, but only 1 point if more than 90 days. Among patients with mixed or cholestatic injury who develop hepatic injury after stopping therapy, 1 point is given if the time to onset is 30 days or less regardless of whether they are receiving the medication for the first or subsequent times. If the onset of mixed or cholestatic injury occurs more than 30 days after stopping the medication, the injury should be considered &#x0201c;unrelated&#x0201d; and the RUCAM should not be calculated.</p>
+        <p>Only one score is given under the category of time to onset. Thus, if the onset of injury occurs within 15 days after stopping the medication but also within 90 days of starting, one does not give 1 point for the fact that its onset was within 15 days after stopping and 2 points because it was within 90 days of starting. Rather, one gives the case 1 point only, because the onset of injury occurred after the drug was stopped. Thus, the only two scores possible under time to onset are 1+ (compatible) or 2+ (suggestive). There is no option to give a score of 0.</p>
+        <p><bold>2. Course</bold>. The second category of scoring in the RUCAM system is for the subsequent course of illness. For most patients, the medication is stopped and there is at least some documentation of subsequent improvement or lack thereof. If the drug is continued, no score (0) is given in this category. If the medication is stopped and there is rapid improvement, scores are given based upon the speed and degree of improvement, scores being assigned differently among patients with hepatocellular injury than among those with mixed or cholestatic injury.</p>
+        <p>For patients with hepatocellular injury, 3 points are given if the ALT falls by 50% from the peak value within 8 days (&#x0201c;highly suggestive&#x0201d;), and 2 points are given if the ALT falls from its peak values by 50% within 30 days (&#x0201c;suggestive&#x0201d;). No points are given if there is no information about the course of ALT values or if there is a 50% decrease, but it occurs after 30 days. Importantly, -2 points are assigned if the ALT does not decrease by more than 50% or if there is a recurrent increase.</p>
+        <p>
+          <bold>Several provisos need to be made about these calculations.</bold>
+        </p>
+        <p>Often the timing of the decrease is not completely clear, such as if the ALT is not tested during the first 8 days but has decreased by more than 50% when first tested at 10 or 14 days. Similarly, the ALT may not have been tested between day 8 and 30, but is found to have fallen by more than 50% shortly after day 30. In these situations, the slope of the fall over time can be calculated and extrapolated to day 8 or day 30. However, another approach is to use whatever time frame is available, which would provide a more conservative estimate. In any case, adequate follow up is needed to demonstrate whether or not there is a decrease in ALT. Thus, the RUCAM requires 30 days of follow up for cases of hepatocellular injury.</p>
+        <p>The percent fall of ALT is calculated based upon the peak value, not the value at the time that the medication was stopped. Thus, in some instances, ALT values continue to increase for several days or even a few weeks after the medication is stopped. In these circumstances, the peak value obtained is used to calculate the percent decrease and the time to 50% decrease.</p>
+        <p>In addition, the percent decrease is calculated based on the amount in excess of the upper limit of normal. It is easiest to use the multiples of the ULN to calculate the percent decrease:</p>
+        <disp-formula id="rucam.E___1">
+          <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="rucam.m2">
+            <mml:mi>P</mml:mi>
+            <mml:mi>e</mml:mi>
+            <mml:mi>r</mml:mi>
+            <mml:mi>c</mml:mi>
+            <mml:mi>e</mml:mi>
+            <mml:mi>n</mml:mi>
+            <mml:mi>t</mml:mi>
+            <mml:mi>&#x000a0;</mml:mi>
+            <mml:mi>d</mml:mi>
+            <mml:mi>e</mml:mi>
+            <mml:mi>c</mml:mi>
+            <mml:mi>r</mml:mi>
+            <mml:mi>e</mml:mi>
+            <mml:mi>a</mml:mi>
+            <mml:mi>s</mml:mi>
+            <mml:mi>e</mml:mi>
+            <mml:mi>&#x000a0;</mml:mi>
+            <mml:mo>=</mml:mo>
+            <mml:mi>&#x000a0;</mml:mi>
+            <mml:mn>100</mml:mn>
+            <mml:mi mathvariant="normal">%</mml:mi>
+            <mml:mi mathvariant="normal">&#x000a0;</mml:mi>
+            <mml:mo>&#x000d7;</mml:mo>
+            <mml:mfrac bevelled="true">
+              <mml:mrow>
+                <mml:mi mathvariant="normal">&#x000a0;</mml:mi>
+                <mml:mo>[</mml:mo>
+                <mml:mo>(</mml:mo>
+                <mml:mrow>
+                  <mml:mrow>
+                    <mml:mi mathvariant="normal">A</mml:mi>
+                    <mml:mi mathvariant="normal">L</mml:mi>
+                    <mml:mi mathvariant="normal">T</mml:mi>
+                    <mml:mi mathvariant="normal">&#x000a0;</mml:mi>
+                    <mml:mi mathvariant="normal">p</mml:mi>
+                    <mml:mi mathvariant="normal">e</mml:mi>
+                    <mml:mi mathvariant="normal">a</mml:mi>
+                    <mml:mi mathvariant="normal">k</mml:mi>
+                  </mml:mrow>
+                  <mml:mo>/</mml:mo>
+                  <mml:mrow>
+                    <mml:mi mathvariant="normal">U</mml:mi>
+                    <mml:mi mathvariant="normal">L</mml:mi>
+                    <mml:mi mathvariant="normal">N</mml:mi>
+                  </mml:mrow>
+                </mml:mrow>
+                <mml:mo>)</mml:mo>
+                <mml:mi mathvariant="normal">&#x000a0;</mml:mi>
+                <mml:mo>-</mml:mo>
+                <mml:mi mathvariant="normal">&#x000a0;</mml:mi>
+                <mml:mo>(</mml:mo>
+                <mml:mrow>
+                  <mml:mrow>
+                    <mml:mi mathvariant="normal">A</mml:mi>
+                    <mml:mi mathvariant="normal">L</mml:mi>
+                    <mml:mi mathvariant="normal">T</mml:mi>
+                    <mml:mi mathvariant="normal">&#x000a0;</mml:mi>
+                    <mml:mi mathvariant="normal">v</mml:mi>
+                    <mml:mi mathvariant="normal">a</mml:mi>
+                    <mml:mi mathvariant="normal">l</mml:mi>
+                    <mml:mi mathvariant="normal">u</mml:mi>
+                    <mml:mi mathvariant="normal">e</mml:mi>
+                  </mml:mrow>
+                  <mml:mo>/</mml:mo>
+                  <mml:mrow>
+                    <mml:mi mathvariant="normal">U</mml:mi>
+                    <mml:mi mathvariant="normal">L</mml:mi>
+                    <mml:mi mathvariant="normal">N</mml:mi>
+                  </mml:mrow>
+                </mml:mrow>
+                <mml:mo>)</mml:mo>
+                <mml:mo>]</mml:mo>
+                <mml:mi mathvariant="normal">&#x000a0;</mml:mi>
+              </mml:mrow>
+              <mml:mrow>
+                <mml:mo>[</mml:mo>
+                <mml:mo>(</mml:mo>
+                <mml:mrow>
+                  <mml:mrow>
+                    <mml:mi mathvariant="normal">A</mml:mi>
+                    <mml:mi mathvariant="normal">L</mml:mi>
+                    <mml:mi mathvariant="normal">T</mml:mi>
+                    <mml:mi mathvariant="normal">&#x000a0;</mml:mi>
+                    <mml:mi mathvariant="normal">p</mml:mi>
+                    <mml:mi mathvariant="normal">e</mml:mi>
+                    <mml:mi mathvariant="normal">a</mml:mi>
+                    <mml:mi mathvariant="normal">k</mml:mi>
+                  </mml:mrow>
+                  <mml:mo>/</mml:mo>
+                  <mml:mrow>
+                    <mml:mi mathvariant="normal">U</mml:mi>
+                    <mml:mi mathvariant="normal">L</mml:mi>
+                    <mml:mi mathvariant="normal">N</mml:mi>
+                  </mml:mrow>
+                </mml:mrow>
+                <mml:mo>)</mml:mo>
+                <mml:mi mathvariant="normal">&#x000a0;</mml:mi>
+                <mml:mo>-</mml:mo>
+                <mml:mi mathvariant="normal">&#x000a0;</mml:mi>
+                <mml:mn>1</mml:mn>
+                <mml:mo>)</mml:mo>
+                <mml:mo>]</mml:mo>
+              </mml:mrow>
+            </mml:mfrac>
+          </mml:math>
+        </disp-formula>
+        <p>Thus, when a normal ALT is 40 U/L, a fall in ALT from 250 U/L to 36 U/L is from 6.3 to 0.9 times ULN and is a 100% decrease (100% times [6.3-0.9]/[6.3-1.0]). A fall in ALT from 250 U/L to 130 U/L is from 6.3 to 3.3 time ULN and represents is a 57% decrease (100% times [5.3-2.3]/[5.3-1.0]).</p>
+        <p>In cases of acute liver failure leading rapidly to death or liver transplantation, the course of ALT elevations may not be available or may be unreliable. In this and many other ways, assessing causality in acute liver failure is very difficult.</p>
+        <p>Only one score is given for the course of illness in the RUCAM system and for patients with hepatocellular injury; the score can range from -2, 0, +1, +2, or +3.</p>
+        <p>For patients with mixed or cholestatic injury, 2 points are given if the Alk P or total serum bilirubin falls by more than 50% from the peak value within 180 days. One point is given if the Alk P or bilirubin decrease, but by less than 50% within 180 days. No points are given in other situations, such as persistence of the abnormalities or recurrent increases. Thus, the possible scores for cholestatic and mixed injury are only 0, +1 or +2, which is a more limited range than for hepatocellular injury (which can range from -2 to +3).</p>
+        <p>Several points need to be made about these calculations which parallel those made for calculations of the RUCAM score for course of illness of patients with hepatocellular injury.</p>
+        <p>Often, the timing of the decrease is not completely clear; thus, the Alk P or total bilirubin may not have been tested very frequently, but is first found to have decreased by 50% when tested shortly after 180 days. In these situations, the slope of the fall over time can be calculated and extrapolated to day 180. However, another approach is to use whatever time frame is available, providing a more conservative estimate. Obviously, adequate follow up is needed to demonstrate whether or not there is a decrease in Alk P or bilirubin. Thus, the RUCAM requires 180 days of follow up for cases of cholestatic injury.</p>
+        <p>The percent falls of Alk P and total bilirubin are calculated based upon the peak values, not the values at the time that the medication was stopped. Thus, in some instances, Alk P and total bilirubin values continue to increase for several days or even weeks after the medication is stopped. In these situations, the peak value obtained is used to calculate the percent decrease.</p>
+        <p>The percent decrease is calculated based on the peak value and the upper limit of normal using the same formula as given for ALT.</p>
+        <p>Thus, a fall from an Alk P of 350 U/L to 100 U/L (where 115 U/L is normal) is a 100% decrease. A decrease from 350 U/L to 150 U/L is an 85% decrease. In the case of total bilirubin, a value of 1.0 mg/dL (or 17.1 &#x003bc;mol/L) should be used as the normal level in the calculation.</p>
+        <p>The scoring for the course of illness can use either the Alk P or total bilirubin level. In situations in which both are substantially raised and both are available, the Alk P should be used. The total bilirubin should be used if the Alk P is normal or minimally elevated (less than twice the upper limit of the normal range), and particularly if total bilirubin is above 10 mg/dL (170 &#x003bc;mol/L).</p>
+        <p>Only one score is given for the course of illness in the RUCAM system, and for patients with a mixed and cholestatic pattern of injury, the scores are limited to 0, 1+ and 2+. Patients with these patterns of injury do not qualify for +3 points in this category, but also are not penalized -2 points for lack of improvement, even after 180 days.</p>
+        <p>Several other difficulties may arise in calculating the course of enzyme elevations. Thus, the ALT or Alk P may have been abnormal before the medication was taken due to an underlying liver disease, in which situation the percent decrease to normal should be replaced by percent decrease to preexisting levels. In addition, the Alk P may be elevated for other reasons (pregnancy, growth, bone disease), in which case the bilirubin should be used or possibly GGT. Finally, the criteria for &#x0201c;&#x0003c;50% decrease&#x0201d; versus &#x0201c;persistence or increase&#x0201d; are not well defined. A compromise would be that a &#x0003c;50% decrease need be at least 20%, and otherwise be considered &#x0201c;persistence&#x0201d;.</p>
+        <p><bold>3. Risk Factors</bold>. Points are given for risk factors also according to the pattern or type of injury. Patients with hepatocellular injury are given 1 point for a history of alcohol use and 1 point if they are 55 years of age or older, for a possible total of 2 points. Patients with cholestatic or mixed injury are given 1 point for a history of alcohol use or pregnancy (not both: only 1 point can be given) and 1 point if they are 55 years of age or older, for a possible total of 2 points. <bold>Alcohol use is not defined in the RUCAM</bold> system. A reasonable approach is to define alcohol use as ingesting at least 20 grams (2 drinks) of ethanol per day for women and 30 grams (3 drinks) per day for men during at least part of the time that the medication was used. Similarly, pregnancy might be defined as being pregnant within 90 days of onset of hepatic injury. Points are not given for minimal alcohol use, or a distant history of excessive alcohol use or previous pregnancies. The age is calculated based upon the age in years at the time of onset of hepatic injury.</p>
+        <p><bold>4. Concomitant Drug(s).</bold> The fourth category of points assigned in the RUCAM system is based upon whether other drugs or potential hepatotoxins were used. For this category, points are given regardless of whether the injury is hepatocellular, mixed or cholestatic. These points are largely negative and reflect the likelihood of contribution of the other agent to the hepatic injury, assessed based upon the time to onset of injury. No points are given if no other medications were taken or if another agent (even a known hepatotoxin) was taken, but with an incompatible time to onset (such as after the onset of injury or continuously for many years in agents associated with a defined latency). A minus one (-1) point is assigned if a drug was given that is not known to cause liver injury, but with a compatible or suggestive time to onset. Minus two (-2) points are assigned if a drug known to cause liver injury was given and the time to onset was compatible or suggestive of its role in injury. Minus three (-3) points are subtracted if the agent has further evidence for causing the injury in the form of a positive rechallenge or a validated biomarker test. The last score is rarely assigned.</p>
+        <p>
+          <bold>Several issues require clarification in assigning points in this category.</bold>
+        </p>
+        <p>An incompatible time to onset is not well defined. For instance, some agents typically have a latency of several years (methotrexate, amiodarone, nitrofurantoin), while others rarely have a latency above a few weeks (sulfonamides, quinolones).</p>
+        <p>Drugs that are capable of causing liver injury are not defined. Thus, many agents are very rare causes of hepatoxicity (penicillin or aminoglycosides for instance), yet case reports of injury from them have been reported. Actually, there are few medications that have never been linked to liver injury.</p>
+        <p>It is not clear what a compatible or suggestive time to onset would be for a concomitant drug with little or no hepatotoxic potential. If one uses the definitions of compatible or suggestive time frames given in category 1, the time to onset could be virtually any duration of therapy (compatible is &#x0003c;5 or &#x0003e;90 days), as long as the injury had its onset with 15 days of stopping (for hepatocellular) or 30 days of stopping therapy (for cholestatic or mixed injury). A reasonable compromise is to use 5 to 90 days as suggestive or compatible for agents not known to cause liver injury and to use the accepted latency of injury for agents known to be hepatotoxins.</p>
+        <p>Finally, the categorization ignores the variation in clinical presentation of different types of hepatotoxicity. Thus, the latency associated with amiodarone and nitrofurantoin is quite different from the sulfonamides, macrolides or penicillins.</p>
+        <p>For these reasons, this score is often based on a subjective interpretation of the likelihood that another agent taken might have caused the injury.</p>
+        <p><bold>5. Search for Non-Drug Causes</bold>. The fifth category in the RUCAM system assigns points for the degree to which other causes of liver diseases have been excluded, the diagnoses being separated into Group I (viral hepatitis A, B and C, biliary obstruction, alcoholic liver disease, and ischemic hepatitis) and Group II (complications of underlying diseases or conditions). For this category also, points are given regardless of whether the injury is hepatocellular, mixed or cholestatic. A total of 2 points are assigned if all causes in Groups I and II are reasonably ruled out; 1 point if all 6 causes in Group I are ruled out, but not those of Group II; 0 points if only 4 or 5 causes in Group I are ruled out; -2 points if fewer than 4 causes in Group I are ruled out; and -3 points if another liver disease appears to be &#x0201c;highly probable&#x0201d;.</p>
+        <p>The diagnostic criteria to rule out other liver diseases are not well defined in the RUCAM form.</p>
+        <p>The following criteria are appropriate for Group I:</p>
+        <list list-type="bullet">
+          <list-item>
+            <p><bold>Acute hepatitis A.</bold> Absence of anti-HAV or IgM anti-HAV</p>
+          </list-item>
+          <list-item>
+            <p><bold>Acute hepatitis B</bold>. Absence of anti-HBc or IgM anti-HBc</p>
+          </list-item>
+          <list-item>
+            <p><bold>Acute hepatitis C.</bold> Absence of HCV RNA or anti-HCV (if tested in convalescence)</p>
+          </list-item>
+          <list-item>
+            <p><bold>Biliary obstruction</bold>. Liver imaging (ultrasound, CT, ERCP, or MR) showing no evidence of biliary dilatation</p>
+          </list-item>
+          <list-item>
+            <p><bold>Alcoholic liver disease</bold>. Absence of history of excessive alcohol use (defined above) and ratio of AST/ALT values of less than 2.0</p>
+          </list-item>
+          <list-item>
+            <p><bold>Ischemic hepatitis</bold>. No history or likelihood of episode of shock, hypoxia or heart failure within 2 weeks of onset of liver injury.</p>
+          </list-item>
+        </list>
+        <p>Excluding other causes under Group II is based largely on clinical presentation and history. However, the other causes are not defined and several other conditions are important to exclude before making the diagnosis of drug induced liver injury. The RUCAM form includes CMV, EBV or herpes virus infections, but these are rare causes of liver injury and need only be considered if there were fever, lymphocytosis, presence of immunodeficiency, or use of immunosuppressive drugs. Other conditions that are perhaps more important to be excluded under Group II include acute exacerbation of chronic hepatitis B, C or D; acute onset or sudden exacerbation of autoimmune hepatitis, primary biliary cirrhosis (PBC) or sclerosing cholangitis (PSC); acute worsening of nonalcoholic fatty liver disease; acute hepatitis E; Wilson disease; sinusoidal obstruction syndrome; graft-vs-host disease; portal or hepatic vein thrombosis; cancerous replacement of the liver; and idiopathic acute liver failure. Many of these diagnoses are difficult if not impossible to exclude except with testing for specific serological markers (ANA for autoimmune hepatitis, AMA for PBC), specialized virological testing (hepatitis E), further follow up and history (cancer, worsening of nonalcoholic fatty liver disease, autoimmune hepatitis), liver biopsy (Wilson disease, sinusoidal obstruction syndrome, graft-vs-host disease, sclerosing cholangitis) or other specialized testing (imaging for hepatic or portal vein thrombosis, MRCP or ERCP for PSC, or serial testing for HBV DNA or HCV RNA to exclude acute exacerbations of chronic hepatitis B or C). Thus, cases of drug induced liver disease are generally given points for this category, unless there is strong suspicion of another diagnosis or ancillary testing was not done.</p>
+        <p><bold>6. Previous Information on Hepatotoxicity of the Drug</bold>. The sixth category in the RUCAM system assigns points based upon known or published information about the agent&#x02019;s potential to cause drug induced liver injury. For this category as well, points are given regardless of whether the injury is hepatocellular, mixed or cholestatic. Two points are given if the agent is stated to be a potential cause of drug induced liver disease in the product label; 1 point if the product is not labeled as such, but cases of liver injury from the agent have been published; and 0 points if the reaction is unknown to occur with the agent. This score is particularly difficult to assign as the product labels of drugs are difficult to find and are not always reliable. Furthermore, only rare drugs have never been mentioned as possibly hepatotoxins in the literature and experts in hepatotoxicity are likely to disagree about the relative hepatotoxicity potential of many medications. Furthermore, many drugs have been associated with occasional, mild and asymptomatic elevations in serum enzymes during treatment, but have not been linked to cases of clinically apparent liver injury. For these reasons, this category is usually given a fairly subjective interpretation.</p>
+        <p><bold>7. Response to Readministration</bold>. Deliberate rechallenge with an agent believed to have caused drug induced liver injury provides convincing evidence for causality, but rarely is done. Inadvertent reexposure occasionally occurs when a patient, without understanding the implications, restarts a medication or another physician, unaware of a previous episode, prescribes the offending agent again. In these situations or with deliberate rechallenge, 3 points are assigned if there is a doubling of the ALT (in hepatocellular cases) or either the Alk P or total bilirubin doubles (in mixed or cholestatic cases) with the drug alone. One point is given if the drug is reintroduced during the acute injury and there is a doubling of the ALT, Alk P or bilirubin. Minus two (-2) points are assigned if there is no increase in ALT, Alk P or bilirubin to above the upper limit of normal with reexposure to the agent after recovery from the initial injury. No points ( 0 ) are given in the absence of rechallenge or reexposure.</p>
+        <p><bold>Interpretation of rechallenge is often difficult</bold>. For instance, would doubling of a value that remains in the normal range (ALT from 15 to 30 U/L, Alk P from 45 to 100 U/L, or bilirubin from 0.4 to 0.8 mg/dL) be considered a positive rechallenge? Furthermore, the time of assessment after challenge, the duration and dose of rechallenge, and the frequency and timing of testing may be important and are not defined in the RUCAM system. Nevertheless, this category is usually not difficult to assign, because rechallenge is uncommon and the results of rechallenge are often clear.</p>
+        <p>The RUCAM is often tested against other means of assessing causality, but without strict adherence to consistent criteria on how it should be completed; it is not helpful to analyze intra- or inter-observer variation.</p>
+      </sec>
+      <sec id="rucam.Selected_References">
+        <title>Selected References</title>
+        <ref-list id="rucam.Selected_References.reflist0">
+          <ref id="rucam.REF.danan.1993.1323">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Danan</surname>
+                  <given-names>G</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Benichou</surname>
+                  <given-names>C</given-names>
+                </name>
+              </person-group>
+              <article-title>Causality assessment of adverse reactions to drugs-I. A novel method based on the conclusions of International Consensus Meeting: application to drug-induced liver injuries.</article-title>
+              <source>J Clin Epidemiol</source>
+              <year>1993</year>
+              <volume>46</volume>
+              <fpage>1323</fpage>
+              <lpage>30</lpage>
+              <annotation>
+                <p><italic toggle="yes">(Description of the RUCAM System, based upon the results of Consensus Meetings of experts organized by Roussel Uclaf Pharmaceuticals on adverse events, liver events being representative; experts included Drs. Benhamou, Bircher, Dana, Maddrey, Neuberger, Orlani, Tygstrup and Zimmerman. R values were used to define cholestatic, hepatocellular and mixed. Time to onset given only 1+ or 2+, course given range of -3 to +3, risk factors 2 points [age, alcohol, pregnancy], other causes to include drugs and other diseases, previous knowledge of toxicity 0, 1+ or 2+, and rechallenge result -3 to +3. Discrepancy exists between Figures 1 and 2</italic>
+<italic toggle="yes">regarding criterion 1 [0 to 3+ vs 1+ or 2+]. Using RUCAM, scores usually agreed, only 16% were more than 1 point different)</italic><italic toggle="yes">.</italic></p>
+              </annotation>
+              <pub-id pub-id-type="pmid">8229110</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="rucam.REF.benichou.1993.1331">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Benichou</surname>
+                  <given-names>C</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Danan</surname>
+                  <given-names>G</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Flahault</surname>
+                  <given-names>A</given-names>
+                </name>
+              </person-group>
+              <article-title>Causality assessment of adverse reactions to drugs-II. An original model for validation of drug causality assessment methods: case reports with positive rechallenge.</article-title>
+              <source>J Clin Epidemiol</source>
+              <year>1993</year>
+              <volume>46</volume>
+              <fpage>1331</fpage>
+              <lpage>6</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Results of using RUCAM on 77 case reports, single agent in 49; scores ranged from -5 to +13 [potential -5 to +14], introduced the terms &#x0201c;excluded&#x0201d; for scores of &#x0003c;0, &#x0201c;unlikely&#x0201d; for 1 to 2, &#x0201c;possible&#x0201d; for 3 to 5, &#x0201c;probable&#x0201d; for 6 to 8, and &#x0201c;highly probable&#x0201d; for &#x0003e;8).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">8229111</pub-id>
+            </element-citation>
+          </ref>
+        </ref-list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

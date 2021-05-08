@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="ViekiraPak" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">ViekiraPak</book-part-id>
+      <title-group>
+        <title>Viekira Pak</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>10</day>
+          <month>1</month>
+          <year>2018</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Tetrabenazine" document-type="chapter">Vesicular Monoamine Transporter 2 (VMAT2) Inhibitors</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Vigabatrin" document-type="chapter">Vigabatrin</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="ViekiraPak.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="ViekiraPak.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Viekira Pak is a combination of oral antiviral agents that is used to treat chronic hepatitis C, genotype 1. This combination has been associated with a low rate of serum enzyme elevations during therapy, and has been reported to cause rare cases of clinically apparent liver injury with jaundice and may result in hepatic decompensation in some patients with preexisting cirrhosis.</p>
+        </sec>
+        <sec id="ViekiraPak.Background">
+          <title>Background</title>
+          <p>The hepatitis C virus is a small RNA virus that is a major cause of chronic hepatitis, cirrhosis and hepatocellular carcinoma in the United States as well as worldwide. Various approaches to antiviral therapy of chronic hepatitis C have been developed, starting in the 1980s with interferon alfa which was replaced in the 1990s by long acting forms of interferon (peginterferon), to which was added the oral nucleoside analogue, ribavirin. Between 2010 and 2015, several potent oral, direct acting anti-HCV agents were developed and combinations of these found to have marked activity against the virus, allowing for highly effective and well tolerated therapy without use of interferon and with treatment courses of 8, 12 or 24 weeks only.</p>
+          <p>Viekira Pak (vee kee' rah pak) is the commercial name for a combination of oral, direct acting antiviral agents used to treat chronic hepatitis C associated with HCV genotype 1. The hepatitis C virus (HCV) encodes several nonstructural (NS) polypeptides that are essential for its replication: NS3/4 that has protease and helicase activities, NS5A that is a membrane bound polypeptide that is essential in the creation of the replicative complex, and NS5B an HCV specific, RNA-dependent, RNA polymerase. These polypeptides are effective targets for antiviral therapy of hepatitis C. Viekira Pak is a combination paritaprevir (par&#x02019; i ta&#x02019; pre veer: formerly ABT-450) which is a potent HCV NS3/4 protease inhibitor, ombitasvir (om bit&#x02019; as veer: ABT-267) an NS5A replication complex inhibitor, and dasabuvir (da sa&#x02019; bue veer: ABT-333) a nonnucleoside HCV RNA polymerase [NS5B] inhibitor. Paritaprevir is metabolized by CYP 3A4 and is typically given in combination with low doses of ritonavir, an inhibitor of CYP 3A4, to achieve higher and more prolonged drug levels which allow for once daily dosing. In cell culture and in humans infected with HCV, each of the agents has potent activity against HCV, but development of antiviral resistance rapidly arises with continued exposure. The combination of several direct acting agents with different molecular targets allows for a sustained viral suppression while avoiding antiviral resistance. The combination of these three agents (and ritonavir) with and without ribavirin (an antiviral nucleoside analogue with activity against HCV) has been shown to be very effective in suppressing HCV replication in patients infected with HCV genotype 1, and to result in a sustained virological response (SVR) and eradication of HCV in more than 90% of patients when given for 12 weeks or more. Viekira Pak was approved for use in the United States in 2015, the second all-oral antiviral combination to receive approval for chronic hepatitis C. It is available as two tablets, one being the fixed combination of ombitasvir (12.5 mg), paritaprevir (75 mg) and ritonavir (100 mg) which is given once daily, and the other being dasabuvir (250 mg) which is given twice daily with meals. Ribavirin (if a part of the combination therapy as is recommended for genotype 1a and for patients with cirrhosis) is available in tablets of 200 mg and is given twice daily for a total dose of 1,000 mg (if body weight is &#x0003c;75 kg) or 1,200 mg (if body weight &#x02265;75 kg). Current indications for Viekira Pak (the combination of dasabuvir, ombitasvir and paritaprevir with ritonavir: D-O-P/r) are limited to patients with HCV genotype 1. The combination of just ombitasvir and paritaprevir with ritonavir (O-P/r) is also available under the commercial name Technive and is approved for use in combination with ribavirin in patients with chronic hepatitis C, genotype 4, without cirrhosis. Side effects of Viekira Pak and Technive are uncommon, but are generally mild and can include nausea, itching, rash, cough and insomnia. When given with ribavirin, side effects are greater, but are largely due to the hemolysis, nasal congestion and skin reactions that are common with that agent.</p>
+        </sec>
+        <sec id="ViekiraPak.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>In large randomized controlled trials, serum aminotransferase elevations more than 5 times the upper limit of normal (ULN) occurred in 1% to 2% of Viekira Pak treated patients. Interestingly, this rate was lower than occurred with placebo therapy (3% to 7%). The elevations were generally asymptomatic and short lived, resolving with or without dose modification and requiring drug discontinuation in approximately 1% of patients. Despite the frequency of serum enzyme elevations during therapy, clinically apparent liver injury was rarely reported in preregistration studies. However, since the general availability of Viekira Pak in the United States and during years of clinical use elsewhere, occasional instances of marked serum aminotransferase elevations with symptoms and mild jaundice have been reported, although not described in the published literature. Furthermore, some patients with chronic hepatitis C and advanced cirrhosis have developed sudden hepatic decompensation during therapy with D-O-P/r. Similar episodes have been described in patients receiving other oral antiviral combinations such as sofosbuvir with daclatasvir, ledipasvir or simeprevir. Thus, this phenomenon may be unrelated to a specific agent, but rather common to all potent antiviral therapies for hepatitis C and perhaps is a paradoxical response to sudden clearance of HCV. Alternatively, these episodes may be spontaneous, coincidental and unrelated to the antiviral therapy. Trials of these therapies in patients with cirrhosis have not been placebo controlled so that the rate of spontaneous hepatic decompensation in patients with cirrhosis due to hepatitis C is not well defined. Whatever the reason, the occurrence of decompensation in up to 10% of patients with cirrhosis undergoing potent antiviral therapy makes prospective monitoring advisable and prompt discontinuation of treatment if evidence of hepatic failure supervenes.</p>
+          <p>Thus, the five antiviral compounds included in Viekira Pak regimens (dasabuvir, ombitasvir, paritaprevir, ritonavir and ribavirin) have been linked to instances of sudden ALT elevations during therapy, but uncommonly to clinically apparent liver injury. In patients with preexisting cirrhosis, antiviral therapy with Viekira Pak has been linked to episodes of lactic acidosis and hepatic decompensation. The cause of these sudden, severe adverse events is unknown but they are usually severe and life threatening, requiring prompt discontinuation of treatment, intensive care management and consideration of emergency liver transplantation.</p>
+          <p>Likelihood score: C (probable cause of liver injury arising in patients with pre-existing cirrhosis).</p>
+        </sec>
+        <sec id="ViekiraPak.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The mechanism by which Viekira Pak might cause liver injury is not known. The multiple antiviral agents in this combination regimen are metabolized in the liver largely via the cytochrome P450 system, and liver injury may be due to production of a toxic or immunogenic metabolite. Viekira Pak is also susceptible to multiple drug-drug interactions with strong inducers or inhibitors of CYP 3A4, and careful attention to concomitant medications should be a part of using this regimen).</p>
+        </sec>
+        <sec id="ViekiraPak.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>While therapy with Viekira Pak can be associated with mild-to-moderate serum aminotransferase elevations, it has been only rarely linked to cases of clinically apparent liver injury. Nevertheless, monitoring of serum aminotransferase levels monthly during the first 6 months and every 3 months thereafter is recommended. Patients with preexisting cirrhosis should be monitored more closely, particularly during the first month of treatment. Viekira Pak should be permanently discontinued if jaundice or symptoms of liver injury arise or if serum ALT or AST levels rise and remain above 5 times the ULN.</p>
+          <p>Drug Class: <related-object source-id="livertox" document-id="AntiviralAgents">Antiviral Agents</related-object>, <related-object source-id="livertox" document-id="HepatitisCDrugs">Hepatitis C Agents</related-object></p>
+        </sec>
+      </sec>
+      <sec id="ViekiraPak.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <boxed-text position="anchor" id="ViekiraPak.BPI" orientation="portrait">
+          <p>
+            <bold> REPRESENTATIVE TRADE NAMES</bold>
+          </p>
+          <p>Dasabuvir, Ombitasvir, Paritaprevir and Ritonavir &#x02013; Viekira Pak&#x000ae;</p>
+          <p>Ombitasvir, Paritaprevir and Ritonavir &#x02013; Technive&#x000ae;</p>
+          <p>
+            <bold>DRUG CLASS</bold>
+          </p>
+          <p>Hepatitis C Agents</p>
+          <p>
+            <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Viekira%20Pak">COMPLETE LABELING</ext-link>
+          </p>
+          <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+        </boxed-text>
+      </sec>
+      <sec id="ViekiraPak.CHEMICAL_FORMULAS_AND_STRUCTU">
+        <title>CHEMICAL FORMULAS AND STRUCTURES</title>
+        <table-wrap id="ViekiraPak.T1" position="anchor" orientation="portrait">
+          <table>
+            <thead>
+              <tr>
+                <th id="hd_h_ViekiraPak.T1_1_1_1_1" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_ViekiraPak.T1_1_1_1_2" rowspan="1" colspan="1">CAS REGISTRY NUMBER</th>
+                <th id="hd_h_ViekiraPak.T1_1_1_1_3" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_ViekiraPak.T1_1_1_1_4" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_ViekiraPak.T1_1_1_1_1" rowspan="1" colspan="1">Dasabuvir</td>
+                <td headers="hd_h_ViekiraPak.T1_1_1_1_2" rowspan="1" colspan="1">
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://172650756">1132935-63-7</ext-link>
+                </td>
+                <td headers="hd_h_ViekiraPak.T1_1_1_1_3" rowspan="1" colspan="1">C26-H27-N3-O5-S</td>
+                <td headers="hd_h_ViekiraPak.T1_1_1_1_4" rowspan="1" colspan="1">
+                  <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Dasabuvir_structure.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait">
+                    <alt-text>Dasabuvir structure</alt-text>
+                  </graphic>
+                </td>
+              </tr>
+              <tr>
+                <td headers="hd_h_ViekiraPak.T1_1_1_1_1" rowspan="1" colspan="1">Ombitasvir</td>
+                <td headers="hd_h_ViekiraPak.T1_1_1_1_2" rowspan="1" colspan="1">
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://172650833">1258226-87-7</ext-link>
+                </td>
+                <td headers="hd_h_ViekiraPak.T1_1_1_1_3" rowspan="1" colspan="1">C50-H67-N7-O8</td>
+                <td headers="hd_h_ViekiraPak.T1_1_1_1_4" rowspan="1" colspan="1">
+                  <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Ombitasvir_structure.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait">
+                    <alt-text>Ombitasvir structure</alt-text>
+                  </graphic>
+                </td>
+              </tr>
+              <tr>
+                <td headers="hd_h_ViekiraPak.T1_1_1_1_1" rowspan="1" colspan="1">Paritaprevir</td>
+                <td headers="hd_h_ViekiraPak.T1_1_1_1_2" rowspan="1" colspan="1">
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://175427694">1216941-48-8</ext-link>
+                </td>
+                <td headers="hd_h_ViekiraPak.T1_1_1_1_3" rowspan="1" colspan="1">C40-H43-N7-O7-S</td>
+                <td headers="hd_h_ViekiraPak.T1_1_1_1_4" rowspan="1" colspan="1">
+                  <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Paritaprevir_structure.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait">
+                    <alt-text>Paritaprevir structure</alt-text>
+                  </graphic>
+                </td>
+              </tr>
+              <tr>
+                <td headers="hd_h_ViekiraPak.T1_1_1_1_1" rowspan="1" colspan="1">Ritonavir</td>
+                <td headers="hd_h_ViekiraPak.T1_1_1_1_2" rowspan="1" colspan="1">
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135017420">155213-67-5</ext-link>
+                </td>
+                <td headers="hd_h_ViekiraPak.T1_1_1_1_3" rowspan="1" colspan="1">C37-H48-N6-O5C37-H48-N6-O5-S2-S2</td>
+                <td headers="hd_h_ViekiraPak.T1_1_1_1_4" rowspan="1" colspan="1">
+                  <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Ritonavir_structure2.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait">
+                    <alt-text>Ritonavir structure</alt-text>
+                  </graphic>
+                </td>
+              </tr>
+              <tr>
+                <td headers="hd_h_ViekiraPak.T1_1_1_1_1" rowspan="1" colspan="1">Ribavirin</td>
+                <td headers="hd_h_ViekiraPak.T1_1_1_1_2" rowspan="1" colspan="1">
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135000384">36791-04-5</ext-link>
+                </td>
+                <td headers="hd_h_ViekiraPak.T1_1_1_1_3" rowspan="1" colspan="1">C8-H12-N4-O5</td>
+                <td headers="hd_h_ViekiraPak.T1_1_1_1_4" rowspan="1" colspan="1">
+                  <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Ribavirin_Structure.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait">
+                    <alt-text>ibavirin Chemical Structure</alt-text>
+                  </graphic>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="ViekiraPak.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 10 January 2018</p>
+        <p>[Abbreviation used: SVR, sustained virological response.]</p>
+        <ref-list id="ViekiraPak.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="ViekiraPak.R1">
+            <mixed-citation publication-type="other">Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013.<annotation><p><italic toggle="yes">(Multi-authored textbook of hepatotoxicity published in 2013 does not discuss oral, direct acting antiviral agents used to treat hepatitis C).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="ViekiraPak.R2">
+            <mixed-citation publication-type="journal">Poordad F, Lawitz E, Kowdley KV, Cohen DE, Podsadecki T, Siggelkow S, Heckaman M, et al. Exploratory study of oral combination antiviral therapy for hepatitis C. N Engl J Med 2013; 368: 45-53. <annotation><p><italic toggle="yes">(Among 50 patients with chronic hepatitis C, genotype 1, treated with dasabuvir, paritaprevir/ritonavir and ribavirin in varying doses for 12 weeks, the sustained virologic response [SVR] rate was 72%; 1 patient rapidly developed ALT levels above 5 times ULN [308 U/L] without jaundice or symptoms and therapy was stopped at 2 weeks).</italic></p></annotation><pub-id pub-id-type="pmid">23281975</pub-id></mixed-citation>
+          </ref>
+          <ref id="ViekiraPak.R3">
+            <mixed-citation publication-type="journal">DeGoey DA, Randolph JT, Liu D, Pratt J, Hutchins C, Donner P, Krueger AC, et al. Discovery of ABT-267, a pan-genotypic inhibitor of HCV NS5A. J Med Chem 2014; 57: 2047-57. <annotation><p><italic toggle="yes">(Description of identification of an N-phenylpyrrolidine based inhibitor of NS5A, compound 38 [ombitasvir] in screening of HCV replicon systems verified for activity against HCV by phase 1, 3 day studies in 3 patients with chronic hepatitis C, genotype 1).</italic></p></annotation><pub-id pub-id-type="pmid">24400777</pub-id></mixed-citation>
+          </ref>
+          <ref id="ViekiraPak.R4">
+            <mixed-citation publication-type="journal">Kowdley KV, Lawitz E, Poordad F, Cohen DE, Nelson DR, Zeuzem S, Everson GT, et al. Phase 2b trial of interferon-free therapy for hepatitis C virus genotype 1. N Engl J Med 2014; 370: 222-32. <annotation><p><italic toggle="yes">(Among 571 noncirrhotic patients with chronic hepatitis C, genotype 1, treated with 14 different regimens of D-O-P/r with ribavirin for 8, 12 or 24 weeks, SVR rates ranged from 83% to 100%; side effects included ALT elevations above 5 times ULN [peak 408 U/L] in 5 patients [1%], but all resolved without dose modifications and no patient developed clinically apparent liver injury).</italic></p></annotation><pub-id pub-id-type="pmid">24428468</pub-id></mixed-citation>
+          </ref>
+          <ref id="ViekiraPak.R5">
+            <mixed-citation publication-type="journal">Feld JJ, Kowdley KV, Coakley E, Sigal S, Nelson DR, Crawford D, Weiland O, et al. Treatment of HCV with ABT-450/r-ombitasvir and dasabuvir with ribavirin. N Engl J Med 2014; 370: 1594-603. <annotation><p><italic toggle="yes">(Among 631 patients with noncirrhotic chronic hepatitis C, genotype 1, treated with Viekira Pak [D-O-P/r]) with ribavirin vs all placebos for 12 weeks, SVR rates were 96% vs 0%, and side effects that were more frequent with antiviral therapy were nausea, pruritus, insomnia, diarrhea and weakness, while rates of ALT elevations above 5 times ULN were less common(0.9% vs 4.4%), and no patient developed clinically apparent acute liver injury).</italic></p></annotation><pub-id pub-id-type="pmid">24720703</pub-id></mixed-citation>
+          </ref>
+          <ref id="ViekiraPak.R6">
+            <mixed-citation publication-type="journal">Zeuzem S, Jacobson IM, Baykal T, Marinho RT, Poordad F, Bourli&#x000e8;re M, Sulkowski MS, et al. Retreatment of HCV with ABT-450/r-ombitasvir and dasabuvir with ribavirin. N Engl J Med 2014; 370: 1604-14. <annotation><p><italic toggle="yes">(Among 394 previously treated, noncirrhotic patients with chronic hepatitis C, genotype 1, treated with Viekira Pak [D-O-P/r] with ribavirin vs placebos for 12 weeks, the SVR rates were 96% vs 0%; adverse events more frequent with D-O-P/r were fatigue, weakness, insomnia, pruritus, cough and anemia; ALT elevations above 5 times ULN occurred in 5 patients [1.7%] on therapy, one of whom stopped therapy early vs 3 [3.1%] on placebo; no patient developed clinically apparent liver injury).</italic></p></annotation><pub-id pub-id-type="pmid">24720679</pub-id></mixed-citation>
+          </ref>
+          <ref id="ViekiraPak.R7">
+            <mixed-citation publication-type="journal">Ferenci P, Bernstein D, Lalezari J, Cohen D, Luo Y, Cooper C, Tam E, et al.; PEARL-III Study; PEARL-IV Study. ABT-450/r-ombitasvir and dasabuvir with or without ribavirin for HCV. N Engl J Med 2014; 370: 1983-92. <annotation><p><italic toggle="yes">(Among 724 noncirrhotic patients with chronic hepatitis C treated with Viekira Pak [D-O-P/r] with vs without ribavirin for 12 weeks, SVR rates were 99% vs 99% for genotype 1b and 97% vs 90% for genotype 1a; common adverse events were fatigue, headache and nausea while ALT elevations above 5 times ULN occurred in only 4 patients [0.5%]).</italic></p></annotation><pub-id pub-id-type="pmid">24795200</pub-id></mixed-citation>
+          </ref>
+          <ref id="ViekiraPak.R8">
+            <mixed-citation publication-type="journal">Poordad F, Hezode C, Trinh R, Kowdley KV, Zeuzem S, Agarwal K, Shiffman ML, et al. ABT-450/r-ombitasvir and dasabuvir with ribavirin for hepatitis C with cirrhosis. N Engl J Med 2014; 370: 1973-82. <annotation><p><italic toggle="yes">(Among 380 cirrhotic patients with chronic hepatitis C, genotype 1, treated with Viekira Pak [D-O-P/r] with ribavirin for 12 vs 24 weeks, SVR rates were 92% vs 96%; ALT elevations above 5 times ULN occurred in 6 patients [1.6%], one of whom had &#x0201c;acute hepatitis&#x0201d; and discontinued treatment early).</italic></p></annotation><pub-id pub-id-type="pmid">24725237</pub-id></mixed-citation>
+          </ref>
+          <ref id="ViekiraPak.R9">
+            <mixed-citation publication-type="journal">Andreone P, Colombo MG, Enejosa JV, Koksal I, Ferenci P, Maieron A, M&#x000fc;llhaupt B, et al. ABT-450, ritonavir, ombitasvir, and dasabuvir achieves 97% and 100% sustained virologic response with or without ribavirin in treatment-experienced patients with HCV genotype 1b infection. Gastroenterology 2014; 147: 359-365. <annotation><p><italic toggle="yes">(Among 179 noncirrhotic, previously treated patients with chronic hepatitis C, genotype 1b, treated with Viekira Pak [D-O-P/r] with vs without ribavirin for 12 weeks, SVR rates were 97% vs 100%; significant bilirubin elevations occurred only in those on ribavirin and no patient developed ALT elevations above 5 times ULN).</italic></p></annotation><pub-id pub-id-type="pmid">24818763</pub-id></mixed-citation>
+          </ref>
+          <ref id="ViekiraPak.R10">
+            <mixed-citation publication-type="journal">Kwo PY, Mantry PS, Coakley E, Te HS, Vargas HE, Brown R Jr, Gordon F, et al. An interferon-free antiviral regimen for HCV after liver transplantation. N Engl J Med 2014; 371: 2375-82. <annotation><p><italic toggle="yes">(Among 34 patients with recurrent HCV after liver transplantation who were treated with Viekira Pak [D-O-P/r] and ribavirin for 24 weeks, 97% had an SVR and common adverse events were fatigue, headache, cough and need for cyclosporine dose modification; no patient developed ALT elevations above 5 times ULN).</italic></p></annotation><pub-id pub-id-type="pmid">25386767</pub-id></mixed-citation>
+          </ref>
+          <ref id="ViekiraPak.R11">
+            <mixed-citation publication-type="journal">Liang TJ, Ghany MG. Therapy of hepatitis C--back to the future. N Engl J Med 2014; 370: 2043-7. <annotation><p><italic toggle="yes">(Commentary on the evolving status of therapy of chronic hepatitis C from poorly effective and tolerated interferon based treatments to very effective and well tolerated all-oral regimens that yield response rates of 85% to 100% with 12 to 24 weeks of treatment).</italic></p></annotation><pub-id pub-id-type="pmid">24795199</pub-id></mixed-citation>
+          </ref>
+          <ref id="ViekiraPak.R12">
+            <mixed-citation publication-type="journal">Lawitz E, Sullivan G, Rodriguez-Torres M, Bennett M, Poordad F, Kapoor M, Badri P, et al. Exploratory trial of ombitasvir and ABT-450/r with or without ribavirin for HCV genotype 1, 2, and 3 infection. J Infect 2015; 70: 197-205. <annotation><p><italic toggle="yes">(Among 61 previously untreated, noncirrhotic patients with chronic hepatitis C treated with ombitasvir and paritanavir with ritonavir [O-P/r] with or without ribavirin, SVR rates varied by genotype; 2 patients had ALT elevations above 5 times ULN, but were without symptoms or jaundice, and abnormalities resolved upon stopping).</italic></p></annotation><pub-id pub-id-type="pmid">25246359</pub-id></mixed-citation>
+          </ref>
+          <ref id="ViekiraPak.R13">
+            <mixed-citation publication-type="journal">H&#x000e9;zode C, Asselah T, Reddy KR, Hassanein T, Berenguer M, Fleischer-Stepniewska K, Marcellin P, et al. Ombitasvir plus paritaprevir plus ritonavir with or without ribavirin in treatment-naive and treatment-experienced patients with genotype 4 chronic hepatitis C virus infection(PEARL-I): a randomised, open-label trial. Lancet 2015; 385 (9986): 2502-9. <annotation><p><italic toggle="yes">(Among 135 patients with chronic hepatitis C, genotype 4, treated with Technive [O-P/r] with vs without ribavirin for 12 weeks, SVR rates were 100% vs 90%, and no patient developed ALT elevations above 5 times ULN or clinically apparent liver injury).</italic></p></annotation><pub-id pub-id-type="pmid">25837829</pub-id></mixed-citation>
+          </ref>
+          <ref id="ViekiraPak.R14">
+            <mixed-citation publication-type="journal">Sulkowski MS, Eron JJ, Wyles D, Trinh R, Lalezari J, Wang C, Slim J, et al. Ombitasvir, paritaprevir co-dosed with ritonavir, dasabuvir, and ribavirin for hepatitis C in patients co-infected with HIV-1: a randomized trial. JAMA 2015; 313: 1223-31. <annotation><p><italic toggle="yes">(Among 63 patients with chronic hepatitis C, genotype 1, and HIV coinfection who were treated with Viekira Pak [D-O-P/r], SVR rates were 94% [12 weeks] and 91% [24 weeks] and no patient had an ALT elevation above 5 times ULN).</italic></p></annotation><pub-id pub-id-type="pmid">25706092</pub-id></mixed-citation>
+          </ref>
+          <ref id="ViekiraPak.R15">
+            <mixed-citation publication-type="journal">Kalafateli M, Dusheiko G, Manousou P. Clinical decompensation after achieving SVR with sofosbuvir, daclatasvir and ribavirin in a patient with recurrent HCV post-liver transplant. J Gastrointestin Liver Dis 2015; 24: 257-8. <annotation><p><italic toggle="yes">(33 year old male with hemophilia and chronic hepatitis C, genotype 3, underwent liver transplantation and had recurrence of HCV posttransplant, subsequently failing to respond to several interferon based courses of therapy, eventually responding to sofosbuvir, daclatasvir and ribavirin, but then developing hepatic decompensation 2 months after achieving an SVR).</italic></p></annotation><pub-id pub-id-type="pmid">26114189</pub-id></mixed-citation>
+          </ref>
+          <ref id="ViekiraPak.R16">
+            <mixed-citation publication-type="journal">A 4-drug combination (Viekira Pak) for hepatitis C. Med Lett Drugs Ther 2015; 57 (1461): 15-7. <annotation><p><italic toggle="yes">(Concise summary of clinical efficacy, side effects, drug-drug interactions and costs of Viekira Pak [D-O-P/r] for chronic hepatitis C, genotype 1, shortly after its approval in the US mentions that ALT elevations occur in 1-4% of patients and may require early discontinuation, for which reason ALT monitoring is recommended for the first 4 weeks).</italic></p></annotation><pub-id pub-id-type="pmid">25629810</pub-id></mixed-citation>
+          </ref>
+          <ref id="ViekiraPak.R17">
+            <mixed-citation publication-type="journal">Lalezari J, Sullivan JG, Varunok P, Galen E, Kowdley KV, Rustgi V, Aguilar H, et al. Ombitasvir/ paritaprevir/r and dasabuvir plus ribavirin in HCV genotype 1-infected patients on methadone or buprenorphine. J Hepatol 2015; 63: 364-9. <annotation><p><italic toggle="yes">(Among 38 noncirrhotic patients with chronic hepatitis C, genotype 1, on opioid replacement therapy who were treated with Viekira Pak [D-O-P/r] with ribavirin for 12 weeks, the SVR rate was 97% and no patient had a serious liver related adverse event or stopped therapy because of ALT elevations; ALT results not provided).</italic></p></annotation><pub-id pub-id-type="pmid">25839406</pub-id></mixed-citation>
+          </ref>
+          <ref id="ViekiraPak.R18">
+            <mixed-citation publication-type="journal">Chalasani N, Bonkovsky HL, Fontana R, Lee W, Stolz A, Talwalkar J, Reddy KR, et al.; United States Drug Induced Liver Injury Network. Features and outcomes of 899 patients with drug-induced liver injury: The DILIN Prospective Study. Gastroenterology 2015; 148: 1340-1352. <annotation><p><italic toggle="yes">(Among 899 cases of drug induced liver injury enrolled in a US prospective study between 2004 and 2013, 12 were attributed to antiviral agents, but all were antiretroviral agents and none were oral direct acting agents used to treat chronic hepatitis C).</italic></p></annotation><pub-id pub-id-type="pmid">25754159</pub-id></mixed-citation>
+          </ref>
+          <ref id="ViekiraPak.R19">
+            <mixed-citation publication-type="journal">Bailly F, Pradat P, Virlogeux V, Zoulim F. Antiviral therapy in patients with hepatitis C virus-induced cirrhosis. Dig Dis 2015; 33: 613-23. <annotation><p><italic toggle="yes">(Review of the status of antiviral therapy of chronic hepatitis C with cirrhosis summarizing the high rate of adverse events, including hepatic decompensation and death with peginterferon based regimens combined with boceprevir or telaprevir, and recommending the use of the more effective and better tolerated all-oral regimens).</italic></p></annotation><pub-id pub-id-type="pmid">26159282</pub-id></mixed-citation>
+          </ref>
+          <ref id="ViekiraPak.R20">
+            <mixed-citation publication-type="journal">Ferenci P, Kozbial K, Mandorfer M, Hofer H. HCV targeting of patients with cirrhosis. J Hepatol 2015; 63: 1015-22. <annotation><p><italic toggle="yes">(Review of the status of antiviral therapy of chronic hepatitis C with cirrhosis, suggests that genotype 1 infected patients should receive an all-oral regimen such as sofosbuvir with ledipasvir or daclatasvir or the triple combination of dasabuvir with ombitasvir and paritaprevir/ritonavir [D-O-P/r], the major issues being duration of therapy and the role of ribavirin).</italic></p></annotation><pub-id pub-id-type="pmid">26100497</pub-id></mixed-citation>
+          </ref>
+          <ref id="ViekiraPak.R21">
+            <mixed-citation publication-type="journal">Feld JJ, Moreno C, Trinh R, Tam E, Bourgeois S, Horsmans Y, Elkhashab M, et al. Sustained virologic response of 100% in HCV genotype 1b patients with cirrhosis receiving ombitasvir/paritaprevir/r and dasabuvir for 12 weeks. J Hepatol 2015 Oct 14. [Epub ahead of print] <annotation><p><italic toggle="yes">(Among 60 patients with chronic hepatitis C, genotype 1b, and cirrhosis treated with D-O-P/r for 12 weeks, all achieved an SVR and &#x0201c;laboratory abnormalities were infrequently observed and not clinically significant&#x0201d;; only one patient had a severe adverse event(hypotension and syncope) and 1 had an ALT elevation above 5 times ULN, but on one occasion only, resolving without dose modification).</italic></p></annotation><pub-id pub-id-type="pmid">26476290</pub-id></mixed-citation>
+          </ref>
+          <ref id="ViekiraPak.R22">
+            <mixed-citation publication-type="journal">Klibanov OM, Gale SE, Santevecchi B. Ombitasvir/paritaprevir/ritonavir and dasabuvir tablets for hepatitis C virus genotype 1 infection. Ann Pharmacother 2015; 49: 566-81. <annotation><p><italic toggle="yes">(Review of the pharmacology, efficacy and safety of D-O-P/r with [genotype 1a] or without [genotype 1b] ribavirin in patients with chronic hepatitis C summarizes adverse event profile in a pooled analysis of 2887 patients, and mentions that ALT elevations are rare [&#x02264;1.2%] and that isolated bilirubin elevations occur [&#x02264;4.5%], but without concurrent ALT elevations; no mention of hepatic decompensation).</italic></p></annotation><pub-id pub-id-type="pmid">25680759</pub-id></mixed-citation>
+          </ref>
+          <ref id="ViekiraPak.R23">
+            <mixed-citation publication-type="journal">European Association for Study of Liver. EASL recommendations on treatment of hepatitis C 2015. J Hepatol 2015; 63: 199-236. <annotation><p><italic toggle="yes">(Guidelines for the antiviral therapy of chronic hepatitis C from the European liver disease research and academic society).</italic></p></annotation><pub-id pub-id-type="pmid">25911336</pub-id></mixed-citation>
+          </ref>
+          <ref id="ViekiraPak.R24">
+            <mixed-citation publication-type="journal">AASLD/IDSA HCV Guidance Panel. Hepatitis C guidance: AASLD-IDSA recommendations for testing, managing, and treating adults infected with hepatitis C virus. Hepatology 2015; 62: 932-54. <annotation><p><italic toggle="yes">(Guidelines for the antiviral therapy of chronic hepatitis C from the US liver and infectious diseases research and academic societies).</italic></p></annotation><pub-id pub-id-type="pmid">26111063</pub-id></mixed-citation>
+          </ref>
+          <ref id="ViekiraPak.R25">
+            <mixed-citation publication-type="other">http://www.fda.gov/Safety/MedWatch/SafetyInformation/SafetyAlertsforHuman MedicalProducts/ucm468757.htm.<annotation><p><italic toggle="yes">(FDA warning letter concerning the risk of liver injury when using D-O-P/r or O-P/r to treat chronic hepatitis C, particularly in the presence of preexisting cirrhosis).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="ViekiraPak.R26">
+            <mixed-citation publication-type="journal">Dyson JK, Hutchinson J, Harrison L, Rotimi O, Tiniakos D, Foster GR, Aldersley MA, et al. Liver toxicity associated with sofosbuvir, an NS5A inhibitor and ribavirin use. J Hepatol 2016; 64: 753-4. <annotation><p><italic toggle="yes">(74 year old man and 36 year old woman with HCV related cirrhosis developed worsening hepatic decompensation within a few weeks of starting sofosbuvir, an NS5A inhibitor and ribavirin [peak bilirubin 23.4 and 30.5 mg/dL, ALT 65 and 96 U/L, Alk P 202 and 398 U/L], resulting in death in one and emergency liver transplant in the other).</italic></p></annotation><pub-id pub-id-type="pmid">26325535</pub-id></mixed-citation>
+          </ref>
+          <ref id="ViekiraPak.R27">
+            <mixed-citation publication-type="journal">Marchan-Lopez A, Dominguez-Dominguez L, Kessler-Saiz P, Jarrin-Estupi&#x000f1;an ME. Liver failure in human immunodeficiency virus - hepatitis C virus coinfection treated with sofosbuvir, ledipasvir and antiretroviral therapy. J Hepatol 2016; 64: 752-3. <annotation><p><italic toggle="yes">(Letter in response to Dyson [2016]: 49 year old man with chronic hepatitis C, cirrhosis [Child-Pugh class B] and HIV coinfection developed worsening hepatic decompensation 1 to 2 months after starting sofosbuvir and ledipasvir that worsened for two weeks after stopping [peak bilirubin 46.9 mg/dL, INR 3.17], and then resolved; he later tolerated reinitiation of antiretroviral drugs).</italic></p></annotation><pub-id pub-id-type="pmid">26682727</pub-id></mixed-citation>
+          </ref>
+          <ref id="ViekiraPak.R28">
+            <mixed-citation publication-type="journal">Dyson JK, McPherson S. Reply to "Liver failure in human immunodeficiency virus - Hepatitis C virus coinfection treated with sofosbuvir, ledipasvir and antiretroviral therapy". J Hepatol 2016; 64: 753-4. <annotation><p><italic toggle="yes">(Letter in reply to March-Lopez [2016] reporting another case of hepatic decompensation during sofosbuvir, ledipasvir and ribavirin therapy of a patient hepatitis C, cirrhosis and HIV coinfection, arising within 6 weeks of starting treatment [bilirubin 12.6 mg/dL, protime 17 sec], and leading to successful, emergency liver transplantation).</italic></p></annotation><pub-id pub-id-type="pmid">26682725</pub-id></mixed-citation>
+          </ref>
+          <ref id="ViekiraPak.R29">
+            <mixed-citation publication-type="journal">Welker MW, Luhne S, Lange CM, Vermehren J, Farnik H, Herrmann E, Welzel T, et al. Lactic acidosis in patients with hepatitis C virus cirrhosis and combined ribavirin/ sofosbuvir treatment. J Hepatol 2015 Nov 30. [Epub ahead of print] <italic toggle="yes">
+</italic><annotation><p><italic toggle="yes">(Among 35 patients with chronic hepatitis C and advanced fibrosis or cirrhosis treated with sofosbuvir based regimens, 12 [34%] had a serious adverse event and 5 [14%] developed lactic acidosis, largely in those with Child-Pugh class B or C cirrhosis and in the context of hepatic decompensation, 2 of whom died).</italic></p></annotation><pub-id pub-id-type="pmid">26658684</pub-id></mixed-citation>
+          </ref>
+          <ref id="ViekiraPak.R30">
+            <mixed-citation publication-type="journal">Hoofnagle JH. Hepatic decompensation during direct-acting antiviral therapy of chronic hepatitis C. J Hepatol 2016 Jan 18. {Epub ahead of print] <annotation><p><italic toggle="yes">(Editorial in response to Welker [2016] discussing the occurrence of unexplained hepatic decompensation during antiviral therapy of hepatitis C and whether these episodes are coincidental, caused by hepatoxicity of the antiviral drugs, or are the paradoxical result of sudden eradication of the chronic viral infection). </italic></p></annotation><pub-id pub-id-type="pmid">26795828</pub-id></mixed-citation>
+          </ref>
+          <ref id="ViekiraPak.R31">
+            <mixed-citation publication-type="journal">Abdulsamad M, Ihimoyan A. Viekira Pak induced fatal lactic acidosis: a case report of an unusual side effect. Case Reports Hepatol 2016; 2016: 8627139. 28044114.<annotation><p><italic toggle="yes">(69 year old man with HCV-related cirrhosis developed lactic acidosis and renal failure 3 days after starting Viekira Pak, dying within a few days of multiorgan failure).</italic></p></annotation><pub-id pub-id-type="pmid">28044114</pub-id></mixed-citation>
+          </ref>
+          <ref id="ViekiraPak.R32">
+            <mixed-citation publication-type="journal">Masetti M, Magalotti D, Martino E, Andreone P, Scuteri A, Zoli M. A case of acute liver failure during ritonavir-boosted paritaprevir, ombitasvir and dasabuvir therapy in a patient with HCV genotype 1b cirrhosis. J Gastrointestin Liver Dis 2016; 25: 559-561. 27981315.<annotation><p><italic toggle="yes">(84 year old man with HCV-related cirrhosis developed hepatic decompensation 13 days after starting Viekira Pak for HCV infection with slow and incomplete recovery upon stopping). </italic></p></annotation><pub-id pub-id-type="pmid">27981315</pub-id></mixed-citation>
+          </ref>
+          <ref id="ViekiraPak.R33">
+            <mixed-citation publication-type="journal">Buzas C, Tantau M, Ciobanu L. Fatal acute liver failure during ritonavir-boosted paritaprevir, ombitasvir and dasabuvir plus ribavirin therapy. J Gastrointestin Liver Dis 2017; 26: 93-94. 28338122.<annotation><p><italic toggle="yes">(65 year old woman with HCV-related cirrhosis developed hepatic decompensation 3 days after starting Veikira Pak therapy for hepaittis C and died of hepatic failure 19 days later).</italic></p></annotation><pub-id pub-id-type="pmid">28338122</pub-id></mixed-citation>
+          </ref>
+          <ref id="ViekiraPak.R34">
+            <mixed-citation publication-type="journal">Fofiu C, Dobru D, Boeriu A. Potential pitfalls of Viekira Pak&#x02122; therapy in patients with HCV genotype 1b cirrhosis. J Gastrointestin Liver Dis 2017; 26: 94-95. 28338123.<annotation><p><italic toggle="yes">(60 year old woman with HCV related cirrhosis developed decompensation 6 weeks after starting Viekira Pak for HCV infection [bilirubin rising from 2.1 to 6.8 mg/dL, INR 1.4 to 1.8], resolving slowly after discontinuation of the combination antiviral therapy; role of ritonavir unclear).</italic></p></annotation><pub-id pub-id-type="pmid">28338123</pub-id></mixed-citation>
+          </ref>
+          <ref id="ViekiraPak.R35">
+            <mixed-citation publication-type="journal">Oberg CL, Hiensch RJ, Poor HD. Ombitasvir-paritaprevir-ritonavir-dasabuvir (Viekira Pak)-induced lactic acidosis. Crit Care Med 2017; 45: e321-e325. 27661862.<annotation><p><italic toggle="yes">(Three patients with HCV-related cirrhosis developed severe lactic acidosis within 5 to 11 days of starting Viekira Pak, 2 responding to intensive care support and one dying within 36 hours with worsening lactic acidemia and shock).</italic></p></annotation><pub-id pub-id-type="pmid">27661862</pub-id></mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec id="ViekiraPak.OTHER_REFERENCE_LINKS" sec-type="link-group">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=(Viekira%20Pak/AE)+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D%3A%222999/12/31%22%5BEDat%5D)">Recent References on Viekira Pak: from PubMed.gov</ext-link>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Viekira%20Pak">Trials on Viekira Pak: from ClinicalTrials.gov</ext-link>
+            </p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

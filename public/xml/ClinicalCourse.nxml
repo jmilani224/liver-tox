@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="ClinicalCourse" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">ClinicalCourse</book-part-id>
+      <title-group>
+        <title>Clinical Course and Diagnosis of Drug Induced Liver Disease</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>4</day>
+          <month>5</month>
+          <year>2019</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="rucam" document-type="chapter">Roussel Uclaf Causality Assessment Method (RUCAM) in Drug Induced Liver Injury</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="LiverBiopsy" document-type="chapter">Liver Biopsy</related-object>
+    </book-part-meta>
+    <body>
+      <p>The clinical symptoms, signs and patterns of liver test abnormalities of drug induced liver injury can mimic virtually any form of liver disease &#x02013; from acute viral hepatitis to gall stone disease with biliary obstruction, acute fatty liver and even chronic hepatitis and cirrhosis. There are no specific findings or laboratory tests that definitely prove that a suspected drug, nutritional supplement or herbal product is the cause of the injury. Drug induced liver injury is a diagnosis of exclusion and relies upon clinical judgment and knowledge about the potential of the agent to cause liver injury versus the likelihood that other forms of liver diseases are the cause. For some medications, the pattern of clinical presentation and liver test abnormalities strongly suggest that the drug is the cause of the liver injury, but ultimately the more common causes of liver disease must be ruled out before a drug is considered the likely cause.</p>
+      <p>In judging the likelihood of drug induced liver disease, six features are important:</p>
+      <list list-type="bullet">
+        <list-item>
+          <p>the onset after starting the drug: <bold>time to onset</bold> [latency]</p>
+        </list-item>
+        <list-item>
+          <p>the recovery after stopping the drug: <bold>time to recovery</bold> [challenge]</p>
+        </list-item>
+        <list-item>
+          <p>the <bold>clinical pattern</bold>: injury pattern and clinical phenotype [phenotype]</p>
+        </list-item>
+        <list-item>
+          <p><bold>exclusion of other causes</bold> of liver injury [differential diagnosis]</p>
+        </list-item>
+        <list-item>
+          <p>whether the drug is a <bold>known cause of liver injury</bold> [likelihood]</p>
+        </list-item>
+        <list-item>
+          <p><bold>response to reexposure</bold>, whether inadvertent or intentional [rechallenge]</p>
+        </list-item>
+      </list>
+      <sec id="ClinicalCourse.Time_to_Onset">
+        <title>Time to Onset</title>
+        <p>The time to onset, incubation period or latency represents the time from the first day of drug therapy to onset of liver injury. Typically, the latency of drug induced liver injury is between 5 days and 3 months of starting a medication, but there are important exceptions. A very short incubation period of 24 to 72 hours can occur with hypersensitivity reactions, particularly upon reexposure to the medication (sulfonamides, macrolide antibiotics). Furthermore, there are drugs that typically cause liver injury 3 to 12 months after starting (isoniazid, flutamide) and others for which the liver injury arises or becomes clinically evident after years of use (minocycline, amiodarone, nitrofurantoin).</p>
+        <p>Measurement of the time to onset may be difficult. The latency is usually measured from the time of starting to the time of onset of jaundice, dark urine or detection of an elevation in serum bilirubin; but in other situations latency is measured to the time of the first symptom, which might be fatigue, weakness, nausea, poor appetite, abdominal pain, fever, rash or itching. Finally, drug induced liver injury may occur without symptoms or jaundice and be identified only when blood test abnormalities are found. Whatever feature is used to determine the time to onset, it should be clearly stated, either as time to onset of symptoms, time to onset of jaundice, or time to first laboratory test abnormalities. Finally, the latency may not be known or may be indefinite because the exact day that the medication was started is not known or the medication was used intermittently.</p>
+      </sec>
+      <sec id="ClinicalCourse.Time_to_Recovery">
+        <title>Time to Recovery</title>
+        <p>The time to recovery represents the time from stopping the suspected drug to full recovery from liver injury. Usually, drug induced liver injury starts to resolve within a few days to a week of stopping therapy. In some instances, the resolution is quite rapid (acetaminophen, niacin), but in most cases, the injury does not fully resolve for several weeks or months. Indeed, the liver injury can be prolonged and even persistent (chronic). In the typical case, however, improvement starts within a week or two of stopping therapy, and the injury resolves completely within 2 to 3 months. The timing of recovery in relation to stopping the drug provides support for the agent being the cause of the injury. Unfortunately, in some instances, the time to recovery may not be known or may be indefinite because laboratory testing or recording of symptoms were not done or were done infrequently. In managing patients with drug induced liver injury, it is important to document full recovery.</p>
+      </sec>
+      <sec id="ClinicalCourse.Clinical_Pattern">
+        <title>Clinical Pattern</title>
+        <p>The clinical pattern is perhaps the most important and complex component in deciding whether the medication, herbal or dietary supplement was the cause of the liver injury. The presence of a typical clinical pattern depends, of course, on previous reports of liver injury associated with the agent. When such information is available, presentation with a clinical pattern that is similar to what has been reported in the literature provides compelling evidence implicating that agent. The clinical pattern can be categorized by the injury pattern (whether hepatocellular, cholestatic or mixed) or by an overall "clinical phenotype" which is based on several elements and its resemblance to other types of liver injury such as acute hepatitis, cholangitis, autoimmune hepatitis, cirrhosis or nodular regenerative hyperplasia.</p>
+      </sec>
+      <sec id="ClinicalCourse.Injury_Pattern">
+        <title>Injury Pattern</title>
+        <p>Drug induced liver disease can be classified into three patterns of injury: hepatocellular, cholestatic, and mixed hepatocellular-cholestatic. These designations refer to histologic features of injury, but are usually defined based upon the pattern of serum enzyme elevations.</p>
+        <p><bold>Hepatocellular injury</bold>. Drug induced liver disease that resembles acute viral hepatitis is typified by a prominent hepatocellular pattern of injury. Liver biopsy, if available, usually shows marked liver cell necrosis and inflammation with only mild bile stasis, at least in the early stages. Hepatocellular injury can also be suggested by clinical and laboratory features. If present, symptoms of fatigue and weakness predominate. Serum alanine and aspartate aminotransferase (ALT and AST) levels typically are markedly elevated (usually &#x0003e;10-fold), while the alkaline phosphatase or gamma glutamyl transpeptidase (GGT) are only modestly increased. An &#x0201c;R&#x0201d; ratio of ALT to alkaline phosphatase (both expressed as multiples of the upper limit of the normal range) of 5 or more is often used to define a hepatocellular pattern of injury, but may not always be accurate. Agents that typically give a hepatocellular pattern of injury include isoniazid, green tea, nitrofurantoin and methyldopa.</p>
+        <p><bold>Cholestatic injury</bold>. A cholestatic picture of drug induced liver injury resembles bile duct obstruction or choledocholithiasis. The liver biopsy findings are generally of bile stasis, portal inflammation and proliferation or injury of bile ducts and ductules. Clinically, symptoms of jaundice and itching predominate. Right upper quadrant pain may be present. Serum alkaline phosphatase and GGT levels are prominently elevated, while ALT and AST levels are minimally or modestly increased. The bilirubin is increased more than would be expected from the degree of liver injury. An R ratio of ALT to alkaline phosphatase (both expressed as multiples of the upper limit of the normal range) of 2 or less is used to define a cholestatic pattern of injury, but may not always be accurate. Drugs that typically cause a cholestatic liver injury pattern include amoxicillin/clavulanate (Augmentin), ciprofloxacin and the sulfonylureas.</p>
+        <p><bold>Mixed hepatocellular-cholestatic injury</bold>. A mixture of hepatocellular and cholestatic injury is typical of many drugs and, indeed, is the pattern that is most characteristic of drug induced liver injury, occurring rarely in other forms of acute liver disease. In cases of mixed injury, liver biopsy shows prominent hepatocyte necrosis and inflammation accompanied by marked bile stasis. Symptoms may include both fatigue and itching, and laboratory tests show similar elevations in serum ALT and alkaline phosphatase. An R ratio of ALT to alkaline phosphatase (both expressed as multiples of the upper limit of the normal range) between 2 and 5 is used to defined a mixed pattern of injury. Drugs that cause a mixed hepatocellular-cholestatic pattern of injury include the sulfonamides, phenytoin and enalopril.</p>
+      </sec>
+      <sec id="ClinicalCourse.Clinical_Phenotype">
+        <title>Clinical Phenotype</title>
+        <p>In addition, drug induced liver injury can be categorized by an overall clinical pattern and course of injury into at least twelve "phenotypes". These phenotypes overlap to some degree with the pattern of injury (hepatocellular, cholestatic, mixed) and include: acute hepatic necrosis, acute (hepatocellular) hepatitis, cholestatic hepatitis, mixed hepatitis, serum enzyme elevations without jaundice, bland cholestasis, acute fatty liver with lactic acidosis, nonalcoholic fatty liver, chronic hepatitis, sinusoidal obstruction syndrome, nodular regenerative hyperplasia, and liver tumors, such as hepatic adenoma and hepatocellular carcinoma. In addition, characteristic features or outcomes are often assigned to each phenotype such as immunoallergic features, autoimmune features, acute liver failure, vanishing bile duct syndrome and cirrhosis. Each of these phenotypes is described briefly below and links are given to more comprehensive descriptions as well as case examples, liver histology and selected references.</p>
+        <p><bold>Acute hepatic necrosis</bold>. Drug induced liver injury can resemble an acute ischemic or toxic injury to the liver with rapid onset of hepatocellular injury and marked elevations in serum ALT and just as rapid decline once the agent is stopped. Signs of hepatic dysfunction and failure occur early, even before the onset of jaundice, which is typically mild. Other organs can be involved including kidney, lung, bone marrow, and brain. The time to onset after exposure is usually rapid (within days) with initial symptoms of nausea, vomiting, and abdominal pain followed by mental confusion, somnilence and coma. The liver enzyme pattern is typically hepatocellular and serum lactic dehydrogenase (LDH) and creatine kinase (CPK) may also be high. If done, liver biopsy shows a somewhat bland, centrolobular necrosis, which is also typical of ischemic injury to the liver (from shock or hypoxia). The injury can be fatal, but recovery in nonfatal cases is rapid. Typical agents that cause acute hepatic necrosis include high doses of acetaminophen, aspirin, niacin, and intravenous amiodarone. (See <related-object link-type="booklink" source-id="livertox" document-id="Phenotypes_ahn" document-type="chapter">Acute hepatic necrosis</related-object>)</p>
+        <p><bold>Acute hepatitis</bold>. Drug induced liver injury can resemble acute viral hepatitis with prominence of hepatocellular injury and marked elevations in serum ALT. Symptoms may also be identical those of viral hepatitis, with a prodomal period of fatigue, nausea and poor appetite followed by abdominal discomfort, dark urine and jaundice. The liver enzyme pattern is typically hepatocellular. Even the liver biopsy findings may resemble hepatitis due to a viral infection. In these situations, exclusion of infection with hepatitis A, B and C (and sometimes hepatitis E) is necessary. Typical agents that cause an acute hepatitis-like syndrome include isoniazid, ketoconazole and flutamide. (See <related-object link-type="booklink" source-id="livertox" document-id="Phenotypes_acutehepa" document-type="chapter">Acute hepatitis</related-object>)</p>
+        <p><bold>Cholestatic and mixed hepatitis</bold>. The most characteristic clinical phenotypes of drug induced liver disease are a mild to moderate cholestatic or mixed hepatitis, which usually arises 2 to 12 weeks after starting a medication. Alkaline phosphatase and gamma glutamyltranspeptidase levels are prominently elevated and serum ALT levels either modestly (cholestatic injury) or only moderately (mixed injury) elevated. In some instances, the pattern of enzyme elevations can be hepatocellular at the onset of illness. The cholestasis can be mild and short lived or severe and prolonged. Itching is a prominent symptom. Cholestatic hepatitis is typical of the liver injury caused by amoxicillin/clavuanate and sulfonylureas. Mixed hepatitis is typical of many medications including phenytoin, sulfonamides, macrolide antibiotics and enalapril. (See <related-object link-type="booklink" source-id="livertox" document-id="Phenotypes_chol" document-type="chapter">Cholestatic hepatitis</related-object> and <related-object link-type="booklink" source-id="livertox" document-id="Phenotypes_mixed" document-type="chapter">Mixed hepatitis</related-object>)</p>
+        <p><bold>Serum enzyme elevations without jaundice</bold>. Actually, the most common pattern of drug induced liver injury is an elevation in serum aminotransferase or alkaline phosphatase (or both) levels without jaundice and usually without symptoms. The frequency of this form of hepatotoxicity ranges widely, from less than 1% to as high as 50% to 70% of patients, depending upon the medication and the frequency of monitoring for liver enzyme abnormalities. (See <related-object link-type="booklink" source-id="livertox" document-id="Phenotypes_enzy" document-type="chapter">Serum enzyme elevations without jaundice</related-object>)</p>
+        <p><bold>Pure or bland cholestasis</bold>. The finding of cholestasis without or with only modest liver cell injury is a rare form of drug induced liver disease. Itching and jaundice are prominent, but, otherwise, patients typically feel well. Serum alkaline phosphatase and ALT levels may be normal or minimally (less that two-fold) elevated, particularly at the peak of symptoms and jaundice. At the onset, ALT levels may be more prominently elevated (3 to 10 fold) and in more severe instances, serum alkaline phosphatase may rise above 2 fold. Pure or bland cholestasis is the characteristic form of liver injury caused by estrogenic and anabolic steroids and can occur with illicit use of muscle building regimens and more rarely with the thioguanines such as azathioprine and mercaptopurine. (See <related-object link-type="booklink" source-id="livertox" document-id="Phenotypes_bland" document-type="chapter">Pure or bland cholestasis</related-object>)</p>
+        <p><bold>Acute fatty liver with lactic acidosis</bold>. This is a rare and often severe form of drug induced liver injury that is caused by medications that alter fat metabolism and inhibit mitochondrial function. After a prodromal period of nonspecific symptoms and minimal serum enzyme elevations, patients present with signs of liver failure, such as coagulopathy, hyperammonemia and lactic acidosis. Initially, liver biopsy histology shows microvesicular (small droplet) fat and little evidence of injury. Later there is appearance of macrovesciular (large droplet) fat and liver cell injury. Drugs that cause acute microvesicular fatty liver include antiviral agents such as fialuridine, zidovudine, didanosine and stavudine, and the antibiotics tetracycline and linezolid when given intravenously. (See <related-object link-type="booklink" source-id="livertox" document-id="Phenotypes_lact" document-type="chapter">Acute fatty liver with lactic acidosis</related-object>)</p>
+        <p><bold>Nonalcoholic fatty liver disease</bold>. This is an uncommon form of drug induced liver disease and often difficult to separate from the spontaneous, metabolic form that occurs in patients who are overweight or have diabetes and the metabolic syndrome. The onset is insidious and often without symptoms or signs of liver disease. Serum aminotransferase levels are generally mildly but persistently elevated. Ultrasound or other forms of hepatic imaging may suggest steatosis. A liver biopsy is diagnostic showing steatosis, inflammation and ballooning degeneration, which are typical of alcoholic and nonalcoholic steatohepatitis. Nonalcoholic fatty liver disease due to medications typically arises months to years after initiation of therapy and is actually a chronic rather than acute form of liver injury. Drugs associated with fatty liver injury include methotrexate and tamoxifen. (See <related-object link-type="booklink" source-id="livertox" document-id="Phenotypes_Fatty" document-type="chapter">Nonalcoholic fatty liver disease</related-object>)</p>
+        <p><bold>Chronic hepatitis</bold>. Liver injury that persists for at least six months is generally considered chronic. Most cases of drug induced liver disease resolve within a few weeks or months after the medication is stopped. However, in up to 5% of cases there is evidence of peristent liver injury. Chronic liver injury due to medications takes several forms. In many cases, it merely represents a slow resolution of a severe acute injury; in other instances the medication possibly triggered a chronic liver disease, such as autoimmune hepatitis or primary biliary cirrhosis; finally, in rare cases active liver injury persists for unknown reasons. (See <related-object link-type="booklink" source-id="livertox" document-id="Phenotypes_chron" document-type="chapter">Chronic hepatitis</related-object>)</p>
+        <p><bold>Sinusoidal obstruction syndrome</bold>. Medications that injure non-parenchymal and endothelial cells in the liver can cause a sinusoidal obstruction syndrome, also known as veno-occlusive disease. This form of drug induced liver injury is rare but can be severe and result in acute liver failure. Symptoms of abdominal pain and swelling are typical, with early development of weight gain, fluid retention and ascites. Serum ALT levels tend to be high, with the enzyme pattern suggesting hepatocellular injury. Drugs that cause sinusoidal obstructive syndrome include many chemotherapeutic and radio-mimetic agents, particularly busulfan (used for myeloablation before bone marrow transplantation), as well as environmental toxins and phytotoxins such as the vinca alkaloids found in Jamaican &#x0201c;bush&#x0201d; tea. (See <related-object link-type="booklink" source-id="livertox" document-id="Phenotypes_sinus" document-type="chapter">Sinusoidal obstruction syndrome</related-object>)</p>
+        <p><bold>Nodular regenerative hyperplasia</bold>. Medications can cause a subtle injury to the liver that leads to regenerative nodules with minimal or no fibrosis, but resulting in portal hypertension and liver dysfunction. This form of drug induced liver disease is rare and occurs largely with long term use of cytotoxic agents. The underlying mechanism is not know, but it probably the result of chronic injury to endothelial cells in the liver. Patients usually have mild serum enzyme elevations and present either with mild jaundice and hepatomegaly or with signs of portal hypertension. Nodular regenerative hyperplasia can be progressive and lead to liver failure. Medications associated with this syndrome include azathioprine, thioguanine and oxaliplatin. (See <related-object link-type="booklink" source-id="livertox" document-id="Phenotypes_nodular" document-type="chapter">Nodular regenerative hyperplasia</related-object>)</p>
+        <p><bold>Liver tumors and cancer</bold>. Medications are very rare, but fairly well documented causes of hepatic adenoma, hepatocellular carcinoma and angiosarcoma of the liver. Liver tumors are generally the result of long term therapy and are usually associated with chronic hepatic injury or growth stimulation. Hepatic adenomas have been linked to long term estrogen use (particularly in high doses); hepatic angiosarcoma to the no-longer-used radiologic contrast agent thorotrast; and hepatocellular carcinoma to long term androgenic steroid use. In most instances, the clinical presentation is usually with a liver mass or abdominal discomfort and rarely with hepatic rupture. Some tumors are identified incidentally by imaging of the liver for other reasons. (See <related-object link-type="booklink" source-id="livertox" document-id="Phenotypes_tumor" document-type="chapter">Liver tumors</related-object>)</p>
+        <p><bold>Immunoallergic hepatitis</bold>. Cases of drug induced liver injury presenting with immunologic or allergic manifestations such as fever, rash, arthralgias and eosinophilia are frequently referred to as &#x0201c;immunoallergic&#x0201d; hepatitis. Severe cases may be life-threatening and be accompanied by Stevens-Johnson syndrome. Immunoallergic forms of drug induced liver disease tend to have a short latency period (within 30 days of starting the medication) and an abrupt onset. The pattern of injury may be cholestatic, hepatocellular or mixed. Drugs linked to immunoallergic hepatitis include sulfonamides, sulindac, phenytoin and ciprofloxacin. (See <related-object link-type="booklink" source-id="livertox" document-id="Phenotypes_immun" document-type="chapter">Immunoallergic hepatitis</related-object>)</p>
+        <p><bold>Autoimmune hepatitis</bold>. Drug induced liver injury can present with clinical syndrome of chronic hepatitis with autoimmune features. Symptoms may be vague and nonspecific, but a distinctive hepatocellular pattern of serum enzyme elevations accompanied by presence of high titers of antinuclear or smooth muscle antibody and high immunoglobulin levels are typical. The latency period to development of the liver injury tends to be long (months or years). Liver histology may resemble autoimmune hepatitis, but symptoms and laboratory test abnormalities usually resolve once the medication is stopped. Drugs associated with autoimmune hepatitis include methyldopa, nitrofurantoin, minocycline, hydralazine and fenofibrate. (See <related-object link-type="booklink" source-id="livertox" document-id="Phenotypes_auto" document-type="chapter">Autoimmune hepatitis</related-object>)</p>
+        <p><bold>Acute liver failure</bold>. Drug induced liver injury can be severe and lead to liver failure and death. The diagnosis of acute liver failure rests on the finding of severe liver injury, coagulopathy (prolonged prothrombin time) and appearance of symptoms or signs of hepatic encephalopathy. Acute liver failure usually represents the severe cases of drug induced acute hepatitis-like injury. Medications commonly linked to acute liver failure include diclofenac, isoniazid, troglitazone and telithromycin. (See <related-object link-type="booklink" source-id="livertox" document-id="Phenotypes_fail" document-type="chapter">Acute liver failure</related-object>)</p>
+        <p><bold>Vanishing bile duct syndrome</bold>. The most striking example of chronic injury after acute drug induced liver disease is the vanishing bile duct syndrome (VBDS). VBDS typically arises after an episode of acute cholestatic liver injury that does not fully resolve. The small intra- and interlobular bile ducts are injured and gradually lost, causing cholestasis and "ductopenia." The loss of bile ducts can be transient and ultimately resolve over several months or years, or can be progressive and result in severe, unremitting cholestasis with variable degrees of jaundice, pruritus and hyperlipidemia. If severe, vanishing bile duct syndrome can lead to biliary cirrhosis and hepatic failure, death or need for liver transplantation within 6 to 24 months of onset. Medications associated with vanishing bile duct syndrome include amoxicillin-clavulanate, nonsteroidal antiinflammatory agents, sulfonamides, and the aromatic anticonvulsants. (See <related-object link-type="booklink" source-id="livertox" document-id="Phenotypes_vbds" document-type="chapter">Vanishing bile duct syndrome</related-object>)</p>
+        <p><bold>Cirrhosis</bold>. Drug induced liver disease is a rare cause of cirrhosis, but instances of advanced chronic liver disease have been reported due to medications. Most of these examples probably represent chronic exposure to a medication with an unrecognized acute or chronic presentation, such as with chronic hepatitis or fatty liver disease. Medications associated with cirrhosis include methyldopa, amiodarone, valproate and methotrexate. (See <related-object link-type="booklink" source-id="livertox" document-id="Phenotypes_cirrhosis" document-type="chapter">Cirrhosis</related-object>)</p>
+      </sec>
+      <sec id="ClinicalCourse.Exclusion_of_Other_Diagno">
+        <title>Exclusion of Other Diagnoses</title>
+        <p>The final important element in diagnosis of drug induced liver disease is exclusion of other diagnoses. The clinical signature often dictates which liver diseases are most important to exclude. A basic approach to ruling out other liver conditions in a patient suspected of having drug induced liver disease would include:</p>
+        <p><bold>A careful history</bold>, focusing on:</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Risk factors for viral hepatitis</p>
+          </list-item>
+          <list-item>
+            <p>Alcohol use</p>
+          </list-item>
+          <list-item>
+            <p>Weight gain</p>
+          </list-item>
+          <list-item>
+            <p>History of autoimmune disease</p>
+          </list-item>
+          <list-item>
+            <p>History of cardiac failure, shock, or septicemia</p>
+          </list-item>
+          <list-item>
+            <p>History of all drug intake, including time of starting and stopping prescription and nonprescription (over-the-counter) drugs and herbals within the previous 3 months</p>
+          </list-item>
+        </list>
+        <p><bold>Laboratory test results</bold> (and diagnoses to exclude):</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>IgM anti-HAV (hepatitis A)</p>
+          </list-item>
+          <list-item>
+            <p>HBsAg or IgM anti-HBc or both (hepatitis B)</p>
+          </list-item>
+          <list-item>
+            <p>Anti-HCV or HCV RNA or both (hepatitis C)</p>
+          </list-item>
+          <list-item>
+            <p>Antinuclear antibody (ANA) and globulin levels (autoimmune hepatitis)</p>
+          </list-item>
+          <list-item>
+            <p>Ultrasound or other radiological visualization of gallbladder and biliary system (gallstones and obstructive jaundice), and</p>
+          </list-item>
+          <list-item>
+            <p>Ultrasound characterization of liver quality (alcoholic and nonalcoholic fatty liver disease)</p>
+          </list-item>
+        </list>
+        <p>In some instances, the more uncommon forms of liver disease need to be excluded such as hepatitis E, mononucleosis, primary sclerosing cholangitis, primary biliary cirrhosis, Wilson disease, ischemic hepatitis, jaundice of sepsis, and benign postoperative cholestasis. Most of these conditions are either rare (hepatitis E), cause chronic liver disease (sclerosing cholangitis, primary biliary cirrhosis, Wilson disease), or occur in special situations (following episodes of shock, anoxia, surgery or sepsis). Nevertheless, there is no form of acute or chronic liver disease that cannot be mimicked by drug induced liver injury.</p>
+      </sec>
+      <sec id="ClinicalCourse.Known_Cause_of_Liver_Inju">
+        <title>Known Cause of Liver Injury</title>
+        <p>The diagnosis of drug induced liver disease is made easier if they suspected agent is known to cause liver injury. Thus, knowledge of the field and literature is necessary to reliably assign causality to a medication in the face of an acute liver injury. The clinical signature often dictates which medications are most likely the culprit. The large number of medications used in modern medicine and the constant introduction of new agents makes it difficult to be fully knowledgeable about the potential of all medications to cause liver injury. The LiverTox website offers a means of overcoming some of these difficulties by providing a brief description of the hepatotoxicity of a wide variety of commonly used medications. Importantly, the likelihood that a medication causes liver injury is helpful in weighing the evidence for or against drug induced liver injury and the medications described in the LiverTox website are classified by this likelihood from definite, known hepatotoxic agents to those that are considered without hepatoxic potential.</p>
+      </sec>
+      <sec id="ClinicalCourse.Response_to_Reexposure">
+        <title>Response to Reexposure</title>
+        <p>Reexposure or rechallenge of a patient to a medication or agent thought to be responsible for drug induced liver injury is usually not advisable. Reexposure can lead to the rapid recurrence of the liver injury, possibly with greater severity and a poor outcome, even death. In very special situations, deliberate rechallenge may be warranted, particularly if the medication is considered life saving or necessary and the initial injury was mild, rapidly reversed upon stopping and atypical for that agent. If several drugs are implicated in causing the liver injury, judicious reintroduction of the agents thought to be least likely the cause may be appropriate. In addition, inadvertent reexposure can occur in a patient who restarts the medication either by accident or because of a misunderstanding of the cause of the liver injury. The reappearance of liver injury with reexposure or rechallenge is perhaps the most convincing evidence for a medication being the cause of the hepatotoxicity. A history of liver injury or an allergic response to a structurally related medication or dietary supplement is also supportive of a diagnosis of drug induced liver injury.</p>
+      </sec>
+      <sec id="ClinicalCourse.Complexities_in_Making_Di">
+        <title>Complexities in Making Diagnosis</title>
+        <p>Finally, it should be stressed that most cases of drug induced liver injury are complex and may be difficult to attribute to the suspect drug. In many instances, multiple drugs are taken and the timing of onset of liver injury and timing of initiation of the competing drugs may be unclear from the medical history. Furthermore, other possible causes of liver injury are often present, such as a history of exposure to hepatitis, excessive alcohol intake, or multiple other medical conditions, including underlying chronic liver disease. Cases described in the literature are often not typical, as they are chosen because they clearly and unequivocally implicate the medication. In clinical practice, however, most cases are complex and difficult to attribute definitively to a single drug.</p>
+        <p>
+          <related-object link-type="booklink" source-id="livertox" document-id="LiverBiopsy" document-type="chapter">Liver Biopsy</related-object>
+        </p>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

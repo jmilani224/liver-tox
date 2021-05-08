@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Entacapone" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Entacapone</book-part-id>
+      <title-group>
+        <title>Entacapone</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>20</day>
+          <month>7</month>
+          <year>2017</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Enfuvirtide" document-type="chapter">Enfuvirtide</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Entecavir" document-type="chapter">Entecavir</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Entacapone.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Entacapone.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Entacapone is a catechol-O-methyltransferase inhibitor used in the therapy of Parkinson disease as adjunctive therapy in combination with levodopa and carbidopa. Entacapone has been associated with a low rate of serum enzyme elevations during treatment, but has yet to be implicated in cases of clinically apparent acute liver injury with jaundice.</p>
+        </sec>
+        <sec id="Entacapone.Background">
+          <title>Background</title>
+          <p>Entacapone (en tak' a pone) is a specific inhibitor of cathechol-O-methyltransferase (COMT) which is a major enzyme in the pathway of levodopa metabolism. As a result, entacapone slows the metabolism of levodopa, causing an increase in its bioavailability and duration of action. Entacapone inhibits COMT activity only peripherally, unlike tolcapone which acts both peripherally and centrally. Entacapone was approved for use in the United States in 2003, the second COMT inhibitor approved for use in the therapy of symptomatic Parkinson disease as an adjunct to levodopa/carbidopa therapy in patients with motor complications. Entacapone is available in tablets of 200 mg generically and under the brand name of Comtan. It is also available in several fixed dose combinations with carbidopa and levodopa generically and under the brand name Stalevo. Entacapone is typically initiated in doses of 200 mg with each dose of levodopa/carbidopa to a maximum of 1600 mg daily. Common side effects include somnolence, dizziness, confusion, dyskinesia, vivid dreams, hallucinations, depression, fatigue, headache, diarrhea and gastrointestinal upset, side effects that are largely due to enhancement of the dopaminergic effects of levodopa.</p>
+        </sec>
+        <sec id="Entacapone.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>Entacapone therapy has been associated with serum aminotransferase elevations (above 3 times the upper limit of normal) in only 0.3 to 0.5% of patients, which is similar or minimally higher than the rate in subjects receiving placebo. The elevations were usually transient and asymptomatic and rarely required dose adjustment. In preliminary clinical trials, there were no reports of clinically apparent serious liver injury with jaundice. Subsequently, isolated instances of hepatotoxicity have been reported, injury arising 2 to 6 weeks after starting entacapone with mild jaundice and cholestatic pattern of liver enzyme elevations, and rapid recovery on stopping. Immunoallergic and autoimmune features were not present. Thus, entacapone may rarely cause clinically apparent liver injury, but it has not been associated with the severe hepatitis and acute liver failure that characterized cases of tolcapone inudced liver injury.</p>
+          <p>Likelihood score: D (possible, rare cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Entacapone.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>Entacapone is extensively metabolized by the liver and eliminated though biotransformation, mostly by glucuronidation via UDP-glucuronosyl transferase. Polymorphisms of this enzyme have been linked to liver enzyme elevations during therapy, but the relationship between dose, metabolism and liver injury due to entacapone has not been defined.</p>
+        </sec>
+        <sec id="Entacapone.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>The cases of hepatotoxicity attributed to entacapone have been mild and self-limiting. There have been no reports of acute liver failure, chronic liver injury or vanishing bile duct syndrome associated with entacapone therapy. In at least one case report, a patient who developed raised serum enzymes during tolcapone therapy, redeveloped enzyme elevations after being switched to entacapone. Otherwise, the liver injury associated with these two COMT inhibitors has been distinct, without evidence of a class effect.</p>
+          <p>Drug Class: <related-object source-id="livertox" document-id="AntiparkinsonAgents">Antiparkinson Agents</related-object></p>
+          <p>Other Drugs in the Subclass, COMT Inhibitors: <related-object source-id="livertox" document-id="Tolcapone">Tolcapone</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Entacapone.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <boxed-text position="anchor" id="Entacapone.BPI" orientation="portrait">
+          <p>
+            <bold>REPRESENTATIVE TRADE NAMES</bold>
+          </p>
+          <p>Entacapone &#x02013; Generic, Comtan&#x000ae;</p>
+          <p>
+            <bold>DRUG CLASS</bold>
+          </p>
+          <p>Antiparkinson Agents</p>
+          <p>
+            <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Entacapone">COMPLETE LABELING</ext-link>
+          </p>
+          <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+        </boxed-text>
+      </sec>
+      <sec id="Entacapone.CHEMICAL_FORMULA_AND_STRUCTUR">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Entacapone.T1" position="anchor" orientation="portrait">
+          <table>
+            <thead>
+              <tr>
+                <th id="hd_h_Entacapone.T1_1_1_1_1" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Entacapone.T1_1_1_1_2" rowspan="1" colspan="1">CAS REGISTRY NUMBER</th>
+                <th id="hd_h_Entacapone.T1_1_1_1_3" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Entacapone.T1_1_1_1_4" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Entacapone.T1_1_1_1_1" rowspan="1" colspan="1">Entacapone</td>
+                <td headers="hd_h_Entacapone.T1_1_1_1_2" rowspan="1" colspan="1">
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135017133">130929-57-6</ext-link>
+                </td>
+                <td headers="hd_h_Entacapone.T1_1_1_1_3" rowspan="1" colspan="1">C14-H15-N3-O5</td>
+                <td headers="hd_h_Entacapone.T1_1_1_1_4" rowspan="1" colspan="1">
+                  <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Entacapone_Structure.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait">
+                    <alt-text>Entacapone Chemical Structure</alt-text>
+                  </graphic>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Entacapone.REFERENCES">
+        <title>REFERENCES</title>
+        <p>References updated: 20 July 2017</p>
+        <ref-list id="Entacapone.REFERENCES.reflist0">
+          <ref id="Entacapone.R1">
+            <mixed-citation publication-type="other">Zimmerman HJ. Antiparkinsonism drugs. In, Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999, pp. 715-7.<annotation><p><italic toggle="yes">(Expert review of hepatotoxicity published in 1999; among anticholinergic agents, "only trihexyphenidyl has been incriminated in hepatic injury"; other antiparkinsonism drugs discussed include levodopa, lergotrile [no longer available], pergolide and bromocriptine, but not entacapone).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Entacapone.R2">
+            <mixed-citation publication-type="other">Larrey D, Ripault MP. Hepatotoxicity of psychotropic drugs and drugs of abuse. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier Inc, 2013, pp. 443-62.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of agents acting on the central nervous system).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Entacapone.R3">
+            <mixed-citation publication-type="other">Standaert DG, Roberson ED. Treatment of central nervous system degenerative disorders. In, Brunton LL, Chabner BA, Knollman BC, eds. Goodman &#x00026; Gilman&#x02019;s the pharmacological basis of therapeutics. 12th ed. New York: McGraw-Hill, 2011, pp. 609-28.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Entacapone.R4">
+            <mixed-citation publication-type="journal">Waters CH, Kurth M, Bailey P, Shulman LM, LeWitt P, Dorflinger E, Deptula D, S. Tolcapone in stable Parkinson's disease: efficacy and safety of long-term treatment. Tolcapone Stable Study Group. Neurology 1998 May; 50 (5 Suppl 5): S39-45. <italic toggle="yes">(Among 298 patients with stable Parkinson</italic><annotation><p><italic toggle="yes">disease treated with levodopa and either tolcapone [n=196] or placebo [n=102], ALT abnormalities occurred in 3-5% of tolcapone treated patients between month 1 and 6 of therapy, 4 were withdrawn and recovered; abnormalities resolved in another 4 despite continuing on therapy).</italic></p></annotation><pub-id pub-id-type="pmid">9591521</pub-id></mixed-citation>
+          </ref>
+          <ref id="Entacapone.R5">
+            <mixed-citation publication-type="journal">Hauser RA, Molho E, Shale H, Pedder S, Dorflinger EE. A pilot evaluation of the tolerability, safety, and efficacy of tolcapone alone and in combination with oral selegiline in untreated Parkinson's disease patients. Tolcapone De Novo Study Group. Mov Disord 1998; 13: 643-7. <annotation><p><italic toggle="yes">(Among 83 patients with Parkinson disease treated with tolcapone with or without selegiline for 8 weeks, ALT elevations occurred in 1 patient [2%] on tolcapone alone).</italic></p></annotation><pub-id pub-id-type="pmid">9686768</pub-id></mixed-citation>
+          </ref>
+          <ref id="Entacapone.R6">
+            <mixed-citation publication-type="journal">Tolcapone for Parkinson's disease. Med Let Drugs Ther 1998; 40: 60-1. <annotation><p><italic toggle="yes">(Concise summary of clinical efficacy and safety of tolcapone shortly after its approval in the US; common side effects were diarrhea, increase in levodopa related [dopaminergic] side effects and serum ALT elevations).</italic></p></annotation><pub-id pub-id-type="pmid">9629124</pub-id></mixed-citation>
+          </ref>
+          <ref id="Entacapone.R7">
+            <mixed-citation publication-type="journal">Assal F, Spahr L, Hadengue A, Rubbia-Brandt L, Burkhard PR. Tolcapone and fulminant hepatitis. Lancet 1998; 352: 958. <annotation><p><italic toggle="yes">(74 year old woman with Parkinson disease developed jaundice 9 weeks after starting tolcapone [bilirubin 17.1 mg/dL, ALT 2904 U/L, Alk P 177 U/L, protime 21 sec], progressing to hepatic failure and death 2 weeks later).</italic></p></annotation><pub-id pub-id-type="pmid">9752821</pub-id></mixed-citation>
+          </ref>
+          <ref id="Entacapone.R8">
+            <mixed-citation publication-type="journal">Rivest J, Barclay CL, Suchowersky O. COMT inhibitors in Parkinson's disease. Can J Neurol Sci 1999; 26 Suppl 2: S34-8. <annotation><p><italic toggle="yes">(Review of efficacy and safety of tolcapone and entacapone in Parkinson disease; ALT elevations above 3 times the ULN occurred in 2-5% of tolcapone, but in no entacapone recipients; reports of 3 cases of acute liver failure due to tolcapone led to its withdrawal in several countries).</italic></p></annotation><pub-id pub-id-type="pmid">10451758</pub-id></mixed-citation>
+          </ref>
+          <ref id="Entacapone.R9">
+            <mixed-citation publication-type="journal">Kaakkola S. Clinical pharmacology, therapeutic use and potential of COMT inhibitors in Parkinson's disease. Drugs 2000; 59: 1233-50. <annotation><p><italic toggle="yes">(Review of the mechanism of action, pharmacology, efficacy and side effects of tolcapone and entacapone; both enhance dopaminergic effects of levodopa and diarrhea is a frequent dose modifying side effect; hepatotoxicity occurs with tolcapone, but has not been reported with entacapone).</italic></p></annotation><pub-id pub-id-type="pmid">10882160</pub-id></mixed-citation>
+          </ref>
+          <ref id="Entacapone.R10">
+            <mixed-citation publication-type="journal">Lambert D, Waters CH. Comparative tolerability of the newer generation antiparkinsonian agents. Drugs Aging 2000; 16: 55-65. <annotation><p><italic toggle="yes">(Review of mechanism of action, tolerability and safety of selegiline, pramipexole, ropinirole, tolcapone and entacapone in Parkinson disease).</italic></p></annotation><pub-id pub-id-type="pmid">10733264</pub-id></mixed-citation>
+          </ref>
+          <ref id="Entacapone.R11">
+            <mixed-citation publication-type="journal">Olanow CW. Tolcapone and hepatotoxic effects. Tasmar Advisory Panel Arch Neurol 2000; 57: 263-7. <annotation><p><italic toggle="yes">(Consensus recommendations for monitoring patients on tolcapone after 4 reports of acute liver failure; among 1535 patients treated in phase III studies, ALT or AST elevations [&#x0003e;3 times ULN] occurred in 1.3-3.7% of patients, returning to normal when discontinued and one woman developed jaundice and died; postmarketing reports included 4 patients, ages 66-74, with onset of symptoms and jaundice after 2-4 months, [bilirubin 6.9-26.1 mg/dL, ALT 1245-5020 U/L, Alk P 66-347 U/L], 3 died within 1-2 weeks of presentation).</italic></p></annotation><pub-id pub-id-type="pmid">10681087</pub-id></mixed-citation>
+          </ref>
+          <ref id="Entacapone.R12">
+            <mixed-citation publication-type="journal">Spahr L, Rubbia-Brandt L, Burkhard PR, Assal F, Hadengue A. Tolcapone-related fulminant hepatitis: electron microscopy shows mitochondrial alterations. Dig Dis Sci 2000; 45: 1881-4. <annotation><p><italic toggle="yes">(Histologic analysis of patient with acute liver failure due to tolcapone [Assal 1988], showed multilobular collapse, inflammatory infiltrates including eosinophils, cholestasis, and focal microvescular steatosis; electron microscopy suggested mitochondrial injury: Case 1).</italic></p></annotation><pub-id pub-id-type="pmid">11052337</pub-id></mixed-citation>
+          </ref>
+          <ref id="Entacapone.R13">
+            <mixed-citation publication-type="journal">Watkins P. COMT inhibitors and liver toxicity. Neurology 2000; 55 (11 Suppl 4): S51-2; discussion S53-6. <annotation><p><italic toggle="yes">(Review of hepatotoxicity of tolcapone and entacapone suggesting that liver injury is not a class effect and that there have been no reports of jaundice attributed to entacapone).</italic></p></annotation><pub-id pub-id-type="pmid">11147510</pub-id></mixed-citation>
+          </ref>
+          <ref id="Entacapone.R14">
+            <mixed-citation publication-type="journal">Entacapone for Parkinson's disease. Med Lett Drugs Ther 2000; 42: 7-8. <annotation><p><italic toggle="yes">(Concise summary of clinical efficacy and safety of entacapone shortly after its approval in the US; common side effects were diarrhea, increase in levodopa related side effects, but no reported hepatotoxicity as occurs with tolcapone).</italic></p></annotation><pub-id pub-id-type="pmid">10696231</pub-id></mixed-citation>
+          </ref>
+          <ref id="Entacapone.R15">
+            <mixed-citation publication-type="journal">Blum MW, Siegel AM, Meier R, Hess K. Neuroleptic malignant-like syndrome and acute hepatitis during tolcapone and clozapine medication. Eur Neurol 2001; 46: 158-60. <annotation><p><italic toggle="yes">(70 year old woman developed stupor, rigidity and hyperthermia with increases in CPK [3132 U/L] and ALT [988 U/L], but not bilirubin or alkaline phosphatase while on the combination of tolcapone and clozapine, resolving rapidly on stopping therapy; compatible with neuroleptic malignant-like syndrome).</italic></p></annotation><pub-id pub-id-type="pmid">11598337</pub-id></mixed-citation>
+          </ref>
+          <ref id="Entacapone.R16">
+            <mixed-citation publication-type="journal">Myllyl&#x000e4; VV, Kultalahti ER, Haapaniemi H, Leinonen M; FILOMEN Study Group. Twelve-month safety of entacapone in patients with Parkinson's disease. Eur J Neurol 2001; 8: 53-60. <annotation><p><italic toggle="yes">(Among 326 patients with Parkinson disease treated with entacapone or placebo, ALT elevations occurred in 6.9% on drug vs 4.6% on placebo and were above 3 times ULN in 0.9% vs 0.0%; no patient developed clinically apparent liver injury that could be attributed to entacapone).</italic></p></annotation><pub-id pub-id-type="pmid">11509081</pub-id></mixed-citation>
+          </ref>
+          <ref id="Entacapone.R17">
+            <mixed-citation publication-type="journal">Acu&#x000f1;a G, Foernzler D, Leong D, Rabbia M, Smit R, Dorflinger E, Gasser R, et al. Pharmacogenetic analysis of adverse drug effect reveals genetic variant for susceptibility to liver toxicity. Pharmacogenomics J 2002; 2: 327-34. <annotation><p><italic toggle="yes">(DNA genotyping of 30 single nucleotide polymorphisms in 135 patients who had liver enzyme elevations during tolcapone therapy and controls found variants within the UDP-glucuronsyl transferase gene that were associated with liver injury).</italic></p></annotation><pub-id pub-id-type="pmid">12439739</pub-id></mixed-citation>
+          </ref>
+          <ref id="Entacapone.R18">
+            <mixed-citation publication-type="journal">Fisher A, Croft-Baker J, Davis M, Purcell P, McLean AJ. Entacapone-induced hepatotoxicity and hepatic dysfunction. Mov Disord 2002; 17: 1362-5. <annotation><p><italic toggle="yes">(Three cases of clinically apparent liver injury attributed to entacapone use; 74 year old woman developed nausea and fatigue 2 weeks after adding entacapone to a regimen of levodopa/benserazide for Parkinson disease [bilirubin 2.4 mg/dL, ALT 104 U/L, Alk P 238 U/L], with rapid improvement on stopping; 2 other cases were reported to Australian Drug Reaction Database with only partial documentation, arising 5 and 6 weeks after starting entacapone, with cholestatic liver enzyme elevations and mild jaundice).</italic></p></annotation><pub-id pub-id-type="pmid">12465084</pub-id></mixed-citation>
+          </ref>
+          <ref id="Entacapone.R19">
+            <mixed-citation publication-type="journal">Benabou R, Waters C. Hepatotoxic profile of catechol-O-methyltransferase inhibitors in Parkinson's disease. Expert Opin Drug Saf 2003; 2: 263-7. <annotation><p><italic toggle="yes">(Review of hepatotoxicity of tolcapone and entacapone).</italic></p></annotation><pub-id pub-id-type="pmid">12904105</pub-id></mixed-citation>
+          </ref>
+          <ref id="Entacapone.R20">
+            <mixed-citation publication-type="journal">Borges N. Tolcapone-related liver dysfunction: implications for use in Parkinson's disease therapy. Drug Saf 2003; 26: 743-7. <annotation><p><italic toggle="yes">(Review of hepatotoxicity of tolcapone and possible mechanisms).</italic></p></annotation><pub-id pub-id-type="pmid">12908845</pub-id></mixed-citation>
+          </ref>
+          <ref id="Entacapone.R21">
+            <mixed-citation publication-type="journal">Brooks DJ. Safety and tolerability of COMT inhibitors. Neurology 2004; 62 (1 Suppl 1): S39-46. <annotation><p><italic toggle="yes">(Review of safety and side effects of entacapone; in phase III trials ALT elevations &#x0003e;3 times ULN occurred in 0.3-0.5% of patients taking entacapone and 0.4% on placebo, and there were no cases of jaundice or clinically apparent liver injury among ~1600 entacapone treated patients).</italic></p></annotation><pub-id pub-id-type="pmid">14718679</pub-id></mixed-citation>
+          </ref>
+          <ref id="Entacapone.R22">
+            <mixed-citation publication-type="journal">Deane KH, Spieker S, Clarke CE. Catechol-O-methyltransferase inhibitors for levodopa-induced complications in Parkinson's disease. Cochrane Database Syst Rev 2004; (4): CD004554. <annotation><p><italic toggle="yes">(Systematic review of efficacy of tolcapone and entacapone; ALT elevations reported in variable proportions of patients on tolcapone).</italic></p></annotation><pub-id pub-id-type="pmid">15495119</pub-id></mixed-citation>
+          </ref>
+          <ref id="Entacapone.R23">
+            <mixed-citation publication-type="journal">Levodopa + carbidopa + entacapone. Entacapone: a second look: new preparations. Parkinson's disease: a modest effect. Prescrire Int 2005; 14: 51-4. <annotation><p><italic toggle="yes">(Review of risks and benefits of a fixed dose combination of levodopa, carbidopa and entacapone mentions that entacapone may cause cholestatic hepatitis and that is has not been shown to be more effective than bromocriptine).</italic></p></annotation><pub-id pub-id-type="pmid">15875340</pub-id></mixed-citation>
+          </ref>
+          <ref id="Entacapone.R24">
+            <mixed-citation publication-type="journal">Borges N. Tolcapone in Parkinson's disease: liver toxicity and clinical efficacy. Expert Opin Drug Saf 2005; 4: 69-73. <annotation><p><italic toggle="yes">(Review of hepatotoxicity of tolcapone and its possible mechanisms).</italic></p></annotation><pub-id pub-id-type="pmid">15709899</pub-id></mixed-citation>
+          </ref>
+          <ref id="Entacapone.R25">
+            <mixed-citation publication-type="journal">Korri H, Awada A. [Serious tolcapone-induced hepatitis 17 months after commencing treatment]. Rev Neurol (Paris) 2005; 161: 1113-5. French. <annotation><p><italic toggle="yes">(61 year old man with Parkinson disease developed jaundice and fever 17 months after starting tolcapone [bilirubin 3.1 mg/dL, ALT 399 U/L, Alk P 115 U/L], resolving upon stopping).</italic></p></annotation><pub-id pub-id-type="pmid">16288178</pub-id></mixed-citation>
+          </ref>
+          <ref id="Entacapone.R26">
+            <mixed-citation publication-type="journal">Martignoni E, Cosentino M, Ferrari M, Porta G, Mattarucchi E, Marino F, Lecchini S, et al. Two patients with COMT inhibitor-induced hepatic dysfunction and UGT1A9 genetic polymorphism. Neurology 2005; 65: 1820-2. <annotation><p><italic toggle="yes">(Two patients who had ALT elevations [78 and 284 U/L] during tolcapone therapy, one of whom had similar elevations during entacapone treatment; both had the A(T)<sub>9</sub>AT sequence [1A9*1] in the promoter of the UGT1A9 gene).</italic></p></annotation><pub-id pub-id-type="pmid">16344532</pub-id></mixed-citation>
+          </ref>
+          <ref id="Entacapone.R27">
+            <mixed-citation publication-type="journal">Tolcapone: new drug. In Parkinson's disease: unacceptable risk of severe hepatitis. Prescrire Int 2006; 15: 54-7. <annotation><p><italic toggle="yes">(Review of tolcapone as adjunctive therapy in Parkinson disease suggests that the hepatotoxicity risk makes it an unacceptable option).</italic></p></annotation><pub-id pub-id-type="pmid">16604736</pub-id></mixed-citation>
+          </ref>
+          <ref id="Entacapone.R28">
+            <mixed-citation publication-type="journal">Leegwater-Kim J, Waters C. Tolcapone in the management of Parkinson's disease. Expert Opin Pharmacother 2006; 7: 2263-70. <annotation><p><italic toggle="yes">(Review on use of tolcapone in Parkinson disease suggesting that with proper monitoring, the potential for hepatotoxicity is "negligibly small").</italic></p></annotation><pub-id pub-id-type="pmid">17059382</pub-id></mixed-citation>
+          </ref>
+          <ref id="Entacapone.R29">
+            <mixed-citation publication-type="journal">Stocchi F, De Pandis MF. Utility of tolcapone in fluctuating Parkinson's disease. Clin Interv Aging 2006; 1: 317-25. <annotation><p><italic toggle="yes">(Review of role of tolcapone in treatment of Parkinson disease, indicating its efficacy in patients with fluctuating symptoms and its safety with proper monitoring of serum enzymes).</italic></p></annotation><pub-id pub-id-type="pmid">18046910</pub-id></mixed-citation>
+          </ref>
+          <ref id="Entacapone.R30">
+            <mixed-citation publication-type="journal">Entacapone to Tolcapone Switch Study Investigators. Entacapone to tolcapone switch: Multicenter double-blind, randomized, active-controlled trial in advanced Parkinson's disease. Mov Disord 2007; 22: 14-9. <annotation><p><italic toggle="yes">(Randomized controlled trial of replacing entacapone with tolcapone in patients with Parkinson disease and motor fluctuations on long term levodopa therapy; ALT elevations occurred in 3% on entacapone and 9% on tolcapone, but were mild and self-limiting).</italic></p></annotation><pub-id pub-id-type="pmid">17089403</pub-id></mixed-citation>
+          </ref>
+          <ref id="Entacapone.R31">
+            <mixed-citation publication-type="journal">Leegwater-Kim J, Waters C. Role of tolcapone in the treatment of Parkinson's disease. Expert Rev Neurother 2007; 7: 1649-57. <annotation><p><italic toggle="yes">(Review of the pharmacology, metabolism, clinical efficacy and safety of tolcapone, indicating that the risk of hepatotoxicity "is very small if proper hepatic monitoring guidelines are followed").</italic></p></annotation><pub-id pub-id-type="pmid">18052761</pub-id></mixed-citation>
+          </ref>
+          <ref id="Entacapone.R32">
+            <mixed-citation publication-type="journal">Lees AJ, Ratziu V, Tolosa E, Oertel WH. Safety and tolerability of adjunctive tolcapone treatment in patients with early Parkinson's disease. J Neurol Neurosurg Psychiatry 2007; 78: 944-8. <annotation><p><italic toggle="yes">(Controlled trial of tolcapone vs placebo combined with levodopa and carbidopa in 677 patients with early Parkinson disease; ALT or AST elevations occurred in 20% of placebo- vs 27% of tolcapone treated patients and were &#x0003e;3 times ULN in 1.2% [placebo] vs 1.8% [tolcapone], almost all during first 6 months; 1% of tolcapone treated patients stopped because of ALT elevations, but none developed jaundice or clinically apparent liver injury).</italic></p></annotation><pub-id pub-id-type="pmid">17098835</pub-id></mixed-citation>
+          </ref>
+          <ref id="Entacapone.R33">
+            <mixed-citation publication-type="journal">Lew MF, Kricorian G. Results from a 2-year centralized tolcapone liver enzyme monitoring program. Clin Neuropharmacol 2007; 30: 281-6. <annotation><p><italic toggle="yes">(Centralized testing for ALT and AST in 1725 patients with Parkinson disease treated with tolcapone for up to 2 years; 69 [3.9%] had at least one elevation, but &#x0003c;1% had an elevation above 2 times the ULN and most returned to normal despite continuing therapy).</italic></p></annotation><pub-id pub-id-type="pmid">17909306</pub-id></mixed-citation>
+          </ref>
+          <ref id="Entacapone.R34">
+            <mixed-citation publication-type="journal">Entacapone: hepatitis (continued). The risk of liver damage is being confirmed. It is better not to expose parkinsonian patients to this drug. Prescrire Int 2008; 17: 113-4. <annotation><p><italic toggle="yes">(Commentary mentions that the European Medicines Agency has reported 29 cases of hepatic disorders linked to entacapone).</italic></p></annotation><pub-id pub-id-type="pmid">18630358</pub-id></mixed-citation>
+          </ref>
+          <ref id="Entacapone.R35">
+            <mixed-citation publication-type="journal">Chalasani N, Fontana RJ, Bonkovsky HL, Watkins PB, Davern T, Serrano J, Yang H, Rochon J; Drug Induced Liver Injury Network (DILIN). Causes, clinical features, and outcomes from a prospective study of drug-induced liver injury in the United States. Gastroenterology 2008; 135: 1924-34. <annotation><p><italic toggle="yes">(Among 300 cases of drug induced liver injury in the US collected between 2004 and 2008, none were due to drugs used for Parkinson disease).</italic></p></annotation><pub-id pub-id-type="pmid">18955056</pub-id></mixed-citation>
+          </ref>
+          <ref id="Entacapone.R36">
+            <mixed-citation publication-type="journal">Canesi M, Zecchinelli AL, Pezzoli G, Antonini A. Clinical experience of tolcapone in advanced Parkinson's disease. Neurol Sci 2008; 29 Suppl 5: S380-2. <annotation><p><italic toggle="yes">(Among 66 patients with advanced Parkinson disease treated with tolcapone, 2 [3%] were withdrawn from therapy because of ALT elevations).</italic></p></annotation><pub-id pub-id-type="pmid">19381768</pub-id></mixed-citation>
+          </ref>
+          <ref id="Entacapone.R37">
+            <mixed-citation publication-type="journal">Brooks DJ, Leinonen M, Kuoppam&#x000e4;ki M, Nissinen H. Five-year efficacy and safety of levodopa/DDCI and entacapone in patients with Parkinson's disease. J Neural Transm 2008; 115: 843-9. <annotation><p><italic toggle="yes">(Retrospective, pooled analysis of 5 controlled trials with 5 year extension phases that included 806 patients with Parkinson disease treated with entacapone added to levodopa/carbodopa; there were "few clinically significant changes in liver function tests" and none of the 478 serious adverse events that were reported were due to hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">18259682</pub-id></mixed-citation>
+          </ref>
+          <ref id="Entacapone.R38">
+            <mixed-citation publication-type="journal">Ebersbach G, Storch A. Tolcapone in elderly patients with Parkinson's disease: a prospective open-label multicenter non-interventional trial. Arch Gerontol Geriatr 2009; 49: e40-4. <annotation><p><italic toggle="yes">(Among 237 patients with advanced Parkinson disease treated with tolcapone, diarrhea was the most common side effect [3.4%], ALT or AST elevations occurred in 18%, but were mostly mild and "not clinically significant").</italic></p></annotation><pub-id pub-id-type="pmid">18835049</pub-id></mixed-citation>
+          </ref>
+          <ref id="Entacapone.R39">
+            <mixed-citation publication-type="journal">McBurney RN, Hines WM, Von Tungeln LS, Schnackenberg LK, Beger RD, Moland CL, Han T, et al. The liver toxicity biomarker study: phase I design and preliminary results. Toxicol Pathol 2009; 37: 52-64. <annotation><p><italic toggle="yes">(Design and early results of a comprehensive study of rats given 28 days of entacapone or tolcapone as examples of two related agents, one of which causes liver injury in man and one which does not, assessing liver enzymes, histology, gene transcription, proteomics, metabolomics and possible biomarkers to identify predictors of idiosyncratic liver injury in humans).</italic></p></annotation><pub-id pub-id-type="pmid">19171931</pub-id></mixed-citation>
+          </ref>
+          <ref id="Entacapone.R40">
+            <mixed-citation publication-type="journal">Reuben A, Koch DG, Lee WM; Acute Liver Failure Study Group. Drug-induced acute liver failure: results of a U.S. multicenter, prospective study. Hepatology 2010; 52: 2065-76. <annotation><p><italic toggle="yes">(Among 1198 patients with acute liver failure enrolled in a US prospective study between 1998 and 2007, 133 were attributed to drug induced liver injury but none were attributed to agents used for Parkinson disease).</italic></p></annotation><pub-id pub-id-type="pmid">20949552</pub-id></mixed-citation>
+          </ref>
+          <ref id="Entacapone.R41">
+            <mixed-citation publication-type="journal">Fischer JJ, Michaelis S, Schrey AK, Graebner OG, Glinski M, Dreger M, Kroll F, et al. Capture compound mass spectrometry sheds light on the molecular mechanisms of liver toxicity of two Parkinson drugs. Toxicol Sci 2010; 113: 243-53. <annotation><p><italic toggle="yes">(In vitro study of binding of tolcapone and entacapone to other proteins; unlike entacapone, tolcapone interacted with a number of non-COMT intracellular proteins which are involved in the respiratory chain actions, fatty acid beta-oxidation and bile acid synthesis, perhaps accounting for its potential for hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">19783845</pub-id></mixed-citation>
+          </ref>
+          <ref id="Entacapone.R42">
+            <mixed-citation publication-type="journal">Haasio K. Toxicology and safety of COMT inhibitors. Int Rev Neurobiol 2010; 95: 163-89. <annotation><p><italic toggle="yes"> (Extensive review of the mechanism of hepatic injury from tolcapone; "at the moment there is no explanation to the hepatotoxicity appeared in clinical use"). </italic></p></annotation><pub-id pub-id-type="pmid">21095462</pub-id></mixed-citation>
+          </ref>
+          <ref id="Entacapone.R43">
+            <mixed-citation publication-type="journal">Marsala SZ, Gioulis M, Ceravolo R, Tinazzi M. A systematic review of catechol-0-methyltransferase inhibitors: efficacy and safety in clinical practice. Clin Neuropharmacol 2012; 35: 185-90. <annotation><p><italic toggle="yes"> (Systematic review of literature on safety and efficacy of tolcapone and entacapone recommends use of tolcapone only if entacapone treatment fails and liver tests are normal).</italic></p></annotation><pub-id pub-id-type="pmid">22805229</pub-id></mixed-citation>
+          </ref>
+          <ref id="Entacapone.R44">
+            <mixed-citation publication-type="journal">McBurney RN, Hines WM, VonTungeln LS, Schnackenberg LK, Beger RD, Moland CL, Han T, et al. The liver toxicity biomarker study phase I: markers for the effects of tolcapone or entacapone. Toxicol Pathol 2012; 40: 951-64. <annotation><p><italic toggle="yes"> (Comparison of the molecular effects of tolcapone vs entacapone on rat liver and plasma biomarkers found that changes from the two drugs only partially overlapped and different effects were present at 3 and 28 days, suggesting that some of these "off-target" and specific effects of tolcapone may account for its occasional hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">22573522</pub-id></mixed-citation>
+          </ref>
+          <ref id="Entacapone.R45">
+            <mixed-citation publication-type="journal">Bj&#x000f6;rnsson ES, Bergmann OM, Bj&#x000f6;rnsson HK, Kvaran RB, Olafsson S. Incidence, presentation, and outcomes in patients with drug-induced liver injury in the general population of Iceland. Gastroenterology 2013; 144: 1419-25,1425. <annotation><p><italic toggle="yes">(In a population based study of drug induced liver injury from Iceland, 96 cases were identified over a 2 year period, but none of the 96 were attributed to an agent used to treat Parkinson disease).</italic></p></annotation><pub-id pub-id-type="pmid">23419359</pub-id></mixed-citation>
+          </ref>
+          <ref id="Entacapone.R46">
+            <mixed-citation publication-type="journal">Drugs for Parkinson's disease. Treat Guidel Med Lett 2013; 11 (135): 101-6. <annotation><p><italic toggle="yes">(Concise review of recommendations for therapy of Parkinson disease with description of mechanisms of action, efficacy and adverse events). </italic></p></annotation><pub-id pub-id-type="pmid">24165688</pub-id></mixed-citation>
+          </ref>
+          <ref id="Entacapone.R47">
+            <mixed-citation publication-type="journal">Hern&#x000e1;ndez N, Bessone F, S&#x000e1;nchez A, di Pace M, Brahm J, Zapata R, A Chirino R, et al. Profile of idiosyncratic drug induced liver injury in Latin America: an analysis of published reports. Ann Hepatol 2014; 13: 231-9. <annotation><p><italic toggle="yes">(Among 176 reports of drug induced liver injury from Latin America published between 1996 and 2012, none were attributed to an agent to treat Parkinson disease).</italic></p></annotation><pub-id pub-id-type="pmid">24552865</pub-id></mixed-citation>
+          </ref>
+          <ref id="Entacapone.R48">
+            <mixed-citation publication-type="journal">Eggert K, Oertel WH, Lees AJ; German Competence Network on Parkinson&#x02019;s disease. Safety and efficacy of tolcapone in the long-term use in Parkinson disease: an observational study. Clin Neuropharmacol 2014; 37: 1-5. <annotation><p><italic toggle="yes">(Among 391 patients with Parkinson disease treated with tolcapone in an observation study conducted at 48 neurologic centers and followed for one year, 34 [8.7%] developed liver enzyme elevation, usually within the first 3 months, which were above twice ULN in only 5 [1.3%] and resolved spontaneously in most; no patient developed clinically apparent liver injury).</italic></p></annotation><pub-id pub-id-type="pmid">24434524</pub-id></mixed-citation>
+          </ref>
+          <ref id="Entacapone.R49">
+            <mixed-citation publication-type="journal">Chalasani N, Bonkovsky HL, Fontana R, Lee W, Stolz A, Talwalkar J, Reddy KR, et al.; United States Drug Induced Liver Injury Network. Features and outcomes of 899 patients with drug-induced liver injury: The DILIN Prospective Study. Gastroenterology 2015; 148: 1340-52. <annotation><p><italic toggle="yes">(Among 899 cases of drug induced liver injury from the US enrolled in a prospective database between 2004 and 2012, none were attributed to an agent used to treat Parkinson disease). </italic></p></annotation><pub-id pub-id-type="pmid">25754159</pub-id></mixed-citation>
+          </ref>
+          <ref id="Entacapone.R50">
+            <mixed-citation publication-type="journal">Longo DM, Yang Y, Watkins PB, Howell BA, Siler SQ. Elucidating differences in the hepatotoxic potential of tolcapone and entacapone with DILIsym(&#x000ae;), a mechanistic model of drug-induced liver injury. CPT Pharmacometrics Syst Pharmacol 2016; 5 (1): 31-9. <annotation><p><italic toggle="yes">(Description of mechanistic simulation models of the metabolism and toxicity of tolcapone and entacapone which predicted their differential hepatotoxicity). </italic></p></annotation><pub-id pub-id-type="pmid">26844013</pub-id></mixed-citation>
+          </ref>
+          <ref id="Entacapone.R51">
+            <mixed-citation publication-type="journal">Lv X, Wang XX, Hou J, Fang ZZ, Wu JJ, Cao YF, Liu SW, et al. Comparison of the inhibitory effects of tolcapone and entacapone against human UDP-glucuronosyl-transferases. Toxicol Appl Pharmacol 2016; 301: 42-9. <annotation><p><italic toggle="yes">(Comparison of the inhibitory effects of tolacapone and entacapone against recombinant human UGTs showed more potent inhibtion by tolacapone for most isoforms). </italic></p></annotation><pub-id pub-id-type="pmid">27089846</pub-id></mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec id="Entacapone.OTHER_REFERENCE_LINKS" sec-type="link-group">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=(Entacapone/AE)+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D%3A%222999/12/31%22%5BEDat%5D)">Recent References on Entacapone: from PubMed.gov</ext-link>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Entacapone">Trials on Entacapone: from ClinicalTrials.gov</ext-link>
+            </p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

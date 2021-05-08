@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Cladribine" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Cladribine</book-part-id>
+      <title-group>
+        <title>Cladribine</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>12</day>
+          <month>10</month>
+          <year>2017</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="CitalopramEscitalopr" document-type="chapter">Citalopram</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Clarithromycin" document-type="chapter">Clarithromycin</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Cladribine.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Cladribine.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Cladribine is a purine analogue and antineoplastic agent used primarily in the therapy of hairy cell leukemia. Cladribine is typically given intravenously daily for 7 days, usually as a single course, and has not been associated with serum enzyme elevations during therapy or with instances of clinically apparent acute liver injury with jaundice.</p>
+        </sec>
+        <sec id="Cladribine.Background">
+          <title>Background</title>
+          <p>Cladribine (klad' ri been) is a purine analogue (2-chlorodeoxyadeosine) that is used predominantly in the treatment of hairy cell leukemia. Cladribine is a chlorodinated derivative of adenine which is converted intracellularly to the cladribine triphosphate, which is believed to compete with adenine triphosphate in DNA synthesis. Cladribine was found to have marked activity against hairy leukemia and was approved for this use in the United States in 1993. Cladribine has been used off-label to treat low grade lymphomas and other hematologic malignancies, but its current formal indications are limited to therapy of active hairy cell leukemia. Cladribine is available as a solution for injection generically and under the trade name Leustatin. The typical dose regimen is a single course of 0.9 mg/m<sup>2</sup> intravenously once daily for 7 days. Repeat courses are recommended only for patients who had an initial response and later relapsed. Common side effects include bone marrow suppression, leucopenia, fever, infections, nausea, vomiting, anorexia, diarrhea, headache, fatigue and skin rash. In addition, opportunistic viral infections are common during the month after cladribine therapy and appropriate vaccination is recommended before its use. In high doses, above what is recommended for hairy cell leukemia, cladribine has been reported to have acute neurologic toxicity.</p>
+        </sec>
+        <sec id="Cladribine.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>In clinical trials, cladribine was not associated with elevations in serum enzymes or bilirubin levels either during or after therapy. Since its approval and wide scale use in hairy cell leukemia there have been no reports of clinically apparent liver injury attributable to cladribine administration.</p>
+          <p>Likelihood score: E (unlikely cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Cladribine.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The lack of hepatotoxicity of cladribine may relate to the short duration of therapy, low doses used and its minimal hepatic metabolism.</p>
+          <p>Drug Class: <related-object source-id="livertox" document-id="AntineoplasticAgents">Antineoplastic Agents</related-object>, Antimetabolites</p>
+          <p>Other Drugs in the Subclass, <related-object source-id="livertox" document-id="PurineAnalogues">Purine Analogues</related-object>: <related-object source-id="livertox" document-id="Azathioprine">Azathioprine</related-object>, <related-object source-id="livertox" document-id="Cladribine">Cladribine</related-object>, <related-object source-id="livertox" document-id="Clofarabine">Clofarabine</related-object>, <related-object source-id="livertox" document-id="Fludarabine">Fludarabine</related-object>, <related-object source-id="livertox" document-id="Mercaptopurine">Mercaptopurine</related-object>, <related-object source-id="livertox" document-id="Nelarabine">Nelarabine</related-object>, <related-object source-id="livertox" document-id="Pentostatin">Pentostatin</related-object>, <related-object source-id="livertox" document-id="Thioguanine">Thioguanine</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Cladribine.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <boxed-text position="anchor" id="Cladribine.BPI" orientation="portrait">
+          <p>
+            <bold>REPRESENTATIVE TRADE NAMES</bold>
+          </p>
+          <p>Cladribine &#x02013; Generic, Leustatin&#x000ae;</p>
+          <p>
+            <bold>DRUG CLASS</bold>
+          </p>
+          <p>Antineoplastic Agents</p>
+          <p>
+            <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Cladribine">COMPLETE LABELING</ext-link>
+          </p>
+          <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+        </boxed-text>
+      </sec>
+      <sec id="Cladribine.CHEMICAL_FORMULA_AND_STRUCTUR">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Cladribine.T1" position="anchor" orientation="portrait">
+          <table>
+            <thead>
+              <tr>
+                <th id="hd_h_Cladribine.T1_1_1_1_1" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Cladribine.T1_1_1_1_2" rowspan="1" colspan="1">CAS REGISTRY NUMBER</th>
+                <th id="hd_h_Cladribine.T1_1_1_1_3" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Cladribine.T1_1_1_1_4" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Cladribine.T1_1_1_1_1" rowspan="1" colspan="1">Cladribine</td>
+                <td headers="hd_h_Cladribine.T1_1_1_1_2" rowspan="1" colspan="1">
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://134984314">4291-63-8</ext-link>
+                </td>
+                <td headers="hd_h_Cladribine.T1_1_1_1_3" rowspan="1" colspan="1">C10-H12-Cl-N5-O3</td>
+                <td headers="hd_h_Cladribine.T1_1_1_1_4" rowspan="1" colspan="1">
+                  <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Cladribine_structure_000.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait">
+                    <alt-text>Cladribine Chemical Structure</alt-text>
+                  </graphic>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Cladribine.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 12 October 2017</p>
+        <ref-list id="Cladribine.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Cladribine.R1">
+            <mixed-citation publication-type="other">Zimmerman HJ. Oncotherapeutic and immunosuppressive agents. In, Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999, pp. 673-708.<annotation><p><italic toggle="yes">(Expert review of hepatotoxicity of cancer chemotherapeutic agents published in 1999 mentions that fludarabine and cladribine were new purine analogues that had yet to be implicated in causing hepatic injury).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Cladribine.R2">
+            <mixed-citation publication-type="other">DeLeve LD. Cancer chemotherapy. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013, p. 541-68.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of hepatotoxicity of anticancer agents does not discuss cladribine).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Cladribine.R3">
+            <mixed-citation publication-type="other">Chabner BA, Bertino J, Cleary J, Ortiz T, Lane A, Supko JG, Ryan DP. Purine analogs. Cytotoxic agents. Chemotherapy of neoplastic diseases. In, Brunton LL, Chabner BA, Knollman BC, eds. Goodman &#x00026; Gilman's the pharmacological basis of therapeutics. 12th ed. New York: McGraw-Hill, 2011, pp. 1701-5.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Cladribine.R4">
+            <mixed-citation publication-type="journal">Piro LD, Carrera CJ, Carson DA, Beutler E. Lasting remissions in hairy-cell leukemia induced by a single infusion of 2-chlorodeoxyadenosine. N Engl J Med 1990; 322: 1117-21. <annotation><p><italic toggle="yes">(Among 12 adults with hairy cell leukemia treated with a single 7 day course of cladribine, all responded and 11 had a long term complete remission; side effects included fever, but no patient developed liver test abnormalities).</italic></p></annotation><pub-id pub-id-type="pmid">1969613</pub-id></mixed-citation>
+          </ref>
+          <ref id="Cladribine.R5">
+            <mixed-citation publication-type="journal">Estey EH, Kurzrock R, Kantarjian HM, O'Brien SM, McCredie KB, Beran M, Koller C, et al. Treatment of hairy cell leukemia with 2-chlorodeoxyadenosine (2-CdA). Blood 1992; 79: 882-7. <annotation><p><italic toggle="yes"> (Among 46 patients with hairy cell leukemia treated with a single 7 day course of cladribine, 78% had a complete response; side effects included neutropenia, fever, infections within the first month, but there were no other systemic side effects and no mention of ALT abnormalities of liver related side effects).</italic></p></annotation><pub-id pub-id-type="pmid">1346577</pub-id></mixed-citation>
+          </ref>
+          <ref id="Cladribine.R6">
+            <mixed-citation publication-type="journal">Piro LD, Ellison DJ, Saven A. The Scripps Clinic experience with 2-chlorodeoxyadenosine in the treatment of hairy cell leukemia. Leuk Lymphoma 1994; 14 Suppl 1: 121-5. <annotation><p><italic toggle="yes">(Among 144 patients with hairy cell leukemia treated with cladribine, 82% achieved a complete remission and side effects were few, but included fever in 42%; no mention of ALT abnormalities or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">7820043</pub-id></mixed-citation>
+          </ref>
+          <ref id="Cladribine.R7">
+            <mixed-citation publication-type="journal">Sipe JC, Romine JS, Koziol JA, McMillan R, Zyroff J, Beutler E. Cladribine in treatment of chronic progressive multiple sclerosis. Lancet 1994; 344: 9-13. <annotation><p><italic toggle="yes">(52 patients with multiple sclerosis were treated with 4 courses of intravenous cladribine or placebo; acute adverse events included 2 cases of herpes zoster and one case each of transient bone marrow suppression, fulminant acute hepatitis B, and salmonella enteritis).</italic></p></annotation><pub-id pub-id-type="pmid">7912347</pub-id></mixed-citation>
+          </ref>
+          <ref id="Cladribine.R8">
+            <mixed-citation publication-type="journal">Juliusson G, Heldal D, Hippe E, Hedenus M, Malm C, Wallman K, Stolt CM, et al. Subcutaneous injections of 2-chlorodeoxyadenosine for symptomatic hairy cell leukemia. J Clin Oncol 1995; 13: 989-95. <annotation><p><italic toggle="yes">(Among 73 patients with hairy cell leukemia treated with subcutaneous rather than intravenous cladribine, complete responses occurred in 81% of patients and 38% developed neutropenic fever requiring hospitalization; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">7707128</pub-id></mixed-citation>
+          </ref>
+          <ref id="Cladribine.R9">
+            <mixed-citation publication-type="journal">Kurzrock R, Strom SS, Estey E, O'Brien S, Keating MJ, Jiang H, Adams T, et al. Second cancer risk in hairy cell leukemia: analysis of 350 patients. J Clin Oncol 1997; 15: 1803-10. <annotation><p><italic toggle="yes">(Among 350 patients with hairy cell leukemia treated and followed for an average of 7 years, secondary cancers occurred in 26 [7%], which was minimally higher than might be expected and was not associated with any specific therapy, interferon, cladribine or pentostatin).</italic></p></annotation><pub-id pub-id-type="pmid">9164188</pub-id></mixed-citation>
+          </ref>
+          <ref id="Cladribine.R10">
+            <mixed-citation publication-type="journal">Fridrik MA, J&#x000e4;r G, Kienzer HR, Hausmaninger H, Oppitz P, Krieger O, Zabernigg A, et al. Efficacy and toxicity of 2-Chlorodeoxyadenosine (Cladribine)--2 h infusion for 5 days--as first-line treatment for advanced low grade non-Hodgkin's lymphoma. Eur J Cancer 1998; 34: 1560-4. <annotation><p><italic toggle="yes">(Among 50 patients with non-Hodgkin lymphoma treated with four 5-day courses of cladribine, the major side effect was leucopenia [44%] and infections [14%]; no mention of ALT abnormalities or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">9893628</pub-id></mixed-citation>
+          </ref>
+          <ref id="Cladribine.R11">
+            <mixed-citation publication-type="journal">Saven A, Burian C, Koziol JA, Piro LD. Long-term follow-up of patients with hairy cell leukemia after cladribine treatment. Blood 1998; 92: 1918-26. <annotation><p><italic toggle="yes">(Long term follow up on 358 patients with hairy cell leukemia treated with cladribine found 91% complete response rate to a single 7 day infusion, 26% relapse rate, 8% occurrence of secondary malignancies; no reported early or delayed hepatic side effects).</italic></p></annotation><pub-id pub-id-type="pmid">9731048</pub-id></mixed-citation>
+          </ref>
+          <ref id="Cladribine.R12">
+            <mixed-citation publication-type="journal">Chadha P, Rademaker AW, Mendiratta P, Kim B, Evanchuk DM, Hakimian D, Peterson LC, et al. Treatment of hairy cell leukemia with 2-chlorodeoxyadenosine (2-CdA): long-term follow-up of the Northwestern University experience. Blood 2005; 106: 241-6. <annotation><p><italic toggle="yes">(Among 86 patients with hairy cell leukemia treated with cladribine and followed for a median period of 9 years, 15 [17%] developed a second malignancy, which were largely solid tumors, none developed a secondary leukemia, lymphoma or hematologic malignancy).</italic></p></annotation><pub-id pub-id-type="pmid">15761021</pub-id></mixed-citation>
+          </ref>
+          <ref id="Cladribine.R13">
+            <mixed-citation publication-type="journal">Else M, Ruchlemer R, Osuji N, Del Giudice I, Matutes E, Woodman A, Wotherspoon A, Swansbury J, Dearden C, Catovsky D. Long remissions in hairy cell leukemia with purine analogs: a report of 219 patients with a median follow-up of 12.5 years. Cancer 2005; 104: 2442-8. <annotation><p><italic toggle="yes">(Among 219 patients with hairy cell leukemia treated with either cladribine [n=34] or pentostatin [n=185], rates of complete remission [81% vs 82%] and 10 year survival [100% vs 96%] were similar).</italic></p></annotation><pub-id pub-id-type="pmid">16245328</pub-id></mixed-citation>
+          </ref>
+          <ref id="Cladribine.R14">
+            <mixed-citation publication-type="journal">Cannon T, Mobarek D, Wegge J, Tabbara IA. Hairy cell leukemia: current concepts. Cancer Invest 2008; 26: 860-5. <annotation><p><italic toggle="yes">(Review of the clinical features, course and therapy of hairy cell leukemia; cladribine and pentostatin are first line therapies for this disease and have similar rates of long term response; infections may be less common with pentostatin, but cladribine is given in a single course, whereas pentostatin must be given as multiple courses).</italic></p></annotation><pub-id pub-id-type="pmid">18798068</pub-id></mixed-citation>
+          </ref>
+          <ref id="Cladribine.R15">
+            <mixed-citation publication-type="journal">Ravandi F, O'Brien S, Jorgensen J, Pierce S, Faderl S, Ferrajoli A, Koller C, et al. Phase 2 study of cladribine followed by rituximab in patients with hairy cell leukemia. Blood 2011; 118: 3818-23. <annotation><p><italic toggle="yes">(Among 36 patients with hairy cell leukemia treated with a 5 day course of intravenous cladribine followed one month later by rituximab, all had a complete response with resolution of splenomegaly; adverse events included significant infections in 33%, but there were no nonhematologic severe adverse events and no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">21821712</pub-id></mixed-citation>
+          </ref>
+          <ref id="Cladribine.R16">
+            <mixed-citation publication-type="journal">Jain P, Pemmaraju N, Ravandi F. Update on the biology and treatment options for hairy cell leukemia. Curr Treat Options Oncol 2014; 15: 187-209. <annotation><p><italic toggle="yes">(Review of the clinical features, etiology and therapy of hairy cell leukemia, which has been linked to mutations in the BRAF gene [V600E] and, while usually responsive to therapy with cladribine or pentostatin, promising future approaches include inhibitors of the BRAF signaling pathway). </italic></p></annotation><pub-id pub-id-type="pmid">24652320</pub-id></mixed-citation>
+          </ref>
+          <ref id="Cladribine.R17">
+            <mixed-citation publication-type="journal">Donadieu J, Bernard F, van Noesel M, Barkaoui M, Bardet O, Mura R, Arico M, et al.; Salvage Group of the Histiocyte Society. Cladribine and cytarabine in refractory multisystem Langerhans cell histiocytosis: results of an international phase 2 study. Blood 2015; 126: 1415-23. <annotation><p><italic toggle="yes">(Among 27 patients with refractor Langerhans cell histiocytosis treated with the combination of cladribine and cytarabine, the overall response rate was 92% and the major side effect was profound pancytopenia; no mention of ALT elevations or hepatotoxicity, but one patient with severe liver involvement later developed sclerosis cholangitis requiring liver transplantation).</italic></p></annotation><pub-id pub-id-type="pmid">26194764</pub-id></mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec id="Cladribine.OTHER_REFERENCE_LINKS" sec-type="link-group">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=(Cladribine/AE)+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D%3A%222999/12/31%22%5BEDat%5D)">Recent References on Cladribine: from PubMed.gov</ext-link>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Cladribine">Trials on Cladribine: from ClinicalTrials.gov</ext-link>
+            </p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="causalityassess" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">causalityassess</book-part-id>
+      <title-group>
+        <title>Causality Assessment Tools</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>4</day>
+          <month>5</month>
+          <year>2019</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Causality" document-type="chapter">Causality</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="MVcausality" document-type="chapter">Maria and Victorino (M &#x00026; V) System of Causality Assessment in Drug Induced Liver Injury</related-object>
+    </book-part-meta>
+    <body>
+      <p>Drug induced liver injury is a diagnosis of exclusion that rests upon ruling out other common causes of liver disease, and knowledge of the pattern of injury associated with the specific drug. Unlike in hepatitis A or B, for instance, there are no specific diagnostic tests that establish causality for drug induced liver injury. The diagnosis can also be very challenging and even experts can disagree on the likelihood of the causality. For these reasons, attempts have been made to standardize causality assessment in drug induced adverse events including hepatotoxicity. These "instruments" generally rely upon careful delineation of the timing of onset of the adverse event in relation to starting the medication (challenge), and the timing of resolution in relation to stopping the medication (dechallenge). The causality is greatly strengthened if there is a recurrence on reexposure (rechallenge). Other helpful features are signs and symptoms of hypersensitivity, know drug allergies, the absence of competing diagnoses, and previous information on the occurrence of a similar adverse event with the medication. These factors are variously captured in the causality instruments and given various weights to achieve a rating score for the likelihood of the medication causing the injury. Commonly used instruments include the Naranjo Probability Scale, which is not specific to liver injury and can be used for any type of adverse drug reaction. In contrast, the Roussel Uclaf Causality Assessment Method (RUCAM) and its modification known as the Maria and Victorino (M &#x00026; V) System, were developed specifically for drug induced liver injury. All three causality instruments have been used widely and perform reasonably well in comparison to the "gold standard" of expert opinion. These three causality assessment tools are discussed in detail in the links below, and the actual forms are provided in pdf files that can be printed. In addition, guidance is provided on how to fill out the forms. A computerized version of the RUCAM scale is used in the section of LiverTox called "Submit a Case Report." However, subjective features of all of the causality assessment instruments make computerized computations difficult and not as reliable as individual assignment of scores on the forms.</p>
+      <list list-type="bullet">
+        <list-item>
+          <p>
+            <related-object link-type="booklink" source-id="livertox" document-id="MVcausality" document-type="chapter">Maria &#x00026; Victorino (M &#x00026; V) System of Causality Assessment</related-object>
+          </p>
+        </list-item>
+        <list-item>
+          <p>
+            <related-object link-type="booklink" source-id="livertox" document-id="Narajo" document-type="chapter">Adverse Drug Reaction Probability Scale (Naranjo)</related-object>
+          </p>
+        </list-item>
+        <list-item>
+          <p>
+            <related-object link-type="booklink" source-id="livertox" document-id="rucam" document-type="chapter">Roussel Uclaf Causality Assessment System (RUCAM)</related-object>
+          </p>
+        </list-item>
+      </list>
+    </body>
+  </book-part>
+</book-part-wrapper>

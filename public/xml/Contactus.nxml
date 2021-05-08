@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Contactus" content-type="appendix" from-where="back" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-app book-part-type="appendix">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Contactus</book-part-id>
+      <title-group>
+        <title>Contact Us</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>12</day>
+          <month>2</month>
+          <year>2020</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="disclaimer" document-type="appendix">Disclaimer</related-object>
+    </book-part-meta>
+    <body>
+      <p><bold>LiverTox</bold>&#x000ae; is a living document and is continuously expanded, revised and updated. As a part of this process, the LiverTox staff welcomes all questions and comments from its users. Particularly helpful would be specific comments on the accuracy of statements, citations, writing and content, which will be of enormous help in ensuring the reliability of the information. Please report any web site problems such as broken links, as well.</p>
+      <p>Please direct your comments or questions by email to: the LiverTox Administrative Assistant at <email xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="livertox@mail.nih.gov">livertox@mail.nih.gov</email>.</p>
+      <p>The LiverTox staff will attempt to answer all queries in a timely fashion. Thank you.</p>
+    </body>
+  </book-app>
+</book-part-wrapper>

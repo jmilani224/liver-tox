@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="AntiulcerAgents" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">AntiulcerAgents</book-part-id>
+      <title-group>
+        <title>Antiulcer Agents</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>15</day>
+          <month>4</month>
+          <year>2019</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="AntituberculosisAgen" document-type="chapter">Antituberculosis Agents</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="AntiviralAgents" document-type="chapter">Antiviral Agents</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="AntiulcerAgents.OVERVIEW">
+        <title>OVERVIEW</title>
+        <p content-type="pubmed-excerpt">Antiulcer agents and medications for acid peptic disease are commonly used drugs that rarely cause liver injury. Most agents act by inhibition of gastric acid production, neutralization of acid or protection of the gastrointestinal mucosa from acid injury. These agents are used for both prevention and therapy of duodenal and gastric ulcer disease as well as to alleviate acid reflux, esophagitis and minor upper intestinal discomforts.</p>
+        <p content-type="pubmed-excerpt">The most commonly used antiulcer agents are antacids such as aluminium or magnesium hydroxide (Maalox, Mylanta and many others) and calcium carbonate (Tums, Rolaids and others). Antacids are minimally absorbed and have no known adverse effects on the liver. Antacid use may cause a minor rise in urinary pH and rarely the calcium salts cause hypercalcemia.</p>
+        <p content-type="pubmed-excerpt">The major, most potent and effective antiulcer medications are the selective histamine type 2 receptor blockers (H2 blockers) and the proton pump inhibitors (PPIs). Both classes of antiulcer medications block the pathways of acid production or secretion, decreasing gastric acidity, improving symptoms and aiding in healing of acid-peptic diseases. These are some of the most commonly used drugs in medicine and are generally well tolerated and rarely result in serious adverse events. Nevertheless, both of these classes of agents have been linked to rare instances of acute liver injury and are discussed in LiverTox.</p>
+        <p>Other antiulcer drugs include mucosal protective agents such as sucralfate and prostaglandin analogues (misoprostol). Sucralfate (Carafate and others) is a sulfated polysaccharide that becomes a viscous polymer adhering to ulcers in mucosal surfaces and aiding in healing. Carafate is not absorbed and has not been linked to liver injury. Misoprostol is a synthetic prostaglandin E1 analogue that inhibits acid secretion and aids in ulcer healing. Misoprostol is absorbed systemically, but has not been linked to liver injury, probably because its other side effects and need for four times daily dosing limit the duration and degree of exposure.</p>
+        <p>The antiulcer agents in clinical use that are discussed in LiverTox include the following:</p>
+        <list list-type="bullet">
+          <list-item>
+            <p><related-object source-id="livertox" document-id="ProtonPumpInhibitors">Proton Pump Inhibitors</related-object>
+<list list-type="bullet"><list-item><p><related-object source-id="livertox" document-id="Lansoprazole">Dexlansoprazole</related-object></p></list-item><list-item><p><related-object source-id="livertox" document-id="Omeprazole">Esomeprazole</related-object></p></list-item><list-item><p><related-object source-id="livertox" document-id="Lansoprazole">Lansoprazole</related-object></p></list-item><list-item><p><related-object source-id="livertox" document-id="Omeprazole">Omeprazole</related-object></p></list-item><list-item><p><related-object source-id="livertox" document-id="Pantoprazole">Pantoprazole</related-object></p></list-item><list-item><p><related-object source-id="livertox" document-id="Rabeprazole">Rabeprazole</related-object></p></list-item></list></p>
+          </list-item>
+          <list-item>
+            <p><related-object source-id="livertox" document-id="H2ReceptorBlockers">Selective Histamine Type 2 Receptor Antagonists/Blockers</related-object>
+<list list-type="bullet"><list-item><p><related-object source-id="livertox" document-id="Cimetidine">Cimetidine</related-object></p></list-item><list-item><p><related-object source-id="livertox" document-id="Famotidine">Famotidine</related-object></p></list-item><list-item><p><related-object source-id="livertox" document-id="Nizatidine">Nizatidine</related-object></p></list-item><list-item><p><related-object source-id="livertox" document-id="Ranitidine">Ranitidine</related-object></p></list-item></list></p>
+          </list-item>
+        </list>
+        <p>References are given in the specific drug records.</p>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

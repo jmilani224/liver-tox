@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="DiazepamIV" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">DiazepamIV</book-part-id>
+      <title-group>
+        <title>Diazepam (Intravenous)</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>25</day>
+          <month>1</month>
+          <year>2017</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Desirudin" document-type="chapter">Desirudin</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="DiazepamOral" document-type="chapter">Diazepam (Oral)</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="DiazepamIV.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="DiazepamIV.Introduction">
+          <title>Introduction</title>
+          <p content-type="pubmed-excerpt">Diazepam is a benzodiazepine that is available for both oral and intravenous administration; oral diazepam is used predominantly as an anxiolytic agent, while the intravenous form is used as an anticonvulsant. Use of intravenous diazepam has not been linked to serum enzyme elevations during therapy or to clinically apparent liver injury. In contrast, use of the oral form of diazepam has been linked to rare instances of cholestatic liver injury.</p>
+        </sec>
+        <sec id="DiazepamIV.Background">
+          <title>Background</title>
+          <p>Diazepam (dye az' e pam) is a benzodiazepine with particularly potent activity against spread of seizure activity in several animal models. The antiseizure activity of the benzodiazepines is mediated by their ability to enhance gamma-aminobutryic acid (GABA) mediated inhibition of synaptic transmission through binding to the GABA A receptor. The use of diazepam as an anticonvulsant is limited largely to intravenous therapy of status epilepticus. Oral diazepam is not as effective or well tolerated as a therapy for epilepsy as are other benzodiazepines such as clobazam, clonazepam and clorazepate. Diazepam was approved in the United States in 1963 and it is currently widely used to treat acute seizures and status epilepticus. Indications also include premedication before surgical operations and as conscious sedation for minor invasive procedures. Several generic forms of parenteral diazepam are available in ampules of 5 mg/mL. The typical recommended dose for status epilepticus is 5 to 10 mg given intravenously, which can be repeated at 10 to 15 minute intervals until control of seizure activity or to a maximum of 30 mg. Intramuscular administration can be used for premedication before general anesthesia. Common effects of the use of parenteral diazepam include somnolence, confusion, dysarthria, diplopia and coma. Acute overdose of diazepam can cause respiratory arrest and death.</p>
+        </sec>
+        <sec id="DiazepamIV.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>Diazepam, as with other benzodiazepines, is rarely associated with serum ALT elevations, and clinically apparent liver injury from diazepam is extremely rare. In particular, parenterally administered diazepam has not been reported to cause serum enzyme elevations, even with prolonged use as with therapy of tetanus. Furthermore, there have been no convincing case reports of acute liver injury attributable to intravenous diazepam, although there are several case reports of acute liver injury from oral formulations. The onset of injury after oral use ranged from 4 to 12 weeks, and the typical pattern of serum enzyme elevations was cholestatic or mixed. Fever and rash have not been described nor has autoantibody formation. There have been no case reports of diazepam hepatotoxicity since the 1980's.</p>
+          <p>Likelihood score: E (unlikely cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="DiazepamIV.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The liver injury from benzodiazepines is probably due to a rarely produced intermediate metabolite.</p>
+        </sec>
+        <sec id="DiazepamIV.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>Patients with hepatic injury due to oral diazepam in the literature recovered completely without evidence of residual or chronic injury. No cases of acute liver failure or chronic liver injury due to diazepam have been described. There is no information about cross reactivity with other benzodiazepines (clobazam, clorazepate, lorazepam or alprazolam), but some degree of cross sensitivity should be assumed.</p>
+          <p>Drug Class: <related-object source-id="livertox" document-id="Anticonvulsants">Anticonvulsants</related-object>, see also <related-object source-id="livertox" document-id="DiazepamOral">Diazepam (Oral)</related-object></p>
+        </sec>
+      </sec>
+      <sec id="DiazepamIV.CASE_REPORT">
+        <title>CASE REPORT</title>
+        <sec id="DiazepamIV.Case_1._Cholestatic_hepatitis">
+          <title>Case 1. Cholestatic hepatitis due to oral diazepam.</title>
+          <p>[Modified from: Fors B, Nilsson F. [Hepatitis probably induced by diazepam medication] Lakartidningen 1968; 65: 4528-31. Swedish. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/pubmed/5745628">PubMed Citation</ext-link>]</p>
+          <p>A 33 year old woman was started on diazepam (2 mg three times daily) for anxiety and four months later developed symptoms of abdominal pain and jaundice. Serum ALT was 306 U/L, alkaline phosphatase was twice elevated and bilirubin was 4.2 mg/dL. A cholecystectomy was done for suspected cholelithiasis, but the gallbladder and biliary tree were normal. A liver biopsy showed acute hepatocellular injury and cholestasis compatible with drug induced liver disease. Diazepam was stopped and she recovered rapidly and had normal liver tests one month later. Tests for hepatitis A, B and C were not available.</p>
+          <sec id="DiazepamIV.Key_Points">
+            <title>Key Points</title>
+            <table-wrap id="DiazepamIV.T1" position="anchor" orientation="portrait">
+              <table>
+                <thead>
+                  <tr>
+                    <th id="hd_h_DiazepamIV.T1_1_1_1_1" rowspan="1" colspan="1">Medication:</th>
+                    <td rowspan="1" colspan="1">Diazepam (2 mg orally three times daily)</td>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <th headers="hd_h_DiazepamIV.T1_1_1_1_1" id="hd_b_DiazepamIV.T1_1_1_1_1" rowspan="1" colspan="1">Pattern:</th>
+                    <td headers="hd_b_DiazepamIV.T1_1_1_1_1" rowspan="1" colspan="1">Mixed (R=~4)</td>
+                  </tr>
+                  <tr>
+                    <th headers="hd_h_DiazepamIV.T1_1_1_1_1" id="hd_b_DiazepamIV.T1_1_1_2_1" rowspan="1" colspan="1">Severity:</th>
+                    <td headers="hd_b_DiazepamIV.T1_1_1_2_1" rowspan="1" colspan="1">3+ (jaundice and hospitalization)</td>
+                  </tr>
+                  <tr>
+                    <th headers="hd_h_DiazepamIV.T1_1_1_1_1" id="hd_b_DiazepamIV.T1_1_1_3_1" rowspan="1" colspan="1">Latency:</th>
+                    <td headers="hd_b_DiazepamIV.T1_1_1_3_1" rowspan="1" colspan="1">4 months</td>
+                  </tr>
+                  <tr>
+                    <th headers="hd_h_DiazepamIV.T1_1_1_1_1" id="hd_b_DiazepamIV.T1_1_1_4_1" rowspan="1" colspan="1">Recovery:</th>
+                    <td headers="hd_b_DiazepamIV.T1_1_1_4_1" rowspan="1" colspan="1">Complete recovery within a month after stopping</td>
+                  </tr>
+                  <tr>
+                    <th headers="hd_h_DiazepamIV.T1_1_1_1_1" id="hd_b_DiazepamIV.T1_1_1_5_1" rowspan="1" colspan="1">Other medications:</th>
+                    <td headers="hd_b_DiazepamIV.T1_1_1_5_1" rowspan="1" colspan="1">Birth control pills</td>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="DiazepamIV.Comment">
+            <title>Comment</title>
+            <p>The patient developed an acute hepatitis-like illness four months after starting diazepam. A liver biopsy showed changes typical of drug induced liver disease and the pattern of enzyme elevations and biopsy did not suggest viral hepatitis, serological testing for which was not available at the time. Causality assessment can only rank this example as a &#x0201c;probable&#x0201d; case of diazepam induced liver injury. In view of the wide scale use of diazepam, instances of hepatic injury are very rare, and no cases of severe, prolonged, persistent or fatal liver injury from diazepam have been published.</p>
+          </sec>
+        </sec>
+      </sec>
+      <sec id="DiazepamIV.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <boxed-text position="anchor" id="DiazepamIV.BPI" orientation="portrait">
+          <p>
+            <bold>REPRESENTATIVE TRADE NAMES</bold>
+          </p>
+          <p>Diazepam &#x02013; Valium&#x000ae;</p>
+          <p>
+            <bold>DRUG CLASS</bold>
+          </p>
+          <p>Anticonvulsants</p>
+          <p>
+            <bold>COMPLETE LABELING</bold>
+          </p>
+          <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+        </boxed-text>
+      </sec>
+      <sec id="DiazepamIV.CHEMICAL_FORMULA_AND_STRUCTUR">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="DiazepamIV.T2" position="anchor" orientation="portrait">
+          <table>
+            <thead>
+              <tr>
+                <th id="hd_h_DiazepamIV.T2_1_1_1_1" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_DiazepamIV.T2_1_1_1_2" rowspan="1" colspan="1">CAS REGISTRY NUMBER</th>
+                <th id="hd_h_DiazepamIV.T2_1_1_1_3" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_DiazepamIV.T2_1_1_1_4" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_DiazepamIV.T2_1_1_1_1" rowspan="1" colspan="1">Diazepam</td>
+                <td headers="hd_h_DiazepamIV.T2_1_1_1_2" rowspan="1" colspan="1">
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://134974836">439-14-5</ext-link>
+                </td>
+                <td headers="hd_h_DiazepamIV.T2_1_1_1_3" rowspan="1" colspan="1">C16-H13-Cl-N2-O</td>
+                <td headers="hd_h_DiazepamIV.T2_1_1_1_4" rowspan="1" colspan="1">
+                  <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Diazepam_Structure.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait">
+                    <alt-text>Diazepam chemical structure</alt-text>
+                  </graphic>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="DiazepamIV.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 25 January 2017</p>
+        <ref-list id="DiazepamIV.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="DiazepamIV.R1">
+            <mixed-citation publication-type="other">Zimmerman HJ. Anticonvulsants. In, Zimmerman, HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott,1999: pp. 498-516.<annotation><p><italic toggle="yes">(Expert review of benzodiazepines and liver injury published in 1999; mentions rare instances of cholestatic hepatitis have been reported due to alprazolam, chlordiazepoxide, diazepam, flurazepam, and triazolam and hepatocellular injury with clorazepate and clotiazepam, but no reports of hepatic injury with lorazepam, prazepam, oxazepam and temazepam).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="DiazepamIV.R2">
+            <mixed-citation publication-type="other">Pirmohamed M, Leeder SJ. Anticonvulsant agents. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 2nd ed. New York: Informa Healthcare USA, 2007: pp 485-506.<annotation><p><italic toggle="yes">(Review of anticonvulsant induced liver injury published in 2007; the benzodiazepines are not discussed).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="DiazepamIV.R3">
+            <mixed-citation publication-type="other">McNamara JO. Pharmacology of the epilepsies. In, Brunton LL, Lazo JS, Parker KL, eds. Goodman &#x00026; Gilman&#x02019;s the pharmacological basis of therapeutics. 11th ed. New York: McGraw-Hill, 2006, pp. 501-525.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="DiazepamIV.R4">
+            <mixed-citation publication-type="journal">
+              <annotation>
+                <p>
+                  <italic toggle="yes">Cook GC, Sherlock S. Jaundice and its relation to therapeutic agents. Lancet 1965; 1: 175-9. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/pubmed/14238042">PubMed Citation</ext-link> (11 cases of drug induced liver disease, all due to agents no longer in use; 2 patients were receiving diazepam, but other agents were more likely the cause). </italic>
+                </p>
+              </annotation>
+            </mixed-citation>
+          </ref>
+          <ref id="DiazepamIV.R5">
+            <mixed-citation publication-type="journal">Cunningham ML. Acute hepatic necrosis following treatment with amitriptyline and diazepam. Brit J Psychiat 1965; 111: 1107-9. <annotation><p><italic toggle="yes">(54 year old woman with dementia-depression placed on amitriptyline and diazepam developed progressive confusion 5 months later followed by jaundice, obtundation and death [bilirubin 5.2 mg/dL, ALT 200 U/L, Alk P 9.5 unknown units], autopsy showed small liver but no description of histology).</italic></p></annotation><pub-id pub-id-type="pmid">5841222</pub-id></mixed-citation>
+          </ref>
+          <ref id="DiazepamIV.R6">
+            <mixed-citation publication-type="journal">Buchanan N, Cane RD. Liver function tests and the prolonged use of high-dose diazepam with special reference to tetanus. S Afr Med J 1978; 54: 768. <annotation><p><italic toggle="yes">(After noting jaundice in a few patients receiving high doses of diazepam for tetanus, the authors prospectively tested 4 patients finding no consistent rises in serum ALT, Alk P or bilirubin on therapy).</italic></p></annotation><pub-id pub-id-type="pmid">741305</pub-id></mixed-citation>
+          </ref>
+          <ref id="DiazepamIV.R7">
+            <mixed-citation publication-type="journal">Stacher G. Intrahepatic cholostasis following combined diazepam-barbiturate therapy in patients with tetanus]. Wien Klin Wochenschr. 1973; 85: 401-6. German. <pub-id pub-id-type="pmid">4705881</pub-id></mixed-citation>
+          </ref>
+          <ref id="DiazepamIV.R8">
+            <mixed-citation publication-type="journal">Franks E, Jacobs WH. Cholestatic jaundice possibly due to benzodiazepine-type drugs. Mo Med 1975; 72: 605-6. (40 year old woman on multiple drugs including chlorpromazine developed jaundice [bilirubin 2.0 rising to 9.7 mg/dL, ALT 280 U/L, Alk P 546 U/L, 16% eosinophils], seemed to worsen on benzodiazepines including chlordiazepoxide, diazepam and flurazepam, resolving rapidly when they were stopped, but attribution to benzodiazepines difficult<annotation><p><italic toggle="yes">).</italic></p></annotation><pub-id pub-id-type="pmid">1181510</pub-id></mixed-citation>
+          </ref>
+          <ref id="DiazepamIV.R9">
+            <mixed-citation publication-type="journal">Fors B, Nilsson F. [Hepatitis probably induced by diazepam medication] Lakartidningen 1968; 65: 4528-31. Swedish. <annotation><p><italic toggle="yes">(24 and 34 year old women developed mild hepatitis with jaundice 1 and 4 months after starting diazepam [bilirubin 11 and 4.2 mg/dL, ALT 434 U/L Alk ~2 times ULN], rapid resolution with stopping).</italic></p></annotation><pub-id pub-id-type="pmid">5745628</pub-id></mixed-citation>
+          </ref>
+          <ref id="DiazepamIV.R10">
+            <mixed-citation publication-type="journal">Fang MH, Ginsberg AL, Dobbins WO 3rd. Cholestatic jaundice associated with flurazepam hydrochloride. Ann Intern Med 1978; 89: 363-4. <annotation><p><italic toggle="yes">(70 year old man developed fatigue followed by pruritis 3 months after starting flurazepam [bilirubin 6.6 mg/dL, ALT 179 U/L, Alk P 232 U/L, no eosinophilia], improving only when drug withdrawn).</italic></p></annotation><pub-id pub-id-type="pmid">28685</pub-id></mixed-citation>
+          </ref>
+          <ref id="DiazepamIV.R11">
+            <mixed-citation publication-type="journal">Bonkovsky HL, Sinclair PR, Emery S, Sinclair JF. Seizure management in acute hepatic porphyria: risks of valproate and clonazepam. Neurology 1980; 30: 588-92. <annotation><p><italic toggle="yes">(38 year old man with acute intermittent porphyria and seizures did not respond to clonazepam, and testing in chicken embryos showed that it increased hepatic prophyrins and ALA synthase activity).</italic></p></annotation><pub-id pub-id-type="pmid">6770287</pub-id></mixed-citation>
+          </ref>
+          <ref id="DiazepamIV.R12">
+            <mixed-citation publication-type="journal">Reynolds R, Lloyd DA, Slinger RP. Cholestatic jaundice induced by flurazepam hydrochloride. Can Med Assoc J 1981; 124: 893-4. <annotation><p><italic toggle="yes">(44 year old woman taking flurazepam intermittently for 6 months developed abdominal pain [bilirubin 8.2 mg/dL, AST 106 U/L, Alk P 209 U/L], resolving rapidly upon stopping, biopsy showed intrahepatic cholestasis).</italic></p></annotation><pub-id pub-id-type="pmid">7214289</pub-id></mixed-citation>
+          </ref>
+          <ref id="DiazepamIV.R13">
+            <mixed-citation publication-type="journal">Tedesco FJ, Mills LR. Diazepam(Valium) hepatitis. Dig Dis Sci 1982; 27: 470-2. <annotation><p><italic toggle="yes"> (45 year old man developed elevations of ALT [130 U/L] while on isoniazid [for 1 day] and diazepam [3 days], which resolved upon stopping and recurred upon rechallenge with diazepam, but not isoniazid which was tolerated long term).</italic></p></annotation><pub-id pub-id-type="pmid">7075434</pub-id></mixed-citation>
+          </ref>
+          <ref id="DiazepamIV.R14">
+            <mixed-citation publication-type="journal">D&#x000f8;ssing M, Andreasen PB. Drug-induced liver disease in Denmark. An analysis of 572 cases of hepatotoxicity reported to the Danish Board of Adverse Reactions to Drugs. Scand J Gastroenterol 1982; 17: 205-11. <annotation><p><italic toggle="yes">(Among 572 cases of hepatotoxicity reported to a Danish registry between 1968 and 1978, 97 were due to psychotropic agents, but only two attributed to benzodiazepines).</italic></p></annotation><pub-id pub-id-type="pmid">6982502</pub-id></mixed-citation>
+          </ref>
+          <ref id="DiazepamIV.R15">
+            <mixed-citation publication-type="journal">Roy-Byrne P, Vittone BJ, Uhde TW. Alprazolam-related hepatotoxicity. Lancet 1983; 2: 786-7. <annotation><p><italic toggle="yes">(30 year old woman was found to have elevated ALT [96 U/L] 2 weeks after starting alprazolam, which promptly resolved when drug was stopped; rechallenge led to asymptomatic ALT rise within 9 days [28 to 70 U/L]).</italic></p></annotation><pub-id pub-id-type="pmid">6137615</pub-id></mixed-citation>
+          </ref>
+          <ref id="DiazepamIV.R16">
+            <mixed-citation publication-type="journal">Davion T, Capron-Chivrac D, Andrejak M, Capron JP. [Hepatitis due to antiepileptic agents] Gastroenterol Clin Biol 1985; 9: 117-26. <annotation><p><italic toggle="yes">(Review of hepatotoxicity of anticonvulsants; among benzodiazepines, cases of cholestatic hepatitis have been linked to chlordiazepoxide and diazepam, but liver injury from this class of drugs is rare).</italic></p></annotation><pub-id pub-id-type="pmid">3920108</pub-id></mixed-citation>
+          </ref>
+          <ref id="DiazepamIV.R17">
+            <mixed-citation publication-type="journal">Judd FK, Norman TR, Marriott PF, Burrows GD. A case of alprazolam-related hepatitis. Am J Psychiatry 1986; 143: 388-9. <annotation><p><italic toggle="yes">(59 year old woman developed lethargy 2 weeks after starting alprazolam followed by jaundice [bilirubin 2.6 mg/dL, AST 156 U/L, Alk P 241 U/L], resolving within 4 weeks of switching to diazepam).</italic></p></annotation><pub-id pub-id-type="pmid">2869702</pub-id></mixed-citation>
+          </ref>
+          <ref id="DiazepamIV.R18">
+            <mixed-citation publication-type="journal">Olsson R, Zettergren L. Anticonvulsant-induced liver damage. Am J Gastroenterol 1988; 83: 576-7. <annotation><p><italic toggle="yes">(30 year old man developed fever, rash and jaundice 6 weeks after starting phenytoin; he was switched to carbamazepine and clonazepine, but redeveloped jaundice 3 months later; resolved with stopping, but recurred with restarting clonazepine alone [bilirubin 1.8 mg/dL, ALT 1380 U/L, Alk P 176 U/L] without rash, fever or eosinophilia, resolving in 6 weeks of stopping clonazepine).</italic></p></annotation><pub-id pub-id-type="pmid">3364416</pub-id></mixed-citation>
+          </ref>
+          <ref id="DiazepamIV.R19">
+            <mixed-citation publication-type="journal">Habersetzer F, Larrey D, Babany G, Degott C, Corbic M, Pessayre D, Benhamou J-P. Clotiazepam-induced acute hepatitis. J Hepatol 1989; 9: 256-9. <annotation><p><italic toggle="yes">(65 year old woman developed jaundice 6 months after starting clotiazepam [bilirubin 5.1 mg/dL, ALT 1028 U/L, GGT 143 U/L] with no rash or fever, resolving on stopping clotiazepam and no recurrence after taking triazolam and temazepam).</italic></p></annotation><pub-id pub-id-type="pmid">2572625</pub-id></mixed-citation>
+          </ref>
+          <ref id="DiazepamIV.R20">
+            <mixed-citation publication-type="journal">Nahata MC, Murray RD, Zingarelli J, Li BU, McClung HJ, Lininger B. Efficacy and safety of a diazepam and meperidine combination for pediatric gastrointestinal procedures. J Pediatr Gastroenterol Nutr 1990; 10: 335-8. <annotation><p><italic toggle="yes">(Safety of use of intravenous diazepam in children undergoing endoscopy; no mention of ALT abnormalities or liver injury).</italic></p></annotation><pub-id pub-id-type="pmid">2324894</pub-id></mixed-citation>
+          </ref>
+          <ref id="DiazepamIV.R21">
+            <mixed-citation publication-type="journal">Suzuki A, Aso K, Ariyoshi C, Ishimaru M. Acute intermittent porphyria and epilepsy: safety of clonazepam. Epilepsia 1992; 33: 108-11. <annotation><p><italic toggle="yes">(13 year old girl with acute intermittent porphyria worsened on valproate and on phenytoin therapy, but clonazepam led to control of seizures and no worsening of porphyria).</italic></p></annotation><pub-id pub-id-type="pmid">1733741</pub-id></mixed-citation>
+          </ref>
+          <ref id="DiazepamIV.R22">
+            <mixed-citation publication-type="journal">Wallace SJ. A comparative review of the adverse effects of anticonvulsants in children with epilepsy. Drug Saf 1996; 15: 378-93. <annotation><p><italic toggle="yes">(Systematic review; ALT elevations occur in 4% of children on phenytoin, 6% on valproate, 1% on carbamazepine; &#x0201c;No child taking&#x02026; benzodiazepines had raised liver enzyme levels,&#x0201d;).</italic></p></annotation><pub-id pub-id-type="pmid">8968693</pub-id></mixed-citation>
+          </ref>
+          <ref id="DiazepamIV.R23">
+            <mixed-citation publication-type="journal">Lewis JH, Zimmerman HJ. Drug- and chemical-induced cholestasis. Clin Liver Dis 1999; 3: 433-64. <annotation><p><italic toggle="yes">(Review of drug induced cholestatic syndromes, listing many causes including chlordiazepoxide and flurazepam: &#x0201c;Benzodiazepines may cause cholestatic injury, although this is rare.&#x0201d;).</italic></p></annotation><pub-id pub-id-type="pmid">11291233</pub-id></mixed-citation>
+          </ref>
+          <ref id="DiazepamIV.R24">
+            <mixed-citation publication-type="journal">Selim K, Kaplowitz N. Hepatotoxicity of psychotropic drugs. Hepatology 1999; 29: 1347-51. <annotation><p><italic toggle="yes">(Review of hepatotoxicity of phenothiazines, butyrophenones, tricyclics, MAO inhibitors, acetylcholesterase inhibitors, and psychotropic drugs of abuse; &#x0201c;benzodiazepines&#x02026;have a very low hepatotoxic potential, with only case reports in the literature, usually with a cholestatic pattern&#x0201d;).</italic></p></annotation><pub-id pub-id-type="pmid">10216114</pub-id></mixed-citation>
+          </ref>
+          <ref id="DiazepamIV.R25">
+            <mixed-citation publication-type="journal">Russo MW, Galanko JA, Shrestha R, Fried MW, Watkins P. Liver transplantation for acute liver failure from drug-induced liver injury in the United States. Liver Transpl 2004; 10: 1018-23. <annotation><p><italic toggle="yes">(Among ~50,000 liver transplants done in the US between 1990 and 2002, 137 [0.2%] were done for idiosyncratic drug induced acute liver failure, of which 10 were attributed to phenytoin, 10 to valproate and 1 to carbamazepine, but none to benzodiazepines or other anticonvulsants).</italic></p></annotation><pub-id pub-id-type="pmid">15390328</pub-id></mixed-citation>
+          </ref>
+          <ref id="DiazepamIV.R26">
+            <mixed-citation publication-type="journal">Bj&#x000f6;rnsson E, Jerlstad P, Bergqvist A, Olsson R. Fulminant drug-induced hepatic failure leading to death or liver transplantation in Sweden. Scand J Gastroenterol 2005; 40: 1095-101. <annotation><p><italic toggle="yes">(36 years of reporting to Swedish registry identified 103 cases of acute liver failure due to drugs, of which 1 was attributed to phenytoin, 1 to valproate and 1 to carbamazepine, but none to benzodiazepines or other anticonvulsants).</italic></p></annotation><pub-id pub-id-type="pmid">16165719</pub-id></mixed-citation>
+          </ref>
+          <ref id="DiazepamIV.R27">
+            <mixed-citation publication-type="journal">
+              <annotation>
+                <p>
+                  <italic toggle="yes">Sabat&#x000e9; M, Ib&#x000e1;&#x000f1;ez L, P&#x000e9;rez E, Vidal X, Buti M, Xiol X, Mas A, et al. Risk of acute liver injury associated with the use of drugs: a multicentre population survey. Aliment Pharmacol Ther 2007; 25:1401-9. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/pubmed/17539979">PubMed Citation</ext-link> (Among 126 cases of drug induced liver injury seen in Spain between 1993-2000, 20 were attributed to benzodiazepines including 5 for clorazepate, 5 alprazolam, 6 lorazepam and 4 diazepam, but compared to controls, relative risk of injury was increased only for clorazepate [8.3: estimated frequency 3.4 per 100,000 person-year exposures]).</italic>
+                </p>
+              </annotation>
+            </mixed-citation>
+          </ref>
+          <ref id="DiazepamIV.R28">
+            <mixed-citation publication-type="journal">Bj&#x000f6;rnsson E. Hepatotoxicity associated with antiepileptic drugs. Acta Neurol Scan 2008; 118: 281-90. <annotation><p><italic toggle="yes">(Review of hepatotoxicity of all anticonvulsants focusing upon phenytoin, valproate, carbamazepine; &#x0201c;Furthermore, hepatotoxicity has not been convincingly shown to be associated with the use of benzodiazepines&#x0201d;).</italic></p></annotation><pub-id pub-id-type="pmid">18341684</pub-id></mixed-citation>
+          </ref>
+          <ref id="DiazepamIV.R29">
+            <mixed-citation publication-type="journal">Chalasani N, Fontana RJ, Bonkovsky HL, Watkins PB, Davern T, Serrano J, Yang H, Rochon J; Drug Induced Liver Injury Network (DILIN). Causes, clinical features, and outcomes from a prospective study of drug-induced liver injury in the United States. Gastroenterology 2008; 135: 1924-34. <annotation><p><italic toggle="yes">(Among 300 cases of drug induced liver disease in the US collected between 2004 and 2008, none were attributed to benzodiazepines).</italic></p></annotation><pub-id pub-id-type="pmid">18955056</pub-id></mixed-citation>
+          </ref>
+          <ref id="DiazepamIV.R30">
+            <mixed-citation publication-type="journal">Ferrajolo C, Capuano A, Verhamme KM, Schuemie M, Rossi F, Stricker BH, Sturkenboom MC. Drug-induced hepatic injury in children: a case/non-case study of suspected adverse drug reactions in VigiBase. Br J Clin Pharmacol 2010; 70: 721-8. <annotation><p><italic toggle="yes"> (Worldwide pharmacovigilance database contained 9036 hepatic adverse drug reactions in children, benzodiazepines were not among the top 40 agents implicated).</italic></p></annotation><pub-id pub-id-type="pmid">21039766</pub-id></mixed-citation>
+          </ref>
+          <ref id="DiazepamIV.R31">
+            <mixed-citation publication-type="journal">Reuben A, Koch DG, Lee WM; Acute Liver Failure Study Group. Drug-induced acute liver failure: results of a U.S. multicenter, prospective study. Hepatology 2010; 52: 2065-76. <annotation><p><italic toggle="yes">(Among 1198 patients with acute liver failure enrolled in a US prospective study between 1998 and 2007, 133 were attributed to drug induced liver injury, but none were attributed to a benzodiazepine).</italic></p></annotation><pub-id pub-id-type="pmid">20949552</pub-id></mixed-citation>
+          </ref>
+          <ref id="DiazepamIV.R32">
+            <mixed-citation publication-type="journal">Bj&#x000f6;rnsson ES, Bergmann OM, Bj&#x000f6;rnsson HK, Kvaran RB, Olafsson S. Incidence, presentation and outcomes in patients with drug-induced liver injury in the general population of Iceland. Gastroenterology 2013; 144: 1419-25. <annotation><p><italic toggle="yes">(In a population based study of drug induced liver injury from Iceland, 96 cases were identified over a 2 year period, but none were attributed to a benzodiazepine).</italic></p></annotation><pub-id pub-id-type="pmid">23419359</pub-id></mixed-citation>
+          </ref>
+          <ref id="DiazepamIV.R33">
+            <mixed-citation publication-type="journal">Drugs for epilepsy. Treat Guidel Med Lett 2013; 11: 9-18. <annotation><p><italic toggle="yes">(Concise review of indications and side effects of anticonvulsants; no mention of hepatotoxicity of benzodiazepines).</italic></p></annotation><pub-id pub-id-type="pmid">23348233</pub-id></mixed-citation>
+          </ref>
+          <ref id="DiazepamIV.R34">
+            <mixed-citation publication-type="journal">Chalasani N, Bonkovsky HL, Fontana R, Lee W, Stolz A, Talwalkar J, Reddy KR, et al.; United States Drug Induced Liver Injury Network. Features and outcomes of 899 patients with drug-induced liver injury: The DILIN Prospective Study. Gastroenterology 2015; 148: 1340-52. <annotation><p><italic toggle="yes">(Among 899 cases of drug induced liver injury enrolled in a US prospective study between 2004 and 2013, 40 [4.5%] were attributed to anticonvulsants, but none to benzodiazepine anticonvulsants).</italic></p></annotation><pub-id pub-id-type="pmid">25754159</pub-id></mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec id="DiazepamIV.OTHER_REFERENCE_LINKS" sec-type="link-group">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=(diazepam/AE)+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%222009/11/1%22%5BEDat%5D%3A%222999/12/31%22%5BEDat%5D)">Recent References on Diazepam: from PubMed.gov</ext-link>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=diazepam">Trials on Diazepam: from ClinicalTrials.gov</ext-link>
+            </p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

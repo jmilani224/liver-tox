@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Posaconazole" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Posaconazole</book-part-id>
+      <title-group>
+        <title>Posaconazole</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>17</day>
+          <month>5</month>
+          <year>2017</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Ponatinib" document-type="chapter">Ponatinib</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Pralatrexate" document-type="chapter">Pralatrexate</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Posaconazole.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Posaconazole.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Posaconazole is a potent triazole antifungal agent used in the prevention of invasive fungal infections due to aspergillosis and candida in high risk patients. Posaconazole therapy is associated with transient, asymptomatic serum aminotransferase elevations and is a suspected but rare cause of clinically apparent acute drug induced liver injury.</p>
+        </sec>
+        <sec id="Posaconazole.Background">
+          <title>Background</title>
+          <p>Posaconazole (poe" sa kon' a zole) is a synthetic triazole that is believed to act through inhibition of the fungal 14&#x003b1;-ergosterol demethylase, which is responsible for converting lanosterol to ergosterol and which blocks cell membrane synthesis. Posaconazole is active against a broad spectrum of fungal agents including Candida albicans and Aspergillus fumigatus. Posaconazole was approved for use in the United States in 2006. Current indications are oropharyngeal candidiasis and prophylaxis against invasive fungal infections in neutropenic or immunosuppressed patients. Posaconazole is available as a 100 mg delayed-release tablet and as an oral suspension of 40 mg/mL under the brand name Noxafil. A loading dose is recommended followed by maintenance doses of 100 to 300 mg daily; however, the dosage varies depending upon indications and the formulation used. Common side effects include nausea, vomiting, diarrhea, abdominal pain, headache, dizziness and rash.</p>
+        </sec>
+        <sec id="Posaconazole.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>Transient elevations in serum aminotransferase levels occur in 2% to 12% of patients on posaconazole. These elevations are usually mild, asymptomatic and self-limited and rarely require discontinuation of the medication. Clinically apparent hepatotoxicity is very rare. Instances of jaundice and hepatitis during posaconazole therapy are mentioned in the product label, but little information was provided on clinical details.</p>
+          <p>Likelihood score: E* (unproved but suspected cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Posaconazole.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The cause of the liver injury from posaconazole is unknown; however, it may have some correlation to the ability of voriconazole to alter human sterol synthesis. Because posaconazole inhibits CYP 3A4 activity, it can cause significant drug-drug interactions and including elevations in plasma levels of other medications that are metabolized by this P450 enzyme, sometimes resulting in toxicity.</p>
+        </sec>
+        <sec id="Posaconazole.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>The severity of the liver injury from posaconazole ranges from mild and transient enzyme elevations to hepatitis with jaundice. Fatal instances have not been described, but the drug has not been extensively used or studied. A single case report describes a patient with hepatotoxicity from voriconazole who was able to tolerate posaconazole without difficulty. Nevertheless, caution should be used in starting other azole antifungal agents in patients with clinically apparent liver injury due to ketoconazole, itraconazole, fluconazole or voriconazole.</p>
+          <p>Drug Class: <related-object source-id="livertox" document-id="AntifungalAgents">Antifungal Agents</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Posaconazole.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <boxed-text position="anchor" id="Posaconazole.BPI" orientation="portrait">
+          <p>
+            <bold>REPRESENTATIVE TRADE NAMES</bold>
+          </p>
+          <p>Posaconazole &#x02013; Noxafil&#x000ae;</p>
+          <p>
+            <bold>DRUG CLASS</bold>
+          </p>
+          <p>Antifungal Agents</p>
+          <p>
+            <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=posaconazole">COMPLETE LABELING</ext-link>
+          </p>
+          <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+        </boxed-text>
+      </sec>
+      <sec id="Posaconazole.CHEMICAL_FORMULA_AND_STRUCT">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Posaconazole.T1" position="anchor" orientation="portrait">
+          <table>
+            <thead>
+              <tr>
+                <th id="hd_h_Posaconazole.T1_1_1_1_1" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Posaconazole.T1_1_1_1_2" rowspan="1" colspan="1">CAS REGISTRY NUMBER</th>
+                <th id="hd_h_Posaconazole.T1_1_1_1_3" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Posaconazole.T1_1_1_1_4" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Posaconazole.T1_1_1_1_1" rowspan="1" colspan="1">Posaconazole</td>
+                <td headers="hd_h_Posaconazole.T1_1_1_1_2" rowspan="1" colspan="1">
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135104579">171228-49-2</ext-link>
+                </td>
+                <td headers="hd_h_Posaconazole.T1_1_1_1_3" rowspan="1" colspan="1">C37-H42-F2-N8-O4</td>
+                <td headers="hd_h_Posaconazole.T1_1_1_1_4" rowspan="1" colspan="1">
+                  <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="posaconazole.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait">
+                    <alt-text>Image of Posaconazole Chemical Structure</alt-text>
+                  </graphic>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Posaconazole.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 17 May 2017</p>
+        <ref-list id="Posaconazole.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Posaconazole.R1">
+            <mixed-citation publication-type="other">Zimmerman HJ. Antifungal agents. In, Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999, pp. 609-11.<annotation><p><italic toggle="yes">(Expert review of hepatotoxicity of antifungal agents published in 1999 before the availability of posaconazole).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Posaconazole.R2">
+            <mixed-citation publication-type="other">Moseley RH. Antifungal agents. Antibacterial and antifungal agents. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013, pp. 470-81. <italic toggle="yes">(Review of hepatotoxicity of antifungal agents</italic><annotation><p><italic toggle="yes">; mentions that asymptomatic elevations in liver enzymes occur in 5-15% of patients treated with posaconazole).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Posaconazole.R3">
+            <mixed-citation publication-type="other">Bennett JE. Antimicrobial agents: antifungal agents. In, Brunton LL, Chabner BA, Knollman BC, eds. Goodman &#x00026; Gilman&#x02019;s the pharmacological basis of therapeutics. 12th ed. New York: McGraw-Hill, 2011, pp. 1571-92.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics mentions that posaconazole is a synthetic analog of itraconazole with similar activity and a good safety profile).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Posaconazole.R4">
+            <mixed-citation publication-type="journal">Courtney R, Sansone A, Smith W, Marbury T, Statkevich P, Marinho M, Laughlin M, et al. Posaconazole pharmacokinetics, safety, and tolerability in subjects with varying degrees of chronic renal disease. J Clin Pharmacol 2005; 45: 185-92. <annotation><p><italic toggle="yes">(Single and multiple dose pharmacokinetic study of posaconazole in 24 patients with renal dysfunction; ALT elevations occurred in five patients, but only one without ALT elevations before therapy).</italic></p></annotation><pub-id pub-id-type="pmid">15647411</pub-id></mixed-citation>
+          </ref>
+          <ref id="Posaconazole.R5">
+            <mixed-citation publication-type="journal">Vazquez JA, Skiest DJ, Tissot-Dupont H, Lennox JL, Boparai N, Isaacs R. Safety and efficacy of posaconazole in the long-term treatment of azole-refractory oropharyngeal and esophageal candidiasis in patients with HIV infection. HIV Clin Trials 2007; 8: 86-97. <annotation><p><italic toggle="yes">(Open label study of posaconazole in 90 patients with HIV infection and refractory oropharyngeal candidiasis; elevated ALT levels occurred in 3 of 51 [6%] on long term therapy and one developed jaundice).</italic></p></annotation><pub-id pub-id-type="pmid">17507324</pub-id></mixed-citation>
+          </ref>
+          <ref id="Posaconazole.R6">
+            <mixed-citation publication-type="journal">Foo H, Gottlieb T. Lack of cross-hepatotoxicity between voriconazole and posaconazole. Clin Infect Dis 2007; 45: 803-5. <annotation><p><italic toggle="yes">(70 year old man developed cholestatic liver enzyme elevations within a month of starting amphotericin and voriconazole [bilirubin normal, Alk P 1210 U/L, ALT 104 U/L], which fell towards normal when he was switched to posaconazole).</italic></p></annotation><pub-id pub-id-type="pmid">17712772</pub-id></mixed-citation>
+          </ref>
+          <ref id="Posaconazole.R7">
+            <mixed-citation publication-type="journal">Schiller DS, Fung HB. Posaconazole: an extended-spectrum triazole antifungal agent. Clin Ther 2007; 29: 1862-86. <annotation><p><italic toggle="yes"> (Review of the pharmacology, safety and efficacy of posaconazole; a combined safety analysis of data from 428 patients in clinical trials found that 2% of patients discontinued therapy because of liver test abnormalities; no discussion of hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">18035188</pub-id></mixed-citation>
+          </ref>
+          <ref id="Posaconazole.R8">
+            <mixed-citation publication-type="journal">Chalasani N, Fontana RJ, Bonkovsky HL, Watkins PB, Davern T, Serrano J, Yang H, Rochon J; Drug Induced Liver Injury Network (DILIN). Causes, clinical features, and outcomes from a prospective study of drug-induced liver injury in the United States. Gastroenterology 2008; 135: 1924-34. <annotation><p><italic toggle="yes">(Among 300 cases of drug induced liver disease in the US collected from 2004 to 2008, two cases were attributed to fluconazole, and one to ketoconazole, one to itraconazole, none to voriconazole or posaconazole).</italic></p></annotation><pub-id pub-id-type="pmid">18955056</pub-id></mixed-citation>
+          </ref>
+          <ref id="Posaconazole.R9">
+            <mixed-citation publication-type="journal">Morris MI. Posaconazole: a new oral antifungal agent with an expanded spectrum of activity. Am J Health Syst Pharm 2009; 66: 225-36. <annotation><p><italic toggle="yes">(Among 300 cases of drug induced liver disease in the US collected between 2004 and 2008, 8 were attributed to antifungal agents, including 4 to terbinafine, 2 to fluconazole, 1 each to ketaconazole and itraconazole, but none were linked to posaconazole).</italic></p></annotation><pub-id pub-id-type="pmid">19179636</pub-id></mixed-citation>
+          </ref>
+          <ref id="Posaconazole.R10">
+            <mixed-citation publication-type="journal">Morris MI. Posaconazole: a new oral antifungal agent with an expanded spectrum of activity. Am J Health Syst Pharm 2009; 66: 225-36. <italic toggle="yes">
+</italic><annotation><p><italic toggle="yes">(Review of structure, pharmacokinetics, antifungal activity, clinical use, and adverse effects; in pooled analysis from 2 trials with 428 patients, liver enzyme elevations occurred in 2% of patients; posaconazole interacts with CYP 3A4 but not other P450 enzymes).</italic></p></annotation><pub-id pub-id-type="pmid">19179636</pub-id></mixed-citation>
+          </ref>
+          <ref id="Posaconazole.R11">
+            <mixed-citation publication-type="journal">Moton A, Krishna G, Wang Z. Tolerability and safety profile of posaconazole: evaluation of 18 controlled studies in healthy volunteers. J Clin Pharm Ther 2009; 34: 301-11. <annotation><p><italic toggle="yes">(Review of safety data from 18 clinical studies of posaconazole in 449 healthy volunteers; ALT elevations occured in 12% of posaconazole vs 6% on placebo, but none were greater than 5 times ULN).</italic></p></annotation><pub-id pub-id-type="pmid">19646076</pub-id></mixed-citation>
+          </ref>
+          <ref id="Posaconazole.R12">
+            <mixed-citation publication-type="journal">Antifungal drugs. Treat Guidel Med Lett 2009; 7: 95-102. <annotation><p><italic toggle="yes">(Concise summary of therapy of fungal infections with recommendations on agents, dosage and duration of treatment and safety; posaconazole is similar in activity to itraconazole and has similar safety profile to fluconazole; abnormal liver function has been reported, but infrequently leads to drug discontinuation).</italic></p></annotation><pub-id pub-id-type="pmid">19940816</pub-id></mixed-citation>
+          </ref>
+          <ref id="Posaconazole.R13">
+            <mixed-citation publication-type="journal">Wang JL, Chang CH, Young-Xu Y, Chan KA. Systematic review and meta-analysis of the tolerability and hepatotoxicity of antifungals in empirical and definitive therapy for invasive fungal infection. Antimicrob Agents Chemother 2010; 54: 2409-19. <annotation><p><italic toggle="yes">(Systematic review of 39 controlled trials in more than 8000 patients, found liver enzyme elevations in 14.5% of patients on amphotericin [pooled estimate]; 19.7% on voriconazole; 18.9% itraconazole; 10% fluconazole; 2.8% anidulafungin; 7.2% caspofungin; and 5.7% micafungin; posaconazole not discussed).</italic></p></annotation><pub-id pub-id-type="pmid">20308378</pub-id></mixed-citation>
+          </ref>
+          <ref id="Posaconazole.R14">
+            <mixed-citation publication-type="journal">Ferrajolo C, Capuano A, Verhamme KM, Schuemie M, Rossi F, Stricker BH, Sturkenboom MC. Drug-induced hepatic injury in children: a case/non-case study of suspected adverse drug reactions in VigiBase. Br J Clin Pharmacol 2010; 70: 721-8. <annotation><p><italic toggle="yes">(Worldwide pharmacovigilance database contained 9036 hepatic adverse drug reactions in children, voriconazole ranked 21st with 52 cases [odds ratio 10.7] and fluconazole 30th with 42 cases [odds ratio 8.6]; no other antifungal agent listed in the top 40 causes).</italic></p></annotation><pub-id pub-id-type="pmid">21039766</pub-id></mixed-citation>
+          </ref>
+          <ref id="Posaconazole.R15">
+            <mixed-citation publication-type="journal">Illmer T, Babatz J, Pursche S, St&#x000f6;lzel F, Schuler U, Schaich M, Ehninger G. Posaconazole prophylaxis during induction therapy of patients with acute lymphoblastic leukaemia. Mycoses 2011; 54: e143-7. <annotation><p><italic toggle="yes">(In a pilot study using posaconazole as prophylaxis against fungal infections in 8 patients on an intensified chemotherapy regimen, 5 developed ALT elevations [3 were above 5 times ULN], but the toxicity was transient in all and none developed hepatitis).</italic></p></annotation><pub-id pub-id-type="pmid">20337942</pub-id></mixed-citation>
+          </ref>
+          <ref id="Posaconazole.R16">
+            <mixed-citation publication-type="journal">Raschi E, Poluzzi E, Koci A, Caraceni P, Ponti FD. Assessing liver injury associated with antimycotics: Concise literature review and clues from data mining of the FAERS database. World J Hepatol 2014; 6: 601-12. <annotation><p><italic toggle="yes">(Analysis of the FDA database on adverse reactions [2004 to 2011] identified 68,115 reports of liver injury including 1964 due to antifungal agents, the most common being terbinafine [422], fluconazole [412], voriconazole [361], amphotericin B [265], itraconazole [182], ketaconazole [94], and posaconazole [70]; among 112 cases with acute liver failure causes included fluconazole [31], terbinafine [27], voriconazole [19], ketoconazole [6], posaconazole [5], and itraconazole [4]).</italic></p></annotation><pub-id pub-id-type="pmid">25232453</pub-id></mixed-citation>
+          </ref>
+          <ref id="Posaconazole.R17">
+            <mixed-citation publication-type="journal">Chalasani N, Bonkovsky HL, Fontana R, Lee W, Stolz A, Talwalkar J, Reddy KR, et al.; United States Drug Induced Liver Injury Network. Features and outcomes of 899 patients with drug-induced liver injury: The DILIN Prospective Study. Gastroenterology 2015; 148: 1340-52.e7. <annotation><p><italic toggle="yes">(Among 899 cases of drug induced liver injury enrolled in a US prospective study between 2004 and 2013, 14 cases [1.6%] were attributed to antifungal agents including 6 triazoles [3 with jaundice and 2 hospitalized, no deaths], 4 due to fluconazole, 1 ketoconazole and 1 voriconazole).</italic></p></annotation><pub-id pub-id-type="pmid">25754159</pub-id></mixed-citation>
+          </ref>
+          <ref id="Posaconazole.R18">
+            <mixed-citation publication-type="journal">Lo Re V 3rd, Carbonari DM, Lewis JD, Forde KA, Goldberg DS, Reddy KR, Haynes K, et al. Oral azole antifungal medications and risk of acute liver injury, overall and by chronic liver disease status. Am J Med 2016; 129: 283-91. <annotation><p><italic toggle="yes"> (Among 14,296 persons treated with oral ketoconazole analyzed from a Kaiser Permanente clinical database, the incidence of ALT or AST elevations above 200 U/L was 1.9% and severe acute liver injury 0.3%; one patient developed acute liver failure and required liver transplantation).</italic></p></annotation><pub-id pub-id-type="pmid">26597673</pub-id></mixed-citation>
+          </ref>
+          <ref id="Posaconazole.R19">
+            <mixed-citation publication-type="journal">Kyriakidis I, Tragiannidis A, Munchen S, Groll AH. Clinical hepatotoxicity associated with antifungal agents. Expert Opin Drug Saf 2017; 16: 149-65. <annotation><p><italic toggle="yes">(Review of the hepatotoxicity of antifungal agents states that all antifungal agents may cause hepatic toxicity and discusses fluconazole, itraconazole, voriconazole, posaconazole and isavuconazole, but not ketoconazole).</italic></p></annotation><pub-id pub-id-type="pmid">27927037</pub-id></mixed-citation>
+          </ref>
+          <ref id="Posaconazole.R20">
+            <mixed-citation publication-type="journal">Pettit NN, Miceli MH, Rivera CG, Narayanan PP, Perissinotti AJ, Hsu M, Delacruz J, et al. Multicentre study of posaconazole delayed-release tablet serum level and association with hepatotoxicity and QTc prolongation. J Antimicrob Chemother 2017 May 5. [Epub ahead of print] <annotation><p><italic toggle="yes"> (Among 166 patients with cancer who received posaconazole at 4 major medical centers, mean serum ALT, AST and Alk P levels increased, but elevations were not associated with higher posaconazole drug levels and specific instances of liver injury were not described).</italic></p></annotation><pub-id pub-id-type="pmid">28475803</pub-id></mixed-citation>
+          </ref>
+          <ref id="Posaconazole.R21">
+            <mixed-citation publication-type="journal">Tverdek FP, Heo ST, Aitken SL, Granwehr B, Kontoyiannis DP. Real-life assessment of the safety and effectiveness of the new tablet and intravenous formulations of posaconazole in the prophylaxis of invasive fungal infections: analysis of 343 courses. Antimicrob Agents Chemother 2017 May 15. [Epub ahead of print] <annotation><p><italic toggle="yes"> (Among 172 patients treated with prophylactic posaconazole who had no preexisting liver abnormalities, 25 [15%] developed de novo liver test abnormalities [bilirubin elevations in 23 and ALT in 3] and the abnormalities were more common with higher plasma levels of posaconazole).</italic></p></annotation><pub-id pub-id-type="pmid">28507111</pub-id></mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec id="Posaconazole.OTHER_REFERENCE_LINKS" sec-type="link-group">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=(posaconazole)+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%222010/1/1%22%5BEDat%5D%3A%222999/12/31%22%5BEDat%5D)">Recent References on Posaconazole: from PubMed.gov</ext-link>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=posaconazole">Trials on Posaconazole: from ClinicalTrials.gov</ext-link>
+            </p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

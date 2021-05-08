@@ -1,0 +1,3213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="PenicillinSecondGen" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">PenicillinSecondGen</book-part-id>
+      <title-group>
+        <title>Penicillins (2nd Generation)</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>20</day>
+          <month>10</month>
+          <year>2020</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="PenicillinFirstGen" document-type="chapter">Penicillins (1st Generation)</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="PenicillinThirdGen" document-type="chapter">Penicillins (3rd Generation)</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="PenicillinSecondGen.OVERVIEW">
+        <title>OVERVIEW</title>
+        <p>The penicillinase-resistant [also referred to as second generation penicillins] are semisynthetic modifications of natural penicillins that are resistant to bacterial enzyme beta-lactamase, which accounts for typical penicillin resistance. The natural penicillins from which the second generation penicillins are made are bactericidal antibiotics naturally derived from the mold, Penicillium chrysogenum. Their basic structure includes a thiazolidine ring connected to a beta-lactam ring with a variable side chain. As a class, the penicillins bind to bacterial proteins and inhibit synthesis of the bacterial cell wall, causing cell lysis particularly in rapidly growing organisms. Bacterial resistance to penicillin is usually mediated by beta-lactamase, an enzyme which destroys the beta-lactam ring of penicillin, rendering it inactive. The penicillinase-resistant penicillins resist the hydrolysis of the beta-lactam ring by the bacterial enzymes. They are active against most organisms that are susceptible to the natural penicillins (although less active than penicillin G) and have extended coverage against resistant forms.</p>
+        <sec id="PenicillinSecondGen.Background" sec-type="pubmed-excerpt">
+          <title>Background</title>
+          <p>Three major penicillinase-resistant penicillins are available in the United States: dicloxacillin (dye klox" a sil' in), oxacillin (ox" a sil' in) and nafcillin (naf sil' in). Dicloxacillin is orally available; oxacillin and nafcillin have both oral and parenteral formulations, the latter being given by the intramuscular or intravenous route. Other formulations available abroad or in the past include methicillin, cloxacillin and flucloxacillin, which have been associated with a higher frequency of side effects including hepatic injury. The major indications for dicloxacillin, oxacillin and nafcillin are moderate-to-serious infections with susceptible penicillinase-producing staphylococci; these agents are also active against organisms susceptible to natural penicillins, but are less active than the natural penicillins.</p>
+        </sec>
+        <sec id="PenicillinSecondGen.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>Three forms of liver injury have been attributed to the penicillinase-resistant and other penicillins. The first is a transient and usually asymptomatic elevation in serum aminotransferase levels that occurs with high dose intravenous therapy with oxacillin (Case 1, Oxacillin) and rarely with standard penicillins (Case 1, Penicillin G). This reaction has not been described with nafcillin or dicloxacillin and patients can be safety switched to these or other forms of penicillin in the face of oxacillin injury. This form of penicillin-induced liver injury occurs only with high dose therapy that is likely due to direct hepatotoxicity.</p>
+          <p>The second form of hepatotoxicity occurs in patients with hypersensitivity reactions to the penicillin (Case 2, Penicillin G). Generally, the liver injury is mild and is overshadowed by the allergic phenomena (rash, fever, facial edema, anaphylaxis). Mild elevations of serum aminotransferase or alkaline phosphatase without jaundice are not uncommon in patients with severe penicillin reactions, and the abnormalities generally resolve rapidly with improvement in the allergic features.</p>
+          <p>The third form of hepatotoxicity is an idiosyncratic, usually self-limited cholestatic hepatitis that occurs within 1 to 6 weeks of initiation of therapy and is quite rare, described only in single case reports with oxacillin, nafcillin and dicloxacillin (Case 1, nafcillin and Case 1, dicloxacillin). This injury probably represents a class effect and patients who develop idiosyncratic liver injury due to one of the penicillinase-resistant penicillins should avoid other agents in this class. This type of reaction is much more common with flucloxacillin, an agent that is available in Australia and some countries in Europe, but not in the United States. In addition, rare cases of flucloxacillin associated liver injury have resulted in vanishing bile duct syndrome has well as instances of acute liver failure leading to liver transplantation or death. These more serious complications of drug induced liver injury have been less frequent with use of the other penicillinase-resistant penicillins.</p>
+          <p>The idiosyncratic hepatic injury caused by the second generation penicillins is probably due to hypersensitivity. The role of immunologic pathways in liver injury has been best shown with flucloxacillin, which is strongly associated with the presence of the HLA-B*57:01 allele (which also predicts abacavir hypersensitivity). Immunologic studies have begun to elucidate the reasons for the HLA association and hypersensitivity to abacavir and flucloxacillin, and a similar mechanism possibly underlies the idiosyncratic, typically cholestatic jaundice caused by dicloxacillin and other second generation penicillins. However, the incidence of liver injury due to flucloxacillin and dicloxacillin is rare and is uncommon even among persons with HLA-B*57:01, so that screening for this allele is unlikely to be practicable in preparation of using these antibiotics.</p>
+          <p>Drug Class: <related-object link-type="booklink" source-id="livertox" document-id="Antiinfective" document-type="chapter">Antiinfective Agents</related-object></p>
+          <p>Dicloxacillin, nafcillin, and oxacillin are discussed separately with individual clinical cases, histology and specific references. General references to the hepatotoxicity of the 2<sup>nd</sup> generation penicillins and to cloxacillin, methicillin, and flucloxacillin are given below.</p>
+          <p>The following are links to each drug record:</p>
+          <list list-type="bullet">
+            <list-item>
+              <p>
+                <related-object link-type="booklink" source-id="livertox" document-id="Dicloxacillin" document-type="chapter">Dicloxacillin</related-object>
+              </p>
+            </list-item>
+            <list-item>
+              <p>
+                <related-object link-type="booklink" source-id="livertox" document-id="Nafcillin" document-type="chapter">Nafcillin</related-object>
+              </p>
+            </list-item>
+            <list-item>
+              <p>
+                <related-object link-type="booklink" source-id="livertox" document-id="Oxacillin" document-type="chapter">Oxacillin</related-object>
+              </p>
+            </list-item>
+            <list-item>
+              <p>Cloxacillin</p>
+            </list-item>
+            <list-item>
+              <p>Flucloxacillin</p>
+            </list-item>
+            <list-item>
+              <p>Methicillin</p>
+            </list-item>
+          </list>
+        </sec>
+      </sec>
+      <sec id="PenicillinSecondGen.CHEMICAL_FORMULAS_AN">
+        <title>CHEMICAL FORMULAS AND STRUCTURES</title>
+        <table-wrap id="PenicillinSecondGen.Tc" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th id="hd_h_PenicillinSecondGen.Tc_1_1_1_1" valign="top" align="left" scope="col" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_PenicillinSecondGen.Tc_1_1_1_2" valign="top" align="left" scope="col" rowspan="1" colspan="1">CAS REGISTRY NO</th>
+                <th id="hd_h_PenicillinSecondGen.Tc_1_1_1_3" valign="top" align="left" scope="col" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_PenicillinSecondGen.Tc_1_1_1_4" valign="top" align="left" scope="col" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_PenicillinSecondGen.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Cloxacillin</td>
+                <td headers="hd_h_PenicillinSecondGen.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://134971202">61-72-3</ext-link>
+                </td>
+                <td headers="hd_h_PenicillinSecondGen.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">C19-H18-Cl-N3-O5-S</td>
+                <td headers="hd_h_PenicillinSecondGen.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">
+                  <related-object link-type="ext-image-back-link" source-id="pubchem" document-id="134971202" document-id-type="sid" document-type="summary" object-id="134971202" object-id-type="sid" object-type="image"/>
+                </td>
+              </tr>
+              <tr>
+                <td headers="hd_h_PenicillinSecondGen.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Dicloxacillin</td>
+                <td headers="hd_h_PenicillinSecondGen.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://134981835">3116-76-5</ext-link>
+                </td>
+                <td headers="hd_h_PenicillinSecondGen.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">C19-H17-Cl2-N3-O5-S</td>
+                <td headers="hd_h_PenicillinSecondGen.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">
+                  <related-object link-type="ext-image-back-link" source-id="pubchem" document-id="134981835" document-id-type="sid" document-type="summary" object-id="134981835" object-id-type="sid" object-type="image"/>
+                </td>
+              </tr>
+              <tr>
+                <td headers="hd_h_PenicillinSecondGen.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Flucloxacillin Floxacillin [USAN]</td>
+                <td headers="hd_h_PenicillinSecondGen.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://134984533">5250-39-5</ext-link>
+                </td>
+                <td headers="hd_h_PenicillinSecondGen.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">C19-H17-Cl-F-N3-O5-S</td>
+                <td headers="hd_h_PenicillinSecondGen.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">
+                  <related-object link-type="ext-image-back-link" source-id="pubchem" document-id="134984533" document-id-type="sid" document-type="summary" object-id="134984533" object-id-type="sid" object-type="image"/>
+                </td>
+              </tr>
+              <tr>
+                <td headers="hd_h_PenicillinSecondGen.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Methicillin</td>
+                <td headers="hd_h_PenicillinSecondGen.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://134970879">61-32-5</ext-link>
+                </td>
+                <td headers="hd_h_PenicillinSecondGen.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">C17-H20-N2-O6-S</td>
+                <td headers="hd_h_PenicillinSecondGen.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">
+                  <related-object link-type="ext-image-back-link" source-id="pubchem" document-id="134970879" document-id-type="sid" document-type="summary" object-id="134970879" object-id-type="sid" object-type="image"/>
+                </td>
+              </tr>
+              <tr>
+                <td headers="hd_h_PenicillinSecondGen.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Nafcillin</td>
+                <td headers="hd_h_PenicillinSecondGen.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://134975099">147-52-4</ext-link>
+                </td>
+                <td headers="hd_h_PenicillinSecondGen.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">C21-H22-N2-O5-S</td>
+                <td headers="hd_h_PenicillinSecondGen.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">
+                  <related-object link-type="ext-image-back-link" source-id="pubchem" document-id="134975099" document-id-type="sid" document-type="summary" object-id="134975099" object-id-type="sid" object-type="image"/>
+                </td>
+              </tr>
+              <tr>
+                <td headers="hd_h_PenicillinSecondGen.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Oxacillin</td>
+                <td headers="hd_h_PenicillinSecondGen.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://134972946">66-79-5</ext-link>
+                </td>
+                <td headers="hd_h_PenicillinSecondGen.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">C19-H19-N3-O5-S</td>
+                <td headers="hd_h_PenicillinSecondGen.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">
+                  <related-object link-type="ext-image-back-link" source-id="pubchem" document-id="134972946" document-id-type="sid" document-type="summary" object-id="134972946" object-id-type="sid" object-type="image"/>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="PenicillinSecondGen.ANNOTATED_BIBLIOGRAP">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 20 October 2020</p>
+        <ref-list id="PenicillinSecondGen.ANNOTATED_BIBLIOGRAP.reflist0">
+          <ref id="PenicillinSecondGen.REF.zimmerman.1999">
+            <mixed-citation publication-type="book">Zimmerman HJ. Synthetic penicillins. In, Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999. p. 596-8.<annotation><p><italic toggle="yes">(Expert review of penicillins and liver injury published in 1999).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="PenicillinSecondGen.REF.moseley.2013">
+            <mixed-citation publication-type="book">Moseley RH. Hepatotoxicity of antimicrobials and antifungal agents. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013, pp. 463-82.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of antibiotics mentions that liver injury from the penicillins is very rare, and is usually cholestatic for the oxypenicillins such as dicloxacillin and cloxacillin).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="PenicillinSecondGen.REF.macdougall.2018">
+            <mixed-citation publication-type="book">MacDougall C. Penicillins, cephalosporins, and other &#x003b2;-lactam antibiotics. In, Brunton LL, Hilal-Dandan R, Knollman BC, eds. Goodman &#x00026; Gilman&#x02019;s the pharmacological basis of therapeutics. 13th ed. New York: McGraw-Hill, 2018, pp. 1023-38.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="PenicillinSecondGen.REF.freedman.1965.34">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Freedman</surname>
+                  <given-names>MA</given-names>
+                </name>
+              </person-group>
+              <article-title>Oxacillin&#x02014;apparent hematologic and hepatic toxicity.</article-title>
+              <source>Rocky Mt Med J</source>
+              <year>1965</year>
+              <volume>62</volume>
+              <fpage>34</fpage>
+              <lpage>6</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(33 year old woman developed AST elevations to ~220 U/L, atypical lymphocytosis and eosinophilia after 2.5 months of high dose oral oxacillin, complicated by bone marrow suppression and breakthrough in chronic osteomyelitis).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">14224480</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="PenicillinSecondGen.REF.pas.1965.674">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Pas</surname>
+                  <given-names>AT</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Quinn</surname>
+                  <given-names>EL</given-names>
+                </name>
+              </person-group>
+              <article-title>Cholestatic hepatitis following the administration of sodium oxacillin.</article-title>
+              <source>JAMA</source>
+              <year>1965</year>
+              <volume>191</volume>
+              <fpage>674</fpage>
+              <lpage>5</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(65 year old woman developed itching and jaundice the week after stopping a 4 week course of oral oxacillin [bilirubin 2.2 mg/dL, Alk P ~twice elevated, AST 76 U/L], resolving within 8 weeks).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">14242432</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="PenicillinSecondGen.REF.dismukes.1973.861">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Dismukes</surname>
+                  <given-names>WE</given-names>
+                </name>
+              </person-group>
+              <article-title>Oxacillin-induced hepatic dysfunction.</article-title>
+              <source>JAMA</source>
+              <year>1973</year>
+              <volume>226</volume>
+              <fpage>861</fpage>
+              <lpage>3</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(3 cases of ALT elevations, fever and nausea arising 11-24 days after starting high dose intravenous oxacillin therapy, with rapid reversal on stopping).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">4800332</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="PenicillinSecondGen.REF.olans.1976.835">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Olans</surname>
+                  <given-names>RN</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Weiner</surname>
+                  <given-names>LB</given-names>
+                </name>
+              </person-group>
+              <article-title>Reversible oxacillin hepatotoxicity.</article-title>
+              <source>J Pediatr</source>
+              <year>1976</year>
+              <volume>89</volume>
+              <fpage>835</fpage>
+              <lpage>8</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(8 instances of ALT elevations [peak values 31-1359 U/L] without jaundice [2 had eosinophilia] after 8-25 days of intravenous oxacillin in children or young adults, with rapid resolution; no recurrence when switched to nafcillin).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">978335</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="PenicillinSecondGen.REF.bruckstein.1978.519">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Bruckstein</surname>
+                  <given-names>AH</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Attia</surname>
+                  <given-names>AA</given-names>
+                </name>
+              </person-group>
+              <article-title>Oxacillin hepatitis. Two patients with liver biopsy, and review of the literature.</article-title>
+              <source>Am J Med</source>
+              <year>1978</year>
+              <volume>64</volume>
+              <fpage>519</fpage>
+              <lpage>22</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Two injection drug users treated with high dose oxacillin [12-16 g/day] for endocarditis developed increased AST levels [10-40 times ULN], with mild symptoms but no change in Alk P or bilirubin and nonspecific biopsy findings, arising after 2-3 weeks and resolving rapidly with stopping).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">637061</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="PenicillinSecondGen.REF.goldstein.1978.171">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Goldstein</surname>
+                  <given-names>LI</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Granoff</surname>
+                  <given-names>M</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Waisman</surname>
+                  <given-names>J</given-names>
+                </name>
+              </person-group>
+              <article-title>Hepatic injury due to oxacillin administration.</article-title>
+              <source>Am J Gastroenterol</source>
+              <year>1978</year>
+              <volume>70</volume>
+              <fpage>171</fpage>
+              <lpage>4</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(21 year old male injection drug used developed aminotransferase elevations [ALT 806 U/L, AST 388 U/L, 15% eosinophils] 20 days after starting intravenous oxacillin [12 g/day], with biopsy showing hepatitis, rapid recovery).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">717369</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="PenicillinSecondGen.REF.onorato.1978.497">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Onorato</surname>
+                  <given-names>IM</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Axelrod</surname>
+                  <given-names>JL</given-names>
+                </name>
+              </person-group>
+              <article-title>Hepatitis from intravenous high-dose oxacillin therapy: findings in an adult inpatient population.</article-title>
+              <source>Ann Intern Med</source>
+              <year>1978</year>
+              <volume>89</volume>
+              <fpage>497</fpage>
+              <lpage>500</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Review of experience with high dose oxacillin revealed 8 cases of liver injury, rising 3-19 days after start of therapy with fever and mild GI symptoms, ALT 2 to 15 times ULN, Alk P minimally increased, and no jaundice; resolving in 1 week; compared to control group, a history of penicillin allergy was given in 3 cases, but not controls).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">697229</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="PenicillinSecondGen.REF.dangelo.1979.442">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>D'Angelo</surname>
+                  <given-names>LJ</given-names>
+                </name>
+              </person-group>
+              <article-title>Oxacillin and hepatotoxicity.</article-title>
+              <source>Ann Intern Med</source>
+              <year>1979</year>
+              <volume>90</volume>
+              <fpage>442</fpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Letter commenting on article by Onorato &#x00026; Axelrod, without new data).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">426429</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="PenicillinSecondGen.REF.taylor.1979.857">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Taylor</surname>
+                  <given-names>C</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Corrigan</surname>
+                  <given-names>K</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Steen</surname>
+                  <given-names>S</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Craig</surname>
+                  <given-names>C.</given-names>
+                </name>
+              </person-group>
+              <article-title>Oxacillin and hepatitis.</article-title>
+              <source>Ann Intern Med</source>
+              <year>1979</year>
+              <volume>90</volume>
+              <fpage>857</fpage>
+              <lpage>8</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Letter in response to Onorato &#x00026; Axelrod describing 24 year old man who developed ALT elevations [226 U/], with rash and eosinophilia after 27 days of intravenous oxacillin therapy [8 g/day], rapidly resolving upon switching to nafcillin).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">434706</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="PenicillinSecondGen.REF.pollock.1978.915">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Pollock</surname>
+                  <given-names>AA</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Berger</surname>
+                  <given-names>SA</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Simberkoff</surname>
+                  <given-names>MS</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Rahal</surname>
+                  <given-names>JJ</given-names>
+                  <suffix>Jr</suffix>
+                </name>
+              </person-group>
+              <article-title>Hepatitis associated with high-dose oxacillin therapy.</article-title>
+              <source>Arch Intern Med</source>
+              <year>1978</year>
+              <volume>138</volume>
+              <fpage>915</fpage>
+              <lpage>7</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Prospective study of liver tests in 41 patients during intravenous oxacillin therapy; 15 had ALT elevations, but only 5 were attributed to oxacillin, 12-23 g/day arising 5-24 days after starting, peak ALT values 5-20 times ULN, mild Alk P elevation in 4, but normal bilirubin in all, and resolution in 4-16 days of stopping; no eosinophilia, fever or symptoms).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">646563</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="PenicillinSecondGen.REF.halloran.1979.376">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Halloran</surname>
+                  <given-names>TJ</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Clague</surname>
+                  <given-names>MD</given-names>
+                </name>
+              </person-group>
+              <article-title>Hepatitis associated with high-dose oxacillin therapy.</article-title>
+              <source>Arch Intern Med</source>
+              <year>1979</year>
+              <volume>139</volume>
+              <fpage>376</fpage>
+              <lpage>7</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Letter in response to Pollock [1978] describing 16 year old girl with no history of injection drug use who developed AST elevations [peak 140 U/L], starting after 9 days of intravenous oxacillin, rapid resolution upon stopping).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">426588</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="PenicillinSecondGen.REF.enat.1980.982">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Enat</surname>
+                  <given-names>R</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Pollack</surname>
+                  <given-names>S</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Ben-Arieh</surname>
+                  <given-names>Y</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Livni</surname>
+                  <given-names>E</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Barzilai</surname>
+                  <given-names>D</given-names>
+                </name>
+              </person-group>
+              <article-title>Cholestatic jaundice caused by cloxacillin: macrophage inhibition factor test in preventing rechallenge with hepatotoxic drugs.</article-title>
+              <source>Br Med J</source>
+              <year>1980</year>
+              <volume>280</volume>
+              <fpage>982</fpage>
+              <lpage>3</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(69 year old woman developed jaundice 2 weeks after a course of ampicillin and cloxacillin [bilirubin 14.9 mg/dL, AST normal, Alk P ~5 times ULN], with recurrence within 4 days of rechallenge [bilirubin 9.3 mg/dL, ALT normal, Alk P twice ULN], positive macrophage inhibition factor test).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">7417768</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="PenicillinSecondGen.REF.williams.1981.470">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Williams</surname>
+                  <given-names>CN</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Malatjalian</surname>
+                  <given-names>DA</given-names>
+                </name>
+              </person-group>
+              <article-title>Severe penicillin-induced cholestasis in a 91-year-old woman.</article-title>
+              <source>Dig Dis Sci</source>
+              <year>1981</year>
+              <volume>26</volume>
+              <fpage>470</fpage>
+              <lpage>3</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(91 year old woman was given both penicillin G and cloxacillin for 11 days when cholestatic hepatitis arose, bilirubin rising to 24 mg/dL, but recovery in 2 months, most likely due to cloxacillin).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">7249889</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="PenicillinSecondGen.REF.lobatto.1982.47">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Lobatto</surname>
+                  <given-names>S</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Dijkmans</surname>
+                  <given-names>BA</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Mattie</surname>
+                  <given-names>H</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Van Hooff</surname>
+                  <given-names>JP</given-names>
+                </name>
+              </person-group>
+              <article-title>Flucloxacillin-associated liver damage.</article-title>
+              <source>Neth J Med.</source>
+              <year>1982</year>
+              <volume>25</volume>
+              <fpage>47</fpage>
+              <lpage>8</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(63 year old woman on renal dialysis had mild ALT elevation [twice ULN] after a few days of intravenous floxacillin and cloxacillin, with positive rechallenge to oral flucloxacillin [ALT rose from 14 to 74 U/L within 1 day]).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">7070561</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="PenicillinSecondGen.REF.nahata.1982.117">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Nahata</surname>
+                  <given-names>MC</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>DeBolt</surname>
+                  <given-names>SL</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Powell</surname>
+                  <given-names>DA</given-names>
+                </name>
+              </person-group>
+              <article-title>Adverse effects of methicillin, nafcillin and oxacillin in pediatric patients.</article-title>
+              <source>Dev Pharmacol Ther</source>
+              <year>1982</year>
+              <volume>4</volume>
+              <fpage>117</fpage>
+              <lpage>23</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Prospective study of children treated with intravenous methicillin [28], nafcillin [32] or oxacillin [8]; minimal ALT elevations occurred in 1 on nafcillin and 1 on oxacillin; no jaundice).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">7172968</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="PenicillinSecondGen.REF.miller.1983.465">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Miller</surname>
+                  <given-names>WI</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Souney</surname>
+                  <given-names>PF</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Chang</surname>
+                  <given-names>JT</given-names>
+                </name>
+              </person-group>
+              <article-title>Hepatic dysfunction following nafcillin and cephalothin therapy in a patient with a history of oxacillin hepatitis.</article-title>
+              <source>Clin Pharm</source>
+              <year>1983</year>
+              <volume>2</volume>
+              <fpage>465</fpage>
+              <lpage>8</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Mild ALT elevations after 13 days of high dose oxacillin [18 g/day], similar increase after nafcillin and again with cephalosporin in a male injection drug user with probable chronic hepatitis C, which might have accounted for ALT fluctuations).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">6627877</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="PenicillinSecondGen.REF.bengtsson.1985.125">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Bengtsson</surname>
+                  <given-names>F</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Flor&#x000e9;n</surname>
+                  <given-names>CH</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>H&#x000e4;gerstrand</surname>
+                  <given-names>I</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>S&#x000f6;derstr&#x000f6;m</surname>
+                  <given-names>C</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Aberg</surname>
+                  <given-names>T</given-names>
+                </name>
+              </person-group>
+              <article-title>Flucloxacillin-induced cholestatic liver damage.</article-title>
+              <source>Scand J Infect Dis</source>
+              <year>1985</year>
+              <volume>17</volume>
+              <fpage>125</fpage>
+              <lpage>8</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(2 cases of cholestatic hepatitis of moderate severity arising 4-5 weeks after starting oral cloxacillin, resolution in 6-8 weeks).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">3992199</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="PenicillinSecondGen.REF.tauris.1985.567">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Tauris</surname>
+                  <given-names>P</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>J&#x000f8;rgensen</surname>
+                  <given-names>NF</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Petersen</surname>
+                  <given-names>CM</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Albertsen</surname>
+                  <given-names>K</given-names>
+                </name>
+              </person-group>
+              <article-title>Prolonged severe cholestasis induced by oxacillin derivatives. A report on two cases.</article-title>
+              <source>Acta Med Scand</source>
+              <year>1985</year>
+              <volume>217</volume>
+              <fpage>567</fpage>
+              <lpage>9</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(2 case reports: 65 year old man with osteomyelitis developed jaundice and pruritus 6 weeks after starting flucloxacillin [bilirubin ~10 mg/dL, AST 1.5 times ULN, Alk P 3 times ULN], biopsy showing cholestasis, resolving within 8 weeks of stopping; 21 year old man with osteomyelitis developed jaundice 9 weeks after starting dicloxacillin [bilirubin ~4 mg/dL, AST 119 U/L, Alk P 814 U/L], resolving within 6 weeks of stopping).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">4025011</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="PenicillinSecondGen.REF.aderka.1986.1084">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Aderka</surname>
+                  <given-names>D</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Livni</surname>
+                  <given-names>E</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Salamon</surname>
+                  <given-names>F</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Weinberger</surname>
+                  <given-names>A</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Pinkhas</surname>
+                  <given-names>J</given-names>
+                </name>
+              </person-group>
+              <article-title>Use of macrophage inhibition factor and mast-cell degranulation tests for diagnosis of cloxacillin-induced cholestasis.</article-title>
+              <source>Am J Gastroenterol</source>
+              <year>1986</year>
+              <volume>81</volume>
+              <fpage>1084</fpage>
+              <lpage>6</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(58 year old man took 10 days of cloxacillin and developed jaundice 3 days later [peak bilirubin 18.7 mg/dL, ALT 450 U/L, Alk P 436 IU, no eosinophilia]; had positive macrophage inhibition factor and mast cell degranulation tests in response to cloxacillin).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">3776960</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="PenicillinSecondGen.REF.kleinman.1986.77">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Kleinman</surname>
+                  <given-names>MS</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Presberg</surname>
+                  <given-names>JE</given-names>
+                </name>
+              </person-group>
+              <article-title>Cholestatic hepatitis after dicloxacillin-sodium therapy.</article-title>
+              <source>J Clin Gastroenterol</source>
+              <year>1986</year>
+              <volume>8</volume>
+              <fpage>77</fpage>
+              <lpage>8</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(56 year old man developed jaundice and pruritus 2-3 weeks after a 5 day course of dicloxacillin [bilirubin rising to 13 mg/dL, AST 225 U/L, Alk P 318 U/L], without rash, eosinophilia or fever, requiring 10 weeks to resolve).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">3701014</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="PenicillinSecondGen.REF.konikoff.1986.1082">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Konikoff</surname>
+                  <given-names>F</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Alcalay</surname>
+                  <given-names>J</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Halevy</surname>
+                  <given-names>J.</given-names>
+                </name>
+              </person-group>
+              <article-title>Cloxacillin-induced cholestatic jaundice.</article-title>
+              <source>Am J Gastroenterol</source>
+              <year>1986</year>
+              <volume>81</volume>
+              <fpage>1082</fpage>
+              <lpage>3</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(77 year old woman developed fever and pruritus 5 days after starting oral cloxacillin [bilirubin 3.6 mg/dL, AST 97 U/L, Alk P 497 U/L], resolving within 5 weeks; history revealed a similar response to a previous course of oral cloxacillin, thus explaining the short latency period).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">3776959</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="PenicillinSecondGen.REF.deboever.1987.483">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Deboever</surname>
+                  <given-names>G.</given-names>
+                </name>
+              </person-group>
+              <article-title>Cholestatic jaundice due to derivatives of oxacillin.</article-title>
+              <source>Am J Gastroenterol</source>
+              <year>1987</year>
+              <volume>82</volume>
+              <fpage>483</fpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Letter in response to Konikoff [1986] describing 75 year old woman with cholestatic hepatitis [bilirubin 12.8 mg/dL, ALT 57 U/L, Alk P 868 U/L] arising 3 days after starting flucloxacillin, resolving in 2 months).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">3578231</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="PenicillinSecondGen.REF.victorino.1987.987">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Victorino</surname>
+                  <given-names>RM</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Maria</surname>
+                  <given-names>VA</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Correia</surname>
+                  <given-names>AP</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>de Moura</surname>
+                  <given-names>C</given-names>
+                </name>
+              </person-group>
+              <article-title>Floxacillin-induced cholestatic hepatitis with evidence of lymphocyte sensitization.</article-title>
+              <source>Arch Intern Med</source>
+              <year>1987</year>
+              <volume>147</volume>
+              <fpage>987</fpage>
+              <lpage>9</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(45 year old man developed prolonged cholestatic hepatitis arising 15 days after starting oral floxacillin [bilirubin rising from 11 to 40.6 mg/dL, ALT 490 U/L, Alk P 171 U/L], ultimately responding to prednisone therapy).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">3579450</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="PenicillinSecondGen.REF27">
+            <mixed-citation publication-type="other">[Risk of liver reactions after treatment with flucloxacillin] Lakartidningen 1989; 86: 977-8. Swedish.</mixed-citation>
+          </ref>
+          <ref id="PenicillinSecondGen.REF.turner.1989.701">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Turner</surname>
+                  <given-names>IB</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Eckstein</surname>
+                  <given-names>RP</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Riley</surname>
+                  <given-names>JW</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Lunzer</surname>
+                  <given-names>MR</given-names>
+                </name>
+              </person-group>
+              <article-title>Prolonged hepatic cholestasis after flucloxacillin therapy.</article-title>
+              <source>Med J Aust</source>
+              <year>1989</year>
+              <volume>151</volume>
+              <fpage>701</fpage>
+              <lpage>5</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(5 cases of cholestatic hepatitis arising after stopping flucloxacillin, latency 13-35 days [bilirubin 13.3-38.2 mg/dL, ALT 85-525 U/L, Alk P 263-1580 U/L], with prolonged jaundice and abnormal liver tests still present 4-9 months later).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">2593915</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="PenicillinSecondGen.REF.miros.1990.251">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Miros</surname>
+                  <given-names>M</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Kerlin</surname>
+                  <given-names>P</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Walker</surname>
+                  <given-names>N</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Harris</surname>
+                  <given-names>O</given-names>
+                </name>
+              </person-group>
+              <article-title>Flucloxacillin induced delayed cholestatic hepatitis.</article-title>
+              <source>Aust N Z J Med</source>
+              <year>1990</year>
+              <volume>20</volume>
+              <fpage>251</fpage>
+              <lpage>3</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(6 cases of cholestatic hepatitis 17-28 days after starting flucloxacillin, with prolonged course and 3 who still had marked Alk P elevations 6 months later).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">2372276</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="PenicillinSecondGen.REF.pascual.1990.335">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Pascual</surname>
+                  <given-names>J</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Orofino</surname>
+                  <given-names>L</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Marc&#x000e9;n</surname>
+                  <given-names>R</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Quereda</surname>
+                  <given-names>C</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Ortu&#x000f1;o</surname>
+                  <given-names>J</given-names>
+                </name>
+              </person-group>
+              <article-title>Cloxacillin-induced cholestasis in a renal allograft patient with chronic hepatitis.</article-title>
+              <source>Am J Gastroenterol</source>
+              <year>1990</year>
+              <volume>85</volume>
+              <fpage>335</fpage>
+              <lpage>6</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Man with renal transplant and advanced chronic hepatitis C developed sudden onset of itching and worsening of jaundice [bilirubin rising from 4.1 to 22 mg/dL] 3 days after starting intravenous cloxacillin [8 grams/day], with rapid reversal on stopping).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">2106780</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="PenicillinSecondGen.REF.fairley.1992.679">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Fairley</surname>
+                  <given-names>CK</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Boyd</surname>
+                  <given-names>I</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Purcell</surname>
+                  <given-names>P</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>McNeil</surname>
+                  <given-names>J</given-names>
+                </name>
+              </person-group>
+              <article-title>Flucloxacillin jaundice.</article-title>
+              <source>Lancet</source>
+              <year>1992</year>
+              <volume>339</volume>
+              <fpage>679</fpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Letter describing increase use of flucloxacillin in Australia [from 12,136 in 1986 to 1,000,000 prescriptions yearly in 1990] and increasing adverse events reported [from 4 in 1987 to 64 in 1990]; worldwide, 255 hepatic adverse events reported).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">1347364</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="PenicillinSecondGen.REF.lestico.1992.985">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Lestico</surname>
+                  <given-names>MR</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Vick</surname>
+                  <given-names>KE</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Hetsko</surname>
+                  <given-names>CM</given-names>
+                </name>
+              </person-group>
+              <article-title>Hepatic and renal dysfunction following nafcillin administration.</article-title>
+              <source>Ann Pharmacother</source>
+              <year>1992</year>
+              <volume>26</volume>
+              <fpage>985</fpage>
+              <lpage>90</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Four cases of elevations in creatinine, BUN and bilirubin within 4 days of starting iv nafcillin, but most patients had abnormal liver tests before therapy; minimal change in AST and Alk P and all patients were septic and also received rifampin and/or gentamicin).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">1504413</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="PenicillinSecondGen.REF.olsson.1992.154">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Olsson</surname>
+                  <given-names>R</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Wiholm</surname>
+                  <given-names>BE</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Sand</surname>
+                  <given-names>C</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Zettergren</surname>
+                  <given-names>L</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Hultcrantz</surname>
+                  <given-names>R</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Myrhed</surname>
+                  <given-names>M</given-names>
+                </name>
+              </person-group>
+              <article-title>Liver damage from flucloxacillin, cloxacillin and dicloxacillin.</article-title>
+              <source>J Hepatol</source>
+              <year>1992</year>
+              <volume>15</volume>
+              <fpage>154</fpage>
+              <lpage>61</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(54 year old woman developed prolonged cholestasis [peak bilirubin 24 mg/dL] after an 18 day course of flucloxacillin leading to cirrhosis and liver transplantation 7 years later; possibly vanishing bile duct syndrome. In a review of Swedish adverse drug reaction reports, 77 flucloxacillin cases were found between 1981-90 compared to only 16 for dicloxacillin and 9 for cloxacillin, fever and eosinophilia in half, mostly cholestatic and mixed enzymes, occasional hepatocellular, older age was a risk factor).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">1506634</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="PenicillinSecondGen.REF.derby.1993.596">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Derby</surname>
+                  <given-names>LE</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Jick</surname>
+                  <given-names>H</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Henry</surname>
+                  <given-names>DA</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Dean</surname>
+                  <given-names>AD</given-names>
+                </name>
+              </person-group>
+              <article-title>Cholestatic hepatitis associated with flucloxacillin.</article-title>
+              <source>Med J Aust</source>
+              <year>1993</year>
+              <volume>158</volume>
+              <fpage>596</fpage>
+              <lpage>600</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Survey of 600 general practices in the UK with 132,087 patients who received flucloxacillin, 10 cases of unexplained cholestatic liver injury &#x0003c;45 days [mean~4 weeks] afterwards compared to 3 cases after tetracycline; estimated risk was 7.6 per 100,000 users).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">8479374</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="PenicillinSecondGen.REF.jick.1994.525">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Jick</surname>
+                  <given-names>H</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Derby</surname>
+                  <given-names>LE</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Dean</surname>
+                  <given-names>AD</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Henry</surname>
+                  <given-names>DA</given-names>
+                </name>
+              </person-group>
+              <article-title>Flucloxacillin and cholestatic hepatitis.</article-title>
+              <source>Med J Aust</source>
+              <year>1994</year>
+              <volume>160</volume>
+              <fpage>525</fpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Follow up of study by Derby et al.; risk of flucloxacillin cholestatic hepatitis in a new cohort was 6.5 per 100,000 users, with a rate similar to their previous estimate).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">8170433</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="PenicillinSecondGen.REF.eckstein.1993.223">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Eckstein</surname>
+                  <given-names>RP</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Dowsett</surname>
+                  <given-names>JF</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Lunzer</surname>
+                  <given-names>MR</given-names>
+                </name>
+              </person-group>
+              <article-title>Flucloxacillin induced liver disease: histopathological findings at biopsy and autopsy.</article-title>
+              <source>Pathology</source>
+              <year>1993</year>
+              <volume>25</volume>
+              <fpage>223</fpage>
+              <lpage>8</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Liver histology from 13 cases of flucloxacillin induced liver injury from Australia; ages 37-83 years given flucloxacillin for 5-23 days, onset 7-21 after stopping, mostly cholestatic; histology showed intrahepatic cholestasis, no granulomas, bile ductular injury, 3 of 4 with prolonged course had ductopenia).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">8265236</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="PenicillinSecondGen.REF.fairley.1993.233">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Fairley</surname>
+                  <given-names>CK</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>McNeil</surname>
+                  <given-names>JJ</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Desmond</surname>
+                  <given-names>P</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Smallwood</surname>
+                  <given-names>R</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Young</surname>
+                  <given-names>H</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Forbes</surname>
+                  <given-names>A</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Purcell</surname>
+                  <given-names>P</given-names>
+                </name>
+                <etal/>
+              </person-group>
+              <article-title>Risk factors for development of flucloxacillin associated jaundice.</article-title>
+              <source>BMJ</source>
+              <year>1993</year>
+              <volume>306</volume>
+              <fpage>233</fpage>
+              <lpage>5</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Review of cases from the Australia adverse drug reaction system tracing 51 cases and 199 controls; injury was associated with older age, longer therapy, concomitant drugs, but not alcohol, smoking, gender or other drug allergies).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">8443520</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="PenicillinSecondGen.REF.mazuryk.1993.1960">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Mazuryk</surname>
+                  <given-names>H</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Kastenberg</surname>
+                  <given-names>D</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Rubin</surname>
+                  <given-names>R</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Mu&#x000f1;oz</surname>
+                  <given-names>SJ</given-names>
+                </name>
+              </person-group>
+              <article-title>Cholestatic hepatitis associated with the use of nafcillin.</article-title>
+              <source>Am J Gastroenterol</source>
+              <year>1993</year>
+              <volume>88</volume>
+              <fpage>1960</fpage>
+              <lpage>2</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(80 year old developed pruritus and rash after 2 weeks of intravenous nafcillin [8 g/day], with subsequent jaundice [bilirubin rising from 5.7 to 15 mg/dL, ALT 117 U/L, Alk P 1,102 U/L; after month of jaundice, prednisone was started with prompt improvement).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">8237951</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="PenicillinSecondGen.REF.siegmund.1993.1299">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Siegmund</surname>
+                  <given-names>JB</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Tarshis</surname>
+                  <given-names>AM</given-names>
+                </name>
+              </person-group>
+              <article-title>Prolonged jaundice after dicloxacillin therapy.</article-title>
+              <source>Am J Gastroenterol</source>
+              <year>1993</year>
+              <volume>88</volume>
+              <fpage>1299</fpage>
+              <lpage>300</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(36 year old woman developed fatigue and jaundice 3 weeks after starting dicloxacillin [bilirubin 18.2 mg/dL, ALT 100 U/L, Alk P 312 U/L], with slow recovery even with prednisone; 3 years later, enzymes were still mildly elevated [ALT 44 U/L, Alk P 188 U/L]).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">8338117</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="PenicillinSecondGen.REF.koek.1994.225">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Koek</surname>
+                  <given-names>GH</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Stricker</surname>
+                  <given-names>BH</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Blok</surname>
+                  <given-names>AP</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Schalm</surname>
+                  <given-names>SW</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Desmet</surname>
+                  <given-names>VJ</given-names>
+                </name>
+              </person-group>
+              <article-title>Flucloxacillin-associated hepatic injury.</article-title>
+              <source>Liver</source>
+              <year>1994</year>
+              <volume>14</volume>
+              <fpage>225</fpage>
+              <lpage>9</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Description of 11 cases of flucloxacillin hepatotoxicity reported to Dutch Adverse Events Center over 10 years, onset in 10-30 days, cholestatic in 7, mixed in 3; 2 patients died; the rest resolved in an average of 10 weeks).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">7997079</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="PenicillinSecondGen.REF.saliba.1994.1048">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Saliba</surname>
+                  <given-names>B</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Herbert</surname>
+                  <given-names>PN</given-names>
+                </name>
+              </person-group>
+              <article-title>Oxacillin hepatotoxicity in HIV-infected patients.</article-title>
+              <source>Ann Intern Med</source>
+              <year>1994</year>
+              <volume>120</volume>
+              <fpage>1048</fpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Retrospective review found that 81% [9/11] of HIV-positive, but only 4.5% [3/66] of HIV-negative patients receiving iv oxacillin for more than 10 days developed ALT or AST &#x0003e;3 fold elevated).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">8185140</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="PenicillinSecondGen.REF.desmond.1995.195">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Desmond</surname>
+                  <given-names>PV</given-names>
+                </name>
+              </person-group>
+              <article-title>Flucloxacillin hepatitis--an Australian epidemic.</article-title>
+              <source>Aust N Z J Med</source>
+              <year>1995</year>
+              <volume>25</volume>
+              <fpage>195</fpage>
+              <lpage>6</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Review of Australian experience with flucloxacillin, their most common cause of drug induced liver disease; average age 58 years, onset 16 days after stopping, chronic cholestasis frequent; fatality rate 5%).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">7487684</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="PenicillinSecondGen.REF.devereaux.1995.81">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Devereaux</surname>
+                  <given-names>BM</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Crawford</surname>
+                  <given-names>DH</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Purcell</surname>
+                  <given-names>P</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Powell</surname>
+                  <given-names>LW</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Roeser</surname>
+                  <given-names>HP</given-names>
+                </name>
+              </person-group>
+              <article-title>Flucloxacillin associated cholestatic hepatitis. An Australian and Swedish epidemic?</article-title>
+              <source>Eur J Clin Pharmacol</source>
+              <year>1995</year>
+              <volume>49</volume>
+              <fpage>81</fpage>
+              <lpage>5</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Review of literature and history of use and pattern and frequency of hepatic injury from flucloxacillin in Australia, Sweden and UK).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">8751026</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="PenicillinSecondGen.REF.pillans.1996.315">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Pillans</surname>
+                  <given-names>PI</given-names>
+                </name>
+              </person-group>
+              <article-title>Drug associated hepatic reactions in New Zealand: 21 years experience.</article-title>
+              <source>N Z Med J</source>
+              <year>1996</year>
+              <volume>109</volume>
+              <fpage>315</fpage>
+              <lpage>9</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Flucloxacillin ranked 6th as a cause of liver adverse drug reaction in New Zealand in 1990s).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">8816722</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="PenicillinSecondGen.REF.presti.1996.180">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Presti</surname>
+                  <given-names>ME</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Janney</surname>
+                  <given-names>CG</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Neuschwander-Tetri</surname>
+                  <given-names>BA</given-names>
+                </name>
+              </person-group>
+              <article-title>Nafcillin-associated hepatotoxicity. Report of a case and review of the literature.</article-title>
+              <source>Dig Dis Sci</source>
+              <year>1996</year>
+              <volume>41</volume>
+              <fpage>180</fpage>
+              <lpage>4</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(63 year old developed jaundice after 5 days of intravenous nafcillin [bilirubin rising to 40 mg/dL, ALT ~210 U/L, Alk P ~375 U/L], lasting 2 months, previous history of dicloxacillin allergy-rash).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">8565754</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="PenicillinSecondGen.REF.saab.1996.163">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Saab</surname>
+                  <given-names>S</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Venkataramani</surname>
+                  <given-names>A</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Yao</surname>
+                  <given-names>F</given-names>
+                </name>
+              </person-group>
+              <article-title>Possible granulomatous hepatitis after dicloxacillin therapy.</article-title>
+              <source>J Clin Gastroenterol</source>
+              <year>1996</year>
+              <volume>22</volume>
+              <fpage>163</fpage>
+              <lpage>4</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(74 year old developed rash 5 days after starting oral dicloxacillin [bilirubin 0.5 mg/dL, ALT 172 U/L, Alk P 183 U/L], biopsy showing a single granuloma and mild nonspecific changes, ultimately resolving within 4 months of stopping).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">8742666</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="PenicillinSecondGen.REF.goland.1998.59">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Goland</surname>
+                  <given-names>S</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Malnick</surname>
+                  <given-names>SD</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Gratz</surname>
+                  <given-names>R</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Feldberg</surname>
+                  <given-names>E</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Geltner</surname>
+                  <given-names>D</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Sthoeger</surname>
+                  <given-names>ZM</given-names>
+                </name>
+              </person-group>
+              <article-title>Severe cholestatic hepatitis following cloxacillin treatment.</article-title>
+              <source>Postgrad Med J</source>
+              <year>1998</year>
+              <volume>74</volume>
+              <fpage>59</fpage>
+              <lpage>60</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(77 year old woman developed fever, rash and jaundice 2 weeks after stopping a 2 week course of cloxacillin and ofloxacin with bilirubin 12.9 mg/dL, ALT 144 U/L, Alk P 394 U/L; after a month of jaundice, prednisone introduced with prompt improvement).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">9538497</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="PenicillinSecondGen.REF.alhomaidhi.2002.650">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Al-Homaidhi</surname>
+                  <given-names>H</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Abdel-Haq</surname>
+                  <given-names>NM</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>El-Baba</surname>
+                  <given-names>M</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Asmar</surname>
+                  <given-names>BI</given-names>
+                </name>
+              </person-group>
+              <article-title>Severe hepatitis associated with oxacillin therapy.</article-title>
+              <source>South Med J</source>
+              <year>2002</year>
+              <volume>95</volume>
+              <fpage>650</fpage>
+              <lpage>2</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(6 year old girl developed fever, abdominal pain and marked ALT elevation [peak 2,257 U/L] with normal Alk P and bilirubin [0.3 mg/dL] after 14 days of intravenous oxacillin, resolving within 3 weeks of stopping).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">12081223</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="PenicillinSecondGen.REF.trevenzoli.2003.324">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Trevenzoli</surname>
+                  <given-names>M</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Cattelan</surname>
+                  <given-names>AM</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Mencarelli</surname>
+                  <given-names>R</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Meneghetti</surname>
+                  <given-names>F</given-names>
+                </name>
+              </person-group>
+              <article-title>Severe hepatitis associated with oxacillin therapy.</article-title>
+              <source>South Med J</source>
+              <year>2003</year>
+              <volume>96</volume>
+              <fpage>324</fpage>
+              <lpage>5</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Letter in response to Al-Homaidhi [2002] describing 33 year old who developed liver injury [bilirubin 1.8 mg/dL, ALT 2440 U/L, Alk P 103 U/L] weeks after receiving a 4 day course of amoxicillin/clavulanate [not oxacillin as suggested by the title]).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">12659378</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="PenicillinSecondGen.REF.ib__ez.2002.592">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Ib&#x000e1;&#x000f1;ez</surname>
+                  <given-names>L</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>P&#x000e9;rez</surname>
+                  <given-names>E</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Vidal</surname>
+                  <given-names>X</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Laporte</surname>
+                  <given-names>JR</given-names>
+                </name>
+              </person-group>
+              <article-title>Grup d'Estudi Multic&#x000e8;nteric d'Hepatotoxicitat Aguda de Barcelona (GEMHAB). Prospective surveillance of acute serious liver disease unrelated to infectious, obstructive, or metabolic diseases: epidemiological and clinical features, and exposure to drugs.</article-title>
+              <source>J Hepatol</source>
+              <year>2002</year>
+              <volume>37</volume>
+              <fpage>592</fpage>
+              <lpage>600</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Survey of 107 cases of acute serious liver disease, not due to viruses, found no instances of drug induced liver injury due to penicillinase-resistant penicillins).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">12399224</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="PenicillinSecondGen.REF.maraqa.2002.50">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Maraqa</surname>
+                  <given-names>NF</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Gomez</surname>
+                  <given-names>MM</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Rathore</surname>
+                  <given-names>MH</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Alvarez</surname>
+                  <given-names>AM</given-names>
+                </name>
+              </person-group>
+              <article-title>Higher occurrence of hepatotoxicity and rash in patients treated with oxacillin, compared with those treated with nafcillin and other commonly used antimicrobials.</article-title>
+              <source>Clin Infect Dis</source>
+              <year>2002</year>
+              <volume>34</volume>
+              <fpage>50</fpage>
+              <lpage>4</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Retrospective analysis of laboratory tests from 222 children receiving outpatient parenteral oxacillin, nafcillin, clindamycin or other antibiotics found 12 cases of anicteric and self-limited hepatotoxicity, 9 [22%] from oxacillin, all hepatocellular with normal bilirubin, onset in 6-43 days, resolution in 1-3 weeks; none to nafcillin; 1 clindamycin, 1 ceftriaxone and 1 ampicillin/sulbactam/gentamicin).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">11731945</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="PenicillinSecondGen.REF.sgro.2002.451">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Sgro</surname>
+                  <given-names>C</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Clinard</surname>
+                  <given-names>F</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Ouazir</surname>
+                  <given-names>K</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Chanay</surname>
+                  <given-names>H</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Allard</surname>
+                  <given-names>C</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Guilleminet</surname>
+                  <given-names>C</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Lenoir</surname>
+                  <given-names>C</given-names>
+                </name>
+                <etal/>
+              </person-group>
+              <article-title>Incidence of drug-induced hepatic injuries: a French population-based study.</article-title>
+              <source>Hepatology</source>
+              <year>2002</year>
+              <volume>36</volume>
+              <fpage>451</fpage>
+              <lpage>5</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(A population based study identified 34 cases of acute drug induced liver injury over a 3 year period, including 10 [25%] due to antibiotics; one was due to cloxacillin with a 5 day latency, mixed serum enzyme pattern and recovery within 2 weeks of stopping).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">12143055</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="PenicillinSecondGen.REF.bj_rnsson.2005.1095">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Bj&#x000f6;rnsson</surname>
+                  <given-names>E</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Jerlstad</surname>
+                  <given-names>P</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Bergqvist</surname>
+                  <given-names>A</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Olsson</surname>
+                  <given-names>R</given-names>
+                </name>
+              </person-group>
+              <article-title>Fulminant drug-induced hepatic failure leading to death or liver transplantation in Sweden.</article-title>
+              <source>Scand J Gastroenterol</source>
+              <year>2005</year>
+              <volume>40</volume>
+              <fpage>1095</fpage>
+              <lpage>101</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Analysis of all fatal adverse drug event reports of liver injury in Sweden between 1966 and 2002, found 103 cases; most common causes were halothane [n=16], acetaminophen [14], flucloxacillin [9], and TMP-SMZ [6]).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">16165719</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="PenicillinSecondGen.REF.dobson.2005.487">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Dobson</surname>
+                  <given-names>JL</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Angus</surname>
+                  <given-names>PW</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Jones</surname>
+                  <given-names>R</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Crowley</surname>
+                  <given-names>P</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Gow</surname>
+                  <given-names>PJ</given-names>
+                </name>
+              </person-group>
+              <article-title>Flucloxacillin-induced aplastic anaemia and liver failure.</article-title>
+              <source>Transpl Int</source>
+              <year>2005</year>
+              <volume>18</volume>
+              <fpage>487</fpage>
+              <lpage>9</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(40 year old woman developed aplastic anemia and acute liver failure starting 4 weeks after starting 2 week course of flucloxacillin, reversed by liver transplantation).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">15773973</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="PenicillinSecondGen.REF.hussaini.2007.15">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Hussaini</surname>
+                  <given-names>SH</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>O'Brien</surname>
+                  <given-names>CS</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Despott</surname>
+                  <given-names>EJ</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Dalton</surname>
+                  <given-names>HR</given-names>
+                </name>
+              </person-group>
+              <article-title>Antibiotic therapy: a major cause of drug-induced jaundice in southwest England.</article-title>
+              <source>Eur J Gastroenterol Hepatol</source>
+              <year>2007</year>
+              <volume>19</volume>
+              <fpage>15</fpage>
+              <lpage>20</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Review of causes of non-obstructive jaundice in 347 patients presenting between 1998 and 2004 at a single UK center, 28 were thought to be drug induced liver injury [8.1%] and antibiotics were the most common cause, 32% amoxicillin/clavulanate, 25% flucloxacillin, 18% other).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">17206072</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="PenicillinSecondGen.REF.lee.2008.146">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Lee</surname>
+                  <given-names>CY</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Chen</surname>
+                  <given-names>PY</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Huang</surname>
+                  <given-names>FL</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Chi</surname>
+                  <given-names>CS</given-names>
+                </name>
+              </person-group>
+              <article-title>Reversible oxacillin-associated hepatitis in a 9-month old boy.</article-title>
+              <source>J Paediatr Child Health</source>
+              <year>2008</year>
+              <volume>44</volume>
+              <fpage>146</fpage>
+              <lpage>8</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(9 month old boy given intravenous oxacillin for septic arthritis for 8 days when he developed lethargy and marked elevations in ALT [1568 U/L], with normal Alk P and bilirubin and resolving within 10 days of switching to teicoplanin).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">18307421</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="PenicillinSecondGen.REF.chalasani.2008.1924">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Chalasani</surname>
+                  <given-names>N</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Fontana</surname>
+                  <given-names>RJ</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Bonkovsky</surname>
+                  <given-names>HL</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Watkins</surname>
+                  <given-names>PB</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Davern</surname>
+                  <given-names>T</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Serrano</surname>
+                  <given-names>J</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Yang</surname>
+                  <given-names>H</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Rochon</surname>
+                  <given-names>J</given-names>
+                </name>
+                <collab>Drug Induced Liver Injury Network (DILIN)</collab>
+              </person-group>
+              <article-title>Causes, clinical features, and outcomes from a prospective study of drug-induced liver injury in the United States.</article-title>
+              <source>Gastroenterology</source>
+              <year>2008</year>
+              <volume>135</volume>
+              <fpage>1924</fpage>
+              <lpage>34</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Among 300 cases of drug induced liver disease in the US collected from 2004 to 2008, antimicrobials accounted for 45% of cases with 23 single agent cases due to amoxicillin/clavulanate, 13 nitrofurantoin, 10 fluoroquinolones, 9 macrolides, 9 sulfonamides, 5 cephalosporins, 3 oxacillin, 2 doxycycline, 2 amoxicillin, and one each for gentamicin, imipenem, and clindamycin, but none from dicloxacillin or nafcillin).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">18955056</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="PenicillinSecondGen.REF.devarbhavi.2010.2396">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Devarbhavi</surname>
+                  <given-names>H</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Dierkhising</surname>
+                  <given-names>R</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Kremers</surname>
+                  <given-names>WK</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Sandeep</surname>
+                  <given-names>MS</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Karanth</surname>
+                  <given-names>D</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Adarsh</surname>
+                  <given-names>CK</given-names>
+                </name>
+              </person-group>
+              <article-title>Single-center experience with drug-induced liver injury from India: causes, outcome, prognosis, and predictors of mortality.</article-title>
+              <source>Am J Gastroenterol</source>
+              <year>2010</year>
+              <volume>105</volume>
+              <fpage>2396</fpage>
+              <lpage>404</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(313 cases of drug induced liver injury were seen over a 12 year period at a large hospital in Bangalore, India; leading causes were antituberculosis agents [58%], anticonvulsants [11%] and NSAIDs [2%]; specific antibiotic agents included sulfamethoxazole/ trimethoprim [2%] and amoxicillin-clavulanate [1%]).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">20648003</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="PenicillinSecondGen.REF.ferrajolo.2010.721">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Ferrajolo</surname>
+                  <given-names>C</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Capuano</surname>
+                  <given-names>A</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Verhamme</surname>
+                  <given-names>KMC</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Schuemie</surname>
+                  <given-names>M</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Rossi</surname>
+                  <given-names>F</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Stricker</surname>
+                  <given-names>BH</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Sturkenboom</surname>
+                  <given-names>CJM</given-names>
+                </name>
+              </person-group>
+              <article-title>Drug-induced hepatic injury in children: a case/non-case study of suspected adverse drug reactions in VigiBase.</article-title>
+              <source>Br J Clin Pharmacol</source>
+              <year>2010</year>
+              <volume>70</volume>
+              <fpage>721</fpage>
+              <lpage>8</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Among 624,673 adverse drug reports in children in a worldwide pharmacovigilance database, 6595 [1%] were for hepatic injury and antibacterials accounted for 11%, those with the highest adjusted odds ratios being aztreonam, erythromycin, ceftriaxone and minocycline; no mention of penicillins).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">21039766</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="PenicillinSecondGen.REF.li.2009.269">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Li</surname>
+                  <given-names>L</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Jick</surname>
+                  <given-names>H</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Jick</surname>
+                  <given-names>SS</given-names>
+                </name>
+              </person-group>
+              <article-title>Updated study on risk of cholestatic liver disease and flucloxacillin.</article-title>
+              <source>Br J Clin Pharmacol</source>
+              <year>2009</year>
+              <volume>68</volume>
+              <fpage>269</fpage>
+              <lpage>70</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Analysis of UK General Practice Research Database showed risk of cholestatic liver disease within 45 days of first time use of flucloxacillin was stable between 1985-2007 [6.1-8.5/100,000 users compared to 0.3/100,000 users of penicillin V]).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">19694748</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="PenicillinSecondGen.REF.daly.2009.816">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Daly</surname>
+                  <given-names>AK</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Donaldson</surname>
+                  <given-names>PT</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Bhatnagar</surname>
+                  <given-names>P</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Shen</surname>
+                  <given-names>Y</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Pe'er</surname>
+                  <given-names>I</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Floratos</surname>
+                  <given-names>A</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Daly</surname>
+                  <given-names>MJ</given-names>
+                </name>
+                <etal/>
+              </person-group>
+              <article-title>HLA-B*5701 genotype is a major determinant of drug-induced liver injury due to flucloxacillin.</article-title>
+              <source>Nature Genetics</source>
+              <year>2009</year>
+              <volume>41</volume>
+              <fpage>816</fpage>
+              <lpage>9</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Genome-wide association study [GWAS] in 51 cases of flucloxacillin liver injury and 285 controls found an association with a single nucleotide polymorphism linked to HLA-B*5701 [84% in cases vs 5% in controls], the same genotype associated with abacavir hypersensitivity; ~0.2% of persons with this HLA type receiving flucloxacillin develop cholestatic hepatitis, making it likely that other genes or factors are important as well).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">19483685</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="PenicillinSecondGen.REF.reuben.2010.2065">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Reuben</surname>
+                  <given-names>A</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Koch</surname>
+                  <given-names>DG</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Lee</surname>
+                  <given-names>WM</given-names>
+                </name>
+                <collab>Acute Liver Failure Study Group</collab>
+              </person-group>
+              <article-title>Drug-induced acute liver failure: results of a U.S. multicenter, prospective study.</article-title>
+              <source>Hepatology</source>
+              <year>2010</year>
+              <volume>52</volume>
+              <fpage>2065</fpage>
+              <lpage>76</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Among 1198 patients with acute liver failure enrolled in a US prospective study between 1998 and 2007, 133 were attributed to drug induced liver injury including 66 due to antimicrobial agents, but none were attributed to a penicillinase-resistant penicillin).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">20949552</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="PenicillinSecondGen.REF.leitner.2010.3">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Leitner</surname>
+                  <given-names>JM</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Graninger</surname>
+                  <given-names>W</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Thalhammer</surname>
+                  <given-names>F</given-names>
+                </name>
+              </person-group>
+              <article-title>Hepatotoxicity of antibacterials: pathomechanisms and clinical data.</article-title>
+              <source>Infection</source>
+              <year>2010</year>
+              <volume>38</volume>
+              <fpage>3</fpage>
+              <lpage>11</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Review of hepatotoxicity of antibiotics, mentions that cholestatic hepatitis has been reported with many beta-lactams and beta-lactamases inhibitors).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">20107858</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="PenicillinSecondGen.REF.daly.2010.241">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Daly</surname>
+                  <given-names>AK</given-names>
+                </name>
+              </person-group>
+              <article-title>Genome-wide association studies in pharmacogenomics.</article-title>
+              <source>Nat Rev Genet</source>
+              <year>2010</year>
+              <volume>11</volume>
+              <fpage>241</fpage>
+              <lpage>6</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Review of recent advances in GWAS studies of pharmacokinetics and adverse drug reactions and association of flucloxacillin injury with HLA-B*5701).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">20300088</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="PenicillinSecondGen.REF.robles.2010.212">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Robles</surname>
+                  <given-names>M</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Toscano</surname>
+                  <given-names>E</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Cotta</surname>
+                  <given-names>J</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Lucena</surname>
+                  <given-names>MI</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Andrade</surname>
+                  <given-names>RJ</given-names>
+                </name>
+              </person-group>
+              <article-title>Antibiotic-induced liver toxicity: mechanisms, clinical features and causality assessment.</article-title>
+              <source>Curr Drug Saf</source>
+              <year>2010</year>
+              <volume>5</volume>
+              <fpage>212</fpage>
+              <lpage>22</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Review of antibiotic hepatotoxicity mentions that flucloxacillin is the second most common cause of liver injury in many countries).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">20210729</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="PenicillinSecondGen.REF.alam.2012.953714">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Alam</surname>
+                  <given-names>MB</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Kadoura</surname>
+                  <given-names>A</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Sathaiah</surname>
+                  <given-names>M</given-names>
+                </name>
+              </person-group>
+              <article-title>A fatal case of nafcillin-induced hepatotoxicity: a case report and the literature review.</article-title>
+              <source>Case Rep Med</source>
+              <year>2012</year>
+              <volume>2012</volume>
+              <elocation-id>953714</elocation-id>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(53 year old woman developed jaundice 15 days after starting intravenous nafcillin for osteomyelitis [bilirubin 9.6 mg/dL, ALT 24 U/L, Alk P 388 U/L], with worsening despite stopping nafcillin [bilirubin 28.7 mg/dL, ALT 24 U/L, Alk P &#x0003e;1884 U/L], and death from multiorgan failure 2 months later).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">22844299</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="PenicillinSecondGen.REF.urban.2012.735">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Urban</surname>
+                  <given-names>TJ</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Goldstein</surname>
+                  <given-names>DB</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Watkins</surname>
+                  <given-names>PB</given-names>
+                </name>
+              </person-group>
+              <article-title>Genetic basis of susceptibility to drug-induced liver injury: what have we learned and where do we go from here?</article-title>
+              <source>Pharmacogenomics</source>
+              <year>2012</year>
+              <volume>13</volume>
+              <fpage>735</fpage>
+              <lpage>8</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Editorial summarizing recent advances in studies on the genetics of drug induced liver injury including the association of flucloxacillin injury with HLA-B*57:01).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">22594502</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="PenicillinSecondGen.REF.monshi.2013.727">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Monshi</surname>
+                  <given-names>MM</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Faulkner</surname>
+                  <given-names>L</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Gibson</surname>
+                  <given-names>A</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Jenkins</surname>
+                  <given-names>RE</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Farrell</surname>
+                  <given-names>J</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Earnshaw</surname>
+                  <given-names>CJ</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Alfirevic</surname>
+                  <given-names>A</given-names>
+                </name>
+                <etal/>
+              </person-group>
+              <article-title>Human leukocyte antigen (HLA)-B*57:01-restricted activation of drug-specific T cells provides the immunological basis for flucloxacillin-induced liver injury.</article-title>
+              <source>Hepatology</source>
+              <year>2013</year>
+              <volume>57</volume>
+              <fpage>727</fpage>
+              <lpage>39</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(T cells from persons with HLA-B*57:01 were activated when exposed to dendritic cells presenting flucloxacillin bound to albumin, and were similarly activated by oxacillin, cloxacillin and dicloxacillin).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">22987284</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="PenicillinSecondGen.REF.sistanizad.2013.115">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Sistanizad</surname>
+                  <given-names>M</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Peterson</surname>
+                  <given-names>GM</given-names>
+                </name>
+              </person-group>
+              <article-title>Drug-induced liver injury in the Australian setting.</article-title>
+              <source>J Clin Pharm Ther</source>
+              <year>2013</year>
+              <volume>38</volume>
+              <fpage>115</fpage>
+              <lpage>20</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Among 17 persons with suspected drug induced liver injury seen over at 12 month period at a referral hospital in Tasmania, 11 were attributed to antibiotics including 4 to flucloxacillin, 2 amoxicillin with clavulanate, 2 amoxicillin, and 1 each to rifampin, moxifloxacin and ciprofloxacin).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">23350857</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="PenicillinSecondGen.REF.wuillemin.2013.4956">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Wuillemin</surname>
+                  <given-names>N</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Adam</surname>
+                  <given-names>J</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Fontana</surname>
+                  <given-names>S</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Kr&#x000e4;henb&#x000fc;hl</surname>
+                  <given-names>S</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Pichler</surname>
+                  <given-names>WJ</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Yerly</surname>
+                  <given-names>D</given-names>
+                </name>
+              </person-group>
+              <article-title>HLA haplotype determines hapten or p-i T cell reactivity to flucloxacillin.</article-title>
+              <source>J Immunol</source>
+              <year>2013</year>
+              <volume>190</volume>
+              <fpage>4956</fpage>
+              <lpage>64</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Analysis of T cell responses in persons with and without HLA-B*57:01 suggested a pharmacological interaction of flucloxacillin with immune receptors on T cells, underlies the HLA association with flucloxacillin hepatoxicity).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">23596311</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="PenicillinSecondGen.REF.vera.2013.484">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Vera</surname>
+                  <given-names>JH</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Naous</surname>
+                  <given-names>N</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Mackie</surname>
+                  <given-names>N</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Winston</surname>
+                  <given-names>A</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Cooke</surname>
+                  <given-names>G</given-names>
+                </name>
+              </person-group>
+              <article-title>The safety of flucloxacillin in HIV-infected patients with positive HLA-B*5701 genotype.</article-title>
+              <source>AIDS</source>
+              <year>2013</year>
+              <volume>27</volume>
+              <fpage>484</fpage>
+              <lpage>5</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Among 10 persons with HIV infection with HLA-B*57:01 who received a course of flucloxacillin, none developed evidence of liver injury, suggesting that it is safe to use in this population of HLA-tested individuals).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">23032409</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="PenicillinSecondGen.REF.phillips.2013.491">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Phillips</surname>
+                  <given-names>EJ</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Mallal</surname>
+                  <given-names>SA</given-names>
+                </name>
+              </person-group>
+              <article-title>HLA-B*5701 and flucloxacillin associated drug-induced liver disease.</article-title>
+              <source>AIDS</source>
+              <year>2013</year>
+              <volume>27</volume>
+              <fpage>491</fpage>
+              <lpage>2</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Letter in response to Vera [2013] arguing that the positive predictive value of HLA-B*5701 is only 0.12%, making screening an inefficient means of avoiding flucloxacillin hepatotoxicity and accounting for their negative findings because of the few patients tested).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">23291545</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="PenicillinSecondGen.REF.kaniwa.2013.317">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Kaniwa</surname>
+                  <given-names>N</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Saito</surname>
+                  <given-names>Y</given-names>
+                </name>
+              </person-group>
+              <article-title>Pharmacogenomics of severe cutaneous adverse reactions and drug-induced liver injury.</article-title>
+              <source>J Hum Genet</source>
+              <year>2013</year>
+              <volume>58</volume>
+              <fpage>317</fpage>
+              <lpage>26</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Review of genetic studies of severe cutaneous and hepatic adverse events; HLA DRB*5701 has been associated with flucloxacillin hepatotoxicity, mainly in Europeans [Daly 2009]).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">23635947</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="PenicillinSecondGen.REF.bj_rnsson.2013.1419">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Bj&#x000f6;rnsson</surname>
+                  <given-names>ES</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Bergmann</surname>
+                  <given-names>OM</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Bj&#x000f6;rnsson</surname>
+                  <given-names>HK</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Kvaran</surname>
+                  <given-names>RB</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Olafsson</surname>
+                  <given-names>S</given-names>
+                </name>
+              </person-group>
+              <article-title>Incidence, presentation and outcomes in patients with drug-induced liver injury in the general population of Iceland.</article-title>
+              <source>Gastroenterology</source>
+              <year>2013</year>
+              <volume>144</volume>
+              <fpage>1419</fpage>
+              <lpage>25</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(In a population based study of drug induced liver injury from Iceland, 96 cases were identified over a 2 year period, including 36 [37%] due to antibiotics and specifically dicloxacillin in 1 of 22,320 patients treated and cloxacillin in 1 of 3659 patients treated).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">23419359</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="PenicillinSecondGen.REF.wuillemin.2014.1677">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Wuillemin</surname>
+                  <given-names>N</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Terracciano</surname>
+                  <given-names>L</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Beltraminelli</surname>
+                  <given-names>H</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Schlapbach</surname>
+                  <given-names>C</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Fontana</surname>
+                  <given-names>S</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Kr&#x000e4;henb&#x000fc;hl</surname>
+                  <given-names>S</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Pichler</surname>
+                  <given-names>WJ</given-names>
+                </name>
+                <etal/>
+              </person-group>
+              <article-title>T cells infiltrate the liver and kill hepatocytes in HLA-B(*)57:01-associated floxacillin-induced liver injury.</article-title>
+              <source>Am J Pathol</source>
+              <year>2014</year>
+              <volume>184</volume>
+              <fpage>1677</fpage>
+              <lpage>82</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Analysis of T cells from HLA-B*57:01 positive, healthy, non-flucloxacillin exposed controls demonstrated cytotoxicity of their CD8 cells by exposure to increasing concentrations of flucloxacillin with HLA-linked target cells).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">24731753</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="PenicillinSecondGen.REF.hern_ndez.2014.231">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Hern&#x000e1;ndez</surname>
+                  <given-names>N</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Bessone</surname>
+                  <given-names>F</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>S&#x000e1;nchez</surname>
+                  <given-names>A</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>di Pace</surname>
+                  <given-names>M</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Brahm</surname>
+                  <given-names>J</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Zapata</surname>
+                  <given-names>R, A</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Chirino</surname>
+                  <given-names>R</given-names>
+                </name>
+                <etal/>
+              </person-group>
+              <article-title>Profile of idiosyncratic drug induced liver injury in Latin America. An analysis of published reports.</article-title>
+              <source>Ann Hepatol</source>
+              <year>2014</year>
+              <volume>13</volume>
+              <fpage>231</fpage>
+              <lpage>9</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Systematic review of literature of drug induced liver injury from Latin American countries published between 1996 and 2012 identified 176 cases, of which 37 [19%] were attributed to antimicrobials, but none to penicillinase resistant penicillins such as oxacillin or dicloxacillin).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">24552865</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="PenicillinSecondGen.REF.chalasani.2015.1340">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Chalasani</surname>
+                  <given-names>N</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Bonkovsky</surname>
+                  <given-names>HL</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Fontana</surname>
+                  <given-names>R</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Lee</surname>
+                  <given-names>W</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Stolz</surname>
+                  <given-names>A</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Talwalkar</surname>
+                  <given-names>J</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Reddy</surname>
+                  <given-names>KR</given-names>
+                </name>
+                <etal/>
+                <collab>United States Drug Induced Liver Injury Network</collab>
+              </person-group>
+              <article-title>Features and outcomes of 899 patients with drug-induced liver injury: The DILIN Prospective Study.</article-title>
+              <source>Gastroenterology</source>
+              <year>2015</year>
+              <volume>148</volume>
+              <fpage>1340</fpage>
+              <lpage>52.e7</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Among 899 cases of drug induced liver injury enrolled in a US prospective study between 2004 and 2013, 323 cases [36%] were attributed to antibiotics 3 of which were due to oxacillin, all being self-limited episodes of aminotransferase elevations without jaundice; no instances of dicloxacillin or nafcillin associated liver injury).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">25754159</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="PenicillinSecondGen.REF.yaseen.2015.474">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Yaseen</surname>
+                  <given-names>FS</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Saide</surname>
+                  <given-names>K</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Kim</surname>
+                  <given-names>SH</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Monshi</surname>
+                  <given-names>M</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Tailor</surname>
+                  <given-names>A</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Wood</surname>
+                  <given-names>S</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Meng</surname>
+                  <given-names>X</given-names>
+                </name>
+                <etal/>
+              </person-group>
+              <article-title>Promiscuous T-cell responses to drugs and drug-haptens.</article-title>
+              <source>J Allergy Clin Immunol</source>
+              <year>2015</year>
+              <volume>136</volume>
+              <fpage>474</fpage>
+              <lpage>6.e8</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(T cell clones from patients with flucloxacillin induced liver injury are HLA-restricted and are activated by via a hapten mechanism, unlike T cells clones from HLA-allele matched healthy controls which are activated by the native drug).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">25910715</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="PenicillinSecondGen.REF.ram_rez.2015.360">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Ram&#x000ed;rez</surname>
+                  <given-names>A</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Abril</surname>
+                  <given-names>JC</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Cano</surname>
+                  <given-names>J</given-names>
+                </name>
+              </person-group>
+              <article-title>DRESS syndrome due to antibiotic therapy of osteoarticular infections in children: two case reports.</article-title>
+              <source>Rev Esp Cir Ortop Traumatol</source>
+              <year>2015</year>
+              <volume>59</volume>
+              <fpage>360</fpage>
+              <lpage>4</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(2 children, aged 7 with septic arthritis and age 8 with osteomyelitis, developed fever and rash 7 and 16 days after starting cefotaxime and cloxacillin [ALT 55 and 281 U/L, bilirubin and Alk P not provided], resolving within 3 weeks of stopping antibiotics).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">25052739</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="PenicillinSecondGen.REF.faulkner.2016.416">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Faulkner</surname>
+                  <given-names>L</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Gibson</surname>
+                  <given-names>A</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Sullivan</surname>
+                  <given-names>A</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Tailor</surname>
+                  <given-names>A</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Usui</surname>
+                  <given-names>T</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Alfirevic</surname>
+                  <given-names>A</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Pirmohamed</surname>
+                  <given-names>M</given-names>
+                </name>
+                <etal/>
+              </person-group>
+              <article-title>Detection of primary T cell responses to drugs and chemicals in HLA-typed volunteers: implications for the prediction of drug immunogenicity.</article-title>
+              <source>Toxicol Sci</source>
+              <year>2016</year>
+              <volume>154</volume>
+              <fpage>416</fpage>
+              <lpage>29</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Demonstration of T cell priming to drugs linked with specific class I HLA-alleles).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">27637899</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="PenicillinSecondGen.REF.nicoletti.2017.1078">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Nicoletti</surname>
+                  <given-names>P</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Aithal</surname>
+                  <given-names>GP</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Bjornsson</surname>
+                  <given-names>ES</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Andrade</surname>
+                  <given-names>RJ</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Sawle</surname>
+                  <given-names>A</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Arrese</surname>
+                  <given-names>M</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Barnhart</surname>
+                  <given-names>HX</given-names>
+                </name>
+                <etal/>
+                <collab>International Drug-Induced Liver Injury Consortium, Drug-Induced Liver Injury Network Investigators, and International Serious Adverse Events Consortium</collab>
+              </person-group>
+              <article-title>Association of liver injury from specific drugs, or groups of drugs, with polymorphisms in HLA and other genes in a genome-wide association study.</article-title>
+              <source>Gastroenterology</source>
+              <year>2017</year>
+              <volume>152</volume>
+              <fpage>1078</fpage>
+              <lpage>89</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(A genome wide association study done on 862 patients with drug induced liver injury demonstrated a strong link with HLA-A*33:01 in patients with cholestatic liver injury, particularly in cases attributed to terbinafine, fenofibrate and ticlopidine).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">28043905</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="PenicillinSecondGen.REF.usui.2017.21">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Usui</surname>
+                  <given-names>T</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Naisbitt</surname>
+                  <given-names>DJ</given-names>
+                </name>
+              </person-group>
+              <article-title>Human leukocyte antigen and idiosyncratic adverse drug reactions.</article-title>
+              <source>Drug Metab Pharmacokinet</source>
+              <year>2017</year>
+              <volume>32</volume>
+              <fpage>21</fpage>
+              <lpage>30</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Review of the association of specific forms of idiosyncratic drug reactions and HLA alleles focusing on class I alleles linked with abacavir [B*57:01], allopurinol [B*58:01], carbamazepine [B*15:02], amoxicillin/clavulanate [A*02:01], and flucloxacillin [B*57:01]).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">28017537</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="PenicillinSecondGen.REF.rao.2017.564">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Rao</surname>
+                  <given-names>Q</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Schuster</surname>
+                  <given-names>I</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Seoud</surname>
+                  <given-names>T</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Zarrabi</surname>
+                  <given-names>K</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Goolsarran</surname>
+                  <given-names>N.</given-names>
+                </name>
+              </person-group>
+              <article-title>A patient with nafcillin-associated drug-induced liver failure.</article-title>
+              <source>Case Rep Gastroenterol</source>
+              <year>2017</year>
+              <volume>11</volume>
+              <fpage>564</fpage>
+              <lpage>8</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(68 year old man with osteomyelitis developed jaundice 4 weeks after starting intravenous nafcillin, 2 g every 4 hours [bilirubin 9.4 rising to 14.1 mg/dL, ALT 127 U/L, Alk P 311 U/L, INR 1.6, eosinophils 21%], worsening for 7 days after stopping, but then resolving and 6 months later had normal liver tests).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">29033779</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="PenicillinSecondGen.REF.wing.2017.2636">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Wing</surname>
+                  <given-names>K</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Bhaskaran</surname>
+                  <given-names>K</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Pealing</surname>
+                  <given-names>L</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Root</surname>
+                  <given-names>A</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Smeeth</surname>
+                  <given-names>L</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>van Staa</surname>
+                  <given-names>TP</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Klungel</surname>
+                  <given-names>OH</given-names>
+                </name>
+                <etal/>
+              </person-group>
+              <article-title>Quantification of the risk of liver injury associated with flucloxacillin: a UK population-based cohort study.</article-title>
+              <source>J Antimicrob Chemother</source>
+              <year>2017</year>
+              <volume>72</volume>
+              <fpage>2636</fpage>
+              <lpage>46</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Among 861,962 individuals given a first prescription of flucloxacillin and followed for the next 45 days in the UK Clinical Practice Research Datalink, 122 developed symptoms of jaundice [14.2 per 100,000 or ~1 in 7000] and 73 had laboratory confirmed liver injury [8.5 per 100,000 or ~1 in 12,000], and rates were higher with consecutive prescriptions and in older age groups).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">28859440</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="PenicillinSecondGen.REF.visentin.2018.1498">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Visentin</surname>
+                  <given-names>M</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Lenggenhager</surname>
+                  <given-names>D</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Gai</surname>
+                  <given-names>Z</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Kullak-Ublick</surname>
+                  <given-names>GA</given-names>
+                </name>
+              </person-group>
+              <article-title>Drug-induced bile duct injury.</article-title>
+              <source>Biochim Biophys Acta Mol Basis Dis</source>
+              <year>2018</year>
+              <volume>1864</volume>
+              <supplement>4 Pt B</supplement>
+              <fpage>1498</fpage>
+              <lpage>506</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Review of drug induced bile duct injury focusing on agents flucloxacillin and amoxicillin/clavulanate that injure small ducts and fluorouracil [given by hepatic artery], ketamine, scolicidal agents [for Hydatid disease given into the cysts] that injure larger ducts causing a sclerosing cholangitis like picture).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">28882625</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="PenicillinSecondGen.REF.lavergne.2018.344">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Lavergne</surname>
+                  <given-names>A</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Vigneau</surname>
+                  <given-names>C</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Polard</surname>
+                  <given-names>E</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Triquet</surname>
+                  <given-names>L</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Rioux-Leclercq</surname>
+                  <given-names>N</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Tattevin</surname>
+                  <given-names>P</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Golbin</surname>
+                  <given-names>L</given-names>
+                </name>
+              </person-group>
+              <article-title>Acute kidney injury during treatment with high-dose cloxacillin: a report of 23 cases and literature review.</article-title>
+              <source>Int J Antimicrob Agents</source>
+              <year>2018</year>
+              <volume>52</volume>
+              <fpage>344</fpage>
+              <lpage>9</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Among 23 patients with suspected cloxacillin induced renal dysfunction [19 had also received gentamicin], the median age was 75, duration of therapy 4 days, dose 12 gm daily and peak creatinine 3.8 mg/dL, all resolving after stopping therapy; 8 patients had abnormal liver tests but no details provided).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">29665445</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="PenicillinSecondGen.REF.takeuchi.2018.1071">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Takeuchi</surname>
+                  <given-names>Y</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Shinozaki</surname>
+                  <given-names>T</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Kumamaru</surname>
+                  <given-names>H</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Hiramatsu</surname>
+                  <given-names>T</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Matsuyama</surname>
+                  <given-names>Y</given-names>
+                </name>
+              </person-group>
+              <article-title>Analyzing intent-to-treat and per-protocol effects on safety outcomes using a medical information database: an application to the risk assessment of antibiotic-induced liver injury.</article-title>
+              <source>Expert Opin Drug Saf</source>
+              <year>2018</year>
+              <volume>17</volume>
+              <fpage>1071</fpage>
+              <lpage>9</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Cohort matching of cases with vs without antibiotic therapy in a large electronic medical record database from the University of Tokyo Hospital from 2011 to 2015 with adjustments, found rates of liver test abnormalities within 30 days of starting penicillins [25.2 per 1000] were higher than that of fluoroquinolones [11.4] and macrolide antibiotics [8.1] as well as controls [6.5 to 7.1]).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">30252549</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="PenicillinSecondGen.REF.cirulli.2019.1707">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Cirulli</surname>
+                  <given-names>ET</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Nicoletti</surname>
+                  <given-names>P</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Abramson</surname>
+                  <given-names>K</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Andrade</surname>
+                  <given-names>RJ</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Bjornsson</surname>
+                  <given-names>ES</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Chalasani</surname>
+                  <given-names>N</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Fontana</surname>
+                  <given-names>RJ</given-names>
+                </name>
+                <etal/>
+                <collab>Drug-Induced Liver Injury Network (DILIN) investigators</collab>
+              </person-group>
+              <article-title>International DILI consortium (iDILIC). A missense variant in PTPN22 is a risk factor for drug-induced liver injury.</article-title>
+              <source>Gastroenterology</source>
+              <year>2019</year>
+              <volume>156</volume>
+              <fpage>1707</fpage>
+              <lpage>1716.e2</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Genome-wide association studies on 2048 patients with drug induced liver injury and 12,439 controls identified a variant in PTPN22 which was highly associated with liver injury, allele frequency being 0.12 among cases and 0.08 among controls with highest association in Northern Europeans and in cases of amoxicillin clavulanate, PTPN22 being a cellular kinase involved in modulation of immune reactions).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">30664875</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="PenicillinSecondGen.REF.nicoletti.2019.245">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Nicoletti</surname>
+                  <given-names>P</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Aithal</surname>
+                  <given-names>GP</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Chamberlain</surname>
+                  <given-names>TC</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Coulthard</surname>
+                  <given-names>S</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Alshabeeb</surname>
+                  <given-names>M</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Grove</surname>
+                  <given-names>JI</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Andrade</surname>
+                  <given-names>RJ</given-names>
+                </name>
+                <etal/>
+                <collab>International Drug-Induced Liver Injury Consortium</collab>
+              </person-group>
+              <article-title>(iDILIC). Drug-induced liver injury due to flucloxacillin: relevance of multiple human leukocyte antigen alleles.</article-title>
+              <source>Clin Pharmacol Ther</source>
+              <year>2019</year>
+              <volume>106</volume>
+              <fpage>245</fpage>
+              <lpage>53</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Among 197 patients with flucloxacillin induced liver injury, the allele frequency for HLA-B*57:01 was 0.42 compared to 0.04 among population controls and HLA-B*57:03, although rare was also significantly associated with allele frequency of 0.005 compared to 0.0003 in controls, both B*57 alleles sharing a valine at position 97 of the HLA protein).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">30661239</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="PenicillinSecondGen.REF.hashim.2020.e233052">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Hashim</surname>
+                  <given-names>A</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Barnabas</surname>
+                  <given-names>A</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Miquel</surname>
+                  <given-names>R</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Agarwal</surname>
+                  <given-names>K</given-names>
+                </name>
+              </person-group>
+              <article-title>Successful liver transplantation for drug-induced vanishing bile duct syndrome.</article-title>
+              <source>BMJ Case Rep</source>
+              <year>2020</year>
+              <volume>13</volume>
+              <elocation-id>e233052</elocation-id>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(63 year old man developed jaundice shortly after completing a 10 day course of flucloxacillin which worsened over the next 3 months [bilirubin 29.3 mg/dL, ALT 60 U/L, Alk P 229 U/L, INR 1.0], liver biopsy showing bland cholestasis and rare bile duct loss, eventually undergoing successful liver transplant 6 months after presentation; genetic testing revealed homozygosity for a BSEP [ABC B11] mutation which may have contributed to the poor outcome).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">31948982</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="PenicillinSecondGen.REF.teixeira.2020.12">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Teixeira</surname>
+                  <given-names>M</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Macedo</surname>
+                  <given-names>S</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Batista</surname>
+                  <given-names>T</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Martins</surname>
+                  <given-names>S</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Correia</surname>
+                  <given-names>A</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Matos</surname>
+                  <given-names>LC</given-names>
+                </name>
+              </person-group>
+              <article-title>Flucloxacillin-induced hepatotoxicity - association with HLA-B*5701.</article-title>
+              <source>Rev Assoc Med Bras</source>
+              <year>2020</year>
+              <volume>66</volume>
+              <issue>1</issue>
+              <fpage>12</fpage>
+              <lpage>7</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(74 year old man developed abdominal pain 2 weeks after a second 8 day course of flucloxacillin [bilirubin 3.3 rising to 24.1 mg/dL, ALT 646 U/L, Alk P 302 U/L, GGT 662 U/L] with persistence of jaundice for 3 months and abnormalities of Alk P and GGT for more than a year; HLA testing revealed B*57:01, an allele often associated with flucloxacillin liver injury).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32130375</pub-id>
+            </element-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec sec-type="link-group" id="PenicillinSecondGen.OTHER_REFERENCE_LINK">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <label>1</label>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=(dicloxacillin/AE+OR+nafcillin/AE+OR+oxacillin/AE+OR+cloxacillin/AE+OR+flucloxacillin/AE+OR+methicillin/AE)+AND+Human%5BMH%5D+AND+(jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI+OR+hepatitis,+toxic%5BMH%5D)+AND+(%222008/03/01%22%5BEDat%5D:%222999/12/31%22%5BEDat%5D)">Recent References on Penicillinase-Resistant Penicillins: from PubMed.gov</ext-link>
+            </p>
+          </list-item>
+          <list-item>
+            <label>2</label>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=dicloxacillin+OR+nafcillin+OR+oxacillin+OR+cloxacillin+OR+flucloxacillin+OR+methicillin">Trials on Penicillinase-Resistant Penicillins: from ClinicalTrials.gov</ext-link>
+            </p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

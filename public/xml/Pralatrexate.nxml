@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Pralatrexate" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Pralatrexate</book-part-id>
+      <title-group>
+        <title>Pralatrexate</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>1</day>
+          <month>5</month>
+          <year>2016</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Posaconazole" document-type="chapter">Posaconazole</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Pramipexole" document-type="chapter">Pramipexole</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Pralatrexate.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Pralatrexate.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Pralatrexate is a parenterally administered folate antagonist and antineoplastic agent, used in the treatment of peripheral T cell lymphomas. Pralatrexate has been associated with a modest rate of serum enzyme elevations during therapy, but has not been convincingly linked to instances of acute, clinically apparent liver injury.</p>
+        </sec>
+        <sec id="Pralatrexate.Background">
+          <title>Background</title>
+          <p>Pralatrexate (pral" a trex' ate) is a folate analogue which acts as an antagonist to the enzymes involved in folate dependent synthetic pathways such as thymidine synthase, dihydrofolate reductase and glycinamide ribonucleotide formyltransferase. Inhibition of these enzymes leads to decrease in intracellular concentrations of thymidine and purine which blocks RNA and DNA synthesis and leads to apoptotic cell death in rapidly dividing cells. In vitro and in vivo studies have shown that pralatrexate has activity against peripheral T cell lymphomas, and it was approved for this use in the United States in 2009. Current indications are limited to patients with refractory or relapsed peripheral T cell lymphoma. Pralatrexate is available in single use vials of 20 or 40 mg as a solution for injection under the brand name Folotyn. The recommended dose is 30 mg/m<sup>2</sup> given intravenously once weekly for 6 weeks in 7 week cycles. Pralatrexate shares common side effects with other folate antagonists such as nausea, vomiting, diarrhea, alopecia, bone marrow suppression, peripheral neuropathy and rash. Uncommon, but potentially serious adverse events include febrile neutropenia, infections, dehydration, renal failure, arrhythmias and peripheral neuropathy.</p>
+        </sec>
+        <sec id="Pralatrexate.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>Pralatrexate is associated with serum enzyme elevations during therapy, but these abnormalities are generally mild and self-limited, rising to above 5 times ULN in 2% to 6% of patients and rarely requiring dose adjustment. No instances of clinically apparent acute liver injury attributed to pralatrexate have been reported in the literature, but monitoring for liver toxicity is recommended. Pralatrexate has not been linked specifically to sinusoidal obstruction syndrome, but it is rarely used in high doses in neoplastic disease or in conditioning regimens for bone marrow transplantation, situations in which alkylating agents are commonly associated with this complication.</p>
+          <p>Likelihood score: E* (unlikely but suspected rare cause of liver injury).</p>
+        </sec>
+        <sec id="Pralatrexate.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The cause of the serum enzyme elevations that may occur during pralatrexate use is probably direct hepatotoxicity from the folate antagonism. Its hepatic metabolism by the microsomal P450 system is minimal and much of the administered drug is excreted unchanged in the urine.</p>
+        </sec>
+        <sec id="Pralatrexate.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>Liver injury is rare after pralatrexate therapy. Confirmed serum enzyme elevations above 5 times ULN should lead to temporary discontinuation of pralatrexate therapy or adjustment of dose, but should also lead to careful search for other possible causes of liver injury. There have been no instances of acute liver failure, chronic hepatitis or vanishing bile duct syndrome linked to pralatrexate therapy.</p>
+          <p>Drug Class: <related-object source-id="livertox" document-id="AntineoplasticAgents">Antineoplastic Agents</related-object>, Antifolate Agents</p>
+        </sec>
+      </sec>
+      <sec id="Pralatrexate.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <boxed-text position="anchor" id="Pralatrexate.BPI" orientation="portrait">
+          <p>
+            <bold>REPRESENTATIVE TRADE NAMES</bold>
+          </p>
+          <p>Pralatrexate &#x02013; Folotyn&#x000ae;</p>
+          <p>
+            <bold>DRUG CLASS</bold>
+          </p>
+          <p>Antineoplastic Agents</p>
+          <p>
+            <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Pralatrexate">COMPLETE LABELING</ext-link>
+          </p>
+          <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+        </boxed-text>
+      </sec>
+      <sec id="Pralatrexate.CHEMICAL_FORMULA_AND_STRUCT">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Pralatrexate.T1" position="anchor" orientation="portrait">
+          <table>
+            <thead>
+              <tr>
+                <th id="hd_h_Pralatrexate.T1_1_1_1_1" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Pralatrexate.T1_1_1_1_2" rowspan="1" colspan="1">CAS REGISTRY NO.</th>
+                <th id="hd_h_Pralatrexate.T1_1_1_1_3" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Pralatrexate.T1_1_1_1_4" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Pralatrexate.T1_1_1_1_1" rowspan="1" colspan="1">Pralatrexate</td>
+                <td headers="hd_h_Pralatrexate.T1_1_1_1_2" rowspan="1" colspan="1">
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135106327">146464-95-1</ext-link>
+                </td>
+                <td headers="hd_h_Pralatrexate.T1_1_1_1_3" rowspan="1" colspan="1">C23-H23-N7-O5</td>
+                <td headers="hd_h_Pralatrexate.T1_1_1_1_4" rowspan="1" colspan="1">
+                  <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Pralatrexate_structure.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait">
+                    <alt-text>Pralatrexate chemical structure</alt-text>
+                  </graphic>
+                </td>
+              </tr>
+              <tr>
+                <td headers="hd_h_Pralatrexate.T1_1_1_1_1" rowspan="1" colspan="1">Folate</td>
+                <td headers="hd_h_Pralatrexate.T1_1_1_1_2" rowspan="1" colspan="1">
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://134988774">6484-89-5</ext-link>
+                </td>
+                <td headers="hd_h_Pralatrexate.T1_1_1_1_3" rowspan="1" colspan="1">C19-H18-N7-O6.Na</td>
+                <td headers="hd_h_Pralatrexate.T1_1_1_1_4" rowspan="1" colspan="1">
+                  <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Folate_structure.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait">
+                    <alt-text>Folate chemical structure</alt-text>
+                  </graphic>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Pralatrexate.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 01 May 2016</p>
+        <ref-list id="Pralatrexate.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Pralatrexate.R1">
+            <mixed-citation publication-type="other">Zimmerman HJ. Oncotherapeutic and immunosuppressive agents. In, Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999, pp. 673-708.<annotation><p><italic toggle="yes">(Expert review of hepatotoxicity of cancer chemotherapeutic agents published in 1999; pralatrexate is not discussed).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Pralatrexate.R2">
+            <mixed-citation publication-type="other">DeLeve LD. Cancer chemotherapy. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013, pp. 549-68.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of cancer chemotherapeutic agents; pralatrexate is not discussed).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Pralatrexate.R3">
+            <mixed-citation publication-type="other">Chabner BA, Bertino J, Clearly J, Ortiz T, Lane A, Supko JG, Ryan DP. Cytotoxic agents. Chemotherapy of neoplastic diseases. In, Brunton LL, Chabner BA, Knollman BC, eds. Goodman &#x00026; Gilman's the pharmacological basis of therapeutics. 12th ed. New York: McGraw-Hill, 2011, pp. 1315-404.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Pralatrexate.R4">
+            <mixed-citation publication-type="journal">Malik SM, Liu K, Qiang X, Sridhara R, Tang S, McGuinn WD Jr, Verbois SL, et al. Folotyn (pralatrexate injection) for the treatment of patients with relapsed or refractory peripheral T-cell lymphoma: U.S. Food and Drug Administration drug approval summary. Clin Cancer Res 2010; 16: 4921-7. <annotation><p><italic toggle="yes">(Basis for accelerated approval of pralatrexate for PTCL; among 111 patients with relapsed or refractory PTCL treated, the response rate to pralatrexate therapy was 27% and common side effects were thrombocytopenia, mucositis, neutropenia, nausea and fatigue; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">20739433</pub-id></mixed-citation>
+          </ref>
+          <ref id="Pralatrexate.R5">
+            <mixed-citation publication-type="journal">Azzoli CG, Patel JD, Krug LM, Miller V, James L, Kris MG, Ginsberg M, et al. Pralatrexate with vitamin supplementation in patients with previously treated, advanced non-small cell lung cancer: safety and efficacy in a phase 1 trial. J Thorac Oncol 2011; 6: 1915-22. <annotation><p><italic toggle="yes">(Among 39 patients with refractory NSCLC treated with pralatrexate [150-325 mg/m<sup>2</sup> every 2 weeks] with folic acid and B12 supplementation, the overall response rate was only 10% and side effects were common, but ALT elevations above 5 times ULN occurred in only one patient [2.6%]).</italic></p></annotation><pub-id pub-id-type="pmid">21841501</pub-id></mixed-citation>
+          </ref>
+          <ref id="Pralatrexate.R6">
+            <mixed-citation publication-type="journal">Cheson BD, Horwitz SM, Weisenburger DD. Peripheral T-cell lymphomas: diagnosis and treatment options. Proceedings from a live roundtable, August 17, 2011, Kauai, Hawaii. Clin Adv Hematol Oncol 2011; 9 (11 Suppl 26): 1-14. <annotation><p><italic toggle="yes">(Review of the challenges in diagnosis and management of PTCL).</italic></p></annotation><pub-id pub-id-type="pmid">22362328</pub-id></mixed-citation>
+          </ref>
+          <ref id="Pralatrexate.R7">
+            <mixed-citation publication-type="journal">O'Connor OA, Pro B, Pinter-Brown L, Bartlett N, Popplewell L, Coiffier B, Lechowicz MJ, et al. Pralatrexate in patients with relapsed or refractory peripheral T-cell lymphoma: results from the pivotal PROPEL study. J Clin Oncol 2011; 29: 1182-9. <annotation><p><italic toggle="yes">(Among 111 patients with refractory or relapsing PTCL treated with pralatrexate, the overall response rate was 29% and common severe side effects included thrombocytopenia [32%], mucositis [22%], neutropenia [22%], anemia [18%] and liver test abnormalities [13%] which were greater than 5 times ULN in 5% and led to dose modification in 2%).</italic></p></annotation><pub-id pub-id-type="pmid">21245435</pub-id></mixed-citation>
+          </ref>
+          <ref id="Pralatrexate.R8">
+            <mixed-citation publication-type="journal">Marchi E, O'Connor OA. Safety and efficacy of pralatrexate in the treatment of patients with relapsed or refractory peripheral T-cell lymphoma. Ther Adv Hematol 2012; 3: 227-35. <annotation><p><italic toggle="yes">(Review of the structure, mechanism of action, development, clinical efficacy and safety of pralatrexate as therapy of PTCL mentions that side effects can include &#x0201c;mild abnormalities of liver function tests&#x0201d;).</italic></p></annotation><pub-id pub-id-type="pmid">23606933</pub-id></mixed-citation>
+          </ref>
+          <ref id="Pralatrexate.R9">
+            <mixed-citation publication-type="journal">Kelly K, Azzoli CG, Zatloukal P, Albert I, Jiang PY, Bodkin D, Pereira JR, et al. Randomized phase 2b study of pralatrexate versus erlotinib in patients with stage IIIB/IV non-small-cell lung cancer (NSCLC) after failure of prior platinum-based therapy. J Thorac Oncol 2012; 7: 1041-8. <annotation><p><italic toggle="yes">(Among 201 patients with refractory NCSLC treated with pralatrexate [190 mg/m<sup>2</sup> every 2 weeks], or erlotinib, response and survival rates were similar, but pralatrexate was associated with higher rates of treatment related severe adverse events [14% vs 2%] and discontinuation for adverse events [33% vs 10%]; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">22534814</pub-id></mixed-citation>
+          </ref>
+          <ref id="Pralatrexate.R10">
+            <mixed-citation publication-type="journal">Advani RH, Ansell SM, Lechowicz MJ, Beaven AW, Loberiza F, Carson KR, Evens AM, et al. A phase II study of cyclophosphamide, etoposide, vincristine and prednisone (CEOP) Alternating with Pralatrexate (P) as front line therapy for patients with peripheral T-cell lymphoma (PTCL): final results from the T- cell consortium trial. Br J Haematol 2016; 172: 535-44. <annotation><p><italic toggle="yes">(Among 33 patients with PTCL receiving pralatrexate alternating with standard therapies, the overall response rate was 70%; toxicities were common and included ALT or AST elevations above 5 times ULN in 4 patients [12%]).</italic></p></annotation><pub-id pub-id-type="pmid">26627450</pub-id></mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec id="Pralatrexate.OTHER_REFERENCE_LINKS" sec-type="link-group">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=Pralatrexate+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D%3A%222999/12/31%22%5BEDat%5D)">Recent References on Pralatrexate: from PubMed.gov</ext-link>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Pralatrexate">Trials on Pralatrexate: from ClinicalTrials.gov</ext-link>
+            </p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

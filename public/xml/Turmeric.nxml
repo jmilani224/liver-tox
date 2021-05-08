@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Turmeric" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Turmeric</book-part-id>
+      <title-group>
+        <title>Turmeric</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>2</day>
+          <month>5</month>
+          <year>2019</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="TNFAntagonists" document-type="chapter">Tumor Necrosis Factor Antagonists</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Ursodiol" document-type="chapter">Ursodiol (Ursodeoxycholic Acid)</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Turmeric.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Turmeric.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Turmeric is a popular herb derived from the roots of the plant Curcuma longa found mostly in India and Southern Asia. Turmeric has an intense yellow color and distinct taste and is used as a dye as well as a spice in the preparation of curry. Turmeric and its purified extract curcumin are also used medically for their purported antiinflammatory and antioxidant effects to treat digestive complaints including ingestion, diarrhea and liver diseases. Turmeric and curcumin have been associated with a low rate of transient serum enzyme elevations during therapy and have recently been implicated in rare instances of clinically apparent acute liver injury.</p>
+        </sec>
+        <sec id="Turmeric.Background">
+          <title>Background</title>
+          <p>Turmeric (tur mer' ik) is a widely used herbal product derived from the roots of Curcuma longa, a perennial plant belonging to the ginger family (Zingiberaceae) that is native to India but grown throughout Southern Asia and in central America. Extracts of the rhizomes of turmeric contain volatile oils and curcuminoids (such as curcumin, demethoxycurcumin and others) which are believed to be the active antiinflammatory components of the herb and are often collectively referred to as curcumin. The antiinflammatory effects of turmeric and curcumin are thought to be mediated by inhibition of leukotriene synthesis. Curcumin has also been reported to have antineoplastic effects, mediated perhaps by inhibition of intracellular kinases. Turmeric has been used in traditional Indian (Ayurvedic) medicine to treat many conditions including indigestion, upper respiratory infections and liver diseases. Turmeric and curcumin are under active evaluation as antiinflammatory and antineoplastic agents, for treatment of diabetes and hyperlipidemia and as therapy of liver diseases including nonalcoholic steatohepatitis (NASH). The scientific bases for the purported effects of turmeric are not well established and rigorous proof of its efficacy in any medical condition is lacking. Commercial preparations of turmeric and curcumin vary widely in curcuminoid content. The recommended daily dose varies widely (100 to &#x0003e;1,000 mg daily), depending on the preparation used (curcuminoids vs turmeric extract), formulation (tablets, liquid, root extract, tea) and indications. Side effects are uncommon and mild but may include dermatitis and gastrointestinal upset.</p>
+        </sec>
+        <sec id="Turmeric.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>Both turmeric and curcumin are considered to be generally safe and have not been linked to liver injury in any consistent way. Studies of its use in various clinical conditions have found low rates of transient and asymptomatic serum enzyme elevations during therapy but without instances of clinically apparent acute liver injury. Indeed, turmeric has been evaluated as therapy of acute and chronic liver injury, although its efficacy and safety in this situation have not been proven. Recently, isolated case reports of liver injury arising during use of tumeric dietary supplements have been published. At issue is whether there were other exposures that might have accounted for the injury or whether contaminants might have been the cause rather than tumeric itself. One reason for its safety and lack of hepatotoxicity is that curcumin is poorly absorbed by the oral route, and it is unclear whether there is adequate systemic exposure to achieve any of the purported effects of turmeric or curcumin. Nevertheless, tumeric may be a rare cause of idiosyncratic liver injury and deserves further scrutiny for its safety and efficacy when given in relative large doses over an extended period.</p>
+          <p>Likelihood score: D (possible cause of clinically apparent liver injury).</p>
+          <p>Drug Class: <related-object source-id="livertox" document-id="HerbalDietarySuppl">Herbal and Dietary Supplements</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Turmeric.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <boxed-text position="anchor" id="Turmeric.BPI" orientation="portrait">
+          <p>
+            <bold>REPRESENTATIVE TRADE NAMES</bold>
+          </p>
+          <p>Turmeric &#x02013; Generic</p>
+          <p>
+            <bold>DRUG CLASS</bold>
+          </p>
+          <p>Herbal and Dietary Supplements</p>
+          <p>
+            <bold>COMPLETE LABELING</bold>
+          </p>
+          <p>
+            <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://nccih.nih.gov/taxonomy/term/272">Fact Sheet at National Center for Complementary and Integrative Health</ext-link>
+          </p>
+        </boxed-text>
+      </sec>
+      <sec id="Turmeric.CHEMICAL_FORMULA_AND_STRUCTURE">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Turmeric.T1" position="anchor" orientation="portrait">
+          <table>
+            <thead>
+              <tr>
+                <th id="hd_h_Turmeric.T1_1_1_1_1" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Turmeric.T1_1_1_1_2" rowspan="1" colspan="1">CAS REGISTRY NUMBER</th>
+                <th id="hd_h_Turmeric.T1_1_1_1_3" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Turmeric.T1_1_1_1_4" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Turmeric.T1_1_1_1_1" rowspan="1" colspan="1">Turmeric</td>
+                <td headers="hd_h_Turmeric.T1_1_1_1_2" rowspan="1" colspan="1">
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://134973130">458-37-7</ext-link>
+                </td>
+                <td headers="hd_h_Turmeric.T1_1_1_1_3" rowspan="1" colspan="1">C21-H20-O6</td>
+                <td headers="hd_h_Turmeric.T1_1_1_1_4" rowspan="1" colspan="1">
+                  <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Turmeric_Structure.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait">
+                    <alt-text>Turmeric Chemical Structure</alt-text>
+                  </graphic>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Turmeric.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 02 May 2019</p>
+        <ref-list id="Turmeric.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Turmeric.R1">
+            <mixed-citation publication-type="other">Zimmerman HJ. Unconventional drugs. Miscellaneous drugs and diagnostic chemicals. In, Zimmerman, HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott,1999: pp. 731-4.<annotation><p><italic toggle="yes">(Expert review of hepatotoxicity published in 1999; turmeric and curcumin are not discussed).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Turmeric.R2">
+            <mixed-citation publication-type="other">Seeff L, Stickel F, Navarro VJ. Hepatotoxicity of herbals and dietary supplements. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013, pp. 631-58.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of herbal and dietary supplements [HDS]; turmeric and curcumin are not discussed).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Turmeric.R3">
+            <mixed-citation publication-type="other">Turmeric. In, PDR for herbal medicines. 4th ed. Montvale, New Jersey: Thomson Healthcare Inc. 2007: pp. 864-7.<annotation><p><italic toggle="yes">(Compilation of short monographs on herbal medications and dietary supplements).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Turmeric.R4">
+            <mixed-citation publication-type="journal">Stedman C. Herbal hepatotoxicity. Semin Liver Dis 2002; 22: 195-206. <annotation><p><italic toggle="yes">(Review and description of patterns of liver injury, including discussion of potential risk factors, and herb-drug interactions; no mention of curcumin).</italic></p></annotation><pub-id pub-id-type="pmid">12016550</pub-id></mixed-citation>
+          </ref>
+          <ref id="Turmeric.R5">
+            <mixed-citation publication-type="journal">De Smet PAGM. Herbal remedies. N Engl J Med 2002; 347: 2046-56. <annotation><p><italic toggle="yes">(Review of status and difficulties of herbal medications including lack of standardization, federal regulation, contamination, safety, hepatotoxicity and drug-herb interactions; specific discussion of 4 herbs with therapeutic promise: ginkgo, hawthorn, saw palmetto and St. John&#x02019;s wort, but not curcumin).</italic></p></annotation><pub-id pub-id-type="pmid">12490687</pub-id></mixed-citation>
+          </ref>
+          <ref id="Turmeric.R6">
+            <mixed-citation publication-type="journal">Schiano TD. Hepatotoxicity and complementary and alternative medicines. Clin Liver Dis 2003; 7: 453-73. <annotation><p><italic toggle="yes">(Comprehensive review of herbal associated hepatotoxicity; curcumin is not listed as causing hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">12879994</pub-id></mixed-citation>
+          </ref>
+          <ref id="Turmeric.R7">
+            <mixed-citation publication-type="journal">Russo MW, Galanko JA, Shrestha R, Fried MW, Watkins P. Liver transplantation for acute liver failure from drug-induced liver injury in the United States. Liver Transpl 2004; 10: 1018-23. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/pubmed/%3Ca%20href=">PubMed Citation</ext-link><annotation><p><italic toggle="yes">(Among ~50,000 liver transplants reported to UNOS between 1990 and 2002, 270 [0.5%] were done for drug induced acute liver failure, including 7 [5%] for herbal medications, none attributed to curcumin or turmeric use).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Turmeric.R8">
+            <mixed-citation publication-type="journal">Garc&#x000ed;a-Cort&#x000e9;s M, Borraz Y, Lucena MI, Pel&#x000e1;ez G, Salmer&#x000f3;n J, Diago M, Mart&#x000ed;nez-Sierra MC, et al. [Liver injury induced by &#x0201c;natural remedies&#x0201d;: an analysis of cases submitted to the Spanish Liver Toxicity Registry]. Rev Esp Enferm Dig 2008; 100: 688-95. Spanish. <annotation><p><italic toggle="yes">(Among 521 cases of drug induced liver injury submitted to a Spanish registry, 13 [2%] were due to herbals, but none were attributed to turmeric or curcumin).</italic></p></annotation><pub-id pub-id-type="pmid">19159172</pub-id></mixed-citation>
+          </ref>
+          <ref id="Turmeric.R9">
+            <mixed-citation publication-type="journal">Chalasani N, Fontana RJ, Bonkovsky HL, Watkins PB, Davern T, Serrano J, Yang H, Rochon J; Drug Induced Liver Injury Network (DILIN). Causes, clinical features, and outcomes from a prospective study of drug-induced liver injury in the United States. Gastroenterology 2008; 135: 1924-34. <annotation><p><italic toggle="yes">(Among 300 cases of drug induced liver disease in the US collected between 2004 and 2008, 9% of cases were attributed to herbal medications, but none were linked to turmeric or curcumin use).</italic></p></annotation><pub-id pub-id-type="pmid">18955056</pub-id></mixed-citation>
+          </ref>
+          <ref id="Turmeric.R10">
+            <mixed-citation publication-type="journal">Jacobsson I, J&#x000f6;nsson AK, Gerd&#x000e9;n B, H&#x000e4;gg S. Spontaneously reported adverse reactions in association with complementary and alternative medicine substances in Sweden. Pharmacoepidemiol Drug Saf 2009; 18: 1039-47. <annotation><p><italic toggle="yes">(Review of 778 spontaneous reports of adverse reactions to herbals to Swedish Registry, none of which were attributed to turmeric or curcumin).</italic></p></annotation><pub-id pub-id-type="pmid">19650152</pub-id></mixed-citation>
+          </ref>
+          <ref id="Turmeric.R11">
+            <mixed-citation publication-type="journal">Navarro VJ. Herbal and dietary supplement hepatotoxicity. Semin Liver Dis 2009; 29: 373-82. <annotation><p><italic toggle="yes">(Overview of the regulatory environment, clinical patterns, and future directions in research with HDS; curcumin is not listed as a potentially hepatotoxic botanical).</italic></p></annotation><pub-id pub-id-type="pmid">19826971</pub-id></mixed-citation>
+          </ref>
+          <ref id="Turmeric.R12">
+            <mixed-citation publication-type="journal">Wongcharoen W, Jai-Aue S, Phrommintikul A, Nawarawong W, Woragidpoonpol S, Tepsuwan T, Sukonthasarn A, et al. Effects of curcuminoids on frequency of acute myocardial infarction after coronary artery bypass grafting. Am J Cardiol 2012; 110: 40-4. <annotation><p><italic toggle="yes">(Among 121 Thai patients who were undergoing coronary artery bypass surgery treated with &#x0201c;curminoids&#x0201d; or placebo for 8 days perioperatively, rates of postoperative myocardial infarction were less with curcuminoids [13% vs 30%] as were ALT elevations above 3 times ULN [0% vs 3%]).</italic></p></annotation><pub-id pub-id-type="pmid">22481014</pub-id></mixed-citation>
+          </ref>
+          <ref id="Turmeric.R13">
+            <mixed-citation publication-type="journal">Dulbecco P, Savarino V. Therapeutic potential of curcumin in digestive diseases. World J Gastroenterol 2013; 19: 9256-70. <annotation><p><italic toggle="yes">(Review of pharmacokinetics, physical and molecular properties and potential uses of curcumin in digestive diseases; mentions that &#x0201c;as curcumin is particularly concentrated in the human liver, the risk of hepatotoxicity has been closely evaluated, but liver function tests have been shown to be unaffected with doses as high as 2 to 4 g/d&#x0201d;).</italic></p></annotation><pub-id pub-id-type="pmid">24409053</pub-id></mixed-citation>
+          </ref>
+          <ref id="Turmeric.R14">
+            <mixed-citation publication-type="journal">Meng B, Li J, Cao H. Antioxidant and antiinflammatory activities of curcumin on diabetes mellitus and its complications. Curr Pharm Des 2013; 19: 2101-13. <annotation><p><italic toggle="yes">(Review of the in vivo and in vitro evidence of antioxidant and antiinflammatory activity of curcumin and the rationale for its use in diabetes; &#x0201c;and it has no known side effects&#x0201d;).</italic></p></annotation><pub-id pub-id-type="pmid">23116316</pub-id></mixed-citation>
+          </ref>
+          <ref id="Turmeric.R15">
+            <mixed-citation publication-type="journal">Bunchorntavakul C, Reddy KR. Review article: herbal and dietary supplement hepatotoxicity. Aliment Pharmacol Ther 2013; 37: 3-17. <annotation><p><italic toggle="yes">(Systematic review of literature on HDS associated liver injury; does not discuss curcumin or turmeric).</italic></p></annotation><pub-id pub-id-type="pmid">23121117</pub-id></mixed-citation>
+          </ref>
+          <ref id="Turmeric.R16">
+            <mixed-citation publication-type="journal">Sanmukhani J, Satodia V, Trivedi J, Patel T, Tiwari D, Panchal B, Goel A, et al. Efficacy and safety of curcumin in major depressive disorder: a randomized controlled trial. Phytother Res 2014; 28: 579-85. <annotation><p><italic toggle="yes">(Among 60 patients with major depression treated with fluoxetine or curcumin or both for 6 weeks, improvements in depression rating scales were similar in all 3 groups and &#x0201c;there was no significant difference in &#x02026; laboratory tests &#x02026; from baseline&#x0201d;).</italic></p></annotation><pub-id pub-id-type="pmid">23832433</pub-id></mixed-citation>
+          </ref>
+          <ref id="Turmeric.R17">
+            <mixed-citation publication-type="journal">Kuptniratsaikul V, Dajpratham P, Taechaarpornkul W, Buntragulpoontawee M, Lukkanapichonchut P, Chootip C, Saengsuwan J, et al. Efficacy and safety of Curcuma domestica extracts compared with ibuprofen in patients with knee osteoarthritis: a multicenter study. Clin Interv Aging 2014; 9: 451-8. <annotation><p><italic toggle="yes">(Among 367 adults with knee osteoarthritis treated with ibuprofen [1.2 g daily] or curcumin extracts [1.5 g daily] for 4 weeks, pain, stiffness and function scores improved equally in both groups and adverse event rates were similar [36% vs 30%]; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">24672232</pub-id></mixed-citation>
+          </ref>
+          <ref id="Turmeric.R18">
+            <mixed-citation publication-type="journal">Rahmani S, Asgary S, Askari G, Keshvari M, Hatamipour M, Feizi A, Sahebkar A. Treatment of non-alcoholic fatty liver disease with curcumin: a randomized placebo-controlled trial. Phytotherapy Res 2016; 30: 1540-8. <annotation><p><italic toggle="yes">(Among 80 Iranian patients with nonalcoholic fatty liver disease treated with curcumin [500 mg once daily] or placebo for 8 weeks, improvements, as assessed by ultrasonography, were more frequent with curcumin [79% vs 28%], and it was well tolerated with no serious adverse events and mean ALT levels decreased more with curcumin [from 39 to 36 U/L] than placebo [30 to 29 U/L]).</italic></p></annotation><pub-id pub-id-type="pmid">27270872</pub-id></mixed-citation>
+          </ref>
+          <ref id="Turmeric.R19">
+            <mixed-citation publication-type="journal">Panahi Y, Kianpour P, Mohtashami R, Jafari R, Simental-Mend&#x000ed;a LE, Sahebkar A. Efficacy and safety of phytosomal curcumin in non-alcoholic fatty liver disease: a randomized controlled trial. Drug Res (Stuttg) 2017; 67 (4): 244-51. <annotation><p><italic toggle="yes">(Among 102 patients with nonalcoholic fatty liver disease treated with curcumin [500 mg twice daily] or placebo for 8 weeks, improvements as assessed by hepatic ultrasound were more frequent with curcumin [75% vs 5%] and mean ALT levels fell from 35 to 25 U/L; there were no serious adverse events).</italic></p></annotation><pub-id pub-id-type="pmid">28158893</pub-id></mixed-citation>
+          </ref>
+          <ref id="Turmeric.R20">
+            <mixed-citation publication-type="journal">Mirzaei H, Shakeri A, Rashidi B, Jalili A, Banikazemi Z, Sahebkar A. Phytosomal curcumin: A review of pharmacokinetic, experimental and clinical studies. Biomed Pharmacother 2017; 85: 102-12. <annotation><p><italic toggle="yes">(Review of the chemical characteristics, in vitro antioxidant activity and clinical effects of phytosomal curcumin; mentions that &#x0201c;curcumin is safe and could be tolerated even at very high doses&#x0201d;).</italic></p></annotation><pub-id pub-id-type="pmid">27930973</pub-id></mixed-citation>
+          </ref>
+          <ref id="Turmeric.R21">
+            <mixed-citation publication-type="journal">Nelson KM, Dahlin JL, Bisson J, Graham J, Pauli GF, Walters MA. The essential medicinal chemistry of curcumin. J Med Chem 2017; 60: 1620-37. <annotation><p><italic toggle="yes">(Review of the pharmacology and clinical evidence for efficacy of curcumin concludes that the multiple in vitro effects represent assay interference, that it is poorly absorbed and that there is no evidence that it has any effect in humans despite claims for benefit in many conditions including erectile dysfunction, hirsutism, baldness, cancer and Alzheimer disease).</italic></p></annotation><pub-id pub-id-type="pmid">28074653</pub-id></mixed-citation>
+          </ref>
+          <ref id="Turmeric.R22">
+            <mixed-citation publication-type="journal">Farzaei MH, Zobeiri M, Parvizi F, El-Senduny FF, Marmouzi I, Coy-Barrera E, Naseri R, et al. Curcumin in liver diseases: a systematic review of the cellular mechanisms of oxidative stress and clinical perspective. Nutrients 2018; 10: 855. <annotation><p><italic toggle="yes">(Review of the in vitro and in vivo results showing activity of curcumin in decreasing oxidative stress and summary of clinical studies demonstrating efficacy in liver disease).</italic></p></annotation><pub-id pub-id-type="pmid">29966389</pub-id></mixed-citation>
+          </ref>
+          <ref id="Turmeric.R23">
+            <mixed-citation publication-type="journal">Saadati S, Hatami B, Yari Z, Shahrbaf MA, Eghtesad S, Mansour A, Poustchi H, et al. The effects of curcumin supplementation on liver enzymes, lipid profile, glucose homeostasis, and hepatic steatosis and fibrosis in patients with non-alcoholic fatty liver disease. Eur J Clin Nutr 2019; 73: 441-9. <annotation><p><italic toggle="yes"> (Among 50 patients with nonalcoholic liver disease given lifestyle advice and either curcumin [1500 mg] or placebo daily for 12 weeks, there were no differences between the two groups in weight loss [-2.4 vs -3.9 kg], changes in ALT [-6 vs -7 U/L] or in controlled attenuation parameter score for hepatic steatosis [-16 vs -32 dB/m]). </italic></p></annotation><pub-id pub-id-type="pmid">30610213</pub-id></mixed-citation>
+          </ref>
+          <ref id="Turmeric.R24">
+            <mixed-citation publication-type="journal">Lukefahr AL, McEvoy S, Alfafara C, Funk JL. Drug-induced autoimmune hepatitis associated with turmeric dietary supplement use. BMJ Case Rep 2018; 2018. pii: bcr-2018-224611. <annotation><p><italic toggle="yes">(71 year old woman developed serum ALT elevations without jaundice 8-10 months after starting turmeric [ALT ~325 U/L, Alk P and bilirubin normal; ANA 1:320], which gradually fell into the normal range after stopping).</italic></p></annotation><pub-id pub-id-type="pmid">30206065</pub-id></mixed-citation>
+          </ref>
+          <ref id="Turmeric.R25">
+            <mixed-citation publication-type="other">Luber RP, Rentsch C, Lontos S, Pope JD, Aung AK, Schneider HG, Kemp W, et al. Tumeric induced liver injury: a report of two cases. Case Rep Hepatol 2019; 6741213. Not in PubMed<annotation><p><italic toggle="yes"> (A 52 year old woman and 55 year old man developed evidence of liver injury 1 and 5 months after starting a turmeric supplement [bilirubin 9.5 and 1.3 mg/dL, ALT 2591 and 1149 U/L, Alk P 263 and 145 U/L] which resolved on stopping and recurred in the first patient on restarting the supplement [bilirubin 3.5 mg/dL, ALT 2093 U/L], which was tested and found free of adulterants).</italic></p></annotation></mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec id="Turmeric.OTHER_REFERENCE_LINKS" sec-type="link-group">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=cascara+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D%3A%222999/12/31%22%5BEDat%5D)">Recent References on Turmeric: from PubMed.gov</ext-link>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=cascara">Trials on Turmeric: from ClinicalTrials.gov</ext-link>
+            </p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

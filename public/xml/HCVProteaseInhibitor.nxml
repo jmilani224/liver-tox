@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="HCVProteaseInhibitor" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">HCVProteaseInhibitor</book-part-id>
+      <title-group>
+        <title>Protease Inhibitors (HCV)</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>10</day>
+          <month>3</month>
+          <year>2016</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="ProstacyclinAnalogs" document-type="chapter">Prostacyclin Analogs</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="HIVProteaseInhibitor" document-type="chapter">Protease Inhibitors (HIV)</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="HCVProteaseInhibitor.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="HCVProteaseInhibitor.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>The hepatitis C virus (HCV) specific protease inhibitors are a class of agents that block the enzymatic activity of the HCV NS3 protease region that is necessary for protein processing required for viral replication. The combination of an HCV protease inhibitor with other antiviral agents with activity against HCV (such as peginterferon, ribavirin, and the direct acting agents that block the NS5A and NS5B regions of the virus) leads to marked decrease in HCV replication and eradication of the infection in a high proportion of patients with chronic hepatitis C. At least four HCV protease inhibitors have been approved for use in the United States (boceprevir, paritaprevir, simeprevir, telaprevir), and many more are in preclinical or clinical development (asunaprevir, danoprevir, faldaprevir, grazoprevir, sovaprevir, vedroprevir). The HCV protease inhibitors are approved for use only in combination with other specified anti-HCV agents. Most protease inhibitors in current use have activity against genotype 1 HCV only, the most common genotype strain found in the United States and most of the world.</p>
+        </sec>
+        <sec id="HCVProteaseInhibitor.Background">
+          <title>Background</title>
+          <p>The hepatitis C virus is a small RNA virus that is a major cause of acute and chronic hepatitis in the United States as well as worldwide. A striking feature of HCV infection is that the majority of affected persons (50% to 70%) develop chronic infection, which can lead to chronic liver injury, cirrhosis, end stage liver disease and hepatocellular carcinoma. An estimated 3.2 million Americans (~1.2%) are chronically infected with HCV, and up to one-third of them will develop cirrhosis or liver cancer as a result of this virus infection. Various approaches to antiviral therapy of chronic hepatitis C have been developed, starting in the 1980s with interferon alfa, which was replaced in the 1990s by long acting pegylated forms of interferon (peginterferon) to which was added the oral nucleoside analogue, ribavirin. Between 2010 and 2015, several potent direct acting anti-HCV agents were developed and combinations of these were found to have marked activity against the virus. When given in combination for 8, 12 or 24 weeks, these regimens can result in eradication of the viral infection and cure of the liver disease in 90% to 100% of patients without the need for peginterferon. These oral direct acting agents target various components of HCV, most commonly the NS3 region (viral protease) and the NS5 region (viral polymerase), which includes a structural region (NS5A) and the active polymerase enzyme region (NS5B).</p>
+          <p>The HCV protease inhibitors block the activity of the viral encoded protease that is essential in the post-translational modification of the viral polypeptide that is cleaved into a series of structural and nonstructural (enzyme) regions. The HCV proteases that have been developed are polypeptide-like molecules, modified amino acids that act as competitive inhibitors of the viral serine protease, resembling the specific amino acid sequence that the protease cleaves. At least four HCV protease inhibitors (-previrs) have been approved for use in the United States (boceprevir [2012], telaprevir [2012], simeprevir [2013], paritaprevir [2014]) and grazoprevir [2015], and several more are in various stages of preclinical and clinical development.</p>
+          <p>The HCV protease inhibitors are generally well tolerated, but common adverse events include headache, dizziness, nausea, diarrhea, abdominal discomfort and rash. Liver injury has been reported with several of the HCV protease inhibitors, particularly asunaprevir which has been linked to acute hepatitis with immunoallergic features, sometimes as a part of a generalized hypersensitivity reaction. The onset of injury was within 4 to 12 weeks and was usually accompanied by fever, rash and eosinophilia. Serum enzyme elevations are typically hepatocellular and jaundice is mild-to-moderate in severity. At least one fatal instance of liver injury has been reported with asunaprevir. While asunaprevir has generally been given in combination with daclatasvir and sometimes with ribavirin, the liver injury has convincingly been attributed to asunaprevir in most cases.</p>
+          <p>The HCV protease inhibitors described in LiverTox are listed below with specific links. Three of the agents are discussed separately as they are available individually and are generally combined with other available agents with activity against HCV. Paritaprevir is discussed only in relation to the other antiviral agents with which it is combined, either in the product known as Viekira Pak (dasabuvir, ombitasvir and raritaprevir with ritonavir: D-O-P/r) or as Technive (ombitasvir and paritaprevir with ritonavir: O-P/r). Grazoprevir is discussed only in relation to elbasvir with which it is combined in a product known as Zepatier. Several other HCV specific protease inhibitors are currently under preclinical and clinical evaluation and will be added once they have been adequately characterized and made clinically available.</p>
+          <p>HCV Protease Inhibitors</p>
+          <list list-type="bullet">
+            <list-item>
+              <p>
+                <xref ref-type="book-part" rid="HCVProteaseInhibitor">Asunaprevir</xref>
+              </p>
+            </list-item>
+            <list-item>
+              <p>
+                <related-object link-type="booklink" source-id="livertox" document-id="Boceprevir" document-type="chapter">Boceprevir</related-object>
+              </p>
+            </list-item>
+            <list-item>
+              <p>
+                <related-object link-type="booklink" source-id="livertox" document-id="Mavyret" document-type="chapter">Glecaprevir</related-object>
+              </p>
+            </list-item>
+            <list-item>
+              <p><related-object link-type="booklink" source-id="livertox" document-id="Zepatier" document-type="chapter">Grazoprevir</related-object>: <related-object link-type="booklink" source-id="livertox" document-id="Zepatier" document-type="chapter">Zepatier</related-object></p>
+            </list-item>
+            <list-item>
+              <p><related-object link-type="booklink" source-id="livertox" document-id="ViekiraPak" document-type="chapter">Paritaprevir</related-object>: <related-object link-type="booklink" source-id="livertox" document-id="ViekiraPak" document-type="chapter">Technive</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="ViekiraPak" document-type="chapter">Viekira Pak</related-object></p>
+            </list-item>
+            <list-item>
+              <p>
+                <related-object link-type="booklink" source-id="livertox" document-id="Simeprevir" document-type="chapter">Simeprevir</related-object>
+              </p>
+            </list-item>
+            <list-item>
+              <p>
+                <related-object link-type="booklink" source-id="livertox" document-id="Telaprevir" document-type="chapter">Telaprevir</related-object>
+              </p>
+            </list-item>
+          </list>
+          <p>Drug Class: <related-object link-type="booklink" source-id="livertox" document-id="AntiviralAgents" document-type="chapter">Antiviral Agents</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="HepatitisCDrugs" document-type="chapter">Hepatitis C Agents</related-object>, HCV Protease Inhibitors</p>
+        </sec>
+      </sec>
+      <sec id="HCVProteaseInhibitor.ANNOTATED_BIBLIOGRA">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 10 March 2016</p>
+        <ref-list id="HCVProteaseInhibitor.ANNOTATED_BIBLIOGRA.reflist0">
+          <ref id="HCVProteaseInhibitor.REF.kim.1996">
+            <mixed-citation publication-type="other">Kim JL, Morgenstern KA, Lin C, Fox T, Dwyer MD, Landro JA, Chambers SP, et al. Crystal structure of the hepatitis C virus NS3 protease domain complexed with a synthetic NS4A cofactor peptide. Cell 1996; 87: 343-55. 8861917<annotation><p><italic toggle="yes">(Report of the crystal structure of the NS3/4 region of HCV with detailed description of the active serine protease catalytic site, the target for subsequent development of specific inhibitors of the HCV protease).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="HCVProteaseInhibitor.REF2">
+            <mixed-citation publication-type="other">Telaprevir (Incivek) and boceprevir (Victrelis) for chronic hepatitis C. Med Lett Drugs Ther 2011; 53: 57-9. 21778964<annotation><p><italic toggle="yes">(Concise review of the efficacy, safety and costs of boceprevir and telaprevir shortly after their approval for use as a part of triple therapy of chronic hepatitis C, genotype 1, in the US, mentions side effects of rash, anemia, fatigue, pruritus, nausea and anorectal pruritus and burning, but not ALT elevations or clinically apparent liver injury).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="HCVProteaseInhibitor.REF.rosenquist.2014">
+            <mixed-citation publication-type="other">Rosenquist &#x000c5;, Samuelsson B, Johansson PO, Cummings MD, Lenz O, Raboisson P, Simmen K, et al. Discovery and development of simeprevir (TMC435), a HCV NS3/4A protease inhibitor. J Med Chem 2014; 57: 1673-93. 24446688<annotation><p><italic toggle="yes">(Summary of the development of protease inhibitors for treatment of chronic hepatitis C including simeprevir [TMC435], a novel cyclopentane macrocyclic inhibitor identified by screening in HCV NS3 protease assays, application of structure based design and validation in HCV replicon systems).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="HCVProteaseInhibitor.REF.schinazi.2014">
+            <mixed-citation publication-type="other">Schinazi R, Halfon P, Marcellin P, Asselah T. HCV direct-acting antiviral agents: the best interferon-free combinations. Liver Int 2014; 34 Suppl 1: 69-78. 24373081<annotation><p><italic toggle="yes">(Summary of safety and efficacy of various all-oral regimens for therapy of hepatitis C; does not discuss hepatic decompensation, hepatotoxicity or ALT elevations during therapy).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="HCVProteaseInhibitor.REF5">
+            <mixed-citation publication-type="other">Simeprevir (Olysio) for chronic hepatitis C. Med Lett Drugs Ther 2014; 56 (1433): 1-3. 24419295<annotation><p><italic toggle="yes">(Concise review of the efficacy, safety and costs of simeprevir shortly after its approval in the US as a part of combination therapy of chronic hepatitis C, genotype 1, mentions side effects of rash, photosensitivity, pruritus, nausea, fatigue and dyspnea; simeprevir can cause serum bilirubin elevations, but these are generally mild, transient and in the indirect(unconjugated) fraction and are not associated with ALT elevations or other evidence of liver injury).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="HCVProteaseInhibitor.REF6">
+            <mixed-citation publication-type="other">A 4-drug combination (Viekira Pak) for hepatitis C. Med Lett Drugs Ther 2015; 57 (1461): 15-7. 25629810<annotation><p><italic toggle="yes">(Concise summary of clinical efficacy, side effects, drug-drug interactions and costs of Viekira Pak [D-O-P/r] for chronic hepatitis C, genotype 1, shortly after its approval in the US, mentions that ALT elevations occur in 1-4% of patients and may require early discontinuation, for which reason ALT monitoring is recommended for the first 4 weeks).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="HCVProteaseInhibitor.REF.pawlotsky.2015">
+            <mixed-citation publication-type="other">Pawlotsky JM, Feld JJ, Zeuzem S, Hoofnagle JH. From non-A, non-B hepatitis to hepatitis C virus cure. J Hepatol 2015; 62 (1 Suppl): S87-99. 25920094<annotation><p><italic toggle="yes">(History of the development of therapy for chronic hepatitis C starting with the discovery of a third form of viral hepatitis, through early days of use of interferon alfa, the addition of ribavirin and development of peginterferon, concluding with the arrival of direct acting antiviral agents which in combination yielded response rates of more than 95%, with well tolerated regimens of 8 and 12 weeks).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="HCVProteaseInhibitor.REF8">
+            <mixed-citation publication-type="other">European Association for Study of Liver. EASL Recommendations on Treatment of Hepatitis C 2015. J Hepatol 2015; 63: 199-236. 25911336<annotation><p><italic toggle="yes">(Guidelines for the antiviral therapy of chronic hepatitis C from the European liver disease research and academic society).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="HCVProteaseInhibitor.REF9">
+            <mixed-citation publication-type="other">Elbasvir/grazoprevir (Zepatier) for hepatitis C. Med Lett Drugs Ther 2016; 58 (1489): 25-7. 26938699</mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

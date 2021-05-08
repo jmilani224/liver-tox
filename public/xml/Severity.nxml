@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Severity" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Severity</book-part-id>
+      <title-group>
+        <title>Severity Grading In Drug Induced Liver Injury</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>4</day>
+          <month>5</month>
+          <year>2019</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Phenotypes_tumor" document-type="chapter">Liver Tumors</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="CaseReport" document-type="appendix">Writing A Case Report</related-object>
+    </book-part-meta>
+    <body>
+      <p>The severity of cases of drug induced liver injury can vary greatly, from mild, transient and asymptomatic elevations in serum enzyme levels to acute liver failure leading rapidly to death or need for liver transplantation. In assessing drug induced liver injury, it is important to categorize severity in an objective manner. However, the variability in manifestations of drug induced liver disease makes it difficult to use a single symptom, laboratory abnormality or outcome to grade severity of injury. As a part of ongoing studies of drug induced liver injury, the Drug-Induced Liver Injury Network (DILIN) developed a 5 point scale for grading the severity of liver injury based upon the presence of jaundice, hospitalization, signs of hepatic or other organ failure, and ultimate outcome.</p>
+      <list list-type="bullet">
+        <list-item>
+          <p><bold>1+, Mild:</bold> Raised serum aminotransferase or alkaline phosphatase levels or both, but total serum bilirubin &#x0003c;2.5 mg/dL and no coagulopathy (INR &#x0003c;1.5)</p>
+        </list-item>
+        <list-item>
+          <p><bold>2+, Moderate:</bold> Raised serum aminotransferase or alkaline phosphatase levels or both <underline>and</underline> total serum bilirubin level &#x02265;2.5 mg/dL <underline>or</underline> coagulopathy (INR &#x02265;1.5) without hyperbilirubinemia</p>
+        </list-item>
+        <list-item>
+          <p><bold>3+, Moderate to Severe:</bold> Raised serum aminotransferase or alkaline phosphatase levels and total serum bilirubin level &#x02265;2.5 mg/dL <underline>and</underline> hospitalization (or preexisting hospitalization is prolonged) because of the drug induced liver injury</p>
+        </list-item>
+        <list-item>
+          <p><bold>4+, Severe:</bold> Raised serum aminotransferase or alkaline phosphatase levels and serum bilirubin &#x02265;2.5 mg/dL <underline>and</underline> at least one of the following:</p>
+          <list list-type="bullet">
+            <list-item>
+              <p>Prolonged jaundice and symptoms beyond 3 months, <underline>or</underline></p>
+            </list-item>
+            <list-item>
+              <p>Signs of hepatic decompensation (INR &#x02265;1.5, ascites, encephalopathy), <underline>or</underline></p>
+            </list-item>
+            <list-item>
+              <p>Other organ failure believed to be related to drug induced liver injury</p>
+            </list-item>
+          </list>
+        </list-item>
+        <list-item>
+          <p><bold>5+, Fatal:</bold> Death or liver transplantation for drug induced liver injury</p>
+        </list-item>
+      </list>
+      <p>Severity is also graded on the basis of symptoms, with &#x0201c;S&#x0201d; indicating symptoms believed to be caused by the liver injury and &#x0201c;A&#x0201d; absence of symptoms. Symptoms that qualify as possibly due to liver injury include fatigue, weakness, nausea, right upper quadrant pain, itching, skin rash, jaundice, anorexia or weight loss. In all situations, the symptoms should be judged as being due to the drug induced liver injury. This grading applies mostly to patients with enzyme elevations without jaundice, as it is rare for a patient with jaundice not to have symptoms.</p>
+      <p>In prospective clinical trials of medications, standard criteria are used to assess the severity of adverse events including symptoms and laboratory test abnormalities. Adverse events are typically graded on a scale of 0 to 4. Grades for severity of liver test abnormalities and symptoms of liver injury have been developed and standardized and are used in many publications of clinical trials and studies of new medications. A commonly used grading system is that developed by the Acquired Immune Deficiency Syndrome (AIDS) Clinical Trials Group (CTG). In this system, the following levels are used to assess severity, with the values expressed as multiples of the upper limit of the normal range (ULN).</p>
+      <table-wrap id="Severity.Tc" orientation="portrait" position="anchor">
+        <table frame="hsides" rules="groups">
+          <thead>
+            <tr>
+              <th id="hd_h_Severity.Tc_1_1_1_1" valign="top" align="left" scope="col" rowspan="1" colspan="1">FEATURE</th>
+              <th id="hd_h_Severity.Tc_1_1_1_2" valign="top" align="left" scope="col" rowspan="1" colspan="1">Grade 0</th>
+              <th id="hd_h_Severity.Tc_1_1_1_3" valign="top" align="left" scope="col" rowspan="1" colspan="1">Grade 1</th>
+              <th id="hd_h_Severity.Tc_1_1_1_4" valign="top" align="left" scope="col" rowspan="1" colspan="1">Grade 2</th>
+              <th id="hd_h_Severity.Tc_1_1_1_5" valign="top" align="left" scope="col" rowspan="1" colspan="1">Grade 3</th>
+              <th id="hd_h_Severity.Tc_1_1_1_6" valign="top" align="left" scope="col" rowspan="1" colspan="1">Grade 4</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td headers="hd_h_Severity.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">
+                <bold>ALT</bold>
+              </td>
+              <td headers="hd_h_Severity.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">&#x0003c;1.25</td>
+              <td headers="hd_h_Severity.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">1.25-2.5</td>
+              <td headers="hd_h_Severity.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">&#x0003e;2.5-5.0</td>
+              <td headers="hd_h_Severity.Tc_1_1_1_5" valign="top" align="left" rowspan="1" colspan="1">&#x0003e;5.0-10</td>
+              <td headers="hd_h_Severity.Tc_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1">&#x0003e;10</td>
+            </tr>
+            <tr>
+              <td headers="hd_h_Severity.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">
+                <bold>AST</bold>
+              </td>
+              <td headers="hd_h_Severity.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">&#x0003c;1.25</td>
+              <td headers="hd_h_Severity.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">1.25-2.5</td>
+              <td headers="hd_h_Severity.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">&#x0003e;2.5-5.0</td>
+              <td headers="hd_h_Severity.Tc_1_1_1_5" valign="top" align="left" rowspan="1" colspan="1">&#x0003e;5.0-10</td>
+              <td headers="hd_h_Severity.Tc_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1">&#x0003e;10</td>
+            </tr>
+            <tr>
+              <td headers="hd_h_Severity.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">
+                <bold>Alkaline Phosphatase</bold>
+              </td>
+              <td headers="hd_h_Severity.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">&#x0003c;1.25</td>
+              <td headers="hd_h_Severity.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">1.25-2.5</td>
+              <td headers="hd_h_Severity.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">&#x0003e;2.5-5.0</td>
+              <td headers="hd_h_Severity.Tc_1_1_1_5" valign="top" align="left" rowspan="1" colspan="1">&#x0003e;5.0-10</td>
+              <td headers="hd_h_Severity.Tc_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1">&#x0003e;10</td>
+            </tr>
+            <tr>
+              <td headers="hd_h_Severity.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">
+                <bold>GGT</bold>
+              </td>
+              <td headers="hd_h_Severity.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">&#x0003c;1.25</td>
+              <td headers="hd_h_Severity.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">1.25-2.5</td>
+              <td headers="hd_h_Severity.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">&#x0003e;2.5-5.0</td>
+              <td headers="hd_h_Severity.Tc_1_1_1_5" valign="top" align="left" rowspan="1" colspan="1">&#x0003e;5.0-10</td>
+              <td headers="hd_h_Severity.Tc_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1">&#x0003e;10</td>
+            </tr>
+            <tr>
+              <td headers="hd_h_Severity.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">
+                <bold>Bilirubin</bold>
+              </td>
+              <td headers="hd_h_Severity.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">Normal</td>
+              <td headers="hd_h_Severity.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">&#x0003e;1.0-1.5</td>
+              <td headers="hd_h_Severity.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">&#x0003e;1.5-2.5</td>
+              <td headers="hd_h_Severity.Tc_1_1_1_5" valign="top" align="left" rowspan="1" colspan="1">&#x0003e;2.5-5</td>
+              <td headers="hd_h_Severity.Tc_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1">&#x0003e;5</td>
+            </tr>
+          </tbody>
+        </table>
+      </table-wrap>
+      <p>Descriptive terms are also applied to these grades, with Grade 1 indicating mild, Grade 2 moderate, and Grade 3 severe and Grade 4 life-threatening values. However, it should be stressed that these terms usually overestimate the severity of drug induced liver injury, as ALT levels of 5 to 10 times the upper limit of normal (~200 to 400 U/L) without symptoms or jaundice cannot be considered severe hepatotoxicity, and should instead be referred to as &#x0201c;Grade 3 ALT elevations&#x0201d;. The grading of liver test elevations is sometimes adjusted to baseline values, particularly in patients with underlying liver disease, such as hepatitis B or C. In these situations, Grade 0 represents values &#x0003c;1.25, Grade 1, 1.25-2.5, Grade 2, 2.6-3.5, Grade 3, 3.6-5, and Grade 4, &#x0003e;5 times baseline. This convention, however, is not always used.</p>
+      <p>A similar grading system has been developed by the Cancer Therapy Evalutation Program of the National Cancer Institute (NCI) of the National Institutes of Health, which is referred to as the Common Toxicity Criteria for Adverse Events, version 4.0: CTCAEv4.03. In this system, the following levels are used to assess severity, with the values expressed as multiples of the upper limit of the normal range (ULN).</p>
+      <table-wrap id="Severity.Td" orientation="portrait" position="anchor">
+        <table frame="hsides" rules="groups">
+          <thead>
+            <tr>
+              <th id="hd_h_Severity.Td_1_1_1_1" valign="top" align="left" scope="col" rowspan="1" colspan="1">FEATURE</th>
+              <th id="hd_h_Severity.Td_1_1_1_2" valign="top" align="left" scope="col" rowspan="1" colspan="1">Grade 0</th>
+              <th id="hd_h_Severity.Td_1_1_1_3" valign="top" align="left" scope="col" rowspan="1" colspan="1">Grade 1</th>
+              <th id="hd_h_Severity.Td_1_1_1_4" valign="top" align="left" scope="col" rowspan="1" colspan="1">Grade 2</th>
+              <th id="hd_h_Severity.Td_1_1_1_5" valign="top" align="left" scope="col" rowspan="1" colspan="1">Grade 3</th>
+              <th id="hd_h_Severity.Td_1_1_1_6" valign="top" align="left" scope="col" rowspan="1" colspan="1">Grade 4</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td headers="hd_h_Severity.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">
+                <bold>ALT</bold>
+              </td>
+              <td headers="hd_h_Severity.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">Normal</td>
+              <td headers="hd_h_Severity.Td_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">&#x0003e;1.0-3.0</td>
+              <td headers="hd_h_Severity.Td_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">&#x0003e;3.0-5.0</td>
+              <td headers="hd_h_Severity.Td_1_1_1_5" valign="top" align="left" rowspan="1" colspan="1">&#x0003e;5.0-20</td>
+              <td headers="hd_h_Severity.Td_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1">&#x0003e;20</td>
+            </tr>
+            <tr>
+              <td headers="hd_h_Severity.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">
+                <bold>AST</bold>
+              </td>
+              <td headers="hd_h_Severity.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">Normal</td>
+              <td headers="hd_h_Severity.Td_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">&#x0003e;1.0-3.0</td>
+              <td headers="hd_h_Severity.Td_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">&#x0003e;3.0-5.0</td>
+              <td headers="hd_h_Severity.Td_1_1_1_5" valign="top" align="left" rowspan="1" colspan="1">&#x0003e;5.0-20</td>
+              <td headers="hd_h_Severity.Td_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1">&#x0003e;20</td>
+            </tr>
+            <tr>
+              <td headers="hd_h_Severity.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">
+                <bold>Alkaline Phosphatase</bold>
+              </td>
+              <td headers="hd_h_Severity.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">Normal</td>
+              <td headers="hd_h_Severity.Td_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">&#x0003e;1.0-2.5</td>
+              <td headers="hd_h_Severity.Td_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">&#x0003e;2.5-5.0</td>
+              <td headers="hd_h_Severity.Td_1_1_1_5" valign="top" align="left" rowspan="1" colspan="1">&#x0003e;5.0-20</td>
+              <td headers="hd_h_Severity.Td_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1">&#x0003e;20</td>
+            </tr>
+            <tr>
+              <td headers="hd_h_Severity.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">
+                <bold>GGT</bold>
+              </td>
+              <td headers="hd_h_Severity.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">Normal</td>
+              <td headers="hd_h_Severity.Td_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">&#x0003e;1.0-2.5</td>
+              <td headers="hd_h_Severity.Td_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">&#x0003e;2.5-5.0</td>
+              <td headers="hd_h_Severity.Td_1_1_1_5" valign="top" align="left" rowspan="1" colspan="1">&#x0003e;5.0-20</td>
+              <td headers="hd_h_Severity.Td_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1">&#x0003e;20</td>
+            </tr>
+            <tr>
+              <td headers="hd_h_Severity.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">
+                <bold>Bilirubin</bold>
+              </td>
+              <td headers="hd_h_Severity.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">Normal</td>
+              <td headers="hd_h_Severity.Td_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">&#x0003e;1.0-1.5</td>
+              <td headers="hd_h_Severity.Td_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">&#x0003e;1.5-3.0</td>
+              <td headers="hd_h_Severity.Td_1_1_1_5" valign="top" align="left" rowspan="1" colspan="1">&#x0003e;3.0-10</td>
+              <td headers="hd_h_Severity.Td_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1">&#x0003e;10</td>
+            </tr>
+          </tbody>
+        </table>
+      </table-wrap>
+      <p>Descriptive terms are also applied to these grades, with Grade 1 indicating mild, Grade 2 moderate, and Grade 3 severe and Grade 4 life-threatening values. However, it should be stressed that these terms usually overestimate the severity of drug induced liver injury, as ALT levels of 5 to 20 times the upper limit of normal (~400 to 800 U/L) without symptoms or jaundice cannot be considered severe hepatotoxicity, and should instead be referred to as &#x0201c;Grade 3 ALT elevations&#x0201d;. The grading of liver test elevations is sometimes adjusted to baseline values, particularly in patients with underlying liver disease, such as hepatitis B or C. In these situations, Grade 0 represents values &#x0003c;1.00, Grade 1, 1.00-2.5, Grade 2, 2.6-5.0, Grade 3, 5.0-20, and Grade 4, &#x0003e;20 times baseline. This convention, however, is not always used.</p>
+      <p>Thus, the two grading systems have slightly different "cutpoints" to separate the different grades of injury. The AIDS Clinical Trials Group requires an enzyme elevation of at least 1.25 times the ULN to warrant the designation of Grade 1 abnormalities, whereas the NCI system uses any elevation above the ULN as Grade 1 enzyme abnormalities. Similarly, Grade 4 abnormalities in the AIDS CTG system are based on enzyme values above 10 times the ULN, whereas the NCI system uses 20 times ULN.</p>
+      <p>A problem with all grading systems using the upper limit of normal as an index is that there is little consensus on what the ULN should be or how it should be calculated. Thus, the upper limit of normal of ALT in different testing laboratories can range from 19 to 77 U/L, and some laboratories use a different reference range for women than men. Actually, current automated systems for measuring ALT values yield very similar results and use of common reference limits is reasonable, particularly in multicenter trials. In the LiverTox website, the default ULN for ALT is 40 U/L, alkaline phosphatase 115 U/L and bilirubin 1.2 mg/dL. Serum bilirubin values are particularly confusing when using multiples of the upper limit of normal, as the ULN in different laboratories may be 1.0, 1.2, or 1.5 mg/dL and a Grade 4 elevation may therefore be 10 mg/dL, 12 mg/dL or 15 mg/dL.</p>
+    </body>
+  </book-part>
+</book-part-wrapper>

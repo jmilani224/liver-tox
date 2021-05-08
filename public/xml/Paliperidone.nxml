@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Paliperidone" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Paliperidone</book-part-id>
+      <title-group>
+        <title>Paliperidone</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>10</day>
+          <month>3</month>
+          <year>2016</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Palbociclib" document-type="chapter">Palbociclib</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Panitumumab" document-type="chapter">Panitumumab</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Paliperidone.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Paliperidone.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Paliperidone is a second generation (atypical) antipsychotic agent that is available in both oral and long acting parenteral forms and is used in the treatment of schizophrenia. Paliperidone is associated with a low rate of serum aminotransferase elevations during therapy, but has not been linked to instances of clinically apparent acute liver injury.</p>
+        </sec>
+        <sec id="Paliperidone.Background">
+          <title>Background</title>
+          <p>Paliperidone (pal" ee per' i done) is a second generation antipsychotic agent which appears to act as a dopamine type 2 (D2) and serotonin (5-HT)-2A receptor antagonist and is similar in structure and mechanism of action to risperidone. Indeed, paliperidone is the primary active metabolite of risperidone, its chemical name being 9-hydroxyrisperidone. Several randomized controlled trials have shown that oral paliperidone improves symptoms of schizophrenia and is comparable in effect to risperidone and ziprasidone. Oral formulations of paliperidone were approved for use in the United States in 2006 as treatment for schizophrenia and schizoaffective disorder, as extended release tablets of 1.5, 3, 6 and 9 mg under the brand name Invega. Subsequently, parenteral formulations of paliperidone palmitate were developed that could be administered every one or three months. These palmitate formulations are given intramuscularly in varying doses and are available under the brand names Invega Sustenna and Invega Trinzia. Common side effects of paliperidone include dizziness, dry mouth, somnolence, fatigue, nasal congestion, anxiety, restlessness and weight gain. Paliperidone therapy is also associated with postural hypotension and prolongation of the QTc interval. The intramuscular formulations also can cause local injection site and hypersensitivity reactions. Rare, but potential severe adverse reactions (mentioned in most antipsychotic and antidepressant product labels) include tardive dyskinesia, major neurologic events, neuroleptic malignant syndrome, orthostatic hypotension, seizures and neutropenia.</p>
+        </sec>
+        <sec id="Paliperidone.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>Liver test abnormalities occur in up to 1% of patients receiving paliperidone, but similar rates have been reported with placebo therapy and with comparator agents. The ALT elevations are usually mild, transient and often resolve even without dose modification or drug discontinuation. There have been no published reports of clinically apparent liver injury with symptoms or jaundice attributed to paliperidone therapy, even with the long acting parenteral formulations.</p>
+          <p>Likelihood score: E (unlikely cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Paliperidone.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The mechanism by which paliperidone might cause serum ALT elevations or liver injury is not known. Paliperidone is metabolized to some extent by the cytochrome P450 system (CYP 2D6 and 3A4), but is an uncommon cause of significant drug-drug interactions with agents that inhibit or induce these microsomal enzymes.</p>
+        </sec>
+        <sec id="Paliperidone.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>The serum aminotransferase elevations that occur on paliperidone therapy are usually self-limited and often do not require dose modification or discontinuation. No instances of acute liver failure, chronic hepatitis or vanishing bile duct syndrome have been attributed to paliperidone. Cross sensitivity to liver related or other hypersensitivity reactions between paliperidone and structurally related antipsychotic agents (such as iloperidone, lurasidone, risperidone and ziprasidone) have not been demonstrated, but may well occur.</p>
+          <p>Drug Class: <related-object source-id="livertox" document-id="AntipsychoticAgents">Antipsychotic Agents</related-object>, Atypicals</p>
+        </sec>
+      </sec>
+      <sec id="Paliperidone.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <boxed-text position="anchor" id="Paliperidone.BPI" orientation="portrait">
+          <p>
+            <bold> REPRESENTATIVE TRADE NAMES</bold>
+          </p>
+          <p>Paliperidone &#x02013; Invega&#x000ae;</p>
+          <p>
+            <bold>DRUG CLASS</bold>
+          </p>
+          <p>Antipsychotic Agents</p>
+          <p>
+            <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Paliperidone">COMPLETE LABELING</ext-link>
+          </p>
+          <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+        </boxed-text>
+      </sec>
+      <sec id="Paliperidone.CHEMICAL_FORMULAS_AND_STRUC">
+        <title>CHEMICAL FORMULAS AND STRUCTURES</title>
+        <table-wrap id="Paliperidone.T1" position="anchor" orientation="portrait">
+          <table>
+            <thead>
+              <tr>
+                <th id="hd_h_Paliperidone.T1_1_1_1_1" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Paliperidone.T1_1_1_1_2" rowspan="1" colspan="1">CAS REGISTRY NUMBER</th>
+                <th id="hd_h_Paliperidone.T1_1_1_1_3" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Paliperidone.T1_1_1_1_4" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Paliperidone.T1_1_1_1_1" rowspan="1" colspan="1">Paliperidone</td>
+                <td headers="hd_h_Paliperidone.T1_1_1_1_2" rowspan="1" colspan="1">
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135072932">144598-75-4</ext-link>
+                </td>
+                <td headers="hd_h_Paliperidone.T1_1_1_1_3" rowspan="1" colspan="1">C23-H27-F-N4-O3</td>
+                <td headers="hd_h_Paliperidone.T1_1_1_1_4" rowspan="1" colspan="1">
+                  <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Paliperidone_Structure.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait">
+                    <alt-text>Paliperidone Chemical Structure</alt-text>
+                  </graphic>
+                </td>
+              </tr>
+              <tr>
+                <td headers="hd_h_Paliperidone.T1_1_1_1_1" rowspan="1" colspan="1">Risperidone</td>
+                <td headers="hd_h_Paliperidone.T1_1_1_1_2" rowspan="1" colspan="1">
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135018248">106266-06-2</ext-link>
+                </td>
+                <td headers="hd_h_Paliperidone.T1_1_1_1_3" rowspan="1" colspan="1">C23-H27-F-N4-O2</td>
+                <td headers="hd_h_Paliperidone.T1_1_1_1_4" rowspan="1" colspan="1">
+                  <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Risperidone_Structure.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait">
+                    <alt-text>Risperidone Chemical Structure</alt-text>
+                  </graphic>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Paliperidone.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 10 March 2016</p>
+        <ref-list id="Paliperidone.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Paliperidone.R1">
+            <mixed-citation publication-type="other">Meyer JM. Pharmacotherapy of psychosis and mania. In, Brunton LL, Chabner BA, Knollman BC, eds. Goodman &#x00026; Gilman&#x02019;s the pharmacological basis of therapeutics. 12th ed. New York: McGraw-Hill, 2011, pp. 417-56.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Paliperidone.R2">
+            <mixed-citation publication-type="other">Larry D. Hepatotoxicity of psychotropic drugs and drugs of abuse. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 2nd ed. New York: Informa Healthcare USA, 2007, pp. 507-26.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of psychiatric agents does not discuss paliperidone).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Paliperidone.R3">
+            <mixed-citation publication-type="journal">Canuso CM, Lindenmayer JP, Kosik-Gonzalez C, Turkoz I, Carothers J, Bossie CA, Schooler NR. A randomized, double-blind, placebo-controlled study of 2 dose ranges of paliperidone extended-release in the treatment of subjects with schizoaffective disorder. J Clin Psychiatry 2010; 71: 587-98. <annotation><p><italic toggle="yes">(Among 316 patients with schizoaffective disorder treated with paliperidone [6 or 12 mg daily] or placebo for 6 weeks, symptom scores improved more with the higher dose paliperidone; adverse events included headache, tremor, somnolence and prolactin elevations, and one patient on paliperidone had &#x0201c;a markedly abnormal elevation&#x0201d; in ALT; no further details provided).</italic></p></annotation><pub-id pub-id-type="pmid">20492853</pub-id></mixed-citation>
+          </ref>
+          <ref id="Paliperidone.R4">
+            <mixed-citation publication-type="journal">Pandina GJ, Lindenmayer JP, Lull J, Lim P, Gopal S, Herben V, Kusumakar V, et al. A randomized, placebo-controlled study to assess the efficacy and safety of 3 doses of paliperidone palmitate in adults with acutely exacerbated schizophrenia. J Clin Psychopharmacol 2010; 30: 235-44. <annotation><p><italic toggle="yes">(Among 652 patients with an acute exacerbation of schizophrenia treated with monthly injections of paliperidone [25, 100 or 150 mg equivalents] or placebo for 13 weeks, symptom scores improved more with paliperidone than placebo and &#x0201c;there were no clinically relevant changes from baseline in&#x02026; clinical laboratory parameters&#x0201d;).</italic></p></annotation><pub-id pub-id-type="pmid">20473057</pub-id></mixed-citation>
+          </ref>
+          <ref id="Paliperidone.R5">
+            <mixed-citation publication-type="journal">Gopal S, Hough DW, Xu H, Lull JM, Gassmann-Mayer C, Remmerie BM, Eerdekens MH, et al. Efficacy and safety of paliperidone palmitate in adult patients with acutely symptomatic schizophrenia: a randomized, double-blind, placebo-controlled, dose-response study. Int Clin Psychopharmacol 2010; 25: 247-56. <annotation><p><italic toggle="yes">(Among 388 patients with schizophrenia treated with paliperidone palmitate [50, 100 or 150 mg eq] or placebo by intramuscular injection once monthly, symptom scores improved with the active drug and adverse events included headache, vomiting, pain and injection site reactions; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">20389255</pub-id></mixed-citation>
+          </ref>
+          <ref id="Paliperidone.R6">
+            <mixed-citation publication-type="journal">Kramer M, Litman R, Hough D, Lane R, Lim P, Liu Y, Eerdekens M. Paliperidone palmitate, a potential long-acting treatment for patients with schizophrenia. Results of a randomized, double-blind, placebo-controlled efficacy and safety study. Int J Neuropsychopharmacol 2010; 13: 635-47. <annotation><p><italic toggle="yes">(Among 247 patients with schizophrenia treated with intramuscular paliperidone palmitate or placebo, one patient in the placebo group developed &#x0201c;elevated hepatic enzymes&#x0201d;, but no serious adverse events were liver related).</italic></p></annotation><pub-id pub-id-type="pmid">19941696</pub-id></mixed-citation>
+          </ref>
+          <ref id="Paliperidone.R7">
+            <mixed-citation publication-type="journal">Emsley R, Berwaerts J, Eerdekens M, Kramer M, Lane R, Lim P, Hough D, Palumbo J. Efficacy and safety of oral paliperidone extended-release tablets in the treatment of acute schizophrenia: pooled data from three 52-week open-label studies. Int Clin Psychopharmacol 2008; 23: 343-56. <annotation><p><italic toggle="yes">(Among 1083 patients with schizophrenia treated with open label extension studies of paliperidone for 52 weeks, common side effects included insomnia, headache and restlessness [akathisia] and &#x0201c;there were no clinically meaningful changes&#x0201d; in clinical chemistry results).</italic></p></annotation><pub-id pub-id-type="pmid">18854723</pub-id></mixed-citation>
+          </ref>
+          <ref id="Paliperidone.R8">
+            <mixed-citation publication-type="journal">Meltzer HY, Bobo WV, Nuamah IF, Lane R, Hough D, Kramer M, Eerdekens M. Efficacy and tolerability of oral paliperidone extended-release tablets in the treatment of acute schizophrenia: pooled data from three 6-week, placebo-controlled studies. J Clin Psychiatry 2008; 69: 817-29. <annotation><p><italic toggle="yes">(Among 1325 patients with acute schizophrenia treated with paliperidone [3-15 mg daily], olanzapine or placebo for 6 weeks in 3 controlled trials, adverse events were more common with the higher doses; no mention of ALT elevations or hepatotoxicity and no liver related serious adverse events reported).</italic></p></annotation><pub-id pub-id-type="pmid">18466043</pub-id></mixed-citation>
+          </ref>
+          <ref id="Paliperidone.R9">
+            <mixed-citation publication-type="journal">Parsons B, Allison DB, Loebel A, Williams K, Giller E, Romano S, Siu C. Weight effects associated with antipsychotics: a comprehensive database analysis. Schizophr Res 2009; 110: 103-10. <annotation><p><italic toggle="yes">(Analysis of weight gain in 21 placebo controlled trials [~3300 patients]; average monthly weight gain in pounds was +0.1 with placebo, +0.8 olanzapine, 0.6 risperidone, -0.3 ziprasidone; a 5% increase in weight occurred after one year in 13% of placebo, 39% haloperidol, 20% ziprasidone, 45% risperidone and 60% olanzapine treated subjects; no mention of paliperidone).</italic></p></annotation><pub-id pub-id-type="pmid">19321312</pub-id></mixed-citation>
+          </ref>
+          <ref id="Paliperidone.R10">
+            <mixed-citation publication-type="journal">Coppola D, Liu Y, Gopal S, Remmerie B, Samtani MN, Hough DW, Nuamah I, Sulaiman A, Pandina G. A one-year prospective study of the safety, tolerability and pharmacokinetics of the highest available dose of paliperidone palmitate in patients with schizophrenia. BMC Psychiatry 2012; 12: 26. <annotation><p><italic toggle="yes">(Among 212 patients with schizophrenia treated with different doses of monthly intramuscular injections of paliperidone palmitate, adverse events included local injection site reactions, nasopharyngitis, insomnia, headache, tachycardia, akathisia, tremor and weight gain; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">22455454</pub-id></mixed-citation>
+          </ref>
+          <ref id="Paliperidone.R11">
+            <mixed-citation publication-type="journal">Berwaerts J, Melkote R, Nuamah I, Lim P. A randomized, placebo- and active-controlled study of paliperidone extended-release as maintenance treatment in patients with bipolar I disorder after an acute manic or mixed episode. J Affect Disord 2012; 138: 247-58. <annotation><p><italic toggle="yes">(Among 756 patients with mania or mixed episodes treated with paliperidone [3-12 mg daily] or olanzapine or placebo, adverse events were most frequent with olanzapine; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">22377512</pub-id></mixed-citation>
+          </ref>
+          <ref id="Paliperidone.R12">
+            <mixed-citation publication-type="journal">Citrome L. Oral paliperidone extended-release: chemistry, pharmacodynamics, pharmakinetics and metabolism, clinical efficacy, safety and tolerability. Expert Opin Drug Metab Toxicol 2012; 8: 873-88. <annotation><p><italic toggle="yes">(Review of the structure, mechanism of action, clinical efficacy and safety of paliperidone as therapy of schizophrenia mentions that adverse events include extrapyramidal symptoms, restlessness, tachycardia, headache, anxiety, somnolence and weight gain, as well as prolongation of the QTc interval; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">22632481</pub-id></mixed-citation>
+          </ref>
+          <ref id="Paliperidone.R13">
+            <mixed-citation publication-type="journal">Drugs for psychiatric disorders. Treat Guidel Med Lett 2013; 11 (130): 53-64; <annotation><p><italic toggle="yes">(Concise review of safety, efficacy and role of drugs for psychiatric disorders mentions that paliperidone is a second generation antipsychotic agent whose adverse side effects include extrapyramidal symptoms, prolactin elevation, nausea, somnolence, dizziness, tachycardia and QTc interval prolongation; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">23715100</pub-id></mixed-citation>
+          </ref>
+          <ref id="Paliperidone.R14">
+            <mixed-citation publication-type="journal">Alphs L, Mao L, Rodriguez SC, Hulihan J, Starr HL. Design and rationale of the Paliperidone Palmitate Research in Demonstrating Effectiveness (PRIDE) study: a novel comparative trial of once-monthly paliperidone palmitate versus daily oral antipsychotic treatment for delaying time to treatment failure in persons with schizophrenia. J Clin Psychiatry 2014; 75: 1388-93. <annotation><p><italic toggle="yes">(Description of 15 month trial design to compare one monthly injections of paliperidone to daily oral administration, the end points being time to relapse and safety).</italic></p></annotation><pub-id pub-id-type="pmid">25375367</pub-id></mixed-citation>
+          </ref>
+          <ref id="Paliperidone.R15">
+            <mixed-citation publication-type="journal">Musil R, Obermeier M, Russ P, Hamerle M. Weight gain and antipsychotics: a drug safety review. Expert Opin Drug Saf 2015; 14: 73-96. <annotation><p><italic toggle="yes">(Extensive systematic review of the literature on the problem of weight gain during therapy with antipsychotic agents, mentions that weight gain of 7% or more occurs in 0-29% of patients on paliperidone averaging 1.2 kg, the rates being lower than with olanzapine, but higher than with aripiprazole).</italic></p></annotation><pub-id pub-id-type="pmid">25400109</pub-id></mixed-citation>
+          </ref>
+          <ref id="Paliperidone.R16">
+            <mixed-citation publication-type="journal">Ravenstijn P, Remmerie B, Savitz A, Samtani MN, Nuamah I, Chang CT, De Meulder M, et al. Pharmacokinetics, safety, and tolerability of paliperidone palmitate 3-month formulation in patients with schizophrenia: A phase-1, single-dose, randomized, open-label study. J Clin Pharmacol 2016; 56: 330-9. <annotation><p><italic toggle="yes">(Among 328 patients with schizophrenia treated with varying doses of a parenteral formulation of paliperidone given every 3 months, common side effects were headache, weight gain and anxiety, but there were &#x0201c;no clinically relevant changes&#x0201d; in chemistry results).</italic></p></annotation><pub-id pub-id-type="pmid">26189570</pub-id></mixed-citation>
+          </ref>
+          <ref id="Paliperidone.R17">
+            <mixed-citation publication-type="journal">Berwaerts J, Liu Y, Gopal S, Nuamah I, Xu H, Savitz A, Coppola D, et al. Efficacy and safety of the 3-month formulation of paliperidone palmitate vs placebo for relapse prevention of schizophrenia: a randomized clinical trial. JAMA Psychiatry 2015; 72: 830-9. <annotation><p><italic toggle="yes">(Among 506 patients with schizophrenia treated with a 1- and 3-month formulations of paliperidone or placebo, the most common adverse events were headache, weight gain, nasopharyngitis and restlessness [akathisia: 4%]; the only treatment related early discontinuation was for ALT elevations in a placebo recipient).</italic></p></annotation><pub-id pub-id-type="pmid">25820612</pub-id></mixed-citation>
+          </ref>
+          <ref id="Paliperidone.R18">
+            <mixed-citation publication-type="journal">Chalasani N, Bonkovsky HL, Fontana R, Lee W, Stolz A, Talwalkar J, Reddy KR, et al.; United States Drug Induced Liver Injury Network. Features and outcomes of 899 patients with drug-induced liver injury: the DILIN prospective study. Gastroenterology 2015; 148: 1340-52. <annotation><p><italic toggle="yes">(Among 899 patients with drug induced liver injury seen over a ten year period at 8 US medical centers, one case was attributed to olanzapine, but none to paliperidone or other atypical antipsychotic medications).</italic></p></annotation><pub-id pub-id-type="pmid">25754159</pub-id></mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec id="Paliperidone.OTHER_REFERENCE_LINKS" sec-type="link-group">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=(Paliperidone/AE)+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D%3A%222999/12/31%22%5BEDat%5D)">Recent References on Paliperidone: from PubMed.gov</ext-link>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Paliperidone">Trials on Paliperidone: from ClinicalTrials.gov</ext-link>
+            </p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

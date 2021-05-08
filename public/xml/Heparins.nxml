@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Heparins" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Heparins</book-part-id>
+      <title-group>
+        <title>Heparins</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>13</day>
+          <month>11</month>
+          <year>2017</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Heparin" document-type="chapter">Heparin</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="HepatitisCDrugs" document-type="chapter">Hepatitis C (HCV) Agents</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Heparins.OVERVIEW">
+        <title>OVERVIEW</title>
+        <p content-type="pubmed-excerpt">Heparin is a naturally occurring, complex glycosaminoglycan that has anticoagulant activity and has been used for decades as an antithrombotic agent in management of patients at high risk for thromboses. Heparin is synthesized in mast cells as a polymer from glucuronic acid and glucosamine residues, 10 to 15 of which are attached to a core protein resulting in a large proteoglycan of 750,000 to 1,000,000 daltons. This complex is then modified extensively and then degraded into glycosaminoglycan chains of 5000 to 30,000 daltons. Heparin for therapeutic use in humans is generally made from extracts of bovine lung or porcine intestinal mucosa and consists of a heterogeneous mixture of glycosaminoglycans of slightly different structures and molecular weights. Commercial preparations of heparin are standardized as USP units/mg.</p>
+        <p content-type="pubmed-excerpt">Low molecular weight heparins (1000 to 10,000 daltons) are isolated from standard heparin preparations, which are then partially depolymerized and purified by gel chromatography and alcohol precipitation. Commercial preparations of low molecular weight heparins are standardized in a bioassay based upon inhibition of coagulation factor Xa. Heparin is a large glycosaminoglycan and is not absorbed through the gastrointestinal mucosa and must be given intravenously or by subcutaneous injection. Heparin is used as the initial treatment of venous thrombosis and pulmonary embolism because of its rapid onset of action, while awaiting the slower onset of activity of oral anticoagulants (such as warfarin). Heparin is also used in the setting of acute myocardial infarction and unstable angina and in prophylaxis of venous thrombosis during and/or after surgery. In addition, heparin is used to maintain patency of intravenous indwelling catheters (&#x0201c;heparin lock&#x0201d;), usually in low doses (10 to 100 units), and is not meant for therapeutic purposes. Recently, low molecular weight heparins have replaced standard heparin in many situations, their advantage being a more predictable pharmacokinetics which allows for subcutaneous administration and outpatient management.</p>
+        <p content-type="pubmed-excerpt">The major side effects of heparin therapy are related to excessive bleeding and anticoagulation. However, heparin (both standard and low molecular weight forms) also has somewhat idiosyncratic side effects which includes hypersensitivity reactions, thrombocytopenia and serum enzyme elevations. Indeed, a large proportion of patients given standard or low molecular weight heparin intravenously develop serum ALT and AST elevations arising after 4 to 8 days of therapy that are usually asymptomatic and self-limited, lasting only 4 to 20 days and resolving sometimes even with continuation of treatment. The cause of these elevations is not known, but they are rarely associated with any symptoms. Serum alkaline phosphatase levels are elevated in a small proportion of cases but bilirubin levels are rarely above normal. For obvious reasons, the liver histological changes accompanying the aminotransferase elevations during heparin therapy has not been described.</p>
+        <p>The following agents are discussed separately, with references for all Heparin agents provided below.</p>
+        <p>Drug Class: <related-object source-id="livertox" document-id="Anticoagulants">Antithrombotic Agents</related-object>, <related-object source-id="livertox" document-id="Anticoagulants">Anticoagulants</related-object></p>
+        <p>Drugs in the Subclass, Heparins: <related-object source-id="livertox" document-id="Heparin">Heparin</related-object>, <related-object source-id="livertox" document-id="LMW-Heparins">Dalteparin</related-object>, <related-object source-id="livertox" document-id="LMW-Heparins">Enoxaparin</related-object>, <related-object source-id="livertox" document-id="LMW-Heparins">Tinzaparin</related-object></p>
+      </sec>
+      <sec id="Heparins.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 13 November 2017</p>
+        <ref-list id="Heparins.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Heparins.R1">
+            <mixed-citation publication-type="other">Zimmerman HJ. Heparin. Drugs used in cardiovascular disease. In, Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999, pp. 639-412.<annotation><p><italic toggle="yes">(Textbook of hepatotoxicity published in 1999 mentions that heparin is reported to cause mildly increased aminotransferase levels in more than 80% of patients usually in the first 2 weeks).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Heparins.R2">
+            <mixed-citation publication-type="other">Bhardwaj SS, Chalasani NP. Anticoagulants. Cardiovascular and antidiabetic medications. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 2nd ed. New York: Informa Healthcare USA, 2007, pp. 608-11.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of anticoagulants published in 2007 mentions that clinically apparent liver injury due to heparin is rare, but laboratory abnormalities are common, ALT levels &#x0003e;3 times ULN occur in 5% of patients).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Heparins.R3">
+            <mixed-citation publication-type="other">Weitz JI. Blood coagulation and anticoagulant, thrombolytic, and antiplatelet drugs. In, Brunton LL, Chabner BA, Knollman BC, eds. Goodman &#x00026; Gilman's the pharmacological basis of therapeutics. 12th ed. New York: McGraw-Hill, 2011, pp. 849-76.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Heparins.R4">
+            <mixed-citation publication-type="journal">Sonnenblick M, Oren A, Jacobsonn W. Hyper-transaminasemia with heparin therapy. Br Med J 1975; 3: 77. <annotation><p><italic toggle="yes">(Among 14 patients given heparin [10,000 U every 6 hours for 10 days], 10 had transient [7-12 days] elevations in ALT [40-235 U/L] or AST [65-95 U/L] 3 to 15 days after starting and resolving in all with stopping; not accompanied by symptoms or increases in bilirubin or Alk P levels).</italic></p></annotation><pub-id pub-id-type="pmid">1139236</pub-id></mixed-citation>
+          </ref>
+          <ref id="Heparins.R5">
+            <mixed-citation publication-type="journal">Bar-Or D, Gutman A. Proceedings: Effect of heparin administration on serum enzyme activities. Isr J Med Sci 1975; 11: 1225. <annotation><p><italic toggle="yes">(Abstract describing a study in rats showing that 25 to 50 units of heparin caused increases in AST from 53 [time 0] to 91 [1 hour] to a maximum of 214 U/L [9 hours] with similar increases in ALT).</italic></p></annotation><pub-id pub-id-type="pmid">1205827</pub-id></mixed-citation>
+          </ref>
+          <ref id="Heparins.R6">
+            <mixed-citation publication-type="journal">Olsson R, Korsan-Bengtsen BM, Korsan-Bengtsen K, Lennartsson J, Waldenstr&#x000f6;m. Serum aminotransferases after low-dose heparin treatment. Short communication. Acta Med Scand 1978; 204: 229-30. <annotation><p><italic toggle="yes">(Elevations in ALT, AST and LDH without Alk P or CPK elevations occurred in 4 of 13 patients and 8 of 9 healthy volunteers given heparin [5000 U every 8 hours] for 10 to 20 days, arising between day 4 and 8 and lasting for 4 to 16 days).</italic></p></annotation><pub-id pub-id-type="pmid">696422</pub-id></mixed-citation>
+          </ref>
+          <ref id="Heparins.R7">
+            <mixed-citation publication-type="journal">Minar E, Ehringer H, Hirschl M, Ingerle H, Konecny U, Marosi L, Endler T, et al. [Transaminase increase: a largely unknown side-effect of heparin treatment (author's transl)]. Dtsch Med Wochenschr 1980; 105: 1713-7. German. <annotation><p><italic toggle="yes">(Among 46 patients treated with heparin [5000 to 15000 U every 8 hours], ALT or AST [without bilirubin or Alk P] elevations occurred in 89%, peaking early and then falling to baseline despite continuation of heparin; some correlation with heparin dosage).</italic></p></annotation><pub-id pub-id-type="pmid">6108201</pub-id></mixed-citation>
+          </ref>
+          <ref id="Heparins.R8">
+            <mixed-citation publication-type="journal">Saffle JR, Russo J Jr, Dukes GE Jr, Warden GD. The effect of low-dose heparin therapy on serum platelet and transaminase levels. J Surg Res 1980; 28: 297-305. <annotation><p><italic toggle="yes">(Among 33 volunteers receiving standard heparin [5000 U every 12 hours for 10 days], ALT [45-287 U/L] elevations occurred in 62%, with peak values at day 11 and fall to normal within one week of stopping; Alk P and bilirubin values did not change; more frequent with porcine than bovine heparin and accompanied slight decline in platelet counts).</italic></p></annotation><pub-id pub-id-type="pmid">7366189</pub-id></mixed-citation>
+          </ref>
+          <ref id="Heparins.R9">
+            <mixed-citation publication-type="journal">Shilo S, Abraham AS, Breuer R, Sonnenblick M. Hypertransaminasemia with subcutaneous heparin therapy. Isr J Med Sci 1981; 17: 1133-5. <annotation><p><italic toggle="yes">(Among 41 patients receiving low dose subcutaneous heparin after myocardial infarction or stroke, 16 had ALT or AST elevations, usually starting after 6 days and persisting for duration of treatment which did not occur in similar patients not on heparin).</italic></p></annotation><pub-id pub-id-type="pmid">7327913</pub-id></mixed-citation>
+          </ref>
+          <ref id="Heparins.R10">
+            <mixed-citation publication-type="journal">Capuano G, Rodin&#x000f2; S, D'Agostino L, Budillon G. Evaluation of heparin toxicity in the isolated and perfused rat liver. Enzyme 1986; 35: 77-81. <annotation><p><italic toggle="yes">(Infusion of rats with human heparin resulted in no increase in serum ALT or AST and no change in bile production).</italic></p></annotation><pub-id pub-id-type="pmid">3743526</pub-id></mixed-citation>
+          </ref>
+          <ref id="Heparins.R11">
+            <mixed-citation publication-type="journal">Dukes GE Jr, Sanders SW, Russo J Jr, Swenson E, Burnakis TG, Saffle JR, Warden GD. Transaminase elevations in patients receiving bovine or porcine heparin. Ann Intern Med 1984; 100: 646-50. <annotation><p><italic toggle="yes">(Among 86 patients followed prospectively, 59% developed ALT and 27% AST elevations during heparin therapy, averaging a 3.6-fold increase of ALT and 3.1-fold increase of AST, independent of source of heparin, but trending higher with higher doses and in men).</italic></p></annotation><pub-id pub-id-type="pmid">6712030</pub-id></mixed-citation>
+          </ref>
+          <ref id="Heparins.R12">
+            <mixed-citation publication-type="journal">Husted SE, Nielsen HK, Koopmann HD, Fasting H, Simonsen O, Andersen K, Husegaard HC, et al. [Heparin-induced increase in serum aminotransferase]. Ugeskr Laeger 1984; 146: 647-9. Danish. <pub-id pub-id-type="pmid">6710648</pub-id></mixed-citation>
+          </ref>
+          <ref id="Heparins.R13">
+            <mixed-citation publication-type="journal">Nielsen HK, Husted SE, Koopmann HD, Fasting H, Simonsen O, Andersen K, Husegaard HC, et al. Heparin-induced increase in serum levels of aminotransferases. A controlled clinical trial. Acta Med Scand 1984; 215: 231-3. <annotation><p><italic toggle="yes">(64 patients were treated with low dose heparin [5000 U every 12 hours] or thromboembolic deterrent [TED] stockings after elective surgery; ALT levels were increased on the 5th and 10th day in the heparin group [mean rising from 27 to 40 to 55 U/L], but with no change in the TED stocking group).</italic></p></annotation><pub-id pub-id-type="pmid">6375273</pub-id></mixed-citation>
+          </ref>
+          <ref id="Heparins.R14">
+            <mixed-citation publication-type="journal">Bratt G, T&#x000f6;rnebohm E, Granqvist S, Aberg W, Lockner D. A comparison between low molecular weight heparin (KABI 2165) and standard heparin in the intravenous treatment of deep venous thrombosis. Thromb Haemost 1985; 54: 813-7. <annotation><p><italic toggle="yes">(Among 54 patients treated with either standard or low molecular weight heparin, mean serum ALT and AST values increased transiently with both forms to a similar degree).</italic></p></annotation><pub-id pub-id-type="pmid">3911482</pub-id></mixed-citation>
+          </ref>
+          <ref id="Heparins.R15">
+            <mixed-citation publication-type="journal">Fareed J, Walenga JM, Williamson K, Emanuele RM, Kumar A, Hoppensteadt DA. Studies on the antithrombotic effects and pharmacokinetics of heparin fractions and fragments. Semin Thromb Hemost 1985; 11: 56-74. <annotation><p><italic toggle="yes">(Extensive analysis of antithrombotic effects of different forms of heparin).</italic></p></annotation><pub-id pub-id-type="pmid">3883500</pub-id></mixed-citation>
+          </ref>
+          <ref id="Heparins.R16">
+            <mixed-citation publication-type="journal">Schwartz KA, Royer G, Kaufman DB, Penner JA. Complications of heparin administration in normal individuals. Am J Hematol 1985; 19: 355-63. <annotation><p><italic toggle="yes">(Among 40 male prison volunteers given porcine or bovine heparin [100 U/Kg every 6 hours] or saline for 10 days, all on heparin developed a reversible increase in ALT or AST starting by day 5 and continuing to day 10, with normal direct and total bilirubin, Alk P and CPK; one-third also had a reversible decrease in platelet counts).</italic></p></annotation><pub-id pub-id-type="pmid">4025314</pub-id></mixed-citation>
+          </ref>
+          <ref id="Heparins.R17">
+            <mixed-citation publication-type="journal">Lambert M, Laterre PF, Leroy C, Lavenne E, Coche E, Moriau M. Modifications of liver enzymes during heparin therapy. Acta Clin Belg 1986; 41: 307-10. <annotation><p><italic toggle="yes">(In a retrospective study, 11 patients on continuous intravenous heparin [mean daily dose 31,500 U for 12 days] had elevations in serum ALT [averaging 3.9 times baseline], peaking 8 days after starting compared to elevations of 3 times baseline in 11 patients on subcutaneous heparin [mean dose 25,250 U for 10 days]).</italic></p></annotation><pub-id pub-id-type="pmid">2881417</pub-id></mixed-citation>
+          </ref>
+          <ref id="Heparins.R18">
+            <mixed-citation publication-type="journal">Yurdak&#x000f6;k M, Tanyel C, Diker S. Heparin-induced increase in serum levels of aminotransferases. Am J Hematol 1986; 22: 443. <annotation><p><italic toggle="yes">(Letter in response to Schwartz [1985] reporting elevations in AST and ALT 1 hour after intraperitoneal injection of heparin [5000 U] into kittens, but liver histology was normal).</italic></p></annotation><pub-id pub-id-type="pmid">3728459</pub-id></mixed-citation>
+          </ref>
+          <ref id="Heparins.R19">
+            <mixed-citation publication-type="journal">Monreal M, Lafoz E, Salvador R, Roncales J, Navarro A. Adverse effects of three different forms of heparin therapy: thrombocytopenia, increased transaminases, and hyperkalaemia. Eur J Clin Pharmacol 1989; 37: 415-8. <annotation><p><italic toggle="yes">(Among 158 patients treated with heparin, ALT elevations occurred in 33% receiving high dose standard heparin [mean increase from 29 to 61 U/L], 17% on low dose [5000 U every 8 hours] standard heparin [from 27 to 49 U/L], and 3% on low dose [5000 U every 24 hours] low molecular weight heparin [from 26 to 29 U/L] for 8 days).</italic></p></annotation><pub-id pub-id-type="pmid">2557219</pub-id></mixed-citation>
+          </ref>
+          <ref id="Heparins.R20">
+            <mixed-citation publication-type="journal">Freedman MD, Leese P, Prasad R, Hayden D. An evaluation of the biological response to Fraxiparine (a low molecular weight heparin) in the healthy individual. J Clin Pharmacol 1990; 30: 720-7. <annotation><p><italic toggle="yes">(Among 68 volunteers receiving different doses of a standard or low molecular weight heparin [fraxiparine], those treated with the higher doses of fraxiparine had 3-4 fold ALT elevations similar to those with standard heparin, arising by day 8 and falling to baseline by 10 days after dosing).</italic></p></annotation><pub-id pub-id-type="pmid">2169488</pub-id></mixed-citation>
+          </ref>
+          <ref id="Heparins.R21">
+            <mixed-citation publication-type="journal">Olsson R, Leonhardt T. Cholestatic liver reaction during heparin therapy. J Intern Med. 1991; 229: 471-3. <annotation><p><italic toggle="yes">(3 patients developed abnormal liver tests after 7-12 days of heparin therapy [ALT 8.7-21 times ULN, Alk P 1.8-6.4 times ULN] without changes in bilirubin, resolving within 10-20 days of stopping).</italic></p></annotation><pub-id pub-id-type="pmid">2040875</pub-id></mixed-citation>
+          </ref>
+          <ref id="Heparins.R22">
+            <mixed-citation publication-type="journal">Freedman MD. Low molecular weight heparins: an emerging new class of glycosaminoglycan antithrombotics. J Clin Pharmacol 1991; 31: 298-306. <annotation><p><italic toggle="yes">(Review of history, chemistry, pharmacokinetics, clinical efficacy and safety of low molecular weight heparins; the magnitude of ALT elevations appears to be less than with standard heparins).</italic></p></annotation><pub-id pub-id-type="pmid">1645375</pub-id></mixed-citation>
+          </ref>
+          <ref id="Heparins.R23">
+            <mixed-citation publication-type="journal">Christiansen HM, Lassen MR, Borris LC, S&#x000f8;rensen JV, Rahr HB, J&#x000f8;rgensen LN, J&#x000f8;rgensen PW, Hauch O. Biologic tolerance of two different low molecular weight heparins. Semin Thromb Hemost 1991; 17: 450-4. <annotation><p><italic toggle="yes">(Among 219 patients treated with two low molecular weight heparins for up to 21 days, ALT, AST, LDH, Alk P and CPK values rose in both groups, becoming abnormal in 14-36% of subjects).</italic></p></annotation><pub-id pub-id-type="pmid">1666460</pub-id></mixed-citation>
+          </ref>
+          <ref id="Heparins.R24">
+            <mixed-citation publication-type="journal">Buckley MM, Sorkin EM. Enoxaparin. A review of its pharmacology and clinical applications in the prevention and treatment of thromboembolic disorders. Drugs 1992; 44: 465-97. <annotation><p><italic toggle="yes">(Extensive review of the chemistry, pharmacology, clinical efficacy and safety of enoxaparin, a low molecular weight heparin).</italic></p></annotation><pub-id pub-id-type="pmid">1382939</pub-id></mixed-citation>
+          </ref>
+          <ref id="Heparins.R25">
+            <mixed-citation publication-type="journal">Guevara A, Labarca J, Gonz&#x000e1;lez-Martin G. Heparin-induced transaminase elevations: a prospective study. Int J Clin Pharmacol Ther Toxicol 1993; 31: 137-41. <annotation><p><italic toggle="yes">(Among 54 patients who were treated with heparin and tested for ALT levels at least once during therapy, 8 [15%] developed an ALT elevation).</italic></p></annotation><pub-id pub-id-type="pmid">8468111</pub-id></mixed-citation>
+          </ref>
+          <ref id="Heparins.R26">
+            <mixed-citation publication-type="journal">Spiro TE, Johnson GJ, Christie MJ, Lyons RM, MacFarlane DE, Blasier RB, Tremaine MD. Efficacy and safety of enoxaparin to prevent deep venous thrombosis after hip replacement surgery. Enoxaparin Clinical Trial Group. Ann Intern Med 1994; 121: 81-9. <annotation><p><italic toggle="yes">(Controlled trial of 7 day courses of one of 3 doses of enoxaparin as prevention of deep venous thrombosis in 572 patients undergoing hip replacement; ALT elevations of 3 times ULN occurred in 2-7% of patients, but all were reversible).</italic></p></annotation><pub-id pub-id-type="pmid">8017740</pub-id></mixed-citation>
+          </ref>
+          <ref id="Heparins.R27">
+            <mixed-citation publication-type="journal">Pipek R, Avizohar O, Levy Y. Transient hepatic dysfunction in two brothers receiving heparin and streptokinase: a genetic predisposition? Int J Cardiol 1994; 46: 299-301. <annotation><p><italic toggle="yes">(Two brothers with acute myocardial infarction developed ALT elevations within 3 days of starting heparin and streptokinase infusions [ALT 320 and 4309 U/L], with normal bilirubin and Alk P levels and rapid recovery).</italic></p></annotation><pub-id pub-id-type="pmid">7814188</pub-id></mixed-citation>
+          </ref>
+          <ref id="Heparins.R28">
+            <mixed-citation publication-type="journal">Tison T, Dazzi F, Vianello F, Radossi P, Girolami A. Marked but transitory elevation of hepatic transaminases after subcutaneous calcium heparin administration. Acta Haematol 1994; 92: 54. <annotation><p><italic toggle="yes">(70 year old woman with acute myocardial infarction developed ALT [839 U/L], LDH [1339 U/L] and bilirubin [2.1 mg/dL] elevations after a day of heparin therapy [7500 U every 8 hours], values falling rapidly upon stopping and returning to normal within 15 days).</italic></p></annotation><pub-id pub-id-type="pmid">7985487</pub-id></mixed-citation>
+          </ref>
+          <ref id="Heparins.R29">
+            <mixed-citation publication-type="journal">Toulemonde F, Kher A. [Heparins and transaminases: an enigma without importance in 1994?]. Therapie 1994; 49: 356-8. <annotation><p><italic toggle="yes">(Discussion of phenomenon of ALT and AST elevations during heparin therapy and their lack of clinical significance).</italic></p></annotation><pub-id pub-id-type="pmid">7878605</pub-id></mixed-citation>
+          </ref>
+          <ref id="Heparins.R30">
+            <mixed-citation publication-type="journal">Howard PA. Dalteparin: a low-molecular-weight heparin. Ann Pharmacother 1997; 31: 192-203. <annotation><p><italic toggle="yes">(Review of structure, pharmacology, efficacy and safety of dalteparin, the second low molecular weight heparin to be approved for use in the United States; no discussion of hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">9034422</pub-id></mixed-citation>
+          </ref>
+          <ref id="Heparins.R31">
+            <mixed-citation publication-type="journal">Martineau P, Tawil N. Low-molecular-weight heparins in the treatment of deep-vein thrombosis. Ann Pharmacother 1998; 32: 588-98, 601. <annotation><p><italic toggle="yes">(Review of studies comparing four forms of low molecular weight heparin, dalteparin, enoxaparin, nadroparin and tinzaparin for efficacy and safety; no discussion of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">9606481</pub-id></mixed-citation>
+          </ref>
+          <ref id="Heparins.R32">
+            <mixed-citation publication-type="journal">Barreiro L&#x000f3;pez B, Canet JJ, Ochoa de Echaguen Aguilar A. [Liver toxicity from heparin]. An Med Interna 2000; 17: 164. Spanish. <annotation><p><italic toggle="yes">(67 year old man developed liver test abnormalities 8 days after starting heparin for suspected pulmonary embolus [ALT 512 U/L], with no jaundice or symptoms and rapid recovery on stopping).</italic></p></annotation><pub-id pub-id-type="pmid">10804648</pub-id></mixed-citation>
+          </ref>
+          <ref id="Heparins.R33">
+            <mixed-citation publication-type="journal">Manfredini R, Boari B, Regoli F, Gallerani M. Cholestatic liver reaction and heparin therapy. Arch Intern Med 2000; 160: 3166. <annotation><p><italic toggle="yes">(54 year old man was found to have elevations in ALT [647 U/L] and Alk P [558 U/L] 3 days after starting heparin, persisting for duration of therapy and resolving over next 1-3 months).</italic></p></annotation><pub-id pub-id-type="pmid">11074748</pub-id></mixed-citation>
+          </ref>
+          <ref id="Heparins.R34">
+            <mixed-citation publication-type="journal">AL-Mekhaizeem KA, Sherker AH. Heparin-induced hepatotoxicity. Can J Gastroenterol 2001; 15: 527-30. <annotation><p><italic toggle="yes">(Two cases: 83 year old man with unstable angina developed asymptomatic elevations in ALT [405 U/L], AST [635 U/L] and LDH [958 U/L] while on heparin, resolving within 3 days of stopping; 80 year old woman had marked elevations in ALT [762 U/L], AST [881 U/L] and LDH [958 U/L] within 8 hours of starting heparin, resolving within 4 hours of stopping).</italic></p></annotation><pub-id pub-id-type="pmid">11544537</pub-id></mixed-citation>
+          </ref>
+          <ref id="Heparins.R35">
+            <mixed-citation publication-type="journal">Carlson MK, Gleason PP, Sen S. Elevation of hepatic transaminases after enoxaparin use: case report and review of unfractionated and low-molecular-weight heparin-induced hepatotoxicity. Pharmacotherapy 2001; 21: 108-13. <annotation><p><italic toggle="yes">(66 year old woman with deep venous thrombosis developed abdominal pain and elevations in ALT [147 U/L] and AST [93 U/L] 7 days after starting enoxaparin and warfarin, resolving within 3 weeks of stopping).</italic></p></annotation><pub-id pub-id-type="pmid">11191729</pub-id></mixed-citation>
+          </ref>
+          <ref id="Heparins.R36">
+            <mixed-citation publication-type="journal">Hui CK, Yuen MF, Ng IO, Tsang KW, Fong GC, Lai CL. Low molecular weight heparin-induced liver toxicity. J Clin Pharmacol 2001; 41: 691-4. <annotation><p><italic toggle="yes">(26 year old woman developed serum enzyme elevations 4 days after starting enoxaparin [bilirubin normal, ALT 143 U/L, Alk P 313 U/L], which continued during treatment and reappeared with retreatment; 33 year old man developed enzyme elevations 5 days after starting fraxiparin [ALT 89 to 283 U/L, Alk P 65 U/L], resolving one month later).</italic></p></annotation><pub-id pub-id-type="pmid">11402639</pub-id></mixed-citation>
+          </ref>
+          <ref id="Heparins.R37">
+            <mixed-citation publication-type="journal">Neely JL, Carlson SS, Lenhart SE. Tinzaparin sodium: a low-molecular-weight heparin. Am J Health Syst Pharm 2002; 59: 1426-36. <annotation><p><italic toggle="yes">(Review of structure, pharmacology, efficacy and safety of tinzaparin, a low molecular weight heparin; AST elevations occurred in 9% and ALT in 13% of patients in controlled trials of tinzaparin).</italic></p></annotation><pub-id pub-id-type="pmid">12166042</pub-id></mixed-citation>
+          </ref>
+          <ref id="Heparins.R38">
+            <mixed-citation publication-type="journal">Reiter M, Bucek RA, Koca N, Heger J, Minar E; PERSIST. Idraparinux and liver enzymes: observations from the PERSIST trial. Blood Coagul Fibrinolysis 2003; 14: 61-5. <annotation><p><italic toggle="yes">(Among 37 patients followed prospectively, serum ALT, AST and GGT levels increased during a preliminary 4-7 day course of enoxaparin, but decreased into the normal range when patients were switched to idraparinux).</italic></p></annotation><pub-id pub-id-type="pmid">12544730</pub-id></mixed-citation>
+          </ref>
+          <ref id="Heparins.R39">
+            <mixed-citation publication-type="journal">Fiessinger JN, Huisman MV, Davidson BL, Bounameaux H, Francis CW, Eriksson H, Lundstr&#x000f6;m T, et al.; THRIVE Treatment Study Investigators. Ximelagatran vs low-molecular-weight heparin and warfarin for the treatment of deep vein thrombosis: a randomized trial. JAMA 2005; 293: 681-9. <annotation><p><italic toggle="yes">(Controlled trial of ximelagatran versus enoxaparin and warfarin in 2489 patients with deep vein thromboses, ALT elevations above 3 times ULN occurred in 9.6% of ximelagatran vs 2% of enoxaparin/warfarin treated patients, and at least one patient on ximelagatran developed clinically apparent liver injury).</italic></p></annotation><pub-id pub-id-type="pmid">15701909</pub-id></mixed-citation>
+          </ref>
+          <ref id="Heparins.R40">
+            <mixed-citation publication-type="journal">Agnelli G, Bergqvist D, Cohen AT, Gallus AS, Gent M; PEGASUS investigators. Randomized clinical trial of postoperative fondaparinux versus perioperative dalteparin for prevention of venous thromboembolism in high-risk abdominal surgery. Br J Surg 2005; 92: 1212-20. <annotation><p><italic toggle="yes">(Among 2048 patients treated with fondaparinux or dalteparin for 5 to 9 days, side effects were similar in the two groups; no discussion of liver injury or ALT elevations).</italic></p></annotation><pub-id pub-id-type="pmid">16175516</pub-id></mixed-citation>
+          </ref>
+          <ref id="Heparins.R41">
+            <mixed-citation publication-type="journal">Turpie AG. The safety of fondaparinux for the prevention and treatment of venous thromboembolism. Expert Opin Drug Saf 2005; 4: 707-21. <annotation><p><italic toggle="yes">(Review of clinical efficacy and safety of fondaparinux; ALT elevations above 3 times the ULN occurred in 1.3-2.6% of patients on fondaparinux compared to 0.7% on placebo, 3.9-12.3% on enoxaparin, and 8% on heparin; abnormalities were usually asymptomatic and not associated with bilirubin elevations).</italic></p></annotation><pub-id pub-id-type="pmid">16011449</pub-id></mixed-citation>
+          </ref>
+          <ref id="Heparins.R42">
+            <mixed-citation publication-type="journal">Chalasani N, Fontana RJ, Bonkovsky HL, Watkins PB, Davern T, Serrano J, Yang H, Rochon J; Drug Induced Liver Injury Network (DILIN). Causes, clinical features, and outcomes from a prospective study of drug-induced liver injury in the United States. Gastroenterology 2008; 135: 1924-34. <annotation><p><italic toggle="yes">(Among 300 cases of drug induced liver disease in the US collected from 2004 to 2008, none were attributed to heparin, low molecular weight heparins or other anticoagulants).</italic></p></annotation><pub-id pub-id-type="pmid">18955056</pub-id></mixed-citation>
+          </ref>
+          <ref id="Heparins.R43">
+            <mixed-citation publication-type="journal">Baker EL, Loewenthal T, Salerno E, Baker WL. Probable enoxaparin-induced hepatotoxicity. Am J Health Syst Pharm 2009; 66: 638-41. <annotation><p><italic toggle="yes">(29 year old woman developed nausea and serum enzyme elevations within 2 days of starting enoxaparin [bilirubin 0.6-0.8 mg/dL, ALT 321 to 465 U/L, Alk P 117-194 U/L], symptoms resolving within 2 days and liver tests within 3 months of stopping).</italic></p></annotation><pub-id pub-id-type="pmid">19299370</pub-id></mixed-citation>
+          </ref>
+          <ref id="Heparins.R44">
+            <mixed-citation publication-type="journal">Hoy SM, Scott LJ, Plosker GL. Tinzaparin sodium: a review of its use in the prevention and treatment of deep vein thrombosis and pulmonary embolism, and in the prevention of clotting in the extracorporeal circuit during haemodialysis. Drugs 2010; 70: 1319-47. <annotation><p><italic toggle="yes">(Review of structure, pharmacology, efficacy and safety of tinzaparin, a low molecular weight heparin; there were statistically significant elevations in serum aminotransferase levels in tinzaparin treated patients, but the mean levels of ALT and AST remained within the normal range).</italic></p></annotation><pub-id pub-id-type="pmid">20568836</pub-id></mixed-citation>
+          </ref>
+          <ref id="Heparins.R45">
+            <mixed-citation publication-type="journal">Reuben A, Koch DG, Lee WM; Acute Liver Failure Study Group. Drug-induced acute liver failure: results of a U.S. multicenter, prospective study. Hepatology 2010; 52: 2065-76. <annotation><p><italic toggle="yes">(Among 1198 patients with acute liver failure enrolled in a US prospective study between 1998 and 2007, 133 [11%] were attributed to drug induced liver injury, but none were due to anticoagulants or heparins).</italic></p></annotation><pub-id pub-id-type="pmid">20949552</pub-id></mixed-citation>
+          </ref>
+          <ref id="Heparins.R46">
+            <mixed-citation publication-type="journal">Watkins PB, Desai M, Berkowitz SD, Peters G, Horsmans Y, Larrey D, Maddrey W. Evaluation of drug-induced serious hepatotoxicity (eDISH): application of this data organization approach to phase III clinical trials of rivaroxaban after total hip or knee replacement surgery. Drug Saf 2011; 34: 243-52. <annotation><p><italic toggle="yes">(Analysis of 4 controlled trials of anticoagulation in 12,262 subjects identified ALT elevations &#x0003e;3 times ULN without bilirubin elevations in 143 [2.3%] rivaroxaban and 223 [3.6%] enoxaparin recipients, and combined ALT and bilirubin increases in only 8-9 patients in each treatment arm [~0.15%], but other causes accounted for most). </italic></p></annotation><pub-id pub-id-type="pmid">21332248</pub-id></mixed-citation>
+          </ref>
+          <ref id="Heparins.R47">
+            <mixed-citation publication-type="journal">Harrill AH, Roach J, Fier I, Eaddy JS, Kurtz CL, Antoine DJ, Spencer DM, et al. The effects of heparins on the liver: application of mechanistic serum biomarkers in a randomized study in healthy volunteers. Clin Pharmacol Ther 2012; 92: 214-20. <annotation><p><italic toggle="yes">(Among 48 healthy volunteers who received subcutaneous heparin, enoxaparin, dalteparin or adomiparin for 4.5 days, asymptomatic elevations of ALT elevations rose in 94%, beginning to rise on day 3 and peaking [1 to 13 times ULN] at day 7 and falling to near baseline within the next week; other markers of liver injury including glutamate dehydrogenase, miR-122, full length keratin 18 and high mobility group box-1 protein also increased while serum Alk P and bilirubin levels remained unchanged).</italic></p></annotation><pub-id pub-id-type="pmid">22739141</pub-id></mixed-citation>
+          </ref>
+          <ref id="Heparins.R48">
+            <mixed-citation publication-type="journal">Levinson P, Glaumann H, S&#x000f6;derberg M. Probable dalteparin-induced hepatotoxicity in a man with alpha-1-antitrypsin deficiency. J Clin Pharmacol 2012; 52: 1764-7. <annotation><p><italic toggle="yes">(52 year old man with emphysema and alpha-1-antitrypsin deficiency developed serum enzyme elevations 5 days after starting dalteparin, which was continued and he developed fever and jaundice after 4 weeks of treatment [bilirubin 6.0 mg/dL, ALT 457 U/L, Alk P 281 U/L], resolving within 4 weeks of stopping).</italic></p></annotation><pub-id pub-id-type="pmid">22167567</pub-id></mixed-citation>
+          </ref>
+          <ref id="Heparins.R49">
+            <mixed-citation publication-type="journal">Levinson P, Glaumann H, S&#x000f6;derberg M. [Toxic hepatitis most likely triggered by dalteparin]. Lakartidningen 2013; 110: 1348-9. Swedish. <annotation><p><italic toggle="yes">(Same case as in Levinson [2012], but in Swedish).</italic></p></annotation><pub-id pub-id-type="pmid">23980446</pub-id></mixed-citation>
+          </ref>
+          <ref id="Heparins.R50">
+            <mixed-citation publication-type="journal">Bj&#x000f6;rnsson ES, Bergmann OM, Bj&#x000f6;rnsson HK, Kvaran RB, Olafsson S. Incidence, presentation and outcomes in patients with drug-induced liver injury in the general population of Iceland. Gastroenterology 2013; 144: 1419-25. <annotation><p><italic toggle="yes">(In a population based study of drug induced liver injury from Iceland, 96 cases were identified over a 2 year period, including 1 attributed to enoxaparin, but no details given).</italic></p></annotation><pub-id pub-id-type="pmid">23419359</pub-id></mixed-citation>
+          </ref>
+          <ref id="Heparins.R51">
+            <mixed-citation publication-type="journal">Caldeira D, Barra M, Santos AT, de Abreu D, Pinto FJ, Ferreira JJ, Costa J. Risk of drug-induced liver injury with the new oral anticoagulants: systematic review and meta-analysis. Heart 2014; 100: 550-6. <annotation><p><italic toggle="yes">(Systematic review of the literature on liver injury due to new oral anticoagulants reported results from 25 studies showing no increase in the risk of serum aminotransferase elevations with new agents [dabigatran, apixaban, darexaban, edoxaban and rivaroxaban] compared to controls [usually low molecular weight heparins]).</italic></p></annotation><pub-id pub-id-type="pmid">24476812</pub-id></mixed-citation>
+          </ref>
+          <ref id="Heparins.R52">
+            <mixed-citation publication-type="journal">Hern&#x000e1;ndez N, Bessone F, S&#x000e1;nchez A, di Pace M, Brahm J, Zapata R, A Chirino R, et al. Profile of idiosyncratic drug induced liver injury in Latin America. An analysis of published reports. Ann Hepatol 2014; 13: 231-9. <annotation><p><italic toggle="yes">(Systematic review of literature of drug induced liver injury in Latin American countries published from 1996 to 2012 identified 176 cases, none of which were attributed to heparins).</italic></p></annotation><pub-id pub-id-type="pmid">24552865</pub-id></mixed-citation>
+          </ref>
+          <ref id="Heparins.R53">
+            <mixed-citation publication-type="journal">Chalasani N, Bonkovsky HL, Fontana R, Lee W, Stolz A, Talwalkar J, Reddy KR, et al.; United States Drug Induced Liver Injury Network. Features and outcomes of 899 patients with drug-induced liver injury: The DILIN Prospective Study. Gastroenterology 2015; 148: 1340-52.e7. <annotation><p><italic toggle="yes">(Among 899 cases of drug induced liver injury enrolled in a US prospective study between 2004 and 2013, one case was attributed to dalteparin, but none to the other heparins).</italic></p></annotation><pub-id pub-id-type="pmid">25754159</pub-id></mixed-citation>
+          </ref>
+          <ref id="Heparins.R54">
+            <mixed-citation publication-type="journal">Douros A, Bronder E, Andersohn F, Klimpel A, Thomae M, Sarganas G, Kreutz R, et al. Drug-induced liver injury: results from the hospital-based Berlin Case-Control Surveillance Study. Br J Clin Pharmacol 2015; 79: 988-99. <annotation><p><italic toggle="yes"> (Among 76 patients with hepatitis of unknown cause who were inpatients at 51 hospitals in Berlin and enrolled in a prospective case control study between 2002 and 2011, heparin was being administered to 17 of 76 cases [22%] vs 38 of 377 controls [10%] and enoxapain to 20 of 76 cases [26%] vs 67 [18%] controls, but neither difference was statistically significant).</italic></p></annotation><pub-id pub-id-type="pmid">25444550</pub-id></mixed-citation>
+          </ref>
+          <ref id="Heparins.R55">
+            <mixed-citation publication-type="journal">Hahn KJ, Morales SJ, Lewis JH. Enoxaparin-induced liver injury: case report and review of the literature and FDA adverse event reporting system (FAERS). Drug Saf Case Rep 2015; 2: 17. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/pubmed/27747729">PubMed Citation</ext-link><annotation><p><italic toggle="yes">(45 year old man developed asymptomatic ALT elevations 4 days after starting enoxaparin [bilirubin 0.7 mg/dL, ALT 579 peaking at 770 U/L, Alk P 104 peaking at 119 U/L], ALT levels falling to near normal within 2 weeks of stopping and switching to fondaparinux).</italic></p></annotation></mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec id="Heparins.OTHER_REFERENCE_LINKS" sec-type="link-group">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=Heparins/AE+AND+Human%5BMH%5D+AND+(jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%222009/5/1%22%5BEDat%5D%3A%222999/12/31%22%5BEDat%5D)">Recent References on Heparins: from PubMed.gov</ext-link>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Heparins">Trials on Heparins: from ClinicalTrials.gov</ext-link>
+            </p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

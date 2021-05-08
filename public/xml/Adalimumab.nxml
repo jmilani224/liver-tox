@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Adalimumab" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Adalimumab</book-part-id>
+      <title-group>
+        <title>Adalimumab</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>10</day>
+          <month>2</month>
+          <year>2017</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Acyclovir" document-type="chapter">Acyclovir</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Adefovir" document-type="chapter">Adefovir</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Adalimumab.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Adalimumab.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Adalimumab is a monoclonal antibody to human tumor necrosis factor (TNF) alpha which has potent antiinflammatory activity and is used in the therapy of severe rheumatoid arthritis and inflammatory bowel disease. Adalimumab has been linked to rare instances of idiosyncratic acute liver injury and is a potential cause of reactivation of hepatitis B.</p>
+        </sec>
+        <sec id="Adalimumab.Background">
+          <title>Background</title>
+          <p>Adalimumab (ay" da lim' ue mab) is a human recombinant monoclonal immunoglobulin G1 antibody to TNF alpha which binds avidly to serum and tissue-bound TNF, causing its inactivation and degradation. Inhibition of TNF alpha activity leads to modulation of the inflammatory and pain pathways activated by this cytokine. Adalimumab was approved in the United States for use in rheumatoid arthritis in 2002, and subsequently its indications have been extended to ankylosing spondylitis, juvenile idiopathic (rheumatoid) arthritis, severe psoriasis and psoriatic arthritis, Crohn disease and ulcerative colitis. Adalimumab is considered a disease modifying antirheumatic drug (DMARD), and has been shown to improve symptoms as well as joint and cartilage damage in the inflammatory arthritides. Adalimumab is available in prefilled syringes or pens as 40 mg/0.8 mL under the brand name of Humira. The typical maintenance dose of adalimumab in adults is 40 mg subcutaneously every other week. Common side effects include injection site reactions, headache, nausea, abdominal discomfort, diarrhea, skin rash and fever. Rare but potentially severe side effects include bone marrow suppression, demyelinating disorder, severe infections, worsening of congestive heart failure and hypersensitivity reactions. TNF alpha antagonists are also capable of causing immune suppression, resulting in reactivation of microbial infections including tuberculosis and hepatitis B.</p>
+        </sec>
+        <sec id="Adalimumab.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>Adalimumab has been associated with a low rate of serum aminotransferase elevations during therapy, but these have been transient, mild and asymptomatic, and have rarely required dose modification. ALT levels above 3 times ULN have been reported in 1 to 3.5% of adalimumab recipients compared to 0.9 to 1.8% of controls. Rare instances of clinically apparent liver injury have been reported with adalimumab, resembling the hepatic injury that has been described with infliximab therapy. In at least one instance, liver injury arising during adalimumab therapy did not recur on switching to etanercept. The onset of injury was within 3 months and the pattern of serum enzyme elevations was hepatocellular. The injury promptly resolved on stopping adalimumab.</p>
+          <p>Like infliximab, adalimumab has been linked to cases of reactivation of hepatitis B. Reactivation typically occurs in patients who are inactive HBsAg carriers, with normal serum aminotransferase levels and no or only low levels of HBV DNA in serum. The immune suppression caused by the immunomodulatory agent leads to an increase in HBV replication and rise in serum HBV DNA levels. With stopping the immunosuppression (or between cycles of therapy), restoration of immune function leads to an acute immunological response to the heightened viral replication and an flare of hepatitis, that can be severe and can result in hepatic failure and death. Reactivation in patients with anti-HBc without HBsAg (serologic pattern of previous HBV infection) has only rarely been reported in patients treated with anti-TNF antagonists, and is more common after therapy with rituximab or bone marrow transplantation. The anti-TNF inhibitors have little or no effect on hepatitis C virus levels and have been used safely in patients with chronic hepatitis C.</p>
+          <p>Likelihood score: B (highly likely cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Adalimumab.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The mechanism of liver injury due to adalimumab and other TNF&#x003b1; antagonists is not known, but is likely caused by immune modulation and induction of autoimmunity.</p>
+        </sec>
+        <sec id="Adalimumab.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>The published cases of hepatotoxicity of adalimumab have been mild and self-limiting. Patients who are to start adalimumab therapy should be screened for evidence of hepatitis B, and those with preexisting HBsAg should be offered prophylaxis with an oral antiviral agent such as lamivudine, tenofovir or entecavir. Patients who develop an autoimmune hepatitis-like syndrome during adalimumab therapy may not recover promptly with stopping the TNF&#x003b1; antagonist and may require corticosteroid therapy. In this event, the corticosteroid dose should be kept to a minimum to control the disease and, ultimately, attempts should be made to withdraw immunosuppression (or decrease to levels used before administration of adalimumab). Rechallenge with adalimumab (or switching to infliximab or certolizumab) has not been reported, but there does not appear to be cross reactivity in hepatic injury between adalimumab and etanercept, which is not a monoclonal antibody but rather a modified form of the TNF&#x003b1; receptor.</p>
+          <p>References on the hepatotoxicity and safety of the anti-TNF necrosis factor agents are given together at the end of the Overview section on the Tumor Necrosis Factor Antagonists.</p>
+          <p>Drug Class: <related-object source-id="livertox" document-id="AntirheumaticAgents">Antirheumatic Agents</related-object>; Dermatologic Agents; Gastrointestinal Agents, Inflammatory Bowel Disease Agents</p>
+          <p>Other Drugs in the Subclass, <related-object source-id="livertox" document-id="TNFAntagonists">Tumor Necrosis Factor Antagonists</related-object>: <related-object source-id="livertox" document-id="Certolizumab">Certolizumab</related-object>, <related-object source-id="livertox" document-id="Etanercept">Etanercept</related-object>, <related-object source-id="livertox" document-id="Golimumab">Golimumab</related-object>, <related-object source-id="livertox" document-id="Infliximab">Infliximab</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Adalimumab.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <boxed-text position="anchor" id="Adalimumab.BPI" orientation="portrait">
+          <p>
+            <bold> REPRESENTATIVE TRADE NAMES</bold>
+          </p>
+          <p>Adalimumab &#x02013; Humira&#x000ae;</p>
+          <p>
+            <bold>DRUG CLASS</bold>
+          </p>
+          <p>Antirheumatic Agents; Dermatologic Agents; Gastrointestinal Agents</p>
+          <p>
+            <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Adalimumab">COMPLETE LABELING</ext-link>
+          </p>
+          <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+        </boxed-text>
+      </sec>
+      <sec id="Adalimumab.CHEMICAL_FORMULA_AND_STRUCTUR">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Adalimumab.T1" position="anchor" orientation="portrait">
+          <table>
+            <thead>
+              <tr>
+                <th id="hd_h_Adalimumab.T1_1_1_1_1" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Adalimumab.T1_1_1_1_2" rowspan="1" colspan="1">CAS REGISTRY NUMBER</th>
+                <th id="hd_h_Adalimumab.T1_1_1_1_3" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Adalimumab.T1_1_1_1_4" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Adalimumab.T1_1_1_1_1" rowspan="1" colspan="1">Adalimumab</td>
+                <td headers="hd_h_Adalimumab.T1_1_1_1_2" rowspan="1" colspan="1">
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135335742">331731-18-1</ext-link>
+                </td>
+                <td headers="hd_h_Adalimumab.T1_1_1_1_3" rowspan="1" colspan="1">Monoclonal antibody</td>
+                <td headers="hd_h_Adalimumab.T1_1_1_1_4" rowspan="1" colspan="1">Not available</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Adalimumab.OTHER_REFERENCE_LINKS" sec-type="link-group">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=(Adalimumab/AE)+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D%3A%222999/12/31%22%5BEDat%5D)">Recent References on Adalimumab: from PubMed.gov</ext-link>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Adalimumab">Trials on Adalimumab: from ClinicalTrials.gov</ext-link>
+            </p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

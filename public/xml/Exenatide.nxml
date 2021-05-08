@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Exenatide" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Exenatide</book-part-id>
+      <title-group>
+        <title>Exenatide</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>10</day>
+          <month>4</month>
+          <year>2019</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Exemestane" document-type="chapter">Exemestane</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Ezetimibe" document-type="chapter">Ezetimibe</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Exenatide.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Exenatide.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Exenatide is an analogue of human glucagon-like peptide-1 (GLP-1) which is used in combination with diet and exercise in the therapy of type 2 diabetes, either alone or in combination with other antidiabetic agents. There have been no published reports of hepatotoxicity attributed to exenatide therapy.</p>
+        </sec>
+        <sec id="Exenatide.Background">
+          <title>Background</title>
+          <p>Exenatide (ex en' a tide) is a synthetic analogue of glucagon-like peptide-1 (GLP-1) that acts like the native gastrointestinal hormone (incretin) to increase insulin secretion. Exenatide, like GLP-1, increases insulin secretion by the pancreas and can improve glycemic control in patients with type 2 diabetes. Exenatide is a polypeptide initially extracted from salivary glands of the Gila monster and has close homology (53%) to human GLP-1, but is resistant to DPP-4 degradation and thus has a prolonged duration of activity. Exenatide (also known as exendin-4) must be given parenterally. Exenatide was approved for use in the United States in 2005, and current indications are for the management of glycemic control in adults with type 2 diabetes used in combination with diet and exercise, with or without other oral hypoglycemic agents. Exenatide is available under the brand name Byetta in solution for subcutaneous injection in prefilled pens of 5 or 10 mcg. The typical dose is 5 to 10 mcg twice daily. A long acting form has recently become available under the name Bydureon, which is given subcutaneously in doses of 2 mg once weekly. Exenatide is generally well tolerated, but side effects can include nausea, diarrhea, dizziness, headache, fatigue and rash.</p>
+        </sec>
+        <sec id="Exenatide.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>Liver injury due to exenatide must be rare, if it occurs at all. In large clinical trials, serum enzyme elevations were no more common with exenatide therapy than with placebo or comparator agents, and no instances of clinically apparent liver injury were reported. Since licensure, there have been no published case reports of hepatotoxicity due to exenatide and the product label does not list liver injury as an adverse event. Exenatide has been linked to rare instances of acute pancreatitis, but even this complication is usually not associated with elevations in serum bilirubin and aminotransferase levels.</p>
+        </sec>
+        <sec id="Exenatide.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>Exenatide is a hormone-like polypeptide and is metabolized to amino acids by serum and tissue proteases, and is unlikely to have any direct hepatotoxic potential. Exenatide acts through the incretin pathway to affect glucose metabolism and, thus, is often grouped with other incretin-based antidiabetic mediations such as the DPP-4 inhibitors, sitagliptin, saxagliptin and linagliptin and other GLP-1 analogues such as liraglutide, which are also discussed in LiverTox.</p>
+          <p>References regarding the safety and potential hepatotoxicity of exenatide are given with the Overview section of the GLP-1 Analogues.</p>
+          <p>Drug Class: <related-object source-id="livertox" document-id="Antidiabetic">Antidiabetic Agents</related-object></p>
+          <p>Other Drugs in the Subclass, <related-object source-id="livertox" document-id="IncretinBasedDrugs">Incretin-Based Drugs</related-object>, <related-object source-id="livertox" document-id="GLP-1Analogues">Glucagon-Like Peptide-1 (GLP-1) Analogues</related-object>: <related-object source-id="livertox" document-id="Albiglutide">Albiglutide</related-object>, <related-object source-id="livertox" document-id="Dulaglutide">Dulaglutide</related-object>, <related-object source-id="livertox" document-id="Liraglutide">Liraglutide</related-object>, <related-object source-id="livertox" document-id="Lixisenatide">Lixisenatide</related-object>, <related-object source-id="livertox" document-id="Semaglutide">Semaglutide</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Exenatide.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <boxed-text position="anchor" id="Exenatide.BPI" orientation="portrait">
+          <p>
+            <bold>REPRESENTATIVE TRADE NAMES</bold>
+          </p>
+          <p>Exenatide &#x02013; Byetta&#x000ae;</p>
+          <p>
+            <bold>DRUG CLASS</bold>
+          </p>
+          <p>Antidiabetic Agents</p>
+          <p>
+            <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Exenatide">COMPLETE LABELING</ext-link>
+          </p>
+          <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+        </boxed-text>
+      </sec>
+      <sec id="Exenatide.CHEMICAL_FORMULA_AND_STRUCTURE">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Exenatide.T1" position="anchor" orientation="portrait">
+          <table>
+            <thead>
+              <tr>
+                <th id="hd_h_Exenatide.T1_1_1_1_1" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Exenatide.T1_1_1_1_2" rowspan="1" colspan="1">CAS REGISTRY NUMBER</th>
+                <th id="hd_h_Exenatide.T1_1_1_1_3" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Exenatide.T1_1_1_1_4" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Exenatide.T1_1_1_1_1" rowspan="1" colspan="1">Exenatide</td>
+                <td headers="hd_h_Exenatide.T1_1_1_1_2" rowspan="1" colspan="1">
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135261286">141758-74-9</ext-link>
+                </td>
+                <td headers="hd_h_Exenatide.T1_1_1_1_3" rowspan="1" colspan="1">Protein</td>
+                <td headers="hd_h_Exenatide.T1_1_1_1_4" rowspan="1" colspan="1">Complex Polypeptide</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Exenatide.OTHER_REFERENCE_LINKS" sec-type="link-group">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=(Exenatide/AE)+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D%3A%222999/12/31%22%5BEDat%5D)">Recent References on Exenatide: from PubMed.gov</ext-link>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Exenatide">Trials on Exenatide: from ClinicalTrials.gov</ext-link>
+            </p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

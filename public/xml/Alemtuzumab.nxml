@@ -1,0 +1,1328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Alemtuzumab" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Alemtuzumab</book-part-id>
+      <title-group>
+        <title>Alemtuzumab</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>14</day>
+          <month>4</month>
+          <year>2020</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Alefacept" document-type="chapter">Alefacept</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Alfuzosin" document-type="chapter">Alfuzosin</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Alemtuzumab.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Alemtuzumab.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Alemtuzumab is a recombinant human monoclonal antibody to human CD52 which is used in the therapy of chronic lymphocytic leukemia, in induction regimens for solid organ transplantation and for resistant forms of relapsing multiple sclerosis. Alemtuzumab has not been linked to serum aminotransferase elevations during therapy but has been implicated in rare cases of clinically apparent liver injury as well as reactivation of chronic hepatitis B and exacerbations of chronic hepatitis C that can be severe and even fatal.</p>
+        </sec>
+        <sec id="Alemtuzumab.Background">
+          <title>Background</title>
+          <p>Alemtuzumab (al&#x0201d; em tooz&#x02019; ue mab) is a recombinant, human IgG1 kappa monoclonal antibody which is directed at and binds avidly to the human cell surface marker CD52 which is present on T and B cells, monocytes, macrophages and other bone marrow cells. Alemtuzumab therapy leads to depletion of lymphocytes with suppression of B cells for 6 to 12 months and T cells for 12 to 24 months. Alemtuzumab was approved in the United States in 2004 for use in chronic lymphocytic leukemia (CLL). It has also been used extensively off-label as a part of induction therapy for prevention of rejection after solid organ transplantation and treatment of several autoimmune diseases. In 2017, indications were extended to include resistant relapsing multiple sclerosis. Alemtuzumab is available in single use vials of 30 mg/mL under the brand name Campath for CLL and Lemtrada for multiple sclerosis. The typical dose and regimen varies with indication. Alemtuzumab has significant adverse side effects, largely due to the profound immunosuppression. Common adverse events include epistaxis, headache, hypertension, rhinitis, dry skin, back pain, excessive bleeding and skin rash. Uncommon, but serious complications include severe infusions reactions, cytopenias (including fatal autoimmune anemia and thrombocytopenia), autoimmune reconstitution syndromes (including Graves disease, autoimmune thrombocytopenia, sarcoidosis and Goodpasture syndrome) and opportunistic infections.</p>
+        </sec>
+        <sec id="Alemtuzumab.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>In large clinical trials, alemtuzumab therapy has been associated with a high rate of side effects including serious infusion reactions, infections and bone marrow suppression, but hepatotoxicity and serum ALT elevations were usually not mentioned in the many clinical trials of its use. Strikingly, however, trials of alemtuzumab in multiple sclerosis reported high rates of autoimmune disease arising 6 to 18 months after a cycle of infusions. The autoimmune conditions were usually Graves disease, reported in 20% to 30% of patients who were followed long term after treatment with alemtuzumab. Less commonly reported were autoimmune thrombocytopenia and Goodpasture syndrome, which like Graves disease are considered due to B-cell autoimmunity. Less common have been single reported examples of autoimmune hepatitis arising after alemtuzumab therapy of multiple sclerosis. Complicating this association, however, is the fact that autoimmune hepatitis is not uncommon in patients with multiple sclerosis independent of treatment. Nevertheless, idiosyncratic liver disease with autoimmune features has been reported often enough for it to be listed as a warning on product labels for alemtuzumab.</p>
+          <p>In addition, alemtuzumab is a potent immunosuppressive agent and predisposes to opportunistic bacterial, viral, fungal and viral infections including reactivation of hepatitis B and C. Several instances of reactivation of hepatitis B have been reported in patients with HBsAg in serum who were treated with this monoclonal antibody. In addition, some patients with anti-HBc without HBsAg in serum have developed HBV reactivation with reappearance of HBsAg (reverse seroconversion) after alemtuzumab therapy. These episodes can be severe and fatal instances have been reported. Finally, exacerbation and possibly reactivation of hepatitis C has been described in patients receiving alemtuzumab therapy.</p>
+          <p>Likelihood score: C (probable rare cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Alemtuzumab.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>Alemtuzumab is a monoclonal antibody and, while metabolized in the liver, is metabolized to small peptides and amino acids that are not likely to be immunogenic or toxic. The immunosuppression caused by alemtuzumab, on the other hand, may cause reactivation of hepatitis B and exacerbations of chronic hepatitis C. Furthermore, withdrawal of alemtuzumab and reconstitution of the immune system may account for the rare instance of an autoimmune hepatitis as B and T cell function begins to return 6 to 18 months after the monoclonal antibody infusion.</p>
+        </sec>
+        <sec id="Alemtuzumab.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>Alemtuzumab appears to have little intrinsic hepatotoxicity and idiosyncratic liver injury must be very rare, if it occurs at all. In contrast, alemtuzumab is capable of causing reconstitution autoimmune reactions as well as reactivation of hepatitis B and worsening of hepatitis C. For these reasons, it is appropriate to screen patients for hepatitis B and C infection before starting therapy, and providing prophylaxis or treatment of these viral infections before or concurrent with starting monoclonal antibody therapy.</p>
+          <p>Drug Class: <related-object link-type="booklink" source-id="livertox" document-id="AntineoplasticAgents" document-type="chapter">Antineoplastic Agents</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="MonoclonalAntibodies" document-type="chapter">Monoclonal Antibodies</related-object>; <related-object link-type="booklink" source-id="livertox" document-id="Transplant_Drugs" document-type="chapter">Transplant Agents</related-object>; <related-object link-type="booklink" source-id="livertox" document-id="MultipleSclerosisAge" document-type="chapter">Multiple Sclerosis Agents</related-object></p>
+          <p>Other Drugs in the Subclass, Transplant Agents, Monoclonal Antibodies: <related-object link-type="booklink" source-id="livertox" document-id="Basiliximab" document-type="chapter">Basiliximab</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Daclizumab" document-type="chapter">Daclizumab</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Muromonab-CD3" document-type="chapter">Muromonab</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Alemtuzumab.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <p>
+          <bold>REPRESENTATIVE TRADE NAMES</bold>
+        </p>
+        <p>Alemtuzumab &#x02013; Campath&#x000ae;, Lemtrada&#x000ae;</p>
+        <p>
+          <bold>DRUG CLASS</bold>
+        </p>
+        <p>Antineoplastic Agents, Monoclonal Antibodies</p>
+        <p>
+          <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?label=all&#x00026;query=Alemtuzumab">COMPLETE LABELING</ext-link>
+        </p>
+        <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+      </sec>
+      <sec id="Alemtuzumab.CHEMICAL_FORMULA_AND_STRUCTU">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Alemtuzumab.Tc" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th id="hd_h_Alemtuzumab.Tc_1_1_1_1" valign="top" align="left" scope="col" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Alemtuzumab.Tc_1_1_1_2" valign="top" align="left" scope="col" rowspan="1" colspan="1">CAS REGISTRY NO.</th>
+                <th id="hd_h_Alemtuzumab.Tc_1_1_1_3" valign="top" align="left" scope="col" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Alemtuzumab.Tc_1_1_1_4" valign="top" align="left" scope="col" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Alemtuzumab.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Alemtuzumab</td>
+                <td headers="hd_h_Alemtuzumab.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135330159">216503-57-0</ext-link>
+                </td>
+                <td headers="hd_h_Alemtuzumab.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">Monoclonal Antibody</td>
+                <td headers="hd_h_Alemtuzumab.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">Not Available</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Alemtuzumab.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 14 April 2020</p>
+        <p>Abbreviations: CLL, chronic lymphocytic leukemia; CMV, cytomegalovirus.</p>
+        <ref-list id="Alemtuzumab.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Alemtuzumab.REF.zimmerman.1999">
+            <mixed-citation publication-type="book">Zimmerman HJ. Drugs used to treat rheumatic and musculospastic disease. In, Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999, pp. 517-54.<annotation><p><italic toggle="yes">(Expert review of hepatotoxicity published in 1999, well before the availability of most monoclonal antibody therapies).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Alemtuzumab.REF.reuben.2011">
+            <mixed-citation publication-type="book">Reuben A. Hepatotoxicity of immunosuppressive drugs. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2011, pp. 569-91.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of immunosuppressive agents, mentions that "the biological immunosuppressants are largely free from hepatotoxicity, with the exception of the TNF alpha antagonists"; no specific discussion of alemtuzumab).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Alemtuzumab.REF.wellstein.2018">
+            <mixed-citation publication-type="book">Wellstein A, Giaccone G, Atkins MB, Sausville EA. Pathway-targeted therapies: monoclonal antibodies, protein kinase inhibitors, and various small molecules. In, Brunton LL, Hilal-Dandan R, Knollman BC, eds. Goodman &#x00026; Gilman's the pharmacological basis of therapeutics. 13th ed. New York: McGraw-Hill, 2018, pp. 1203-36.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Alemtuzumab.REF.coles.1999.1691">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Coles</surname>
+                  <given-names>AJ</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Wing</surname>
+                  <given-names>M</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Smith</surname>
+                  <given-names>S</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Coraddu</surname>
+                  <given-names>F</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Greer</surname>
+                  <given-names>S</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Taylor</surname>
+                  <given-names>C</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Weetman</surname>
+                  <given-names>A</given-names>
+                </name>
+                <etal/>
+              </person-group>
+              <article-title>Pulsed monoclonal antibody treatment and autoimmune thyroid disease in multiple sclerosis.</article-title>
+              <source>Lancet</source>
+              <year>1999</year>
+              <volume>354</volume>
+              <issue>9191</issue>
+              <fpage>1691</fpage>
+              <lpage>5</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Among 27 patients with multiple sclerosis given a 5 day course of alemtuzumab and followed for 18 months, 9 [33%] developed Graves disease [2 with ophthalmopathy] and antibodies to thyrotropin receptor, an autoimmune response not seen with alemtuzumab therapy of other conditions including rheumatoid arthritis).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">10568572</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Alemtuzumab.REF.rai.2002.3891">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Rai</surname>
+                  <given-names>KR</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Freter</surname>
+                  <given-names>CE</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Mercier</surname>
+                  <given-names>RJ</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Cooper</surname>
+                  <given-names>MR</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Mitchell</surname>
+                  <given-names>BS</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Stadtmauer</surname>
+                  <given-names>EA</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Sant&#x000e1;barbara</surname>
+                  <given-names>P</given-names>
+                </name>
+                <etal/>
+              </person-group>
+              <article-title>Alemtuzumab in previously treated chronic lymphocytic leukemia patients who also had received fludarabine.</article-title>
+              <source>J Clin Oncol</source>
+              <year>2002</year>
+              <volume>20</volume>
+              <fpage>3891</fpage>
+              <lpage>7</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Among 24 patients with resistant CLL treated with alemtuzumab, all [100%] developed infusion reactions and ten [41%] severe, opportunistic infections including 4 with pneumocystis jiroveci pneumonia; no mention of ALT elevations, hepatitis or hepatotoxicity).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">12228210</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Alemtuzumab.REF.marcos.2004.966">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Marcos</surname>
+                  <given-names>A</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Eghtesad</surname>
+                  <given-names>B</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Fung</surname>
+                  <given-names>JJ</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Fontes</surname>
+                  <given-names>P</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Patel</surname>
+                  <given-names>K</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Devera</surname>
+                  <given-names>M</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Marsh</surname>
+                  <given-names>W</given-names>
+                </name>
+                <etal/>
+              </person-group>
+              <article-title>Use of alemtuzumab and tacrolimus monotherapy for cadaveric liver transplantation: with particular reference to hepatitis C virus.</article-title>
+              <source>Transplantation</source>
+              <year>2004</year>
+              <volume>78</volume>
+              <fpage>966</fpage>
+              <lpage>71</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Among 76 adults undergoing liver transplantation who received induction therapy with alemtuzumab, subsequent rates of rejection, graft loss, death and adverse reactions were similar to a cohort of 84 contemporaneous transplant recipients; no mention of hepatotoxicity).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">15480160</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Alemtuzumab.REF.tzakis.2004.1209">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Tzakis</surname>
+                  <given-names>AG</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Tryphonopoulos</surname>
+                  <given-names>P</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Kato</surname>
+                  <given-names>T</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Nishida</surname>
+                  <given-names>S</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Levi</surname>
+                  <given-names>DM</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Madariaga</surname>
+                  <given-names>JR</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Gaynor</surname>
+                  <given-names>JJ</given-names>
+                </name>
+                <etal/>
+              </person-group>
+              <article-title>Preliminary experience with alemtuzumab (Campath-1H) and low-dose tacrolimus immunosuppression in adult liver transplantation.</article-title>
+              <source>Transplantation</source>
+              <year>2004</year>
+              <volume>77</volume>
+              <fpage>1209</fpage>
+              <lpage>14</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Among 40 adults undergoing liver transplantation who received induction therapy with alemtuzumab and low dose tacrolimus, subsequent rates of graft loss, death and adverse reactions were similar to a cohort of 50 contemporaneous transplant recipients given conventional immunosuppressive therapy; routine liver test results were similar between the two groups).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">15114087</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Alemtuzumab.REF.heider.2004.64">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Heider</surname>
+                  <given-names>U</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Fleissner</surname>
+                  <given-names>C</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Zavrski</surname>
+                  <given-names>I</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Jakob</surname>
+                  <given-names>C</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Dietzel</surname>
+                  <given-names>T</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Eucker</surname>
+                  <given-names>J</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Ockenga</surname>
+                  <given-names>J</given-names>
+                </name>
+                <etal/>
+              </person-group>
+              <article-title>Treatment of refractory chronic lymphocytic leukemia with Campath-1H in combination with lamivudine in chronic hepatitis B infection.</article-title>
+              <source>Eur J Haematol</source>
+              <year>2004</year>
+              <volume>72</volume>
+              <fpage>64</fpage>
+              <lpage>6</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(69 year old man with CLL and anti-HBc without HBsAg in serum developed reactivation of hepatitis B after chemotherapy with CHOP, rituximab and fludarabine that responded to lamivudine therapy and did not worsen when he was subsequently treated with alemtuzumab).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">14962266</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Alemtuzumab.REF.iannitto.2005.254">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Iannitto</surname>
+                  <given-names>E</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Minardi</surname>
+                  <given-names>V</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Calvaruso</surname>
+                  <given-names>G</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Mul&#x000e8;</surname>
+                  <given-names>A</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Ammatuna</surname>
+                  <given-names>E</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Di Trapani</surname>
+                  <given-names>R</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Ferraro</surname>
+                  <given-names>D</given-names>
+                </name>
+                <etal/>
+              </person-group>
+              <article-title>Hepatitis B virus reactivation and alemtuzumab therapy.</article-title>
+              <source>Eur J Haematol</source>
+              <year>2005</year>
+              <volume>74</volume>
+              <fpage>254</fpage>
+              <lpage>8</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Two patients with CLL with anti-HBc without HBsAg in serum developed reactivation of hepatitis B with alemtuzumab therapy, one 4 weeks after starting and one 5 months after alemtuzumab treatment and two months after withdrawal of lamivudine prophylaxis; both recovered with antiviral therapy).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">15693796</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Alemtuzumab.REF.cortelezzi.2006.467">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Cortelezzi</surname>
+                  <given-names>A</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Vigan&#x000f2;</surname>
+                  <given-names>M</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Zilioli</surname>
+                  <given-names>VR</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Fantini</surname>
+                  <given-names>NN</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Pasquini</surname>
+                  <given-names>MC</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Deliliers</surname>
+                  <given-names>GL</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Colombo</surname>
+                  <given-names>M</given-names>
+                </name>
+                <etal/>
+              </person-group>
+              <article-title>Adefovir added to lamivudine for hepatitis B recurrent infection in refractory B-cell chronic lymphocytic leukemia on prolonged therapy with Campath-1H.</article-title>
+              <source>J Clin Virol</source>
+              <year>2006</year>
+              <volume>35</volume>
+              <fpage>467</fpage>
+              <lpage>9</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(49 year old man with CLL and anti-HBc without HBsAg in serum developed severe reactivation of HBV after treatment with high doses of chlorambucil, responding to lamivudine and adefovir therapy, and without rise in HBV DNA levels during subsequent rescue therapy with alemtuzumab).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">16316778</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Alemtuzumab.REF.moses.2006.1560">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Moses</surname>
+                  <given-names>SE</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Lim</surname>
+                  <given-names>ZY</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Sudhanva</surname>
+                  <given-names>M</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Devereux</surname>
+                  <given-names>S</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Ho</surname>
+                  <given-names>AY</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Pagliuca</surname>
+                  <given-names>A</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Zuckerman</surname>
+                  <given-names>M</given-names>
+                </name>
+                <etal/>
+              </person-group>
+              <article-title>Lamivudine prophylaxis and treatment of hepatitis B Virus-exposed recipients receiving reduced intensity conditioning hematopoietic stem cell transplants with alemtuzumab.</article-title>
+              <source>J Med Virol</source>
+              <year>2006</year>
+              <volume>78</volume>
+              <fpage>1560</fpage>
+              <lpage>3</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Among 8 alemtuzumab treated bone marrow transplant recipients who had anti-HBc without HBsAg in serum, reactivation occurred in 1 of 2 patients who did not receive prophylaxis, but in none of 6 who did receive prophylactic lamivudine).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">17063522</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Alemtuzumab.REF.fiegl.2006.2408">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Fiegl</surname>
+                  <given-names>M</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Falkner</surname>
+                  <given-names>A</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Hopfinger</surname>
+                  <given-names>G</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Brugger</surname>
+                  <given-names>S</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Zabernigg</surname>
+                  <given-names>A</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Bauer</surname>
+                  <given-names>F</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Haslbauer</surname>
+                  <given-names>F</given-names>
+                </name>
+                <etal/>
+                <collab>Austrian Collaborative Study Group on Alemtuzumab in Chronic Lymphocytic Leukemia</collab>
+              </person-group>
+              <article-title>Routine clinical use of alemtuzumab in patients with heavily pretreated B-cell chronic lymphocytic leukemia: a nation-wide retrospective study in Austria.</article-title>
+              <source>Cancer</source>
+              <year>2006</year>
+              <volume>107</volume>
+              <fpage>2408</fpage>
+              <lpage>16</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Retrospective analysis of results of alemtuzumab therapy in 115 patients with CLL reported side effects of severe infections in 51%, severe neutropenia in 26%, and severe hypersensitivity reactions in 8%, but did not mention ALT elevations or hepatotoxicity).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">17054106</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Alemtuzumab.REF.magliocca.2006.705">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Magliocca</surname>
+                  <given-names>JF</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Knechtle</surname>
+                  <given-names>SJ</given-names>
+                </name>
+              </person-group>
+              <article-title>The evolving role of alemtuzumab(Campath-1H) for immunosuppressive therapy in organ transplantation.</article-title>
+              <source>Transpl Int</source>
+              <year>2006</year>
+              <volume>19</volume>
+              <fpage>705</fpage>
+              <lpage>14</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Review of efficacy of alemtuzumab in various forms of organ transplantation; no discussion of ALT elevations or hepatotoxicity).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">16918530</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Alemtuzumab.REF.james.2007.29">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>James</surname>
+                  <given-names>DF</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Kipps</surname>
+                  <given-names>TJ</given-names>
+                </name>
+              </person-group>
+              <article-title>Alemtuzumab in chronic lymphocytic leukemia.</article-title>
+              <source>Future Oncol</source>
+              <year>2007</year>
+              <volume>3</volume>
+              <fpage>29</fpage>
+              <lpage>42</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Review of history of development, clinical efficacy and toxicity of alemtuzumab as therapy of CLL, no mention of hepatotoxicity or ALT elevations).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">17280499</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Alemtuzumab.REF.hillmen.2007.5616">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Hillmen</surname>
+                  <given-names>P</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Skotnicki</surname>
+                  <given-names>AB</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Robak</surname>
+                  <given-names>T</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Jaksic</surname>
+                  <given-names>B</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Dmoszynska</surname>
+                  <given-names>A</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Wu</surname>
+                  <given-names>J</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Sirard</surname>
+                  <given-names>C</given-names>
+                </name>
+                <etal/>
+              </person-group>
+              <article-title>Alemtuzumab compared with chlorambucil as first-line therapy for chronic lymphocytic leukemia.</article-title>
+              <source>J Clin Oncol</source>
+              <year>2007</year>
+              <volume>25</volume>
+              <fpage>5616</fpage>
+              <lpage>23</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Among 297 patients with chronic lymphocytic leukemia treated with alemtuzumab or chlorambucil, adverse events included infusion reactions, cytomegalovirus [CMV] infections, anemia and neutropenia; no mention of ALT elevations or hepatotoxicity).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">17984186</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Alemtuzumab.REF.demko.2008.167">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Demko</surname>
+                  <given-names>S</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Summers</surname>
+                  <given-names>J</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Keegan</surname>
+                  <given-names>P</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Pazdur</surname>
+                  <given-names>R.</given-names>
+                </name>
+              </person-group>
+              <article-title>FDA drug approval summary: Alemtuzumab as single-agent treatment for B-cell chronic lymphocytic leukemia.</article-title>
+              <source>Oncologist</source>
+              <year>2008</year>
+              <volume>13</volume>
+              <fpage>167</fpage>
+              <lpage>74</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Independent FDA review of studies in support of alemtuzumab as therapy of chronic lymphocytic leukemia listed common side effects including infusion reactions [87%], CMV viremia [56%], neutropenia [14%] and anemia [13%]; no mention of hepatotoxicity or ALT elevations).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">18305062</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Alemtuzumab.REF.hui.2008.1">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Hui</surname>
+                  <given-names>CK</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Cheung</surname>
+                  <given-names>WW</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Leung</surname>
+                  <given-names>KW</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Cheng</surname>
+                  <given-names>VC</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Tang</surname>
+                  <given-names>BS</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Li</surname>
+                  <given-names>IW</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Luk</surname>
+                  <given-names>JM</given-names>
+                </name>
+                <etal/>
+              </person-group>
+              <article-title>Retracted: outcome and immune reconstitution of HBV-specific immunity in patients with reactivation of occult HBV infection after alemtuzumab-containing chemotherapy regimen.</article-title>
+              <source>Hepatology</source>
+              <year>2008</year>
+              <volume>48</volume>
+              <fpage>1</fpage>
+              <lpage>10</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Among 21 patients with HBV DNA without HBsAg in serum [17 with anti-HBc] treated with alemtuzumab chemotherapy, 6 developed reactivation of hepatitis B with reappearance of HBsAg in all and rise in liver enzymes in 5, despite early intervention with lamivudine therapy; this article was later retracted).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">18452145</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Alemtuzumab.REF18">
+            <element-citation publication-type="journal">
+              <article-title>Alemtuzumab (Campath) off-label for relapsing multiple sclerosis.</article-title>
+              <source>Med Lett Drugs Ther</source>
+              <year>2009</year>
+              <volume>51</volume>
+              <issue>1307</issue>
+              <fpage>17</fpage>
+              <lpage>8</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Discussion of the off-label use of alemtuzumab for relapsing multiple sclerosis mentions that side effects include infusion reactions, autoimmune thyroid disorders and thrombocytopenic purpura, but does not mention ALT elevations or clinically apparent hepatotoxicity).</italic>
+                </p>
+              </annotation>
+            </element-citation>
+          </ref>
+          <ref id="Alemtuzumab.REF.dhesi.2009.245">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Dhesi</surname>
+                  <given-names>S</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Boland</surname>
+                  <given-names>B</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Colquhoun</surname>
+                  <given-names>S</given-names>
+                </name>
+              </person-group>
+              <article-title>Alemtuzumab and liver transplantation: a review.</article-title>
+              <source>Curr Opin Organ Transplant</source>
+              <year>2009</year>
+              <volume>14</volume>
+              <fpage>245</fpage>
+              <lpage>9</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Short review of induction therapy using alemtuzumab in preparation of liver transplantation summarizing results from two US studies suggesting lower rates of rejection and ability to use lower doses of maintenance therapy).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">19417659</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Alemtuzumab.REF.jones.2009.2052">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Jones</surname>
+                  <given-names>JL</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Phuah</surname>
+                  <given-names>CL</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Cox</surname>
+                  <given-names>AL</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Thompson</surname>
+                  <given-names>SA</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Ban</surname>
+                  <given-names>M</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Shawcross</surname>
+                  <given-names>J</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Walton</surname>
+                  <given-names>A</given-names>
+                </name>
+                <etal/>
+              </person-group>
+              <article-title>IL-21 drives secondary autoimmunity in patients with multiple sclerosis, following therapeutic lymphocyte depletion with alemtuzumab (Campath-1H).</article-title>
+              <source>J Clin Invest</source>
+              <year>2009</year>
+              <volume>119</volume>
+              <fpage>2052</fpage>
+              <lpage>61</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Analysis of lymphocyte function in patients with multiple sclerosis who develop reconstitution autoimmunity suggest that lymphocytes that proliferate after ablation by alemtuzumab are skewed towards self-reactivity and susceptible to apoptosis features that are promoted by high levels of IL21).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">19546505</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Alemtuzumab.REF.cai.2010.1511">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Cai</surname>
+                  <given-names>J</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Terasaki</surname>
+                  <given-names>PI</given-names>
+                </name>
+              </person-group>
+              <article-title>Induction immunosuppression improves long-term graft and patient outcome in organ transplantation: an analysis of United Network for Organ Sharing registry data.</article-title>
+              <source>Transplantation</source>
+              <year>2010</year>
+              <volume>90</volume>
+              <fpage>1511</fpage>
+              <lpage>5</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Since 2003, most solid organ transplant recipients have received induction therapy and analyses of the UNOS registry for this period shows highest rates of patient and graft survival with alemtuzumab [89% 5 year patient survival] as compared to antithymocyte globulin [89%], basiliximab [84%], daclizumab [77%], steroids [75%], or no induction [71%]).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">21057388</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Alemtuzumab.REF.anoop.2010.484">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Anoop</surname>
+                  <given-names>P</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Wotherspoon</surname>
+                  <given-names>A</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Matutes</surname>
+                  <given-names>E</given-names>
+                </name>
+              </person-group>
+              <article-title>Severe liver dysfunction from hepatitis C virus reactivation following alemtuzumab treatment for chronic lymphocytic leukaemia.</article-title>
+              <source>Br J Haematol</source>
+              <year>2010</year>
+              <volume>148</volume>
+              <fpage>484</fpage>
+              <lpage>6</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(39 year old man with CLL had anti-HCV and normal ALT levels without HCV RNA in serum, but developed high levels of HCV RNA and ALT levels 34 days after starting weekly infusions of alemtuzumab and prednisone, not having had reactivation during rituximab or previous fludarabine and prednisone therapy).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">19874308</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Alemtuzumab.REF.hanaway.2011.1909">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Hanaway</surname>
+                  <given-names>MJ</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Woodle</surname>
+                  <given-names>ES</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Mulgaonkar</surname>
+                  <given-names>S</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Peddi</surname>
+                  <given-names>VR</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Kaufman</surname>
+                  <given-names>DB</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>First</surname>
+                  <given-names>MR</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Croy</surname>
+                  <given-names>R</given-names>
+                </name>
+                <etal/>
+                <collab>INTAC Study Group</collab>
+              </person-group>
+              <article-title>Alemtuzumab induction in renal transplantation.</article-title>
+              <source>N Engl J Med</source>
+              <year>2011</year>
+              <volume>364</volume>
+              <fpage>1909</fpage>
+              <lpage>19</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Among 474 patients undergoing renal transplantation and given alemtuzumab or convention induction therapy, acute rejection rates during the first 3 years were lower with alemtuzumab than basiliximab in low risk patients [15% vs 24%], but were similar with alemtuzumab and antithymocyte globulin in high risk patients [30% vs 24%]).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">21591943</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Alemtuzumab.REF.kim.2012.1515">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Kim</surname>
+                  <given-names>SJ</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Moon</surname>
+                  <given-names>JH</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Kim</surname>
+                  <given-names>H</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Kim</surname>
+                  <given-names>JS</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Hwang</surname>
+                  <given-names>YY</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Intragumtornchai</surname>
+                  <given-names>T</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Issaragrisil</surname>
+                  <given-names>S</given-names>
+                </name>
+                <etal/>
+              </person-group>
+              <article-title>Non-bacterial infections in Asian patients treated with alemtuzumab: a retrospective study of the Asian Lymphoma Study Group.</article-title>
+              <source>Leuk Lymphoma</source>
+              <year>2012</year>
+              <volume>53</volume>
+              <fpage>1515</fpage>
+              <lpage>24</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Retrospective analysis of infectious complications among 182 patients treated with alemtuzumab between 2003-2009 in 6 Asian countries identified 66 cases of CMV, 25 varicella-zoster virus, 31 fungal infections, 4 pneumocystis jirovecii pneumonia, HBV reactivation 4 [in previously HBsAg negative patients], and tuberculosis 16).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">22273250</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Alemtuzumab.REF.coles.2012.1829">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Coles</surname>
+                  <given-names>AJ</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Twyman</surname>
+                  <given-names>CL</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Arnold</surname>
+                  <given-names>DL</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Cohen</surname>
+                  <given-names>JA</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Confavreux</surname>
+                  <given-names>C</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Fox</surname>
+                  <given-names>EJ</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Hartung</surname>
+                  <given-names>HP</given-names>
+                </name>
+                <etal/>
+              </person-group>
+              <article-title>CARE-MS II investigators. Alemtuzumab for patients with relapsing multiple sclerosis after disease-modifying therapy: a randomised controlled phase 3 trial.</article-title>
+              <source>Lancet</source>
+              <year>2012</year>
+              <volume>380</volume>
+              <issue>9856</issue>
+              <fpage>1829</fpage>
+              <lpage>39</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Among 798 patients with relapsing remitting multiple sclerosis treated with alemtuzumab [12 or 24 mg for 5 and 3 days at month 0 and 12] or interferon beta-1a [44 mcg three times weekly], relapse rates were lower with alemtuzumab [35% vs 53%] and adverse event rates were slightly higher [77% vs 69%], particularly for autoimmune thyroid abnormalities [16% and 19% vs 5%] and autoimmune thrombocytopenia [1% vs none]; while liver toxicity was reported in 3-4% vs 6%], details of which were not provide).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">23122650</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Alemtuzumab.REF.costelloe.2012.335">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Costelloe</surname>
+                  <given-names>L</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Jones</surname>
+                  <given-names>J</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Coles</surname>
+                  <given-names>A</given-names>
+                </name>
+              </person-group>
+              <article-title>Secondary autoimmune diseases following alemtuzumab therapy for multiple sclerosis.</article-title>
+              <source>Expert Rev Neurother</source>
+              <year>2012</year>
+              <volume>12</volume>
+              <fpage>335</fpage>
+              <lpage>41</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Review of the secondary autoimmune conditions associated with alemtuzumab therapy of multiple sclerosis including Graves disease in 12-33% of subjects, thrombocytopenic purpura in 1-3% and Goodpasture&#x02019;s syndrome in &#x0003c;1%).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">22364332</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Alemtuzumab.REF.putra.2014.827">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Putra</surname>
+                  <given-names>J</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Suriawinata</surname>
+                  <given-names>AA</given-names>
+                </name>
+              </person-group>
+              <article-title>Adenovirus hepatitis presenting as tumoral lesions in an immunocompromised patient.</article-title>
+              <source>Ann Hepatol</source>
+              <year>2014</year>
+              <volume>13</volume>
+              <fpage>827</fpage>
+              <lpage>9</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(59 year old man with T-cell leukemia treated with alemtuzumab developed fever and adenovirus hepatitis, responding to cidofovir therapy).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">25332270</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Alemtuzumab.REF.di_bisceglie.2015.703">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Di Bisceglie</surname>
+                  <given-names>AM</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Lok</surname>
+                  <given-names>AS</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Martin</surname>
+                  <given-names>P</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Terrault</surname>
+                  <given-names>N</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Perrillo</surname>
+                  <given-names>RP</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Hoofnagle</surname>
+                  <given-names>JH</given-names>
+                </name>
+              </person-group>
+              <article-title>Recent US Food and Drug Administration warnings on hepatitis B reactivation with immune-suppressing and anticancer drugs: just the tip of the iceberg?</article-title>
+              <source>Hepatology</source>
+              <year>2015</year>
+              <volume>61</volume>
+              <fpage>703</fpage>
+              <lpage>11</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Review of the pathogenesis, clinical course, treatment and prevention of HBV reactivation in patients receiving immunosuppressive or anticancer therapies, with particular focus on rituximab and ofatumumab).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">25412906</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Alemtuzumab.REF.baker.2017.961">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Baker</surname>
+                  <given-names>D</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Herrod</surname>
+                  <given-names>SS</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Alvarez-Gonzalez</surname>
+                  <given-names>C</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Giovannoni</surname>
+                  <given-names>G</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Schmierer</surname>
+                  <given-names>K</given-names>
+                </name>
+              </person-group>
+              <article-title>Interpreting lymphocyte reconstitution data from the pivotal phase 3 trials of alemtuzumab.</article-title>
+              <source>JAMA Neurol</source>
+              <year>2017</year>
+              <volume>74</volume>
+              <fpage>961</fpage>
+              <lpage>9</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Analysis of depletion and reconstitution of B and T cell subsets after alemtuzumab therapy suggests that the secondary autoimmunity is due to rebound in autoreactive B cells with relative deficiency in T cell regulatory function).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">28604916</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Alemtuzumab.REF.willis.2018.1779">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Willis</surname>
+                  <given-names>MD</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Hope-Gill</surname>
+                  <given-names>B</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Flood-Page</surname>
+                  <given-names>P</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Joseph</surname>
+                  <given-names>F</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Needham</surname>
+                  <given-names>E</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Jones</surname>
+                  <given-names>J</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Coles</surname>
+                  <given-names>A</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Robertson</surname>
+                  <given-names>NP</given-names>
+                </name>
+              </person-group>
+              <article-title>Sarcoidosis following alemtuzumab treatment for multiple sclerosis.</article-title>
+              <source>Mult Scler</source>
+              <year>2018</year>
+              <volume>24</volume>
+              <fpage>1779</fpage>
+              <lpage>82</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Among 187 patients with multiple sclerosis treated with alemtuzumab, 3 developed sarcoidosis, 2 to 4 years after the last infusion).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">30307364</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Alemtuzumab.REF.el_sankari.2018.331">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>El Sankari</surname>
+                  <given-names>S</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Dahlqvist</surname>
+                  <given-names>G</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Monino</surname>
+                  <given-names>L</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>van Pesch</surname>
+                  <given-names>V</given-names>
+                </name>
+              </person-group>
+              <article-title>Auto-immune hepatitis in a patient with multiple sclerosis treated with alemtuzumab.</article-title>
+              <source>Acta Neurol Belg</source>
+              <year>2018</year>
+              <volume>118</volume>
+              <fpage>331</fpage>
+              <lpage>3</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(25 year old woman with multiple sclerosis developed Graves disease 11 months after a second course of alemtuzumab and liver injury 1 month after starting thiamazole for the hyperthyroidism [bilirubin 14 times ULN, ALT 5 times ULN], not responding to stopping antithyroid drug but improving with prednisone therapy).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">29713905</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Alemtuzumab.REF.holm_y.2019.497">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Holm&#x000f8;y</surname>
+                  <given-names>T</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Fevang</surname>
+                  <given-names>B</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Olsen</surname>
+                  <given-names>DB</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Spigset</surname>
+                  <given-names>O</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>B&#x000f8;</surname>
+                  <given-names>L</given-names>
+                </name>
+              </person-group>
+              <article-title>Adverse events with fatal outcome associated with alemtuzumab treatment in multiple sclerosis.</article-title>
+              <source>BMC Res Notes</source>
+              <year>2019</year>
+              <volume>12</volume>
+              <fpage>497</fpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Systematic review of the literature and of adverse event databases identified 9 cases of alemtuzumab-attributed severe adverse events leading to death, including 1 case of autoimmune hepatitis arising a year after therapy; no further details given).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">31405369</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Alemtuzumab.REF.beattie.2019.158">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Beattie</surname>
+                  <given-names>W</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Yan</surname>
+                  <given-names>B</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Sood</surname>
+                  <given-names>S</given-names>
+                </name>
+              </person-group>
+              <article-title>Acute severe hepatitis with alemtuzumab and rechallenge after a year.</article-title>
+              <source>J Clin Neurosci</source>
+              <year>2019</year>
+              <volume>60</volume>
+              <fpage>158</fpage>
+              <lpage>60</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(49 year old woman with relapsing remitting multiple sclerosis developed test abnormalities within 2 days of starting alemtuzumab and methylprednisolone [bilirubin 0.7 mg/dL, ALT 378 rising to 577 U/L, Alk P 87], which resolved within 4 weeks and had recurrence with a second course 12 months later [bilirubin normal, ALT 400 rising to 700] again resolving within 4 weeks).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">30348589</pub-id>
+            </element-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec sec-type="link-group" id="Alemtuzumab.OTHER_REFERENCE_LINKS">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <label>1</label>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=Alemtuzumab+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D:%222999/12/31%22%5BEDat%5D)">Recent References on Alemtuzumab: from PubMed.gov</ext-link>
+            </p>
+          </list-item>
+          <list-item>
+            <label>2</label>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Alemtuzumab">Trials on Alemtuzumab: from ClinicalTrials.gov</ext-link>
+            </p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

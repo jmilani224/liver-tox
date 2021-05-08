@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="AlphaGlucosidaseInhi" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">AlphaGlucosidaseInhi</book-part-id>
+      <title-group>
+        <title>Alpha Glucosidase Inhibitors</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>12</day>
+          <month>1</month>
+          <year>2021</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="AlphaBlockers" document-type="chapter">Alpha 1 Adrenergic Receptor Antagonists</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Alpha_Peginterferon" document-type="chapter">Alpha Interferon</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="AlphaGlucosidaseInhi.OVERVIEW">
+        <title>OVERVIEW</title>
+        <p content-type="pubmed-excerpt">Alpha glucosidase is an intestinal brush border enzyme responsible for the hydrolysis of disaccharides which is necessary for the absorption of starch, dextrins and disaccharides. Inhibition of this enzyme causes malabsorption and slowing of absorption of carbohydrates and decreases the postprandial rise in blood glucose. These drugs may also increase the release of glucagon-like peptide-1 (GLP-1) which may contribute to their glucosing lowering effects. Alpha glucosidase inhibitors have been shown to be effective in improving glycemic control in type 2 diabetes. Two alpha glucosidase inhibitors have been approved for use in the United States, acarbose (Precose) in 1995 and miglitol (Glyset) in 1996. While these two agents have a similar mechanism of action, they have different chemical structures and pharmacokinetics. Acarbose is a modified bacterial enzyme that is not appreciably absorbed, while miglitol is a synthetic pseudo polysaccharide that is absorbed from the gastrointestinal tract. Both drugs are taken three times daily with meals (with the first bite) and cause mild carbohydrate malabsorption. Common side effects of both agents are flatulence, abdominal bloating and discomfort and diarrhea. Ironically, acarbose which has little systemic absorption, has been clearly linked to rare instances of clinically apparent liver injury, while no specific instances of such injury have been attributed to miglitol. For this reason, these two agents are discussed separately and references to their safety and potential hepatotoxicity given with each agent.</p>
+        <p content-type="pubmed-excerpt">Drug Class: <related-object link-type="booklink" source-id="livertox" document-id="Antidiabetic" document-type="chapter">Antidiabetic Agents</related-object></p>
+        <p content-type="pubmed-excerpt">Drugs in the Subclass, Alpha Glucosidase Inhibitors: <related-object link-type="booklink" source-id="livertox" document-id="Acarbose" document-type="chapter">Acarbose</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Miglitol" document-type="chapter">Miglitol</related-object></p>
+      </sec>
+      <sec id="AlphaGlucosidaseInhi.ANNOTATED_BIBLIOGRA">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 12 January 2021</p>
+        <ref-list id="AlphaGlucosidaseInhi.ANNOTATED_BIBLIOGRA.reflist0">
+          <ref id="AlphaGlucosidaseInhi.REF.zimmerman.1999">
+            <mixed-citation publication-type="book">Zimmerman HJ. Oral hypoglycemic agents and other diabetes therapy. In, Zimmerman, HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott,1999: pp. 575-9.<annotation><p><italic toggle="yes">(Textbook of hepatotoxicity published in 1999 mentions that several instances of serum enzyme elevations and at least two cases of liver injury with jaundice have been linked to acarbose use; no mention of miglitol).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="AlphaGlucosidaseInhi.REF.bhardwaj.2007">
+            <mixed-citation publication-type="book">Bhardwaj SS, Chalasani NP. Antidiabetic drugs. Cardiovascular and antidiabetic medications. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 2nd ed. New York: Informa Healthcare USA, 2007, pp. 611-7.<annotation><p><italic toggle="yes">(Review of hepatotoxicity published in 2007 mentions that acarbose has been associated with hepatocellular injury despite the fact that it is minimally absorbed, but that miglitol has not been implicated in causing liver injury).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="AlphaGlucosidaseInhi.REF.powers.2018">
+            <mixed-citation publication-type="book">Powers AC, D&#x02019;Alessio D. Endocrine pancreas and pharmacotherapy of diabetes mellitus and hypoglycemia. In, Brunton LL, Hillal-Dandan R, Knollman BC, eds. Goodman &#x00026; Gilman's the pharmacological basis of therapeutics. 13th ed. New York: McGraw-Hill, 2018, pp. 863-86.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="AlphaGlucosidaseInhi.REF.coniff.1995.443">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Coniff</surname>
+                  <given-names>RF</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Shapiro</surname>
+                  <given-names>JA</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Seaton</surname>
+                  <given-names>TB</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Bray</surname>
+                  <given-names>GA</given-names>
+                </name>
+              </person-group>
+              <article-title>Multicenter, placebo-controlled trial comparing acarbose (BAY g 5421) with placebo, tolbutamide, and tolbutamide-plus-acarbose in non-insulin-dependent diabetes mellitus.</article-title>
+              <source>Am J Med</source>
+              <year>1995</year>
+              <volume>98</volume>
+              <fpage>443</fpage>
+              <lpage>51</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Controlled trial of acarbose vs placebo with and without tolbutamide in 290 patients with diabetes; while overall rates of ALT elevations were similar with and without acarbose, elevations &#x0003e;3 times ULN occurred in 5 patients [4%] on acarbose and none on placebo; all abnormalities were reversible with discontinuation of treatment).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">7733122</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="AlphaGlucosidaseInhi.REF5">
+            <element-citation publication-type="journal">
+              <article-title>Miglitol for type 2 diabetes mellitus.</article-title>
+              <source>Med Lett Drugs Ther</source>
+              <year>1999</year>
+              <volume>41</volume>
+              <issue>1053</issue>
+              <fpage>49</fpage>
+              <lpage>50</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Brief review of role of miglitol in type 2 diabetes; "increased aminotransferase activity has not been reported with miglitol"; otherwise, the average cost, efficacy and tolerance of miglitol are similar to acarbose).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">10368700</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="AlphaGlucosidaseInhi.REF.hedrington.2019.2229">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Hedrington</surname>
+                  <given-names>MS</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Davis</surname>
+                  <given-names>SN</given-names>
+                </name>
+              </person-group>
+              <article-title>Considerations when using alpha-glucosidase inhibitors in the treatment of type 2 diabetes.</article-title>
+              <source>Expert Opin Pharmacother</source>
+              <year>2019</year>
+              <volume>20</volume>
+              <fpage>2229</fpage>
+              <lpage>35</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Review of the role of alpha glucosidase inhibitors in the therapy of type 2 diabetes mentions that side effects are largely gastrointestinal [diarrhea, abdominal pain, flatulence] and are transient and mostly dose dependent; no mention of ALT elevations or hepatotoxicity).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">31593486</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="AlphaGlucosidaseInhi.REF7">
+            <element-citation publication-type="journal">
+              <article-title>Drugs for type 2 diabetes.</article-title>
+              <source>Med Lett Drugs Ther</source>
+              <year>2019</year>
+              <volume>61</volume>
+              <issue>1584</issue>
+              <fpage>169</fpage>
+              <lpage>78</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Concise review of the mechanisms of action, clinical efficacy, side effects and costs of currently available drugs for type 2 diabetes mentions that miglitol and acarbose must be taken with each meal and can lower HbA1c levels by 0.5-1.0%; side effects are not discussed).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">31770362</pub-id>
+            </element-citation>
+          </ref>
+        </ref-list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

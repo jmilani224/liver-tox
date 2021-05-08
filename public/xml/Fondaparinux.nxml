@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Fondaparinux" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Fondaparinux</book-part-id>
+      <title-group>
+        <title>Fondaparinux</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>6</day>
+          <month>2</month>
+          <year>2018</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="FolicAcid" document-type="chapter">Folic Acid</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="AmprenavirFosampren" document-type="chapter">Fosamprenavir</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Fondaparinux.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Fondaparinux.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Fondaparinux is a synthetic inhibitor of factor Xa which given by injection and is used as an anticoagulant to treat as well as prevent venous thromboembolism. Fondaparinux has been associated with a low rate of serum aminotransferase elevations during therapy, but has not been implicated in cases of clinically apparent, idiosyncratic liver injury.</p>
+        </sec>
+        <sec id="Fondaparinux.Background">
+          <title>Background</title>
+          <p>Fondaparinux (fon" da par' in ux) is a synthetic inhibitor of factor Xa which blocks the activity of this clotting factor indirectly by binding to and activating antithrombin III. Fondaparinux is composed of five monomeric sugars that are identical to the sequence present in heparin that comprises the high affinity binding site for antithrombin III. Unlike standard and low molecular weight heparins, however, fondaparinux is specific for factor Xa and has no effect on thrombin or other clotting factors. As a result, fondaparinux has a more predictable and reproducible anticoagulant effect and can be administered in a fixed dose once daily and does not require monitoring for anticoagulant effect. Fondaparinux was approved for use in the United States in 2001 and current indications include prevention of deep vein thromboses in high risk individuals (such as after surgery or during immobilization) and active treatment of deep vein thrombosis with or without pulmonary embolism (in combination with warfarin). Fondaparinux is available as solution for injection in prefilled syringes generically and under the brand name Arixtra. The typical dose for prophylaxis of deep vein thrombosis is 2.5 mg subcutaneously once daily for 5 to 30 days. The dose regimen for treatment of deep vein thrombosis and pulmonary embolism is 5 to 10 mg (based upon body weight) subcutaneously once daily for at least 5 days and until a stable INR is achieved with warfarin. Side effects include bleeding and thrombocytopenia, but are less common than with heparin. Noncoagulation related side effects are uncommon but can include anemia, hypokalemia, insomnia, confusion, dizziness, hypotension, rash and purpura.</p>
+        </sec>
+        <sec id="Fondaparinux.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>Fondaparinux therapy is associated with a low rate of serum aminotransferase elevations during therapy, with levels above 3 times the upper limit of normal occurring in 1% to 3% of patients, a lower rate than occurs with heparin (~8%) or low molecular weight heparins (4% to 12%) but higher than occurs with placebo (&#x0003c;1%). The liver test abnormalities during fondaparinux therapy were generally mild, not associated with jaundice or symptoms and not requiring drug discontinuation. The abnormalities appear to resemble those that occur with heparin and the low molecular weight heparins. A case reported of marked ALT and AST elevations without jaundice arising within 2 days of starting fondaparinux and resolving rapidly on stopping has been reported. Fondaparinux has not been in wide clinical use, but cases of idiosyncratic clinically apparent liver injury have not been reported in the literature.</p>
+          <p>Likelihood score: E (unlikely cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Fondaparinux.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>Fondaparinux may cause a similar direct, self-limited hepatotoxicity as occurs with the use of natural and low molecular weight heparins. If fondaparinux causes idiosyncratic drug induced liver injury, the mechanism of this effect is not known. Fondaparinux has little hepatic metabolism and does not affect CYP 450 enzyme activity in the liver.</p>
+        </sec>
+        <sec id="Fondaparinux.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>The serum aminotransferase elevations that occur during fondaparinux therapy are usually self-limited and do not require dose modification or discontinuation of therapy. No convincing instances of clinically apparent or severe acute liver injury have been linked to fondaparinux in the published literature. Because of its unique chemical structure, it is unlikely that there is cross sensitivity to liver injury with other factor Xa inhibitors such as rivroxaban</p>
+          <p>Drug Class: <related-object source-id="livertox" document-id="Anticoagulants">Antithrombotic Agents</related-object>, <related-object source-id="livertox" document-id="Anticoagulants">Anticoagulants</related-object></p>
+          <p>Other Drugs in the Subclass, Anticoagulants, Factor Xa Antagonists: <related-object source-id="livertox" document-id="Apixaban">Apixaban</related-object>, <related-object source-id="livertox" document-id="Betrixaban">Betrixaban</related-object>, <related-object source-id="livertox" document-id="Edoxaban">Edoxaban</related-object>, <related-object source-id="livertox" document-id="Rivaroxaban">Rivaroxaban</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Fondaparinux.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <boxed-text position="anchor" id="Fondaparinux.BPI" orientation="portrait">
+          <p>
+            <bold>REPRESENTATIVE TRADE NAMES</bold>
+          </p>
+          <p>Fondaparinux &#x02013; Generic, Arixtra&#x000ae;</p>
+          <p>
+            <bold>DRUG CLASS</bold>
+          </p>
+          <p>Antithrombotic Agents</p>
+          <p>
+            <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Fondaparinux">COMPLETE LABELING</ext-link>
+          </p>
+          <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+        </boxed-text>
+      </sec>
+      <sec id="Fondaparinux.CHEMICAL_FORMULA_AND_STRUCT">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Fondaparinux.T1" position="anchor" orientation="portrait">
+          <table>
+            <thead>
+              <tr>
+                <th id="hd_h_Fondaparinux.T1_1_1_1_1" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Fondaparinux.T1_1_1_1_2" rowspan="1" colspan="1">CAS REGISTRY NUMBER</th>
+                <th id="hd_h_Fondaparinux.T1_1_1_1_3" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Fondaparinux.T1_1_1_1_4" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Fondaparinux.T1_1_1_1_1" rowspan="1" colspan="1">Fondaparinux</td>
+                <td headers="hd_h_Fondaparinux.T1_1_1_1_2" rowspan="1" colspan="1">
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135119387">104993-28-4</ext-link>
+                </td>
+                <td headers="hd_h_Fondaparinux.T1_1_1_1_3" rowspan="1" colspan="1">C31-H53-N3-O49-S8</td>
+                <td headers="hd_h_Fondaparinux.T1_1_1_1_4" rowspan="1" colspan="1">
+                  <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Fondaparinux_Structure.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait">
+                    <alt-text>Fondaparinux Chemical Structure</alt-text>
+                  </graphic>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Fondaparinux.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 06 February 2018</p>
+        <ref-list id="Fondaparinux.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Fondaparinux.R1">
+            <mixed-citation publication-type="other">Zimmerman HJ. Heparin. Drugs used in cardiovascular disease. In, Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999, pp. 639-412.<annotation><p><italic toggle="yes">(Textbook of hepatotoxicity published in 1999 before availability of fondaparinux).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Fondaparinux.R2">
+            <mixed-citation publication-type="other">De Marzio DH, Navarro VJ. Hepatotoxicity of cardiovascular and antidiabetic drugs. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013, pp. 519-40.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of drugs used in cardiovasular disease; the heparins and fondaparinux are not discussed).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Fondaparinux.R3">
+            <mixed-citation publication-type="other">Weitz JI. Blood coagulation and anticoagulant, thrombolytic, and antiplatelet drugs. In, Brunton LL, Chabner BA, Knollman BC, eds. Goodman &#x00026; Gilman's the pharmacological basis of therapeutics. 12th ed. New York: McGraw-Hill, 2011, pp. 849-76.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics; fondaparinux is a synthetic five-saccharide analogue of the natural pentasaccharide sequence found in heparin).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Fondaparinux.R4">
+            <mixed-citation publication-type="journal">Fondaparinux (Arixtra), a new anticoagulant. Med Lett Drugs Ther 2002; 44(1130): 43-4. 12011755.<annotation><p><italic toggle="yes">(Concise review of the mechanism of action, clinical efficacy, safety and cost of fondaparinux shortly after its approval for use in the United States; no mention of ALT elevations or hepatotoxicity). </italic></p></annotation><pub-id pub-id-type="pmid">12011755</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fondaparinux.R5">
+            <mixed-citation publication-type="journal">Turpie AG, Bauer KA, Eriksson BI, Lassen MR. Fondaparinux vs enoxaparin for the prevention of venous thromboembolism in major orthopedic surgery: a meta-analysis of 4 randomized double-blind studies. Arch Intern Med 2002; 162: 1833-40. <annotation><p><italic toggle="yes">(Analysis of 4 controlled trials of fondaparinux versus enoxaparin in 7237 patients after orthopedic surgery; rates of side effects were similar in the two groups, but rates of liver injury and ALT elevations were not mentioned). </italic></p></annotation><pub-id pub-id-type="pmid">12196081</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fondaparinux.R6">
+            <mixed-citation publication-type="journal">B&#x000fc;ller HR, Davidson BL, Decousus H, Gallus A, Gent M, Piovella F, Prins MH, et al.; Matisse Investigators. Fondaparinux or enoxaparin for the initial treatment of symptomatic deep venous thrombosis: a randomized trial. Ann Intern Med 2004; 140: 867-73. <annotation><p><italic toggle="yes">(Controlled trial of fondaparinux vs enoxaparin in 2205 patients with deep venous thromboses found similar efficacy and safety; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">15172900</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fondaparinux.R7">
+            <mixed-citation publication-type="journal">Fiessinger JN, Huisman MV, Davidson BL, Bounameaux H, Francis CW, Eriksson H, Lundstr&#x000f6;m, et al.; THRIVE Treatment Study Investigators. Ximelagatran vs low-molecular-weight heparin and warfarin for the treatment of deep vein thrombosis: a randomized trial. JAMA 2005; 293: 681-9. <annotation><p><italic toggle="yes">(Controlled trial of ximelagatran versus enoxaparin and warfarin in 2489 patients with deep vein thromboses; ALT elevations above 3 times ULN occurred in 9.6% of ximelagatran vs 2% of enoxaparin/warfarin treated patients, and at least one patient on ximelagatran developed clinically apparent liver injury).</italic></p></annotation><pub-id pub-id-type="pmid">15701909</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fondaparinux.R8">
+            <mixed-citation publication-type="journal">Agnelli G, Bergqvist D, Cohen AT, Gallus AS, Gent M; PEGASUS investigators. Randomized clinical trial of postoperative fondaparinux versus perioperative dalteparin for prevention of venous thromboembolism in high-risk abdominal surgery. Br J Surg 2005; 92: 1212-20. <annotation><p><italic toggle="yes">(Among 2048 patients treated with fondaparinux or dalteparin for 5 to 9 days, side effects were similar in the two groups; no discussion of liver injury or ALT elevations).</italic></p></annotation><pub-id pub-id-type="pmid">16175516</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fondaparinux.R9">
+            <mixed-citation publication-type="journal">Turpie AG. The safety of fondaparinux for the prevention and treatment of venous thromboembolism. Expert Opin Drug Saf 2005; 4: 707-21. <annotation><p><italic toggle="yes">(Review of clinical efficacy and safety of fondaparinux; ALT elevations above 3 times the ULN occurred in 1.3-2.6% of patients on fondaparinux compared to 0.7% on placebo, 3.9-12.3% on enoxaparin, and 8% on heparin; abnormalities were usually asymptomatic and not associated with bilirubin elevations).</italic></p></annotation><pub-id pub-id-type="pmid">16011449</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fondaparinux.R10">
+            <mixed-citation publication-type="journal">Cohen AT, Davidson BL, Gallus AS, Lassen MR, Prins MH, Tomkowski W, Turpie AG, et al.; ARTEMIS Investigators. Efficacy and safety of fondaparinux for the prevention of venous thromboembolism in older acute medical patients: randomised placebo controlled trial. BMJ 2006; 332: 325-9. <annotation><p><italic toggle="yes">(Controlled trial of fondaparinux versus placebo in 849 patients 60 years or older admitted for illness requiring bed rest, no discussion of liver injury or ALT elevations).</italic></p></annotation><pub-id pub-id-type="pmid">16439370</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fondaparinux.R11">
+            <mixed-citation publication-type="journal">Chalasani N, Fontana RJ, Bonkovsky HL, Watkins PB, Davern T, Serrano J, Yang H, Rochon J; Drug Induced Liver Injury Network (DILIN). Causes, clinical features, and outcomes from a prospective study of drug-induced liver injury in the United States. Gastroenterology 2008; 135: 1924-34. <annotation><p><italic toggle="yes">(Among 300 cases of drug induced liver disease in the US collected from 2004 to 2008, none were attributed to fondaparinux or other anticoagulants).</italic></p></annotation><pub-id pub-id-type="pmid">18955056</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fondaparinux.R12">
+            <mixed-citation publication-type="journal">Decousus H, Prandoni P, Mismetti P, Bauersachs RM, Boda Z, Brenner B, Laporte S, et al.; CALISTO Study Group. Fondaparinux for the treatment of superficial-vein thrombosis in the legs. N Engl J Med 2010; 363: 1222-32. <annotation><p><italic toggle="yes">(Among 3002 patients with superficial vein thrombosis in the legs treated with fondaparinux or placebo for 45 days, side effects were similar in the two groups; liver injury and ALT elevations not mentioned). </italic></p></annotation><pub-id pub-id-type="pmid">20860504</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fondaparinux.R13">
+            <mixed-citation publication-type="journal">Choice of drugs for heparin-induced thrombocytopenia. Med Lett Drugs Ther 2012; 54 (1391): 43-4. <annotation><p><italic toggle="yes">(Heparin therapy can cause antibody mediated thrombocytopenia because it binds to platelet factor 4 making it antigenic, a feature not shared by fondaparinux which can be used in patients needing anticoagulation who develop this complication; no mention of ALT elevations or hepatoxicity in discussion of adverse effects).</italic></p></annotation><pub-id pub-id-type="pmid">22643441</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fondaparinux.R14">
+            <mixed-citation publication-type="journal">Orostegui L, Medejel N, Kone-Paut I, Dreyfus M, Benhamou D. Fondaparinux (Arixtra *) hepatotoxicity in a 6 year-old child. J Hepatol 2013; 58: 195-8. <annotation><p><italic toggle="yes">(5 year old child with a thrombosed vascular malformation developed marked liver test abnormalities 30 hours after starting fondaparinux [bilirubin 0.6 mg/dL, ALT 509 U/L, AST 720 U/L, Alk P 278 U/L], resolving within 5 days of stopping and later tolerating enoxaparin).</italic></p></annotation><pub-id pub-id-type="pmid">23023013</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fondaparinux.R15">
+            <mixed-citation publication-type="journal">Hosaka K, Saito S, Ishii T, Sumino T, Ryu K, Suzuki G, Suzuki T, Tokuhashi Y. Safety of fondaparinux versus enoxaparin after TKA in Japanese patients. Orthopedics 2013; 36: e428-33. <annotation><p><italic toggle="yes">(Among 277 Japanese patients undergoing total knee replacement treated with enoxaparin or fondaparinux, rates of deep venous thrombosis were similar in the two groups, but ALT elevations were less with fondaparinux [8% vs 30%], but all were transient and without jaundice or symptoms).</italic></p></annotation><pub-id pub-id-type="pmid">23590781</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fondaparinux.R16">
+            <mixed-citation publication-type="journal">Antithrombotic drugs. Med Lett Drugs Ther 2014; 56 (1454): 103-9. <italic toggle="yes">
+</italic><annotation><p><italic toggle="yes">(Concise review of antithrombotic drugs including fondaparinux; discussion of its adverse side effects does not mention ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">25337986</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fondaparinux.R17">
+            <mixed-citation publication-type="journal">Chalasani N, Bonkovsky HL, Fontana R, Lee W, Stolz A, Talwalkar J, Reddy KR, et al.; United States Drug Induced Liver Injury Network. Features and outcomes of 899 patients With drug-induced liver injury: The DILIN Prospective Study. Gastroenterology 2015; 148: 1340-52. <italic toggle="yes">
+</italic><annotation><p><italic toggle="yes">(Among 899 patients with clinically apparent drug induced liver injury enrolled in a US prospective study over an 8 year period, 2 were attributed to antithrombotic agents including 1 to prasugrel [platelet inhibitor] and 1 to dalteparin [low molecular weight heparin], but none to fondaparinux).</italic></p></annotation><pub-id pub-id-type="pmid">25754159</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fondaparinux.R18">
+            <mixed-citation publication-type="journal">Zhang ZH, Zhang JW, He P, Zhou Y, Sun CY. Fondaparinux is effective for acute portal vein thrombosis in decompensated cirrhotic patients. Medicine (Baltimore) 2017; 96: e8256. <annotation><p><italic toggle="yes"> (Among 7 patients with advanced cirrhosis who developed acute portal vein thrombosis and were treated with fondaparinux for variable periods of time, all had recanalization and "no side effects.... occurred in any of the patients").</italic></p></annotation><pub-id pub-id-type="pmid">29049216</pub-id></mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec id="Fondaparinux.OTHER_REFERENCE_LINKS" sec-type="link-group">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=(Fondaparinux/AE)+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D%3A%222999/12/31%22%5BEDat%5D)">Recent References on Fondaparinux: from PubMed.gov</ext-link>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Fondaparinux">Trials on Fondaparinux: from ClinicalTrials.gov</ext-link>
+            </p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

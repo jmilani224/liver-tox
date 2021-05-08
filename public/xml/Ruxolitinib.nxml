@@ -1,0 +1,1407 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Ruxolitinib" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Ruxolitinib</book-part-id>
+      <title-group>
+        <title>Ruxolitinib</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>2</day>
+          <month>12</month>
+          <year>2020</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Rufinamide" document-type="chapter">Rufinamide</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Safinamide" document-type="chapter">Safinamide</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Ruxolitinib.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Ruxolitinib.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Ruxolitinib is a Janus kinase inhibitor that is used in the treatment of intermediate or high risk myelofibrosis and resistant forms of polycythemia vera and graft-vs-host disease. Ruxolitinib is associated with transient and usually mild elevations in serum aminotransferase during therapy and to rare instances of self-limited, clinically apparent idiosyncratic acute liver injury and to cases of reactivation of hepatitis B in susceptible individuals.</p>
+        </sec>
+        <sec id="Ruxolitinib.Background">
+          <title>Background</title>
+          <p>Ruxolitinib (rux&#x0201d; oh li&#x02019; ti nib) is an orally available, specific inhibitor of Janus kinase subtypes 1 and 2 (JAK1 and JAK2). JAK1 and JAK2 are non-receptor tyrosine kinases that are critical components of pathways that lead to production and secretion of hematologic growth factors and inflammatory cytokines. These pathways are important in hematologic cell differentiation and proliferation, intracellular signaling by interferon alpha and gamma, and in cytokine-production and inflammatory reactions. Mutations in JAK1 and JAK2 are frequent in patients with myelofibrosis, and inhibition of these kinases can result in antiproliferative and antiapoptotic effects in malignant cells. Ruxolitinib has been shown to improve symptoms, cause shrinkage of spleen size and decrease circulating cytokine levels in patients with myelofibrosis and polycythemia vera independent of the known presence of Janus kinase mutations. It has also been shown to be effective in graft-vs-host disease. Ruxolitinib was approved for use in the United States in 2011 for therapy of intermediate and high risk myelofibrosis. Subsequently, indications were extended to include polycythemia vera resistant or intolerant to conventional therapy as well as corticosteroid-resistant acute graft-vs-host disease. Ruxolitinib is available in tablets of 5, 10, 15, 20 and 25 mg under the brand name Jakafi. The recommended starting dose is 15 mg twice daily, with subsequent dose modifications based upon tolerance and effectiveness. Dose adjustments for liver or kidney dysfunction and for possible drug-drug interactions are also recommended. Common side effects include myelosuppression, anemia, thrombocytopenia, fatigue, diarrhea, bruising, dizziness, dyspnea, headache and peripheral edema. Sudden withdrawal of ruxolitinib is associated with rapid relapse of symptoms which can be severe with fever, respiratory distress, anemia and features of the systemic inflammatory response syndrome. Uncommon but potentially severe adverse reactions include reactivation of tuberculosis, hepatitis B and herpes zoster as well as severe thrombocytopenia, neutropenia and anemia, opportunistic infections and progressive multifocal leukoencephalopathy.</p>
+        </sec>
+        <sec id="Ruxolitinib.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>In the large clinical trials, serum ALT elevations occurred in 25% of ruxolitinib treated subjects versus 7% of placebo recipients. The ALT elevations were generally self-limited, asymptomatic and mild and were above 5 times ULN in only 1.3% of patients. In the prelicensure clinical trials, no cases of clinically apparent liver injury were reported. Among listed causes of death in one trial of ruxolitinib for myelofibrosis was one attributed to hepatic failure; this instance, however, was considered unrelated to ruxolitinib. Since its approval and more wide scale use, rare cases of clinically apparent ruxolitinib induced acute liver injury have been reported, but without documentation of clinical features or careful exclusion of other causes. Perhaps more importantly, there have been several published reports of reactivation of hepatitis B in patients with HBsAg and even anti-HBc without HBsAg in serum. A rise in HBV DNA levels was identified within 1 to 6 months of starting ruxolitinib and was associated with ALT levels and jaundice in some patients. HBV DNA levels decreased rapidly upon starting anti-HBV therapy with entecavir and all patients recovered. In one instance, HBV DNA levels declined with lowering of the dose of ruxolitinib, but then rose again when the dose was increased.</p>
+          <p>Likelihood score: C (probable cause of reactivation of hepatitis B in susceptible patients).</p>
+        </sec>
+        <sec id="Ruxolitinib.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The causes of serum enzyme elevations during ruxolitinib therapy are not known. Ruxolitinib is metabolized in the liver largely through the CYP 3A4 pathway and liver injury may be related to production of a toxic intermediate. Ruxolitinib is susceptible to drug-drug interactions with agents that inhibit or induce hepatic CYP 3A4 activity. Because of its effects on intracellular signaling involved in immune responses, ruxolitinib (and possibly other JAK1 and JAK2 inhibitors) is capable to increasing HBV replication which can result in clinically apparent reactivation of hepatitis B.</p>
+        </sec>
+        <sec id="Ruxolitinib.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>Serum aminotransferase elevations above 5 times the upper limit of normal (if confirmed) or any elevations accompanied by jaundice or symptoms should lead to dose reduction or temporary cessation. There does not appear to be cross reactivity in risk for hepatic injury between ruxolitinib and other kinase inhibitors. Ruxolitinib is capable of causing reactivation of hepatitis B and other opportunistic infections and patients should be screened for evidence of HBV infection before starting chemotherapy, including testing for HBsAg and anti-HBc. Those who are reactive for these virologic markers should be tested for serum HBV DNA and be considered for prophylaxis against HBV reactivation with a nucleoside analog such as tenofovir or entecavir. Alternatively, patients can be monitored for HBV DNA levels and therapy initiated with a significant rise (one or two log<sub>10</sub> IU/mL compared to baseline).</p>
+          <p>Drug Class: <related-object link-type="booklink" source-id="livertox" document-id="AntineoplasticAgents" document-type="chapter">Antineoplastic Agents</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="ProteinKinaseInhibit" document-type="chapter">Protein Kinase Inhibitors</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Ruxolitinib.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <p>
+          <bold>REPRESENTATIVE TRADE NAMES</bold>
+        </p>
+        <p>Ruxolitinib &#x02013; Jakafi&#x000ae;</p>
+        <p>
+          <bold>DRUG CLASS</bold>
+        </p>
+        <p>Antineoplastic Agents</p>
+        <p>
+          <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?label=all&#x00026;query=Ruxolitinib">COMPLETE LABELING</ext-link>
+        </p>
+        <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+      </sec>
+      <sec id="Ruxolitinib.CHEMICAL_FORMULA_AND_STRUCTU">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Ruxolitinib.Tc" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th id="hd_h_Ruxolitinib.Tc_1_1_1_1" valign="top" align="left" scope="col" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Ruxolitinib.Tc_1_1_1_2" valign="top" align="left" scope="col" rowspan="1" colspan="1">CAS REGISTRY NO.</th>
+                <th id="hd_h_Ruxolitinib.Tc_1_1_1_3" valign="top" align="left" scope="col" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Ruxolitinib.Tc_1_1_1_4" valign="top" align="left" scope="col" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Ruxolitinib.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Ruxolitinib</td>
+                <td headers="hd_h_Ruxolitinib.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135263142">941678-49-5</ext-link>
+                </td>
+                <td headers="hd_h_Ruxolitinib.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">C17-H18-N6</td>
+                <td headers="hd_h_Ruxolitinib.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">
+                  <related-object link-type="ext-image-back-link" source-id="pubchem" document-id="135263142" document-id-type="sid" document-type="summary" object-id="135263142" object-id-type="sid" object-type="image"/>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Ruxolitinib.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 12 December 2020</p>
+        <p>Abbreviations: GvHD, graft-vs-host disease; HCT, hematopoietic cell transplantation; JAK, Janus kinase.</p>
+        <ref-list id="Ruxolitinib.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Ruxolitinib.REF.zimmerman.1999">
+            <mixed-citation publication-type="book">Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999.<annotation><p><italic toggle="yes">(Review of hepatotoxicity published in 1999 before the availability of tyrosine kinase inhibitors such as ruxolitinib).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Ruxolitinib.REF.deleve.2013">
+            <mixed-citation publication-type="book">DeLeve LD. Erlotinib. Cancer chemotherapy. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013, pp. 556.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of cancer chemotherapeutic agents discusses several tyrosine kinase inhibitors including imatinib, gefitinib, erlotinib and crizotinib, but not ruxolitinib).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Ruxolitinib.REF.wellstein.2018">
+            <mixed-citation publication-type="book">Wellstein A, Giaccone G, Atkins MB, Sausville EA. Pathway-targeted therapies: monoclonal antibodies, protein kinase inhibitors, and various small molecules. In, Brunton LL, Hilal-Dandan R, Knollman BC, eds. Goodman &#x00026; Gilman's the pharmacological basis of therapeutics. 13th ed. New York: McGraw-Hill, 2018, pp. 1203-36.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Ruxolitinib.REF.verstovsek.2010.1117">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Verstovsek</surname>
+                  <given-names>S</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Kantarjian</surname>
+                  <given-names>H</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Mesa</surname>
+                  <given-names>RA</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Pardanani</surname>
+                  <given-names>AD</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Cortes-Franco</surname>
+                  <given-names>J</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Thomas</surname>
+                  <given-names>DA</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Estrov</surname>
+                  <given-names>Z</given-names>
+                </name>
+                <etal/>
+              </person-group>
+              <article-title>Safety and efficacy of INCB018424, a JAK1 and JAK2 inhibitor, in myelofibrosis.</article-title>
+              <source>N Engl J Med</source>
+              <year>2010</year>
+              <volume>363</volume>
+              <fpage>1117</fpage>
+              <lpage>27</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Among 153 patients with myelofibrosis treated with varying doses of ruxolitinib, the optimal regimen was 15 mg twice daily, with subsequent dose modifications, a regimen that yielded a 50% rapid, objective response regardless of JAK mutation status; side effects included dose related thrombocytopenia and anemia while nonhematologic side effects were uncommon [&#x0003c;6%] and included diarrhea, fatigue, headache, and peripheral edema; no mention of ALT elevations of hepatotoxicity).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">20843246</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ruxolitinib.REF.tefferi.2011.1188">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Tefferi</surname>
+                  <given-names>A</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Pardanani</surname>
+                  <given-names>A</given-names>
+                </name>
+              </person-group>
+              <article-title>Serious adverse events during ruxolitinib treatment discontinuation in patients with myelofibrosis.</article-title>
+              <source>Mayo Clin Proc</source>
+              <year>2011</year>
+              <volume>86</volume>
+              <fpage>1188</fpage>
+              <lpage>91</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Among 47 patients with myelofibrosis who discontinued ruxolitinib treatment, most patients had an acute relapse of symptoms within a few days or weeks of stopping and 5 required hospitalization because of suspected systemic inflammatory response syndrome with high fevers, respiratory distress, thromboses and anemia, often responding to corticosteroid therapy).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">22034658</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ruxolitinib.REF.verstovsek.2012.799">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Verstovsek</surname>
+                  <given-names>S</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Mesa</surname>
+                  <given-names>RA</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Gotlib</surname>
+                  <given-names>J</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Levy</surname>
+                  <given-names>RS</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Gupta</surname>
+                  <given-names>V</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>DiPersio</surname>
+                  <given-names>JF</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Catalano</surname>
+                  <given-names>JV</given-names>
+                </name>
+                <etal/>
+              </person-group>
+              <article-title>A double-blind, placebo-controlled trial of ruxolitinib for myelofibrosis.</article-title>
+              <source>N Engl J Med</source>
+              <year>2012</year>
+              <volume>366</volume>
+              <fpage>799</fpage>
+              <lpage>807</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(In a study of 309 patients with intermediate or high risk myelofibrosis treated for up to 1 year, objective responses [reduction in spleen volume] occurred in 42% of ruxolitinib, but &#x0003c;1% of placebo treated subjects; adverse events more common with ruxolitinib included thrombocytopenia [70% vs 30%], anemia [96% vs 87%], bruising [19% vs 9%] and dizziness [15% vs &#x0003c;1%]; no mention of ALT elevations or hepatotoxicity).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">22375971</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ruxolitinib.REF7">
+            <element-citation publication-type="journal">
+              <article-title>Ruxolitinib (Jakafi) for myelofibrosis.</article-title>
+              <source>Med Lett Drugs Ther</source>
+              <year>2012</year>
+              <volume>54</volume>
+              <issue>1387</issue>
+              <fpage>27</fpage>
+              <lpage>8</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Concise review of efficacy and safety of ruxolitinib as therapy for myelofibrosis, mentions severe withdrawal symptoms when the drug is stopped that may require corticosteroids).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">22469651</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ruxolitinib.REF.harrison.2012.787">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Harrison</surname>
+                  <given-names>C</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Kiladjian</surname>
+                  <given-names>JJ</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Al-Ali</surname>
+                  <given-names>HK</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Gisslinger</surname>
+                  <given-names>H</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Waltzman</surname>
+                  <given-names>R</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Stalbovskaya</surname>
+                  <given-names>V</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>McQuitty</surname>
+                  <given-names>M</given-names>
+                </name>
+                <etal/>
+              </person-group>
+              <article-title>JAK inhibition with ruxolitinib versus best available therapy for myelofibrosis.</article-title>
+              <source>N Engl J Med.</source>
+              <year>2012</year>
+              <volume>366</volume>
+              <fpage>787</fpage>
+              <lpage>98</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Among 219 patients with intermediate or high risk myelofibrosis treated with ruxolitinib or best available therapy for at least one year, improvement in clinical symptoms and shrinkage of spleen size occurred with ruxolitinib, but rarely without; listing of severe adverse events included one death from hepatic failure, but it was considered unrelated to ruxolitinib therapy).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">22375970</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ruxolitinib.REF.verstovsek.2013.1865">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Verstovsek</surname>
+                  <given-names>S</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Mesa</surname>
+                  <given-names>RA</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Gotlib</surname>
+                  <given-names>J</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Levy</surname>
+                  <given-names>RS</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Gupta</surname>
+                  <given-names>V</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>DiPersio</surname>
+                  <given-names>JF</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Catalano</surname>
+                  <given-names>JV</given-names>
+                </name>
+                <etal/>
+              </person-group>
+              <article-title>Efficacy, safety and survival with ruxolitinib in patients with myelofibrosis: results of a median 2-year follow-up of COMFORT-I.</article-title>
+              <source>Haematologica</source>
+              <year>2013</year>
+              <volume>98</volume>
+              <fpage>1865</fpage>
+              <lpage>71</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Among 155 patients with myelofibrosis treated with ruxolitinib, 100 continued on therapy with a median follow up of 2 years; most common side effects were dose related thrombocytopenia and anemia and nonhematologic side effects of bruising, headache and diarrhea; no mention of hepatotoxicity or ALT elevations).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">24038026</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ruxolitinib.REF.kantarjian.2013.638">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Kantarjian</surname>
+                  <given-names>HM</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Silver</surname>
+                  <given-names>RT</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Komrokji</surname>
+                  <given-names>RS</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Mesa</surname>
+                  <given-names>RA</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Tacke</surname>
+                  <given-names>R</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Harrison</surname>
+                  <given-names>CN</given-names>
+                </name>
+              </person-group>
+              <article-title>Ruxolitinib for myelofibrosis--an update of its clinical effects.</article-title>
+              <source>Clin Lymphoma Myeloma Leuk</source>
+              <year>2013</year>
+              <volume>13</volume>
+              <fpage>638</fpage>
+              <lpage>45</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Review of the efficacy and safety of ruxolitinib as therapy of myelofibrosis, the major severe side effects being hematologic; no discussion of hepatotoxicity or ALT elevations).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">24238036</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ruxolitinib.REF.spraggs.2013.541">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Spraggs</surname>
+                  <given-names>CF</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Xu</surname>
+                  <given-names>CF</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Hunt</surname>
+                  <given-names>CM</given-names>
+                </name>
+              </person-group>
+              <article-title>Genetic characterization to improve interpretation and clinical management of hepatotoxicity caused by tyrosine kinase inhibitors.</article-title>
+              <source>Pharmacogenomics</source>
+              <year>2013</year>
+              <volume>14</volume>
+              <fpage>541</fpage>
+              <lpage>54</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Review of genetic associations of serum ALT and bilirubin elevations during therapy with tyrosine kinase inhibitors focusing on lapatinib and pazopanib).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">23556451</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ruxolitinib.REF.shah.2013.491">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Shah</surname>
+                  <given-names>RR</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Morganroth</surname>
+                  <given-names>J</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Shah</surname>
+                  <given-names>DR</given-names>
+                </name>
+              </person-group>
+              <article-title>Hepatotoxicity of tyrosine kinase inhibitors: clinical and regulatory perspectives.</article-title>
+              <source>Drug Saf</source>
+              <year>2013</year>
+              <volume>36</volume>
+              <fpage>491</fpage>
+              <lpage>503</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Review of the hepatotoxicity of 18 tyrosine kinase inhibitors approved for use in cancer in the US as of 2013; aminotransferase elevations occurred in 18% of patients in registration trials of ruxolitinib, but were rarely above 5 times ULN and cases of clinically apparent liver injury have not been reported).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">23620168</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ruxolitinib.REF.cervantes.2013.4047">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Cervantes</surname>
+                  <given-names>F</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Vannucchi</surname>
+                  <given-names>AM</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Kiladjian</surname>
+                  <given-names>JJ</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Al-Ali</surname>
+                  <given-names>HK</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Sirulnik</surname>
+                  <given-names>A</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Stalbovskaya</surname>
+                  <given-names>V</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>McQuitty</surname>
+                  <given-names>M</given-names>
+                </name>
+                <etal/>
+                <collab>COMFORT-II investigators</collab>
+              </person-group>
+              <article-title>Three-year efficacy, safety, and survival findings from COMFORT-II, a phase 3 study comparing ruxolitinib with best available therapy for myelofibrosis.</article-title>
+              <source>Blood</source>
+              <year>2013</year>
+              <volume>122</volume>
+              <fpage>4047</fpage>
+              <lpage>53</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(In a 3 year open label extension of a trial of ruxolitinib versus placebo in patients with myelofibrosis [Harrison 2012], 106 patients remained on ruxolitinib for an average of 3 years, responses were maintained with continuation of therapy and adverse events were mostly mild, the most common being diarrhea; no mention of ALT elevations or hepatotoxicity).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">24174625</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ruxolitinib.REF.verstovsek.2014.513">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Verstovsek</surname>
+                  <given-names>S</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Passamonti</surname>
+                  <given-names>F</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Rambaldi</surname>
+                  <given-names>A</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Barosi</surname>
+                  <given-names>G</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Rosen</surname>
+                  <given-names>PJ</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Rumi</surname>
+                  <given-names>E</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Gattoni</surname>
+                  <given-names>E</given-names>
+                </name>
+                <etal/>
+              </person-group>
+              <article-title>A phase 2 study of ruxolitinib, an oral JAK1 and JAK2 Inhibitor, in patients with advanced polycythemia vera who are refractory or intolerant to hydroxyurea.</article-title>
+              <source>Cancer</source>
+              <year>2014</year>
+              <volume>120</volume>
+              <fpage>513</fpage>
+              <lpage>20</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Among 34 patients with polycythemia vera treated with ruxolitinib, 97% had an objective response and side effects were not common and generally mild; no mention of ALT elevations or hepatotoxicity).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">24258498</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ruxolitinib.REF.galli.2014.967">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Galli</surname>
+                  <given-names>S</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>McLornan</surname>
+                  <given-names>D</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Harrison</surname>
+                  <given-names>C</given-names>
+                </name>
+              </person-group>
+              <article-title>Safety evaluation of ruxolitinib for treating myelofibrosis.</article-title>
+              <source>Expert Opin Drug Saf</source>
+              <year>2014</year>
+              <volume>13</volume>
+              <fpage>967</fpage>
+              <lpage>76</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Review of the mode of action, pharmacology, clinical efficacy and safety of ruxolitinib does not discuss frequency of ALT elevations during therapy or clinically apparent hepatotoxicity).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">24896661</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ruxolitinib.REF.caocci.2014.225">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Caocci</surname>
+                  <given-names>G</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Murgia</surname>
+                  <given-names>F</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Podda</surname>
+                  <given-names>L</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Solinas</surname>
+                  <given-names>A</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Atzeni</surname>
+                  <given-names>S</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>La Nasa</surname>
+                  <given-names>G.</given-names>
+                </name>
+              </person-group>
+              <article-title>Reactivation of hepatitis B virus infection following ruxolitinib treatment in a patient with myelofibrosis.</article-title>
+              <source>Leukemia</source>
+              <year>2014</year>
+              <volume>28</volume>
+              <fpage>225</fpage>
+              <lpage>7</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(49 year old woman with thrombocytopenic myelofibrosis and HBsAg in serum [HBeAg and HBV DNA &#x0003c;10 IU/mL] developed rising levels of HBV DNA within 5 months of starting ruxolitinib [20 mg twice daily], decreasing with lowering dose [15 mg twice daily] and increasing again with full dose, but without liver test abnormalities [ALT normal, HBV DNA 38,300 IU/mL] and HBV DNA levels declining with lowering dose again).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">23929216</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ruxolitinib.REF.shen.2014.1075">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Shen</surname>
+                  <given-names>CH</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Hwang</surname>
+                  <given-names>CE</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Chen</surname>
+                  <given-names>YY</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Chen</surname>
+                  <given-names>CC</given-names>
+                </name>
+              </person-group>
+              <article-title>Hepatitis B virus reactivation associated with ruxolitinib.</article-title>
+              <source>Ann Hematol</source>
+              <year>2014</year>
+              <volume>93</volume>
+              <fpage>1075</fpage>
+              <lpage>6</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(72 year old man with essential thrombocythemia and HBsAg in serum [ALT 22 U/L] developed abnormal liver tests 8 months after starting ruxolitinib [peak bilirubin 1.8 mg/dL, ALT 291 U/L, HBV DNA 7 log10 copies/mL], resolving within 8 weeks of stopping ruxolitinib and 6 weeks of starting entecavir).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">24173089</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ruxolitinib.REF.chalasani.2015.1340">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Chalasani</surname>
+                  <given-names>N</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Bonkovsky</surname>
+                  <given-names>HL</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Fontana</surname>
+                  <given-names>R</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Lee</surname>
+                  <given-names>W</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Stolz</surname>
+                  <given-names>A</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Talwalkar</surname>
+                  <given-names>J</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Reddy</surname>
+                  <given-names>KR</given-names>
+                </name>
+                <etal/>
+                <collab>United States Drug Induced Liver Injury Network</collab>
+              </person-group>
+              <article-title>Features and outcomes of 899 patients with drug-induced liver injury: The DILIN Prospective Study.</article-title>
+              <source>Gastroenterology</source>
+              <year>2015</year>
+              <volume>148</volume>
+              <fpage>1340</fpage>
+              <lpage>52.e7</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Among 899 cases of drug induced liver injury enrolled in a US prospective study between 2004 and 2013, 49 were attributed to antineoplastic agents [5.5%], 3 of which were attributed to kinase inhibitors [imatinib, lapatinib], but none to ruxolitinib).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">25754159</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ruxolitinib.REF.kirito.2016.1341">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Kirito</surname>
+                  <given-names>K</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Sakamoto</surname>
+                  <given-names>M</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Enomoto</surname>
+                  <given-names>N</given-names>
+                </name>
+              </person-group>
+              <article-title>Elevation of the hepatitis B virus DNA during the treatment of polycythemia vera with the JAK kinase inhibitor ruxolitinib.</article-title>
+              <source>Intern Med</source>
+              <year>2016</year>
+              <volume>55</volume>
+              <fpage>1341</fpage>
+              <lpage>4</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(64 year old woman with polycythemia vera [ALT normal, HBeAg negative, HBV DNA 5.4 log<sub>10</sub> copies/mL] developed liver test abnormalities 1 month after starting ruxolitinib [bilirubin normal, ALT 352 U/L, HBV DNA 7.2 log<sub>10</sub> copies/mL], responding within 2 weeks of starting entecavir with normal ALT and HBV DNA 3.6 log<sub>10</sub> copies/mL).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">27181544</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ruxolitinib.REF.perricone.2017.719">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Perricone</surname>
+                  <given-names>G</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Vinci</surname>
+                  <given-names>M</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Pungolino</surname>
+                  <given-names>E.</given-names>
+                </name>
+              </person-group>
+              <article-title>Occult hepatitis B infection reactivation after ruxolitinib therapy.</article-title>
+              <source>Dig Liver Dis</source>
+              <year>2017</year>
+              <volume>49</volume>
+              <fpage>719</fpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Two men, ages 57 and 73 years, with polycythemia vera and anti-HBc without HBsAg in serum developed increasing levels of HBV DNA [from 39 to 840 IU/mL and &#x0003c;10 to 42.2 million IU/mL] 2 and 5 months after starting ruxolitinib, both responding to entecavir therapy, but one developing self-limited, but severe acute hepatitis).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">28410914</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ruxolitinib.REF.tremblay.2019.3294046">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Tremblay</surname>
+                  <given-names>D</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Putra</surname>
+                  <given-names>J</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Vogel</surname>
+                  <given-names>A</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Winters</surname>
+                  <given-names>A</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Hoffman</surname>
+                  <given-names>R</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Schiano</surname>
+                  <given-names>TD</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Fiel</surname>
+                  <given-names>MI</given-names>
+                </name>
+                <etal/>
+              </person-group>
+              <article-title>The implications of liver biopsy results in patients with myeloproliferative neoplasms being treated with ruxolitinib.</article-title>
+              <source>Case Rep Hematol</source>
+              <year>2019</year>
+              <volume>2019</volume>
+              <elocation-id>3294046</elocation-id>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Description of 4 cases of liver injury associated with ruxolitinib therapy, 49 to 74 year old men with rising ALT or Alk P during therapy and liver biopsies showing extramedullary hematopoiesis attributed to the underlying myelofibrosis in 3 and granulomatous hepatitis with loss of bile ducts attributed to drug induced liver injury in one, but few details given).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">30723558</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ruxolitinib.REF.foltz.2019.3493">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Foltz</surname>
+                  <given-names>L</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Pica</surname>
+                  <given-names>GM</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Zerazhi</surname>
+                  <given-names>H</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Van Droogenbroeck</surname>
+                  <given-names>J</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Visanica</surname>
+                  <given-names>S</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>B&#x000e1;ez de la Fuente</surname>
+                  <given-names>E</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Leber</surname>
+                  <given-names>B</given-names>
+                </name>
+                <etal/>
+              </person-group>
+              <article-title>Safety and efficacy findings from the open-label, multicenter, phase 3b, expanded treatment protocol study of ruxolitinib for treatment of patients with polycythemia vera who are resistant/intolerant to hydroxyurea and for whom no alternative treatments are available.</article-title>
+              <source>Leuk Lymphoma</source>
+              <year>2019</year>
+              <volume>60</volume>
+              <fpage>3493</fpage>
+              <lpage>502</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Among 161 patients with polycythemia vera enrolled in an expanded access study of ruxolitinib for a median follow up of 25 weeks, adverse events were common and led to dose interruption or reduction in 40% of patients, most common adverse events being anemia [32%], thrombocytopenia [7%], headache [25%], diarrhea [14%]; no mention of ALT elevations or hepatotoxicity).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">31359808</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ruxolitinib.REF.lussana.2018.339">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Lussana</surname>
+                  <given-names>F</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Cattaneo</surname>
+                  <given-names>M</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Rambaldi</surname>
+                  <given-names>A</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Squizzato</surname>
+                  <given-names>A.</given-names>
+                </name>
+              </person-group>
+              <article-title>Ruxolitinib-associated infections: a systematic review and meta-analysis.</article-title>
+              <source>Am J Hematol</source>
+              <year>2018</year>
+              <volume>93</volume>
+              <fpage>339</fpage>
+              <lpage>47</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Systematic review of the literature on infections arising during ruxolitinib therapy focusing largely on bacterial infections and herpes zoster, mentions that there have been 5 case reports of reactivation of hepatitis B).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">29150886</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ruxolitinib.REF.gill.2019.215">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Gill</surname>
+                  <given-names>H</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Leung</surname>
+                  <given-names>GMK</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Seto</surname>
+                  <given-names>WK</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Kwong</surname>
+                  <given-names>YL</given-names>
+                </name>
+              </person-group>
+              <article-title>Risk of viral reactivation in patients with occult hepatitis B virus infection during ruxolitinib treatment.</article-title>
+              <source>Ann Hematol</source>
+              <year>2019</year>
+              <volume>98</volume>
+              <fpage>215</fpage>
+              <lpage>8</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Among 40 Chinese patients with myelodysplastic disorders treated with ruxolitinib, 3 were HBsAg positive and were given prophylactic entecavir, and 17 had anti-HBc without HBsAg in serum and were monitored closely 4 developing evidence of reactivation with de novo appearance of HBV DNA after 7-13 months of being treated, all were started on entecavir within 8-35 days and HBV DNA was cleared within 4 weeks, 2 subjects having mild, transient ALT elevations).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">29946910</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ruxolitinib.REF.jianguo.2020.e20191301">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Jianguo</surname>
+                  <given-names>L</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Zhixuan</surname>
+                  <given-names>Z</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Rong</surname>
+                  <given-names>L</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Xiaodong</surname>
+                  <given-names>S</given-names>
+                </name>
+              </person-group>
+              <article-title>Ruxolitinib in alleviating the cytokine storm of hemophagocytic lymphohistiocytosis.</article-title>
+              <source>Pediatrics</source>
+              <year>2020</year>
+              <volume>146</volume>
+              <elocation-id>e20191301</elocation-id>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(6 year old boy with idiopathic hemophagocytic lymphohistiocytic and chronic hepatitis B was treated with ruxolitinib and entecavir and had a sustained remission and improvement in serum HBV DNA and no worsening of ALT levels).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32680878</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ruxolitinib.REF.kiladjian.2020.e226">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Kiladjian</surname>
+                  <given-names>JJ</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Zachee</surname>
+                  <given-names>P</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Hino</surname>
+                  <given-names>M</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Pane</surname>
+                  <given-names>F</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Masszi</surname>
+                  <given-names>T</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Harrison</surname>
+                  <given-names>CN</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Mesa</surname>
+                  <given-names>R</given-names>
+                </name>
+                <etal/>
+              </person-group>
+              <article-title>Long-term efficacy and safety of ruxolitinib versus best available therapy in polycythaemia vera (RESPONSE): 5-year follow up of a phase 3 study.</article-title>
+              <source>Lancet Haematol</source>
+              <year>2020</year>
+              <volume>7</volume>
+              <issue>3</issue>
+              <fpage>e226</fpage>
+              <lpage>e237</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Among 222 patients with polycythemia vera treated with ruxolitinib or best available therapy for at least 80 weeks with cross over to ruxolitinib and continuation for 5 years in 65% of patients, durable response rates were seen only with ruxolitinib therapy and side effects were common but there were no treatment- or liver related deaths and no mention of ALT elevations or hepatotoxicity).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">31982039</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ruxolitinib.REF.alali.2020.888">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Al-Ali</surname>
+                  <given-names>HK</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Griesshammer</surname>
+                  <given-names>M</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Foltz</surname>
+                  <given-names>L</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Palumbo</surname>
+                  <given-names>GA</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Martino</surname>
+                  <given-names>B</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Palandri</surname>
+                  <given-names>F</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Liberati</surname>
+                  <given-names>AM</given-names>
+                </name>
+                <etal/>
+              </person-group>
+              <article-title>Primary analysis of JUMP, a phase 3b, expanded-access study evaluating the safety and efficacy of ruxolitinib in patients with myelofibrosis, including those with low platelet counts.</article-title>
+              <source>Br J Haematol</source>
+              <year>2020</year>
+              <volume>189</volume>
+              <fpage>888</fpage>
+              <lpage>903</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Among 2233 patients with myelofibrosis treated in an expanded access study of ruxolitinib with a median duration of exposure of 12.4 months, ALT elevations were reported in 6% of patients and were above 5 times the ULN in 1.1%).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32017044</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ruxolitinib.REF.jagasia.2020.1739">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Jagasia</surname>
+                  <given-names>M</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Perales</surname>
+                  <given-names>MA</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Schroeder</surname>
+                  <given-names>MA</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Ali</surname>
+                  <given-names>H</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Shah</surname>
+                  <given-names>NN</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Chen</surname>
+                  <given-names>YB</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Fazal</surname>
+                  <given-names>S</given-names>
+                </name>
+                <etal/>
+              </person-group>
+              <article-title>Ruxolitinib for the treatment of steroid-refractory acute GVHD (REACH1): a multicenter, open-label phase 2 trial.</article-title>
+              <source>Blood</source>
+              <year>2020</year>
+              <volume>135</volume>
+              <fpage>1739</fpage>
+              <lpage>49</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Among 71 patients with corticosteroid-resistant GvHD treated with ruxolitinib, the overall response rate by day 28 was 55% and ultimately in 73% while adverse events were common [97%] including anemia, thrombocytopenia and neutropenia, often leading to drug discontinuation [32%], while ALT elevations arose in 18 [25%] and were above 5 times ULN in 4 subjects [6%]).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32160294</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ruxolitinib.REF.zeiser.2020.1800">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Zeiser</surname>
+                  <given-names>R</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>von Bubnoff</surname>
+                  <given-names>N</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Butler</surname>
+                  <given-names>J</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Mohty</surname>
+                  <given-names>M</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Niederwieser</surname>
+                  <given-names>D</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Or</surname>
+                  <given-names>R</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Szer</surname>
+                  <given-names>J</given-names>
+                </name>
+                <etal/>
+                <collab>REACH2 Trial Group</collab>
+              </person-group>
+              <article-title>Ruxolitinib for glucocorticoid-refractory acute graft-versus-host disease.</article-title>
+              <source>N Engl J Med</source>
+              <year>2020</year>
+              <volume>382</volume>
+              <fpage>1800</fpage>
+              <lpage>10</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Among 309 patients with acute steroid-resistant GvHD treated with ruxolitinib or placebo for an average of 63 days, overall response rates were higher with ruxolitinib while adverse event rates were similar including any ALT elevation [7% vs 7%] and elevations above 5 times ULN [4% vs 3%] and there were no instances of clinically apparent liver injury).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32320566</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ruxolitinib.REF.cao.2020.137">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Cao</surname>
+                  <given-names>Y</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Wei</surname>
+                  <given-names>J</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Zou</surname>
+                  <given-names>L</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Jiang</surname>
+                  <given-names>T</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Wang</surname>
+                  <given-names>G</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Chen</surname>
+                  <given-names>L</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Huang</surname>
+                  <given-names>L</given-names>
+                </name>
+                <etal/>
+              </person-group>
+              <article-title>Ruxolitinib in treatment of severe coronavirus disease 2019 (COVID-19): A&#x000a0;multicenter, single-blind, randomized controlled trial.</article-title>
+              <source>J Allergy Clin Immunol</source>
+              <year>2020</year>
+              <volume>146</volume>
+              <fpage>137</fpage>
+              <lpage>146.e3</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Among 41 Chinese patients with severe COVID-19 who were treated with ruxolitinib or placebo for 28 days, time to recovery was numerically but not significantly shorter [12 vs 15 days] and similarly mortality was lower [0% vs 14%] with ruxolitinib and while overall adverse event rates were similar, ALT elevations were more frequent with ruxolitinib [35% vs 9.5%]).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32470486</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ruxolitinib.REF.zhao.2020.1075">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Zhao</surname>
+                  <given-names>Y</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Wu</surname>
+                  <given-names>H</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Shi</surname>
+                  <given-names>J</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Luo</surname>
+                  <given-names>Y</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Li</surname>
+                  <given-names>X</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Lan</surname>
+                  <given-names>J</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Ni</surname>
+                  <given-names>W</given-names>
+                </name>
+                <etal/>
+              </person-group>
+              <article-title>Ruxolitinib combined with etanercept induce a rapid response to corticosteroid-refractory severe acute graft vs host disease after allogeneic stem cell transplantation: Results of a multi-center prospective study.</article-title>
+              <source>Am J Hematol</source>
+              <year>2020</year>
+              <volume>95</volume>
+              <fpage>1075</fpage>
+              <lpage>84</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Among 64 patients with acute, corticosteroid-resistant GvHD after HCT who were treated with the combination of etanercept and ruxolitinib, the response rate was 88% and while infectious adverse events were common, there was no mention of ALT elevations or hepatotoxicity).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32510625</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ruxolitinib.REF.barraco.2020">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Barraco</surname>
+                  <given-names>F</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Greil</surname>
+                  <given-names>R</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Herbrecht</surname>
+                  <given-names>R</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Schmidt</surname>
+                  <given-names>B</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Reiter</surname>
+                  <given-names>A</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Willenbacher</surname>
+                  <given-names>W</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Raymakers</surname>
+                  <given-names>R</given-names>
+                </name>
+                <etal/>
+              </person-group>
+              <article-title>Real-world non-interventional long-term post-authorisation safety study of ruxolitinib in myelofibrosis.</article-title>
+              <source>Br J Haematol</source>
+              <year>2020</year>
+              <month>Jun</month>
+              <day>24</day>
+              <comment>Epub ahead of print</comment>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Among 426 patients with myelofibrosis with an average follow up of 26 months, those treated with ruxolitinib [n=259] compared to non-exposed patients [n=167] were more likely to have serious adverse events [65% to 80% vs 43%] including severe infections [49% to 68% vs 27.5%] and bleeding [31% to 41% vs 22%] and malignancies [14 to 27% vs 7%), but ALT and hepatotoxicity were not mentioned).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32583458</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ruxolitinib.REF.innes.2020.e198">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Innes</surname>
+                  <given-names>AJ</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Cook</surname>
+                  <given-names>LB</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Marks</surname>
+                  <given-names>S</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Bataillard</surname>
+                  <given-names>E</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Crossette-Thambiah</surname>
+                  <given-names>C</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Sivasubramaniam</surname>
+                  <given-names>G</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Apperley</surname>
+                  <given-names>J</given-names>
+                </name>
+                <etal/>
+              </person-group>
+              <article-title>Ruxolitinib for tocilizumab-refractory severe COVID-19 infection.</article-title>
+              <source>Br J Haematol</source>
+              <year>2020</year>
+              <volume>190</volume>
+              <fpage>e198</fpage>
+              <lpage>e200</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(53 year old man with a history of HCT for chronic myelogenous leukemia developed severe COVID-19 pneumonia with a hyperinflammatory response that did not respond to tocilizumab, but improved and recovered with initiation of a 28-day course of ruxolitinib).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32593183</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ruxolitinib.REF.saraceni.2020.e13401">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Saraceni</surname>
+                  <given-names>F</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Scortechini</surname>
+                  <given-names>I</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Mancini</surname>
+                  <given-names>G</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Mariani</surname>
+                  <given-names>M</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Federici</surname>
+                  <given-names>I</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Gaetani</surname>
+                  <given-names>M</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Barbatelli</surname>
+                  <given-names>P</given-names>
+                </name>
+                <etal/>
+              </person-group>
+              <article-title>Severe COVID-19 in a patient with chronic graft-versus-host disease after hematopoietic stem cell transplant successfully treated with ruxolitinib.</article-title>
+              <source>Transpl Infect Dis</source>
+              <year>2020</year>
+              <month>Jul</month>
+              <day>6</day>
+              <elocation-id>e13401</elocation-id>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(59 year old man with mild chronic GvHD after HCT for myelofibrosis developed COVID-19 pneumonia at which time ruxolitinib was stopped but he subsequently worsened with respiratory failure, then improved once ruxolitinib was restarted without adverse events and with subsequent recovery).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32629531</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ruxolitinib.REF.hou.2020">
+            <mixed-citation publication-type="other">Hou C, Dou L, Jia M, Li F, Wang S, Gao X, Wang L, Jin X, Wang L, Gao C, Liu D. Ruxolitinib Combined with Corticosteroids as first-line therapy for acute graft-versus-host disease in haploidentical peripheral blood stem cell transplantation recipients. Biol Blood Marrow Transplant 2020: S1083-8791(20)30577-2.<annotation><p><italic toggle="yes">(Among 32 patients with acute GvHD after HCT treated with methylprednisolone and ruxolitinib, response rate at 6 months was 97% and &#x0201c;no hepatotoxicity was observed&#x0201d;).</italic></p></annotation></mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec sec-type="link-group" id="Ruxolitinib.OTHER_REFERENCE_LINKS">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <label>1</label>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=Ruxolitinib+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D:%222999/12/31%22%5BEDat%5D)">Recent References on Ruxolitinib: from PubMed.gov</ext-link>
+            </p>
+          </list-item>
+          <list-item>
+            <label>2</label>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Ruxolitinib">Trials on Ruxolitinib: from ClinicalTrials.gov</ext-link>
+            </p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

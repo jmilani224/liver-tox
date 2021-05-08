@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Rucaparib" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Rucaparib</book-part-id>
+      <title-group>
+        <title>Rucaparib</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>1</day>
+          <month>6</month>
+          <year>2017</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Rotigotine" document-type="chapter">Rotigotine</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Rufinamide" document-type="chapter">Rufinamide</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Rucaparib.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Rucaparib.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Rucaparib is a small molecule inhibitor of poly ADP-ribose polymerase that is used in the therapy of selected patients with refractory and advanced ovarian carcinoma. Rucaparib therapy is associated with a moderate rate of transient elevations in serum aminotransferase during therapy, but has not been linked to instances of clinically apparent liver injury.</p>
+        </sec>
+        <sec id="Rucaparib.Background">
+          <title>Background</title>
+          <p>Rucaparib (roo kap' a rib) is an orally available, small molecule inhibitor of poly adenine diphosphate (ADP)-ribose polymerase (PARP), an enzyme involved in DNA transcription and repair. Patients with mutations of the BRCA 1 and 2 genes are at increased risk for cancer, particularly ovarian and breast cancer in women. The BRCA gene encodes DNA repair enzymes, and tumor cells with BRCA mutations are dependent upon other pathways of DNA repair and thus have increased sensitivity to inhibition of PARP. Clinical trials of rucaparib in women with BRCA 1 and 2 germline mutations and advanced, refractory ovarian carcinoma have shown response rates of 30% to 40% and prolongation of progression free survival. Rucaparib is also under evaluation as therapy for advanced breast cancer and other malignant diseases associated mutations in BRCA or other DNA repair enzymes. Rucaparib received approval for use in the United States in 2016 for therapy of advanced and refractory ovarian carcinoma in women with deleterious BRAC mutations. Rucaparib is available in 200 and 300 mg tablets under the brand name Rubraca. The recommended dose is 600 mg by mouth twice daily continued until disease progression or unacceptable toxicity occurs. Common side effects include anemia, fatigue, nausea, diarrhea, constipation, dyspepsia, abdominal pain, anorexia, shortness of breath and thrombocytopenia. Uncommon, but potentially severe side effects include myelodysplastic syndrome and embryo-fetal toxicity.</p>
+        </sec>
+        <sec id="Rucaparib.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>In large clinical trials of rucaparib, abnormalities in routine liver tests were common; serum ALT elevations arising in 74% with values above 5 times the upper limit of normal (ULN) in 13%. Despite the frequency of serum enzyme elevations during therapy in clinical trials, there were no reports of hepatitis with jaundice or liver failure. Subsequent to its approval and more wide scale use, there have been no published reports of clinically apparent liver injury attributed to rucaparib. Thus, rucaparib is a frequent cause of serum enzyme elevations, but has not been linked to significant hepatotoxicity.</p>
+          <p>Likelihood score: E* (unproven but suspected cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Rucaparib.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The mechanism of injury accounting for the frequent serum enzyme elevations during rucaparib therapy is not known. Rucaparib is metabolized in the liver largely through the CYP 2D6 pathway and to a lesser extent by CYP1A2 and 3A4. Drug-drug interactions have not been described with rucaparib, but have not been systematically studied in humans.</p>
+        </sec>
+        <sec id="Rucaparib.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>Serum aminotransferase elevations above 5 times the upper limit of normal (if confirmed) should lead to dose reduction or temporary cessation. There does not appear to be cross reactivity in risk for hepatic injury between rucaparib and other PARP inhibitors such as olaparib.</p>
+          <p>Drug Class: <related-object source-id="livertox" document-id="AntineoplasticAgents">Antineoplastic Agents</related-object>, <related-object source-id="livertox" document-id="ProteinKinaseInhibit">Protein Kinase Inhibitors</related-object></p>
+          <p>Other PARP Drugs: <related-object source-id="livertox" document-id="Niraparib">Niraparib</related-object>, <related-object source-id="livertox" document-id="Olaparib">Olaparib</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Rucaparib.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <boxed-text position="anchor" id="Rucaparib.BPI" orientation="portrait">
+          <p>
+            <bold>REPRESENTATIVE TRADE NAMES</bold>
+          </p>
+          <p>Rucaparib &#x02013; Rubraca&#x000ae;</p>
+          <p>
+            <bold>DRUG CLASS</bold>
+          </p>
+          <p>Antineoplastic Agents</p>
+          <p>
+            <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?label=all&#x00026;query=Rucaparib">COMPLETE LABELING</ext-link>
+          </p>
+          <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+        </boxed-text>
+      </sec>
+      <sec id="Rucaparib.CHEMICAL_FORMULA_AND_STRUCTURE">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Rucaparib.T1" position="anchor" orientation="portrait">
+          <table>
+            <thead>
+              <tr>
+                <th id="hd_h_Rucaparib.T1_1_1_1_1" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Rucaparib.T1_1_1_1_2" rowspan="1" colspan="1">CAS REGISTRY NO.</th>
+                <th id="hd_h_Rucaparib.T1_1_1_1_3" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Rucaparib.T1_1_1_1_4" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Rucaparib.T1_1_1_1_1" rowspan="1" colspan="1">Rucaparib</td>
+                <td headers="hd_h_Rucaparib.T1_1_1_1_2" rowspan="1" colspan="1">
+                  <bold>
+                    <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://162108736">283173-50-2</ext-link>
+                  </bold>
+                </td>
+                <td headers="hd_h_Rucaparib.T1_1_1_1_3" rowspan="1" colspan="1">Not available</td>
+                <td headers="hd_h_Rucaparib.T1_1_1_1_4" rowspan="1" colspan="1">
+                  <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Rucaparib_structure.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait">
+                    <alt-text>Rucaparib structure</alt-text>
+                  </graphic>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Rucaparib.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 01 June 2017</p>
+        <p>Abbreviations: PARP, poly adenine diphosphate ribose polymerase</p>
+        <ref-list id="Rucaparib.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Rucaparib.R1">
+            <mixed-citation publication-type="other">Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999.<annotation><p><italic toggle="yes">(Review of hepatotoxicity published in 1999 before the availability of protein kinase or PARP inhibitors such as olaparib and rucaparib).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Rucaparib.R2">
+            <mixed-citation publication-type="other">DeLeve LD. Erlotinib. Cancer chemotherapy. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013, pp. 556.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of cancer chemotherapeutic agents discusses several tyrosine kinase inhibitors including imatinib, gefitinib, erlotinib and crizotinib, but not olaparib or rucaparib).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Rucaparib.R3">
+            <mixed-citation publication-type="other">Chabner BA, Barnes J, Neal J, Olson E, Mujagic H, Sequist L, Wilson W, et al. Targeted therapies: tyrosine kinase inhibitors, monoclonal antibodies, and cytokines. In, Brunton LL, Chabner BA, Knollman BC, eds. Goodman &#x00026; Gilman's the pharmacological basis of therapeutics. 12th ed. New York: McGraw-Hill, 2011, pp. 1731-54.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Rucaparib.R4">
+            <mixed-citation publication-type="journal">Garnett MJ, Edelman EJ, Heidorn SJ, Greenman CD, Dastur A, Lau KW, Greninger P, et al. Systematic identification of genomic markers of drug sensitivity in cancer cells. Nature 2012; 483 (7391): 570-5. <annotation><p><italic toggle="yes">(Correlation of mutated cancer genes identified in cancer cell lines with their sensitivity to growth inhibition by antineoplastic agents revealed the possible role of PARP inhibition in several tumors including Ewing sarcoma).</italic></p></annotation><pub-id pub-id-type="pmid">22460902</pub-id></mixed-citation>
+          </ref>
+          <ref id="Rucaparib.R5">
+            <mixed-citation publication-type="journal">Plummer R, Lorigan P, Steven N, Scott L, Middleton MR, Wilson RH, Mulligan E, et al. A phase II study of the potent PARP inhibitor, Rucaparib (PF-01367338, AG014699), with temozolomide in patients with metastatic melanoma demonstrating evidence of chemopotentiation. Cancer Chemother Pharmacol 2013; 71: 1191-9. <annotation><p><italic toggle="yes">(Among 46 patients with metastatic melanoma treated with the combination of temozolomide and rucaparib [12 mg/m<sup>2</sup> intravenously for 5 days of 28-day cycles], found objective response rates of 17%; side effects including myelosuppression were common and one patient died of "hepatorenal failure").</italic></p></annotation><pub-id pub-id-type="pmid">23423489</pub-id></mixed-citation>
+          </ref>
+          <ref id="Rucaparib.R6">
+            <mixed-citation publication-type="journal">Shah RR, Morganroth J, Shah DR. Hepatotoxicity of tyrosine kinase inhibitors: clinical and regulatory perspectives. Drug Saf 2013; 36: 491-503. <annotation><p><italic toggle="yes">(Review of the hepatotoxicity of 18 tyrosine kinase inhibitors approved for use in cancer in the US as of 2013, discusses imatinib and sunitinib, but not olaparib or rucaparib).</italic></p></annotation><pub-id pub-id-type="pmid">23620168</pub-id></mixed-citation>
+          </ref>
+          <ref id="Rucaparib.R7">
+            <mixed-citation publication-type="journal">Ledford H. Resurrected cancer drug faces regulators. Nature 2014; 510 (7506): 454. <annotation><p><italic toggle="yes">(News report on olaparib, the initial PARP inhibitor, which in early clinical trials showed little effect on survival in women with ovarian carcinoma, but on reassessment limiting analysis of cases with BRCA mutations found evidence of an effect on cancer growth, reviving interest in pursuing olaparib as therapy of selected patients with ovarian cancer).</italic></p></annotation><pub-id pub-id-type="pmid">24965630</pub-id></mixed-citation>
+          </ref>
+          <ref id="Rucaparib.R8">
+            <mixed-citation publication-type="journal">Bao Z, Cao C, Geng X, Tian B, Wu Y, Zhang C, Chen Z, et al. Effectiveness and safety of poly (ADP-ribose) polymerase inhibitors in cancer therapy: A systematic review and meta-analysis. Oncotarget 2016; 7: 7629-39 <annotation><p><italic toggle="yes">(Systematic review of the efficacy and safety of PARP inhibitors in cancer chemotherapy; mentioned that in 5 placebo controlled trials, ALT elevations were no more frequent with the PARP inhibitors than in "controls", but neither were any other adverse events).</italic></p></annotation><pub-id pub-id-type="pmid">26399274</pub-id></mixed-citation>
+          </ref>
+          <ref id="Rucaparib.R9">
+            <mixed-citation publication-type="journal">Konecny GE, Kristeleit RS. PARP inhibitors for BRCA1/2-mutated and sporadic ovarian cancer: current practice and future directions. Br J Cancer 2016; 115: 1157-73. <annotation><p><italic toggle="yes">(Review of role of BRCA 1 and 2 mutations in tumorigenesis and the mechanism of action of PARP inhibitors).</italic></p></annotation><pub-id pub-id-type="pmid">27736844</pub-id></mixed-citation>
+          </ref>
+          <ref id="Rucaparib.R10">
+            <mixed-citation publication-type="journal">Ledermann JA. PARP inhibitors in ovarian cancer. Ann Oncol 2016; 27 Suppl 1: i40-i44. <annotation><p><italic toggle="yes">(Review of possible role of PARP inhibitors in ovarian cancer; mentions that cells with defective BRCA proteins are deficient in repair of double-stranded breaks in DNA by homologous recombination and rely on other pathways, notably PARP that detects single DNA strand breaks and activates effector proteins to initiate repair).</italic></p></annotation><pub-id pub-id-type="pmid">27141070</pub-id></mixed-citation>
+          </ref>
+          <ref id="Rucaparib.R11">
+            <mixed-citation publication-type="journal">Drew Y, Ledermann J, Hall G, Rea D, Glasspool R, Highley M, Jayson G, et al. Phase 2 multicentre trial investigating intermittent and continuous dosing schedules of the poly (ADP-ribose) polymerase inhibitor rucaparib in germline BRCA mutation carriers with advanced ovarian and breast cancer. Br J Cancer 2016; 114: 723-30. <annotation><p><italic toggle="yes">(Among 78 patients with BRCA 1 or 2 mutations and advanced ovarian or breast cancer treated with rucaparib, the objective response rate was 7% and adverse events were common but usually manageable; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">27002934</pub-id></mixed-citation>
+          </ref>
+          <ref id="Rucaparib.R12">
+            <mixed-citation publication-type="journal">Wilson RH, Evans TJ, Middleton MR, Molife LR, Spicer J, Dieras V, Roxburgh P, et al. A phase I study of intravenous and oral rucaparib in combination with chemotherapy in patients with advanced solid tumours. Br J Cancer 2017; 116 (7): 884-92. <annotation><p><italic toggle="yes">(Among 85 patients with advanced cancers treated with various chemotherapy regimens and rucaparib, 10 had at least a partial response and adverse events were common including fatigue, nausea, constipation and anemia; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">28222073</pub-id></mixed-citation>
+          </ref>
+          <ref id="Rucaparib.R13">
+            <mixed-citation publication-type="journal">Swisher EM, Lin KK, Oza AM, Scott CL, Giordano H, Sun J, Konecny GE, et al. Rucaparib in relapsed, platinum-sensitive high-grade ovarian carcinoma (ARIEL2 Part 1): an international, multicentre, open-label, phase 2 trial. Lancet Oncol 2017; 18: 75-87. <annotation><p><italic toggle="yes">(Among 204 patients with relapsed, platinum-sensitive ovarian cancer treated with rucaparib [600 mg twice daily], the median progression free survival was longer in those with BRCA mutations [12.8 months] than in those with other tumor mutations [5.7 and 5.2 months], while common side effects included ALT or AST elevations in 43% of patients that were above 5 times ULN in 12%, although there were no treatment related deaths).</italic></p></annotation><pub-id pub-id-type="pmid">27908594</pub-id></mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec id="Rucaparib.OTHER_REFERENCE_LINKS" sec-type="link-group">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=Rucaparib+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D%3A%222999/12/31%22%5BEDat%5D)">Recent References on Rucaparib: from PubMed.gov</ext-link>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Rucaparib">Trials on Rucaparib: from ClinicalTrials.gov</ext-link>
+            </p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

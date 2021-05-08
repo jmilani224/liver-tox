@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Dasatinib" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Dasatinib</book-part-id>
+      <title-group>
+        <title>Dasatinib</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>5</day>
+          <month>12</month>
+          <year>2017</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Darunavir" document-type="chapter">Darunavir</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Daunorubicin" document-type="chapter">Daunorubicin</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Dasatinib.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Dasatinib.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Dasatinib is a selective tyrosine kinase receptor inhibitor that is used in the therapy of chronic myelogenous leukemia (CML) positive for the Philadelphia chromosome. Dasatinib is commonly associated with transient elevations in serum aminotransferase levels during treatment, but with only rare instances of clinically apparent acute liver injury.</p>
+        </sec>
+        <sec id="Dasatinib.Background">
+          <title>Background</title>
+          <p>Dasatinib is an orally available, small molecule inhibitor of the unique BCR-ABL tyrosine kinase receptor, which is the product of a fusion gene resulting from the translocation between chromosomes 9 and 22 that underlies the Philadelphia chromosome of chronic myelogenous leukemia (CML). The abnormal tyrosine kinase receptor is constitutively expressed and causes abnormal cell growth and proliferation. Inhibition of the enzyme can lead to dramatic reversal of progression of leukemia and is highly effective, although limited by the development of tumor resistance caused by mutations in the kinase. Dasatinib is actually a multi-kinase inhibitor and also has activity against scr, c-Kit and ephrin receptors, among others. Dasatanib received approval for use in the United States in 2006 and is one of five such specific inhibitors of BCR-ABL approved for clinical use, the others being imatinib [2001], nilotinib [2007], bosutinib [2012] and ponatinib [2012]. Dasatinib is available in tablets of 20, 50, 70, 80, 100 and 140 mg under the brand name Sprycel. Current indications are for treatment of Philadelphia chromosome-positive CML in the chronic, accelerated or blast phase usually after failure of a previous treatment. It is also approved for use in adutls with Philadelphia chromcsome-positive acute lymphoblastic leukemia. The typical dose is 100 to 140 mg daily. Common side effects include bone marrow suppression, fluid retention, diarrhea, headache, muscle cramps, arthralgias, fatigue, dyspnea, cough, pleural effusions and rash. Rare, but potentially severe side effects include bone marrow suppression, QTc prolongation, heart failure and pulmonary artery hypertension.</p>
+        </sec>
+        <sec id="Dasatinib.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>In large clinical trials, elevations in serum aminotransferase levels during dasatinib therapy occurred in up to 50% of patients, but were usually mild and self-limited. Elevations above 5 times the upper limit of normal (ULN) occurred in 1% to 9% of patients and generally responded to dose adjustment or temporary discontinuation and restarting at a lower dose, which is recommended if liver test results are markedly elevated (ALT or AST persistently greater than 5 times ULN or bilirubin more than 3 times ULN). While episodes of marked serum aminotransferase elevations with symptoms have been reported, there have been no published reports of clinically apparent liver injury with jaundice attributed to dasatinib therapy. Certainly other tyrosine kinase receptor inhibitors used in the therapy of CML such as imatinib, nilotinib and ponatinib have been associated with cases of acute liver injury with jaundice. With these agents, the liver injury typically arises after several months of therapy and the pattern of serum enzyme elevations is typically hepatocellular. Immunoallergic features (rash, fever and eosinophilia) and autoantibody formation are usually not present.</p>
+          <p>Reactivation of hepatitis B has been reported with dasatinib as well as imatinib and nilotinib therapy. Reactivation typically occurs in an HBsAg positive person treated with the tyrosine kinase inhibitor for 3 to 6 months, presenting with jaundice, marked serum aminotransferase elevations and an increase in HBV DNA levels. Reactivation of hepatitis B can be severe and fatal instances have been reported after imatinib and nilotinib therapy. Screening of patients for HBsAg and anti-HBc is sometimes recommended before starting cancer chemotherapy and those with HBsAg offered prophylaxis with oral antiviral agents, such as lamivudine, tenofovir or entecavir.</p>
+          <p>Likelihood score: D (possible cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Dasatinib.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>Dasatinib is metabolized in the liver largely through the CYP 3A4 pathway and liver injury may be related to production of a toxic intermediate. Because of this pathway of metabolism, dasatinib is susceptible to drug-drug interactions when used with agents that induce or inhibit CYP 3A4.</p>
+        </sec>
+        <sec id="Dasatinib.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>Serum aminotransferase elevations above 5 times the upper limit of normal (if confirmed) should lead to dose reduction or temporary cessation. In some situations, therapy can be restarted, particularly with concurrent prednisone (10 to 20 mg daily). In patients with clinically apparent liver injury and jaundice, restarting therapy should be done with caution. There does not appear to be cross reactivity with other tyrosine kinase inhibitors and switching to another tyrosine kinase receptor inhibitor may be the most appropriate approach. No cases of acute liver failure have occurred in patients receiving dasatinib, but instances have been reported with imatinib, nilotinib and ponatinib.</p>
+          <p>Drug Class: <related-object source-id="livertox" document-id="AntineoplasticAgents">Antineoplastic Agents</related-object>, <related-object source-id="livertox" document-id="ProteinKinaseInhibit">Protein Kinase Inhibitors</related-object></p>
+          <p>Other Drugs in the Subclass, Chronic Myeloid Leukemia Agents: <related-object source-id="livertox" document-id="Bosutinib">Bosutinib</related-object>, <related-object source-id="livertox" document-id="Imatinib">Imatinib</related-object>, <related-object source-id="livertox" document-id="Nilotinib">Nilotinib</related-object>, <related-object source-id="livertox" document-id="Omacetaxine">Omacetaxine</related-object>, <related-object source-id="livertox" document-id="Ponatinib">Ponatinib</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Dasatinib.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <boxed-text position="anchor" id="Dasatinib.BPI" orientation="portrait">
+          <p>
+            <bold>REPRESENTATIVE TRADE NAMES</bold>
+          </p>
+          <p>Dasatinib &#x02013; Sprycel&#x000ae;</p>
+          <p>
+            <bold>DRUG CLASS</bold>
+          </p>
+          <p>Antineoplastic Agents</p>
+          <p>
+            <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?label=all&#x00026;query=Dasatinib">COMPLETE LABELING</ext-link>
+          </p>
+          <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+        </boxed-text>
+      </sec>
+      <sec id="Dasatinib.CHEMICAL_FORMULA_AND_STRUCTURE">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Dasatinib.T1" position="anchor" orientation="portrait">
+          <table>
+            <thead>
+              <tr>
+                <th id="hd_h_Dasatinib.T1_1_1_1_1" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Dasatinib.T1_1_1_1_2" rowspan="1" colspan="1">CAS REGISTRY NO.</th>
+                <th id="hd_h_Dasatinib.T1_1_1_1_3" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Dasatinib.T1_1_1_1_4" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Dasatinib.T1_1_1_1_1" rowspan="1" colspan="1">Dasatinib</td>
+                <td headers="hd_h_Dasatinib.T1_1_1_1_2" rowspan="1" colspan="1">
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135195927">863127-77-9</ext-link>
+                </td>
+                <td headers="hd_h_Dasatinib.T1_1_1_1_3" rowspan="1" colspan="1">C22-H26-Cl-N7-O2-S.H2-O</td>
+                <td headers="hd_h_Dasatinib.T1_1_1_1_4" rowspan="1" colspan="1">
+                  <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Dasatinib_structure.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait">
+                    <alt-text>Dasatinib chemical structure</alt-text>
+                  </graphic>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Dasatinib.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 05 December 2017</p>
+        <ref-list id="Dasatinib.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Dasatinib.R1">
+            <mixed-citation publication-type="other">Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999.<annotation><p><italic toggle="yes">(Review of hepatotoxicity published in 1999 before the availability of dasatinib and the tyrosine kinase inhibitors).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Dasatinib.R2">
+            <mixed-citation publication-type="other">DeLeve LD. Cancer chemotherapy. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013, pp. 541-67.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of cancer chemotherapeutic agents; imatinib, gefitinib, erlotinib and crizotinib are discussed, but not dasatinib).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Dasatinib.R3">
+            <mixed-citation publication-type="other">Chabner BA, Barnes J, Neal J, Olson E, Mujagic H, Sequist L, Wilson W, et al. Targeted therapies: tyrosine kinase inhibitors, monoclonal antibodies, and cytokines. In, Brunton LL, Chabner BA, Knollman BC, eds. Goodman &#x00026; Gilman's the pharmacological basis of therapeutics. 12th ed. New York: McGraw-Hill, 2011, pp. 1731-54.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Dasatinib.R4">
+            <mixed-citation publication-type="journal">Talpaz M, Shah NP, Kantarjian H, Donato N, Nicoll J, Paquette R, Cortes J, et al. Dasatinib in imatinib-resistant Philadelphia chromosome-positive leukemias. N Engl J Med 2006; 354: 2531-41. <annotation><p><italic toggle="yes">(Among 84 patients with CML resistant or intolerant of imatinib therapy who were treated with dasatinib, hematologic responses occurred in 68 [81%]; side effects included diarrhea, nausea, dyspnea, pleural effusion and myelosuppression; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">16775234</pub-id></mixed-citation>
+          </ref>
+          <ref id="Dasatinib.R5">
+            <mixed-citation publication-type="journal">Guilhot F, Apperley J, Kim DW, Bullorsky EO, Baccarani M, Roboz GJ, Amadori S, et al. Dasatinib induces significant hematologic and cytogenetic responses in patients with imatinib-resistant or -intolerant chronic myeloid leukemia in accelerated phase. Blood 2007; 109: 4143-50. <annotation><p><italic toggle="yes">(Among 107 patients with CML in accelerated phase and resistant or intolerant of imatinib who were treated with dasatinib, common side effects were diarrhea [50%], nausea [22%], peripheral edema [22%], pleural effusions [23%] and fatigue [19%]; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">17264298</pub-id></mixed-citation>
+          </ref>
+          <ref id="Dasatinib.R6">
+            <mixed-citation publication-type="journal">Dasatinib (Sprycel) for CML and Ph + ALL. Med Lett Drugs Ther 2007; 49 (1252): 6-7. <annotation><p><italic toggle="yes">(Concise summary of the mechanism of action, efficacy and safety of dasatinib shortly after its approval in the US).</italic></p></annotation><pub-id pub-id-type="pmid">17220814</pub-id></mixed-citation>
+          </ref>
+          <ref id="Dasatinib.R7">
+            <mixed-citation publication-type="journal">Bonvin A, Mesnil A, Nicolini FE, Cotte L, Michallet M, Descotes J, Vial T. Dasatinib-induced acute hepatitis. Leuk Lymphoma 2008; 49: 1630-2. <annotation><p><italic toggle="yes">(43 year old man with CML intolerant to imatinib therapy developed worsening fatigue and serum enzyme elevations 6 months after starting dasatinib therapy [bilirubin 1.5 mg/dL, ALT 758 U/L, Alk P 1432 U/L], which resolved within 3 weeks of stopping).</italic></p></annotation><pub-id pub-id-type="pmid">18608866</pub-id></mixed-citation>
+          </ref>
+          <ref id="Dasatinib.R8">
+            <mixed-citation publication-type="journal">Chalasani N, Fontana RJ, Bonkovsky HL, Watkins PB, Davern T, Serrano J, Yang H, Rochon J; Drug Induced Liver Injury Network (DILIN). Causes, clinical features, and outcomes from a prospective study of drug-induced liver injury in the United States. Gastroenterology 2008; 135: 1924-34. <annotation><p><italic toggle="yes">(Among 300 cases of drug induced liver disease in the US collected from 2004 to 2008, one case was attributed to imatinib, but none to other tyrosine kinase inhibitors).</italic></p></annotation><pub-id pub-id-type="pmid">18955056</pub-id></mixed-citation>
+          </ref>
+          <ref id="Dasatinib.R9">
+            <mixed-citation publication-type="journal">Apperley JF, Cortes JE, Kim DW, Roy L, Roboz GJ, Rosti G, Bullorsky EO, et al. Dasatinib in the treatment of chronic myeloid leukemia in accelerated phase after imatinib failure: the START a trial. J Clin Oncol 2009; 27: 3472-9. <annotation><p><italic toggle="yes">(Among 174 patients with CML in accelerated phase who were resistant or intolerant of imatinib and were treated with dasatinib, hematologic responses occurred in 64%; common side effects were cytopenias and pleural effusions occurred in 27%; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">19487385</pub-id></mixed-citation>
+          </ref>
+          <ref id="Dasatinib.R10">
+            <mixed-citation publication-type="journal">Shayani S. Dasatinib, a multikinase inhibitor: therapy, safety, and appropriate management of adverse events. Ther Drug Monit 2010; 32: 680-7. <annotation><p><italic toggle="yes">(Review of efficacy and safety of dasatinib mentions that "liver abnormalities, which typically are associated with imatinib intolerance, rarely were reported in patients taking dasatinib").</italic></p></annotation><pub-id pub-id-type="pmid">20864900</pub-id></mixed-citation>
+          </ref>
+          <ref id="Dasatinib.R11">
+            <mixed-citation publication-type="journal">Kantarjian H, Shah NP, Hochhaus A, Cortes J, Shah S, Ayala M, Moiraghi B, et al. Dasatinib versus imatinib in newly diagnosed chronic-phase chronic myeloid leukemia. N Engl J Med 2010; 362: 2260-70. <annotation><p><italic toggle="yes">(Among 519 newly diagnosed patients with CML in chronic phase treated with either dasatinib or imatinib, cytogenetic responses were more frequent with dasatinib and safety profiles were similar, pleural effusions occurring only with dasatinib and ALT elevations causing discontinuation in 2 patients on imatinib, but none on dasatinib).</italic></p></annotation><pub-id pub-id-type="pmid">20525995</pub-id></mixed-citation>
+          </ref>
+          <ref id="Dasatinib.R12">
+            <mixed-citation publication-type="journal">Reuben A, Koch DG, Lee WM; Acute Liver Failure Study Group. Drug-induced acute liver failure: results of a U.S. multicenter, prospective study. Hepatology 2010; 52: 2065-76. <annotation><p><italic toggle="yes">(Among 1198 patients with acute liver failure enrolled in a US prospective study between 1998 and 2007, 133 were attributed to drug induced liver injury, none of which were attributed to tyrosine kinase inhibitors).</italic></p></annotation><pub-id pub-id-type="pmid">20949552</pub-id></mixed-citation>
+          </ref>
+          <ref id="Dasatinib.R13">
+            <mixed-citation publication-type="journal">Shah RR, Morganroth J, Shah DR. Hepatotoxicity of tyrosine kinase inhibitors: clinical and regulatory perspectives. Drug Saf 2013; 36: 491-503. <annotation><p><italic toggle="yes">(Review of the hepatotoxicity of 18 tyrosine kinase inhibitors approved for use in cancer in the US as of 2013; dasatinib is associated with ALT elevations in up to 50% of patients [above 5 times ULN in 1-9%], but has not been linked to cases of acute hepatitis or liver failure).</italic></p></annotation><pub-id pub-id-type="pmid">23620168</pub-id></mixed-citation>
+          </ref>
+          <ref id="Dasatinib.R14">
+            <mixed-citation publication-type="journal">Harbaum L, Marx A, Goekkurt E, Schafhausen P, Atanackovic D. Treatment with dasatinib for chronic myeloid leukemia following imatinib-induced hepatotoxicity. Int J Hematol 2014; 99: 91-4. <annotation><p><italic toggle="yes">(32 year old woman with CML developed jaundice 6 months after starting imatinib [bilirubin 2.8 rising to 9 mg/dL, ALT 1638 U/L, Alk P 94 U/L, INR 1.33], recovered on prednisolone within 6 weeks of stopping imatinib and did not have a recurrence when subsequently treated successfully with dasatinib). </italic></p></annotation><pub-id pub-id-type="pmid">24264834</pub-id></mixed-citation>
+          </ref>
+          <ref id="Dasatinib.R15">
+            <mixed-citation publication-type="journal">Chalasani N, Bonkovsky HL, Fontana R, Lee W, Stolz A, Talwalkar J, Reddy KR, et al.; United States Drug Induced Liver Injury Network. Features and outcomes of 899 patients with drug-induced liver injury: The DILIN Prospective Study. Gastroenterology 2015; 148: 1340-52.e7. <annotation><p><italic toggle="yes">(Among 899 cases of drug induced liver injury enrolled in a US prospective study between 2004 and 2013, 49 [6%] were attributed to antineoplastic agents including 9 to kinase inhibitors such as imatinib, lapatinib and regorafinib). </italic></p></annotation><pub-id pub-id-type="pmid">25754159</pub-id></mixed-citation>
+          </ref>
+          <ref id="Dasatinib.R16">
+            <mixed-citation publication-type="journal">Sasaki K, Lahoti A, Jabbour E, Jain P, Pierce S, Borthakur G, Daver N, et al. Clinical safety and efficacy of nilotinib or dasatinib in patients with newly diagnosed chronic-phase chronic myelogenous leukemia and pre-existing liver and/or renal dysfunction. Clin Lymphoma Myeloma Leuk 2016; 16: 152-62. <annotation><p><italic toggle="yes">(Among 215 patients with CML treated with nilotinib or dasatinib for an median of 49 months, the presence of mild liver dysfunction had no apparent effect on response rates or adverse events including liver toxicity; ALT and AST levels "remained generally unchanged" with elevations above 5 times ULN occurring only in the nilotinib treatment arm [11% vs 0%]).</italic></p></annotation><pub-id pub-id-type="pmid">26796981</pub-id></mixed-citation>
+          </ref>
+          <ref id="Dasatinib.R17">
+            <mixed-citation publication-type="journal">Bunchorntavakul C, Reddy KR. Drug hepatotoxicity: newer agents. Clin Liver Dis 2017; 21: 115-34. <annotation><p><italic toggle="yes"> (Overview of hepatotoxicity of newer agents including tyrosine kinase inhibitors such as imatinib, bosutinib, nilotinib, ponatinib and dasatinib, all of which have been implicated in causing ALT and AST elevations [in 23-50% of patients] as well as clinically apparent liver injury).</italic></p></annotation><pub-id pub-id-type="pmid">27842767</pub-id></mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec id="Dasatinib.OTHER_REFERENCE_LINKS" sec-type="link-group">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=Dasatinib+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D%3A%222999/12/31%22%5BEDat%5D)">Recent References on Dasatinib: from PubMed.gov</ext-link>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Dasatinib">Trials on Dasatinib: from ClinicalTrials.gov</ext-link>
+            </p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

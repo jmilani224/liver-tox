@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Brigatinib" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Brigatinib</book-part-id>
+      <title-group>
+        <title>Brigatinib</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>3</day>
+          <month>8</month>
+          <year>2018</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Brexpiprazole" document-type="chapter">Brexpiprazole</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Brivaracetam" document-type="chapter">Brivaracetam</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Brigatinib.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Brigatinib.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Brigatinib is a tyrosine kinase receptor inhibitor and antineoplastic agent used in the therapy of selected forms of advanced non-small cell lung cancer. Brigatinib is associated with a moderate rate of transient elevations in serum aminotransferase levels during therapy but has yet to be linked to instances of clinically apparent acute liver injury.</p>
+        </sec>
+        <sec id="Brigatinib.Background">
+          <title>Background</title>
+          <p>Brigatinib (bri ga' ti nib) is a small molecule tyrosine kinase receptor inhibitor with potent activity against anaplastic lymphoma kinase (ALK) that is rearranged and mutated in some cancers including approximately 5% of non-small cell lung cancer (NSCLC). The mutated, rearranged ALK promotes unregulated cell growth and proliferation. Brigatinib has been found to inhibit mutated ALK in cell culture and in several clinical trials was found to induce objective responses in a proportion of patients with refractory, advanced NSCLC that are ALK-positive. Brigatinib was approved for use in the United States in 2017 in patients with ALK-positive, metastatic NSCLC who have progressed despite therapy with first generation ALK inhibitors (such as crizotinib). Brigatinib is available in tablets of 30, 90 and 180 mg under the brand name Alunbrig. The recommended dose is 90 to 180 mg daily, continued until disease progression or intolerable toxicity occurs. Side effects are common and can be dose limiting. Common adverse events include fatigue, nausea, diarrhea, headache and cough. Less common but potentially severe side effects include severe pulmonary toxicity, interstitial lung disease, myopathy, bradycardia and embryo-fetal toxicity.</p>
+        </sec>
+        <sec id="Brigatinib.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>In preregistration trials of brigatinib, ALT elevations occurred in up to 40% of patients but values above 5 times the upper limit of normal (ULN) were found in only 1% to 3%. Brigatinib therapy was also associated with frequent elevations in alkaline phosphatase (15% to 29%), but the serum enzyme elevations were usually mild-to-moderate in degree as well as asymptomatic and transient in nature. Clinically apparent liver injury with jaundice was not reported in the prelicensure studies of brigatinib and no reports have been published since its approval. In general, the ALK kinase inhibitors are associated with a high rate of serum enzymes elevations during therapy, but convincing cases of idiosyncratic, clinically apparent liver injury from their use have been rare. Most cases have been reported with crizotinib [approved in 2011] which is also the most frequently used of the kinase inhibitors with activity against ALK. Cases of liver injury with jaundice were reported to occur in trials of alectinib [2015] and ceritinib [2014], but details were not provided. Thus, acute liver injury with jaundice may occur with brigatinib but it must be rare if it occurs at all.</p>
+          <p>Likelihood score: E* (unproved but suspected cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Brigatinib.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>Serum enzyme and bilirubin elevations are frequent during therapy with tyrosine kinase inhibitors, but their cause is unknown. The liver injury may be due to direct activity against essential intracellular kinases or to production of a toxic metabolite during metabolism of the kinase inhibitor. Brigatinib is metabolized in the liver predominantly by CYP 3A4 and is susceptible to drug-drug interactions with strong inhibitors or inducers of this microsomal enzyme.</p>
+        </sec>
+        <sec id="Brigatinib.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>Brigatinib has been shown to cause transient serum aminotransferase elevations but has not been linked to cases of clinically apparent liver injury, acute liver failure or chronic hepatitis. The product label recommends monitoring of serum glucose, CPK and pancreatic enzymes, but not specifically routine liver tests. Serum aminotransferase elevations above 5 times the upper limit of normal (if confirmed) should lead to temporary discontinuation, which should be permanent if laboratory values do not improve significantly or resolve within a few weeks or if symptoms or jaundice arise.</p>
+          <p>Drug Class: <related-object source-id="livertox" document-id="AntineoplasticAgents">Antineoplastic Agents</related-object>, <related-object source-id="livertox" document-id="AntineoplasticAgents"/><related-object source-id="livertox" document-id="ProteinKinaseInhibit">Protein Kinase Inhibitors</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Brigatinib.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <boxed-text position="anchor" id="Brigatinib.BPI" orientation="portrait">
+          <p>
+            <bold>REPRESENTATIVE TRADE NAMES</bold>
+          </p>
+          <p>Brigatinib &#x02013; Alunbrig&#x000ae;</p>
+          <p>
+            <bold>DRUG CLASS</bold>
+          </p>
+          <p>Antineoplastic Agents</p>
+          <p>
+            <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Brigatinib">COMPLETE LABELING</ext-link>
+          </p>
+          <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+        </boxed-text>
+      </sec>
+      <sec id="Brigatinib.CHEMICAL_FORMULA_AND_STRUCTUR">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Brigatinib.T1" position="anchor" orientation="portrait">
+          <table>
+            <thead>
+              <tr>
+                <th id="hd_h_Brigatinib.T1_1_1_1_1" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Brigatinib.T1_1_1_1_2" rowspan="1" colspan="1">CAS REGISTRY NUMBER</th>
+                <th id="hd_h_Brigatinib.T1_1_1_1_3" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Brigatinib.T1_1_1_1_4" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Brigatinib.T1_1_1_1_1" rowspan="1" colspan="1">Brigatinib</td>
+                <td headers="hd_h_Brigatinib.T1_1_1_1_2" rowspan="1" colspan="1">
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://251846332">1197953-54-0</ext-link>
+                </td>
+                <td headers="hd_h_Brigatinib.T1_1_1_1_3" rowspan="1" colspan="1">C29-H39-Cl-N7-O2-P</td>
+                <td headers="hd_h_Brigatinib.T1_1_1_1_4" rowspan="1" colspan="1">
+                  <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Brigatinib_Structure.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait">
+                    <alt-text>Brigatinib Chemical Structure</alt-text>
+                  </graphic>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Brigatinib.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 03 August 2018</p>
+        <p>Abbreviations: ALK, anaplastic lymphoma kinase; NCSLC, non-small cell lung cancer; ULN, upper limit of normal.</p>
+        <ref-list id="Brigatinib.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Brigatinib.R1">
+            <mixed-citation publication-type="other">Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999.<annotation><p><italic toggle="yes">(Review of hepatotoxicity published in 1999 before the availability of tyrosine kinase receptor inhibitors).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Brigatinib.R2">
+            <mixed-citation publication-type="other">DeLeve LD. Erlotinib. Cancer chemotherapy. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013, pp. 556.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of cancer chemotherapeutic agents published in 2013; discusses the hepatotoxicity of crizotinib but not alectinib or ceritinib).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Brigatinib.R3">
+            <mixed-citation publication-type="other">Chabner BA, Barnes J, Neal J, Olson E, Mujagic H, Sequist L, Wilson W, et al. Targeted therapies: tyrosine kinase inhibitors, monoclonal antibodies, and cytokines. In, Brunton LL, Chabner BA, Knollman BC, eds. Goodman &#x00026; Gilman's the pharmacological basis of therapeutics. 12th ed. New York: McGraw-Hill, 2011, pp. 1731-54.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Brigatinib.R4">
+            <mixed-citation publication-type="other">
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.accessdata.fda.gov/scripts/cder/daf/">https://www.accessdata.fda.gov/scripts/cder/daf/</ext-link>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(FDA Drug Approvals website that has product labels [package inserts], letters of approval and full FDA scientific review of the new drug application for safety and efficacy).</italic>
+                </p>
+              </annotation>
+            </mixed-citation>
+          </ref>
+          <ref id="Brigatinib.R5">
+            <mixed-citation publication-type="journal">Shaw AT, Engelman JA. ALK in lung cancer: past, present, and future. J Clin Oncol 2013; 31: 1105-11. <annotation><p><italic toggle="yes">(Review of the history of discovery of ALK mutations and development of crizotinib as therapy of NSCLC patients with this mutation as well as next generation ALK inhibitors in development; no discussion of hepatotoxicity or ALT elevations).</italic></p></annotation><pub-id pub-id-type="pmid">23401436</pub-id></mixed-citation>
+          </ref>
+          <ref id="Brigatinib.R6">
+            <mixed-citation publication-type="journal">Gettinger SN, Bazhenova LA, Langer CJ, Salgia R, Gold KA, Rosell R, Shaw AT, et al. Activity and safety of brigatinib in ALK-rearranged non-small-cell lung cancer and other malignancies: a single-arm, open-label, phase 1/2 trial. Lancet Oncol 2016; 17: 1683-96. <annotation><p><italic toggle="yes">(Among 137 patients with NSCLC [n=79] and other cancers treated with varying doses of brigatinib, objective responses were found in 75% of those with NSCLC and ALK rearrangements and adverse events were dose related, ALT elevations arising in 15 [11%] and to levels above 5 times ULN in 2 patients [1.5%]).</italic></p></annotation><pub-id pub-id-type="pmid">27836716</pub-id></mixed-citation>
+          </ref>
+          <ref id="Brigatinib.R7">
+            <mixed-citation publication-type="journal">Markham A. Brigatinib: first global approval. Drugs 2017; 77 (10): 1131-5. <annotation><p><italic toggle="yes">(Review of the development, chemical structure, mechanism of action, pharmacology, clinical efficacy and safety of brigatinib soon after its accelerated approval in the US; mentions that ALT elevations rise in 34-40% of patients).</italic></p></annotation><pub-id pub-id-type="pmid">28597393</pub-id></mixed-citation>
+          </ref>
+          <ref id="Brigatinib.R8">
+            <mixed-citation publication-type="journal">Kim DW, Tiseo M, Ahn MJ, Reckamp KL, Hansen KH, Kim SW, Huber RM, et al. Brigatinib in patients with crizotinib-refractory anaplastic lymphoma kinase-positive non-small-cell lung cancer: a randomized, multicenter phase II trial. J Clin Oncol 2017; 35: 2490-8. <annotation><p><italic toggle="yes">(Among 222 patients with refractory ALK-positive NSCLC treated with two different regimens of brigatinib the overall objective response rate was 45% and adverse events included nausea, diarrhea, fatigue, cough and acute severe pulmonary symptoms [6%]; serum AST elevations arose in 11% of patients).</italic></p></annotation><pub-id pub-id-type="pmid">28475456</pub-id></mixed-citation>
+          </ref>
+          <ref id="Brigatinib.R9">
+            <mixed-citation publication-type="journal">Costa RB, Costa RLB, Talamantes SM, Kaplan JB, Bhave MA, Rademaker A, Miller C, et al. Systematic review and meta-analysis of selected toxicities of approved ALK inhibitors in metastatic non-small cell lung cancer. Oncotarget 2018; 9: 22137-46. <annotation><p><italic toggle="yes">(Analysis of the literature on toxicity of ALK inhibitors approved for use in ALK-positive NSCLC [alectinib, brigatinib, ceritinib and crizotinib] found high rates of adverse events with all four [97-99%] including any ALT elevations [14-47%] and ALT elevations above 5 times ULN [4-23%]).</italic></p></annotation><pub-id pub-id-type="pmid">29774128</pub-id></mixed-citation>
+          </ref>
+          <ref id="Brigatinib.R10">
+            <mixed-citation publication-type="journal">Brigatinib (Alunbrig) for non-small cell lung cancer. Med Lett Drugs Ther 2018; 60 (1545): e72-e73. <annotation><p><italic toggle="yes">(Concise review of the mechanism of action, clinical efficacy, safety and costs of brigatinib soon after its approval for use in the US; does not mention ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">29667950</pub-id></mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec id="Brigatinib.OTHER_REFERENCE_LINKS" sec-type="link-group">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=(Brigatinib/AE)+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D%3A%222999/12/31%22%5BEDat%5D)">Recent References on Brigatinib: from PubMed.gov</ext-link>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Brigatinib">Trials on Brigatinib: from ClinicalTrials.gov</ext-link>
+            </p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

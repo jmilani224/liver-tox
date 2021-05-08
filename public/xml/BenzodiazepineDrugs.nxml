@@ -1,0 +1,474 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="BenzodiazepineDrugs" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">BenzodiazepineDrugs</book-part-id>
+      <title-group>
+        <title>Benzodiazepines</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>24</day>
+          <month>1</month>
+          <year>2017</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Benznidazole" document-type="chapter">Benznidazole</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Benztropine" document-type="chapter">Benztropine</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="BenzodiazepineDrugs.OVERVIEW">
+        <title>OVERVIEW</title>
+        <p content-type="pubmed-excerpt">The benzodiazepines are a large class of medications that have multiple clinical uses including therapy of anxiety, insomnia, muscle spasm, alcohol withdrawal and seizures. As a class, the benzodiazepines do not cause significant serum enzyme elevations and have been linked to only very rare instances of acute, symptomatic liver disease.</p>
+        <p content-type="pubmed-excerpt">The pharmacological effects of the benzodiazepines are a result of their interaction with the central nervous system, their effects being sedation, hypnosis, decreased anxiety, muscle relaxation, anterograde amnesia and anticonvulsant activity. At high doses, when given intravenously, the benzodiazepines may also cause coronary vasodilation and neuromuscular blockade. The CNS effects of benzodiazepines are believed to be mediated by activation of GABA A receptors and modulation of their inhibition of neurotransmission.</p>
+        <p content-type="pubmed-excerpt">Benzodiazepines in current use, with their initial brand name and year of approval, include alprazolam (Xanax, 1981), chlordiazepoxide (Librium, 1960), clonazepam (Klonopin, 1997), clorazepate (Tranxene, 1972), diazepam (Valium, 1963), estazolam (ProSom, 1990), flurazepam (Dalmane, 1970), lorazepam (Ativan, 1977), midazolam (Versed, 1985), oxazepam (Serax, 1965), quazepam (Doral, 1985), temazepam (Restoril, 1981), triazolam (Halcion, 1982), and most recently clobazam (2011). They are variously indicated for treatment of anxiety, alcohol withdrawal symptoms, insomnia, muscle relaxation, panic disorders and seizure disorders. The benzodiazepines all share similar activity and clinical effects, but variability in dosing, pharmacokinetics, rapidity of uptake and half-life make them more suited for one or another of these indications. Thus, estazolam, flurazepam, quazepam, temazepam and triazolam are generally used as sleeping pills, whereas alprazolam, chlordiazepoxide, diazepam, and lorazepam are used largely in therapy of anxiety. Clobazam, clonazepam, and clorazepate are used as anticonvulsants, and high dose, parenteral diazepam and lorazepam are used for status epilepticus. Parenteral midazolam, diazepam and lorazepam are also used as anesthetics or anesthetic premedications.</p>
+        <p>Benzodiazepine therapy is uncommonly associated with serum enzyme elevations, and clinically apparent liver injury from the benzodiazepines is quite rare. Alprazolam, chlordiazepoxide, clonazepam, clorazepate, diazepam, flurazepam and triazolam have been linked to rare instances of cholestatic liver injury but the other benzodiazepines have not. The absence of reports of this rare adverse event, however, may be due to the fact that these other benzodiazepines are not as commonly or continuously used. Alternatively, the use of the sleeping aids in intermittent and low doses may favor their lack of hepatic injury.</p>
+        <p>References for drug induced liver injury for all of the benzodiazepines follow this introduction, and specific references are appended to the text for the specific agents. The individual agents discussed include the following:</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>
+              <related-object source-id="livertox" document-id="Alprazolam">Alprazolam</related-object>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <related-object source-id="livertox" document-id="Chlordiazepoxide">Chlordiazepoxide</related-object>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <related-object source-id="livertox" document-id="DiazepamOral">Diazepam (Oral)</related-object>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <related-object source-id="livertox" document-id="Estazolam">Estazolam</related-object>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <related-object source-id="livertox" document-id="Flurazepam">Flurazepam</related-object>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <related-object source-id="livertox" document-id="Lorazepam">Lorazepam</related-object>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <related-object source-id="livertox" document-id="Midazolam">Midazolam</related-object>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <related-object source-id="livertox" document-id="Oxazepam">Oxazepam</related-object>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <related-object source-id="livertox" document-id="Quazepam">Quazepam</related-object>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <related-object source-id="livertox" document-id="Temazepam">Temazepam</related-object>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <related-object source-id="livertox" document-id="Triazolam">Triazolam</related-object>
+            </p>
+          </list-item>
+        </list>
+        <p>The following benzodiazepine drugs are discussed in the record for Anticonvulsants Drugs:</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>
+              <related-object source-id="livertox" document-id="Clobazam">Clobazam</related-object>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <related-object source-id="livertox" document-id="Clonazepam">Clonazepam</related-object>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <related-object source-id="livertox" document-id="Clorazepate">Clorazepate</related-object>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <related-object source-id="livertox" document-id="DiazepamIV">Diazepam (Intravenous)</related-object>
+            </p>
+          </list-item>
+        </list>
+        <p>Drug Class: <related-object source-id="livertox" document-id="Anticonvulsants">Anticonvulsants</related-object>, <related-object source-id="livertox" document-id="BenzodiazepineDrugs">Benzodiazepines</related-object></p>
+      </sec>
+      <sec id="BenzodiazepineDrugs.CHEMICAL_FORMULAS_AN">
+        <title>CHEMICAL FORMULAS AND STRUCTURES</title>
+        <table-wrap id="BenzodiazepineDrugs.T1" position="anchor" orientation="portrait">
+          <table>
+            <tbody>
+              <tr>
+                <th id="hd_b_BenzodiazepineDrugs.T1_1_1_1_1" align="center" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_b_BenzodiazepineDrugs.T1_1_1_1_2" align="center" rowspan="1" colspan="1">CAS REGISTRY NUMBER</th>
+                <th id="hd_b_BenzodiazepineDrugs.T1_1_1_1_3" align="center" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_b_BenzodiazepineDrugs.T1_1_1_1_4" align="center" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+              <tr>
+                <td headers="hd_b_BenzodiazepineDrugs.T1_1_1_1_1" valign="middle" align="center" rowspan="1" colspan="1">Alprazolam</td>
+                <td headers="hd_b_BenzodiazepineDrugs.T1_1_1_1_2" valign="middle" align="center" rowspan="1" colspan="1">
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://134997022">28981-97-7</ext-link>
+                </td>
+                <td headers="hd_b_BenzodiazepineDrugs.T1_1_1_1_3" valign="middle" align="center" rowspan="1" colspan="1">C17-H13-Cl-N4</td>
+                <td headers="hd_b_BenzodiazepineDrugs.T1_1_1_1_4" valign="middle" align="center" rowspan="1" colspan="1">
+                  <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Alprazolam_Structure_000.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait">
+                    <alt-text>Chemical Structure for Alprazolam</alt-text>
+                  </graphic>
+                </td>
+              </tr>
+              <tr>
+                <td headers="hd_b_BenzodiazepineDrugs.T1_1_1_1_1" valign="middle" align="center" rowspan="1" colspan="1">Diazepam</td>
+                <td headers="hd_b_BenzodiazepineDrugs.T1_1_1_1_2" valign="middle" align="center" rowspan="1" colspan="1">
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://134974836">439-14-5</ext-link>
+                </td>
+                <td headers="hd_b_BenzodiazepineDrugs.T1_1_1_1_3" valign="middle" align="center" rowspan="1" colspan="1">C16-H13-Cl-N2-O</td>
+                <td headers="hd_b_BenzodiazepineDrugs.T1_1_1_1_4" valign="middle" align="center" rowspan="1" colspan="1">
+                  <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Diazepam_Structure_001.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait">
+                    <alt-text>Chemical Structure for Diazepam</alt-text>
+                  </graphic>
+                </td>
+              </tr>
+              <tr>
+                <td headers="hd_b_BenzodiazepineDrugs.T1_1_1_1_1" valign="middle" align="center" rowspan="1" colspan="1">Flurazepam</td>
+                <td headers="hd_b_BenzodiazepineDrugs.T1_1_1_1_2" valign="middle" align="center" rowspan="1" colspan="1">
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://134979955">1172-18-5</ext-link>
+                </td>
+                <td headers="hd_b_BenzodiazepineDrugs.T1_1_1_1_3" valign="middle" align="center" rowspan="1" colspan="1">
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://134974836">C21-H23-Cl-F-N3-O.2Cl-H</ext-link>
+                </td>
+                <td headers="hd_b_BenzodiazepineDrugs.T1_1_1_1_4" valign="middle" align="center" rowspan="1" colspan="1">
+                  <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Flurazepam_Structure_001.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait">
+                    <alt-text>Chemical Structure for Flurazepam</alt-text>
+                  </graphic>
+                </td>
+              </tr>
+              <tr>
+                <td headers="hd_b_BenzodiazepineDrugs.T1_1_1_1_1" valign="middle" align="center" rowspan="1" colspan="1">Lorazepam</td>
+                <td headers="hd_b_BenzodiazepineDrugs.T1_1_1_1_2" valign="middle" align="center" rowspan="1" colspan="1">
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://134979720">846-49-1</ext-link>
+                </td>
+                <td headers="hd_b_BenzodiazepineDrugs.T1_1_1_1_3" valign="middle" align="center" rowspan="1" colspan="1">C15-H10-Cl2-N2-O2</td>
+                <td headers="hd_b_BenzodiazepineDrugs.T1_1_1_1_4" valign="middle" align="center" rowspan="1" colspan="1">
+                  <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Lorazepam_Structure_000.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait">
+                    <alt-text>Chemical Structure for Lorazepam</alt-text>
+                  </graphic>
+                </td>
+              </tr>
+              <tr>
+                <td headers="hd_b_BenzodiazepineDrugs.T1_1_1_1_1" valign="middle" align="center" rowspan="1" colspan="1">Midazolam</td>
+                <td headers="hd_b_BenzodiazepineDrugs.T1_1_1_1_2" valign="middle" align="center" rowspan="1" colspan="1">
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135006020">59467-70-8</ext-link>
+                </td>
+                <td headers="hd_b_BenzodiazepineDrugs.T1_1_1_1_3" valign="middle" align="center" rowspan="1" colspan="1">C18-H13-Cl-F-N3</td>
+                <td headers="hd_b_BenzodiazepineDrugs.T1_1_1_1_4" valign="middle" align="center" rowspan="1" colspan="1">
+                  <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Midazolam_Structure_000.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait">
+                    <alt-text>Chemical Structure for Midazolam</alt-text>
+                  </graphic>
+                </td>
+              </tr>
+              <tr>
+                <td headers="hd_b_BenzodiazepineDrugs.T1_1_1_1_1" valign="middle" align="center" rowspan="1" colspan="1">Clobazam</td>
+                <td headers="hd_b_BenzodiazepineDrugs.T1_1_1_1_2" valign="middle" align="center" rowspan="1" colspan="1">
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://134994740">22316-47-8</ext-link>
+                </td>
+                <td headers="hd_b_BenzodiazepineDrugs.T1_1_1_1_3" valign="middle" align="center" rowspan="1" colspan="1">C16-H13-Cl-N2-O2</td>
+                <td headers="hd_b_BenzodiazepineDrugs.T1_1_1_1_4" valign="middle" align="center" rowspan="1" colspan="1">
+                  <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Clobazam_structure.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait">
+                    <alt-text>Clobazam chemical structure</alt-text>
+                  </graphic>
+                </td>
+              </tr>
+              <tr>
+                <td headers="hd_b_BenzodiazepineDrugs.T1_1_1_1_1" valign="middle" align="center" rowspan="1" colspan="1">Clonazepam</td>
+                <td headers="hd_b_BenzodiazepineDrugs.T1_1_1_1_2" valign="middle" align="center" rowspan="1" colspan="1">
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://134979678">1622-61-3</ext-link>
+                </td>
+                <td headers="hd_b_BenzodiazepineDrugs.T1_1_1_1_3" valign="middle" align="center" rowspan="1" colspan="1">C15-H10-Cl-N3-O3</td>
+                <td headers="hd_b_BenzodiazepineDrugs.T1_1_1_1_4" valign="middle" align="center" rowspan="1" colspan="1">
+                  <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Clonazepam_Structure_000.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait">
+                    <alt-text>Clonazepam chemical structure</alt-text>
+                  </graphic>
+                </td>
+              </tr>
+              <tr>
+                <td headers="hd_b_BenzodiazepineDrugs.T1_1_1_1_1" valign="middle" align="center" rowspan="1" colspan="1">Clorazepate</td>
+                <td headers="hd_b_BenzodiazepineDrugs.T1_1_1_1_2" valign="middle" align="center" rowspan="1" colspan="1">
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135004253">57109-90-7</ext-link>
+                </td>
+                <td headers="hd_b_BenzodiazepineDrugs.T1_1_1_1_3" valign="middle" align="center" rowspan="1" colspan="1">C16-H10-Cl-N4-O3.K.H-K-O</td>
+                <td headers="hd_b_BenzodiazepineDrugs.T1_1_1_1_4" valign="middle" align="center" rowspan="1" colspan="1">
+                  <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Clorazepate_Structure_000.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait">
+                    <alt-text>Clorazepate chemical structure</alt-text>
+                  </graphic>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="BenzodiazepineDrugs.ANNOTATED_BIBLIOGRAP">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 24 January 2017</p>
+        <ref-list id="BenzodiazepineDrugs.ANNOTATED_BIBLIOGRAP.reflist0">
+          <ref id="BenzodiazepineDrugs.R1">
+            <mixed-citation publication-type="other">Zimmerman HJ. Benzodiazepines. Psychotropic and anticonvulsant agents. In, Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999, pp. 491-3.<annotation><p><italic toggle="yes">(Expert review of benzodiazepines and liver injury published in 1999; mentions rare instances of cholestatic hepatitis have been reported due to alprazolam, chlordiazepoxide, diazepam, flurazepam, and triazolam, and hepatocellular injury with clorazepate and clotiazepam, but no reports of hepatic injury with lorazepam, oxazepam or temazepam).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="BenzodiazepineDrugs.R2">
+            <mixed-citation publication-type="other">Larrey D, Ripault M-P. Benzodiazepines. Hepatotoxicity of psychotropic drugs and drugs of abuse. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013, p. 455.<annotation><p><italic toggle="yes">(Review of drug induced liver injury mentions that there have been rare instances of acute liver injury [usually cholestatic] reported with alprazolam, chlordiazepoxide, clonazepam, clorazepate, clotiazepam, diazepam, flurazepam, triazolam and more recently bentazepam [which is not available in the US]; a hepatitis-like pattern was reported with alprazolam and diazepam).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="BenzodiazepineDrugs.R3">
+            <mixed-citation publication-type="other">Mihic SJ, Harris RA. Hypnotics and sedatives. In, Brunton LL, Chabner BA, Knollman BC, eds. Goodman &#x00026; Gilman's the pharmacological basis of therapeutics. 12th ed. New York: McGraw-Hill, 2011, pp. 457-80.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="BenzodiazepineDrugs.R4">
+            <mixed-citation publication-type="journal">Cacioppo J, Merlis S. Chlordiazepoxide hydrochloride(Librium) and jaundice: report of a case. Am J Psychiatry 1961; 117: 1040-1. <annotation><p><italic toggle="yes">(39 year old man with schizophrenia and seizures on phenytoin developed jaundice 5 days after starting chlordiazepoxide [50 mg/day] [icterus index 49.6, Alk P 3 times ULN], resolving within 3 months of stopping).</italic></p></annotation><pub-id pub-id-type="pmid">13689710</pub-id></mixed-citation>
+          </ref>
+          <ref id="BenzodiazepineDrugs.R5">
+            <mixed-citation publication-type="journal">Cook GC, Sherlock S. Jaundice and its relation to therapeutic agents. Lancet 1965; 1: 175-9. <annotation><p><italic toggle="yes">(11 cases of drug induced liver disease, all due to agents no longer in use; 2 were receiving diazepam, but other agents were more likely the cause in both cases).</italic></p></annotation><pub-id pub-id-type="pmid">14238042</pub-id></mixed-citation>
+          </ref>
+          <ref id="BenzodiazepineDrugs.R6">
+            <mixed-citation publication-type="other">Abbruzzese A, Swanson J. Jaundice after therapy with chlordiazepoxide hydrochloride. N Engl J Med 1965; 273; 321-2. Not in PubMed.<annotation><p><italic toggle="yes">(51 year old man developed jaundice and pruritus 4-5 weeks after starting chlordiazepoxide [bilirubin ~4.0 mg/dL, AST 300 U/L, Alk P 2.5 times ULN], biopsy showed inflammation and cholestasis, recovery not mentioned).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="BenzodiazepineDrugs.R7">
+            <mixed-citation publication-type="journal">Cunningham ML. Acute hepatic necrosis following treatment with amitriptyline and diazepam. Brit J Psychiat 1965; 111: 1107-9. <annotation><p><italic toggle="yes">(54 year old woman with dementia-depression placed on amitriptyline and diazepam developed progressive confusion 5 months later followed by jaundice, obtundation and death [bilirubin 5.2 mg/dL, ALT 200 U/L, Alk P 9.5 unknown units], autopsy showed small liver, but no description of histology).</italic></p></annotation><pub-id pub-id-type="pmid">5841222</pub-id></mixed-citation>
+          </ref>
+          <ref id="BenzodiazepineDrugs.R8">
+            <mixed-citation publication-type="other">Pickering D. Hepatic necrosis after chlordiazepoxide therapy. N Engl J Med 1966; 274: 1449. Not in PubMed.<annotation><p><italic toggle="yes">(64 year old woman developed jaundice 3 weeks after 12 day course of chlordiazepoxide [bilirubin ~32 mg/dL, ALT 225 U/L, Alk P 38 U/L], prolonged course, transient ascites, prednisone therapy).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="BenzodiazepineDrugs.R9">
+            <mixed-citation publication-type="journal">Lo KJ, Eastwood IR, Eidelman S. Cholestatic jaundice associated with chlordiazepoxide hydrochloride (Librium) therapy. Report of a case and review of the literature. Am J Dig Dis 1967; 12: 845-9. <annotation><p><italic toggle="yes">(26 year old woman developed nausea after 2 and jaundice after 11 days of chlordiazepoxide therapy [bilirubin 5.0 mg/dL, AST 51 U/L, Alk K 69 KA ~5 times ULN], recovery over 8 weeks, marked pruritis).</italic></p></annotation><pub-id pub-id-type="pmid">4952749</pub-id></mixed-citation>
+          </ref>
+          <ref id="BenzodiazepineDrugs.R10">
+            <mixed-citation publication-type="journal">Buchanan N, Cane RD. Liver function tests and the prolonged use of high-dose diazepam with special reference to tetanus. S Afr Med J 1978 54: 768. <annotation><p><italic toggle="yes">(After noting jaundice in a few patients receiving high doses of diazepam for tetanus, the authors prospectively tested 4 patients finding no consistent rises in serum ALT, Alk P or bilirubin on therapy).</italic></p></annotation><pub-id pub-id-type="pmid">741305</pub-id></mixed-citation>
+          </ref>
+          <ref id="BenzodiazepineDrugs.R11">
+            <mixed-citation publication-type="journal">Kratzsch KH, Buttner W, Reinhardt G. [Intrahepatic cholestasis following chlordiazepoxide-contribution to the differential diagnosis of drug jaundice] Z Gesamte Inn Med 1972; 27: 408-11. German. <annotation><p><italic toggle="yes">(3 cases of cholestatic hepatitis during chlordiazepoxide use, after 4 weeks, 6 years and 2 days [bilirubin 6.0, 1.0 and 6.4 mg/dL, ALT 245, 18 and 25 U/L, Alk P 1.6 1.0 and 20 times ULN], with rapid recovery in 1-2 months: all 3 had biopsies showing intrahepatic cholestasis).</italic></p></annotation><pub-id pub-id-type="pmid">5055057</pub-id></mixed-citation>
+          </ref>
+          <ref id="BenzodiazepineDrugs.R12">
+            <mixed-citation publication-type="journal">Stacher G. Intrahepatic cholostasis following combined diazepam-barbiturate therapy in patients with tetanus]. Wien Klin Wochenschr. 1973; 85: 401-6. German. <pub-id pub-id-type="pmid">4705881</pub-id></mixed-citation>
+          </ref>
+          <ref id="BenzodiazepineDrugs.R13">
+            <mixed-citation publication-type="journal">Franks E, Jacobs WH. Cholestatic jaundice possibly due to benzodiazepine-type drugs. Mo Med 1975; 72: 605-6. <annotation><p><italic toggle="yes">(40 year old woman on multiple drugs including chlorpromazine developed jaundice [bilirubin 2.0 rising to 9.7 mg/dL, ALT 280 U/L, Alk P 546 U/L, 16% eosinophils], seemed to worsen on benzodiazepines including chlordiazepoxide, diazepam and flurazepam, resolving rapidly when they were stopped, but attribution to benzodiazepines difficult).</italic></p></annotation><pub-id pub-id-type="pmid">1181510</pub-id></mixed-citation>
+          </ref>
+          <ref id="BenzodiazepineDrugs.R14">
+            <mixed-citation publication-type="journal">Fors B, Nilsson F. [Hepatitis probably induced by diazepam medication] Lakartidningen 1968; 65: 4528-31. Swedish. <annotation><p><italic toggle="yes">(24 and 34 year old women developed mild hepatitis with jaundice 1 and 4 months after starting diazepam [bilirubin 11 and 4.2 mg/dL, ALT 434 U/L Alk ~2 times ULN], with rapid resolution with stopping).</italic></p></annotation><pub-id pub-id-type="pmid">5745628</pub-id></mixed-citation>
+          </ref>
+          <ref id="BenzodiazepineDrugs.R15">
+            <mixed-citation publication-type="journal">Fang MH, Ginsberg AL, Dobbins WO 3rd. Cholestatic jaundice associated with flurazepam hydrochloride. Ann Intern Med 1978; 89: 363-4. <annotation><p><italic toggle="yes">(70 year old man developed fatigue followed by pruritis 3 months after starting flurazepam [bilirubin 6.6 mg/dL, ALT 179 U/L, Alk P 232 U/L, no eosinophilia], improving only when the drug was withdrawn).</italic></p></annotation><pub-id pub-id-type="pmid">28685</pub-id></mixed-citation>
+          </ref>
+          <ref id="BenzodiazepineDrugs.R16">
+            <mixed-citation publication-type="journal">Parker JLW. Potassium clorazepate(Tranxene)-induced jaundice. Postgrad Med J 1979; 55: 908-10. <annotation><p><italic toggle="yes">(27 year old man developed jaundice, pruritus and fever, 2 months after starting clorazepate [bilirubin 7.6 mg/dL, ALT 880 U/L, Alk P 2.3 times ULN] and had 3 liver biopsies done over 5 months showing intrahepatic cholestasis with thin portal-portal fibrosis septae that persisted as cholestasis and inflammation resolved).</italic></p></annotation><pub-id pub-id-type="pmid">44913</pub-id></mixed-citation>
+          </ref>
+          <ref id="BenzodiazepineDrugs.R17">
+            <mixed-citation publication-type="journal">Bonkowsky HL, Sinclair PR, Emery S, Sinclair JF. Seizure management in acute hepatic porphyria: risks of valproate and clonazepam. Neurology 1980; 30: 588-92. <annotation><p><italic toggle="yes">(38 year old man with acute intermittent porphyria and seizures did not respond to clonazepam, and testing in chicken embryos showed that it increased hepatic prophyrins and ALA synthase activity).</italic></p></annotation><pub-id pub-id-type="pmid">6770287</pub-id></mixed-citation>
+          </ref>
+          <ref id="BenzodiazepineDrugs.R18">
+            <mixed-citation publication-type="journal">Cobden I, Record CO, White RWB. Fatal intrahepatic cholestasis associated with triazolam. Postgrad Med J 1981; 57: 730-1. <annotation><p><italic toggle="yes">(44 year old man developed jaundice after 5 months of intermittent triazolam therapy for insomnia [bilirubin 10.6 mg/dL, AST 97 U/L, Alk P 104 U/L]; jaundice deepened and patient died, autopsy showing intrahepatic cholestasis without obstruction or cirrhosis).</italic></p></annotation><pub-id pub-id-type="pmid">6122205</pub-id></mixed-citation>
+          </ref>
+          <ref id="BenzodiazepineDrugs.R19">
+            <mixed-citation publication-type="journal">Reynolds R, Lloyd DA, Slinger RP. Cholestatic jaundice induced by flurazepam hydrochloride. Can Med Assoc J 1981; 124: 893-4. <annotation><p><italic toggle="yes">(44 year old woman taking flurazepam intermittently for 6 months developed abdominal pain [bilirubin 8.2 mg/dL, AST 106 U/L, Alk P 209 U/L], resolving rapidly upon stopping, biopsy showed intrahepatic cholestasis).</italic></p></annotation><pub-id pub-id-type="pmid">7214289</pub-id></mixed-citation>
+          </ref>
+          <ref id="BenzodiazepineDrugs.R20">
+            <mixed-citation publication-type="journal">Tedesco FJ, Mills LR. Diazepam(Valium) hepatitis. Dig Dis Sci 1982; 27: 470-2. <annotation><p><italic toggle="yes"> (45 year old man developed elevations of ALT [130 U/L] while on isoniazid [for 1 day] and diazepam [3 days], which resolved upon stopping and recurred upon rechallenge with diazepam, but not isoniazid which was tolerated long term).</italic></p></annotation><pub-id pub-id-type="pmid">7075434</pub-id></mixed-citation>
+          </ref>
+          <ref id="BenzodiazepineDrugs.R21">
+            <mixed-citation publication-type="journal">D&#x000f8;ssing M, Andreasen PB. Drug-induced liver disease in Denmark. An analysis of 572 cases of hepatotoxicity reported to the Danish Board of Adverse Reactions to Drugs. Scand J Gastroenterol 1982; 17: 205-11. <annotation><p><italic toggle="yes"> (Among 572 cases of hepatotoxicity reported to a Danish registry between 1968 and 1978, 97 were due to psychotropic agents, but only two attributed to benzodiazepines).</italic></p></annotation><pub-id pub-id-type="pmid">6982502</pub-id></mixed-citation>
+          </ref>
+          <ref id="BenzodiazepineDrugs.R22">
+            <mixed-citation publication-type="journal">
+              <annotation>
+                <p>
+                  <italic toggle="yes">Jacobson AF, Goldstein BJ, Dominguez RA, Steinbook RM. A placebo-controlled, double-blind comparison of clobazam and diazepam in the treatment of anxiety. J Clin Psychiatry 1983; 44: 296-300. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/pubmed/6135690">PubMed Citation</ext-link> (Controlled trial of 4 weeks of diazepam vs clobazam vs placebo in 114 patients with anxiety found sedation similar with either drug, but dizziness more frequent with diazepam; no mention of ALT elevations or hepatotoxicity, although ALT was measured at the start and end of therapy).</italic>
+                </p>
+              </annotation>
+            </mixed-citation>
+          </ref>
+          <ref id="BenzodiazepineDrugs.R23">
+            <mixed-citation publication-type="journal">Roy-Byrne P, Vittone BJ, Uhde TW. Alprazolam-related hepatotoxicity. Lancet. 1983; 2: 786-7. <annotation><p><italic toggle="yes"> (30 year old woman was found to have elevated ALT [96 U/L] 2 weeks after starting alprazolam, which promptly resolved when drug was stopped; rechallenge led to asymptomatic ALT rise within 9 days [28 to 70 U/L]).</italic></p></annotation><pub-id pub-id-type="pmid">6137615</pub-id></mixed-citation>
+          </ref>
+          <ref id="BenzodiazepineDrugs.R24">
+            <mixed-citation publication-type="journal">Ker&#x000e4;nen T, Sivenius J. Side effects of carbamazepine, valproate and clonazepam during long-term treatment of epilepsy. Acta Neurol Scand Suppl 1983; 97: 69-80. <annotation><p><italic toggle="yes">(Clonazepam has many dose related sedative side effects, but compared to carbamazepine and valproate, few serious or long term side effects; no mention of hepatic side effects of clonazepam).</italic></p></annotation><pub-id pub-id-type="pmid">6424398</pub-id></mixed-citation>
+          </ref>
+          <ref id="BenzodiazepineDrugs.R25">
+            <mixed-citation publication-type="journal">Davion T, Capron-Chivrac D, Andrejak M, Capron JP. [Hepatitis due to antiepileptic agents] Gastroenterol Clin Biol 1985; 9: 117-26. <annotation><p><italic toggle="yes">(Review of hepatotoxicity of anticonvulsants; among benzodiazepines, cases of cholestatic hepatitis have been linked to chlordiazepoxide and diazepam, but liver injury from this class of drugs is rare).</italic></p></annotation><pub-id pub-id-type="pmid">3920108</pub-id></mixed-citation>
+          </ref>
+          <ref id="BenzodiazepineDrugs.R26">
+            <mixed-citation publication-type="journal">Judd FK, Norman TR, Marriott PF, Burrows GD. A case of alprazolam-related hepatitis. Am J Psychiatry 1986; 143: 388-9. <annotation><p><italic toggle="yes">(59 year old woman developed lethargy 2 weeks after starting alprazolam followed by jaundice [bilirubin 2.6 mg/dL, AST 156 U/L, Alk P 241 U/L], resolving within 4 weeks of switching to diazepam).</italic></p></annotation><pub-id pub-id-type="pmid">2869702</pub-id></mixed-citation>
+          </ref>
+          <ref id="BenzodiazepineDrugs.R27">
+            <mixed-citation publication-type="journal">Noyes R, DuPont RL, Pecknold JC, Rifkin A, Rubin RT, Swinson RP, Ballenger JC, et al. Alprazolam in panic disorder and agoraphobia: results from a multicenter trial. Arch Gen Psychiatry 1988; 45: 423-8. <annotation><p><italic toggle="yes">(Controlled trial of alprazolam vs placebo in 525 patients with panic disorder; side effects were sedation, ataxia, fatigue, slurred speech, amnesia and increased appetite; 2 patients on alprazolam developed liver disease, one with jaundice at 4 weeks, resolving quickly on stopping and a second with abnormal laboratory values that returned to normal with lowering the dose; details not given).</italic></p></annotation><pub-id pub-id-type="pmid">3358644</pub-id></mixed-citation>
+          </ref>
+          <ref id="BenzodiazepineDrugs.R28">
+            <mixed-citation publication-type="journal">Olsson R, Zettergren L. Anticonvulsant-induced liver damage. Am J Gastroenterol 1988; 83: 576-7. <annotation><p><italic toggle="yes"> (30 year old man developed fever, rash and jaundice 6 weeks after starting phenytoin; he was switched to carbamazepine and clonazepam, but redeveloped jaundice 3 months later; resolved with stopping, but recurred with restarting clonazepam alone [bilirubin 1.8 mg/dL, ALT 1380 U/L, Alk P 176 U/L] without rash, fever or eosinophilia; resolving in 6 weeks of stopping clonazepam).</italic></p></annotation><pub-id pub-id-type="pmid">3364416</pub-id></mixed-citation>
+          </ref>
+          <ref id="BenzodiazepineDrugs.R29">
+            <mixed-citation publication-type="journal">Habersetzer F, Larrey D, Babany G, Degott C, Corbic M, Pessayre D, Benhamou JP. Clotiazepam-induced acute hepatitis. J Hepatol 1989; 9: 256-9. <annotation><p><italic toggle="yes"> (65 year old woman developed jaundice 6 months after starting clotiazepam [bilirubin 5.1 mg/dL, ALT 1028 U/L, GGT 143 U/L] with no rash or fever, resolving on stopping clotiazepam and no recurrence after taking triazolam and temazepam).</italic></p></annotation><pub-id pub-id-type="pmid">2572625</pub-id></mixed-citation>
+          </ref>
+          <ref id="BenzodiazepineDrugs.R30">
+            <mixed-citation publication-type="journal">Nahata MC, Murray RD, Zingarelli J, Li BU, McClung HJ, Lininger B. Efficacy and safety of a diazepam and meperidine combination for pediatric gastrointestinal procedures. J Pediatr Gastroenterol Nutr 1990; 10: 335-8. <annotation><p><italic toggle="yes"> (Safety of use of intravenous diazepam in children undergoing endoscopy; no mention of ALT abnormalities or liver injury). </italic></p></annotation><pub-id pub-id-type="pmid">2324894</pub-id></mixed-citation>
+          </ref>
+          <ref id="BenzodiazepineDrugs.R31">
+            <mixed-citation publication-type="journal">Clobazam in treatment of refractory epilepsy: the Canadian experience. A retrospective study. Canadian Clobazam Cooperative Group. Epilepsia 1991; 32: 407-16. <annotation><p><italic toggle="yes">(Retrospective survey of Canadian neurologists with experience using clobazam in refractory epilepsy in a total of 877 patients; 32% had adverse events, most commonly somnolence, dizziness, ataxia, mood changes, hostility, blurred vision and weight gain; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">2044502</pub-id></mixed-citation>
+          </ref>
+          <ref id="BenzodiazepineDrugs.R32">
+            <mixed-citation publication-type="journal">Suzuki A, Aso K, Ariyoshi C, Ishimaru M. Acute intermittent porphyria and epilepsy: safety of clonazepam. Epilepsia 1992; 33: 108-11. <annotation><p><italic toggle="yes"> (13 year old girl with acute intermittent porphyria worsened on valproate and on phenytoin therapy, but clonazepam led to control of seizures and no worsening of porphyria).</italic></p></annotation><pub-id pub-id-type="pmid">1733741</pub-id></mixed-citation>
+          </ref>
+          <ref id="BenzodiazepineDrugs.R33">
+            <mixed-citation publication-type="journal">Hindmarch I, Fairweather DB, Rombaut N. Adverse events after triazolam substitution. Lancet 1993; 341: 55: 8093301<annotation><p><italic toggle="yes">(Survey of UK physicians, one year after withdrawal of triazolam in the UK, found higher rate of adverse reactions [largely CNS] with replacements such as temazepam, loprazolam, nitrazepam and lormetazepam, but no mention of hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">8093301</pub-id></mixed-citation>
+          </ref>
+          <ref id="BenzodiazepineDrugs.R34">
+            <mixed-citation publication-type="journal">Andrade RJ, Lucena MI, Alcantara R, Fraile JM. Bentazepam-associated chronic liver disease. Lancet 1994; 343: 860. <annotation><p><italic toggle="yes"> (65 year old man developed fatigue and weight loss 4 months after starting bentazepam [normal bilirubin, ALT 142 U/L, GGT 109 U/L, normal Alk P], biopsy showed chronic hepatitis, piecemeal necrosis and bridging fibrosis and abnormalities, resolved upon stopping).</italic></p></annotation><pub-id pub-id-type="pmid">7908109</pub-id></mixed-citation>
+          </ref>
+          <ref id="BenzodiazepineDrugs.R35">
+            <mixed-citation publication-type="journal">Andrade RJ, Lucena MI, Aguilar J, Lazo MD, Camargo R, Moreno P, Garc&#x000ed;a-Esca&#x000f1;o MD, et al. Chronic liver injury related to use of bentazepam: an unusual instance of benzodiazepine hepatotoxicity. Dig Dis Sci 2000; 45: 1400-4. <annotation><p><italic toggle="yes">(3 cases of liver injury after taking bentazepam for 1, 3 and 5 months with elevated bilirubin in one [4.6 mg/dL]; variable ALT [117-1050 U/L], and Alk P elevations [154-346 U/L]; rapid resolution; some patients switched to other benzodiazepines without difficulty).</italic></p></annotation><pub-id pub-id-type="pmid">10961721</pub-id></mixed-citation>
+          </ref>
+          <ref id="BenzodiazepineDrugs.R36">
+            <mixed-citation publication-type="journal">Moulin CH, Rolachon A, Cohard M, Girard M, Bichard P, Pasquier D, Mallaret M, et al. [Fulminant hepatitis secondary to alprazolam] Therapie 1994; 49: 362-3. French. <annotation><p><italic toggle="yes"> (64 year old man developed jaundice and confusion 3 weeks after starting alprazolam [bilirubin 4.1 mg/dL, ALT 100 times ULN, Alk P 3.4 times ULN and prothrombin index of 19%], resolution starting within one week and all tests returning to normal by 3 months).</italic></p></annotation><pub-id pub-id-type="pmid">7878609</pub-id></mixed-citation>
+          </ref>
+          <ref id="BenzodiazepineDrugs.R37">
+            <mixed-citation publication-type="journal">Wallace SJ. A comparative review of the adverse effects of anticonvulsants in children with epilepsy. Drug Saf 1996; 15: 378-93. <annotation><p><italic toggle="yes">(Systematic review; ALT elevations occur in 4% of children on phenytoin, 6% on valproate, 1% on carbamazepine; &#x0201c;No child taking&#x02026; benzodiazepines had raised liver enzyme levels,&#x0201d;).</italic></p></annotation><pub-id pub-id-type="pmid">8968693</pub-id></mixed-citation>
+          </ref>
+          <ref id="BenzodiazepineDrugs.R38">
+            <mixed-citation publication-type="journal">Lewis JH, Zimmerman HJ. Drug- and chemical-induced cholestasis. Clin Liver Dis 1999; 3: 433-64, vii. <annotation><p><italic toggle="yes">(Review of drug induced cholestatic syndromes, listing many causes including chlordiazepoxide and flurazepam; &#x0201c;Benzodiazepines may cause cholestatic injury, although this is rare&#x0201d;).</italic></p></annotation><pub-id pub-id-type="pmid">11291233</pub-id></mixed-citation>
+          </ref>
+          <ref id="BenzodiazepineDrugs.R39">
+            <mixed-citation publication-type="journal">Selim K, Kaplowitz N. Hepatotoxicity of psychotropic drugs. Hepatology 1999; 29: 1347-51. <annotation><p><italic toggle="yes">(Review of hepatotoxicity of phenothiazines, butyrophenones, tricyclics, MAO inhibitors, acetylcholesterase inhibitors, and psychotropic drugs of abuse; &#x0201c;benzodiazepines&#x02026;have a very low hepatotoxic potential, with only case reports in the literature, usually with a cholestatic pattern).</italic></p></annotation><pub-id pub-id-type="pmid">10216114</pub-id></mixed-citation>
+          </ref>
+          <ref id="BenzodiazepineDrugs.R40">
+            <mixed-citation publication-type="journal">de la Serna, Gil-Grande LA, Sanroman AL, Gonzalez M, Ruiz-del-Arbol L, Garcia Plaza A. Bentazepam-induced hepatic bridging necrosis. J Clin Gastroenterol 1997; 25: 710-1. <annotation><p><italic toggle="yes"> (Bentazepam is a benzodiazepine used in Europe since 1981; 49 year old woman developed liver test abnormalities without symptoms 2 months after starting bentazepam [normal bilirubin, ALT 136 U/L, GGT 61 U/L], which persisted for 10 months and resolved rapidly when drug was stopped; biopsy showed chronic hepatitis with bridging necrosis).</italic></p></annotation><pub-id pub-id-type="pmid">9451703</pub-id></mixed-citation>
+          </ref>
+          <ref id="BenzodiazepineDrugs.R41">
+            <mixed-citation publication-type="journal">Kanda T, Yokosuka O, Fujiwara K, Saisho H, Shiga H, Oda S, Okuda K, et al. Fulminant hepatic failure associated with triazolam. Dig Dis Sci 2002; 47: 1111-4. <annotation><p><italic toggle="yes">(64 year old woman developed acute liver failure after taking triazolam intermittently for a year [bilirubin 6.1 rising to 18.6 mg/dL, ALT 1272 U/L] with progressive ascites and encephalopathy; successful living donor liver transplant 1 month after onset).</italic></p></annotation><pub-id pub-id-type="pmid">12018909</pub-id></mixed-citation>
+          </ref>
+          <ref id="BenzodiazepineDrugs.R42">
+            <mixed-citation publication-type="journal">Andrade RJ, L&#x000f3;pez-Torres E, Lucena MI, Fern&#x000e1;ndez Mdel C. [Acute hepatitis due to bentazepam]. Med Clin (Barc) 2003; 120: 678-9. Spanish. <annotation><p><italic toggle="yes">(Bentazepam is an oral benzodiazepine that was approved for use in anxiety in 1981 in Spain [but never in the US]; 55 year old woman developed fatigue within 2 weeks and jaundice with 4-5 months of starting bentazepam therapy [bilirubin 9.3 mg/dL, ALT 1932 U/L, Alk P 160 U/L], improving after stopping).</italic></p></annotation><pub-id pub-id-type="pmid">12747823</pub-id></mixed-citation>
+          </ref>
+          <ref id="BenzodiazepineDrugs.R43">
+            <mixed-citation publication-type="journal">Russo MW, Galanko JA, Shrestha R, Fried MW, Watkins P. Liver transplantation for acute liver failure from drug-induced liver injury in the United States. Liver Transpl 2004; 10: 1018-23. <annotation><p><italic toggle="yes">(Among ~50,000 liver transplants done in the US between 1990 and 2002, 137 [0.2%] were done for idiosyncratic drug induced acute liver failure, of which 10 were attributed to phenytoin, 10 to valproate and 1 to carbamazepine, but none to benzodiazepines).</italic></p></annotation><pub-id pub-id-type="pmid">15390328</pub-id></mixed-citation>
+          </ref>
+          <ref id="BenzodiazepineDrugs.R44">
+            <mixed-citation publication-type="journal">Bj&#x000f6;rnsson E, Jerlstad P, Bergqvist A, Olsson R. Fulminant drug-induced hepatic failure leading to death or liver transplantation in Sweden. Scand J Gastroenterol 2005; 40: 1095-101. <annotation><p><italic toggle="yes">(36 years of reporting to Swedish registry identified 103 cases of acute liver failure due to drugs, of which 1 was attributed to phenytoin, 1 to valproate and 1 to carbamazepine, but none to benzodiazepines).</italic></p></annotation><pub-id pub-id-type="pmid">16165719</pub-id></mixed-citation>
+          </ref>
+          <ref id="BenzodiazepineDrugs.R45">
+            <mixed-citation publication-type="journal">Gil-Martin A, Saez-Royuela F, Arias L, Angulo ML, Nogal B. [Hepatic fibrosis after antidepressant treatment] Rev Esp Enferm Dig 2005; 97: 461-2. Spanish. <annotation><p><italic toggle="yes"> (32 year old woman developed pruritis and jaundice 1-2 months after starting sertraline, aprazolam and clorazepate, resolving with stopping sertraline, but had persistent minor ALT elevations and biopsy showing mild bridging fibrosis 4 months later).</italic></p></annotation><pub-id pub-id-type="pmid">16048430</pub-id></mixed-citation>
+          </ref>
+          <ref id="BenzodiazepineDrugs.R46">
+            <mixed-citation publication-type="journal">Andrade RJ, Lucena MI, Kaplowitz N, Garc&#x000ed;a-Mu&#x00146;oz B, Borraz Y, Pachkoria K, Garc&#x000ed;a-Cort&#x000e9;s M, et al. Outcome of acute idiosyncratic drug-induced liver injury: Long-term follow-up in a hepatotoxicity registry. Hepatology. 2006; 44: 1581-8. <annotation><p><italic toggle="yes">(28 of 493 [5.7%] cases of drug induced liver disease had evidence of chronicity, including 3 cases due to bentazepam and one with clorazepate, the latter with recovery at 25 months).</italic></p></annotation><pub-id pub-id-type="pmid">17133470</pub-id></mixed-citation>
+          </ref>
+          <ref id="BenzodiazepineDrugs.R47">
+            <mixed-citation publication-type="journal">Sabat&#x000e9; M, Ib&#x000e1;&#x000f1;ez L, P&#x000e9;rez E, Vidal X, Buti M, Xiol X, Mas A, et al. Risk of acute liver injury associated with the use of drugs: a multicentre population survey. Aliment Pharmacol Ther 2007; 25: 1401-9. <annotation><p><italic toggle="yes">(Among 126 cases of drug induced liver injury seen in Spain between 1993-2000, 20 were attributed to benzodiazepines including 5 for clorazepate, 5 alprazolam, 6 lorazepam and 4 diazepam, but compared to controls, relative risk of injury was increased only for clorazepate [8.3: estimated frequency 3.4 per 100,000 person-year exposures]).</italic></p></annotation><pub-id pub-id-type="pmid">17539979</pub-id></mixed-citation>
+          </ref>
+          <ref id="BenzodiazepineDrugs.R48">
+            <mixed-citation publication-type="journal">Chalasani N, Fontana RJ, Bonkovsky HL, Watkins PB, Davern T, Serrano J, Yang H, Rochon J; Drug Induced Liver Injury Network (DILIN). Causes, clinical features, and outcomes from a prospective study of drug-induced liver injury in the United States. Gastroenterology 2008; 135: 1924-34. <annotation><p><italic toggle="yes">(Among 300 cases of drug induced liver disease in the US collected from 2004 to 2008, none were attributed to a benzodiazepine).</italic></p></annotation><pub-id pub-id-type="pmid">18955056</pub-id></mixed-citation>
+          </ref>
+          <ref id="BenzodiazepineDrugs.R49">
+            <mixed-citation publication-type="journal">Bj&#x000f6;rnsson E. Hepatotoxicity associated with antiepileptic drugs. Acta Neurol Scand 2008; 118: 281-90. <annotation><p><italic toggle="yes">(Review of hepatotoxicity of all anticonvulsants focusing upon phenytoin, valproate, carbamazepine; &#x0201c;Furthermore, hepatoxicity has not been convincingly shown to be associated with the use of benzodiazepines&#x0201d;).</italic></p></annotation><pub-id pub-id-type="pmid">18341684</pub-id></mixed-citation>
+          </ref>
+          <ref id="BenzodiazepineDrugs.R50">
+            <mixed-citation publication-type="journal">
+              <annotation>
+                <p>
+                  <italic toggle="yes">Conry JA, Ng YT, Paolicchi JM, Kernitsky L, Mitchell WG, Ritter FJ, Collins SD, Tracy K, et al. Clobazam in the treatment of Lennox-Gastaut syndrome. Epilepsia 2009; 50: 1158-66. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/pubmed/19170737">PubMed Citation</ext-link> (Among 68 children with Lennox-Gastaut syndrome who were treated with either low or high dose clobazam for 7 weeks, seizure reduction was more frequent with the higher dose as were side effects, which included somnolence, sedation, constipation, salivation, insomnia, irritability and lability; no mention of ALT elevations or hepatotoxicity).</italic>
+                </p>
+              </annotation>
+            </mixed-citation>
+          </ref>
+          <ref id="BenzodiazepineDrugs.R51">
+            <mixed-citation publication-type="journal">Ferrajolo C, Capuano A, Verhamme KM, Schuemie M, Rossi F, Stricker BH, Sturkenboom MC. Drug-induced hepatic injury in children: a case/non-case study of suspected adverse drug reactions in VigiBase. Br J Clin Pharmacol 2010; 70: 721-8. <annotation><p><italic toggle="yes">(Worldwide pharmacovigilance database contained 9036 hepatic adverse drug reactions in children; benzodiazepines were not among the top 40 agents implicated).</italic></p></annotation><pub-id pub-id-type="pmid">21039766</pub-id></mixed-citation>
+          </ref>
+          <ref id="BenzodiazepineDrugs.R52">
+            <mixed-citation publication-type="journal">Reuben A, Koch DG, Lee WM; Acute Liver Failure Study Group. Drug-induced acute liver failure: results of a U.S. multicenter, prospective study. Hepatology 2010; 52: 2065-76. <annotation><p><italic toggle="yes">(Among 1198 patients with acute liver failure enrolled in a US prospective study between 1998 and 2007, 133 were attributed to drug induced liver injury, but none were linked to benzodiazepine use).</italic></p></annotation><pub-id pub-id-type="pmid">20949552</pub-id></mixed-citation>
+          </ref>
+          <ref id="BenzodiazepineDrugs.R53">
+            <mixed-citation publication-type="journal">Ng YT, Conry JA, Drummond R, Stolle J, Weinberg MA; OV-1012 Study Investigators. Randomized, phase III study results of clobazam in Lennox-Gastaut syndrome. Neurology. 2011; 77: 1473-81. <annotation><p><italic toggle="yes">(Among 238 patients with Lennox-Gastaut syndrome treated with one of 3 doses of clobazam or placebo for at least 18 weeks, no patient developed serious hepatic adverse events and there were no abnormal clinical laboratory results linked to clobazam therapy).</italic></p></annotation><pub-id pub-id-type="pmid">21956725</pub-id></mixed-citation>
+          </ref>
+          <ref id="BenzodiazepineDrugs.R54">
+            <mixed-citation publication-type="journal">Clobazam (Onfi) for Lennox-Gastaut syndrome. Med Lett Drugs Ther 2012; 54 (1385): 18-9. <annotation><p><italic toggle="yes">(Concise review of the pharmacology, clinical efficacy, adverse events, drug interactions and costs of clobazam for Lennox-Gastaut syndrome shortly after its approval for this indication in the US; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">22382580</pub-id></mixed-citation>
+          </ref>
+          <ref id="BenzodiazepineDrugs.R55">
+            <mixed-citation publication-type="journal">Yang LP, Scott LJ. Clobazam : in patients with Lennox-Gastaut syndrome. CNS Drugs 2012; 26: 983-91. <annotation><p><italic toggle="yes">(Summary of the structure, mechanism of action, pharmacology, clinical efficacy and safety of clobazam for Lennox Gastaut syndrome; no mention of hepatotoxicity or ALT elevations).</italic></p></annotation><pub-id pub-id-type="pmid">23034582</pub-id></mixed-citation>
+          </ref>
+          <ref id="BenzodiazepineDrugs.R56">
+            <mixed-citation publication-type="journal">Ng YT, Conry J, Paolicchi J, Kernitsky L, Mitchell W, Drummond R, Isojarvi J, Lee D, Owen R; OV-1004 study investigators. Long-term safety and efficacy of clobazam for Lennox-Gastaut syndrome: interim results of an open-label extension study. Epilepsy Behav 2012; 25: 687-94. <annotation><p><italic toggle="yes">(Among 267 children and adults who participated in controlled trials of clobazam and were enrolled in a long term extension study, 13 discontinued therapy because of side effects and six died, but none were attributed to hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">23141144</pub-id></mixed-citation>
+          </ref>
+          <ref id="BenzodiazepineDrugs.R57">
+            <mixed-citation publication-type="journal">Wick JY. The history of benzodiazepines. Consult Pharm 2013; 28: 538-48. <annotation><p><italic toggle="yes"> (History of the development, approval, widescale use and eventual restriction and decrease in use of the benzodiazepines).</italic></p></annotation><pub-id pub-id-type="pmid">24007886</pub-id></mixed-citation>
+          </ref>
+          <ref id="BenzodiazepineDrugs.R58">
+            <mixed-citation publication-type="journal">Bj&#x000f6;rnsson ES, Bergmann OM, Bj&#x000f6;rnsson HK, Kvaran RB, Olafsson S. Incidence, presentation and outcomes in patients with drug-induced liver injury in the general population of Iceland. Gastroenterology 2013; 144: 1419-25. <annotation><p><italic toggle="yes">(In a population based study of drug induced liver injury from Iceland, 96 cases were identified over a 2 year period, but none were linked to benzodiazepines).</italic></p></annotation><pub-id pub-id-type="pmid">23419359</pub-id></mixed-citation>
+          </ref>
+          <ref id="BenzodiazepineDrugs.R59">
+            <mixed-citation publication-type="journal">Wheless JW, Phelps SJ. Clobazam: a newly approved but well-established drug for the treatment of intractable epilepsy syndromes. J Child Neurol 2013; 28: 219-29. <annotation><p><italic toggle="yes">(Review of the pharmacology, safety and efficacy of clobazam in Lennox Gastaut syndrome; no mention of hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">23112237</pub-id></mixed-citation>
+          </ref>
+          <ref id="BenzodiazepineDrugs.R60">
+            <mixed-citation publication-type="journal">Drugs for epilepsy. Treat Guidel Med Lett 2013; 11: 9-18. <annotation><p><italic toggle="yes">(Concise review of indications and side effects of anticonvulsants; clobazam is approved only for treatment of severe seizures associated with Lennox-Gastaut syndrome; no mention of hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">23348233</pub-id></mixed-citation>
+          </ref>
+          <ref id="BenzodiazepineDrugs.R61">
+            <mixed-citation publication-type="journal">Bj&#x000f6;rnsson ES, Bergmann OM, Bj&#x000f6;rnsson HK, Kvaran RB, Olafsson S. Incidence, presentation and outcomes in patients with drug-induced liver injury in the general population of Iceland. Gastroenterology 2013; 144: 1419-25. <annotation><p><italic toggle="yes">(In a population based study of drug induced liver injury from Iceland, 96 cases were identified over a 2 year period, but none of the 96, none were attributed to clobazam or other benzodiazepines).</italic></p></annotation><pub-id pub-id-type="pmid">23419359</pub-id></mixed-citation>
+          </ref>
+          <ref id="BenzodiazepineDrugs.R62">
+            <mixed-citation publication-type="journal">Klehm J, Thome-Souza S, S&#x000e1;nchez Fern&#x000e1;ndez I, Bergin AM, Bolton J, Harini C, Kadish NE, et al. Clobazam: effect on frequency of seizures and safety profile in different subgroups of children with epilepsy. Pediatr Neurol 2014; 51: 60-6. <annotation><p><italic toggle="yes">(Among 300 children with seizures treated with clobazam for more than 1 month at a single referral center, 28% became seizure free and the most common side effects were tiredness [15%] and mood or behavioral changes [8%]; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">24830765</pub-id></mixed-citation>
+          </ref>
+          <ref id="BenzodiazepineDrugs.R63">
+            <mixed-citation publication-type="journal">Conry JA, Ng YT, Kernitsky L, Mitchell WG, Veidemanis R, Drummond R, Isojarvi J, Lee D, et al.; OV-1004 Study Investigators. Stable dosages of clobazam for Lennox-Gastaut syndrome are associated with sustained drop-seizure and total-seizure improvements over 3 years. Epilepsia 2014; 55: 558-67. <annotation><p><italic toggle="yes">(Among 267 patients with Lennox-Gastaut syndrome enrolled in a long term, open label, observational study of clozabam, adverse events were similar to those in controlled trials and none of the serious adverse events or the 18 discontinuations because of side effects or the 10 deaths were attributed to liver injury).</italic></p></annotation><pub-id pub-id-type="pmid">24580023</pub-id></mixed-citation>
+          </ref>
+          <ref id="BenzodiazepineDrugs.R64">
+            <mixed-citation publication-type="journal">Hern&#x000e1;ndez N, Bessone F, S&#x000e1;nchez A, di Pace M, Brahm J, Zapata R, A Chirino R, et al. Profile of idiosyncratic drug induced liver injury in Latin America. An analysis of published reports. Ann Hepatol 2014; 13: 231-9. <annotation><p><italic toggle="yes">(Systematic review of literature of drug induced liver injury in Latin American countries published from 1996 to 2012 identified 176 cases, but none were attributed to a benzodiazepine).</italic></p></annotation><pub-id pub-id-type="pmid">24552865</pub-id></mixed-citation>
+          </ref>
+          <ref id="BenzodiazepineDrugs.R65">
+            <mixed-citation publication-type="journal">Chalasani N, Bonkovsky HL, Fontana R, Lee W, Stolz A, Talwalkar J, Reddy KR, et al.; United States Drug Induced Liver Injury Network. Features and outcomes of 899 patients with drug-induced liver injury: The DILIN Prospective Study. Gastroenterology 2015; 148: 1340-52.e7. <annotation><p><italic toggle="yes">(Among 899 cases of drug induced liver injury enrolled in a US prospective study between 2004 and 2013, no cases were attributed to a benzodiazepine).</italic></p></annotation><pub-id pub-id-type="pmid">25754159</pub-id></mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec id="BenzodiazepineDrugs.OTHER_REFERENCE_LINK" sec-type="link-group">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=(Benzodiazepine/AE+NOT+clavulanic+acid)+AND+Human%5BMH%5D+AND+(jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D%3A%222999/12/31%22%5BEDat%5D)">Recent References on Benzodiazepines: from PubMed.gov</ext-link>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Benzodiazepine">Trials on Benzodiazepines: from ClinicalTrials.gov</ext-link>
+            </p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

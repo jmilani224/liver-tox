@@ -1,0 +1,604 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Lonafarnib" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Lonafarnib</book-part-id>
+      <title-group>
+        <title>Lonafarnib</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>7</day>
+          <month>1</month>
+          <year>2021</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Lomustine" document-type="chapter">Lomustine</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="LoopDiuretics" document-type="chapter">Loop Diuretics</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Lonafarnib.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Lonafarnib.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Lonafarnib is an oral, small molecule inhibitor of farnesyltransferase that is used to treat Hutchison-Gilford progeria syndrome and is under investigation as therapy of chronic hepatitis D. Lonafarnib is associated with transient and usually mild elevations in serum aminotransferase levels during therapy, but has not been linked to cases of clinically apparent acute liver injury.</p>
+        </sec>
+        <sec id="Lonafarnib.Background">
+          <title>Background</title>
+          <p>Lonafarnib (loe&#x0201d; na far&#x02019; nib) is an orally available, specific inhibitor of farnesyltransferase and is approved for the treatment of Hutchinson-Gilford progeria syndrome (HGPS), a rare autosomal dominant form of accelerated aging (arising in 1 in 4 million live births). Persons with HGPS develop cardiovascular disease at a young age and typically die of myocardial infarction, heart failure or stroke before the age of 20. Other manifestations of HGPS include sclerotic skin, joint contracture, bone abnormalities, alopecia, and growth impairment. Lonafarnib acts by prevention of farnesylation of proteins, a post-translational modification which alters membrane attachment. In HGPS a point mutation in the LMNA gene results in an abnormal lamin A protein called &#x0201c;progerin&#x0201d;. Lamin A is a normal component of the nuclear envelope providing structural organization to the nucleus and supporting normal chromatic function, DNA replication, RNA transcription, cell cycling and apoptosis. The abnormal progerin protein, however, lacks the ability to remove the post-translational isoprenyl that allows for membrane attachment. As a result, the abnormal lamin A remains and accumulates, acting as a dominant negative in causing abnormal nuclear membranes. The clinical manifestations of HGPS appear to be due to the abnormalities of nuclear membranes. In animal models and in subsequent human clinical trials, lonafarnib therapy was associated with a decrease in progerin farnesylation as well as a decrease in its accumulation, in clinical abnormalities and cardiovascular complications, resulting in prolonged survival. Lonafarnib was approved for use in HGPS in the United States in 2020. Lonafarnib has also been evaluated in several forms of cancer associated with abnormal RAS (whose activation is dependent on farnesyltransferase) and for chronic hepatitis D virus infection (the HDV replicative cycle requires the same enzyme). Current indications for lonafarnib are limited to patients with HGPS (or other processing-deficient progeroid laminopathies) who are 12 months of age or above with body surface area of at least 0.39/m<sup>2</sup>. Lonafarnib is available in capsules of 50 and 75 mg under the brand name Zokinvy. The recommended initial dose is 115 mg/m<sup>2</sup> twice daily increasing after 4 months to 150 mg/m<sup>2</sup> twice daily. Side effects are common, particularly with higher doses and include diarrhea, nausea, vomiting, abdominal pain, musculoskeletal pain, fatigue, electrolyte abnormalities (hypokalemia, hyponatremia, hypocalcemia), cough, hypertension, myelosuppression and infections. Severe adverse events include dehydration, electrolyte imbalance, nephrotoxicity, retinal abnormalities, impaired fertility, and embryo-fetal toxicity. Monitoring of electrolytes, complete blood counts and liver enzymes is recommended.</p>
+        </sec>
+        <sec id="Lonafarnib.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>In the small prelicensure clinical trials conducted in children with progeria, serum aminotransferase elevations occurred in 35% of lonafarnib treated subjects but were usually mild and self-limited, rising to above 3 times the upper limit of normal (ULN) in only 5%. There were no liver related serious adverse events and no patient had a concurrent elevation in serum aminotransferase and bilirubin levels. Since approval of lonafarnib, there have been no published reports of drug induced liver injury associated with its use, although clinical experience with the drug, particularly with long term therapy, has been limited.</p>
+          <p>Likelihood score: E* (unproven but suspected rare cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Lonafarnib.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The causes of serum enzyme elevations during lonafarnib therapy are not known. Lonafarnib is metabolized in the liver largely through the cytochrome P450 pathway and specifically by CYP 3A4, and liver injury may be related to production of a toxic or immunogenic intermediate. Because it is a substrate for CYP 3A4, lonafarnib is susceptible to drug-drug interactions with agents that inhibit or induce this specific hepatic microsomal activity.</p>
+        </sec>
+        <sec id="Lonafarnib.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>Monitoring of laboratory tests including routine liver tests is recommended for patients treated with lonafarnib. Serum aminotransferase elevations above 5 times the upper limit of normal (if confirmed) or any elevations accompanied by jaundice or symptoms should lead to dose reduction or temporary cessation. There are no data to suggest a cross reactivity in risk for hepatic injury between lonafarnib and other small molecule enzyme inhibitors.</p>
+          <p>Drug Class: Genetic Disease Agents, <related-object link-type="booklink" source-id="livertox" document-id="ProteinKinaseInhibit" document-type="chapter">Protein Kinase Inhibitors</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Lonafarnib.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <p>
+          <bold>REPRESENTATIVE TRADE NAMES</bold>
+        </p>
+        <p>Lonafarnib &#x02013; Zokinvy&#x000ae;</p>
+        <p>
+          <bold>DRUG CLASS</bold>
+        </p>
+        <p>Genetic Disease Agents, Small Molecule Enzyme Inhibitors</p>
+        <p>
+          <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Lonafarnib">COMPLETE LABELING</ext-link>
+        </p>
+        <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+      </sec>
+      <sec id="Lonafarnib.CHEMICAL_FORMULA_AND_STRUCTUR">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Lonafarnib.Tc" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th id="hd_h_Lonafarnib.Tc_1_1_1_1" valign="top" align="left" scope="col" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Lonafarnib.Tc_1_1_1_2" valign="top" align="left" scope="col" rowspan="1" colspan="1">CAS REGISTRY NO.</th>
+                <th id="hd_h_Lonafarnib.Tc_1_1_1_3" valign="top" align="left" scope="col" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Lonafarnib.Tc_1_1_1_4" valign="top" align="left" scope="col" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Lonafarnib.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Lonafarnib</td>
+                <td headers="hd_h_Lonafarnib.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135105633">193275-84-2</ext-link>
+                </td>
+                <td headers="hd_h_Lonafarnib.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">C27-H31-Br2-Cl-N4-O2</td>
+                <td headers="hd_h_Lonafarnib.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">
+                  <related-object link-type="ext-image-back-link" source-id="pubchem" document-id="135105633" document-id-type="sid" document-type="summary" object-id="135105633" object-id-type="sid" object-type="image"/>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Lonafarnib.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: January 7, 2020</p>
+        <p>Abbreviations: HGPS, Hutchinson-Gilford progeria syndrome.</p>
+        <ref-list id="Lonafarnib.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Lonafarnib.REF.zimmerman.1999">
+            <mixed-citation publication-type="book">Zimmerman HJ. Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999.<annotation><p><italic toggle="yes">(Review of hepatotoxicity published in 1999 before the availability of protein kinase inhibitors such as lonafarnib).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Lonafarnib.REF.deleve.2013">
+            <mixed-citation publication-type="book">DeLeve LD. Erlotinib. Cancer chemotherapy. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013, pp. 556.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of cancer chemotherapeutic agents discusses several small molecular weight enzyme inhibitors including imatinib, gefitinib, erlotinib and crizotinib, but not lonafarnib).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Lonafarnib.REF.wellstein.2018">
+            <mixed-citation publication-type="book">Wellstein A, Giaccone G, Atkins MB, Sausville EA. Pathway-targeted therapies: monoclonal antibodies, protein kinase inhibitors, and various small molecules. In, Brunton LL, Hilal-Dandan R, Knollman BC, eds. Goodman &#x00026; Gilman's the pharmacological basis of therapeutics. 13th ed. New York: McGraw-Hill, 2018, pp. 1203-36.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics; lonafarnib is not discussed specifically).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Lonafarnib.REF.fda">
+            <mixed-citation publication-type="web"><person-group><collab>FDA</collab></person-group>. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.accessdata.fda.gov/drugsatfda_docs/nda/2020/213969Orig1s000IntegratedR.pdf">https://www.accessdata.fda.gov/drugsatfda_docs/nda/2020/213969Orig1s000IntegratedR.pdf</ext-link><annotation><p><italic toggle="yes">(FDA website with medical review of efficacy and safety of lonafarnib, which formed the basis of its approval for use in Hutchinson-Gilford progeria syndrome [HGPS], mentions that in registration trials in children there were no liver related serious adverse events, and although ALT elevations arose in 35% of children, none were associated with symptoms or jaundice).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Lonafarnib.REF.merideth.2008.592">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Merideth</surname>
+                  <given-names>MA</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Gordon</surname>
+                  <given-names>LB</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Clauss</surname>
+                  <given-names>S</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Sachdev</surname>
+                  <given-names>V</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Smith</surname>
+                  <given-names>AC</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Perry</surname>
+                  <given-names>MB</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Brewer</surname>
+                  <given-names>CC</given-names>
+                </name>
+                <etal/>
+              </person-group>
+              <article-title>Phenotype and course of Hutchinson-Gilford progeria syndrome.</article-title>
+              <source>N Engl J Med</source>
+              <year>2008</year>
+              <volume>358</volume>
+              <fpage>592</fpage>
+              <lpage>604</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Detailed description of clinical features in 15 children with HGPS characterized by decrease in cardiovascular function with age, sclerotic skin, joint contractures, bone abnormalities including osteoporosis, hearing loss, eye abnormalities, alopecia, and growth impairment; ALT levels were normal in all except two children with mild elevations).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">18256394</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Lonafarnib.REF.feldman.2008.1707">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Feldman</surname>
+                  <given-names>EJ</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Cortes</surname>
+                  <given-names>J</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>DeAngelo</surname>
+                  <given-names>DJ</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Holyoake</surname>
+                  <given-names>T</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Simonsson</surname>
+                  <given-names>B</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>O'Brien</surname>
+                  <given-names>SG</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Reiffers</surname>
+                  <given-names>J</given-names>
+                </name>
+                <etal/>
+              </person-group>
+              <article-title>On the use of lonafarnib in myelodysplastic syndrome and chronic myelomonocytic leukemia.</article-title>
+              <source>Leukemia</source>
+              <year>2008</year>
+              <volume>22</volume>
+              <fpage>1707</fpage>
+              <lpage>11</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Among 67 adults with myelodysplastic syndrome or chronic myelomonocytic leukemia treated with lonafarnib [200 or 300 mg twice daily], responses occurred in 24% and 2 patients had a complete remission, while gastrointestinal adverse events were common including diarrhea [79%] which led to discontinuation in 19%; no mention of ALT elevations or hepatotoxicity).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">18548095</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Lonafarnib.REF.ravoet.2008.881">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Ravoet</surname>
+                  <given-names>C</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Mineur</surname>
+                  <given-names>P</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Robin</surname>
+                  <given-names>V</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Debusscher</surname>
+                  <given-names>L</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Bosly</surname>
+                  <given-names>A</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Andr&#x000e9;</surname>
+                  <given-names>M</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>El Housni</surname>
+                  <given-names>H</given-names>
+                </name>
+                <etal/>
+              </person-group>
+              <article-title>Farnesyl transferase inhibitor (lonafarnib) in patients with myelodysplastic syndrome or secondary acute myeloid leukaemia: a phase II study.</article-title>
+              <source>Ann Hematol</source>
+              <year>2008</year>
+              <volume>87</volume>
+              <fpage>881</fpage>
+              <lpage>5</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Among 15 patients with myelodysplastic syndrome or secondary acute leukemia treated with lonafarnib [200 mg twice daily in 4-week courses], response rates were minimal [7%, 1 patient] and adverse events were common and often dose limiting; 4 patients [26%] had ALT elevations but all were self-limited, and there were no severe hepatic adverse events).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">18641985</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Lonafarnib.REF.hanrahan.2009.274">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Hanrahan</surname>
+                  <given-names>EO</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Kies</surname>
+                  <given-names>MS</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Glisson</surname>
+                  <given-names>BS</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Khuri</surname>
+                  <given-names>FR</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Feng</surname>
+                  <given-names>L</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Tran</surname>
+                  <given-names>HT</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Ginsberg</surname>
+                  <given-names>LE</given-names>
+                </name>
+                <etal/>
+              </person-group>
+              <article-title>A phase II study of lonafarnib (SCH66336) in patients with chemorefractory, advanced squamous cell carcinoma of the head and neck.</article-title>
+              <source>Am J Clin Oncol</source>
+              <year>2009</year>
+              <volume>32</volume>
+              <fpage>274</fpage>
+              <lpage>9</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Among 15 patients with refractory head and neck cancer treated with lonafarnib [200 mg twice daily in 28 day cycles], no objective responses were observed and adverse events were common including diarrhea [71%], nausea [64%] and fatigue [57%]; no mention of ALT elevations or hepatotoxicity).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">19433965</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Lonafarnib.REF.gordon.2012.16666">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Gordon</surname>
+                  <given-names>LB</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Kleinman</surname>
+                  <given-names>ME</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Miller</surname>
+                  <given-names>DT</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Neuberg</surname>
+                  <given-names>DS</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Giobbie-Hurder</surname>
+                  <given-names>A</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Gerhard-Herman</surname>
+                  <given-names>M</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Smoot</surname>
+                  <given-names>LB</given-names>
+                </name>
+                <etal/>
+              </person-group>
+              <article-title>Clinical trial of a farnesyltransferase inhibitor in children with Hutchinson-Gilford progeria syndrome.</article-title>
+              <source>Proc Natl Acad Sci U S A</source>
+              <year>2012</year>
+              <volume>109</volume>
+              <fpage>16666</fpage>
+              <lpage>71</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Among 25 children with HGPS treated with lonafarnib [115 mg/m<sup>2</sup> escalated to 150 mg/m<sup>2</sup>] for at least 2 years, weight and cardiovascular endpoints improved overall and while adverse events were frequent, none resulted in drug discontinuations including diarrhea, nausea, vomiting, fatigue and ALT elevations in 10 patients [40%] which were above 3 times ULN in only 2 [8%] and were asymptomatic, anicteric, usually transient, and mostly arising during the first 4 months of therapy).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">23012407</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Lonafarnib.REF.gordon.2014.27">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Gordon</surname>
+                  <given-names>LB</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Massaro</surname>
+                  <given-names>J</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>D'Agostino</surname>
+                  <given-names>RB</given-names>
+                  <suffix>Sr</suffix>
+                </name>
+                <name name-style="western">
+                  <surname>Campbell</surname>
+                  <given-names>SE</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Brazier</surname>
+                  <given-names>J</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Brown</surname>
+                  <given-names>WT</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Kleinman</surname>
+                  <given-names>ME</given-names>
+                </name>
+                <etal/>
+                <collab>Progeria Clinical Trials Collaborative</collab>
+              </person-group>
+              <article-title>Impact of farnesylation inhibitors on survival in Hutchinson-Gilford progeria syndrome.</article-title>
+              <source>Circulation</source>
+              <year>2014</year>
+              <volume>130</volume>
+              <fpage>27</fpage>
+              <lpage>34</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Analysis of survival in 43 patients with HGPS treated with lonafarnib vs matched controls selected from an untreated cohort of 161 children [median survival of 14.6 years] demonstrated improved survival with lonafarnib treatment, survival extension averaging 1.6 years during the median follow up of 5.3 years).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">24795390</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Lonafarnib.REF.koh.2015.1167">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Koh</surname>
+                  <given-names>C</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Canini</surname>
+                  <given-names>L</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Dahari</surname>
+                  <given-names>H</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Zhao</surname>
+                  <given-names>X</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Uprichard</surname>
+                  <given-names>SL</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Haynes-Williams</surname>
+                  <given-names>V</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Winters</surname>
+                  <given-names>MA</given-names>
+                </name>
+                <etal/>
+              </person-group>
+              <article-title>Oral prenylation inhibition with lonafarnib in chronic hepatitis D infection: a proof-of-concept randomised, double-blind, placebo-controlled phase 2A trial.</article-title>
+              <source>Lancet Infect Dis</source>
+              <year>2015</year>
+              <volume>15</volume>
+              <fpage>1167</fpage>
+              <lpage>74</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Among 14 patients with chronic hepatitis D treated with lonafarnib [100 or 200 mg] or placebo once daily for 28 days, there was a decline in HDV RNA in treated subjects [-0.7 and -1.5 log] but not with placebo, and adverse events were common with the higher dose but did not lead to early discontinuation; serum ALT levels were elevated in all three groups before treatment and did not change significantly after starting therapy).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">26189433</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Lonafarnib.REF.gordon.2016.114">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Gordon</surname>
+                  <given-names>LB</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Kleinman</surname>
+                  <given-names>ME</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Massaro</surname>
+                  <given-names>J</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>D'Agostino</surname>
+                  <given-names>RB</given-names>
+                  <suffix>Sr</suffix>
+                </name>
+                <name name-style="western">
+                  <surname>Shappell</surname>
+                  <given-names>H</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Gerhard-Herman</surname>
+                  <given-names>M</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Smoot</surname>
+                  <given-names>LB</given-names>
+                </name>
+                <etal/>
+              </person-group>
+              <article-title>Clinical trial of the protein farnesylation inhibitors lonafarnib, pravastatin, and zoledronic acid in children with Hutchinson-Gilford progeria syndrome.</article-title>
+              <source>Circulation</source>
+              <year>2016</year>
+              <volume>134</volume>
+              <fpage>114</fpage>
+              <lpage>25</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Among 37 patients with HGPS treated with the combination of lonafarnib with pravastatin and zoledronic acid [agents that inhibit farnesylation], bone mineral density improved but there was little evidence that the combination was superior to lonafarnib alone in reducing cardiovascular complications; ALT elevations arose in 11 subjects [30%] and were above 5 times ULN in 4 [11%]).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">27400896</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Lonafarnib.REF.gordon.2018.1687">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Gordon</surname>
+                  <given-names>LB</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Shappell</surname>
+                  <given-names>H</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Massaro</surname>
+                  <given-names>J</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>D'Agostino</surname>
+                  <given-names>RB</given-names>
+                  <suffix>Sr</suffix>
+                </name>
+                <name name-style="western">
+                  <surname>Brazier</surname>
+                  <given-names>J</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Campbell</surname>
+                  <given-names>SE</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Kleinman</surname>
+                  <given-names>ME</given-names>
+                </name>
+                <etal/>
+              </person-group>
+              <article-title>Association of lonafarnib treatment vs no treatment with mortality rate in patients with Hutchinson-Gilford progeria syndrome.</article-title>
+              <source>JAMA</source>
+              <year>2018</year>
+              <volume>319</volume>
+              <fpage>1687</fpage>
+              <lpage>95</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Analysis of survival among 63 patients with HGPS treated with lonafarnib compared to 63 matched untreated historical control patients [from a progeria registry] found a lower mortality rate with lonafarnib therapy with 4 deaths [6%] compared to 17 [27%] in untreated controls followed for a similar period of time).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">29710166</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Lonafarnib.REF.gilman.2019.4580">
+            <element-citation publication-type="journal">
+              <person-group>
+                <name name-style="western">
+                  <surname>Gilman</surname>
+                  <given-names>C</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Heller</surname>
+                  <given-names>T</given-names>
+                </name>
+                <name name-style="western">
+                  <surname>Koh</surname>
+                  <given-names>C.</given-names>
+                </name>
+              </person-group>
+              <article-title>Chronic hepatitis delta: A state-of-the-art review and new therapies.</article-title>
+              <source>World J Gastroenterol</source>
+              <year>2019</year>
+              <volume>25</volume>
+              <fpage>4580</fpage>
+              <lpage>97</lpage>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(Review of the epidemiology, pathogenesis, clinical course and therapy of chronic hepatitis D mentions that lonafarnib has been shown to lower serum levels of HDV RNA and prolonged therapy to be associated with improvements in serum aminotransferase levels, although with difficult side effects when used in high doses and in combination with alpha interferon).</italic>
+                </p>
+              </annotation>
+              <pub-id pub-id-type="pmid">31528088</pub-id>
+            </element-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec sec-type="link-group" id="Lonafarnib.OTHER_REFERENCE_LINKS">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <label>1</label>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=Lonafarnib+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D:%222999/12/31%22%5BEDat%5D)">Recent References on Lonafarnib: from PubMed.gov</ext-link>
+            </p>
+          </list-item>
+          <list-item>
+            <label>2</label>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Lonafarnib">Trials on Lonafarnib: from ClinicalTrials.gov</ext-link>
+            </p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

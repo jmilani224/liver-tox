@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="EncorafenibBinimetin" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">EncorafenibBinimetin</book-part-id>
+      <title-group>
+        <title>Encorafenib</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>15</day>
+          <month>4</month>
+          <year>2019</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Enasidenib" document-type="chapter">Enasidenib</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="EndothelinRcptAntag" document-type="chapter">Endothelin Receptor Antagonists</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="EncorafenibBinimetin.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="EncorafenibBinimetin.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Encorafenib is a selective inhibitor of BRAF kinase that is used in combination with binimetinib, an inhibitor of MEK, in the therapy of metastatic and advanced malignant melanoma. Encorafenib-binimetinib combination therapy is commonly associated with transient elevations in serum aminotransferase levels during therapy, but has yet to be linked to instances of clinically apparent acute liver injury.</p>
+        </sec>
+        <sec id="EncorafenibBinimetin.Background">
+          <title>Background</title>
+          <p>Encorafenib (en' co raf" e nib) is an orally available, inhibitor of mutated forms of BRAF, a serine/threonine kinase that is a component of the mitogen-activated pathway (MAP) kinases, which are important intracellular signals involved in control of cell growth and proliferation. BRAF is an early step in the cascade of MAP kinases (RAS-RAF-MEK-ERK) and is frequently mutated in malignant conditions, including at least half of cases of melanoma. Binimetinib (bin' i me' ti nib) is an orally available inhibitor of MEK, mitogen-activated protein kinase kinase, another important component of the MAP kinase pathway. Encorafenib was shown to have enhanced activity against selected mutants of BRAF in vitro and in animal models. In clinical trials, the combination of encorafenib with binimetinib was associated with an improvement in overall survival in patients with metastatic malignant melanoma with V600E and V600K mutations in comparison to standard therapies. Furthermore, the combination appeared to be better tolerated than encorafenib alone. The combination of encorafenib with binimetinib was approved for use in the United States in 2018 and current indications are for unresectable or metastatic melanoma with the BRAF V600E or V600K mutations. Encorafenib is available in tablets of 50 and 75 mg under the brand name Braftovi and binimetinib as tablets of 15 mg under the brand name Mektovi. The recommended dose regimen is 450 mg of encorafenib once daily in combination with 45 mg of binimetinib twice daily (30 mg twice daily in patients with moderate or severe liver impairment). The combination should be continued until disease progression or unacceptable toxicities arise. Common side effects include fatigue, nausea, arthralgias, rash, alopecia, photosensitivity, pruritus, and skin papilloma. Uncommon but potentially severe side effects include new primary malignancies, both cutaneous and non-cutaneous, hemorrhage, uveitis and other ocular toxicities, rhabdomyolysis, prolongation of QTc intervals and embryo-fetal toxicity.</p>
+        </sec>
+        <sec id="EncorafenibBinimetin.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>In large clinical trials of the combination of encorafenib and binimetinib, abnormalities in routine liver tests were common and serum ALT elevations occurred in 26% of patients. ALT and AST values greater than 5 times the upper limit of normal (ULN) occurred in 6% and led to dose modification or discontinuation in 3.6% of patients. However, the aminotransferase abnormalities were generally transient and asymptomatic and there were no reports of clinically apparent liver injury with jaundice reported from the prelicensure studies. Since its approval and more widespread use, there have been no published instances of clinically apparent hepatotoxicity attributed to this combination therapy, but the total experience with its use has been limited.</p>
+          <p>Likelihood score: E* (unproven but suspected rare cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="EncorafenibBinimetin.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The mechanism of injury accounting for serum enzyme elevations during encorafenib/binimetinib therapy is not known. Encorafenib is metabolized in the liver largely through the CYP 3A4 pathway and is susceptible to drug-drug interactions with agents that inhibit or induce hepatic CYP 3A4 activity. Binimetinib is metabolized largely via UGT1A1 and to a lesser extent by CYP 1A2 and 2C19. The two kinase inhibitors do not appear to affect the metabolic disposition of each other. Discontinuation of binimetinib should lead to a reduction in the dose of encorafenib (to 300 mg daily), while discontinuation of encorafenib should trigger discontinuation of binimetinib.</p>
+        </sec>
+        <sec id="EncorafenibBinimetin.Outcome_and_Managem">
+          <title>Outcome and Management</title>
+          <p>Serum aminotransferase elevations above 5 times the upper limit of normal (if confirmed) or any elevations accompanied by jaundice or symptoms should lead to dose reduction or temporary cessation. There does not appear to be cross reactivity in risk for hepatic injury between encorafenib and binimetinib and other similar kinase inhibitors such as darafenib and vermurafenib and, in some situations, switching to another BRAF/MEK inhibitors may be appropriate.</p>
+          <p>Drug Class: <related-object source-id="livertox" document-id="AntineoplasticAgents">Antineoplastic Agents</related-object>, <related-object source-id="livertox" document-id="ProteinKinaseInhibit">Protein Kinase Inhibitors</related-object></p>
+        </sec>
+      </sec>
+      <sec id="EncorafenibBinimetin.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <boxed-text position="anchor" id="EncorafenibBinimetin.BPI" orientation="portrait">
+          <p>
+            <bold>REPRESENTATIVE TRADE NAMES</bold>
+          </p>
+          <p>Encorafenib &#x02013; Braftovi&#x000ae;</p>
+          <p>Binimetinib &#x02013; Mektovi&#x000ae;</p>
+          <p>
+            <bold>DRUG CLASS</bold>
+          </p>
+          <p>Antineoplastic Agents</p>
+          <p>
+            <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?label=all&#x00026;query=Encorafenib%20and%20Binimetinib">COMPLETE LABELING</ext-link>
+          </p>
+          <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+        </boxed-text>
+      </sec>
+      <sec id="EncorafenibBinimetin.CHEMICAL_FORMULAS_A">
+        <title>CHEMICAL FORMULAS AND STRUCTURES</title>
+        <table-wrap id="EncorafenibBinimetin.T1" position="anchor" orientation="portrait">
+          <table>
+            <thead>
+              <tr>
+                <th id="hd_h_EncorafenibBinimetin.T1_1_1_1_1" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_EncorafenibBinimetin.T1_1_1_1_2" rowspan="1" colspan="1">CAS REGISTRY NO.</th>
+                <th id="hd_h_EncorafenibBinimetin.T1_1_1_1_3" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_EncorafenibBinimetin.T1_1_1_1_4" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_EncorafenibBinimetin.T1_1_1_1_1" rowspan="1" colspan="1">Encorafenib</td>
+                <td headers="hd_h_EncorafenibBinimetin.T1_1_1_1_2" rowspan="1" colspan="1">
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://163643304">1269440-17-6</ext-link>
+                </td>
+                <td headers="hd_h_EncorafenibBinimetin.T1_1_1_1_3" rowspan="1" colspan="1">C22-H27-Cl-F-N7-O4-S</td>
+                <td headers="hd_h_EncorafenibBinimetin.T1_1_1_1_4" rowspan="1" colspan="1">
+                  <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Encorafenib_structure.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait">
+                    <alt-text>Encorafenib and Binimetinib chemical structure</alt-text>
+                  </graphic>
+                </td>
+              </tr>
+              <tr>
+                <td headers="hd_h_EncorafenibBinimetin.T1_1_1_1_1" rowspan="1" colspan="1">Binimetinib</td>
+                <td headers="hd_h_EncorafenibBinimetin.T1_1_1_1_2" rowspan="1" colspan="1">
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://162108908">606143-89-9</ext-link>
+                </td>
+                <td headers="hd_h_EncorafenibBinimetin.T1_1_1_1_3" rowspan="1" colspan="1">C17-H15-Br-F2-N4-O3</td>
+                <td headers="hd_h_EncorafenibBinimetin.T1_1_1_1_4" rowspan="1" colspan="1">
+                  <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Binimetinib_structure.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait">
+                    <alt-text>Binimetinib chemical structure</alt-text>
+                  </graphic>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="EncorafenibBinimetin.ANNOTATED_BIBLIOGRA">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 15 April 2019</p>
+        <ref-list id="EncorafenibBinimetin.ANNOTATED_BIBLIOGRA.reflist0">
+          <ref id="EncorafenibBinimetin.R1">
+            <mixed-citation publication-type="other">Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999.<annotation><p><italic toggle="yes">(Review of hepatotoxicity published in 1999 before the availability of kinase inhibitors such as vemurafenib, encorafenib or binimetinib).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="EncorafenibBinimetin.R2">
+            <mixed-citation publication-type="other">DeLeve LD. Cancer chemotherapy. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013, pp. 556.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of cancer chemotherapeutic agents discusses several kinase inhibitors including imatinib, gefitinib, erlotinib and crizotinib, but not encorafenib or binimetinib).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="EncorafenibBinimetin.R3">
+            <mixed-citation publication-type="other">Wellstein A, Giaccone G, Atkins MB, Sausville EA. Pathway-targeted therapies: monoclonal antibodies, protein kinase inhibitors, and various small molecules. In, Brunton LL, Hilal-Dandan R, Knollman BC, eds. Goodman &#x00026; Gilman's the pharmacological basis of therapeutics. 13th ed. New York: McGraw-Hill, 2018, pp. 1203-36.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="EncorafenibBinimetin.R4">
+            <mixed-citation publication-type="other">
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.accessdata.fda.gov/drugsatfda_docs/nda/2018/210496Orig1s000MultidisciplineR.pdf">https://www.accessdata.fda.gov/drugsatfda_docs/nda/2018/210496Orig1s000MultidisciplineR.pdf</ext-link>
+              <annotation>
+                <p>
+                  <italic toggle="yes">(FDA Clinical Review of safety and efficacy of encorafenib and binimetinib).</italic>
+                </p>
+              </annotation>
+            </mixed-citation>
+          </ref>
+          <ref id="EncorafenibBinimetin.R5">
+            <mixed-citation publication-type="journal">Flaherty KT, Puzanov I, Kim KB, Ribas A, McArthur GA, Sosman JA, O'Dwyer PJ, et al. Inhibition of mutated, activated BRAF in metastatic melanoma. N Engl J Med 2010; 363: 809-19. <annotation><p><italic toggle="yes">(Among 87 patients with metastatic melanoma treated with escalating doses of vemurafenib, objective responses occurred at doses at or above 240 mg twice daily in patients with the BRAF V600E mutation and adverse events included squamous cell carcinoma [21%], arthralgias, rash, nausea, photosensitivity and fatigue; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">20818844</pub-id></mixed-citation>
+          </ref>
+          <ref id="EncorafenibBinimetin.R6">
+            <mixed-citation publication-type="journal">Shah RR, Morganroth J, Shah DR. Hepatotoxicity of tyrosine kinase inhibitors: clinical and regulatory perspectives. Drug Saf 2013; 36: 491-503. <annotation><p><italic toggle="yes">(Review of the hepatotoxicity of 18 tyrosine kinase inhibitors approved for use in cancer in the US as of 2013; aminotransferase elevations occurred in 35-38% of patients in registration trials of vemurafenib, were above 5 times ULN in 3% and cases of clinically apparent liver injury, but not hepatic failure, have been reported).</italic></p></annotation><pub-id pub-id-type="pmid">23620168</pub-id></mixed-citation>
+          </ref>
+          <ref id="EncorafenibBinimetin.R7">
+            <mixed-citation publication-type="journal">Spraggs CF, Xu CF, Hunt CM. Genetic characterization to improve interpretation and clinical management of hepatotoxicity caused by tyrosine kinase inhibitors. Pharmacogenomics 2013; 14: 541-54. <annotation><p><italic toggle="yes">(Review of genetic associations of serum ALT and bilirubin elevations during therapy with tyrosine kinase inhibitors focusing on lapatinib and pazopanib).</italic></p></annotation><pub-id pub-id-type="pmid">23556451</pub-id></mixed-citation>
+          </ref>
+          <ref id="EncorafenibBinimetin.R8">
+            <mixed-citation publication-type="journal">Dummer R, Ascierto PA, Gogas HJ, Arance A, Mandala M, Liszkay G, Garbe C, et al. Encorafenib plus binimetinib versus vemurafenib or encorafenib in patients with BRAF-mutant melanoma (COLUMBUS): a multicentre, open-label, randomised phase 3 trial. Lancet Oncol 2018; 19: 603-15. <annotation><p><italic toggle="yes">(Preliminary report on a controlled trial comparing the combination of encorafenib and binimetinib with encorafenib alone and vermurafenib alone in patients with advanced or metastatic melanoma, mentions that progression free survival was greatest with the combination, and elevations in serum ALT or AST arose in 7% on the combination vs 2% on monotherapy, but there were no serious hepatic adverse events).</italic></p></annotation><pub-id pub-id-type="pmid">29573941</pub-id></mixed-citation>
+          </ref>
+          <ref id="EncorafenibBinimetin.R9">
+            <mixed-citation publication-type="journal">Dummer R, Ascierto PA, Gogas HJ, Arance A, Mandala M, Liszkay G, Garbe C, et al. Overall survival in patients with BRAF-mutant melanoma receiving encorafenib plus binimetinib versus vemurafenib or encorafenib (COLUMBUS): a multicentre, open-label, randomised, phase 3 trial. Lancet Oncol 2018; 19: 1315-27. <annotation><p><italic toggle="yes">(Among 577 patients with advanced or metastatic melanoma and BRAF V600 mutations in a randomized controlled trial [Dummer 2018 above], treatment with the combination of encorafenib and binimetinib led to prolonged overall survival compared to vermurafenib alone but not to encorafenib alone, while tolerability was greatest with the combination although ALT elevations arose in 11% vs 6% and 8% of subjects, which were above 5 times ULN in 5% on the combination vs 1-2% on monotherapy).</italic></p></annotation><pub-id pub-id-type="pmid">30219628</pub-id></mixed-citation>
+          </ref>
+          <ref id="EncorafenibBinimetin.R10">
+            <mixed-citation publication-type="journal">Martin-Liberal J. Encorafenib plus binimetinib: an embarrassment of riches. Lancet Oncol 2018; 19: 1263-4. <annotation><p><italic toggle="yes">(Editorial in response to Dummer [2018] and Dummer [2018]).</italic></p></annotation><pub-id pub-id-type="pmid">30219625</pub-id></mixed-citation>
+          </ref>
+          <ref id="EncorafenibBinimetin.R11">
+            <mixed-citation publication-type="journal">Shirley M. Encorafenib and binimetinib: first global approvals. Drugs 2018; 78: 1277-84. <annotation><p><italic toggle="yes">(Review of the history, mechanism of action, pharmacology, clinical efficacy and safety of the combination of encorafenib and binimetinib as therapy of malignant melanoma; mentions that the two agents target different kinases in the RAS/RAF/MEK/ERK signaling pathway and that together they are better tolerated than kinase inhibitor monotherapies, although ALT elevations above 5 times ULN occur in 6% of patients).</italic></p></annotation><pub-id pub-id-type="pmid">30117021</pub-id></mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec id="EncorafenibBinimetin.OTHER_REFERENCE_LIN" sec-type="link-group">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=Encorafenib+Binimetinib+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D%3A%222999/12/31%22%5BEDat%5D)">Recent References on Encorafenib and Binimetinib: from PubMed.gov</ext-link>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Encorafenib+Binimetinib">Trials on Encorafenib and Binimetinib: from ClinicalTrials.gov</ext-link>
+            </p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

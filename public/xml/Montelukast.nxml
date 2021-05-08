@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Montelukast" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Montelukast</book-part-id>
+      <title-group>
+        <title>Montelukast</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>4</day>
+          <month>6</month>
+          <year>2019</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="MonoclonalAntibodies" document-type="chapter">Monoclonal Antibodies</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Morphine" document-type="chapter">Morphine</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Montelukast.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Montelukast.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Montelukast is an orally available leukotriene receptor antagonist which is widely used for the prophylaxis and chronic treatment of asthma and has been linked to rare cases of clinically apparent liver injury.</p>
+        </sec>
+        <sec id="Montelukast.Background">
+          <title>Background</title>
+          <p>Montelukast (mon" te loo' kast) is a leukotriene receptor antagonist that binds to the CysLT1 and CysLT2 receptors, thereby interfering with inflammatory pathways that are involved in the pathogenesis of asthma and allergic rhinitis. Montelukast has been shown to reduce symptoms of asthma and allergic rhinitis and prevent acute attacks. Montelukast was approved for use in the United States in 1998 and is widely used with more than 20 million prescriptions being filled yearly. Current indications for montelukast include prophylaxis and chronic treatment of asthma, prevention of exercise induced bronchoconstriction and allergic rhinitis. Montelukast is available in several generic forms and under the commercial name Singulair. The recommended dosage for adults is 10 mg once daily. Lower doses and chewable tablets are recommended for pediatric patients. Common side effects include dyspepsia, abdominal discomfort, asthenia, headache, dizziness, fatigue and fever.</p>
+        </sec>
+        <sec id="Montelukast.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>In clinical trials, mild elevations in serum aminotransferase levels were found in 1% to 2% of patients taking montelukast chronically, but similar rates are reported in matched placebo recipients. The ALT abnormalities were usually mild, asymptomatic and self limited. Clinically apparent liver injury from montelukast is rare; but more than a dozen cases reported in the literature. In these cases, the latency to onset of injury was highly variable, ranging from a few days to several years. Patients presented with anorexia, nausea, right upper quadrant pain, dark urine, and jaundice. The pattern of enzyme elevation was usually mixed, but both hepatocellular or cholestatic patterns have been reported. Allergic features and autoantibody formation were rare. Eosinophilia was often reported, but this may have been due to the underlying allergic condition rather than the liver injury. The injury usually resolved within 1 to 4 months of stopping the drug.</p>
+          <p>Likelihood score: B (rare but likely cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Montelukast.Mechanism_of_Liver_Injury">
+          <title>Mechanism of Liver Injury</title>
+          <p>The cause of hepatotoxicity from montelukast is not known, but the rare incidence, absence of immunoallergic features and long latency period suggest that it is not due to hypersensitivity but rather to altered metabolism. Montelukast is metabolized by the cytochrome P450 system, predominantly by CYP 2C8 but also by CYP 3A4 and 2C9, but it appears to have few clinically significant drug-drug interactions. Nevertheless, the rare instances of hepatotoxicity attributed to montelukast may be caused by formation of toxic or immunogenic intermediates during its metabolism.</p>
+        </sec>
+        <sec id="Montelukast.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>Liver injury from montelukast is self limited and resolves in 1 to 4 months. Rechallenge with montelukast may lead to recurrence and should be avoided. Use of other leukotriene receptor antagonists has been reported to be safe, but should be done with caution.</p>
+          <p>Drug Class: <related-object source-id="livertox" document-id="Anti-AsthmaDrugs">Antiasthmatic Agents</related-object></p>
+          <p>Other Drugs in the Subclass, <related-object source-id="livertox" document-id="LeukotrieneRcptAntag">Leukotriene Receptor Antagonists</related-object>: <related-object source-id="livertox" document-id="Zafirlukast">Zafirlukast</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Montelukast.CASE_REPORT">
+        <title>CASE REPORT</title>
+        <sec id="Montelukast.Case_1._Cholestatic_hepatiti">
+          <title>Case 1. Cholestatic hepatitis due to montelukast.</title>
+          <p>[Modified from: Sass DA, Chopra KB, Wu T. A case of montelukast-induced hepatotoxicity. Am J Gastroenterol 2003; 98: 704-5. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/pubmed/12650820">PubMed Citation</ext-link>]</p>
+          <p>A 42 year old man with asthma, sinusitis and nasal polyps developed jaundice and pruritus 10 months after starting chronic therapy with montelukast (10 mg daily). He took no other medications except for metered inhalants. He had no history of liver disease, hepatitis risk factors or alcohol abuse. On examination, he was jaundiced but had no fever, rash or enlargement of liver or spleen. Laboratory testing showed a total serum bilirubin of 7.6 mg/dL, but only modest elevations in serum enzymes (ALT ~1.5 times and Alk P 2 times ULN). There was a mild eosinophilia (9%). Despite stopping therapy promptly, he had prolonged jaundice, and a liver biopsy 3 months after drug discontinuation showed mild resolving intrahepatic cholestasis. Symptoms improved slowly and serum enzymes were normal when tested 4 months after drug withdrawal.</p>
+          <sec id="Montelukast.Key_Points">
+            <title>Key Points</title>
+            <table-wrap id="Montelukast.T1" position="anchor" orientation="portrait">
+              <table>
+                <tbody>
+                  <tr>
+                    <td rowspan="1" colspan="1">Medication:</td>
+                    <td rowspan="1" colspan="1">Montelukast (10 mg daily)</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Pattern:</td>
+                    <td rowspan="1" colspan="1">Cholestatic (R=0.8)</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Severity:</td>
+                    <td rowspan="1" colspan="1">3+ (jaundice and hospitalization)</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Latency:</td>
+                    <td rowspan="1" colspan="1">10 months (to onset of jaundice)</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Recovery:</td>
+                    <td rowspan="1" colspan="1">4 months</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Other medications:</td>
+                    <td rowspan="1" colspan="1">Beta adrenergic agonist and steroid metered dose inhalers</td>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Montelukast.Comment">
+            <title>Comment</title>
+            <p>Cholestatic jaundice arose after 10 months of montelukast therapy. No other cause of liver disease or jaundice was identified and he improved once montelukast was stopped, while other antiasthma medications (metered inhalants) were continued. The latency to onset was unusual and the clinical presentation was that of bland, canalicular cholestasis similar to what occurs with anabolic steroid use. However, this patient denied use of other medications.</p>
+          </sec>
+        </sec>
+      </sec>
+      <sec id="Montelukast.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <boxed-text position="anchor" id="Montelukast.BPI" orientation="portrait">
+          <p>
+            <bold>REPRESENTATIVE TRADE NAMES</bold>
+          </p>
+          <p>Montelukast &#x02013; Generic, Singulair&#x000ae;</p>
+          <p>
+            <bold>DRUG CLASS</bold>
+          </p>
+          <p>Antiasthma Agents</p>
+          <p>
+            <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=montelukast">COMPLETE LABELING</ext-link>
+          </p>
+          <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+        </boxed-text>
+      </sec>
+      <sec id="Montelukast.CHEMICAL_FORMULA_AND_STRUCTU">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Montelukast.T2" position="anchor" orientation="portrait">
+          <table>
+            <thead>
+              <tr>
+                <th id="hd_h_Montelukast.T2_1_1_1_1" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Montelukast.T2_1_1_1_2" rowspan="1" colspan="1">CAS REGISTRY NUMBER</th>
+                <th id="hd_h_Montelukast.T2_1_1_1_3" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Montelukast.T2_1_1_1_4" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Montelukast.T2_1_1_1_1" rowspan="1" colspan="1">Montelukast Sodium</td>
+                <td headers="hd_h_Montelukast.T2_1_1_1_2" rowspan="1" colspan="1">151767-02-1</td>
+                <td headers="hd_h_Montelukast.T2_1_1_1_3" rowspan="1" colspan="1">C35-H36-Cl-N-O3-S.Na</td>
+                <td headers="hd_h_Montelukast.T2_1_1_1_4" rowspan="1" colspan="1">
+                  <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Montelukast_structure.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait">
+                    <alt-text>Montelukast structure</alt-text>
+                  </graphic>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Montelukast.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 04 June 2019</p>
+        <ref-list id="Montelukast.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Montelukast.R1">
+            <mixed-citation publication-type="other">Zimmerman HJ. Respiratory supportive drugs. In, Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999, p. 717.<annotation><p><italic toggle="yes">(Expert review of hepatotoxicity published in 1999; mentions that theophylline has been incriminated in hepatic injury rarely; no mention of montelukast, zafirlukast or zileuton).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Montelukast.R2">
+            <mixed-citation publication-type="other">Lewis JH. Nonsteroidal anti-inflammatory drugs and leukotriene receptor antagonists. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013. pp. 389-90.<annotation><p><italic toggle="yes">(Expert review of liver injury caused by leukotriene receptor antagonists mentions that premarketing trials found elevations of ALT in 1.6% of montelukast- vs 1.2% of placebo-recipients and that rare instances of clinically apparent liver injury have been published since its approval and wide-scale use).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Montelukast.R3">
+            <mixed-citation publication-type="other">Barnes PJ. Pulmonary pharmacology. In, Brunton LL, Hilal-Dandan R, Knollman BC, eds. Goodman &#x00026; Gilman&#x02019;s the pharmacological basis of therapeutics. 13th ed. New York: McGraw-Hill, 2018, pp. 727-50.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Montelukast.R4">
+            <mixed-citation publication-type="journal">Chiba M, Xu X, Nishime JA, Balani SK, Lin JH. Hepatic microsomal metabolism of montelukast, a potent leukotriene D4 receptor antagonist, in humans. Drug Metab Dispos 1997; 25: 1022-31. <annotation><p><italic toggle="yes">(In vitro assessment of metabolism of montelukast by human microsomes; extensively metabolized by P450 system).</italic></p></annotation><pub-id pub-id-type="pmid">9311616</pub-id></mixed-citation>
+          </ref>
+          <ref id="Montelukast.R5">
+            <mixed-citation publication-type="journal">Reiss TF, Chervinsky P, Dockhorn RJ, Shingo S, Seidenberg B, Edwards TB, for the Montelukast Clinical Research Study Group. Montelukast, a once-daily leukotriene receptor antagonist, in the treatment of chronic asthma: a multicenter, randomized, double-blind trial. Arch Intern Med 1998; 158: 1213-20. <annotation><p><italic toggle="yes">(Randomized controlled trial of montelukast [n=408] or placebo [n=273] for 12 weeks found similar rates of adverse events, with abnormal ALT in 2.5% of montelukast and 1.5% of placebo recipients and no hepatitis or discontinuation because of liver abnormalities).</italic></p></annotation><pub-id pub-id-type="pmid">9625400</pub-id></mixed-citation>
+          </ref>
+          <ref id="Montelukast.R6">
+            <mixed-citation publication-type="journal">Edelman JM, Turpin JA, Bronsky EA, Grossman J, Kemp JP, Ghannam AF, et al. Oral montelukast compared with inhaled salmeterol to prevent exercise-induced bronchoconstriction. A randomized, double-blind trial. Exercise Study Group. Ann Intern Med. 2000; 132: 97-104. <annotation><p><italic toggle="yes">(191 patients with exercise induced bronchospasm received either montelukast or salmeterol aerosol for 8 weeks: in discussion of safety there was no mention of liver side effects or ALT levels).</italic></p></annotation><pub-id pub-id-type="pmid">10644288</pub-id></mixed-citation>
+          </ref>
+          <ref id="Montelukast.R7">
+            <mixed-citation publication-type="journal">Spector SL; Antileukotriene Working Group. Safety of antileukotriene agents in asthma management. Ann Allergy Asthma Immunol 2001; 86 (6 Suppl 1): 18-23. <annotation><p><italic toggle="yes">(Review of side effects of antileukotrienes in premarketing studies, ALT elevations found in 1.4% of subjects on zafirlukast vs 1.1% on placebo; in 2.1% on montelukast vs 2.0% on placebo; and in 4.6% of zileuton recipients treated for a year [&#x0003e;3 times ULN; 3 had hyperbilirubinemia] vs 1.1% of controls).</italic></p></annotation><pub-id pub-id-type="pmid">11426912</pub-id></mixed-citation>
+          </ref>
+          <ref id="Montelukast.R8">
+            <mixed-citation publication-type="journal">Storms W, Michele TM, Knorr B, Noonan G, Shapiro G, Zhang J, Shingo S, Reiss TF. Clinical safety and tolerability of montelukast, a leukotriene receptor antagonist, in controlled clinical trials in patients aged &#x0003e; or = 6 years. Clin Exp Allergy 2001; 31: 77-87. <annotation><p><italic toggle="yes">(Pooled analysis of safety of montelukast from 11 clinical trials and 5 extensions in 3386 adults and 336 children [6-14 years] showed no differences in incidence of side effects compared to placebo: ALT elevations occurred in 12.9% of montelukast and 11.5% of placebo adult recipients and 3.0% vs 2.2% in children, but no cases of hepatitis or jaundice were reported).</italic></p></annotation><pub-id pub-id-type="pmid">11167954</pub-id></mixed-citation>
+          </ref>
+          <ref id="Montelukast.R9">
+            <mixed-citation publication-type="journal">Margery J, Dot JM, Bredin C, Bonnichon A, Romand F, Guigay J, Vaylet F, L'Her P. [Montelukast induced cytolytic acute hepatitis] Gastroenterol Clin Biol 2003; 27: 129-30. French. <annotation><p><italic toggle="yes">(21 year old woman with severe asthma developed ALT elevations [2.5 to 10 times ULN] without jaundice within 3 days of starting montelukast, normalizing within a few weeks of stopping; role of right heart failure and hypoxemia unclear).</italic></p></annotation><pub-id pub-id-type="pmid">12594381</pub-id></mixed-citation>
+          </ref>
+          <ref id="Montelukast.R10">
+            <mixed-citation publication-type="journal">Romero-G&#x000f3;mez M, S&#x000e1;nchez-Mu&#x000f1;oz D, Castilla L, Castro M. [Acute hepatitis due to montelukast] Med Clin (Barc) 2003; 120: 239. Spanish. <annotation><p><italic toggle="yes">(55 year old woman developed jaundice 4 months after starting montelukast [bilirubin 6.5 mg/dL, ALT 1695 U/L, Alk P 438 U/L, GGT 166 U/L], resolving within 1 month of stopping).</italic></p></annotation><pub-id pub-id-type="pmid">12605820</pub-id></mixed-citation>
+          </ref>
+          <ref id="Montelukast.R11">
+            <mixed-citation publication-type="journal">Russmann S, Iselin HU, Meier D, Zimmermann A, Simon HU, Caduff P, Reichen J. Acute hepatitis associated with montelukast. J Hepatol. 2003; 38: 694-5. <annotation><p><italic toggle="yes">(76 year old man developed acute hepatitis like syndrome after 2 years of therapy with montelukast [bilirubin 17.9 mg/dL, ALT 2450 U/L, Alk P 446 U/L], resolving with stopping; positive lymphocyte stimulation assay).</italic></p></annotation><pub-id pub-id-type="pmid">1271388</pub-id></mixed-citation>
+          </ref>
+          <ref id="Montelukast.R12">
+            <mixed-citation publication-type="journal">Sass DA, Chopra KB, Wu T. A case of montelukast-induced hepatotoxicity. Am J Gastroenterol 2003; 98: 704-5. <annotation><p><italic toggle="yes">(42 year old man developed jaundice and pruritus 10 months after starting montelukast [bilirubin 7.6 mg/dL, ALT 1.5 times ULN, Alk P 2 times ULN, 9% eosinophilia], resolving within 4 months of stopping: case 1).</italic></p></annotation><pub-id pub-id-type="pmid">12650820</pub-id></mixed-citation>
+          </ref>
+          <ref id="Montelukast.R13">
+            <mixed-citation publication-type="journal">Goldstein MF, Anoia J, Black M. Montelukast-induced hepatitis. Ann Intern Med. 2004; 140: 586-7. <annotation><p><italic toggle="yes">(37 year old woman developed jaundice 3 weeks after starting montelukast [bilirubin 10.6 mg/dL; ALT 174 U/L, Alk P 231 U/L], resolving upon stopping, but persistence of ALT elevations and liver biopsy showing chronic portal inflammation).</italic></p></annotation><pub-id pub-id-type="pmid">15069001</pub-id></mixed-citation>
+          </ref>
+          <ref id="Montelukast.R14">
+            <mixed-citation publication-type="journal">Russo MW, Galanko JA, Shrestha R, Fried MW, Watkins P. Liver transplantation for acute liver failure from drug-induced liver injury in the United States. Liver Transpl 2004; 10: 1018-23. <annotation><p><italic toggle="yes">(Among ~50,000 liver transplants done in the US between 1990 and 2002, 137 [0.2%] were done for idiosyncratic drug induced acute liver failure, one case was attributed to zafirlukast, but no other antiasthma medications mentioned).</italic></p></annotation><pub-id pub-id-type="pmid">15390328</pub-id></mixed-citation>
+          </ref>
+          <ref id="Montelukast.R15">
+            <mixed-citation publication-type="journal">van Adelsberg J, Moy J, Wei LX, Tozzi CA, Knorr B, Reiss TF. Safety, tolerability, and exploratory efficacy of montelukast in 6- to 24-month-old patients with asthma. Curr Med Res Opin 2005; 21: 971-9. <annotation><p><italic toggle="yes">(Controlled trial of montelukast vs placebo in 256 infants showed no difference in side effects or aminotransferase elevations [or asthma symptoms]; none of the laboratory abnormalities led to discontinuation of therapy).</italic></p></annotation><pub-id pub-id-type="pmid">15969897</pub-id></mixed-citation>
+          </ref>
+          <ref id="Montelukast.R16">
+            <mixed-citation publication-type="journal">Walsky RL, Obach RS, Gaman EA, Gleeson JP, Proctor WR. Selective inhibition of human cytochrome P4502C8 by montelukast. Drug Metab Dispos 2005; 33: 413&#x02013;8. <annotation><p><italic toggle="yes">(In vitro studies suggest that montelukast inhibits CYP2C8 metabolism).</italic></p></annotation><pub-id pub-id-type="pmid">15608135</pub-id></mixed-citation>
+          </ref>
+          <ref id="Montelukast.R17">
+            <mixed-citation publication-type="journal">Ghosh G, Manglik AK, Roy S. Efficacy and safety of montelukast as monotherapy in children with mild persistent asthma. Indian Pediatr 2006; 43: 780-5. <annotation><p><italic toggle="yes">(Open trial of montelukast in 50 children from India reported elevated liver tests in 18% without further comment).</italic></p></annotation><pub-id pub-id-type="pmid">17033116</pub-id></mixed-citation>
+          </ref>
+          <ref id="Montelukast.R18">
+            <mixed-citation publication-type="journal">Incecik F, Onlen Y, Sangun O, Akoglu S. Probable montelukast-induced hepatotoxicity in a pediatric patient: case report. Ann Saudi Med 2007; 27: 462-3. <annotation><p><italic toggle="yes">(5 year old boy developed Jaundice 2 years after starting montelukast therapy [bilirubin 2.8 mg/dL, ALT 658 U/L, Alk P 445 U/L], resolving within 2 weeks of stopping; mentions that in premarketing studies, 1.2% of 1955 montelukast- vs 2.0% of 1180 placebo-treated subjects had increased ALT levels).</italic></p></annotation><pub-id pub-id-type="pmid">18059126</pub-id></mixed-citation>
+          </ref>
+          <ref id="Montelukast.R19">
+            <mixed-citation publication-type="journal">Actis GC, Bugianesi E, Ottobrelli A, Rizzetto M. Fatal liver failure following food supplements during chronic treatment with montelukast. Dig Liver Dis 2007; 39: 953-5. <annotation><p><italic toggle="yes">(45 year old woman developed severe acute hepatitis-like syndrome one week after completing a 7 day course of dietary supplement for obesity and while on long term montelukast for asthma [bilirubin 5.7 rising to 29 mg/dL, ALT 2512 U/L, GGT 31 U/L, eosinophilia], with progressive injury, hepatic failure and death; role of montelukast unclear).</italic></p></annotation><pub-id pub-id-type="pmid">17157086</pub-id></mixed-citation>
+          </ref>
+          <ref id="Montelukast.R20">
+            <mixed-citation publication-type="journal">Chalasani N, Fontana RJ, Bonkovsky HL, Watkins PB, Davern T, Serrano J, Yang H, Rochon J; Drug Induced Liver Injury Network (DILIN). Causes, clinical features, and outcomes from a prospective study of drug-induced liver injury in the United States. Gastroenterology 2008; 135: 1924-34. <annotation><p><italic toggle="yes">(Among 300 cases of drug induced liver disease in the US collected between 2004 and 2008, none were attributed to montelukast or other antiasthma medications).</italic></p></annotation><pub-id pub-id-type="pmid">18955056</pub-id></mixed-citation>
+          </ref>
+          <ref id="Montelukast.R21">
+            <mixed-citation publication-type="journal">Harugeri A, Parthasarathi G, Sharma J, D'Souza GA, Ramesh M. Montelukast induced acute hepatocellular liver injury. J Postgrad Med 2009; 55: 141-2. <annotation><p><italic toggle="yes">(46 year old man developed jaundice 48 days after starting montelukast for asthma [bilirubin 20.1 mg/dL, ALT 2034 U/L, Alk P 140 U/L] with mild ascites, but ultimate resolution within 2 months of stopping).</italic></p></annotation><pub-id pub-id-type="pmid">19550064</pub-id></mixed-citation>
+          </ref>
+          <ref id="Montelukast.R22">
+            <mixed-citation publication-type="journal">Agarwal VK, McHutchison JG, Hoofnagle JH; Drug-Induced Liver Injury Network. Important elements for the diagnosis of drug-induced liver injury. Clin Gastroenterol Hepatol 2010; 8: 463-70. <annotation><p><italic toggle="yes">(Review of the completeness of documentation of drug induced liver disease based upon published case reports of 6 different drugs including 8 of zafirlukast and 4 of montelukast hepatotoxicity, identified important missing data in most reports).</italic></p></annotation><pub-id pub-id-type="pmid">20170750</pub-id></mixed-citation>
+          </ref>
+          <ref id="Montelukast.R23">
+            <mixed-citation publication-type="journal">Reuben A, Koch DG, Lee WM; Acute Liver Failure Study Group. Drug-induced acute liver failure: results of a U.S. multicenter, prospective study. Hepatology 2010; 52: 2065-76. <annotation><p><italic toggle="yes"> (Among 1198 patients with acute liver failure enrolled in a US prospective study between 1998 and 2007, 133 were attributed to drug induced liver injury including 1 due to zafirlukast, but none were due to montelukast or zileuton).</italic></p></annotation><pub-id pub-id-type="pmid">20949552</pub-id></mixed-citation>
+          </ref>
+          <ref id="Montelukast.R24">
+            <mixed-citation publication-type="journal">Bj&#x000f6;rnsson ES, Bergmann OM, Bj&#x000f6;rnsson HK, Kvaran RB, Olafsson S. Incidence, presentation and outcomes in patients with drug-induced liver injury in the general population of Iceland. Gastroenterology 2013; 144: 1419-25. <annotation><p><italic toggle="yes">(In a population based study of drug induced liver injury from Iceland, 96 cases were identified over a 2 year period, but none were attributed to montelukast or other antiasthma medications). </italic></p></annotation><pub-id pub-id-type="pmid">23419359</pub-id></mixed-citation>
+          </ref>
+          <ref id="Montelukast.R25">
+            <mixed-citation publication-type="journal">Lebensztejn DM, Bobrus-Chociej A, K&#x00142;usek M, Uscinowicz M, Lotowska J, Sobaniec-Lotowska M, Kaczmarski M. Hepatotoxicity caused by montelukast in a paediatric patient. Prz Gastroenterol 2014; 9: 121-3. <annotation><p><italic toggle="yes">(3.5 year old boy developed abdominal pain and pruritis 5 months after starting montelukast for asthma [bilirubin 0.8 mg/dL, ALT 1197 U/L, Alk P 305 U/L, GGT 78 U/L], laboratory abnormalities resolving within 3 months of stopping).</italic></p></annotation><pub-id pub-id-type="pmid">25061494</pub-id></mixed-citation>
+          </ref>
+          <ref id="Montelukast.R26">
+            <mixed-citation publication-type="journal">Chalasani N, Bonkovsky HL, Fontana R, Lee W, Stolz A, Talwalkar J, Reddy KR, et al.; United States Drug Induced Liver Injury Network. Features and outcomes of 899 patients with drug-induced liver injury: The DILIN Prospective Study. Gastroenterology 2015; 148: 1340-52. <annotation><p><italic toggle="yes">(Among 899 cases of drug induced liver injury enrolled in a US prospective study between 2004 and 2013, montelukast was implicated in 4 cases, 1 woman and 3 men, ages 44 to 81, latency weeks to 4 months, hepatocellular injury in 3, cholestatic in 1, none fatal but 2 were severe and one resulted in chronic injury). </italic></p></annotation><pub-id pub-id-type="pmid">25754159</pub-id></mixed-citation>
+          </ref>
+          <ref id="Montelukast.R27">
+            <mixed-citation publication-type="journal">Leung JS, Johnson DW, Sperou AJ, Crotts J, Saude E, Hartling L, Stang A. A systematic review of adverse drug events associated with administration of common asthma medications in children. PLoS One 2017; 12: e0182738. <annotation><p><italic toggle="yes">(Systematic review of adverse events in reported in 46 clinical studies of commonly used asthma medications including 25 events associated with leukotriene antagonists affecting 9 organ systems; hepatotoxicity not mentioned).</italic></p></annotation><pub-id pub-id-type="pmid">28793336</pub-id></mixed-citation>
+          </ref>
+          <ref id="Montelukast.R28">
+            <mixed-citation publication-type="journal">Drugs for asthma. Med Lett Drugs Ther 2017; 59 (1528): 139-46. <annotation><p><italic toggle="yes">(Concise review of medications used for asthma including the leukotriene modifiers; mentions that zafirlukast and zileuton have been reported to cause life-threatening hepatic injury and that monitoring of liver tests during therapy is recommended).</italic></p></annotation><pub-id pub-id-type="pmid">28880849</pub-id></mixed-citation>
+          </ref>
+          <ref id="Montelukast.R29">
+            <mixed-citation publication-type="journal">Haarman MG, van Hunsel F, de Vries TW. Adverse drug reactions of montelukast in children and adults. Pharmacol Res Perspect 2017; 5: e00341. <annotation><p><italic toggle="yes">(Review of adverse drug reactions to montelukast reported to two large pharmacovigilance databases [Netherlands and WHO] found depression, headache, aggressive behavior, suicidal ideation, insomnia and anxiety to be the most frequently described events and special focus was on the more than 500 cases of allergic granulomatous angiitis; no mention of hepatic adverse events except for a hospitalization for "abnormal liver function test").</italic></p></annotation><pub-id pub-id-type="pmid">28971612</pub-id></mixed-citation>
+          </ref>
+          <ref id="Montelukast.R30">
+            <mixed-citation publication-type="journal">Kim MK, Lee SY, Park HS, Yoon HJ, Kim SH, Cho YJ, Yoo KH, et al. A randomized, multicenter, double-blind, phase III study to evaluate the efficacy on allergic rhinitis and safety of a combination therapy of montelukast and levocetirizine in patients with asthma and allergic rhinitis. Clin Ther 2018; 40: 1096-107. <annotation><p><italic toggle="yes">(Among 228 adults with allergic rhinitis and mild-to-moderate asthma treated with montelulast with or without levocetirizine for 4 weeks, adverse reactions were not common and were generally mild, there were no hepatic serious adverse events and no mention of ALT elevations).</italic></p></annotation><pub-id pub-id-type="pmid">29945738</pub-id></mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec id="Montelukast.OTHER_REFERENCE_LINKS" sec-type="link-group">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=(Montelukast/AE)+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D%3A%222999/12/31%22%5BEDat%5D)">Recent References on Montelukast: from PubMed.gov</ext-link>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Montelukast">Trials on Montelukast: from ClinicalTrials.gov</ext-link>
+            </p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

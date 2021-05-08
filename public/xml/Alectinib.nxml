@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Alectinib" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Alectinib</book-part-id>
+      <title-group>
+        <title>Alectinib</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>30</day>
+          <month>5</month>
+          <year>2017</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Aldesleukin" document-type="chapter">Aldesleukin</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Alefacept" document-type="chapter">Alefacept</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Alectinib.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Alectinib.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Alectinib is a tyrosine kinase receptor inhibitor and antineoplastic agent used in the therapy of selected forms of advanced non-small cell lung cancer. Alectinib is associated with a moderate rate of transient elevations in serum aminotransferase levels during therapy and with rare instances of clinically apparent acute liver injury.</p>
+        </sec>
+        <sec id="Alectinib.Background">
+          <title>Background</title>
+          <p>Alectinib (al ek' ti nib) is a small molecule tyrosine kinase receptor inhibitor with potent activity against anaplastic lymphoma kinase (ALK) that is rearranged and mutated in slective cancers, including approximately 5% of non-small cell lung cancer (NSCLC). The mutated, rearranged ALK promotes unregulated cell growth and proliferation and is sometimes overexpressed in cancer cells. Alectinib has been found to inhibit mutated ALK in cell culture and in several clinical trials was found to induce objective responses in a proportion of patients with refractory, advanced NSCLC that are ALK-positive. Alectinib was approved for use in the United States in 2015 in patients with ALK-positive, metastatic NSCLC who have progressed despite therapy with first generation ALK inhibitors (such as crizotinib). Alectinib is available in capsules of 150 mg under the brand name Alecensa. The recommended dose is 600 mg twice daily, continued until disease progression or intolerable toxicity occurs. Side effects are common and can include fatigue, constipation, peripheral edema and myalgia. Uncommon, but potentially severe side effects include interstitial lung disease, severe myopathy, bradycardia and fetal toxicity.</p>
+        </sec>
+        <sec id="Alectinib.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>In preregistration trials of alectinib, ALT elevations occurred in up to 50% of patients, but values above 5 times the upper limit of normal (ULN) were found in only 1% to 4%. Alectinib therapy was also associated with frequent elevations in alkaline phosphatase (47%) and bilirubin (39%), but these abnormalities were usually mild-to-moderate in degree, as well as asymptomatic and transient in nature. Clinically apparent liver injury with jaundice was rare, but cases were reported and at least 2% of alectinib treated subjects discontinued therapy early because of severe liver test abnormalities. The clinical features of these episodes were not reported and, since its approval and more widescale use, there have been no published cases of liver injury attributable to alectinib therapy. Use of this agent, however, has been limited. Thus, alectinib has been reported to cause liver injury that can be clinically significant and require drug discontinuation, but the clinical features of the injury have not been well defined and their relationship to treatment not definitively shown.</p>
+          <p>Likelihood score: D (possible cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Alectinib.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>Serum enzyme and bilirubin elevations are frequent during therapy with tyrosine kinase inhibitors, but their cause is unknown. The liver injury may be due to direct activity against essential intracellular kinases or to production of a toxic metabolite during metabolism of the kinase inhibitor. Alectinib is metabolized in the liver predominantly by CYP 3A4, but has not been linked to significant drug-drug interactions.</p>
+        </sec>
+        <sec id="Alectinib.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>Liver injury due to alectinib varies in severity from minor, transient serum enzyme elevations to acute symptomatic liver injury with jaundice. Serum aminotransferase elevations above 5 times the upper limit of normal (if confirmed) should lead to temporary discontinuation, which should be permanent if laboratory values do not improve significantly or resolve within a few weeks or if symptoms or jaundice arise. The product label includes a warning about heptotoxicity and recommends monitoring of liver tests every two weeks for 3 months followed by monthly thereafter as clinically indicated. Restarting therapy is usually, but not always, followed by recurrence of the liver test abnormalities. There does not appear to be cross reactivity with other tyrosine kinase receptor inhibitors of ALK (such as crizotinib or ceritinib) and, in some situations, switching to another protein kinase inhibitor may be appropriate.</p>
+          <p>Drug Class: <related-object source-id="livertox" document-id="AntineoplasticAgents">Antineoplastic Agents</related-object>, <related-object source-id="livertox" document-id="ProteinKinaseInhibit">Protein Kinase Inhibitors</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Alectinib.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <boxed-text position="anchor" id="Alectinib.BPI" orientation="portrait">
+          <p>
+            <bold>REPRESENTATIVE TRADE NAMES</bold>
+          </p>
+          <p>Alectinib &#x02013; Alecensa&#x000ae;</p>
+          <p>
+            <bold>DRUG CLASS</bold>
+          </p>
+          <p>Antineoplastic Agents</p>
+          <p>
+            <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?label=all&#x00026;query=Alectinib">COMPLETE LABELING</ext-link>
+          </p>
+          <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+        </boxed-text>
+      </sec>
+      <sec id="Alectinib.CHEMICAL_FORMULA_AND_STRUCTURE">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Alectinib.T1" position="anchor" orientation="portrait">
+          <table>
+            <thead>
+              <tr>
+                <th id="hd_h_Alectinib.T1_1_1_1_1" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Alectinib.T1_1_1_1_2" rowspan="1" colspan="1">CAS REGISTRY NO.</th>
+                <th id="hd_h_Alectinib.T1_1_1_1_3" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Alectinib.T1_1_1_1_4" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Alectinib.T1_1_1_1_1" rowspan="1" colspan="1">Alectinib</td>
+                <td headers="hd_h_Alectinib.T1_1_1_1_2" rowspan="1" colspan="1">
+                  <bold>
+                    <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://163643281">1256580-46-7</ext-link>
+                  </bold>
+                </td>
+                <td headers="hd_h_Alectinib.T1_1_1_1_3" rowspan="1" colspan="1">C30-H34-N4-O2</td>
+                <td headers="hd_h_Alectinib.T1_1_1_1_4" rowspan="1" colspan="1">
+                  <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Alectinib_structure.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait">
+                    <alt-text>Alectinib structure</alt-text>
+                  </graphic>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Alectinib.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 30 May 2017</p>
+        <p>Abbreviations: ALK, anaplastic lymphoma kinase; NCSLC, non-small cell lung cancer; ULN, upper limit of normal.</p>
+        <ref-list id="Alectinib.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Alectinib.R1">
+            <mixed-citation publication-type="other">Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999.<annotation><p><italic toggle="yes">(Review of hepatotoxicity published in 1999 before the availability of tyrosine kinase receptor inhibitors).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Alectinib.R2">
+            <mixed-citation publication-type="other">DeLeve LD. Kinase inhibitors. Cancer chemotherapy. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013, pp. 556-7.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of cancer chemotherapeutic agents published in 2013; discusses the hepatotoxicity of crizotinib, but not alectinib or ceritinib).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Alectinib.R3">
+            <mixed-citation publication-type="other">Chabner BA, Barnes J, Neal J, Olson E, Mujagic H, Sequist L, Wilson W, et al. Targeted therapies: tyrosine kinase inhibitors, monoclonal antibodies, and cytokines. In, Brunton LL, Chabner BA, Knollman BC, eds. Goodman &#x00026; Gilman's the pharmacological basis of therapeutics. 12th ed. New York: McGraw-Hill, 2011, pp. 1731-54.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Alectinib.R4">
+            <mixed-citation publication-type="journal">Shaw AT, Engelman JA. ALK in lung cancer: past, present, and future. J Clin Oncol 2013; 31: 1105-11. <annotation><p><italic toggle="yes">(Review of the history of discovery of ALK mutations and development of crizotinib as therapy of NSCLC patients with this mutation, as well as next-generation ALK inhibitors in development; no discussion of hepatotoxicity or ALT elevations).</italic></p></annotation><pub-id pub-id-type="pmid">23401436</pub-id></mixed-citation>
+          </ref>
+          <ref id="Alectinib.R5">
+            <mixed-citation publication-type="journal">Shah RR, Morganroth J, Shah DR. Hepatotoxicity of tyrosine kinase inhibitors: clinical and regulatory perspectives. Drug Saf 2013; 36: 491-503. <annotation><p><italic toggle="yes">(Review of the hepatotoxicity of 18 tyrosine kinase inhibitors approved for use in cancer in the US as of 2013; crizotinib is listed as causing liver enzyme elevations in up to 57% of patients [ &#x02265;5 times ULN in 6%] and to having been linked cases of hepatitis and fatal hepatic failure; no mention of alectinib or ceritinib).</italic></p></annotation><pub-id pub-id-type="pmid">23620168</pub-id></mixed-citation>
+          </ref>
+          <ref id="Alectinib.R6">
+            <mixed-citation publication-type="journal">Seto T, Kiura K, Nishio M, Nakagawa K, Maemondo M, Inoue A, Hida T, et al. CH5424802 (RO5424802) for patients with ALK-rearranged advanced non-small-cell lung cancer (AF-001JP study): a single-arm, open-label, phase 1-2 study. Lancet Oncol 2013; 14: 590-8. <annotation><p><italic toggle="yes">(Among 46 patients with ALK-positive NSCLC treated with alectinib [up to 300 mg twice daily], 93% had an objective response, and side effects included ALT elevations in 10 patients [22%] which were above 5 times ULN in one [2%] and bilirubin elevations in 28%, but most changes resolved without symptoms or residual injury, although one patient has reported to have developed sclerosing cholangitis).</italic></p></annotation><pub-id pub-id-type="pmid">23639470</pub-id></mixed-citation>
+          </ref>
+          <ref id="Alectinib.R7">
+            <mixed-citation publication-type="journal">Gadgeel SM, Gandhi L, Riely GJ, Chiappori AA, West HL, Azada MC, Morcos PN, et al. Safety and activity of alectinib against systemic disease and brain metastases in patients with crizotinib-resistant ALK-rearranged non-small-cell lung cancer(AF-002JG): results from the dose-finding portion of a phase 1/2 study. Lancet Oncol 2014; 15: 1119-28. <annotation><p><italic toggle="yes">(Among 47 patients with ALK-positive NCSLC resistant to crizotinib therapy who were treated with alectinib [300-900 mg twice daily], 54% had an objective response, and side effects included fatigue [30%], myalgia [17%], edema [17%], and ALT elevations [13%], but none were above 5 times ULN).</italic></p></annotation><pub-id pub-id-type="pmid">25153538</pub-id></mixed-citation>
+          </ref>
+          <ref id="Alectinib.R8">
+            <mixed-citation publication-type="journal">McKeage K. Alectinib: a review of its use in advanced ALK-rearranged non-small cell lung cancer. Drugs 2015; 75: 75-82. <annotation><p><italic toggle="yes">(Review of the development of alectinib, its structure, pharmacology, efficacy and safety; mentions a case of sclerosing cholangitis arising during therapy [Seto 2013], but does not discuss ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">25428710</pub-id></mixed-citation>
+          </ref>
+          <ref id="Alectinib.R9">
+            <mixed-citation publication-type="journal">Larkins E, Blumenthal GM, Chen H, He K, Agarwal R, Gieser G, Stephens O, et al. FDA approval: alectinib for the treatment of metastatic, ALK-positive non-small cell lung cancer following crizotinib. Clin Cancer Res 2016; 22 (21): 5171-6. <annotation><p><italic toggle="yes">(Review of clinical trial results that supported the FDA-accelerated approval of alectinib for crizotinib-refractory, ALK-positive NCSLC which included safety data on 253 patients in whom common side effects were fatigue [41%], constipation [34%], edema [30%], myalgia [29%] and increased ALT [34%], bilirubin [39%] and alkaline phosphatase levels [47%]; 4 patients had ALT elevations above 5 times ULN, and 2 were diagnosed with drug induced liver injury).</italic></p></annotation><pub-id pub-id-type="pmid">27413075</pub-id></mixed-citation>
+          </ref>
+          <ref id="Alectinib.R10">
+            <mixed-citation publication-type="journal">Ou SH, Ahn JS, De Petris L, Govindan R, Yang JC, Hughes B, Lena H, et al. Alectinib in crizotinib-refractory ALK-rearranged non-small-cell lung cancer: a phase II global study. J Clin Oncol 2016; 34: 661-8. <annotation><p><italic toggle="yes">(Abstract: Among 138 patients with crizotinib- refractory, ALK-positive NSCLC treated with alectinib, the objective response rate was 79% and common side effects were constipation, fatigue and peripheral edema).</italic></p></annotation><pub-id pub-id-type="pmid">26598747</pub-id></mixed-citation>
+          </ref>
+          <ref id="Alectinib.R11">
+            <mixed-citation publication-type="journal">Shaw AT, Gandhi L, Gadgeel S, Riely GJ, Cetnar J, West H, Camidge DR, et al.; study investigators. Alectinib in ALK-positive, crizotinib-resistant, non-small-cell lung cancer: a single-group, multicentre, phase 2 trial. Lancet Oncol 2016; 17: 234-42. <annotation><p><italic toggle="yes">(Among 87 patients with ALK-positive, crizotinib-resistant NSCLC treated with alectinib [600 mg twice daily], the objective response rate was 48%, and side effects included constipation [36%], fatigue [33%], myalgia [24%], peripheral edema [23%] and ALT elevations [26%], which were above 5 times ULN in 5%, with two patients discontinuing therapy early because of "serious liver injury" although no specific details provided).</italic></p></annotation><pub-id pub-id-type="pmid">26708155</pub-id></mixed-citation>
+          </ref>
+          <ref id="Alectinib.R12">
+            <mixed-citation publication-type="journal">Jassem J. Alectinib in crizotinib-resistant, ALK-positive NSCLC. Lancet Oncol 2016; 1: 134-5. <annotation><p><italic toggle="yes">(Editorial accompanying publication by Shaw [2016] discussing the promises and challenges of the second-generation ALK inhibitors such as alectinib and ceritinib). </italic></p></annotation><pub-id pub-id-type="pmid">26708154</pub-id></mixed-citation>
+          </ref>
+          <ref id="Alectinib.R13">
+            <mixed-citation publication-type="journal">Hida T, Nokihara H, Kondo M, Kim YH, Azuma K, Seto T, Takiguchi Y, et al. Alectinib versus crizotinib in patients with ALK-positive non-small-cell lung cancer (J-ALEX): an open-label, randomised phase 3 trial. Lancet 2017; 390 (10089): 29-39. <annotation><p><italic toggle="yes">(Among 207 Japanese patients with ALK-positive NSCLC treated with alectinib or crizotinib for an average of 12 months, progressionc free survival was greater with alectinib while adverse events were less including ALT elevations [9% vs 32%] which were above 5 times ULN in 1% vs 13%).</italic></p></annotation><pub-id pub-id-type="pmid">28501140</pub-id></mixed-citation>
+          </ref>
+          <ref id="Alectinib.R14">
+            <mixed-citation publication-type="journal">Gainor JF, Shaw AT. J-ALEX: alectinib versus crizotinib in ALK-positive lung cancer. Lancet 2017; 390 (10089): 3-4. <annotation><p><italic toggle="yes">(Editorial in response to Hida [2017] mentions the greater potency against ALK and better brain penetration of alectinib compared to crizotinib).</italic></p></annotation><pub-id pub-id-type="pmid">28501139</pub-id></mixed-citation>
+          </ref>
+          <ref id="Alectinib.R15">
+            <mixed-citation publication-type="journal">Tamura T, Kiura K, Seto T, Nakagawa K, Maemondo M, Inoue A, Hida T, et al. Three-year follow-up of an alectinib phase I/II study in ALK-positive non-small-cell lung cancer: AF-001JP. J Clin Oncol 2017; 35: 1515-21. <annotation><p><italic toggle="yes">(Further follow up of 46 patients with ALK-positive NSCLC treated with alectinib, identified 25 patients still on therapy after 3 years and adverse events included AST elevations in 33% and 6 patients who discontinued therapy because of side effects including one for sclerosing cholangitis and one for ALT elevations above 5 times ULN).</italic></p></annotation><pub-id pub-id-type="pmid">28296581</pub-id></mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec id="Alectinib.OTHER_REFERENCE_LINKS" sec-type="link-group">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=Alectinib+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D%3A%222999/12/31%22%5BEDat%5D)">Recent References on Alectinib: from PubMed.gov</ext-link>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Alectinib">Trials on Alectinib: from ClinicalTrials.gov</ext-link>
+            </p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

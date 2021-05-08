@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Capecitabine" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Capecitabine</book-part-id>
+      <title-group>
+        <title>Capecitabine</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>15</day>
+          <month>1</month>
+          <year>2017</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Cannabidiol" document-type="chapter">Cannabidiol</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Capreomycin" document-type="chapter">Capreomycin</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Capecitabine.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Capecitabine.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Capecitabine is a pyrimidine analogue used as an antineoplastic agent to treat metastatic and advanced forms of breast and colon cancer, often in combination with other agents. Capecitabine is associated with a low rate of transient serum aminotransferase elevations during therapy but has been only rarely implicated in cases of clinically apparent acute liver injury.</p>
+        </sec>
+        <sec id="Capecitabine.Background">
+          <title>Background</title>
+          <p>Capecitabine (kap" e sye' ta been) is a pyrimidine analogue (pentyloxycarbonyl-deoxy-fluorocytidine) that has antineoplastic action against several solid tumors, including breast and colon cancers. Capecitabine is a prodrug of 5-fluorouracil (5-FU) and is converted to this active metabolite intracellularly, where it acts by interfering with DNA, RNA and protein synthesis and inhibiting cell division. Unlike 5-FU, capecitabine can be given by mouth. Furthermore, capecitabine is converted to 5-FU in a three step process, the first of which takes place in the liver and the last two predominantly in tumor cells, which may account for why it is better tolerated than 5-FU. Capecitabine was approved for use as an anticancer agent in the United States in 1998 and is currently an important component of several cancer chemotherapeutic regimens. Current indications include advanced, metastatic breast cancer and colorectal cancers, usually after failure of first line therapies. Capecitabine is available as tablets of 150 and 500 mg generically and under the brand name Xeloda. The recommended dose is based upon body surface area and renal function, but is generally initiated in a dose of 2.5 grams per meter squared in two divided doses daily for 2 weeks, followed by a 1 week rest period and then repeated at irregular intervals in 3 week cycles. Common side effects include bone marrow suppression, diarrhea, nausea, vomiting, hand-foot syndrome, fatigue, weakness, headache, dizziness, insomnia, paresthesias, abdominal pain, stomatitis, and rash.</p>
+        </sec>
+        <sec id="Capecitabine.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>Serum aminotransferase elevations occur in a proportion of patients on conventional doses of capecitabine therapy, but elevations above 5 times the upper limit of normal are uncommon, occurring in &#x0003c;1% of patients. Mild serum bilirubin elevations are also common during capecitabine therapy, occurring in up to 40% of patients. The bilirubin elevations, however, are largely in the indirect (unconjugated) fraction and are usually isolated (without other liver test abnormalities), self-limited and mild. There have been no individual published case reports of clinically apparent liver injury attributed to capecitabine, but single instances of cholestatic hepatitis have been reported in clinical trials and are mentioned in the product label. The clinical features of the liver injury, such as the latency to onset, pattern of serum enzyme elevations, presence of immunoallergic or autoimmune features and typical course and outcome have not been well defined. In some reports, the serum enzyme elevations were accompanied by steatosis and inflammation which resolved when chemotherapy was discontinued.</p>
+          <p>Likelihood score: E* (Unproven but suspected cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Capecitabine.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>While hepatotoxicity from capecitabine may be rare, it is likely due to direct hepatotoxicity. Capecitabine is extensively metabolized in the liver via the microsomal enzyme system (predominantly 2C9), and production of a toxic or immunogenic intermediate may trigger liver injury. Capecitabine is susceptible to drug-drug interactions with anticoagulants and anticonvulsants.</p>
+        </sec>
+        <sec id="Capecitabine.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>The severity of the liver injury linked to capecitabine therapy is generally mild. Capecitabine has not been linked to cases of acute liver failure, chronic hepatitis or vanishing bile duct syndrome. There is no information on cross sensitivity to hepatic injury between capecitabine and 5-FU or other pyrimidine analogues.</p>
+          <p>Drug Class: <related-object source-id="livertox" document-id="AntineoplasticAgents">Antineoplastic Agents</related-object></p>
+          <p>Other Drugs in the Subclass, <related-object source-id="livertox" document-id="PyrimidineAnalogues">Pyrimidine Analogues</related-object>: <related-object source-id="livertox" document-id="Azacitidine">Azacitidine</related-object>, <related-object source-id="livertox" document-id="Cytarabine">Cytarabine</related-object>, <related-object source-id="livertox" document-id="Decitabine">Decitabine</related-object>, <related-object source-id="livertox" document-id="Floxuridine">Floxuridine</related-object>, <related-object source-id="livertox" document-id="Fluorouracil">Fluorouracil</related-object>, <related-object source-id="livertox" document-id="Gemcitabine">Gemcitabine</related-object>, <related-object source-id="livertox" document-id="Trifluridine">Trifluridine/Tipracil</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Capecitabine.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <boxed-text position="anchor" id="Capecitabine.BPI" orientation="portrait">
+          <p>
+            <bold>REPRESENTATIVE TRADE NAMES</bold>
+          </p>
+          <p>Capecitabine &#x02013; Generic, Xeloda&#x000ae;</p>
+          <p>
+            <bold>DRUG CLASS</bold>
+          </p>
+          <p>Antineoplastic Agents</p>
+          <p>
+            <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Capecitabine">COMPLETE LABELING</ext-link>
+          </p>
+          <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+        </boxed-text>
+      </sec>
+      <sec id="Capecitabine.CHEMICAL_FORMULA_AND_STRUCT">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Capecitabine.T1" position="anchor" orientation="portrait">
+          <table>
+            <thead>
+              <tr>
+                <th id="hd_h_Capecitabine.T1_1_1_1_1" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Capecitabine.T1_1_1_1_2" rowspan="1" colspan="1">CAS REGISTRY NUMBER</th>
+                <th id="hd_h_Capecitabine.T1_1_1_1_3" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Capecitabine.T1_1_1_1_4" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Capecitabine.T1_1_1_1_1" rowspan="1" colspan="1">Capecitabine</td>
+                <td headers="hd_h_Capecitabine.T1_1_1_1_2" rowspan="1" colspan="1">
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135017419">154361-50-9</ext-link>
+                </td>
+                <td headers="hd_h_Capecitabine.T1_1_1_1_3" rowspan="1" colspan="1">C15-H22-F-N3-O6</td>
+                <td headers="hd_h_Capecitabine.T1_1_1_1_4" rowspan="1" colspan="1">
+                  <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Capecitabine_Structure.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait">
+                    <alt-text>Capecitabine Chemical Structure</alt-text>
+                  </graphic>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Capecitabine.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 15 January 2017</p>
+        <ref-list id="Capecitabine.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Capecitabine.R1">
+            <mixed-citation publication-type="other">Zimmerman HJ. Hepatotoxic effects of oncotherapeutic and immunosuppressive agents. In, Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999, pp. 673-708.<annotation><p><italic toggle="yes"> (Expert review of hepatotoxicity of cancer chemotherapeutic agents published in 1999; capecitabine is not discussed).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Capecitabine.R2">
+            <mixed-citation publication-type="other">DeLeve LD. Cancer chemotherapy. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam, Elsevier, 2013, p. 541-68.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of cancer chemotherapeutic agents).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Capecitabine.R3">
+            <mixed-citation publication-type="other">Chabner BA, Bertino J, Cleary J, Ortiz T, Lane A, Supko JG, Ryan DP. Capecitabine. Cytotoxic agents. Chemotherapy of neoplastic diseases. In, Brunton LL, Chabner BA, Knollman BC, eds. Goodman &#x00026; Gilman's the pharmacological basis of therapeutics. 12th ed. New York: McGraw-Hill, 2011, p. 1698.<italic toggle="yes">
+</italic><annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics; capecitabine is a fluoropyrimidine analogue that is used in advanced and metastatic breast and colon cancer).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Capecitabine.R4">
+            <mixed-citation publication-type="journal">Van Cutsem E, Twelves C, Cassidy J, Allman D, Bajetta E, Boyer M, Bugat R, et al.; Xeloda Colorectal Cancer Study Group. Oral capecitabine compared with intravenous fluorouracil plus leucovorin in patients with metastatic colorectal cancer: results of a large phase III study. J Clin Oncol 2001; 19: 4097-106. <annotation><p><italic toggle="yes">(Among 602 patients randomized to capecitabine vs 5-FU with leucovorin, serum ALT elevations occurred in 0.7% vs 1.0% and bilirubin elevations in 28.3% vs 6.3%).</italic></p></annotation><pub-id pub-id-type="pmid">11689577</pub-id></mixed-citation>
+          </ref>
+          <ref id="Capecitabine.R5">
+            <mixed-citation publication-type="journal">Cassidy J, Twelves C, Van Cutsem E, Hoff P, Bajetta E, Boyer M, Bugat R, et al.; Capecitabine Colorectal Cancer Study Group. First-line oral capecitabine therapy in metastatic colorectal cancer: a favorable safety profile compared with intravenous 5-fluorouracil/leucovorin. Ann Oncol 2002; 13: 566-75. <annotation><p><italic toggle="yes">(Analysis of results from 1207 patients enrolled in controlled trial of oral capecitabine vs intravenous 5-FU with leucovorin; efficacy was similar, but capecitabine was better tolerated with less diarrhea, stomatitis, nausea and neutropenia but more hand-foot syndrome; ALT elevations &#x0003e;5 times ULN occurred in 0.5% vs 0.7%, but bilirubin elevations &#x0003e;1.5 times ULN were more common with capecitabine [26.3%] than 5-FU [8.4%], elevations being isolated and self-limited; "hepatobiliary abnormalities" resulted in discontinuation in 2 patients on capecitabine and 4 on 5-FU).</italic></p></annotation><pub-id pub-id-type="pmid">12056707</pub-id></mixed-citation>
+          </ref>
+          <ref id="Capecitabine.R6">
+            <mixed-citation publication-type="journal">Walko CM, Lindley C. Capecitabine: a review. Clin Ther 2005; 27: 23-44. <annotation><p><italic toggle="yes">(Review of the development of capecitabine, its mechanism of action, efficacy and safety in various solid tumors; major side effects are anemia, diarrhea, hand-foot syndrome and nausea; hyperbilirubinemia occurs in 40% of patients, but is usually mild and self-limited; no discussion of hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">15763604</pub-id></mixed-citation>
+          </ref>
+          <ref id="Capecitabine.R7">
+            <mixed-citation publication-type="journal">Blum JL, Jones SE, Buzdar AU, LoRusso PM, Kuter I, Vogel C, Osterwalder B, et al. Multicenter phase II study of capecitabine in paclitaxel-refractory metastatic breast cancer. J Clin Oncol 1999; 17: 485-93. <annotation><p><italic toggle="yes">(Among 162 patients with advanced breast cancer treated with 3 week cycles of capecitabine [twice daily for 2 weeks followed by a week rest], common side effects were hand-foot syndrome, diarrhea, nausea and fatigue; ALT elevations above 5 times ULN occurred in only 1 patient [&#x0003c;1%]).</italic></p></annotation><pub-id pub-id-type="pmid">10080589</pub-id></mixed-citation>
+          </ref>
+          <ref id="Capecitabine.R8">
+            <mixed-citation publication-type="journal">Mikhail SE, Sun JF, Marshall JL. Safety of capecitabine: a review. Expert Opin Drug Saf 2010; 9: 831-41. <annotation><p><italic toggle="yes">(Review of structure, mechanism of action, pharmacology, efficacy and safety of capecitabine, an oral prodrug of 5-FU; ALT elevations above 5 times the ULN occurred in &#x0003c;1% of patients in most studies, but in as many as 38% of patients in trials using higher doses).</italic></p></annotation><pub-id pub-id-type="pmid">20722491</pub-id></mixed-citation>
+          </ref>
+          <ref id="Capecitabine.R9">
+            <mixed-citation publication-type="journal">Chin SN, Kim TK, Siu LL. Hepatic steatosis secondary to capecitabine: a case report. J Med Case Rep 2010; 4: 227. <annotation><p><italic toggle="yes">(74 year old woman with colon cancer and diabetes developed asymptomatic ALT elevations after 3 cycles of capecitabine [ALT rising from 7 to 57-101 U/L, bilirubin rising from 0.4 to 1.0-1.4 mg/dL, Alk P not provided] with MRI findings suggestive of fatty liver, and resolution with stopping capecitabine and not recurring with a subsequent cycle).</italic></p></annotation><pub-id pub-id-type="pmid">24576340</pub-id></mixed-citation>
+          </ref>
+          <ref id="Capecitabine.R10">
+            <mixed-citation publication-type="journal">Oostendorp LJ, Stalmeier PF, Donders AR, van der Graaf WT, Ottevanger PB. Efficacy and safety of palliative chemotherapy for patients with advanced breast cancer pretreated with anthracyclines and taxanes: a systematic review. Lancet Oncol 2011; 12: 1053-61. <annotation><p><italic toggle="yes">(Pooled analysis of 1404 patients enrolled in 10 trials of capecitabine monotherapy for advanced breast cancer; diarrhea occurred in 0-19% and hand-foot syndrome in 2-24%; no mention of liver injury or ALT elevations).</italic></p></annotation><pub-id pub-id-type="pmid">21621462</pub-id></mixed-citation>
+          </ref>
+          <ref id="Capecitabine.R11">
+            <mixed-citation publication-type="journal">Blum JL, Barrios CH, Feldman N, Verma S, McKenna EF, Lee LF, Scotto N, et al. Pooled analysis of individual patient data from capecitabine monotherapy clinical trials in locally advanced or metastatic breast cancer. Breast Cancer Res Treat 2012; 136: 777-88. <annotation><p><italic toggle="yes">(Among 805 patients treated with capecitabine in 7 clinical trials, 54% reported at least one adverse event which led to stopping therapy in 38 [7%] and death in 2 [&#x0003c;1%], but none of the severe events were liver related and ALT elevations were not reported).</italic></p></annotation><pub-id pub-id-type="pmid">23104222</pub-id></mixed-citation>
+          </ref>
+          <ref id="Capecitabine.R12">
+            <mixed-citation publication-type="journal">O'Shaughnessy JA, Kaufmann M, Siedentopf F, Dalivoust P, Debled M, Robert NJ, Harbeck N. Capecitabine monotherapy: review of studies in first-line HER-2-negative metastatic breast cancer. Oncologist 2012; 17: 476-84. <annotation><p><italic toggle="yes">(Review of capecitabine as a potential first line drug for metastatic breast cancer that is HER-2 negative; no discussion of hepatotoxicity or ALT elevations). </italic></p></annotation><pub-id pub-id-type="pmid">22418569</pub-id></mixed-citation>
+          </ref>
+          <ref id="Capecitabine.R13">
+            <mixed-citation publication-type="journal">Kadoyama K, Miki I, Tamura T, Brown JB, Sakaeda T, Okuno Y. Adverse event profiles of 5-fluorouracil and capecitabine: data mining of the public version of the FDA Adverse Event Reporting System, AERS, and reproducibility of clinical observations. Int J Med Sci 2012; 9: 33-9. <annotation><p><italic toggle="yes">(Among 34,948 spontaneous adverse event reports on capecitabine, common events were diarrhea [1790], nausea [842], head-foot syndrome [456] and fatigue [386]; liver injury was not in the list of the top 20 adverse events).</italic></p></annotation><pub-id pub-id-type="pmid">22211087</pub-id></mixed-citation>
+          </ref>
+          <ref id="Capecitabine.R14">
+            <mixed-citation publication-type="journal">Gurzu S, Jung I, Comsulea M, Kadar Z, Azamfirei L, Molnar C. Lethal cardiotoxicity, steatohepatitis, chronic pancreatitis, and acute enteritis induced by capecitabine and oxaliplatin in a 36-year-old woman. Diagn Pathol 2013; 8: 150. <annotation><p><italic toggle="yes">(36 year old woman developed severe abdominal pain and multiorgan failure 1 month after finishing 5 courses of capecitabine and oxaliplatin for pancreatic cancer [bilirubin 6.3 mg/dL, ALT 40 U/L Alk P not given, platelets 114,000/&#x000b5;L] and on autopsy had ascites and marked steatohepatitis with moderate fibrosis only, suggestive of nodular regenerative hyperplasia).</italic></p></annotation><pub-id pub-id-type="pmid">24041405</pub-id></mixed-citation>
+          </ref>
+          <ref id="Capecitabine.R15">
+            <mixed-citation publication-type="journal">Zhu LQ, Jiang WT, Pan C, Liu YH, Thian Y. Liver injury possibly related to drug interaction after liver transplant: a case report. J Clin Pharm Ther 2014; 39: 439-41. <annotation><p><italic toggle="yes">(29 year old man developed liver injury 2 months after liver transplantation for HBV related liver cancer and while receiving capecitabine and warfarin for uncertain reasons [ALT 909 U/L, Alk P and bilirubin not provided], with progressive injury resulting in death despite stopping both agents; no autopsy or tissue diagnosis made).</italic></p></annotation><pub-id pub-id-type="pmid">24661191</pub-id></mixed-citation>
+          </ref>
+          <ref id="Capecitabine.R16">
+            <mixed-citation publication-type="journal">Chalasani N, Bonkovsky HL, Fontana R, Lee W, Stolz A, Talwalkar J, Reddy KR, et al.; United States Drug Induced Liver Injury Network. Features and outcomes of 899 patients with drug-induced liver injury: The DILIN Prospective Study. Gastroenterology 2015; 148: 1340-52.e7. <annotation><p><italic toggle="yes"> (Among 899 cases of drug induced liver injury enrolled in a US prospective database between 2004 and 2013, 49 [5.5%] were due to antineoplastic agents, but none were attributed specifically to capecitabine).</italic></p></annotation><pub-id pub-id-type="pmid">25754159</pub-id></mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec id="Capecitabine.OTHER_REFERENCE_LINKS" sec-type="link-group">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=(Capecitabine/AE)+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D%3A%222999/12/31%22%5BEDat%5D)">Recent References on Capecitabine: from PubMed.gov</ext-link>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Capecitabine">Trials on Capecitabine: from ClinicalTrials.gov</ext-link>
+            </p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

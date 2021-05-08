@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Dimercaprol" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Dimercaprol</book-part-id>
+      <title-group>
+        <title>Dimercaprol</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>3</day>
+          <month>1</month>
+          <year>2018</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Dimenhydrinate" document-type="chapter">Dimenhydrinate</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="DimethylFumarate" document-type="chapter">Dimethyl Fumarate</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Dimercaprol.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Dimercaprol.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Dimercaprol, or British anti-Lewisite (BAL), is a parenterally administered heavy metal chelating agent that is used to treat arsenic, gold, copper and mercury poisoning. Dimercaprol has not been associated with serum enzyme elevations during therapy or with cases of clinically apparent liver injury with jaundice, but its general use has been quite limited.</p>
+        </sec>
+        <sec id="Dimercaprol.Background">
+          <title>Background</title>
+          <p>Dimercaprol (dye&#x0201d; mer cap&#x02019; rol) is a parenterally administered heavy metal chelating agent which has been used to treat arsenic, copper, gold, lead and mercury poisoning as well as severe cases of Wilson disease. Dimercaprol was developed at Oxford University during World War II as a means of treating and reversing poisoning from Lewisite, an arsenical gas used in chemical warfare (and thus initially called British anti-Lewisite [BAL]). Dimercaprol is a simple propranol molecule with two sulfhydryl groups that acts by binding heavy metals, and thus competing and blocking the binding of the toxic metals to sulfhydryl containing metabolic enzymes. Dimercaprol binds mercury, lead, copper, gold and arsenic, and its major current indications are for poisoning with arsenic, gold and mercury and, in combination with EDTA-calcium, acute lead poisoning. In addition, dimercaprol has been used to chelate copper in patients with Wilson disease, but now has been replaced by better tolerated oral chelating agents such as penicillamine and trientine. Dimercaprol is occasionally used in the initial treatment of severe, symptomatic Wilson disease, but generally for a short time only. Dimercaprol is available in solution in oil in ampules of 300 mg (100 mg/mL) generically and under the name BAL. The recommended dose and regimen vary by indication, but are in the range of 2.5 to 5 mg/kg two to five times daily, given by deep intramuscular injection for 2 to 10 days. Dimercaprol is not indicated and may be harmful in iron, cadmium and selenium poisoning. Side effects include injection site reactions, local pain and sterile abscesses as well as systemic symptoms such as nausea, vomiting, headache, dizziness, spasms, sweating, excessive lacrimation or salivation, and skin or body tingling, burning and pain. Rare, but potentially severe adverse events include seizures, stupor and coma.</p>
+        </sec>
+        <sec id="Dimercaprol.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>In clinical trials conducted in children with Wilson disease, serum aminotransferase levels generally improved or were stable during treatment with dimercaprol. There have been no clinical reports of acute liver injury with jaundice attributed to dimercaprol. Patients with Wilson disease typically have mild-to-moderate serum aminotransferase elevations and may have signs and symptoms of cirrhosis. Improvement in liver injury in Wilson disease typically requires months to years of treatment. The apparent lack of hepatotoxicity of dimercaprol may be due to the infrequency of its use, the typically short courses of therapy and the prominence of other side effects that limit its more prolonged administration.</p>
+          <p>Likelihood score: E (unlikely cause of clinically apparent liver injury).</p>
+          <p>Drug Class: <related-object source-id="livertox" document-id="ChelatingAgents">Chelating Agents</related-object>, <related-object source-id="livertox" document-id="WilsonDiseaseAgents">Wilson Disease Agents</related-object></p>
+          <p>Other Drugs in the Subclass, Wilson Disease: <related-object source-id="livertox" document-id="Penicillamine">Penicillamine</related-object>, <related-object source-id="livertox" document-id="Trientine">Trientine</related-object>, <related-object source-id="livertox" document-id="Zinc">Zinc</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Dimercaprol.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <boxed-text position="anchor" id="Dimercaprol.BPI" orientation="portrait">
+          <p>
+            <bold>REPRESENTATIVE TRADE NAMES</bold>
+          </p>
+          <p>Dimercaprol &#x02013; Generic, BAL&#x000ae;</p>
+          <p>
+            <bold>DRUG CLASS</bold>
+          </p>
+          <p>Chelating Agents</p>
+          <p>
+            <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Dimercaprol">COMPLETE LABELING</ext-link>
+          </p>
+          <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+        </boxed-text>
+      </sec>
+      <sec id="Dimercaprol.CHEMICAL_FORMULA_AND_STRUCTU">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Dimercaprol.T1" position="anchor" orientation="portrait">
+          <table>
+            <thead>
+              <tr>
+                <th id="hd_h_Dimercaprol.T1_1_1_1_1" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Dimercaprol.T1_1_1_1_2" rowspan="1" colspan="1">CAS REGISTRY NO.</th>
+                <th id="hd_h_Dimercaprol.T1_1_1_1_3" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Dimercaprol.T1_1_1_1_4" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Dimercaprol.T1_1_1_1_1" rowspan="1" colspan="1">Dimercaprol</td>
+                <td headers="hd_h_Dimercaprol.T1_1_1_1_2" rowspan="1" colspan="1">59-52-9</td>
+                <td headers="hd_h_Dimercaprol.T1_1_1_1_3" rowspan="1" colspan="1">C3-H8-O-S2</td>
+                <td headers="hd_h_Dimercaprol.T1_1_1_1_4" rowspan="1" colspan="1">
+                  <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="dimercaprol_structure.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait">
+                    <alt-text>Dimercaprol structure</alt-text>
+                  </graphic>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Dimercaprol.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 03 January 2018</p>
+        <ref-list id="Dimercaprol.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Dimercaprol.R1">
+            <mixed-citation publication-type="other">Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999.<annotation><p><italic toggle="yes">(Review of hepatotoxicity published in 1999; dimercaprol is not discussed).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Dimercaprol.R2">
+            <mixed-citation publication-type="other">Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013.<annotation><p><italic toggle="yes">(Textbook on hepatotoxicity; chelating agents are not discussed).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Dimercaprol.R3">
+            <mixed-citation publication-type="other">Byrns MC, Penning TM. Treatment of metal exposure. Environmental toxicology: carcinogens and heavy metals. In, Brunton LL, Chabner BA, Knollman BC, eds. Goodman &#x00026; Gilman's the pharmacological basis of therapeutics. 12th ed. New York: McGraw-Hill, 2011, pp. 1872-6.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Dimercaprol.R4">
+            <mixed-citation publication-type="journal">Denny-Brown D, Porter H. The effect of BAL(2,3-dimercaptopropanol) on hepatolenticular degeneration(Wilson's disease). N Engl J Med 1951; 245: 917-25. <annotation><p><italic toggle="yes">(Studies of 5 patients with Wilson disease and neurologic complications treated with multiple 24 hour courses of intramuscular BAL found marked improvement in tremor and rigidity and increase in cupruresis).</italic></p></annotation><pub-id pub-id-type="pmid">14882450</pub-id></mixed-citation>
+          </ref>
+          <ref id="Dimercaprol.R5">
+            <mixed-citation publication-type="journal">Dimercaprol for hepatolenticular degeneration. Lancet 1952; 1 (6700): 199-200. <annotation><p><italic toggle="yes">(Initially used as an antidote for wartime arsenical gas poisoning, BAL was then found to increase excretion of other metals, and later shown to improve symptoms of Wilson disease, to increase urinary excretion of copper 2 to 7 times, and to not worsen liver disease).</italic></p></annotation><pub-id pub-id-type="pmid">14889814</pub-id></mixed-citation>
+          </ref>
+          <ref id="Dimercaprol.R6">
+            <mixed-citation publication-type="journal">Warnock CG, Neill DW. Dimercaprol in the pre-neurological stage of Wilson's disease(hepatolenticular degeneration). J Neurol Neurosurg Psychiatry 1954; 17: 70-4. <annotation><p><italic toggle="yes">(Treatment of a 12 year old child with Wilson disease [of which two siblings had died], without neurologic symptoms, with multiple courses of BAL showed marked increase in copper excretion and improvement in liver disease).</italic></p></annotation><pub-id pub-id-type="pmid">13131080</pub-id></mixed-citation>
+          </ref>
+          <ref id="Dimercaprol.R7">
+            <mixed-citation publication-type="other">Bearn AG. The place of BAL in the therapy of Wilson.s disease. Am J Med 1956; 21: 134. Not in PubMed<annotation><p><italic toggle="yes">(Among patients with Wilson disease treated with BAL in doses of 200 to 300 mg twice daily for several months, injections were often painful and toxic reactions included high fever, worsening of neurologic signs, hallucinations, delirium and coma).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Dimercaprol.R8">
+            <mixed-citation publication-type="journal">Walshe JM. Penicillamine, a new oral therapy for Wilson's disease. Am J Med 1956; 21: 487-95. <annotation><p><italic toggle="yes">(Initial studies on efficacy of oral penicillamine [&#x003b2;,&#x003b2;-dimethyl cysteine, a monothiol] in inducing cupruresis in Wilson disease, and lack of effect of cysteine and methionine; no toxic reactions were observed).</italic></p></annotation><pub-id pub-id-type="pmid">13362281</pub-id></mixed-citation>
+          </ref>
+          <ref id="Dimercaprol.R9">
+            <mixed-citation publication-type="journal">Vilensky JA, Redman K. British anti-Lewisite (dimercaprol): an amazing history. Ann Emerg Med 2003; 41: 378-83. <annotation><p><italic toggle="yes">(History of development and use of dimercaprol, initially synthesized at Oxford during WWII as a means of reversing Lewisite arsenical gas poisoning [thus British anti-Lewisite (BAL)] and now still used for emergency therapy of heavy metal poisoning by arsenic, gold, copper and mercury).</italic></p></annotation><pub-id pub-id-type="pmid">12605205</pub-id></mixed-citation>
+          </ref>
+          <ref id="Dimercaprol.R10">
+            <mixed-citation publication-type="journal">Ala A, Walker AP, Ashkan K, Dooley JS, Schilsky ML. Wilson's disease. Lancet 2007; 369 (9559): 397-408. <annotation><p><italic toggle="yes">(Review of the clinical features, pathogenesis, genetics, diagnosis and treatment).</italic></p></annotation><pub-id pub-id-type="pmid">17276780</pub-id></mixed-citation>
+          </ref>
+          <ref id="Dimercaprol.R11">
+            <mixed-citation publication-type="journal">Roberts EA, Schilsky ML, AASLD. Diagnosis and treatment of Wilson disease: an update. Hepatology 2008; 47: 2089-111. <annotation><p><italic toggle="yes">(Thorough review of the cause, natural history, diagnosis and treatment of Wilson disease with specific recommendations for use of penicillamine, trientine and zinc).</italic></p></annotation><pub-id pub-id-type="pmid">18506894</pub-id></mixed-citation>
+          </ref>
+          <ref id="Dimercaprol.R12">
+            <mixed-citation publication-type="journal">Walshe JM. The conquest of Wilson's disease. Brain 2009; 132 (Pt 8): 2289-95. <annotation><p><italic toggle="yes">(History of the initial description of Wilson disease, its link to copper accumulation, and therapies several of which were developed by the author).</italic></p></annotation><pub-id pub-id-type="pmid">19596747</pub-id></mixed-citation>
+          </ref>
+          <ref id="Dimercaprol.R13">
+            <mixed-citation publication-type="journal">Weiss KH, Stremmel W. Evolving perspectives in Wilson disease diagnosis: treatment and monitoring. Curr Gastroenterol Rep 2012; 14: 1-7. <annotation><p><italic toggle="yes">(Review of the diagnosis and management of Wilson disease, including the role of genetic testing and the choice of medical therapies). </italic></p></annotation><pub-id pub-id-type="pmid">22083169</pub-id></mixed-citation>
+          </ref>
+          <ref id="Dimercaprol.R14">
+            <mixed-citation publication-type="journal">Breuer C, Oh J, Nolkemper D, Achilles EG, Fischer L, Eglite I, Guesmer C, Heitland P, et al. Successful detoxification and liver transplantation in a severe poisoning with a chemical wood preservative containing chromium, copper, and arsenic. Transplantation 2015; 99: e29-30. <annotation><p><italic toggle="yes">(4 year old boy ingested wood preservative [chromium, copper and arsenic] and presented with nausea and vomiting followed by renal and hepatic failure, requiring parenteral dimercaprol before and for 3 months after liver transplantation).</italic></p></annotation><pub-id pub-id-type="pmid">25827325</pub-id></mixed-citation>
+          </ref>
+          <ref id="Dimercaprol.R15">
+            <mixed-citation publication-type="journal">Chakor RT, Bharote H, Eklare N, Tamboli K. Unilateral rubral tremors in Wilson's disease treated with dimercaprol. Ann Indian Acad Neurol 2015; 18: 115-6. <annotation><p><italic toggle="yes"> (22 year old man with Wilson disease and severe tremors not relieved by penicilliamine, responded within a month to a course of dimercaprol; no mention of ALT levels or liver injury).</italic></p></annotation><pub-id pub-id-type="pmid">25745328</pub-id></mixed-citation>
+          </ref>
+          <ref id="Dimercaprol.R16">
+            <mixed-citation publication-type="journal">Permar S, Gorman K, Lercher D, Bradford KK. Rare etiology of abdominal pain in an adolescent female. Clin Pediatr (Phila) 2015; 54: 94-7. <annotation><p><italic toggle="yes"> (16 year old female developed abdominal pain, hematemesis, anemia and liver test abnormalities [bilirubin 1.4 mg/dL, ALT 81 U/L, AST 70 U/L, Alk P 55 U/L, hematocrit 26.8% with basophilic stippling], found to have lead poisoning from drinking out of locally made terra cotta pottery bought in Mexico; treated with dimercaprol and EDTA).</italic></p></annotation><pub-id pub-id-type="pmid">25015930</pub-id></mixed-citation>
+          </ref>
+          <ref id="Dimercaprol.R17">
+            <mixed-citation publication-type="journal">Shumy F, Anam AM, Kamruzzaman AK, Amin MR, Chowdhury MA. Acute arsenic poisoning diagnosed late. Trop Doct 2016; 46: 93-6. <annotation><p><italic toggle="yes"> (17 year old Indian man developed nausea, vomiting and progressive flacid paralysis followed by jaundice and coma [bilirubin 10.3 mg/dL, ALT 160] due to arsenic poisoning, responding with slow improvement to a 10 day course of dimercaprol).</italic></p></annotation><pub-id pub-id-type="pmid">26508422</pub-id></mixed-citation>
+          </ref>
+          <ref id="Dimercaprol.R18">
+            <mixed-citation publication-type="journal">Grasso IA, Blattner MR, Short T, Downs JW. Severe systemic lead toxicity resulting from extra-articular retained shrapnel presenting as jaundice and hepatitis: a case report and review of the literature. Mil Med 2017; 182: e1843-e1848. <annotation><p><italic toggle="yes"> (31 year old soldier with history of gunshot wound developed abdominal pain and jaundice, but normal ALT levels despite liver biopsy showing steatohepaittis; evaluation of anemia demonstrated lead poisoning, that responded partially to several courses of dimercaprol, but eventually required surgical removal of shrapnel in leg).</italic></p></annotation><pub-id pub-id-type="pmid">28290970</pub-id></mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec id="Dimercaprol.OTHER_REFERENCE_LINKS" sec-type="link-group">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=Dimercaprol+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D%3A%222999/12/31%22%5BEDat%5D)">Recent References on Dimercaprol: from PubMed.gov</ext-link>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Dimercaprol">Trials on Dimercaprol: from ClinicalTrials.gov</ext-link>
+            </p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

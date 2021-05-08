@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Brivaracetam" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Brivaracetam</book-part-id>
+      <title-group>
+        <title>Brivaracetam</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>2</day>
+          <month>10</month>
+          <year>2017</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Brigatinib" document-type="chapter">Brigatinib</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Brodalumab" document-type="chapter">Brodalumab</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Brivaracetam.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Brivaracetam.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Brivaracetam is a relatively unique anticonvulsant that is typically used in combination with other antiepileptic medications for partial onset seizures. Brivaracetam has been linked to rare instances of serum aminotransferase and alkaline phosphatase elevations during treatment and is suspected of causing rare cases of clinically apparent drug induced liver disease.</p>
+        </sec>
+        <sec id="Brivaracetam.Background">
+          <title>Background</title>
+          <p>Brivaracetam (briv" a ra' se tam) is a pyrrolidine derivative related in structure to levetiracetam. Its mechanism of action is not known, but it, like levetiracetam, binds to the synaptic vesicle protein 2A (SV2A) in the brain and appears to act by preventing secondary spread of focal seizure activity and decreasing simultaneous neuronal firing. Brivaracetam was approved for use in epilepsy in 2016 and current indications are as adjunctive therapy for partial onset seizures in adults and in children 16 years or older. Brivaracetam is available as tablets of 10, 25, 50, 75 and 100 mg under the brand name Briviact. Liquid oral and injectable forms are also available. The recommended initial dose in adults is 50 mg twice daily, with dose adjustment based upon tolerance and effect downward or upward to a maximum of 100 mg twice daily. Common side effects include dizziness, somnolence, fatigue, and nausea and vomiting.</p>
+        </sec>
+        <sec id="Brivaracetam.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>Prospective studies reported that chronic brivaracetam therapy was not accompanied by significant elevations in serum aminotransferase levels and clinically apparent liver injury was not observed. Brivaracetam has had limited general use, but has not been linked to instances of clinically apparent liver injury. Levetiracetam, an anticonvulsant with similar structure and mechanism of action, has been linked to rare instances of acute liver injury, generally arising within 1 to 20 weeks and presenting with a hepatocellular pattern of injury without immunoallergic or autoimmune features. Whether similar cases will be linked to brivaracetam is not known.</p>
+          <p>Likelihood score: E (unlikely cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Brivaracetam.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The mechanism by which brivaracetam might cause liver injury is unknown, but is likely to be hypersensitivity. Brivaracetam is metabolized by hydrolysis followed by hydroxylation that is mediated by the cytochrome P450 system, predominantly CYP 2C19. Inhibitors of CYP 2C19 (such as carbamazepine and phenytoin) may increase and CYP 2C19 inducers (such as rifampin) may decrease brivaracetam levels.</p>
+        </sec>
+        <sec id="Brivaracetam.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>Minor serum enzyme elevations during brivaracetam therapy rarely require dose modification or discontinuation, but elevations above 5 times the ULN should lead to dose modification and search for other possible causes. Acute liver failure, chronic hepatitis and vanishing bile duct syndrome have not been reported with brivaracetam therapy, nor has anticonvulsant hypersensitivity (DRESS) syndrome, and brivaracetam may be a reasonable alternative in patients who have developed liver injury due to an aromatic anticonvulsant such as phenytoin, carbamazepine or lamotrigine.</p>
+          <p>Drug Class: <related-object source-id="livertox" document-id="Anticonvulsants">Anticonvulsants</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Brivaracetam.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <boxed-text position="anchor" id="Brivaracetam.BPI" orientation="portrait">
+          <p>
+            <bold>REPRESENTATIVE TRADE NAMES</bold>
+          </p>
+          <p>Brivaracetam &#x02013; Briviact&#x000ae;</p>
+          <p>
+            <bold>DRUG CLASS</bold>
+          </p>
+          <p>Anticonvulsants</p>
+          <p>
+            <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=brivaracetam">COMPLETE LABELING</ext-link>
+          </p>
+          <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+        </boxed-text>
+      </sec>
+      <sec id="Brivaracetam.CHEMICAL_FORMULAS_AND_STRUC">
+        <title>CHEMICAL FORMULAS AND STRUCTURES</title>
+        <table-wrap id="Brivaracetam.T1" position="anchor" orientation="portrait">
+          <table>
+            <thead>
+              <tr>
+                <th id="hd_h_Brivaracetam.T1_1_1_1_1" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Brivaracetam.T1_1_1_1_2" rowspan="1" colspan="1">CAS REGISTRY NUMBER</th>
+                <th id="hd_h_Brivaracetam.T1_1_1_1_3" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Brivaracetam.T1_1_1_1_4" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Brivaracetam.T1_1_1_1_1" rowspan="1" colspan="1">Brivaracetam</td>
+                <td headers="hd_h_Brivaracetam.T1_1_1_1_2" rowspan="1" colspan="1">
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135195692">357336-20-0</ext-link>
+                </td>
+                <td headers="hd_h_Brivaracetam.T1_1_1_1_3" rowspan="1" colspan="1">C11-H20-N2-O2</td>
+                <td headers="hd_h_Brivaracetam.T1_1_1_1_4" rowspan="1" colspan="1">
+                  <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Brivaracetam_structure.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait">
+                    <alt-text>Chemical Structure for Brivaracetam</alt-text>
+                  </graphic>
+                </td>
+              </tr>
+              <tr>
+                <td headers="hd_h_Brivaracetam.T1_1_1_1_1" rowspan="1" colspan="1">Levetiracetam</td>
+                <td headers="hd_h_Brivaracetam.T1_1_1_1_2" rowspan="1" colspan="1">
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135017078">102767-28-2</ext-link>
+                </td>
+                <td headers="hd_h_Brivaracetam.T1_1_1_1_3" rowspan="1" colspan="1">C8-H14-N2-O2</td>
+                <td headers="hd_h_Brivaracetam.T1_1_1_1_4" rowspan="1" colspan="1">
+                  <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Levetiracetam_Structure.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait">
+                    <alt-text>Levetiraceta chemical structure</alt-text>
+                  </graphic>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Brivaracetam.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 02 October 2017</p>
+        <ref-list id="Brivaracetam.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Brivaracetam.R1">
+            <mixed-citation publication-type="other">Zimmerman HJ. Anticonvulsants. In, Zimmerman, HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999: pp. 498-516.<annotation><p><italic toggle="yes">(Expert review of anticonvulsants and liver injury published in 1999, before the availability of brivaracetam).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Brivaracetam.R2">
+            <mixed-citation publication-type="other">Pirmohamed M, Leeder SJ. Anticonvulsant agents. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013: pp 423-41.<annotation><p><italic toggle="yes">(Review of anticonvulsant induced liver injury published in 2013; brivaracetam is not mentioned).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Brivaracetam.R3">
+            <mixed-citation publication-type="other">McNamara JO. Pharmacology of the epilepsies. In, Brunton LL, Chabner BA, Knollman BC, eds. Goodman &#x00026; Gilman&#x02019;s the pharmacological basis of therapeutics. 12th ed. New York: McGraw-Hill, 2011, pp. 583-608.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Brivaracetam.R4">
+            <mixed-citation publication-type="journal">Knowles SR, Shapiro LE, Shear NH. Anticonvulsant hypersensitivity syndrome: incidence, prevention and management. Drug Saf 1999; 21: 489-501. <annotation><p><italic toggle="yes">(Review of anticonvulsant hypersensitivity syndrome: triad of fever, rash and internal organ injury occurring 1-8 weeks after exposure to anticonvulsant, liver being most common internal organ involved. Occurs in 1:1000-1:10,000 initial exposures to phenytoin, carbamazepine, phenobarbital or lamotrigine, unrelated to dose, perhaps predisposed by valproate; liver injury arises 1-4 weeks after onset of rash and ranges in severity from asymptomatic ALT elevations to icteric hepatitis to acute liver failure. High mortality rate with jaundice; other organs involved include muscle, kidney, brain, heart and lung. Pseudolymphoma syndrome and serum sickness like syndrome are separate complications of anticonvulsants. Role of corticosteroids is uncertain; cross reactivity among the agents should be assumed).</italic></p></annotation><pub-id pub-id-type="pmid">10612272</pub-id></mixed-citation>
+          </ref>
+          <ref id="Brivaracetam.R5">
+            <mixed-citation publication-type="journal">Hamer HM, Morris HH. Hypersensitivity syndrome to antiepileptic drugs: a review including new anticonvulsants. Clevel Clin J Med 1999; 66: 239-45. <annotation><p><italic toggle="yes"> (Clinical review of anticonvulsant hypersensitivity syndrome which occurs in 1-5/10,000 users with higher risk in African Americans and affected siblings; liver involvement is common, but most cases are anicteric; other manifestations include facial edema, lymphadenopathy, bone marrow aplasia, pseudolymphoma, thyroiditis, interstitial nephritis; switching to valproate and benzodiazepines is safe, levetiracetam or brivaracetam might be other options).</italic></p></annotation><pub-id pub-id-type="pmid">10199060</pub-id></mixed-citation>
+          </ref>
+          <ref id="Brivaracetam.R6">
+            <mixed-citation publication-type="journal">Tan TC, de Boer BW, Mitchell A, Delriviere L, Adams LA, Jeffrey GP, Macquillan G. Levetiracetam as a possible cause of fulminant liver failure. Neurology 2008; 71: 685-6. <annotation><p><italic toggle="yes">(Patient developed acute liver failure 1 month after being switched from oxcarbazepine to levetiracetam [bilirubin 34.6 mg/dL, ALT 1610 U/L, Alk P 246 U/L], which recurred on restarting levetiracetam post liver transplant [bilirubin rising to 4.5 mg/dL, ALT 350 U/L, Alk P 650 U/L], resolving within 2 weeks of stopping).</italic></p></annotation><pub-id pub-id-type="pmid">18725594</pub-id></mixed-citation>
+          </ref>
+          <ref id="Brivaracetam.R7">
+            <mixed-citation publication-type="journal">Bj&#x000f6;rnsson E. Hepatotoxicity associated with antiepileptic drugs. Acta Neurol Scan 2008; 118: 281-90. (Review of the hepatotoxicity of anticonvulsants; before the availability of brivaracetam).<pub-id pub-id-type="pmid">18341684</pub-id></mixed-citation>
+          </ref>
+          <ref id="Brivaracetam.R8">
+            <mixed-citation publication-type="journal">von Rosenstiel P. Brivaracetam (UCB 34714). Neurotherapeutics 2007; 4: 84-7. <annotation><p><italic toggle="yes">(Summary of pharmacology and efficacy of brivaracetam in preclinical studies of animal models of epilepsy, mentions that it is a derivative of levetiracetam with enhanced SV2A binding in parallel with enhanced in vitro antiepileptic activity).</italic></p></annotation><pub-id pub-id-type="pmid">17199019</pub-id></mixed-citation>
+          </ref>
+          <ref id="Brivaracetam.R9">
+            <mixed-citation publication-type="journal">French JA, Costantini C, Brodsky A, von Rosenstiel P; N01193 Study Group. Adjunctive brivaracetam for refractory partial-onset seizures: a randomized, controlled trial. Neurology 2010; 75: 519-25. <annotation><p><italic toggle="yes">(Among 208 adults with refractory partial seizures treated with brivaracetam [5, 20 or 50 mg daily] or placebo for 7 weeks, there was a dose related decline in seizure frequency, but little difference in adverse events and &#x0201c;no clinically significant changes&#x0201d; in blood chemistry results).</italic></p></annotation><pub-id pub-id-type="pmid">20592253</pub-id></mixed-citation>
+          </ref>
+          <ref id="Brivaracetam.R10">
+            <mixed-citation publication-type="journal">G&#x000f3;mez-Zorrilla S, Ferraz AV, Pedr&#x000f3;s C, Lemus M, Pe&#x000f1;a C. Levetiracetam-induced drug reaction with eosinophilia and systemic symptoms syndrome. Ann Pharmacother 2012; 46: e20. <annotation><p><italic toggle="yes">(31 year old man with brain tumor developed fever, rash and interstitial pneumonitis 49 days after starting levetiracetam, improving with dexamethasone therapy, but recurring [ALT 60 U/L] and resolving only after stopping levetiracetam and switching to phenytoin).</italic></p></annotation><pub-id pub-id-type="pmid">22764327</pub-id></mixed-citation>
+          </ref>
+          <ref id="Brivaracetam.R11">
+            <mixed-citation publication-type="journal">Drugs for epilepsy. Treat Guidel Med Lett 2013; 11: 9-18. <annotation><p><italic toggle="yes">(Concise review of the efficacy and safety of drugs used to treat epilepsy; states that levetiracetam can cause Stevens Johnson syndrome and toxic epidermal necrolysis, but liver adverse events were not mentioned).</italic></p></annotation><pub-id pub-id-type="pmid">23348233</pub-id></mixed-citation>
+          </ref>
+          <ref id="Brivaracetam.R12">
+            <mixed-citation publication-type="journal">Van Paesschen W, Hirsch E, Johnson M, Falter U, von Rosenstiel P. Efficacy and tolerability of adjunctive brivaracetam in adults with uncontrolled partial-onset seizures: a phase IIb, randomized, controlled trial. Epilepsia 2013; 54: 89-97. <annotation><p><italic toggle="yes">(Among 157 patients with poorly controlled partial onset seizures treated with brivaracetam [50 or 150 mg daily] or placebo for 10 weeks, seizure frequency declined in both active treatment groups and common side effects were headache, fatigue, nasal stuffiness, nausea, somnolence and dizziness, but there were no drug related serious adverse events and no &#x0201c;clinically relevant&#x0201d; changes in laboratory test results).</italic></p></annotation><pub-id pub-id-type="pmid">22813235</pub-id></mixed-citation>
+          </ref>
+          <ref id="Brivaracetam.R13">
+            <mixed-citation publication-type="journal">Kwan P, Trinka E, Van Paesschen W, Rektor I, Johnson ME, Lu S. Adjunctive brivaracetam for uncontrolled focal and generalized epilepsies: results of a phase III, double-blind, randomized, placebo-controlled, flexible-dose trial. Epilepsia 2014; 55: 38-46. <annotation><p><italic toggle="yes">(Among 480 patients with poorly controlled focal and generalized seizures treated with brivaracetam [20 to 150 mg daily] or placebo for 16 weeks, seizure frequency declined with brivaracetam, and adverse event rates were similar and there were no liver related serious adverse events).</italic></p></annotation><pub-id pub-id-type="pmid">24116853</pub-id></mixed-citation>
+          </ref>
+          <ref id="Brivaracetam.R14">
+            <mixed-citation publication-type="journal">Ryvlin P, Werhahn KJ, Blaszczyk B, Johnson ME, Lu S. Adjunctive brivaracetam in adults with uncontrolled focal epilepsy: results from a double-blind, randomized, placebo-controlled trial. Epilepsia 2014; 55: 47-56. <annotation><p><italic toggle="yes">(Among 398 patients with focal seizures treated with one of 3 doses of brivaracetam or placebo for 12 weeks, seizure frequency declined with active treatment [by 27-33% vs 17% with placebo]; frequent side effects were headache, fatigue and somnolence, but there were no significant changes from baseline in mean blood chemistry results).</italic></p></annotation><pub-id pub-id-type="pmid">24256083</pub-id></mixed-citation>
+          </ref>
+          <ref id="Brivaracetam.R15">
+            <mixed-citation publication-type="journal">Biton V, Berkovic SF, Abou-Khalil B, Sperling MR, Johnson ME, Lu S. Brivaracetam as adjunctive treatment for uncontrolled partial epilepsy in adults: a phase III randomized, double-blind, placebo-controlled trial. Epilepsia 2014; 55: 57-66. <annotation><p><italic toggle="yes">(Among 396 patients with partial epilepsy treated with one of 3 doses of brivaracetam or placebo, seizure frequency was reduced with the highest doses and overall there were no clinically significant changes in blood chemistry results).</italic></p></annotation><pub-id pub-id-type="pmid">24446953</pub-id></mixed-citation>
+          </ref>
+          <ref id="Brivaracetam.R16">
+            <mixed-citation publication-type="journal">Klein P, Schiemann J, Sperling MR, Whitesides J, Liang W, Stalvey T, Brandt C, Kwan P. A randomized, double-blind, placebo-controlled, multicenter, parallel-group study to evaluate the efficacy and safety of adjunctive brivaracetam in adult patients with uncontrolled partial-onset seizures. Epilepsia 2015; 56: 1890-8. <annotation><p><italic toggle="yes">(Among 760 patients with poorly controlled partial onset seizures who were treated with brivaracetam [100 or 200 mg daily] or placebo for 12 weeks, the most common adverse events were somnolence, dizziness and fatigue and there were no changes from baseline in &#x0201c;blood chemistry parameters&#x0201d;).</italic></p></annotation><pub-id pub-id-type="pmid">26471380</pub-id></mixed-citation>
+          </ref>
+          <ref id="Brivaracetam.R17">
+            <mixed-citation publication-type="journal">Toledo M, Whitesides J, Schiemann J, Johnson ME, Eckhardt K, McDonough B, Borghs S, et al. Safety, tolerability, and seizure control during long-term treatment with adjunctive brivaracetam for partial-onset seizures. Epilepsia 2016; 57: 1139-51. <annotation><p><italic toggle="yes">(A pooled analysis of 12 studies of brivaracetam [50 to 200 mg daily] vs placebo found that the most frequent adverse events were headaches [21%], dizziness [17.5%], somnolence [15%] and fatigue [11%], and there were no hepatic serious adverse events or causes for drug discontinuation; results of laboratory tests &#x0201c;did not reveal any issues of clinical concern&#x0201d;).</italic></p></annotation><pub-id pub-id-type="pmid">27265725</pub-id></mixed-citation>
+          </ref>
+          <ref id="Brivaracetam.R18">
+            <mixed-citation publication-type="journal">Ben-Menachem E, Mameni&#x00161;kien&#x00117; R, Quarato PP, Klein P, Gamage J, Schiemann J, Johnson ME, et al. Efficacy and safety of brivaracetam for partial-onset seizures in 3 pooled clinical studies. Neurology 2016; 87: 314-23. <annotation><p><italic toggle="yes">(In a pooled analysis of 3 clinical trials of brivaracetam [50, 100 or 200 mg daily] or placebo involving 1262 patients with partial onset seizures, adverse events were comparable in incidence between drug vs placebo treatment with somnolence in 15% vs 8.5%, fatigue in 9% vs 4%, and &#x0201d;no clinically meaningful changes from baseline in clinical chemistry&#x0201d; results).</italic></p></annotation><pub-id pub-id-type="pmid">27335114</pub-id></mixed-citation>
+          </ref>
+          <ref id="Brivaracetam.R19">
+            <mixed-citation publication-type="journal">Brivaracetam (Briviact) for epilepsy. Med Lett Drugs Ther 2016; 58 (1499): 95-6. <annotation><p><italic toggle="yes">(Concise review of the mechanism of action, clinical efficacy, safety and costs of brivaracetam shortly after its approval for use in the US, mentions side effects of somnolence, sedation, dizziness, fatigue, nausea and vomiting, but does not mention ALT elevations or heptotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">27403785</pub-id></mixed-citation>
+          </ref>
+          <ref id="Brivaracetam.R20">
+            <mixed-citation publication-type="journal">Steinig I, von Podewils F, M&#x000f6;ddel G, Bauer S, Klein KM, Paule E, Reif PS, et al. Postmarketing experience with brivaracetam in the treatment of epilepsies: A multicenter cohort study from Germany. Epilepsia 2017; 58: 1208-16. <annotation><p><italic toggle="yes">(Among 262 patients with epilepsy treated with brivaracetam for at least 3 months, common adverse events were somnolence, dizziness and behavioral changes; ALT elevations occurred in 7 patients [2.7%] but all were transient, less than 3 times ULN and not associated with symptoms or jaundice).</italic></p></annotation><pub-id pub-id-type="pmid">28480518</pub-id></mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec id="Brivaracetam.OTHER_REFERENCE_LINKS" sec-type="link-group">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=(Brivaracetam/AE)+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D%3A%222999/12/31%22%5BEDat%5D)">Recent References on Brivaracetam: from PubMed.gov</ext-link>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Brivaracetam">Trials on Brivaracetam: from ClinicalTrials.gov</ext-link>
+            </p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

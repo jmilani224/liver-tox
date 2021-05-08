@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Rotigotine" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Rotigotine</book-part-id>
+      <title-group>
+        <title>Rotigotine</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>21</day>
+          <month>7</month>
+          <year>2017</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Rosuvastatin" document-type="chapter">Rosuvastatin</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Rucaparib" document-type="chapter">Rucaparib</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Rotigotine.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Rotigotine.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Rotigotine is a non-ergot dopamine receptor agonist used in the therapy of Parkinson disease and restless leg syndrome. Administered as a once daily transdermal patch, rotigotine has not been associated with serum enzyme elevations during treatment or with episodes of clinically apparent liver injury.</p>
+        </sec>
+        <sec id="Rotigotine.Background">
+          <title>Background</title>
+          <p>Rotigotine (roe tig' oh teen) is a synthetic dopamine agonist that is used to treat Parkinson disease and restless leg syndrome. Rotigotine is a nonselective agonist of dopamine receptors with highest affinity for the D3 class of receptors. It is structurally unrelated to ergot derivatives. Rotigotine is formulated as a transdermal patch which allows for once daily application and provides longer lasting and sustained plasma levels in comparison to other, oral non-ergot dopamine receptor agonists, such as ropinirole and pramipexole which are usually administered several times daily. In multiple placebo controlled clinical trials, rotigotine improved motor and daily activity scores in patients with Parkinson disease and in restless leg syndrome. Rotigotine was approved for this use in the United States in 2007. Current indications include both Parkinson disease and restless leg syndrome. Rotigotine is available in transdermal formulations which deliver 1, 2, 3, 4, 6 or 8 mg per 24 hours under the brand name Neupro. Rotigotine is typically initiated in doses of 2 mg per 24 hours in Parkinson disease and 1 to 3 mg per 24 hours for restless leg syndrome, with dose adjustments based upon tolerance and effects. Common side effects of rotigotine include application site reactions (erythema, pruritus) and systemic symptoms of nausea, dizziness, headache and somnolence &#x02013; symptoms that are typical of dopaminergic stimulation. Weight gain and peripheral edema have also been described. Rare, but potentially severe adverse reactions include sudden sleep onset, sleep attacks, hallucinations, hypotension and syncope.</p>
+        </sec>
+        <sec id="Rotigotine.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>In multiple, controlled trials in Parkinson disease and restless leg syndrome, rotigotine transdermal patches were not associated with serum enzyme elevations, liver related severe adverse events or instances of clinically apparent liver injury. Since the approval and more wide scale use of rotigotine, there have been no published case reports of liver injury associated with its use and hepatotoxicity is not mentioned in the product label.</p>
+          <p>Likelihood score: E (unlikely cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Rotigotine.Mechanism_of_Liver_Injury">
+          <title>Mechanism of Liver Injury</title>
+          <p>Rotigotine is extensively metabolized in the liver acted upon by multiple cytochrome P450 isomers and conjugating enzymes. It has little or no effect on CYP isoenzyme activities and is not affected by drugs that inhibit or induce individual members of the microsomal enzyme system. The lack of hepatotoxicity of rotigotine may related to its transdermal formulation and relatively low daily dose (1 to 8 mg per 24 hours).</p>
+          <p>Drug Class: <related-object source-id="livertox" document-id="AntiparkinsonAgents">Antiparkinson Agents</related-object></p>
+          <p>Other Drugs in the Subclass, Dopamine Receptor Agonists: <related-object source-id="livertox" document-id="Apomorphine">Apomorphine</related-object>, <related-object source-id="livertox" document-id="Bromocriptine">Bromocriptine</related-object>, <related-object source-id="livertox" document-id="Pergolide">Pergolide</related-object>, <related-object source-id="livertox" document-id="Pramipexole">Pramipexole</related-object>, <related-object source-id="livertox" document-id="Ropinirole">Ropinirole</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Rotigotine.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <boxed-text position="anchor" id="Rotigotine.BPI" orientation="portrait">
+          <p>
+            <bold>REPRESENTATIVE TRADE NAMES</bold>
+          </p>
+          <p>Rotigotine &#x02013; Neupro&#x000ae;</p>
+          <p>
+            <bold>DRUG CLASS</bold>
+          </p>
+          <p>Antiparkinson Agents</p>
+          <p>
+            <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=rotigotine">COMPLETE LABELING</ext-link>
+          </p>
+          <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+        </boxed-text>
+      </sec>
+      <sec id="Rotigotine.CHEMICAL_FORMULA_AND_STRUCTUR">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Rotigotine.T1" position="anchor" orientation="portrait">
+          <table>
+            <thead>
+              <tr>
+                <th id="hd_h_Rotigotine.T1_1_1_1_1" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Rotigotine.T1_1_1_1_2" rowspan="1" colspan="1">CAS REGISTRY NUMBER</th>
+                <th id="hd_h_Rotigotine.T1_1_1_1_3" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Rotigotine.T1_1_1_1_4" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Rotigotine.T1_1_1_1_1" rowspan="1" colspan="1">Rotigotine</td>
+                <td headers="hd_h_Rotigotine.T1_1_1_1_2" rowspan="1" colspan="1">
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135016328">99755-59-6</ext-link>
+                </td>
+                <td headers="hd_h_Rotigotine.T1_1_1_1_3" rowspan="1" colspan="1">C19-H25-N-O-S</td>
+                <td headers="hd_h_Rotigotine.T1_1_1_1_4" rowspan="1" colspan="1">
+                  <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Rotigotine_Structure.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait">
+                    <alt-text>Rotigotine Chemical Structure</alt-text>
+                  </graphic>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Rotigotine.REFERENCES">
+        <title>REFERENCES</title>
+        <p>References updated: 21 July 2017</p>
+        <ref-list id="Rotigotine.REFERENCES.reflist0">
+          <ref id="Rotigotine.R1">
+            <mixed-citation publication-type="other">Zimmerman HJ. Antiparkinsonism drugs. In, Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999, pp. 715-7.<annotation><p><italic toggle="yes">(Expert review of hepatotoxicity published in 1999; among anticholinergic agents, "only trihexyphenidyl has been incriminated in hepatic injury"; other antiparkinsonism drugs discussed include levodopa, lergotrile [no longer available], pergolide and bromocriptine, but not ropinirole).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Rotigotine.R2">
+            <mixed-citation publication-type="other">Larrey D, Ripault MP. Hepatotoxicity of psychotropic drugs and drugs of abuse. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier Inc, 2013, pp. 443-62.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of agents acting on the central nervous system).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Rotigotine.R3">
+            <mixed-citation publication-type="other">Standaert DG, Roberson ED. Treatment of central nervous system degenerative disorders. In, Brunton LL, Chabner BA, Knollman BC, eds. Goodman &#x00026; Gilman&#x02019;s the pharmacological basis of therapeutics. 12th ed. New York: McGraw-Hill, 2011, pp. 609-28.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Rotigotine.R4">
+            <mixed-citation publication-type="journal">Lambert D, Waters CH. Comparative tolerability of the newer generation antiparkinsonian agents. Drugs Aging 2000; 16: 55-65. <annotation><p><italic toggle="yes">(Review of mechanism of action, tolerability and safety of selegiline, pramipexole, ropinirole, tolcapone and entacapone in Parkinson disease).</italic></p></annotation><pub-id pub-id-type="pmid">10733264</pub-id></mixed-citation>
+          </ref>
+          <ref id="Rotigotine.R5">
+            <mixed-citation publication-type="journal">Reuben A, Koch DG, Lee WM; Acute Liver Failure Study Group. Drug-induced acute liver failure: results of a U.S. multicenter, prospective study. Hepatology 2010; 52: 2065-76. <annotation><p><italic toggle="yes">(Among 1198 patients with acute liver failure enrolled in a US prospective study between 1998 and 2007, 133 were attributed to drug induced liver injury, but none were attributed to agents used for Parkinson disease). </italic></p></annotation><pub-id pub-id-type="pmid">20949552</pub-id></mixed-citation>
+          </ref>
+          <ref id="Rotigotine.R6">
+            <mixed-citation publication-type="journal">Giladi N, Boroojerdi B, Korczyn AD, Burn DJ, Clarke CE, Schapira AH; SP513 investigators. Rotigotine transdermal patch in early Parkinson's disease: a randomized, double-blind, controlled study versus placebo and ropinirole. Mov Disord 2007; 22: 2398-404. <annotation><p><italic toggle="yes"> (Among 561 patients with early Parkinson disease treated with rotigotine, ropinirole or placebo for 24 weeks, rates of response were 52%, 68% and 30% and side effects that were more common with rotigotine than placebo were application site reactions [38% vs 7%], nausea [29% vs 16%], vomiting [12% vs 3%], dizziness [14% vs 10%], and sleep attacks [3% vs 0]; no mention of ALT elevations or liver related severe adverse events).</italic></p></annotation><pub-id pub-id-type="pmid">17935234</pub-id></mixed-citation>
+          </ref>
+          <ref id="Rotigotine.R7">
+            <mixed-citation publication-type="journal">Transdermal rotigotine (Neupro) for Parkinson's disease. Med Lett Drugs Ther 2007; 49 (1268): 69-70. <annotation><p><italic toggle="yes"> (Concise review of the mechanism of action, efficacy, safety and costs of transdermal rotigotine shortly after its approval in the US; mentions side effects of nausea, dizziness and somnolence, but not serum ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">17712291</pub-id></mixed-citation>
+          </ref>
+          <ref id="Rotigotine.R8">
+            <mixed-citation publication-type="journal">LeWitt PA, Lyons KE, Pahwa R; SP 650 Study Group. Advanced Parkinson disease treated with rotigotine transdermal system: PREFER Study. Neurology 2007; 68: 1262-7. <annotation><p><italic toggle="yes">(Among 351 patients with advanced Parkinson disease treated with transdermal rotigotine [8 or 12 mg/234 hours] or placebo for 25 weeks, there were greater decreases in &#x0201c;off&#x0201d; time with rotigotine; side effects were those typical of dopaminergic stimulation, and &#x0201c;clinical laboratory test results&#x02026;revealed no tendencies for the study medication to cause toxicity&#x0201d;).</italic></p></annotation><pub-id pub-id-type="pmid">17438216</pub-id></mixed-citation>
+          </ref>
+          <ref id="Rotigotine.R9">
+            <mixed-citation publication-type="journal">Watts RL, Jankovic J, Waters C, Rajput A, Boroojerdi B, Rao J. Randomized, blind, controlled trial of transdermal rotigotine in early Parkinson disease. Neurology 2007; 68: 272-6. <annotation><p><italic toggle="yes">(Among 277 patients with early Parkinson disease treated with transdermal rotigotine or placebo for 6 months, those on rotigotine had more improvement in motor activity, but also were more likely to have nausea, vomiting, diarrhea, somnolence and insomnia; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">17202432</pub-id></mixed-citation>
+          </ref>
+          <ref id="Rotigotine.R10">
+            <mixed-citation publication-type="journal">Oertel WH, Benes H, Garcia-Borreguero D, Geisler P, H&#x000f6;gl B, Saletu B, Trenkwalder C, et al; Rotigotine SP 709 Study Group. Efficacy of rotigotine transdermal system in severe restless legs syndrome: a randomized, double-blind, placebo-controlled, six-week dose-finding trial in Europe. Sleep Med 2008; 9: 228-39. <annotation><p><italic toggle="yes">(Among 341 patients with restless leg syndrome treated with rotigotine patches [5 doses] or placebo for 8 weeks, there were slight improvements in symptoms with rotigotine therapy, while side effects included application site reactions [37%], nausea, vomiting and dizziness; but &#x0201c;no clinically relevant changes&#x0201d; in clinical chemistry results were observed).</italic></p></annotation><pub-id pub-id-type="pmid">17553743</pub-id></mixed-citation>
+          </ref>
+          <ref id="Rotigotine.R11">
+            <mixed-citation publication-type="journal">Hening WA, Allen RP, Ondo WG, Walters AS, Winkelman JW, Becker P, Bogan R, et al; SP792 Study Group. Rotigotine improves restless legs syndrome: a 6-month randomized, double-blind, placebo-controlled trial in the United States. Mov Disord 2010; 25: 1675-83. <annotation><p><italic toggle="yes"> (Among 505 patients with restless leg syndrome treated with one of 4 doses of transdermal rotigotine or placebo for 6 months, symptom scores improved with higher doses [2 or 3 mg/24 hours] and side effects included application site reactions, nausea, somnolence, headache and insomnia, but there were no liver related serious adverse events).</italic></p></annotation><pub-id pub-id-type="pmid">20629075</pub-id></mixed-citation>
+          </ref>
+          <ref id="Rotigotine.R12">
+            <mixed-citation publication-type="journal">Bj&#x000f6;rnsson ES, Bergmann OM, Bj&#x000f6;rnsson HK, Kvaran RB, Olafsson S. Incidence, presentation, and outcomes in patients with drug-induced liver injury in the general population of Iceland. Gastroenterology 2013; 144: 1419-25,1425. <annotation><p><italic toggle="yes">(In a population based study of drug induced liver injury from Iceland, 96 cases were identified over a 2 year period, but none of the 96 were attributed to an agent used to treat Parkinson disease).</italic></p></annotation><pub-id pub-id-type="pmid">23419359</pub-id></mixed-citation>
+          </ref>
+          <ref id="Rotigotine.R13">
+            <mixed-citation publication-type="journal">Drugs for Parkinson's disease. Treat Guidel Med Lett 2013; 11 (135): 101-6. <annotation><p><italic toggle="yes">(Concise review of recommendations for therapy of Parkinson disease with description of mechanisms of action, efficacy and adverse events). </italic></p></annotation><pub-id pub-id-type="pmid">24165688</pub-id></mixed-citation>
+          </ref>
+          <ref id="Rotigotine.R14">
+            <mixed-citation publication-type="journal">Hern&#x000e1;ndez N, Bessone F, S&#x000e1;nchez A, di Pace M, Brahm J, Zapata R, A Chirino R, et al. Profile of idiosyncratic drug induced liver injury in Latin America: an analysis of published reports. Ann Hepatol 2014; 13: 231-9. <annotation><p><italic toggle="yes">(Among 176 reports of drug induced liver injury from Latin America published between 1996 and 2012, none were attributed to an agent to treat Parkinson disease).</italic></p></annotation><pub-id pub-id-type="pmid">24552865</pub-id></mixed-citation>
+          </ref>
+          <ref id="Rotigotine.R15">
+            <mixed-citation publication-type="journal">McAfee DA, Hadgraft J, Lane ME. Rotigotine: the first new chemical entity for transdermal drug delivery. Eur J Pharm Biopharm 2014; 88: 586-93. <annotation><p><italic toggle="yes">(Review of the development, pharmacokinetics, clinical efficacy of transdermal formulations of rotigotine mentions that the main adverse reactions are application site reactions, nausea and somnolence; no mention of serum enzyme elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">25173087</pub-id></mixed-citation>
+          </ref>
+          <ref id="Rotigotine.R16">
+            <mixed-citation publication-type="journal">Nomoto M, Mizuno Y, Kondo T, Hasegawa K, Murata M, Takeuchi M, Ikeda J, et al. Transdermal rotigotine in advanced Parkinson's disease: a randomized, double-blind, placebo-controlled trial. J Neurol 2014; 261: 1887-93. <annotation><p><italic toggle="yes">(Among 172 Japanese patients with advanced Parkinson disease treated with rotigotine [up to 16 mg/24 hours] or placebo for 14 weeks, symptoms improved more with rotigotine than placebo treatment and adverse events included application site reactions, nausea and somnolence; there were no liver related serious adverse events).</italic></p></annotation><pub-id pub-id-type="pmid">25022939</pub-id></mixed-citation>
+          </ref>
+          <ref id="Rotigotine.R17">
+            <mixed-citation publication-type="journal">Chalasani N, Bonkovsky HL, Fontana R, Lee W, Stolz A, Talwalkar J, Reddy KR, et al.; United States Drug Induced Liver Injury Network. Features and outcomes of 899 patients with drug-induced liver injury: The DILIN Prospective Study. Gastroenterology 2015; 148: 1340-52. <annotation><p><italic toggle="yes">(Among 899 cases of drug induced liver injury from the US enrolled in a prospective database between 2004 and 2012, none were attributed to an agent used to treat Parkinson disease).</italic></p></annotation><pub-id pub-id-type="pmid">25754159</pub-id></mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec id="Rotigotine.OTHER_REFERENCE_LINKS" sec-type="link-group">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=(Rotigotine/AE)+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D%3A%222999/12/31%22%5BEDat%5D)">Recent References on Rotigotine: from PubMed.gov</ext-link>
+            </p>
+          </list-item>
+          <list-item>
+            <p>
+              <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Rotigotine">Trials on Rotigotine: from ClinicalTrials.gov</ext-link>
+            </p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>
