@@ -25,9 +25,13 @@ export default function Home() {
   }
 
   useEffect(() => {
-    setHepatotoxicity(data && data["book-part-wrapper"]["book-part"][0].body[0].sec[0].sec[2].p)
+    if (data && data["book-part-wrapper"]["book-part"][0].body[0].sec[0].sec[2].p) {
+      setHepatotoxicity(data["book-part-wrapper"]["book-part"][0].body[0].sec[0].sec[2].p)
+    } else {
+      setHepatotoxicity("Sorry, that information doesn't exist.")
+    }
   }, [data])
-
+  console.log(hepatotoxicity)
   return (
     <div>
       <Head>
@@ -64,7 +68,7 @@ export default function Home() {
           />
 
           <datalist id="meds">
-            {input.length >= 3 && medList.filter(j => j.includes(input)).map(i => (
+            {input.length >= 3 && medList.filter(j => j.toLowerCase().includes(input.toLowerCase())).map(i => (
               <option
                 key={i}
                 value={i}
@@ -77,7 +81,9 @@ export default function Home() {
             onClick={handleSubmit}
             w={48}
             mb={12}
-          >Get Hepatotoxicity</Button>
+          >
+            Get Hepatotoxicity
+          </Button>
 
           {isLoading && searchTerm.length > 3 && <Spinner color="#fff" />}
 
@@ -87,11 +93,10 @@ export default function Home() {
                 color="#ffffff"
                 mb={8}
               >
-                {data && hepatotoxicity}
+                {hepatotoxicity}
               </Box>
               <Button
                 onClick={() => {
-
                   navigator.clipboard.writeText(hepatotoxicity).then(function () {
                     toast({
                       title: "Copied to clipboard!",
@@ -101,7 +106,7 @@ export default function Home() {
                     })
                   }, function (err) {
                     toast({
-                      title: "Something went wrong.",
+                      title: "Something went wrong, please try again.",
                       status: "error",
                       duration: 5000,
                       isClosable: true,
