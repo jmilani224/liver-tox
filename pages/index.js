@@ -18,8 +18,6 @@ export default function Home() {
   const [isLoading, error, data] = useMedSearch(searchTerm)
   const [hepatotoxicity, setHepatotoxicity] = useState("")
 
-  console.log(isLoading)
-
   const toast = useToast()
 
   const handleSubmit = () => {
