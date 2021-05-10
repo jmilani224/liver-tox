@@ -1,7 +1,7 @@
 import { useState, useEffect } from 'react'
 import Head from 'next/head'
 import useMedSearch from '../hooks/useMedSearch'
-import medList from '../data/medList'
+import useMedList from '../hooks/useMedList'
 import {
   Heading,
   Flex,
@@ -18,6 +18,7 @@ export default function Home() {
   const [isLoading, error, data] = useMedSearch(searchTerm)
   const [hepatotoxicity, setHepatotoxicity] = useState("")
 
+  const [medListLoading, medListError, medList] = useMedList()
   const toast = useToast()
 
   const handleSubmit = () => {
@@ -25,13 +26,12 @@ export default function Home() {
   }
 
   useEffect(() => {
-    if (data && data["book-part-wrapper"]["book-part"][0].body[0].sec[0].sec[2].p) {
-      setHepatotoxicity(data["book-part-wrapper"]["book-part"][0].body[0].sec[0].sec[2].p)
+    if (data && data.hepatotoxicity) {
+      setHepatotoxicity(data.hepatotoxicity)
     } else {
       setHepatotoxicity("Sorry, that information doesn't exist.")
     }
   }, [data])
-  console.log(hepatotoxicity)
   return (
     <div>
       <Head>
@@ -44,10 +44,11 @@ export default function Home() {
         <Flex
           backgroundColor="#000000"
           minH="100vh"
-          justifyContent="center"
           alignItems="center"
           direction="column"
           px={48}
+          pt={36}
+          pb={8}
         >
           <Heading
             as="h1"
@@ -68,10 +69,10 @@ export default function Home() {
           />
 
           <datalist id="meds">
-            {input.length >= 3 && medList.filter(j => j.toLowerCase().includes(input.toLowerCase())).map(i => (
+            {!medListLoading && input.length >= 3 && medList.filter(j => j.name.toLowerCase().includes(input.toLowerCase())).map(i => (
               <option
-                key={i}
-                value={i}
+                key={i.href}
+                value={i.name}
               />
             ))}
 
