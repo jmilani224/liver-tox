@@ -19,9 +19,16 @@ const handler = async (req, res) => {
         const html = await fetchedData.text()
         const dom = new JSDOM(html);
         const hepatotoxicityParagraphs = dom.window.document.getElementById(`${drugName}.Hepatotoxicity`)?.querySelectorAll("p")
-        const paragraphText = Object.values(hepatotoxicityParagraphs).map(i => i.textContent).join(" ")
-        const json = { hepatotoxicity: paragraphText }
-        const response = await res.status(200).send(JSON.stringify(json))
+        if (hepatotoxicityParagraphs) {
+            const paragraphText = Object.values(hepatotoxicityParagraphs).map(i => i.innerHTML).join(" ")
+            const json = { hepatotoxicity: paragraphText }
+            const response = await res.status(200).send(JSON.stringify(json))
+        }
+
+        if (!hepatotoxicityParagraphs) {
+            const json = { hepatotoxicity: `Hepatotoxicity not found. Please visit <u><a href="https://www.ncbi.nlm.nih.gov/books/n/livertox/${drugName}/">LiverTox</a></u> for more information` }
+            const response = await res.status(200).send(JSON.stringify(json))
+        }
     } catch (e) {
         console.log(e)
     }

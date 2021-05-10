@@ -15,10 +15,13 @@ import {
 export default function Home() {
   const [input, setInput] = useState("")
   const [searchTerm, setSearchTerm] = useState("")
-  const [isLoading, error, data] = useMedSearch(searchTerm)
+  const [selectedDrugFromList, setSelectedDrugFromList] = useState({})
   const [hepatotoxicity, setHepatotoxicity] = useState("")
+  const [showDropDown, setShowDropdown] = useState(true)
 
+  const [isLoading, error, data] = useMedSearch(searchTerm)
   const [medListLoading, medListError, medList] = useMedList()
+
   const toast = useToast()
 
   const handleSubmit = () => {
@@ -32,6 +35,18 @@ export default function Home() {
       setHepatotoxicity("Sorry, that information doesn't exist.")
     }
   }, [data])
+
+  useEffect(() => {
+    if (medList) {
+      const selectedDrug = medList.filter(j => j.name.toLowerCase().includes(input.toLowerCase()))
+      if (selectedDrug.length === 1) {
+        setSelectedDrugFromList(selectedDrug)
+      }
+    }
+  }, [input])
+
+  console.log(selectedDrugFromList)
+
   return (
     <div>
       <Head>
@@ -42,7 +57,7 @@ export default function Home() {
 
       <main>
         <Flex
-          backgroundColor="#000000"
+          background="linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(64,9,121,1) 50%, rgba(2,0,36,1) 100%)"
           minH="100vh"
           alignItems="center"
           direction="column"
@@ -64,11 +79,16 @@ export default function Home() {
             color="#fff"
             w={48}
             mb={4}
+            background="transparent"
+            placeholder="Search"
             list="meds"
-            onChange={(e) => setInput(e.target.value)}
+            onChange={(e) => {
+              setInput(e.target.value)
+            }}
           />
-
-          <datalist id="meds">
+          <datalist
+            id="meds"
+          >
             {!medListLoading && input.length >= 3 && medList.filter(j => j.name.toLowerCase().includes(input.toLowerCase())).map(i => (
               <option
                 key={i.href}
@@ -77,11 +97,11 @@ export default function Home() {
             ))}
 
           </datalist>
-
           <Button
             onClick={handleSubmit}
             w={48}
             mb={12}
+            colorScheme="blue"
           >
             Get Hepatotoxicity
           </Button>
@@ -93,10 +113,12 @@ export default function Home() {
               <Box
                 color="#ffffff"
                 mb={8}
+                dangerouslySetInnerHTML={{ __html: hepatotoxicity }}
               >
-                {hepatotoxicity}
+                {/* {hepatotoxicity} */}
               </Box>
               <Button
+                colorScheme="blue"
                 onClick={() => {
                   navigator.clipboard.writeText(hepatotoxicity).then(function () {
                     toast({
