@@ -5,7 +5,9 @@ const theme = extendTheme({
         brand: {
             lightBlue: "#b6dcfe",
             midBlue: "#98ccfd",
-            darkBlue: "#4788c7"
+            darkBlue: "#4788c7",
+            lightGray: "#fafafa", // bg
+            darkGray: "#777d84", // text
         },
     },
     fonts: {
