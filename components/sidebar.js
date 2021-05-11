@@ -36,8 +36,9 @@ const Sidebar = ({ medArray, setMedArray }) => {
 
     useEffect(() => {
         if (data && data.hepatotoxicity) {
-            setMedArray([...medArray, { drugName: data.drugName, text: data.hepatotoxicity }])
+            setMedArray([...medArray, { id: Math.floor(Math.random() * 999999), drugName: data.drugName, text: data.hepatotoxicity }])
         }
+        setInput("")
     }, [data])
 
     useEffect(() => {
@@ -64,6 +65,7 @@ const Sidebar = ({ medArray, setMedArray }) => {
                 onChange={(e) => {
                     setInput(e.target.value)
                 }}
+                value={input}
             />
 
             <Box
@@ -90,14 +92,14 @@ const Sidebar = ({ medArray, setMedArray }) => {
             <Button
                 onClick={handleSubmit}
                 w={48}
-                mb={12}
+                mb={8}
                 colorScheme="blue"
             >
                 {isLoading ? <Spinner /> : "Get Hepatotoxicity"}
             </Button>
             {medArray.map(i => (
                 <Flex
-                    key={i.drugName}
+                    key={i.id}
                     direction="column"
                     color="brand.darkGray"
                 >
