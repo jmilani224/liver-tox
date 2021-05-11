@@ -1,8 +1,10 @@
 import { useQuery } from 'react-query'
 
 const useMedSearch = (input) => {
-    const { isLoading, error, data } = useQuery(input, () => fetchMedData(input))
-    return [isLoading, error, data]
+    const { isLoading, isSuccess, isError, isIdle, data, error, refetch } = useQuery(input, () => fetchMedData(input), {
+        enabled: false,
+    })
+    return [isLoading, isSuccess, isError, isIdle, data, error, refetch]
 }
 
 const fetchMedData = async (input) => {

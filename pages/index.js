@@ -13,19 +13,20 @@ import {
 } from '@chakra-ui/react'
 
 export default function Home() {
+
+  //State
   const [input, setInput] = useState("")
-  const [searchTerm, setSearchTerm] = useState("")
-  const [selectedDrugFromList, setSelectedDrugFromList] = useState({})
   const [hepatotoxicity, setHepatotoxicity] = useState("")
-  const [showDropDown, setShowDropdown] = useState(true)
 
-  const [isLoading, error, data] = useMedSearch(searchTerm)
+  //Data queries
   const [medListLoading, medListError, medList] = useMedList()
+  const [isLoading, isSuccess, isError, isIdle, data, error, refetch] = useMedSearch(input)
 
+  //Misc hooks
   const toast = useToast()
 
   const handleSubmit = () => {
-    setSearchTerm(input)
+    refetch()
   }
 
   useEffect(() => {
@@ -35,15 +36,6 @@ export default function Home() {
       setHepatotoxicity("Sorry, that information doesn't exist.")
     }
   }, [data])
-
-  useEffect(() => {
-    if (medList) {
-      const selectedDrug = medList.filter(j => j.name.toLowerCase().includes(input.toLowerCase()))
-      if (selectedDrug.length === 1) {
-        setSelectedDrugFromList(selectedDrug)
-      }
-    }
-  }, [input])
 
   return (
     <div>
@@ -78,7 +70,7 @@ export default function Home() {
             w={48}
             mb={4}
             background="transparent"
-            placeholder="Search"
+            placeholder="Search LiverTox"
             list="meds"
             onChange={(e) => {
               setInput(e.target.value)
@@ -87,12 +79,14 @@ export default function Home() {
           <datalist
             id="meds"
           >
-            {!medListLoading && input.length >= 3 && medList.filter(j => j.name.toLowerCase().includes(input.toLowerCase())).map(i => (
-              <option
-                key={i.href}
-                value={i.name}
-              />
-            ))}
+            {!medListLoading &&
+              input.length >= 3 &&
+              medList.filter(j => j.name.toLowerCase().includes(input.toLowerCase())).map(i => (
+                <option
+                  key={i.href}
+                  value={i.name}
+                />
+              ))}
 
           </datalist>
           <Button
@@ -104,16 +98,15 @@ export default function Home() {
             Get Hepatotoxicity
           </Button>
 
-          {isLoading && searchTerm.length > 3 && <Spinner color="#fff" />}
+          {isLoading && <Spinner color="#fff" />}
 
-          {!isLoading && !error &&
+          {isSuccess &&
             <>
               <Box
                 color="#ffffff"
                 mb={8}
                 dangerouslySetInnerHTML={{ __html: hepatotoxicity }}
               >
-                {/* {hepatotoxicity} */}
               </Box>
               <Button
                 colorScheme="blue"

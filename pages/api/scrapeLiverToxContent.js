@@ -2,6 +2,7 @@ const cheerio = require('cheerio')
 
 const handler = async (req, res) => {
     const drugName = req.query.input
+    const drugHref = req.query.href
     //const drugName = "Avanafil"
     // if (!medList.includes(fileName)) {
     //     return
@@ -18,8 +19,6 @@ const handler = async (req, res) => {
             })
         const html = await fetchedData.text()
         const $ = cheerio.load(html)
-        //const hepatotoxicityParagraphs = $(`${drugName}.Hepatotoxicity`)?.querySelectorAll("p")
-        // console.log($(`#${drugName}.Hepatotoxicity p`).map((i, x) => $(x).text()).toArray())
         const list = []
         $(`div[id="${drugName}.Hepatotoxicity"]`)
             .find('p').each(function (index, element) {
