@@ -1,5 +1,4 @@
-const jsdom = require("jsdom");
-const { JSDOM } = jsdom;
+const cheerio = require('cheerio')
 
 const handler = async (req, res) => {
     try {
@@ -13,13 +12,15 @@ const handler = async (req, res) => {
                 },
             })
         const html = await fetchedData.text()
-        const dom = new JSDOM(html);
-        const drugList = dom.window.document.querySelectorAll(".toc-item")
-        const drugNamesUrls = Object.values(drugList).map(i => {
-            return { name: i.textContent, href: `https://www.ncbi.nlm.nih.gov${i.href}` }
-        })
-        const json = drugNamesUrls
-        const response = await res.status(200).send(JSON.stringify(json))
+        const $ = cheerio.load(html)
+        const drugList = $(".toc-item")
+        const drugNamesUrls = drugList.map((i, x) => {
+            return {
+                name: $(x).text(),
+                href: $(x).attr('href')
+            }
+        }).toArray()
+        const response = await res.status(200).send(JSON.stringify(drugNamesUrls))
     } catch (e) {
         console.log(e)
     }

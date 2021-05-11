@@ -1,8 +1,8 @@
-const jsdom = require("jsdom");
-const { JSDOM } = jsdom;
+const cheerio = require('cheerio')
 
 const handler = async (req, res) => {
     const drugName = req.query.input
+    //const drugName = "Avanafil"
     // if (!medList.includes(fileName)) {
     //     return
     // }
@@ -17,11 +17,17 @@ const handler = async (req, res) => {
                 },
             })
         const html = await fetchedData.text()
-        const dom = new JSDOM(html);
-        const hepatotoxicityParagraphs = dom.window.document.getElementById(`${drugName}.Hepatotoxicity`)?.querySelectorAll("p")
+        const $ = cheerio.load(html)
+        //const hepatotoxicityParagraphs = $(`${drugName}.Hepatotoxicity`)?.querySelectorAll("p")
+        // console.log($(`#${drugName}.Hepatotoxicity p`).map((i, x) => $(x).text()).toArray())
+        const list = []
+        $(`div[id="${drugName}.Hepatotoxicity"]`)
+            .find('p').each(function (index, element) {
+                list.push($(element).text())
+            })
+        const hepatotoxicityParagraphs = list.join(" ")
         if (hepatotoxicityParagraphs) {
-            const paragraphText = Object.values(hepatotoxicityParagraphs).map(i => i.innerHTML).join(" ")
-            const json = { hepatotoxicity: paragraphText }
+            const json = { drugName: drugName, hepatotoxicity: hepatotoxicityParagraphs }
             const response = await res.status(200).send(JSON.stringify(json))
         }
 

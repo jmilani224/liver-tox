@@ -45,8 +45,6 @@ export default function Home() {
     }
   }, [input])
 
-  console.log(selectedDrugFromList)
-
   return (
     <div>
       <Head>
