@@ -17,18 +17,21 @@ const Sidebar = ({ medArray, setMedArray }) => {
     const [input, setInput] = useState("")
     const [dupError, setDupError] = useState(false)
     const [drugNameError, setDrugNameError] = useState(false)
+    const [verifiedDrug, setVerifiedDrug] = useState("")
     const [medListLoading, medListError, medList] = useMedList()
     const [isLoading, isSuccess, isError, isIdle, data, error, refetch] = useMedSearch(input)
 
     const handleSubmit = async () => {
         const drugNameList = medArray.map(i => i.drugName)
         const fullDrugNameList = await medList.map(i => i.name)
+        const selectedDrug = await medList.filter(i => i.name === input)
         if (drugNameList.includes(input)) {
             setDupError(true)
         }
         if (!fullDrugNameList.includes(input)) {
             setDrugNameError(true)
         } else {
+            setVerifiedDrug(selectedDrug)
             refetch()
         }
     }

@@ -43,7 +43,7 @@ const Main = ({ medArray }) => {
                     bgColor="brand.lightBlue"
                     borderRadius="50%"
                     onClick={() => {
-                        const clipboardText = medArray.map(i => `${i.drugName} ${i.hepatotoxicity}`).join(" ")
+                        const clipboardText = medArray.map(i => `${i.drugName}\n ${i.hepatotoxicity}\n\n`).join(" ")
                         navigator.clipboard.writeText(clipboardText).then(function () {
                             toast({
                                 title: "Copied to clipboard!",
@@ -65,6 +65,7 @@ const Main = ({ medArray }) => {
             </Box>
             {medArray.map(i => (
                 <Box
+                    key={i.id}
                     p={8}
                     m={12}
                     bgColor="#fff"

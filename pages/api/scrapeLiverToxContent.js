@@ -3,10 +3,7 @@ const cheerio = require('cheerio')
 const handler = async (req, res) => {
     const drugName = req.query.input
     const drugHref = req.query.href
-    //const drugName = "Avanafil"
-    // if (!medList.includes(fileName)) {
-    //     return
-    // }
+    console.log(drugName, drugHref)
     try {
         const fetchedData = await fetch(`https://www.ncbi.nlm.nih.gov/books/n/livertox/${drugName}/`,
             {
@@ -31,7 +28,7 @@ const handler = async (req, res) => {
         }
 
         if (!hepatotoxicityParagraphs) {
-            const json = { hepatotoxicity: `Hepatotoxicity not found. Please visit <u><a href="https://www.ncbi.nlm.nih.gov/books/n/livertox/${drugName}/">LiverTox</a></u> for more information` }
+            const json = { hepatotoxicity: `Hepatotoxicity not found. Please visit <u><a href="https://www.ncbi.nlm.nih.gov${drugHref}/">LiverTox</a></u> for more information` }
             const response = await res.status(200).send(JSON.stringify(json))
         }
     } catch (e) {
