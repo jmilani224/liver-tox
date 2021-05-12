@@ -40,7 +40,7 @@ const Main = ({ medArray }) => {
                     h={12}
                     p={2}
                     cursor="pointer"
-                    bgColor="brand.lightBlue"
+                    bgColor="brand.lightestBlue"
                     borderRadius="50%"
                     onClick={() => {
                         const clipboardText = medArray.map(i => `${i.drugName}\n${i.hepatotoxicity}\n\n`).join(" ")

@@ -44,7 +44,7 @@ const Sidebar = ({ medArray, setMedArray }) => {
 
     useEffect(() => {
         if (data && data.hepatotoxicity) {
-            setMedArray([...medArray, { id: Math.floor(Math.random() * 999999), drugName: data.drugName, hepatotoxicity: data.hepatotoxicity }])
+            setMedArray([{ id: Math.floor(Math.random() * 999999), drugName: data.drugName, hepatotoxicity: data.hepatotoxicity }, ...medArray])
         }
         setInput("")
     }, [data])
