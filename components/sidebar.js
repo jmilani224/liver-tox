@@ -6,9 +6,11 @@ import {
     Input,
     Button,
     Spinner,
-    Box
+    Box,
+    InputGroup,
+    InputLeftElement
 } from '@chakra-ui/react'
-import { SmallCloseIcon } from '@chakra-ui/icons'
+import { SmallCloseIcon, SearchIcon } from '@chakra-ui/icons'
 
 import Logo from '../components/logo'
 
@@ -65,18 +67,24 @@ const Sidebar = ({ medArray, setMedArray }) => {
             h="100vh"
         >
             <Logo />
-            <Input
-                w={48}
+            <InputGroup
                 mt={8}
-                background="transparent"
-                placeholder="Search LiverTox"
-                list="meds"
-                onChange={(e) => {
-                    setInput(e.target.value)
-                }}
-                value={input}
-                onClick={() => setInput("")}
-            />
+            >
+                <InputLeftElement
+                    pointerEvents="none"
+                    children={<SearchIcon color="brand.midBlue" />}
+                />
+                <Input w={48}
+                    background="transparent"
+                    placeholder="Search LiverTox"
+                    list="meds"
+                    onChange={(e) => {
+                        setInput(e.target.value)
+                    }}
+                    value={input}
+                    onClick={() => setInput("")}
+                />
+            </InputGroup>
             <Box
                 color="red"
                 fontSize="x-small"
