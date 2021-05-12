@@ -2,13 +2,11 @@ import { useState, useEffect } from 'react'
 import useMedList from '../hooks/useMedList'
 import useMedSearch from '../hooks/useMedSearch'
 import {
-    Heading,
     Flex,
     Input,
     Button,
     Spinner,
-    Box,
-    useToast,
+    Box
 } from '@chakra-ui/react'
 import { SmallCloseIcon } from '@chakra-ui/icons'
 
@@ -18,13 +16,18 @@ import Logo from '../components/logo'
 const Sidebar = ({ medArray, setMedArray }) => {
     const [input, setInput] = useState("")
     const [dupError, setDupError] = useState(false)
+    const [drugNameError, setDrugNameError] = useState(false)
     const [medListLoading, medListError, medList] = useMedList()
     const [isLoading, isSuccess, isError, isIdle, data, error, refetch] = useMedSearch(input)
 
-    const handleSubmit = () => {
+    const handleSubmit = async () => {
         const drugNameList = medArray.map(i => i.drugName)
+        const fullDrugNameList = await medList.map(i => i.name)
         if (drugNameList.includes(input)) {
             setDupError(true)
+        }
+        if (!fullDrugNameList.includes(input)) {
+            setDrugNameError(true)
         } else {
             refetch()
         }
@@ -36,7 +39,7 @@ const Sidebar = ({ medArray, setMedArray }) => {
 
     useEffect(() => {
         if (data && data.hepatotoxicity) {
-            setMedArray([...medArray, { id: Math.floor(Math.random() * 999999), drugName: data.drugName, text: data.hepatotoxicity }])
+            setMedArray([...medArray, { id: Math.floor(Math.random() * 999999), drugName: data.drugName, hepatotoxicity: data.hepatotoxicity }])
         }
         setInput("")
     }, [data])
@@ -44,6 +47,7 @@ const Sidebar = ({ medArray, setMedArray }) => {
     useEffect(() => {
         if (input.length === 0) {
             setDupError(false)
+            setDrugNameError(false)
         }
     }, [input])
 
@@ -52,10 +56,12 @@ const Sidebar = ({ medArray, setMedArray }) => {
             w="30vw"
             bgColor="#fff"
             minW={72}
-            m={6}
+            p={6}
+            position="fixed"
+            overflow="scroll"
+            h="100vh"
         >
             <Logo />
-
             <Input
                 w={48}
                 mt={8}
@@ -66,8 +72,8 @@ const Sidebar = ({ medArray, setMedArray }) => {
                     setInput(e.target.value)
                 }}
                 value={input}
+                onClick={() => setInput("")}
             />
-
             <Box
                 color="red"
                 fontSize="x-small"
@@ -75,6 +81,7 @@ const Sidebar = ({ medArray, setMedArray }) => {
                 h={4}
             >
                 {dupError && "You've already added that one."}
+                {drugNameError && "Medication not found."}
             </Box>
             <datalist
                 id="meds"
@@ -114,7 +121,7 @@ const Sidebar = ({ medArray, setMedArray }) => {
                             onClick={() => handleRemoveItem(i.drugName)}
                             cursor="pointer"
                         />
-                        {i.drugName}
+                        <a href={`#${i.drugName}`}>{i.drugName}</a>
                     </Flex>
 
                 </Flex>
