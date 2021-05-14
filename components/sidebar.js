@@ -141,7 +141,27 @@ const Sidebar = ({ medArray, setMedArray }) => {
                     }
                 />
             </InputGroup>
-            {showDropdown &&
+            {medListLoading && showDropdown &&
+
+                <Flex
+                    spacing="0"
+                    w={48}
+                    position="absolute"
+                    mt={0.5}
+                    bg="#fff"
+                    borderBottomRadius="15px"
+                    boxShadow="rgb(125 127 129 / 17%) 0px 17px 56px"
+                    zIndex="dropdown"
+                    ref={dropdown}
+                    h={20}
+                    justifyContent="center"
+                    alignItems="center"
+                >
+                    <Spinner color="brand.darkBlue" />
+                </Flex>
+            }
+
+            {!medListLoading && showDropdown &&
                 <Stack
                     spacing="0"
                     w={48}
