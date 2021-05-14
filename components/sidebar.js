@@ -1,4 +1,4 @@
-import { useState, useEffect } from 'react'
+import { useState, useEffect, useRef } from 'react'
 import useMedList from '../hooks/useMedList'
 import useMedSearch from '../hooks/useMedSearch'
 import {
@@ -8,7 +8,9 @@ import {
     Spinner,
     Box,
     InputGroup,
-    InputLeftElement
+    InputLeftElement,
+    Stack,
+    useOutsideClick
 } from '@chakra-ui/react'
 import { SmallCloseIcon, SearchIcon } from '@chakra-ui/icons'
 
@@ -16,24 +18,35 @@ import Logo from '../components/logo'
 
 
 const Sidebar = ({ medArray, setMedArray }) => {
+
+    //input
     const [input, setInput] = useState("")
     const [dupError, setDupError] = useState(false)
     const [drugNameError, setDrugNameError] = useState(false)
-    const [verifiedDrug, setVerifiedDrug] = useState("")
+
+    //dropdown
+    const [showDropdown, setShowDropdown] = useState(false)
+    const [active, setActive] = useState(0)
+    const [selected, setSelected] = useState()
+    const dropdown = useRef()
+    useOutsideClick({
+        ref: dropdown,
+        handler: () => setShowDropdown(false)
+    })
+
+    //data
     const [medListLoading, medListError, medList] = useMedList()
-    const [isLoading, isSuccess, isError, isIdle, data, error, refetch] = useMedSearch(input)
+    const [isLoading, isSuccess, isError, isIdle, data, error, refetch] = useMedSearch(selected)
 
     const handleSubmit = async () => {
         const drugNameList = medArray.map(i => i.drugName)
         const fullDrugNameList = await medList.map(i => i.name)
-        const selectedDrug = await medList.filter(i => i.name === input)
         if (drugNameList.includes(input)) {
             setDupError(true)
         }
         if (!fullDrugNameList.includes(input)) {
             setDrugNameError(true)
         } else {
-            setVerifiedDrug(selectedDrug)
             refetch()
         }
     }
@@ -56,6 +69,19 @@ const Sidebar = ({ medArray, setMedArray }) => {
         }
     }, [input])
 
+    useEffect(() => {
+        if (medList && input.length > 2) {
+            setShowDropdown(true)
+        } else {
+            setShowDropdown(false)
+        }
+    }, [medList, input])
+
+    useEffect(() => {
+        if (selected) setShowDropdown(false)
+
+    }, [selected])
+
     return (
         <Box
             w="30vw"
@@ -74,17 +100,78 @@ const Sidebar = ({ medArray, setMedArray }) => {
                     pointerEvents="none"
                     children={<SearchIcon color="brand.midBlue" />}
                 />
-                <Input w={48}
+                <Input
+                    w={48}
                     background="transparent"
                     placeholder="Search LiverTox"
-                    list="meds"
+                    color="brand.darkGray"
                     onChange={(e) => {
                         setInput(e.target.value)
                     }}
                     value={input}
-                    onClick={() => setInput("")}
+                    onClick={() => {
+                        setInput("")
+                        setSelected(null)
+                        setActive(0)
+                    }}
+                    onKeyDown={(e) => {
+                        switch (e.key) {
+                            case "ArrowDown": {
+                                e.preventDefault()
+                                if (active + 1 < medList.length) {
+                                    setActive(active + 1)
+                                }
+                                break
+                            }
+                            case "ArrowUp": {
+                                e.preventDefault()
+                                if (active - 1 >= 0) {
+                                    setActive(active - 1)
+                                }
+                                break
+                            }
+                            case "Enter": {
+                                setInput(medList.filter(j => j.name.toLowerCase().includes(input.toLowerCase()))[active].name)
+                                setSelected(medList.filter(j => j.name.toLowerCase().includes(input.toLowerCase()))[active])
+                                setShowDropdown(false)
+                                break
+                            }
+                        }
+                    }
+                    }
                 />
             </InputGroup>
+            {showDropdown &&
+                <Stack
+                    spacing="0"
+                    w={48}
+                    position="absolute"
+                    mt={0.5}
+                    bg="#fff"
+                    borderBottomRadius="15px"
+                    boxShadow="rgb(125 127 129 / 17%) 0px 17px 56px"
+                    zIndex="dropdown"
+                    ref={dropdown}
+                >
+                    {medList.filter(j => j.name.toLowerCase().includes(input.toLowerCase())).map((item, index) => (
+                        <Flex
+                            color="brand.darkGray"
+                            cursor="pointer"
+                            bgColor={active === index && "brand.lightestBlue"}
+                            key={item.href}
+                            onMouseOver={() => setActive(index)}
+                            onClick={() => {
+                                setInput(item.name)
+                                setSelected(item)
+                                setShowDropdown(false)
+                            }}
+                            p={3}
+                        >
+                            {item.name}
+                        </Flex>
+                    ))}
+                </Stack>
+            }
             <Box
                 color="red"
                 fontSize="x-small"
@@ -94,19 +181,7 @@ const Sidebar = ({ medArray, setMedArray }) => {
                 {dupError && "You've already added that one."}
                 {drugNameError && "Medication not found."}
             </Box>
-            <datalist
-                id="meds"
-            >
-                {!medListLoading &&
-                    input.length >= 3 &&
-                    medList.filter(j => j.name.toLowerCase().includes(input.toLowerCase())).map(i => (
-                        <option
-                            key={i.href}
-                            value={i.name}
-                        />
-                    ))}
 
-            </datalist>
             <Button
                 onClick={handleSubmit}
                 w={48}

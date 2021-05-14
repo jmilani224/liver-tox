@@ -4,7 +4,7 @@ const handler = async (req, res) => {
     const drugName = req.query.input
     const drugHref = req.query.href
     try {
-        const fetchedData = await fetch(`https://www.ncbi.nlm.nih.gov/books/n/livertox/${drugName}/`,
+        const fetchedData = await fetch(`https://www.ncbi.nlm.nih.gov${drugHref}/`,
             {
                 method: "GET",
                 headers: {
@@ -16,7 +16,7 @@ const handler = async (req, res) => {
         const html = await fetchedData.text()
         const $ = cheerio.load(html)
         const list = []
-        $(`div[id="${drugName}.Hepatotoxicity"]`)
+        $(`div[id="${drugHref.replace("/books/n/livertox/", "").replace("/", "")}.Hepatotoxicity"]`)
             .find('p').each(function (index, element) {
                 list.push($(element).text())
             })
@@ -27,8 +27,8 @@ const handler = async (req, res) => {
         }
 
         if (!hepatotoxicityParagraphs) {
-            const json = { hepatotoxicity: `Hepatotoxicity not found. Please visit <u><a href="https://www.ncbi.nlm.nih.gov${drugHref}/">LiverTox</a></u> for more information` }
-            await res.status(200).send(JSON.stringify(json))
+            const json = { hepatotoxicity: `Hepatotoxicity not found. Please visit <u><a href="https://www.ncbi.nlm.nih.gov${drugHref}">LiverTox</a></u> for more information` }
+            await res.status(500).send(JSON.stringify(json))
         }
     } catch (e) {
         console.log(e)
