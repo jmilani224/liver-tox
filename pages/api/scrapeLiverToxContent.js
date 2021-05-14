@@ -22,7 +22,7 @@ const handler = async (req, res) => {
             })
         const hepatotoxicityParagraphs = list.join(" ")
         if (hepatotoxicityParagraphs) {
-            const json = { drugName: drugName, hepatotoxicity: hepatotoxicityParagraphs }
+            const json = { drugName: drugName, hepatotoxicity: hepatotoxicityParagraphs, href: `https://www.ncbi.nlm.nih.gov${drugHref}/` }
             await res.status(200).send(JSON.stringify(json))
         }
 

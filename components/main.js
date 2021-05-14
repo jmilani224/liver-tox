@@ -1,5 +1,6 @@
 import React from 'react'
-import { Box, Heading, useToast, Icon, Flex, Tooltip } from '@chakra-ui/react'
+import { Box, Heading, useToast, Icon, Flex, Tooltip, Link, HStack } from '@chakra-ui/react'
+import { ExternalLinkIcon } from '@chakra-ui/icons'
 
 const Main = ({ medArray }) => {
     const toast = useToast()
@@ -17,7 +18,9 @@ const Main = ({ medArray }) => {
                     as="span"
                     color="brand.darkBlue"
                     fontSize="1.5rem"
-                >Add Medications</Box>
+                >
+                    Add Medications
+                </Box>
             </Flex>
         )
     }
@@ -72,12 +75,26 @@ const Main = ({ medArray }) => {
                     borderRadius="15px"
                     id={i.drugName}
                 >
-                    <Heading
-                        as="h3"
-                        fontSize="1.2rem"
-                        mb={2}
-                        color="brand.darkBlue"
-                    >{i.drugName}</Heading>
+                    <Link
+                        href={i.href}
+                        _hover={{ textDecoration: "none" }}
+                        isExternal
+                        _focus={{ border: "none" }}
+                    >
+                        <HStack
+                            mb={2}
+                        >
+                            <Heading
+                                as="h3"
+                                fontSize="1.2rem"
+
+                                color="brand.darkBlue"
+                            >
+                                {i.drugName}
+                            </Heading>
+                            <ExternalLinkIcon color="brand.darkBlue" mx="2px" />
+                        </HStack>
+                    </Link>
                     <Box
                         fontSize="0.9rem"
                         color="brand.darkGray"
