@@ -16,7 +16,7 @@ const Main = ({ medArray }) => {
             >
                 <Box
                     as="span"
-                    color="brand.darkBlue"
+                    color="brand.darkGray"
                     fontSize="1.5rem"
                 >
                     Add Medications

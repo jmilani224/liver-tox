@@ -12,7 +12,7 @@ export default function Home() {
       <Head>
         <title>Simple LiverTox</title>
         <meta name="description" content="Quickly get hepatotoxicity." />
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
       </Head>
 
       <main>
