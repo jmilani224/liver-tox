@@ -70,7 +70,7 @@ const Main = ({ medArray }) => {
                 <Box
                     key={i.id}
                     p={8}
-                    m={12}
+                    m={8}
                     bgColor="#fff"
                     borderRadius="15px"
                     id={i.drugName}

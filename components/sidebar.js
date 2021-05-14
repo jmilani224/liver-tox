@@ -210,30 +210,32 @@ const Sidebar = ({ medArray, setMedArray }) => {
             >
                 {isLoading ? <Spinner /> : "Get Hepatotoxicity"}
             </Button>
-            {medArray.map(i => (
-                <Flex
-                    key={i.id}
-                    direction="column"
-                    color="brand.darkGray"
-                >
+            {
+                medArray.map(i => (
                     <Flex
-                        alignItems="center"
+                        key={i.id}
+                        direction="column"
+                        color="brand.darkGray"
                     >
-                        <SmallCloseIcon
-                            bgColor="brand.darkBlue"
-                            color="white"
-                            borderRadius="50%"
-                            mr={2}
-                            onClick={() => handleRemoveItem(i.drugName)}
-                            cursor="pointer"
-                        />
-                        <a href={`#${i.drugName}`}>{i.drugName}</a>
+                        <Flex
+                            alignItems="center"
+                        >
+                            <SmallCloseIcon
+                                bgColor="brand.darkBlue"
+                                color="white"
+                                borderRadius="50%"
+                                mr={2}
+                                onClick={() => handleRemoveItem(i.drugName)}
+                                cursor="pointer"
+                            />
+                            <a href={`#${i.drugName}`}>{i.drugName}</a>
+                        </Flex>
+
                     </Flex>
 
-                </Flex>
-
-            ))}
-        </Box>
+                ))
+            }
+        </Box >
     )
 }
 
