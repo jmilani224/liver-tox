@@ -29,7 +29,7 @@ const Main = ({ medArray }) => {
             bgColor="brand.lightGray"
             w="100%"
             ml="26rem"
-            pt={8}
+            pt={12}
             minW={72}
         >
             <Box
