@@ -83,18 +83,23 @@ const Sidebar = ({ medArray, setMedArray }) => {
     }, [selected])
 
     return (
-        <Box
-            w="30vw"
-            bgColor="#fff"
-            minW={72}
-            p={6}
-            position="fixed"
+
+        <Flex
+            position="sticky"
+            top="0"
             overflow="scroll"
+            direction="column"
+            bgColor="#fff"
+            p={6}
+            w={72}
+            minW={72}
             h="100vh"
         >
+
             <Logo />
             <InputGroup
                 mt={8}
+                position="relative"
             >
                 <InputLeftElement
                     pointerEvents="none"
@@ -140,58 +145,59 @@ const Sidebar = ({ medArray, setMedArray }) => {
                     }
                     }
                 />
+                {medListLoading && showDropdown &&
+
+                    <Flex
+                        spacing="0"
+                        w={48}
+                        position="absolute"
+                        mt={10}
+                        bg="#fff"
+                        borderBottomRadius="15px"
+                        boxShadow="rgb(125 127 129 / 17%) 0px 17px 56px"
+                        zIndex="dropdown"
+                        ref={dropdown}
+                        h={20}
+                        justifyContent="center"
+                        alignItems="center"
+                    >
+                        <Spinner color="brand.darkBlue" />
+                    </Flex>
+                }
+
+                {!medListLoading && showDropdown &&
+                    <Stack
+                        spacing="0"
+                        w={48}
+                        position="absolute"
+                        mt={10}
+                        bg="#fff"
+                        borderBottomRadius="15px"
+                        boxShadow="rgb(125 127 129 / 17%) 0px 17px 56px"
+                        zIndex="dropdown"
+                        ref={dropdown}
+                    >
+                        {medList.filter(j => j.name.toLowerCase().includes(input.toLowerCase())).map((item, index) => (
+                            <Flex
+                                color="brand.darkGray"
+                                cursor="pointer"
+                                bgColor={active === index && "brand.lightestBlue"}
+                                key={item.href}
+                                onMouseOver={() => setActive(index)}
+                                onClick={() => {
+                                    setInput(item.name)
+                                    setSelected(item)
+                                    setShowDropdown(false)
+                                }}
+                                p={3}
+                            >
+                                {item.name}
+                            </Flex>
+                        ))}
+                    </Stack>
+                }
             </InputGroup>
-            {medListLoading && showDropdown &&
 
-                <Flex
-                    spacing="0"
-                    w={48}
-                    position="absolute"
-                    mt={0.5}
-                    bg="#fff"
-                    borderBottomRadius="15px"
-                    boxShadow="rgb(125 127 129 / 17%) 0px 17px 56px"
-                    zIndex="dropdown"
-                    ref={dropdown}
-                    h={20}
-                    justifyContent="center"
-                    alignItems="center"
-                >
-                    <Spinner color="brand.darkBlue" />
-                </Flex>
-            }
-
-            {!medListLoading && showDropdown &&
-                <Stack
-                    spacing="0"
-                    w={48}
-                    position="absolute"
-                    mt={0.5}
-                    bg="#fff"
-                    borderBottomRadius="15px"
-                    boxShadow="rgb(125 127 129 / 17%) 0px 17px 56px"
-                    zIndex="dropdown"
-                    ref={dropdown}
-                >
-                    {medList.filter(j => j.name.toLowerCase().includes(input.toLowerCase())).map((item, index) => (
-                        <Flex
-                            color="brand.darkGray"
-                            cursor="pointer"
-                            bgColor={active === index && "brand.lightestBlue"}
-                            key={item.href}
-                            onMouseOver={() => setActive(index)}
-                            onClick={() => {
-                                setInput(item.name)
-                                setSelected(item)
-                                setShowDropdown(false)
-                            }}
-                            p={3}
-                        >
-                            {item.name}
-                        </Flex>
-                    ))}
-                </Stack>
-            }
             <Box
                 color="red"
                 fontSize="x-small"
@@ -235,7 +241,7 @@ const Sidebar = ({ medArray, setMedArray }) => {
 
                 ))
             }
-        </Box >
+        </Flex >
     )
 }
 

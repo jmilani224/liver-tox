@@ -1,5 +1,5 @@
 import React from 'react'
-import { Box, Heading, useToast, Icon, Flex, Tooltip, Link, HStack } from '@chakra-ui/react'
+import { Box, Heading, useToast, Icon, Flex, Tooltip, Link, HStack, Image } from '@chakra-ui/react'
 import { ExternalLinkIcon } from '@chakra-ui/icons'
 
 const Main = ({ medArray }) => {
@@ -8,11 +8,10 @@ const Main = ({ medArray }) => {
         return (
             <Flex
                 bgColor="brand.lightGray"
-                w="100%"
-                minW={72}
-                ml="24rem"
                 justifyContent="center"
                 alignItems="center"
+                position="relative"
+                w="100%"
             >
                 <Box
                     as="span"
@@ -28,9 +27,7 @@ const Main = ({ medArray }) => {
         <Box
             bgColor="brand.lightGray"
             w="100%"
-            ml="26rem"
             pt={12}
-            minW={72}
         >
             <Box
                 color="brand.darkBlue"
