@@ -1,6 +1,6 @@
 import React from 'react'
 import { Box, Heading, useToast, Icon, Flex, Tooltip, Link, HStack, Image } from '@chakra-ui/react'
-import { ExternalLinkIcon } from '@chakra-ui/icons'
+import { ExternalLinkIcon, SearchIcon } from '@chakra-ui/icons'
 
 const Main = ({ medArray }) => {
     const toast = useToast()
@@ -12,14 +12,49 @@ const Main = ({ medArray }) => {
                 alignItems="center"
                 position="relative"
                 w="100%"
+                flexDirection="column"
             >
                 <Box
                     as="span"
-                    color="brand.darkGray"
+                    color="brand.darkBlue"
                     fontSize="1.5rem"
                 >
-                    Add Medications
+                    How Simple LiverTox Works
                 </Box>
+
+                <SearchIcon
+                    color="brand.darkBlue"
+                    bgColor="brand.lightestBlue"
+                    borderRadius="50%"
+                    h={10}
+                    w={10}
+                    p="10px"
+                />
+                <BigText text="1. Search for a Medication" />
+                <LittleText text="Automatically retrieve the hepatotoxicity section from the LiverTox ebook at www.ncbi.nlm.nih.gov." />
+
+                <ExternalLinkIcon
+                    color="brand.darkBlue"
+                    bgColor="brand.lightestBlue"
+                    borderRadius="50%"
+                    h={10}
+                    w={10}
+                    p="10px"
+                />
+                <BigText text="2. Review the Results" />
+                <LittleText text="Add or remove medications as needed, or visit the relevant LiverTox ebook page for more information." />
+
+                <ClipBoardIcon
+                    w={10}
+                    h={10}
+                    p={2}
+                    bgColor="brand.lightestBlue"
+                    borderRadius="50%"
+                    color="brand.darkBlue"
+
+                />
+                <BigText text="3. Copy to Clipboard" />
+                <LittleText text="Click the clipboard icon and a list of drug names and hepatotoxicity info can easily be pasted into patient charts." />
             </Flex>
         )
     }
@@ -84,7 +119,6 @@ const Main = ({ medArray }) => {
                             <Heading
                                 as="h3"
                                 fontSize="1.2rem"
-
                                 color="brand.darkBlue"
                             >
                                 {i.drugName}
@@ -119,3 +153,47 @@ const ClipBoardIcon = ({ ...props }) => (
         </Icon>
     </Tooltip>
 )
+
+function InstructionIcon({ }) {
+    return (
+        <Icon
+            w={12}
+            h={12}
+            p={2}
+            bgColor="brand.lightestBlue"
+            borderRadius="50%">
+
+        </Icon>
+    )
+}
+
+function BigText({ text }) {
+
+    return (
+        <Box
+            as="p"
+            color="brand.darkGray"
+            fontSize="1.3rem"
+            w="26rem"
+            textAlign="center"
+        >
+            {text}
+        </Box>
+    )
+}
+
+function LittleText({ text }) {
+
+    return (
+        <Box
+            as="p"
+            color="brand.darkGray"
+            fontSize="1rem"
+            w="26rem"
+            textAlign="center"
+            mb={8}
+        >
+            {text}
+        </Box>
+    )
+}
