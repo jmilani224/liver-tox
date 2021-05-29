@@ -22,39 +22,66 @@ const Main = ({ medArray }) => {
                     How Simple LiverTox Works
                 </Box>
 
-                <SearchIcon
-                    color="brand.darkBlue"
-                    bgColor="brand.lightestBlue"
-                    borderRadius="50%"
-                    h={10}
-                    w={10}
-                    p="10px"
-                />
-                <BigText text="1. Search for a Medication" />
-                <LittleText text="Automatically retrieve the hepatotoxicity section from the LiverTox ebook at www.ncbi.nlm.nih.gov." />
+                <Flex
+                    mt={6}
+                    direction="column"
+                    alignItems="center"
+                >
+                    <Box
+                        borderRadius="50%"
+                        p={1}
+                        bgColor="brand.lightestBlue"
+                    >
+                        <SearchIcon
+                            color="brand.darkBlue"
+                            h={10}
+                            w={10}
+                            p="10px"
+                        />
+                    </Box>
+                    <BigText text="1. Search for a Medication" />
+                    <LittleText text="Automatically retrieve the hepatotoxicity section from the LiverTox ebook at www.ncbi.nlm.nih.gov." />
+                </Flex>
+                <Flex
+                    mt={4}
+                    direction="column"
+                    alignItems="center"
+                >
+                    <Box
+                        borderRadius="50%"
+                        p={3}
+                        bgColor="brand.lightestBlue"
+                    >
+                        <ExternalLinkIcon
+                            color="brand.darkBlue"
+                            h={6}
+                            w={6}
+                        />
+                    </Box>
 
-                <ExternalLinkIcon
-                    color="brand.darkBlue"
-                    bgColor="brand.lightestBlue"
-                    borderRadius="50%"
-                    h={10}
-                    w={10}
-                    p="10px"
-                />
-                <BigText text="2. Review the Results" />
-                <LittleText text="Add or remove medications as needed, or visit the relevant LiverTox ebook page for more information." />
+                    <BigText text="2. Review the Results" />
+                    <LittleText text="Add or remove medications as needed, or visit the relevant LiverTox ebook page for more information." />
+                </Flex>
+                <Flex
+                    mt={4}
+                    direction="column"
+                    alignItems="center"
+                >
+                    <Box
+                        borderRadius="50%"
+                        p={2}
+                        bgColor="brand.lightestBlue"
+                    >
+                        <ClipBoardIconNoToolTip
+                            w={8}
+                            h={8}
+                            color="brand.darkBlue"
 
-                <ClipBoardIconNoToolTip
-                    w={10}
-                    h={10}
-                    p={2}
-                    bgColor="brand.lightestBlue"
-                    borderRadius="50%"
-                    color="brand.darkBlue"
-
-                />
-                <BigText text="3. Copy to Clipboard" />
-                <LittleText text="Click the clipboard icon and a list of drug names and hepatotoxicity info can easily be pasted into patient charts." />
+                        />
+                    </Box>
+                    <BigText text="3. Copy to Clipboard" />
+                    <LittleText text="Click the clipboard icon and a list of drug names and hepatotoxicity info can easily be pasted into patient charts." />
+                </Flex>
             </Flex>
         )
     }
