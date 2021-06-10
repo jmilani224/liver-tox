@@ -19,7 +19,7 @@ const Main = ({ medArray }) => {
                     color="brand.darkBlue"
                     fontSize="1.5rem"
                 >
-                    How Simple LiverTox Works
+                    How to Use Simple LiverTox
                 </Box>
 
                 <Flex
